@@ -43,4 +43,9 @@ Row of the printed GLMM results table (Table 3) showing the Condition × Rereadi
 
 
 ## Related Claims
--
+
+- [Consistency condition was significant in all GLMM models, with higher consistency judgement accuracy for consistent than inconsistent texts](consistency-condition-significant-all-models.md)
+- [First-pass reading measures at the target word showed no main effect on inconsistency identification, and lookbacks from the target word were associated with lower accuracy in consistent texts](first-pass-target-word-no-effect-lookbacks-consistent.md)
+- [Overall reading time did not differ between consistent and inconsistent texts, but participants judged consistent texts more accurately (d = 0.84), indicating inconsistencies were more often overlooked than falsely perceived](overlooking-inconsistencies-accuracy-asymmetry.md)
+- [Reanalysis of the inconsistent target word (longer rereading time and higher revisit probability) is associated with higher consistency judgement accuracy in inconsistent texts, but not in consistent texts](target-word-reanalysis-predicts-inconsistency-identification.md)
+- [Longer first-pass reading time at the final word of the target sentence was negatively associated with consistency judgement accuracy](sentence-final-first-pass-time-negative-accuracy.md)

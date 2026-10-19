@@ -43,4 +43,5 @@ The digest argues, citing Kohn (1993), that "most praise is tantamount to verbal
 
 
 ## Related Claims
--
+
+- [Rewards cause people to lose interest in whatever they were rewarded for doing, undermining intrinsic motivation](rewards-undermine-intrinsic-interest.md)

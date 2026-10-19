@@ -17,7 +17,7 @@ sources:
 # AI risk management should build students' ability to understand, manage, and respond to AI-related risks, not only reduce perceived risks
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Based on the finding that risk perception is not uniformly detrimental—security risk perception positively predicted academic and skill benefits and threshold analysis showed positive effects above critical levels—the article recommends that universities and related stakeholders act so that "AI risk management should not only focus on reducing perceived risks but also on improving students' ability to understand, manage, and respond to AI-related risks". This shifts interventions from risk suppression toward risk literacy and coping capacity.
@@ -39,8 +39,13 @@ Based on the finding that risk perception is not uniformly detrimental—securit
 ### Affordances
 - Cat Pmt Tam Risk Benefit Framework Gen Ai
 
+## Claims
+
+- [Security and technical risk perception exhibit threshold effects on perceived benefits, with positive associations becoming significant only above critical risk levels](../claims/risk-perception-threshold-effects.md) [~W]
+
 ## Related Strategies
-- 
+
+- [Manage ethical risks of AI-driven TEFL tools through data protection policies, fairness audits, human oversight, and balanced-use design](ethical-safeguards-ai-tefl-tools-strategy.md)
 
 ## Examples
 -

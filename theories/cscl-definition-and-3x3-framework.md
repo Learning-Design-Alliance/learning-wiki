@@ -48,6 +48,7 @@ The presentation situates intelligence augmentation within the field of computer
 ## Examples
 
 - [Engage stakeholders in participatory design and research for AI-augmented collaborative learning](../strategies/participatory-design-ia-collaborative-learning.md)
+- [ISLS webinar video collection for learning sciences and CSCL education](../products/isls-webinar-video-collection-for-learning-sciences-and-cscl-education.md)
 
 ## Key Sources
 - Roschelle J. (2021). Intelligence Augmentation for Collaborative Learning. In: Sottilare R.A., Schwarz J. (eds) Adaptive Instructional Systems. Design and Evaluation. HCII 2021. Lecture Notes in Computer Science, vol 12792. Springer, Cham. https://doi.org/10.1007/978-3-030-77857-6_17

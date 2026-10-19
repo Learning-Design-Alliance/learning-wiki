@@ -41,7 +41,8 @@ The Educational Design Research Studio (EDRS) is a technology-rich space, equipp
 - 
 
 ## Related Designs
-- 
+
+- [HP Learning Studio at Anaheim High School](hp-learning-studio-anaheim-high-school.md)
 
 ## Examples
 -

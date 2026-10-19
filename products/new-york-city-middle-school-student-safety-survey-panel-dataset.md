@@ -32,7 +32,8 @@ A panel dataset compiled from New York City Department of Education middle-schoo
 - [The association between feeling unsafe and test scores holds across multiple robustness checks](../claims/feeling-unsafe-test-score-robustness-checks.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [California Healthy Kids Survey (CHKS)](california-healthy-kids-survey-chks.md)
 
 ## Key Sources
 - Johanna Lacoe. (2020). Too Scared to Learn? The Academic Consequences of Feeling Unsafe in the Classroom. Urban Education, vol. 55, issue 10. https://www.mathematica.org/publications/too-scared-to-learn-the-academic-consequences-of-feeling-unsafe-in-the-classroom

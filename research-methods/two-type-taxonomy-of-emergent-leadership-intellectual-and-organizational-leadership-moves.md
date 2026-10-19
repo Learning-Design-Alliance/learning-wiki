@@ -26,7 +26,8 @@ The article adapts the Li et al. (2007) coding scheme to distinguish two types o
 - [Some groups had an intellectual leader without an organizational leader, but no group had an organizational leader without an intellectual leader](../claims/intellectual-leader-without-organizational-leader.md) [+M]
 
 ## Related Research Methods
--
+
+- [Taxonomy of teacher intervention types during “making rounds” in computer-based collaborative learning](taxonomy-of-teacher-intervention-types-during-making-rounds-in-computer-based-collaborativ.md)
 
 ## Key Sources
 - E. M. Mercier, S. E. Higgins, Laura da Costa. (2014). Different leaders: Emergent organizational and intellectual leadership in children's collaborative learning groups. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-014-9201-z

@@ -43,4 +43,6 @@ Review examination of study characteristics regarding participant age. The revie
 
 
 ## Related Claims
--
+
+- [Greater SLD stigma is generally associated with less optimal psychological adjustment (anxiety, depression, coping, self-efficacy, quality of life), though most associations could not be meta-analytically pooled](sld-stigma-psychological-adjustment-broader.md)
+- [Greater SLD stigma is associated with lower self-esteem, with a pooled medium-sized correlation (r = −.39) across nine effect sizes from six studies](sld-stigma-self-esteem-pooled-r-negative-39.md)

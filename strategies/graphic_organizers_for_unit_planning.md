@@ -72,10 +72,12 @@ Unit-level organizers function as [Advance Organizers](../elements/advance-organ
 5. Use the completed organizer for review, or have learners reconstruct it from memory as a retrieval activity.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the organizer anchors new lessons to what learners already know
 - [Advance Organizers](../elements/advance-organizers.md) — the general element this strategy instantiates at unit scale
 - [Chunking Content](../strategies/chunking-content.md) — the organizer defines the chunks; each lesson is one chunk within a visible whole
 - [Backward Design](../methods/backward-design.md) — planning the organizer is a natural byproduct of designing the unit around its essential questions and assessments
+- [Provide concept maps and hypermaps so learners see conceptual relationships and their own location in the system](concept-maps-hypermaps-navigation-support.md)
 
 ## Examples
 - A science teacher opens a unit on the scientific method with a flowchart of investigation stages, returning to it to mark each stage as lessons progress.

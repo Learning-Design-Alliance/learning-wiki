@@ -43,4 +43,6 @@ Pearson correlation analysis in the same 1171-adolescent survey. The article rep
 
 
 ## Related Claims
--
+
+- [Adolescents' empathy is significantly positively correlated with prosocial behavior (r = 0.333)](empathy-prosocial-behavior-positive-correlation-adolescents.md)
+- [Social support is significantly positively correlated with adolescents' prosocial behavior (r = 0.206)](social-support-prosocial-behavior-positive-correlation.md)

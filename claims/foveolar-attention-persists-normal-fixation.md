@@ -43,4 +43,6 @@ Experiment 4 repeated the Experiment 3 discrimination task with normal fixation 
 
 
 ## Related Claims
--
+
+- [Covert attention enhances fine spatial discrimination (orientation d′) within the foveola with high selectivity across 20′ separations](covert-attention-enhances-foveolar-discrimination.md)
+- [Detection is slower for targets within the foveola than in the parafovea despite equal detectability](foveolar-detection-slower-than-parafoveal.md)

@@ -43,4 +43,6 @@ Qualitative analysis of Callie's response to Józefów Document A, in which she 
 
 
 ## Related Claims
--
+
+- [Imagining (imagined past self) may give learners a greater feeling of entry into a historical situation than hypothesizing](imagined-past-self-greater-entry.md)
+- [The now-self functions as an anchor in HPT: participants began in now-self and frequently returned to it](now-self-anchors-hpt.md)

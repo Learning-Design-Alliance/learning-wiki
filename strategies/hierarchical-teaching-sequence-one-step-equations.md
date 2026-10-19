@@ -40,6 +40,7 @@ The article recommends that mathematics educators sequence instruction by elemen
 ## Related Strategies
 
 - [A five-question research agenda for one-step equation learning and instruction](one-step-equations-research-agenda.md)
+- [Scaffolded Problem Sequencing](scaffolded-problem-sequencing.md)
 
 ## Examples
 -

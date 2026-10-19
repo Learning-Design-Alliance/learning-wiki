@@ -40,6 +40,7 @@ The article recommends that computing instructors treat GenAI content creation l
 - [Use generative AI as a no-code development tool so instructors can design laboratory software around their own pedagogical objectives](ai-nocode-lab-software-development.md)
 - [Engage students in active learning assignments using generative AI with structured reflection and critique of AI outputs](active-genai-assignments-structured-reflection.md)
 - [Generative-AI-assisted content creation with domain-expert validation for adaptive tutoring systems](genai-assisted-content-creation-expert-validation.md)
+- [Three instructor practices for introducing AI agents in SDPBL: foundation-first tutorials, continuous monitoring with timely intervention, and accountability for AI-generated code](three-instructor-practices-ai-agents-sdpbl.md)
 
 ## Examples
 -

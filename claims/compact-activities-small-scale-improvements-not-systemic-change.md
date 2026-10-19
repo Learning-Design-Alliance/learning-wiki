@@ -51,3 +51,4 @@ Perception-based findings from interviews and site visits conducted for the dist
 - [Inquiry environments are hard to scale because they are ambitious learning activity systems requiring changes in roles, participation, and system coherence](inquiry-environments-ambitious-systems-hard-to-scale.md) — related
 - [Colorado uses a local-first, state-supported model in which districts and local providers initiate cross-sector work and state policy scales successful innovations](colorado-local-first-state-supported-model.md) — related
 - [CSCL initiatives have produced sustainable educational change at classroom, school, and school-system levels](cscl-sustainable-change-three-levels.md) — reports the opposite
+- [Most respondents found grant training useful, applied the information in their school, and shared it with others](grant-training-useful-applied-shared.md)

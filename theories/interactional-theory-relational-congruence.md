@@ -45,7 +45,10 @@ Interactional theory (attributed to Strong, 1982, and Claiborn & Lichtenberg, 19
 - 
 
 ## Examples
--
+
+- [Conduct admissions as a gradual therapeutic process examining needs, forming relationships, involving supports, and celebrating arrival](../strategies/gradual-therapeutic-admission-strategy.md)
+- [Admission structured as a rite of passage combining rituals and constructivist therapy](../designs/admission-as-rite-of-passage-pattern.md)
+- [Care-Giver Primacy as a worker stance for meeting new youths' needs](../elements/care-giver-primacy.md)
 
 ## Key Sources
 - Wettersten, Kara B.; Lichtenberg, James W. (1995). Relationship Formation and Change in Psychotherapy: An Analysis of Cases. https://eric.ed.gov/?id=ED386668

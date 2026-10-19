@@ -37,7 +37,8 @@ For multi-label coding with large hierarchical codebooks, the article recommends
 - Establishing truthful, granularity-sensitive intercoder reliability evidence for multi-label coding instruments
 
 ## Related Strategies
-- 
+
+- [Use two researchers as independent instruments for interpretation instead of one researcher confirming the other's reliability](two-researchers-independent-interpretive-instruments.md)
 
 ## Examples
 -

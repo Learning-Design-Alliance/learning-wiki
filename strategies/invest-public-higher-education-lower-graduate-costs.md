@@ -39,6 +39,7 @@ The brief's closing recommendation is that policymakers address graduate afforda
 ## Related Strategies
 
 - [Federal policy package to end the student debt crisis for Black women: cancel debt, improve IDR, and double the Pell Grant](cancel-debt-improve-idr-double-pell-black-women.md)
+- [Policy package to ease Parent PLUS burdens: targeted cancellation, full IDR/PSLF access, lower rates, and affordable alternatives](parent-plus-relief-policy-package.md)
 
 ## Examples
 -

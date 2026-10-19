@@ -34,7 +34,8 @@ Bright Beginnings is a child-centered, literacy-focused preschool curriculum dev
 - [Parent Involvement Improves Early Reading](../claims/parent-involvement-improves-early-reading.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Parenting Relationship Questionnaire—Preschool Form (PRQ) involvement subscale](parenting-relationship-questionnairepreschool-form-prq-involvement-subscale.md)
 
 ## Key Sources
 - U.S. Department of Education, Institute of Education Sciences, What Works Clearinghouse. (2013, March). Early Childhood Education intervention report: Bright Beginnings. https://ies.ed.gov/ncee/wwc/InterventionReport/57

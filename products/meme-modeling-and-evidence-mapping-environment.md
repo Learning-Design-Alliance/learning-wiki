@@ -26,7 +26,10 @@ A networked collaborative modeling environment developed by Zhou et al. for elem
 - [Collaboration was sustained after both direct and soft disagreements, with no rude behaviors observed](../claims/collaboration-sustained-after-disagreements.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [KP-Lab](kp-lab.md)
+- [KBDeX (Knowledge Building Discourse Explorer)](kbdex-knowledge-building-discourse-explorer.md)
+- [Gephi](gephi.md)
 
 ## Key Sources
 - Zhou, J., Hmelo-Silver, C. E., Ryan, Z., Stiso, C., Murphy, D., Danish, J., Chinn, C. A., & Duncan, R. G. (2025). Disagreeing softly: Supporting students in managing disagreement in peer critique. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-024-09438-z

@@ -43,4 +43,7 @@ Logistic regression (snack delay, Model 3, N = 52, χ2(2) = 18.27***) showed han
 
 
 ## Related Claims
--
+
+- [Older two- and three-year-olds have lower odds of failing delay-of-gratification tasks](age-predicts-toddler-delay-task-success.md)
+- [Probability of visual attention distraction, alone or combined with hands withholding, prevails after about 10–30 seconds of delay](time-course-distraction-withholding-prevails-after-10-30s.md)
+- [Percentage of time distracting visual attention away from the reward predicts success on delay-of-gratification tasks in two- and three-year-olds](visual-attention-distraction-predicts-toddler-delay-success.md)

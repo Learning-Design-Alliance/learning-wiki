@@ -43,6 +43,7 @@ The article recommends that educational institutions strengthen teacher confiden
 - [Faculty professional development treating AI literacy as core professionalism with critical, ethical, and pedagogical emphasis](ai-literacy-pd-critical-ethical-pedagogical.md)
 - [Support faculty UDL uptake through shared resources, discussion forums, responsive accessibility services, and recognition of accessible design work](institutional-support-for-faculty-udl.md)
 - [Treat refusal diagnostically and provide non-AI pathways where AI use is not essential to the learning outcome](non-ai-pathways-and-diagnostic-refusal.md)
+- [Integrate structured opportunities for critical engagement with AI into teacher education programs](structured-critical-ai-engagement-teacher-education.md)
 
 ## Examples
 -

@@ -43,4 +43,10 @@ Linear mixed effects models on 8,859 MCS children tested ACE scores against log-
 
 
 ## Related Claims
--
+
+- [ACE scores show a graded positive association with externalizing behavior trajectories, the strongest of the three outcomes](ace-score-graded-externalizing-trajectories.md)
+- [ACE scores show a graded positive association with internalizing behavior trajectories from age 3 to 14](ace-score-graded-internalizing-trajectories.md)
+- [Harsh parenting and physical punishment show the strongest individual-ACE associations with externalizing behavior](harsh-parenting-physical-punishment-externalizing.md)
+- [Latent class analysis failed to discriminate ACE clusters in the Millennium Cohort Study data](lca-failed-discriminate-ace-clusters.md)
+- [ACE-outcome associations did not differ between girls and boys](no-gender-differences-ace-associations.md)
+- [Parental discord and parental depression show the strongest individual-ACE associations with internalizing behavior](parental-discord-depression-internalizing.md)

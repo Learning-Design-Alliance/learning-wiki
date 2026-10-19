@@ -59,9 +59,11 @@ Pairing emotions with color draws on dual coding — representing a concept in b
 5. **[Practice](../elements/practice.md) over time:** repeat as a recurring check-in so the color–emotion associations become an automatic self-monitoring tool rather than a one-off activity.
 
 ## Related Strategies
+
 - [Feelings Check-In](../strategies/feelings_check-in.md) — the color key gives check-ins a concrete, low-verbal format
 - [Art Journaling](../strategies/art_journaling.md) — a sustained format in which color-coded emotional expression accumulates over time
 - [Emotion Vocabulary Building](../strategies/emotion_vocabulary_building.md) — the color mapping anchors new feeling words to visual referents
+- [Apply color guidelines for attention, coding and cultural appropriateness in mLearning content](color-guidelines-for-mlearning-content.md)
 
 ## Examples
 - **Zones of Regulation (Kuypers, 2011)** — a widely used curriculum that sorts feelings and arousal states into four color-coded zones (blue, green, yellow, red); learners identify their zone by color throughout the school day (https://www.zonesofregulation.com).

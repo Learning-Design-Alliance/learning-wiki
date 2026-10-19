@@ -74,6 +74,9 @@ Self-directed learning is not discovery learning: the strategies that make indep
 - [Train learners in sycophancy-specific critical prompting strategies that remove personal assumptions, request critical evaluation, and ask for supporting evidence](sycophancy-specific-critical-prompting-strategies.md)
 - [Provide opportunities for independent practice with repeated cycles of use and structured reflection to strengthen regulatory skills over time](independent-practice-cycles-for-ai-regulation.md)
 - [Support metacognitive awareness by providing time and place for reflection, regulation-practice tasks, and profile-sensitive support](profile-sensitive-metacognitive-support-strategy.md)
+- [Indirect training: prompting metacognitive regulation in regular subject classes to promote transfer across contexts](indirect-training-prompted-metacognitive-regulation.md)
+- [Classroom strategies to develop metacognition: reflective questions, decision diagrams, thinking aloud, reflective dialogue, and metacognitive argumentation](metacognition-classroom-strategies-set.md)
+- [Teach problem-solving and study planning skills explicitly linked to language arts, science, and social studies standards](standards-linked-problem-solving-study-planning-instruction.md)
 
 ## Related Elements
 - [Think-Aloud](../elements/think-aloud.md) — how teachers make self-regulatory decisions visible

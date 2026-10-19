@@ -27,7 +27,8 @@ A paper-and-pencil, group-administered assessment developed by Jacobse et al. th
 - [The VisA instrument and think-aloud measure converge moderately and each contributes unique predictive variance for word problem solving](../claims/visa-think-aloud-moderate-overlap-unique-variance.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [SYMP Test](symp-test.md)
 
 ## Key Sources
 - Jacobse, A. E., & Harskamp, E. G. (2012). Towards efficient measurement of metacognition in mathematical problem solving. Metacognition and Learning. https://doi.org/10.1007/s11409-012-9088-x

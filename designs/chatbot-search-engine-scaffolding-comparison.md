@@ -17,7 +17,7 @@ sources:
 # Scaffolding-perspective comparison of chatbots and search engines as technological scaffolds for problem posing
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article frames chatbots and search engines as two distinct forms of technological scaffolding for problem-based inquiry, taking interaction mode as its entry point. It contrasts them by stating that "chatbots emphasize bidirectional interaction by engaging students in sustained natural language dialogue and adjusting feedback in response to students’ input", whereas search engines center on keyword query input and result selection oriented toward unidirectional information retrieval. From this, chatbots are expected to provide dynamic and contingent cognitive and metacognitive scaffolding, while search engines mainly provide resource-level support with conceptual and procedural attributes. The study uses this framework to motivate its experimental comparison of the two tools.
@@ -37,10 +37,12 @@ The article frames chatbots and search engines as two distinct forms of technolo
 - Generating and refining scientific questions during inquiry-based learning
 
 ### Claims
-- 
+
+- [Student chatbot queries were overwhelmingly task-oriented initial inquiries, dominated by definition requests and pasted assignment questions rather than iterative critique](../claims/initial-inquiry-dominates-chatbot-question-types.md) [~W]
 
 ## Related Designs
-- 
+
+- [Custom-built online waves module with simulations integrated with a chatbot](waves-module-simulations-integrated-chatbot.md)
 
 ## Examples
 -

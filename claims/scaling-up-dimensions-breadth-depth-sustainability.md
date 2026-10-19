@@ -43,4 +43,5 @@ Conceptual analysis drawing on scaling-up research (Dede and Honan 2005). The ar
 
 
 ## Related Claims
--
+
+- [Teachers who focused on knowledge-building principles showed deeper understanding than those focused on surface procedures or technical aspects](principle-focused-teachers-deeper-understanding.md)

@@ -17,7 +17,7 @@ sources:
 # Teach introductory physics with Just-in-Time Teaching, a student-centered, interactive-engagement style, to improve conceptual understanding of Newtonian concepts
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Just-in-Time Teaching (JiTT) is described in the article as "a student-centered, interactive-engagement style" of teaching an introductory physics course, contrasted with traditional lecture. The article used it as the instructional treatment whose students' Newtonian conceptual understanding was then measured with the Force Concept Inventory before and after instruction across five semesters.
@@ -36,8 +36,15 @@ Just-in-Time Teaching (JiTT) is described in the article as "a student-centered,
 ### Target Learning Goals
 - understanding Newtonian concepts such as Newton's Third Law
 
+## Claims
+
+- [The authors conclude that students in Just-in-Time Teaching courses better understand Newton's Third Law after instruction than students in traditional lecture courses](../claims/jitt-better-newtons-third-law-understanding.md) [+M]
+- [Introductory physics students taught with Just-in-Time Teaching showed larger overall Force Concept Inventory gains (37.6%±2.0%) than students in traditional lecture courses (17.9%±2.5%)](../claims/jitt-larger-fci-gains-than-lecture.md) [+M]
+- [On Newton's Third Law questions specifically, Just-in-Time Teaching students gained 50.8%±4.1% while traditional lecture students gained only 6.6%±5.2%](../claims/jitt-newtons-third-law-question-gains.md) [+M]
+
 ## Related Strategies
-- 
+
+- [Just In Time Teaching](just-in-time-teaching.md)
 
 ## Examples
 -

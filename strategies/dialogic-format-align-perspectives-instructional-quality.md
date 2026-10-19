@@ -38,7 +38,10 @@ Because teachers and students focus on different aspects of instruction — stud
 - developing a shared school-level understanding of mathematics instructional quality
 
 ## Related Strategies
-- 
+
+- [Explicitly Discuss Different Perspectives](explicitly_discuss_different_perspectives.md)
+- [Dialogic Facilitation of Statistical Modeling Practice](dialogic-facilitation-of-statistical-modeling-practice.md)
+- [Use empathy interviews as a natural, informal conversation to uncover students' experiences, emotions, and unmet needs in mathematics learning](empathy-interviews-uncover-student-experiences.md)
 
 ## Examples
 -

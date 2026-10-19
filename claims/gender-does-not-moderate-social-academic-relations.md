@@ -46,6 +46,8 @@ Nine HLM interaction analyses regressing each academic outcome onto one social p
 - [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs by group
 
 ## Related Claims
+
 - [Bivariate correlations between social functioning and academic development are in the predicted direction but modest in strength](bivariate-social-academic-correlations-modest.md) — related
 - [Ethnicity moderates several social-functioning–academic relationships, which are stronger for African American than Caucasian children](ethnicity-moderates-social-academic-relations.md) — related
 - [Fitness–attention relationships are stronger in boys than girls, with higher explained variance in boys' regression models](gender-moderates-fitness-attention-links.md) — related
+- [Gender, achievement-measure objectivity, and education stage did not moderate the burnout–achievement relationship](no-moderation-gender-objectivity-stage.md)

@@ -43,4 +43,6 @@ Narrative synthesis of the four GWAS for years spent in education: discovery sam
 
 
 ## Related Claims
--
+
+- [Polygenic scores show a meta-analytic association of ρ = 0.24 with educational achievement](pgs-educational-achievement-rho-24-meta.md)
+- [Polygenic scores based on the Lee et al. (2018) GWAS show a meta-analytic association of ρ = 0.27 with educational attainment](pgs-educational-attainment-rho-27-meta.md)

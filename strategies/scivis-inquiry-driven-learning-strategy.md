@@ -17,7 +17,7 @@ sources:
 # Use scientific visualization to link the aims of education to the practices of science through exploratory, inquiry-driven learning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article culminates in a recommendation that education adopt scientific visualization as a means "to provide education with an important new inscriptional system for exploratory, inquiry-driven learning and to link the aims of education to the practices of science." This positions visualization tools as vehicles for inquiry-oriented science instruction rather than as presentation aids.
@@ -39,8 +39,13 @@ The article culminates in a recommendation that education adopt scientific visua
 ### Affordances
 - Scientific Visualization Inscriptional System
 
+## Claims
+
+- [Digital network mapping tools support students in critically selecting and reviewing online data on socio-scientific controversies](../claims/gephi-mapping-supports-critical-data-review.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Science Through Inquiry](science_through_inquiry.md)
 
 ## Examples
 -

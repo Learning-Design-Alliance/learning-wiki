@@ -62,4 +62,5 @@ Self-report survey (Table 1, n = 162) asking three preparation questions, groupe
 
 
 ## Related Claims
--
+
+- [JiTT implementation was associated with a decreased DFW rate in Contemporary Biology, from 27% to 20%](jitt-decreased-dfw-rate-n100.md)

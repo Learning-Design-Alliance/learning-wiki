@@ -62,6 +62,7 @@ Within the Follow-Up Inquiry macro-category (26.4%, n = 746), the most common be
 
 
 ## Related Claims
+
 - [Shallow, copy-pasting engagement occurred but was not the dominant mode of GenAI Tutor use, and was lowest during exam preparation](shallow-engagement-not-dominant-mode.md) — reports the opposite
 - [Growing Achievers used StatBot significantly more than Declining Performers, driven mainly by initiating new inquiries](growing-achievers-out-use-declining-performers.md) — related
 - [Telegram-based chatbot use declined after initial novelty, with platform friction cited as a barrier](telegram-chatbot-use-declined-novelty-platform-friction.md) — related
@@ -73,3 +74,4 @@ Within the Follow-Up Inquiry macro-category (26.4%, n = 746), the most common be
 - [Students' GenAI prompts overwhelmingly exact-copy instructions and request information rather than review](genai-prompts-exact-copy-and-information-requests.md) — possibly the same claim (merge candidate)
 - [Students rated the LLM-based assignments as useful, challenging, engaging, and enjoyable at both the first and fifth iterations, with no significant change across the semester](positive-affective-responses-llm-assignments.md) — related
 - Assessment/Evaluation was the most common use of AIEd in higher education, with automatic assessment in 26 studies — related
+- [Technologically oriented help requests comprised 11.5% of requests and declined steeply from the first to the last post-experiment activity](tech-help-requests-steep-decline-across-activities.md)

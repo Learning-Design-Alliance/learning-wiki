@@ -94,6 +94,7 @@ RP improves climate and can reduce exclusionary discipline, but effects on acade
 - [Adopt positive, restorative discipline approaches and ban harmful exclusionary practices](restorative-discipline-ban-harmful-practices.md)
 - [Build safety and belonging by detracking, offering low-barrier extracurriculars, and implementing restorative approaches in place of exclusionary discipline](restorative-inclusive-safety-structures.md)
 - [Use a decision-maker checklist to assess and reform discipline data, policies, and school climate](school-climate-reform-checklist-for-decision-makers.md)
+- [Use educative and restorative behavior supports rather than punitive and exclusionary discipline](restorative-educative-behavior-supports-gateway.md)
 
 ## Examples
 - **Oakland Unified School District (CA)** — whole-school RP adoption since 2010 with a dedicated Office of Restorative Justice; associated with reduced suspensions for African American students in district reports ([ousd.org/restorative-justice](https://www.ousd.org/restorative-justice)).

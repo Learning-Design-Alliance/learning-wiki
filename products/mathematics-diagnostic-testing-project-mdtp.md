@@ -26,7 +26,8 @@ MDTP is a mathematics diagnostic assessment project that provides topic-level ma
 - [MDTP scores on five of seven topics significantly predict grade 8 algebra I proficiency after controlling for grade 6 CST scale score](../claims/mdtp-topic-scores-predict-algebra-proficiency.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [MDTP Algebra Readiness test](mdtp-algebra-readiness-test.md)
 
 ## Key Sources
 - Chun-Wei Huang, Jason Snipes, Neal Finkelstein, WestEd. (2016). Using assessment data to guide math course placement of California middle school students. SREE Spring 2016 Conference. https://www.sree.org

@@ -43,8 +43,11 @@ Country categorization of all 183 publications by author affiliations shows "73%
 
 
 ## Related Claims
+
 - The global literature on ChatGPT in higher education is concentrated in high-income countries and mostly non-empirical: of 69 included studies, 53 (77%) were from HICs and only 19 (27%) were based on empirical data. — related
 - [AI-motivation research is geographically and educationally concentrated: over half of reviewed studies were conducted in China and most in higher education](ai-motivation-research-china-higher-ed-concentration.md) — related
 - [Teacher-AI co-design research is concentrated in teacher education and higher education, while secondary and primary education settings remain relatively underdeveloped](k12-underrepresented-teacher-ai-codesign-research.md) — related
 - [Virtual patient effectiveness evidence comes from both high-income and low- and middle-income countries](vp-effectiveness-global-applicability.md) — related
 - [The most prolific citing authors of the journal are Chin-Chung Tsai (128 publications) and Fred Paas (102); Utrecht University leads institutions with 335; the United States leads countries with 6,921 citing articles](leading-citing-authors-institutions-countries-instructional-science.md) — related
+- [AI-STEM research concentrated in higher education, technology and science content, lecture-based instruction, and face-to-face contexts](ai-stem-distribution-higher-ed-lecture-face-to-face.md)
+- [China has overtaken the US as the leading producer of AIEd higher education publications](china-overtakes-us-ai-ed-he-publications.md)

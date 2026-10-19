@@ -40,7 +40,8 @@ The article's implications section recommends that researchers "be principled in
 - [Data Mining Versus Traditional Statistics Framework](../theories/data-mining-versus-traditional-statistics-framework.md)
 
 ## Related Strategies
-- 
+
+- [Diversify AIED: use diverse technologies, address big problems, and reuse existing resources rather than reinventing content](aied-diversify-technologies-big-problems-existing-resources.md)
 
 ## Examples
 -

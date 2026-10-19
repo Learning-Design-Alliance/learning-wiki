@@ -29,7 +29,8 @@ A longitudinal student-level dataset assembled by Ira Nichols-Barrer and colleag
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Multi-site longitudinal student-level charter school dataset covering eight states and cities](multi-site-longitudinal-student-level-charter-school-dataset-covering-eight-states-and-cit.md)
 
 ## Key Sources
 - Ira Nichols-Barrer, Brian P. Gill, Philip Gleason, Christina Clark Tuttle. (2012). Student Selection, Attrition, and Replacement in KIPP Middle Schools. Working Paper 11. Washington, DC: Mathematica Policy Research. https://www.mathematica.org/publications/student-selection-attrition-and-replacement-in-kipp-middle-schools

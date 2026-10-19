@@ -13,7 +13,7 @@ generated:
 # Alelo VCAT Virtual Cultural Awareness Trainers with multi-role Virtual Coach
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Alelo's VCAT software systems teach cultural knowledge and intercultural interaction through simulated encounters with virtual role-players supported by a fading virtual coach.
@@ -22,6 +22,8 @@ Alelo's VCAT software systems teach cultural knowledge and intercultural interac
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
+- [Pedagogical agents as coaches and tutors are most useful with novice learners, while virtual role-players benefit learners across expertise levels](../claims/agents-most-effective-novice-learners.md) [+W]
 
 ## Related Products and Programmes
 -

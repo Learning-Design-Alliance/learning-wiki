@@ -37,7 +37,15 @@ Teachers in the evaluation offered concrete suggestions for improving the profes
 - fidelity of implementation of transmedia literacy and mathematics curriculum
 
 ## Related Strategies
+
 - Tec Summer Learning Program Curriculum
+- [Use cross-sector collaborative tasks (classroom observation, operations alignment, curriculum development) as vehicles for educator professional development](cross-sector-collaborative-tasks-for-educator-pd.md)
+- [Layered implementation support: initial on-site training plus follow-up modeling, observations, coaching, and monthly virtual sessions](bridge-to-reading-layered-implementation-support.md)
+- [Brief initial training with extensive follow-up coaching and on-site facilitation for whole-school program implementation](brief-initial-training-extensive-coaching-facilitation.md)
+- [Implement Reading Edge with two days of initial teacher training plus monthly in-class coaching and peer support structures](reading-edge-training-coaching-rollout.md)
+- [Layered implementation support for teachers adopting a new science curriculum: preservice training, follow-up training, and a science coach](layered-teacher-implementation-support-science-curriculum.md)
+- [Multi-format professional learning for curriculum implementation (on-site, virtual, blended, coaching)](stemscopes-multi-format-professional-learning.md)
+- [Support curriculum implementation with initial multi-day training plus ongoing onsite consultation during the school year](training-plus-onsite-consultation-support.md)
 
 ## Examples
 -

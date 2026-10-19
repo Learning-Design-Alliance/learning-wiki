@@ -43,4 +43,6 @@ The paper's second stated argument, from close analysis of teacher-pupil episode
 
 
 ## Related Claims
--
+
+- [Pupils often neglected the caption box although they were aware of it, displaying a divergent orientation to the teacher's aims](pupil-divergent-orientation-caption-box.md)
+- [During collaborative learning with computers, teachers' concerns of classroom management and pedagogy are typically intertwined](teacher-management-pedagogy-intertwined.md)

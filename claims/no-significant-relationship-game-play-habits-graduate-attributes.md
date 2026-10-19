@@ -43,4 +43,6 @@ Cross-sectional online survey of 2145 students at a single Scottish university (
 
 
 ## Related Claims
--
+
+- [Non-players generally score better than players on graduate attribute measures, though the difference is very small](non-players-score-better-than-players-graduate-attributes.md)
+- [Playing games in a variety of modes (local and online multiplayer; cooperative and team-based) is associated with higher adaptability and communication scores](variety-of-play-modes-higher-adaptability.md)

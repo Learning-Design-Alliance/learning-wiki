@@ -50,6 +50,7 @@ The brief argues educators need skills to create culturally affirming environmen
 - [Six recommendations for school and district leaders to create equitable SEAD learning environments](six-recommendations-equitable-sead.md)
 - [Diversify the educator workforce through Grow Your Own programs, scholarships, and retention supports](diversify-educator-workforce-grow-your-own.md)
 - [Adopt positive, restorative discipline approaches and ban harmful exclusionary practices](restorative-discipline-ban-harmful-practices.md)
+- [Implement anti-bias curricular models with four goals to build culturally relevant, strength-based classrooms](anti-bias-curriculum-four-goals-strategy.md)
 
 ## Examples
 -

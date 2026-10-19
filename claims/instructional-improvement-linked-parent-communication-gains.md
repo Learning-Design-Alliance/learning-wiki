@@ -62,6 +62,8 @@ Same longitudinal analysis (Figures 12 and 13). Schools where teachers reported 
 
 
 ## Related Claims
+
 - [Chicago high school teachers reported better communication and more positive relationships with parents in 1997 than in 1994](teacher-parent-communication-improved-1994-1997.md) — related
 - [Schools enlisted all staff, including non-instructional staff, as communication resources, opening additional school-family channels](all-staff-family-communication-channels.md) — related
 - [Program content focused on instruction, collegial organizations, and data use is associated with positive school outcomes](principal-program-content-instruction-collegial-data.md) — related
+- [Teachers' effectiveness increases at a greater rate in supportive, collegial working environments and when they accumulate experience in the same grade level, subject, or district](experience-gains-greater-in-supportive-environments.md)

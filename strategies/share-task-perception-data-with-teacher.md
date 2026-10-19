@@ -17,7 +17,7 @@ sources:
 # Share students' task perception data with teachers to enable targeted support during collaborative tasks
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The authors propose extending the situational task perception data collected in this study to teachers: "Perhaps the teacher could already, prior to the task or during the task, identify the students or collaborating groups who struggle with the task and then provide targeted support for the students." This builds on the finding that task difficulty and understanding ratings can be captured unobtrusively with technology-enhanced learning environments and mobile tools.
@@ -35,6 +35,10 @@ The authors propose extending the situational task perception data collected in 
 
 ### Target Learning Goals
 - regulation of learning during collaborative tasks
+
+## Claims
+
+- [Teachers used student perception data to shift lesson design, modify norms, and target personalized intervention, but heavy workload inhibited data integration](../claims/perception-data-use-and-workload-barrier.md) [+W]
 
 ## Related Strategies
 - 

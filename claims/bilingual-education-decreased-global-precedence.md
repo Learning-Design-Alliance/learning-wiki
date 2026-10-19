@@ -43,4 +43,5 @@ Same two-group comparison of Dutch high-school students on the global–local sw
 
 
 ## Related Claims
--
+
+- [Bilingually educated high-school students show smaller switching costs (greater cognitive flexibility) than regularly educated peers](bilingual-education-smaller-switching-costs.md)

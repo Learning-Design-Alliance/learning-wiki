@@ -43,4 +43,7 @@ The review's synthesis of technological findings covers 24 articles. Examples in
 
 
 ## Related Claims
--
+
+- [Most reviewed studies reported significantly positive AI effects on STEM learning performance, with two null results](ai-positive-learning-performance-effects-two-nulls.md)
+- [Zero-shot LLMs perform only marginally above random in five-class competency classification but exceed 70% accuracy on binary classification](zero-shot-llm-granularity-competency-classification.md)
+- [AI tools collected and organized a previously unavailable granularity of data, including individual student exchanges and classroom discussion data, to generate actionable recommendations](ai-granular-data-collection-actionable-recommendations.md)

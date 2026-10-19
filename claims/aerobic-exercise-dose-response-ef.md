@@ -62,6 +62,7 @@ The review reports Davis et al.'s randomized assignment of sedentary overweight 
 
 
 ## Related Claims
+
 - [Aerobic exercise improves executive functioning, most notably inhibitory control, in typically developing children, though evidence is tentative and one week-long study found no main effect](aerobic-exercise-improves-executive-function-children.md) — a broader claim this one bears on
 - [A 13-week randomized exercise trial in overweight children showed a dose-response benefit on executive planning and math achievement, with no effects on other CAS scales or reading](davis-exercise-dose-response-planning-math.md) — possibly the same claim (merge candidate)
 - [Largest EF-training benefits emerge on the most demanding EF tasks and task conditions, so outcome measures must test the limits of children's EF abilities](demanding-tasks-reveal-ef-training-benefits.md) — a broader claim this one bears on
@@ -69,3 +70,4 @@ The review reports Davis et al.'s randomized assignment of sedentary overweight 
 - [Mindfulness training improves EFs most in 7–9 year-olds with initially poorer EFs, and yoga improves EFs where physical training alone does not](mindfulness-yoga-ef-gains-poorest-gain-most.md) — related
 - [Curriculum add-ons PATHS and CSRP improve children's EFs and related outcomes in regular classrooms, with CSRP's academic gains mediated largely via EF improvement](paths-csrp-addon-ef-improvement.md) — related
 - [EF training demands must keep increasing as children improve, or few gains will be seen](progressive-challenge-ef-training.md) — related
+- [Nature-based instruction improves academic achievement over traditional instruction, with larger gains at larger doses](nbi-outperforms-traditional-instruction-dose-response.md)

@@ -185,6 +185,7 @@ Choosing on evidence, the quality of the evidence chosen on, the outcome for lea
 - A teacher who notices a technique "worked great" for one class and, before adopting it broadly, checks whether a controlled study backs the impression or looks for a colleague who tried it and got a different result
 - A department that shares research findings and invites outside speakers, rather than relying solely on internal consensus about what works
 - [Teachers and intervention designers should use mobile devices thoughtfully alongside other teaching approaches, ground designs in existing evidence, and evaluate rigorously](../strategies/thoughtful-mobile-device-integration-recommendations.md)
+- [Challenge candidate digital technologies against a learning-based pedagogical framework before adoption](../strategies/challenge-technologies-with-pedagogical-framework.md)
 
 ## Key Sources
 - Goldacre, B. (2013). *Building evidence into education*. UK Department for Education.

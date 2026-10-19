@@ -43,4 +43,5 @@ The review's synthesis of economics-of-education research, citing studies such a
 
 
 ## Related Claims
--
+
+- [Instructional designers define dispositions in varied and divergent ways, with several conflating them with soft skills](ids-varied-definitions-of-dispositions.md)

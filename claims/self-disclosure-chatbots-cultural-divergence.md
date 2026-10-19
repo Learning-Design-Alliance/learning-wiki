@@ -45,7 +45,9 @@ Multi-group SEM comparison (US N = 1276; HK N = 747); a significant ΔCFI = 0.01
 
 
 ## Related Claims
+
 - [Adolescents with self-disclosure or instrumental help-seeking preferences show higher adaptive coping and prosocial behaviors, and the self-disclosure group shows the lowest maladaptive coping and bullying, in ANOVA comparisons](anova-group-differences-conversation-preferences.md) — related
 - [Adolescents' preference for instrumental help-seeking from AI chatbots is positively associated with adaptive coping, which relates to more prosocial behavior and less bullying, consistently across US and HK samples](instrumental-help-seeking-chatbots-adaptive-coping-cross-cultural.md) — related
 - [In the whole sample, preference for self-disclosure with AI chatbots is associated with higher adaptive coping and lower maladaptive coping, linking to more prosocial behavior and less bullying](self-disclosure-chatbots-coping-whole-sample.md) — reports the opposite
 - [Mediation effects of self-disclosure preference on interpersonal behaviors are significant in HK adolescents but largely non-significant in US adolescents, where maladaptive coping mediates toward more bullying](self-disclosure-mediation-regional-differences.md) — related
+- [US and HK adolescents differ in conversation-topic preferences: HK adolescents more often prefer instrumental help-seeking and self-disclosure, while US adolescents more often report nothing to say to chatbots](chatbot-topic-preference-regional-differences.md)

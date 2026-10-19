@@ -24,7 +24,10 @@ The article develops a fine-grained coding framework for metacognition intervent
 ### Claims
 
 ## Related Research Methods
--
+
+- [Taxonomy of eight primary self-management intervention configurations](taxonomy-of-eight-primary-self-management-intervention-configurations.md)
+- [Instructional Quality and Implementation Coding system combining Wood's contingent teaching with Meichenbaum and Biemiller's self-direction dimension](instructional-quality-and-implementation-coding-system-combining-woods-contingent-teaching.md)
+- [Combined fine-grained video coding and process mining for sequential collaborative-learning analysis](combined-fine-grained-video-coding-and-process-mining-for-sequential-collaborative-learnin.md)
 
 ## Key Sources
 - Janina Eberhart, Franziska Ingendahl, Donna Bryce. (2024). Are metacognition interventions in young children effective? Evidence from a series of meta-analyses. Metacognition and Learning. https://doi.org/10.1007/s11409-024-09405-x

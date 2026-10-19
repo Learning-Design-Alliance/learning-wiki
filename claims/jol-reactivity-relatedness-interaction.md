@@ -61,4 +61,5 @@ Same experiment: for related word pairs there was "no reactivity for related wor
 
 
 ## Related Claims
--
+
+- [Related word pairs were far better recalled than unrelated pairs, while younger and older adults recalled a similar overall proportion of pairs](relatedness-and-age-main-effects-recall.md)

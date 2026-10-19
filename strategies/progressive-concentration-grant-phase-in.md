@@ -17,7 +17,7 @@ sources:
 # Progressively phase in concentration grants for newly eligible districts to mitigate the funding cliff
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report recommends lowering concentration-grant eligibility (for example, to districts enrolling more than 45% high-need students) while progressively increasing grants so funding "gradually ratchet up to reach funding levels currently allocated to K–12 school districts with more than 55% enrollment of students with greater needs." Figure 7 illustrates this with hypothetical 10,000-student districts, adding new concentration funding that increases gradually between 46% and 55% unduplicated pupil percentages. This addresses the funding cliff where districts just below the threshold receive significantly less funding.
@@ -37,6 +37,10 @@ The report recommends lowering concentration-grant eligibility (for example, to 
 
 ### Target Learning Goals
 - Equitable funding for high-need students regardless of district threshold position
+
+## Claims
+
+- [Achievement gains lag in districts just below the 55% concentration-grant threshold, especially those enrolling 40–55% high-need students](../claims/lcff-funding-cliff-below-threshold-lag.md) [+W]
 
 ## Related Strategies
 - 

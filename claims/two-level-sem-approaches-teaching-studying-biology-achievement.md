@@ -43,4 +43,6 @@ The repository metadata page for this article, whose title announces "The relati
 
 
 ## Related Claims
--
+
+- [The article posits a relationship between approaches to teaching and approaches to studying](approaches-teaching-related-to-approaches-studying.md)
+- [In the structural equation model, both supports directly predict innovative competence and strongly predict the mediators](sem-direct-paths-dual-supports-innovative-competence.md)

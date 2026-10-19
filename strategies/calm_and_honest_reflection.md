@@ -66,6 +66,7 @@ Reflection converts raw emotional experience into usable insight, but only when 
 - [Active Listening](active-listening.md) — the conversational skill that makes mentor- or peer-mediated reflection productive
 - [Action Planning](action_planning.md) — the natural follow-on that converts reflection into committed next steps
 - [Use a seven-perspective reflective heuristic (locus, process, politics, metaphor, history, existence, systems) to respond to professional conflict](seven-perspective-conflict-heuristics-wpa.md)
+- [Use discussion forums with three reflection prompts to structure students' dialogic reflection after viewing visualisations](three-prompt-reflection-forum-strategy.md)
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — a coach can supply the outside perspective and prompts that guard against self-serving reflection

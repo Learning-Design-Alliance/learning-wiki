@@ -43,4 +43,6 @@ Task-based fMRI Go-Stop study of 18 Internet-addicted and 23 control adolescents
 
 
 ## Related Claims
--
+
+- [Excessive smartphone use in adolescents is associated with reduced frontostriatal connectivity and greater cortisol-related withdrawal symptoms](excessive-smartphone-frontostriatal-cortisol.md)
+- [Adolescents with Internet addiction show structural and resting-state functional brain alterations, including reduced gray matter density, reduced white matter FA, and decreased connectivity in DMN and CEN](internet-addiction-adolescent-brain-alterations.md)

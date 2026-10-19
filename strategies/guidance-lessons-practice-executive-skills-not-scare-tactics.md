@@ -43,7 +43,9 @@ Because maturing prefrontal abilities such as planning, weighing risk and reward
 - [Adolescent Brain Reconstruction Zone Sensitive Period](../theories/adolescent-brain-reconstruction-zone-sensitive-period.md)
 
 ## Related Strategies
-- 
+
+- [Use brain-friendly, multisensory and expressive approaches and a partner (not authority) stance in counseling adolescents](multisensory-expressive-brain-friendly-counseling-adolescents.md)
+- [Use external reinforcement contingent on successful inhibitory control to improve behavioural regulation](reward-contingent-inhibitory-control-strategy.md)
 
 ## Examples
 -

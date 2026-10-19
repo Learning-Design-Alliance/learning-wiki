@@ -60,9 +60,11 @@ Prediction functions as a form of pretesting: even when predictions are wrong, g
 6. Follow with [Practice](../elements/practice.md) in which learners generate their own predictions independently, fading the prompts.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — prediction is a specific mechanism for activation; it forces retrieval rather than merely prompting for it
 - [Think-Aloud Modeling](../strategies/think-aloud-modeling.md) — expert prediction ("I expect this to…") models the strategy for learners
 - [Pretesting](../strategies/pretesting.md) — the broader family of before-instruction attempts that prediction belongs to
+- [Present problems before explanatory texts to arouse curiosity and situational interest in learners lacking prior knowledge](problem-first-then-explanation.md)
 
 ## Related Elements
 - [Activation](../elements/activation.md) — the cognitive function prediction serves

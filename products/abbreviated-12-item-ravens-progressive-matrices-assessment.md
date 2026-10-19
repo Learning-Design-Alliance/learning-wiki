@@ -27,7 +27,8 @@ A shortened computerized Raven's Progressive Matrices assessment developed by Ma
 - [The 12-item RPM subset similarly predicts degraded sentence recognition in normal-hearing controls, replicating the CI finding](../claims/subset-rpm-replicates-nh-vocoded-listeners.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Functional Aspects of Working Memory Test (FAWMT)](functional-aspects-of-working-memory-test-fawmt.md)
 
 ## Key Sources
 - Mattingly Jameson K MD, Castellanos Irina PhD, Moberly Aaron C MD. (2018). Nonverbal Reasoning as a Contributor to Sentence Recognition Outcomes in Adults with Cochlear Implants. Otology & Neurotology. https://doi.org/10.1097/MAO.0000000000001998

@@ -43,6 +43,7 @@ STEM credit outcomes from the Lied QED, comparing matched treatment and comparis
 
 
 ## Related Claims
+
 - [Check & Connect increases credits accrued (progressing in school) in one RCT](check-and-connect-increases-credits-progressing.md) — related
 - [Ninth-grade on-track NSI positively affected GPA, core course pass rates, and credit completion after schools' second year of participation](ninth-grade-on-track-nsi-positive-gpa-pass-credits.md) — related
 - [Career Academies show no discernible effects on progressing in school: academy students accrued no more course credits than comparison students by the end of twelfth grade (effect size 0.09, not statistically significant or substantively important).](career-academies-no-effect-progressing-in-school.md) — related
@@ -51,3 +52,4 @@ STEM credit outcomes from the Lied QED, comparing matched treatment and comparis
 - Propensity score matching produced comparison groups equivalent at baseline (within +/- 0.25 standard deviations) on all pretest achievement measures across the three QEDs — related
 - [A lottery-based randomized controlled trial at Lied replicated the positive, statistically significant impact on 6th graders' mathematics achievement found by the QED](lied-rct-replicates-math-impact.md) — related
 - [Magnet schools show positive effects on achievement, graduation, motivation, intergroup relationships, and satisfaction, and well-integrated magnets attract high parental demand](magnet-school-positive-effects.md) — related
+- [The evaluation has not yet rigorously examined whether the magnet schools reduce, eliminate, or prevent minority group isolation; this is deferred to the final report](minority-group-isolation-outcome-deferred.md)

@@ -47,7 +47,8 @@ The authors recommend that designers of instructive animations seriously conside
 - [Prior knowledge, but not interest or estimated prior knowledge, predicts use of learner control options](../claims/prior-knowledge-predicts-interactive-behavior.md) [~W]
 
 ## Related Strategies
-- 
+
+- [When scripting collaborative tasks, decide on the learner-agency versus pre-defined-goals trade-off position deliberately](agency-scripting-tradeoff-decision.md)
 
 ## Examples
 -

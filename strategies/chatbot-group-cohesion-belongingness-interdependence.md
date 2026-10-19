@@ -45,6 +45,7 @@ This strategy directs chatbot design toward reinforcing group cohesion by cultiv
 
 - [Support affective cohesion through positive atmosphere and empathy formation in chatbot dialogue](chatbot-affective-cohesion-positive-atmosphere-empathy.md)
 - [Induce conversation through familiarity and personification to make the chatbot approachable](chatbot-familiarity-personification-inducing-conversation.md)
+- [Design CSCL assignments with individual accountability and positive interdependence](cscl-individual-accountability-positive-interdependence.md)
 
 ## Examples
 -

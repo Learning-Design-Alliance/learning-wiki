@@ -37,7 +37,8 @@ Authentic Instructional Assessments are "a detailed procedure and rubric for exa
 - improving the quality of assessments and assignments across disciplines
 
 ## Related Elements
-- 
+
+- [Scoring standards and rubrics for assignments and student work in writing and mathematics](aiw-scoring-standards-writing-math.md)
 
 ## Examples
 -

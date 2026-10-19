@@ -62,4 +62,8 @@ Questionnaire items on perceived mutual understanding (111 completed questionnai
 
 
 ## Related Claims
--
+
+- [Anchored discussion strengthens referrals to content and prompts rereading of relevant passages](anchored-discussion-content-referrals-rereading.md)
+- [Anchored discussion produces more meaning-oriented discussion of academic texts than traditional forum discussion](anchored-discussion-more-meaning-oriented.md)
+- [Forum discussion shows more argumentation and confirmation, partly mediated by its opinion-oriented subject matter](argumentation-mediated-by-message-subject.md)
+- [Forum discussion contains more social and regulative comments and longer messages; anchored discussion is briefer with more messages](forum-more-social-regulative-comments.md)

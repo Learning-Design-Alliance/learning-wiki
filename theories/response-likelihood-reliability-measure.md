@@ -41,7 +41,9 @@ The article defines response likelihood L = π(θ)^s · (1−π(θ))^(1−s), wh
 - 
 
 ## Examples
--
+
+- [Psychometric pipeline for mapping LLM performance onto interpretable proficiency levels and subskill mastery](../research-methods/psychometric-pipeline-for-mapping-llm-performance-onto-interpretable-proficiency-levels-an.md)
+- [Semi-supervised deep learning bias-adjustment framework for IRT parameter estimation under nonignorable missingness](../research-methods/semi-supervised-deep-learning-bias-adjustment-framework-for-irt-parameter-estimation-under.md)
 
 ## Key Sources
 - Srdjan Verbić & Boris Tomić. (2008). Test item response time and the response likelihood. Institute for Education Quality and Evaluation. http://sepp.ceo.edu.rs/moodle/mod/resource/view.php?id=25

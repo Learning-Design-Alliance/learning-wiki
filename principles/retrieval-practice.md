@@ -220,8 +220,10 @@ A within-session quiz score, delayed recall, transfer to new questions and value
 - [Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words](../claims/desirable-difficulties-enhance-learning.md)
 
 ## Examples
+
 - A biology course opens each lesson with short no-notes prompts that ask learners to explain last week’s concepts before new content begins.
 - A language app revisits previously learned vocabulary with delayed recall items and immediate corrective feedback rather than only offering rereading.
+- [EISEL](../products/eisel.md)
 
 ## Key Sources
 - Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning. *Psychological Science, 17*(3), 249-255. [https://doi.org/10.1111/j.1467-9280.2006.01693.x](https://doi.org/10.1111/j.1467-9280.2006.01693.x)

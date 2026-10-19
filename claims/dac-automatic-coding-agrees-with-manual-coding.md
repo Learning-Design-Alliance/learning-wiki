@@ -43,4 +43,5 @@ Reliability analysis comparing DAC-filter coding to a human coder familiar with 
 
 
 ## Related Claims
--
+
+- [Automatically coded dialogue acts distinguish male and female students' online communication](dac-detects-gender-differences-dialogue-acts.md)

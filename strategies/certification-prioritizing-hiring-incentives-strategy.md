@@ -40,7 +40,8 @@ The report describes a bundle of district practices that prioritize certificatio
 - Retention of new teachers in the profession
 
 ## Related Strategies
-- 
+
+- [Offer targeted service scholarships, loan forgiveness, and 1-year postbaccalaureate residency programs to rapidly expand the supply of well-prepared teachers in shortage fields and locations](service-scholarships-residencies-shortage-fields.md)
 
 ## Examples
 -

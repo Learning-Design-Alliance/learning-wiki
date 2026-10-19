@@ -17,7 +17,7 @@ sources:
 # Screen children's visual processing and provide systematic visual processing training to support early character reading and mathematics
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends that educators, psychologists, and parents attend to how visual processing affects early learning. It proposes two concrete actions: developing standardized visual processing assessments to screen children at risk of reading and mathematics difficulties, and delivering systematic visual processing training. The article states that "systematic visual processing training, including spatial relations, visual perceptions, and orientation discriminations, along with Chinese radicals and written numbers, might be conducted among children to assist them in learning characters and early mathematics knowledge."
@@ -39,6 +39,11 @@ The article recommends that educators, psychologists, and parents attend to how 
 
 ### Affordances
 - Visual Processing Domain General Precursor
+
+## Claims
+
+- [Kindergarten visual processing uniquely predicts grade-one Chinese character reading after controlling for prior reading and general cognitive abilities](../claims/visual-processing-predicts-grade-one-character-reading.md) [+W]
+- [Kindergarten visual processing uniquely predicts grade-one early mathematics after controlling for prior mathematics and general cognitive abilities](../claims/visual-processing-predicts-grade-one-mathematics.md) [+W]
 
 ## Related Strategies
 - 

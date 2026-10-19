@@ -43,4 +43,5 @@ The review's framing statement asserts, based on the body of evidence it reviews
 
 
 ## Related Claims
--
+
+- [Early intervention can remediate neurodevelopmental consequences associated with maltreatment or institutional rearing](early-intervention-remediates-adversity-neurodevelopmental-consequences.md)

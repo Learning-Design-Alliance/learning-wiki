@@ -42,7 +42,8 @@ This strategy replaces in-person classroom observers with video streaming techno
 - [Virtual pre-K observations posed substantial logistical challenges despite being practical](../claims/virtual-pre-k-observations-logistical-challenges.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Weigh live, video, and customized nonverbal data collection methods when using EQUIP](equip-data-collection-method-tradeoffs.md)
 
 ## Examples
 -

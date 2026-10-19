@@ -17,7 +17,7 @@ sources:
 # Design needs- and attention-aware AI learning tools using mechanism-level measures, heterogeneous-effects analysis, and in-process telemetry
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (5 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The article translates its findings into design guidance for AI learning tools in engineering education. It recommends tools that "employ mechanism-level measures, heterogeneous-effects analysis, and in-process telemetry to enable dynamic adaptation to student learning needs", so that support responds to differences in baseline motivation and attention. The strategy follows directly from the study's findings that baseline motivational states and inattention, not demographics, shaped perceived benefits, and that benefit magnitude differed across the three psychological needs.
@@ -35,6 +35,14 @@ The article translates its findings into design guidance for AI learning tools i
 
 ### Target Learning Goals
 - supporting autonomy, competence, and relatedness needs in AI-mediated learning
+
+## Claims
+
+- [Engineering students perceive AI chatbot benefits as strongest for relief from competence frustration, moderate for autonomy, and weakest for relatedness](../claims/ai-chatbot-need-specific-benefits-engineering-students.md) [+W]
+- [Baseline motivational states shape perceived AI benefits more than demographics, with female-coded gender the only significant demographic effect (lower perceived competence relief)](../claims/baseline-motivation-outweighs-demographics-ai-benefits.md) [+W]
+- [Higher baseline autonomy and higher baseline competence frustration predict greater perceived relief from competence frustration after AI chatbot use, while higher baseline personal agency predicts less](../claims/baseline-needs-predict-competence-relief-ai.md) [+W]
+- [Students with higher baseline relatedness satisfaction perceive less additional relatedness support from AI chatbot use](../claims/baseline-relatedness-diminishes-perceived-ai-relatedness.md) [+W]
+- [Inattention moderates how baseline competence frustration and baseline autonomy translate into perceived AI benefits, weakening both positive associations](../claims/inattention-moderates-ai-benefit-associations.md) [+W]
 
 ## Related Strategies
 

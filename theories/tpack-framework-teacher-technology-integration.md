@@ -61,6 +61,7 @@ The TPACK Framework (Mishra & Koehler, 2006) adds a technology filter to Shulman
 - [Four-course online TPACK professional development program (SED 520, 521, 522, 594)](../elements/four-course-online-tpack-program-element.md)
 - [Use TPACK-based analysis of teaching video cases and design artifacts to build novice instructional designers' metacognition](../strategies/tpack-video-case-analysis-for-idc-metacognition.md)
 - [Iterative TPACK design-practice cycle with feedback, revision, micro-teaching, and reflection](../designs/iterative-tpack-design-practice-cycle.md)
+- [Online knowledge-building trajectory built on two tools and two processes](../designs/online-knowledge-building-tools-and-processes-pattern.md)
 
 ## Key Sources
 - Dorris, C., Winter, K., O'Hare, L., & Lwoga, E. T. (2024). A systematic review of mobile device use in the primary school classroom and impact on pupil literacy and numeracy attainment: a systematic review. Campbell Systematic Reviews, 20, e1417. https://doi.org/10.1002/cl2.1417

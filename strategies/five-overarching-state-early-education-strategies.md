@@ -17,7 +17,7 @@ sources:
 # Five overarching state strategies for building quality early education systems
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report distills the shared approach of Michigan, West Virginia, Washington, and North Carolina into five overarching strategies: "establishing standards for quality and systems that incentivize improvement; investing in knowledgeable and skilled educators; coordinating and aligning early education programs; seeking sufficient funding sources and mechanisms; and building broad-based support." Each state case study shows how these strategies were adapted to state context, and the report's cross-state lessons section elaborates each into specific policy recommendations for policymakers elsewhere.
@@ -35,6 +35,10 @@ The report distills the shared approach of Michigan, West Virginia, Washington, 
 
 ### Target Learning Goals
 - School readiness, social-emotional and academic development, and long-term school success
+
+## Claims
+
+- [A year of West Virginia Pre-K produced substantial gains in print awareness at kindergarten entry, and the program meets all 10 NIEER quality standards](../claims/wv-prek-print-awareness-gains.md) [+W]
 
 ## Related Strategies
 - 

@@ -17,7 +17,7 @@ sources:
 # Tabletop environments as focal multimedia settings for small-group collaborative knowledge building
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Stahl proposes tabletop educational environments as a hybrid of oral, literate, and digital interaction, analogizing them to conversation around a tribal fire. He writes that 'the tabletop can integrate physical and digital artifacts, spoken and written texts, and human and computational support to form a focal point, subject matter, and dynamic resource for collaborative knowledge building.' The framing positions tabletops as small-group rather than personal or whole-class media.
@@ -37,7 +37,8 @@ Stahl proposes tabletop educational environments as a hybrid of oral, literate, 
 - collaborative knowledge building
 
 ### Claims
-- 
+
+- [Interference during tabletop use can play a productive role, but small-group collaboration processes primarily influence learning](../claims/tabletop-interference-productive-collaboration-processes-primary.md) [~W]
 
 ## Related Designs
 - 

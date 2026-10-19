@@ -43,4 +43,6 @@ Study in which eight users wearing the iView X eye tracker in five different env
 
 
 ## Related Claims
--
+
+- [The Wordometer eye-tracking app estimates the number of words a person reads with an average error rate of 6.5 percent](wordometer-word-count-6-5-percent-error.md)
+- [Neither self-report nor eye tracking can reliably distinguish strategic from habituated behavior in empirical practice](measurement-cannot-separate-strategic-from-habituated.md)

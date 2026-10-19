@@ -41,7 +41,8 @@ The article's agenda is an implementable program for the research community: reo
 - [Agent Based Educational Science Agenda](../research-methods/agent-based-educational-science-aes.md)
 
 ## Related Strategies
-- 
+
+- [Research agenda for advancing transformative communication environments: sociocultural theory, conversational analysis, and beyond-face-to-face affordances](transformative-communication-research-agenda.md)
 
 ## Examples
 -

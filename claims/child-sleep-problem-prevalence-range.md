@@ -41,4 +41,5 @@ Narrative background synthesis in the introduction, citing prior community surve
 
 
 ## Related Claims
--
+
+- [Frequent daytime sleepiness is associated with impaired academic achievement, attention, and learning motivation in school-aged children](frequent-daytime-sleepiness-impaired-school-performance.md)

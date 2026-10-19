@@ -43,4 +43,7 @@ Experiment-phase survey of 42 MPTs; named assessment tasks were categorized and 
 
 
 ## Related Claims
--
+
+- [Pre-service teachers most frequently viewed integrating 21st-century teaching methods into mathematics lessons as the learning outcome to achieve](mpts-view-21st-century-methods-top-outcome.md)
+- [Educators use AI tools mainly for personalized learning and language support and frequently use generative AI for lesson planning](educators-ai-use-personalization-lesson-planning.md)
+- [Redesigning a mathematics methodology module yielded six learning outcomes sequenced from lower to higher levels of understanding across six dimensions](six-learning-outcomes-mathematics-methodology-ca.md)

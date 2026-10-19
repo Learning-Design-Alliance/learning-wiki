@@ -43,4 +43,6 @@ Correlational analysis of survey data from 399 students. The article reports a "
 
 
 ## Related Claims
--
+
+- [Students express willingness to integrate GenAI in learning and future careers, and willingness correlates with knowledge and frequency of use](students-willing-to-use-genai-correlates.md)
+- [University students report a generally good understanding of GenAI technologies, with highest self-rated knowledge of limitations and lowest for emotional-intelligence limits](students-good-understanding-genai-limitations.md)

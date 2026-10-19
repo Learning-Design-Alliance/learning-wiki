@@ -32,7 +32,8 @@ A preschool music-and-movement programme that uses progressively complex cue-and
 - [Red Light, Purple Light shows uncertain effects on reading and literacy related achievement](../claims/red-light-purple-light-uncertain-reading-literacy.md) [~W]
 
 ## Related Products and Programmes
--
+
+- [Head-Toes-Knees-Shoulders (HTKS) task](head-toes-knees-shoulders-htks-task.md)
 
 ## Key Sources
 - What Works Clearinghouse, Institute of Education Sciences, U.S. Department of Education. (2022). Red Light, Purple Light. https://ies.ed.gov/ncee/wwc/InterventionReport/725

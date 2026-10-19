@@ -43,4 +43,5 @@ Evaluation of the workshop form across all four cases. Building physical prototy
 
 
 ## Related Claims
--
+
+- [Examples of features from the original research context in the guidebook helped participants understand the design principles and relate them to their own HLC](context-examples-enhance-understanding-design-principles.md)

@@ -43,6 +43,8 @@ Hierarchical multiple regression of inquiry task factor scores of 232 young adul
 
 
 ## Related Claims
+
 - [Cognitive inquiry skills are positively intercorrelated, but the functional thinking–CVS correlation diminishes when controlling for content knowledge](cognitive-skill-intercorrelations-conditional.md) — related
 - [CVS skill is the strongest predictor of performing valid (unconfounded) experiments in simulation-based inquiry](cvs-predicts-proportion-valid-experiments.md) — related
 - [Content knowledge does not significantly predict the number of experiments conducted; general cognitive ability shows a quadratic association and self-concept a negative linear association](null-ck-number-of-experiments-gca-quadratic.md) — related
+- [In multiple regression, the percentage of exploratory experiments was the strongest predictor of performance success, negatively related to it](exploratory-experiments-negative-predictor-of-success.md)

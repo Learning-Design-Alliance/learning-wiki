@@ -30,6 +30,9 @@ A publicly available Kaggle dataset of 787 Academic IELTS Task 2 essays with off
 
 - [ASAP 2.0 dataset](asap-20-dataset.md)
 - [ICNALE Global Rating Archive (GRA) dataset](icnale-global-rating-archive-gra-dataset.md)
+- [ICNALE](icnale.md)
+- [NCTE Transcript dataset](ncte-transcript-dataset.md)
+- [Openly released TTX assessment resources](openly-released-ttx-assessment-resources.md)
 
 ## Key Sources
 - Olga Manakina, Igor Bogdanov. (2026). Learning to Grade Efficiently: A Bandit-Driven Prompt-Selection Framework for Low-Cost LLM Essay Scoring. https://arxiv.org/abs/2608.23814v1

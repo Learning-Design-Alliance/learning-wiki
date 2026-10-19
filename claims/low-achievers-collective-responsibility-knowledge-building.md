@@ -43,4 +43,6 @@ Qualitative analysis of 148 notes across nine inquiry threads from 20 Grade 11 l
 
 
 ## Related Claims
--
+
+- [Collaboration and synthesis indicators in Knowledge Forum increased over time among low-achieving students.](collaboration-synthesis-indicators-increased-over-time.md)
+- [Knowledge-building discourse improved significantly from before to during reflective assessment, with students contributing more explanation-seeking questions, explanations, and metacognitive questions and statements.](discourse-improved-during-reflective-assessment.md)

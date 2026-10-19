@@ -43,4 +43,9 @@ Reliability evaluation of the manual three-step transactivity coding over the fu
 
 
 ## Related Claims
--
+
+- [Speech-style accommodation correlates with prevalence of other-oriented transactions, enabling acoustic prediction of transactivity](speech-accommodation-predicts-transactivity.md)
+- [Coder agreement ranged from 68.57% (identical) to 95% (category coding) across coding stages](sr-coding-interrater-agreement-rates.md)
+- [Human inter-rater agreement for FRISCO essay scoring was reliable, with mean kappa 0.78–0.84 and percentage of agreement above 75% in all six dimensions](frisco-rater-agreement-reliable.md)
+- [Three independent expert instructors reached exceptionally high inter-rater reliability when grading 1200 bash exam responses, establishing a reliable human reference standard](expert-triad-high-inter-rater-reliability-bash-grading.md)
+- [Systems Thinking Practices is the hardest CT construct to code reliably for both human raters and the LLM, requiring more explicitly operationalized rubrics](stp-low-reliability-complex-construct.md)

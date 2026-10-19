@@ -39,6 +39,10 @@ The article organizes fuzzy forecasting as a reusable two-step procedure. Step o
 ### Claims
 
 
+## Related Methods
+
+- [Use fuzzy forecasting when historical data are scarce but experience knowledge is available, because the method tolerates imperfect data](fuzzy-forecasting-when-historical-data-requirements-are-loose.md)
+
 ## Related Patterns
 - 
 

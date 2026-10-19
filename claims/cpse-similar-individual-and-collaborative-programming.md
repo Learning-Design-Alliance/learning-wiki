@@ -43,4 +43,6 @@ Behavioral experiment in which 13 adult learners completed two individual projec
 
 
 ## Related Claims
--
+
+- [Adult learners using RTC showed a two-way BMO–BCC revision loop, a DEL–DCR interface cycle, and more OI interaction than in individual programming](rtc-behavior-patterns-two-way-loops.md)
+- [Different group compositions adopted different collaboration strategies: homogeneous groups split interface and programming work, while the heterogeneous CS/non-CS pair showed the most divergent behavior patterns](grouping-type-different-collaboration-strategies.md)

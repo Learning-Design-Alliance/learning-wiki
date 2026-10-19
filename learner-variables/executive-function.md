@@ -122,6 +122,11 @@ Executive function covers inhibitory control, updating working memory, and shift
 - *Does training the processes directly (computerised, working-memory or mindfulness training) improve executive function itself?* [CCT shows no significant effects on executive functions or attention in healthy older adults](../claims/cct-no-effect-executive-attention.md) [-M]
 - *Does attending a pre-kindergarten programme raise children's executive function?* [Pre-kindergarten attendance yields small positive impacts on social-emotional development, executive functioning, and emotion recognition](../claims/prek-small-positive-social-emotional-executive-emotion.md) [+M]
 
+## Examples
+
+- [Extended 36-trial Red-Blue Test](../products/extended-36-trial-red-blue-test.md)
+- [Combine metacognitive scaffolding with computerized process-based training of executive attention to boost cognitive and neural benefits in young children](../strategies/combine-metacognitive-scaffolding-with-computerized-attention-training.md)
+
 ## Related Learner Variables
 - [Working Memory](working-memory.md)
 - [Self-Regulation](self-regulation.md)

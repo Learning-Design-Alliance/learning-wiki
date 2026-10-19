@@ -43,4 +43,7 @@ Editorial description of the Gweon et al. approach to automatically assessing tr
 
 
 ## Related Claims
--
+
+- [The DBN accommodation measure scores real conversation pairs higher than lexically matched constructed pairs, validating it as a measure of speech style accommodation](dbn-accommodation-score-validates-real-vs-constructed-pairs.md)
+- [Human coding of other-oriented transacts in the debate corpus reached high inter-coder reliability (kappa 0.72 for reasoning, 0.7 for transactivity, 0.95 for self/other distinction)](transactivity-coding-kappa-reliability-debate-corpus.md)
+- [An automatic measure of speech style accommodation significantly positively correlates with prevalence of other-oriented transacts in dyadic debates (R = .36, p < .05)](speech-accommodation-correlates-other-oriented-transacts.md)

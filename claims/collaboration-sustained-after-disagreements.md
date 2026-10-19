@@ -62,4 +62,7 @@ Observational finding from the full disagreement corpus. The authors attribute t
 
 
 ## Related Claims
--
+
+- [Nearly all peer critique disagreements were resolved, mostly through concession, with co-construction appearing only in soft and mixed disagreements](disagreement-resolution-consensus-concession.md)
+- [Fifth graders in peer critique predominantly used soft (implied and/or mitigated) rather than direct forms of disagreement](students-soft-disagreement-peer-critique.md)
+- [Social dynamics — trust, friendship, openness, and rudeness — shape the effectiveness of dialogic interactions](trust-and-social-dynamics-shape-dialogic-effectiveness.md)

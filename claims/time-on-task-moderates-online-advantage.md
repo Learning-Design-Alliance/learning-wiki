@@ -43,4 +43,5 @@ Moderator analysis within the 51-contrast meta-analysis comparing studies by rel
 
 
 ## Related Claims
--
+
+- [Effect sizes were larger in studies where online and face-to-face conditions differed in curriculum materials and instructional approach (+0.42) than where curriculum and instruction were nearly identical (+0.20; Q = 5.40, p < .05).](curriculum-equivalence-moderates-effect-size.md)

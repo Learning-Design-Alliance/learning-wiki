@@ -44,4 +44,5 @@ The editorial describes Näykki et al.'s exploratory study: video segmented and 
 
 
 ## Related Claims
--
+
+- [Teachers spent most CSCL class time on task management, content knowledge, technical support and observing, with minimal socio-emotional support](teacher-guidance-focus-distribution-cscl-science.md)

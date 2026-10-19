@@ -40,7 +40,8 @@ The study used the read-aloud and think-aloud technique, which "requires them to
 - 
 
 ## Examples
--
+
+- [Design RC and LC tests with the offered subskills and validate them with think-aloud protocols and interviews](../strategies/design-tests-with-offered-subskills-and-validate-think-alouds.md)
 
 ## Key Sources
 - Yurttaş-Kumlu, G. D., & Yürük, N. (2023). Investigation of cognitive and metacognitive strategies used by preservice science teachers exposed to explicit and peer tutoring reading strategies instruction. International Journal of Contemporary Educational Research, 10(1), 1-24. https://doi.org/10.33200/ijcer.1082537

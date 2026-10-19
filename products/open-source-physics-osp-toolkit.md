@@ -36,7 +36,8 @@ A free, open-source physics software toolkit, including Easy Java Simulations an
 - [Student video analysis of vertical jumps yields a free-fall acceleration estimate close to the local value of g](../claims/video-jump-analysis-estimates-g-near-local-value.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [SageModeler](sagemodeler.md)
 
 ## Key Sources
 - Wee Loo Kang. (2013). Open Source Physics. i in Practice 1(1), 58-63. http://ictconnection.opal.moe.edu.sg/cos/o.x?ptid=711&c=/ictconnection/ictlib&func=view&rid=82

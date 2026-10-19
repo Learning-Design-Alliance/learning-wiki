@@ -43,4 +43,5 @@ The study with French children across grades three to five reports the whole-wor
 
 
 ## Related Claims
--
+
+- [Children recognise the orthographic form of a pseudoword more often when its entire letter string was available at once during reading.](whole-word-presentation-improves-orthographic-learning.md)

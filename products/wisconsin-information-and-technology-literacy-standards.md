@@ -31,7 +31,8 @@ A Wisconsin Department of Public Instruction framework defining information and 
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Kentucky Academic Standards for Computer Science](kentucky-academic-standards-for-computer-science.md)
 
 ## Key Sources
 - Wisconsin State Dept. of Public Instruction, Madison. (1998). Wisconsin's Model Academic Standards for Information and Technology Literacy. Bulletin No. 90002. https://eric.ed.gov/?id=ED423881

@@ -24,7 +24,9 @@ A corpus of 500 anonymized, annotated higher-education competency-based assessme
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [TeacherEval-2023](teachereval-2023.md)
+- [FEEDTYPE: a benchmark of teacher and LLM feedback annotated for feedback focus across three writing domains](feedtype-a-benchmark-of-teacher-and-llm-feedback-annotated-for-feedback-focus-across-three.md)
 
 ## Key Sources
 - Agerri, R., Aldabe, I., Cabrio, E., Cieliebak, M., Deriu, J., Flores, M., Kapočiūtė-Dzikienė, J., Kuizinienė, D., Rico, A., Ruiz-González, A., Soroa, A., Vaškevičius, M. and Villata, S. (2026). CRITICS - Critical Science Without Borders: Language Models to Promote Critical Thinking in Science Education. SEPLN 2026. https://www.hitz.eus/critics

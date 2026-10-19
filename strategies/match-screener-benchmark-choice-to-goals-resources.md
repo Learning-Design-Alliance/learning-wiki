@@ -44,6 +44,7 @@ The brief recommends that schools and districts deliberately align benchmark sel
 - [Use multiple evidence sources alongside benchmark scores when identifying students for intensive intervention](combine-screening-benchmarks-with-other-risk-factors.md)
 - [Provide more intensive literacy interventions and supports for at-risk students in later grades](more-intensive-literacy-supports-later-grades.md)
 - [Screen multilingual students in multiple languages where possible, choosing screener languages informed by students' instructional contexts and home language use](multilingual-screening-informed-by-instructional-context.md)
+- [Teachers should use the identified moderators as criteria when selecting CALL applications and predicting student performance](use-moderators-to-select-call-applications.md)
 
 ## Examples
 -

@@ -1,7 +1,7 @@
 ---
 type: principle
 id: cultural-life-experiences-connections
-aliases: [culturally-responsive-adult-curriculum, render-ecological-crisis-concrete-embodied-proximal, real-world-math, relevant-immediately-useful-adult-materials, contextualize-abstract-content-older-learners, personalization-making-student-the-object-bridges-science-and-reality, invite-everyday-registers-science-activities]
+aliases: [culturally-responsive-adult-curriculum, render-ecological-crisis-concrete-embodied-proximal, real-world-math, relevant-immediately-useful-adult-materials, contextualize-abstract-content-older-learners, personalization-making-student-the-object-bridges-science-and-reality, invite-everyday-registers-science-activities, realistic-contexts-elicit-subjective-probability]
 title: "Cultural & Life Experiences Connections"
 description: "For learners whose instruction draws on contexts they do not recognise or see no stake in, building some tasks, examples and assessments from their own cultural, community, family and work experience, tied to the concept taught, is expected to raise engagement, open sharing of developing thinking and the competence an assessment can see; no claim here compares it with the same content taught without that connection."
 canonical: true
@@ -62,12 +62,16 @@ sources:
     resource: "https://eric.ed.gov/?id=ED367146"
     title: "Funds of Knowledge: Learning from Language Minority Households. ERIC Digest. (1994). https://eric.ed.gov/?id=ED367146"
     author: "Funds of Knowledge: Learning from Language Minority Households. ERIC Digest"
+  - id: elbehary-2021
+    resource: "https://doi.org/10.4102/pythagoras.v42i1.630"
+    title: "Elbehary, S.G.A. (2021). Reasoning under uncertainty within the context of probability education: A case study of preservice mathematics teachers. Pythagoras, 42(1), a630. https://doi.org/10.4102/pythagoras.v42i1.630"
+    author: Elbehary, S.G.A
 ---
 
 # Cultural & Life Experiences Connections
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 47 claims (37 for, 10 mixed) · 48 studies (13 qualitative, 11 causal, 8 design, 6 review, 5 theoretical, 4 quant-synthesis, 1 associational), `q1`–`q4` · 3 of 48 report an effect size · 41 claims rest on one study
+> **Evidence** · 53 claims (43 for, 10 mixed) · 49 studies (14 qualitative, 11 causal, 8 design, 6 review, 5 theoretical, 4 quant-synthesis, 1 associational), `q1`–`q4` · 3 of 49 report an effect size · 47 claims rest on one study
 
 ## Conditional relationship
 
@@ -187,6 +191,12 @@ Claims cited before this page was rewritten, or found while rewriting it, that a
 - [Student video analysis of vertical jumps yields a free-fall acceleration estimate close to the local value of g](../claims/video-jump-analysis-estimates-g-near-local-value.md) [+W] — read 2026-10-19: same course; video of students' own jumps gave g = 10.1 m/s² against 9.80. A feasibility result, not a learning outcome; does not change the model.
 
 Read 2026-10-19 and moved into the model above: the gateway-mathematics, story-problem, practice-guide, adult-literacy, physics-of-dance (kinesthetic, impulse asymmetry), life-science-examples, everyday-language-protocol, Tucson household (three claims) and international-cases claims.
+- [Subjective Reasoning Context Dependent](../claims/subjective-reasoning-context-dependent.md) [+M]
+- [Attributing outcomes to Allah's will among some PSMTs functioned as probabilistic reasoning, not mere personalist belief](../claims/allahs-will-as-probabilistic-reasoning.md) [+W]
+- [The Egyptian school probability curriculum is dominated by quasi-pedagogical randomising-device tasks](../claims/egyptian-curriculum-quasi-pedagogical-dominance.md) [+W]
+- [Mathematically oriented PSMTs exhibit equiprobability and insensitivity-to-prior-probability biases](../claims/m-thinkers-equiprobability-insensitivity-biases.md) [+W]
+- [A bias-free experimental-probability subcategory (o**) emerged only in the die-rolling task](../claims/o-star-star-law-of-large-numbers.md) [+W]
+- [Outcome-oriented PSMTs conflate causality with conditionality and predict single-trial outcomes](../claims/outcome-oriented-causal-conception.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -223,8 +233,7 @@ The present evidence establishes no dose, no sequence, no effect on achievement 
 - [Explicit Instruction: Math Strategies](explicit-instruction-math-strategies.md) — real-world tasks still benefit from direct teaching of methods and representations.
 - [Creating Visual Representations](dual-coding.md) — diagrams, tables, and models help learners connect context to mathematical structure.
 - [Problem-based Learning](problem-based-learning.md) — real-world math often works through applied, open-ended problems.
-- [Involve students in real-world problem solving to deepen engagement, retention, and understanding](real-world-problem-solving-maker-context.md)
-- [Teachers of older refugees should eliminate affective barriers, use adult learning strategies, make learning relevant to learner needs, and tap community goals](four-strategies-older-refugee-language-learners.md)
+- [Teachers of older refugees should eliminate affective barriers, use adult learning strategies, make learning relevant to learner needs, and tap community goals](../designs/elderly-refugee-programs-beyond-language-learning.md)
 - [Use the age-friendly ESL classroom as a remedy for social isolation by building a supportive community of learners with confidence-building and peer mentoring](expanding-social-networks.md)
 - [Teach older language learners at a measured pace, one new skill or concept at a time, with extra review and wait time](cognitive-load-management.md)
 
@@ -272,6 +281,7 @@ The present evidence establishes no dose, no sequence, no effect on achievement 
 - Liu, X., Liu, S., Lee, S.-h., & Magjuka, R. J. (2010). Cultural Differences in Online Learning: International Student Perceptions. *Educational Technology & Society, 13*(3), 177-188. https://www.jstor.org/stable/jeductechsoci.13.3
 - Higgin, T., Holl-Cross, C., Moorjani, A., & Edwards, A., et al. (2025). Faculty and student perspectives on gateway math courses and courseware. WestEd. https://eric.ed.gov/?id=ED677594
 - Chu, H., Perry, R., Reade, F., & Marple, S. (2019). Understanding complex instructional change: Classroom observations of Math in Common districts. WestEd. https://eric.ed.gov/?id=ED601889
+- Elbehary, S.G.A. (2021). Reasoning under uncertainty within the context of probability education: A case study of preservice mathematics teachers. Pythagoras, 42(1), a630. https://doi.org/10.4102/pythagoras.v42i1.630
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -498,7 +508,7 @@ Real-world math improves engagement and transfer when the mathematical structure
 - [Creating Visual Representations](dual-coding.md) — diagrams, tables, and models help learners connect context to mathematical structure.
 - [Authentic Audiences & Purposes](authentic-audiences-purposes.md) — relevance grows when math supports meaningful tasks and decisions.
 - [Problem-based Learning](problem-based-learning.md) — real-world math often works through applied, open-ended problems.
-- [Involve students in real-world problem solving to deepen engagement, retention, and understanding](real-world-problem-solving-maker-context.md)
+- [Involve students in real-world problem solving to deepen engagement, retention, and understanding](problem-based-learning.md)
 - [Make adult language materials relevant, immediately useful, and grounded in real-life experiences](cultural-life-experiences-connections.md)
 
 ## Examples
@@ -545,7 +555,7 @@ Because older adults study a language for specific instrumental purposes, the di
 
 ## Related Principles
 
-- [Teachers of older refugees should eliminate affective barriers, use adult learning strategies, make learning relevant to learner needs, and tap community goals](four-strategies-older-refugee-language-learners.md)
+- [Teachers of older refugees should eliminate affective barriers, use adult learning strategies, make learning relevant to learner needs, and tap community goals](../designs/elderly-refugee-programs-beyond-language-learning.md)
 - [Cultural & Life Experiences Connections](cultural-life-experiences-connections.md)
 
 ## Examples
@@ -736,4 +746,49 @@ A research model, described in the digest, in which teachers and university rese
 
 ## Key Sources
 - Funds of Knowledge: Learning from Language Minority Households. ERIC Digest. (1994). https://eric.ed.gov/?id=ED367146
+-->
+
+<!-- merged 2026-10-19 from principles/realistic-contexts-elicit-subjective-probability ("Use realistic, culturally meaningful contexts alongside randomising devices to elicit the full range of probabilistic reasoning"), a narrower page folded into its canonical page (fragment step): its body as it stood. Its bullets this page lacked were added above.
+
+# Use realistic, culturally meaningful contexts alongside randomising devices to elicit the full range of probabilistic reasoning
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 6 claims (6 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
+
+## Description
+Because traditional randomising-device tasks cannot provide an adequate foundation for subjective probability, probability education for teachers should employ authentic situations (e.g. giving birth) in addition to devices like dice. The article argues that 'employing a realistic context can cultivate analysing PSMTs’ probabilistic reasoning', since realistic contexts revealed subjective reasoning in nearly 60% of participants while the die task did not.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Contexts should be culturally prescribable and judged difficult to reason (obscure sample space) to surface subjective conceptions
+#### Constraints
+- Demonstrated with Egyptian PSMTs; the subjective category did not emerge in randomising-device contexts
+
+### Target Learners
+- preservice mathematics teachers
+- primary and lower-secondary pupils
+
+### Target Learning Objectives
+- subjective interpretation of probability
+- reasoning under uncertainty
+
+### Claims
+
+- [Subjective Reasoning Context Dependent](../claims/subjective-reasoning-context-dependent.md) [+M]
+- [Attributing outcomes to Allah's will among some PSMTs functioned as probabilistic reasoning, not mere personalist belief](../claims/allahs-will-as-probabilistic-reasoning.md) [+W]
+- [The Egyptian school probability curriculum is dominated by quasi-pedagogical randomising-device tasks](../claims/egyptian-curriculum-quasi-pedagogical-dominance.md) [+W]
+- [Mathematically oriented PSMTs exhibit equiprobability and insensitivity-to-prior-probability biases](../claims/m-thinkers-equiprobability-insensitivity-biases.md) [+W]
+- [A bias-free experimental-probability subcategory (o**) emerged only in the die-rolling task](../claims/o-star-star-law-of-large-numbers.md) [+W]
+- [Outcome-oriented PSMTs conflate causality with conditionality and predict single-trial outcomes](../claims/outcome-oriented-causal-conception.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Elbehary, S.G.A. (2021). Reasoning under uncertainty within the context of probability education: A case study of preservice mathematics teachers. Pythagoras, 42(1), a630. https://doi.org/10.4102/pythagoras.v42i1.630
 -->

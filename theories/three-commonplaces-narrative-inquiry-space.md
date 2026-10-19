@@ -45,6 +45,7 @@ The article presents the three-dimensional narrative inquiry space as the organi
 ## Examples
 
 - [Use myriad field texts and the analytical tools of broadening, burrowing, and storying and restorying to move from field texts to research texts](../strategies/broadening-burrowing-storying-restorying-tools.md)
+- [Narrative & Experience in Multicultural Education (2005) as an exemplar of puzzle-driven narrative inquiry](../elements/narrative-experience-multicultural-education-exemplar.md)
 
 ## Key Sources
 - Wei, L. (2023). Narrative Inquiry: A Research Method in the Education Field. World Journal of Education, 13(6). https://doi.org/10.5430/wje.v13n6p35

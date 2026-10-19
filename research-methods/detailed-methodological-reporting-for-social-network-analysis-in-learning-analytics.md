@@ -26,7 +26,8 @@ The article recommends that researchers reporting on social network analysis in 
 - [Post size is not a reliable tie weight for centrality measures; receiving interactions better indicates the value of a contribution.](../claims/post-size-unreliable-tie-weight.md) [+M]
 
 ## Related Research Methods
--
+
+- [Centrality measures as operationalization of the participatory and social dimensions of CSCL](centrality-measures-as-operationalization-of-the-participatory-and-social-dimensions-of-cs.md)
 
 ## Key Sources
 - Mohammed Saqr, et al. (2020). Capturing the participation and social dimensions of computer-supported collaborative learning through social network analysis: which method and measures matter? International Journal of Computer-Supported Collaborative Learning 15:227–248. https://doi.org/10.1007/s11412-020-09322-6

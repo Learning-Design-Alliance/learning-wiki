@@ -17,7 +17,7 @@ sources:
 # Expose information directly to students and parents rather than merely making it available
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The review recommends that education policies deliver relevant information actively to decision-makers instead of only making it accessible, because automatic thinking means people act on what immediately comes to mind. It states that "Policies that expose information, compared to making it easily available, are more likely to be effective in a variety of fields, from consumer retail behavior to health". In education this supports mailed college-information packages and simplified, salient presentation of costs and options.
@@ -41,6 +41,11 @@ The review recommends that education policies deliver relevant information activ
 
 ### Affordances
 - Dual System Four Barriers Education Investment
+
+## Claims
+
+- [Information barriers disadvantage low-income students in the college transition: bright low-income students miss selective colleges, and mailed information packages raise application and enrollment](../claims/college-information-barriers-low-income-students.md) [+W]
+- [Text-message alerts to parents about incomplete middle-school homework raise student performance](../claims/parent-text-alerts-incomplete-homework-raise-performance.md) [+W]
 
 ## Related Strategies
 - 

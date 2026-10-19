@@ -41,7 +41,8 @@ The article frames game jams as constructivist learning environments that emulat
 - [Game Jam Five Phases 4C Links](../claims/game-jam-five-phases-4c-links.md) [+M]
 
 ## Related Designs
-- 
+
+- [Game jam resource kit: non-digital and digital materials, software, venue and devices for 4C-focused jams](game-jam-resource-kit.md)
 
 ## Examples
 -

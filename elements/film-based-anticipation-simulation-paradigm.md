@@ -43,7 +43,8 @@ A laboratory paradigm in which an action sequence (e.g., tennis serves) is filme
 - 
 
 ## Related Elements
-- 
+
+- [Annotated videodisc authoring template (Marario)](annotated-videodisc-authoring-template.md)
 
 ## Examples
 -

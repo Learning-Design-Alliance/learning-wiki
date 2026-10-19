@@ -43,4 +43,7 @@ Archival case study of the fan-produced Omnifam ARG (May–December 2005), recon
 
 
 ## Related Claims
--
+
+- [Industry-produced Alias ARGs were redundant add-ons with one-way ties to the TV series, providing no new backstory](industry-args-redundant-add-ons-alias.md)
+- [Fan-produced and industry-produced ARGs based on existing media properties perform the same cultural function of extending the narrative within a shared consumption framework](args-shared-consumption-framework.md)
+- [Intellectual-property concerns and fan attraction to the backstory jointly shaped the fan ARG's focus on the Rambaldi mythology](omnifam-ip-self-censorship-design.md)

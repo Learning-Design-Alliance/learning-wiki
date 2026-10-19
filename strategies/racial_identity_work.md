@@ -104,6 +104,7 @@ Racial identity work functions as a form of [Scaffolding](../principles/scaffold
 - [Considering the Opposite](../principles/considering-the-opposite.md) — a concrete reflection technique: deliberately entertaining alternative interpretations of a disciplinary decision or low expectation reduces biased judgment [Considering the opposite reduces bias.](../claims/considering-the-opposite-reduces-bias.md) [+M]
 
 ## Related Strategies
+
 - [Building Empathy](../principles/building-empathy.md) — perspective-taking exercises that complement identity reflection with structured empathy practice
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — identity work begins by surfacing educators' own formative experiences with race
 - [Action Research](action-research.md) — a natural extension: educators investigate racialized patterns in their own classrooms systematically
@@ -111,6 +112,7 @@ Racial identity work functions as a form of [Scaffolding](../principles/scaffold
 - [Culturally Responsive Teaching](culturally-responsive-teaching.md) — racial identity work is the teacher-side prerequisite for enacting it
 - [Restorative Practices](restorative-practices.md) — discipline approach whose equitable use depends on examined bias
 - [Build identity safety through empathy-building, connection tools, and values affirmation routines](identity-safety-relationship-building-strategies.md)
+- [Implement anti-bias curricular models with four goals to build culturally relevant, strength-based classrooms](anti-bias-curriculum-four-goals-strategy.md)
 
 ## Related Elements
 - [Individual Reflection](../elements/individual-reflection.md) — the private processing layer that precedes public dialogue

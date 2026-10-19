@@ -15,7 +15,7 @@ sources:
 # Treat mission statements as rhetorical interventions requiring concrete commitments and explicit rhetorical audiences, not vague excellence vocabulary
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Drawing on Winstead and Hobson (1971), the article recommends treating mission statements as only "the first step in planning": without follow-through and substantive metrics linking ideals to practical realities, statements become no more meaningful. Institutions should clarify how knowledge is created, the labour it requires, and their responsibilities to stakeholders—especially students—in articulating values and policies, avoiding aspirational yet vague language that appeals to multiple audiences at the cost of logos.
@@ -39,6 +39,10 @@ Drawing on Winstead and Hobson (1971), the article recommends treating mission s
 
 ### Affordances
 - Rhetorical Framework University Mission Statements
+
+## Claims
+
+- [Mission statements across the U15, Russell Group, and Ivy League exhibit Booth's rhetorical corruptions, with polished rhetoric of excellence obscuring concrete commitments](../claims/mission-statement-rhetorical-corruptions.md) [+W]
 
 ## Related Strategies
 - 

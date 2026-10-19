@@ -61,4 +61,6 @@ Multiple regression on absolute accuracy during the Monitoring Exercise (t=1a) f
 
 
 ## Related Claims
--
+
+- [Higher narcissism and higher task motivation predict more positive bias in self-assessed idea creativity](narcissism-motivation-predict-idea-bias.md)
+- [Higher narcissism and task motivation predict more positive self-assessed idea creativity](narcissism-motivation-predict-idea-self-assessment.md)

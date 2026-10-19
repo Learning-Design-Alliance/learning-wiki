@@ -40,7 +40,10 @@ El modelo de la tesis "sigue las cinco fases del diseño instruccional ADDIE", o
 - 
 
 ## Related Designs
-- 
+
+- [Modelo de evaluación formativa para cursos virtuales de matemáticas integrado con analítica de aprendizaje](modelo-evaluacion-formativa-matematicas-virtuales.md)
+- [Ambiente computacional \"sólidos geométricos\" con andamiaje de autoeficacia (metas, autoevaluación y mensajes motivacionales)](ambiente-solidos-geometricos-andamiaje-autoeficacia.md)
+- [Diseño mixto con grabación en audio de tutorías de 6 docentes tutores de trabajo de grado](estudio-mixto-audio-tutorias-seis-docentes.md)
 
 ## Examples
 -

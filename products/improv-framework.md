@@ -24,7 +24,9 @@ Chen's framework guides learning-science researchers, designers, educators, and 
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [UChicago Consortium's research-practice partnership model](uchicago-consortiums-research-practice-partnership-model.md)
+- [SEERNet](seernet.md)
 
 ## Key Sources
 - Chen, B. (2024). A framework for infrastructuring sustainable innovations in education. Journal of the Learning Sciences. https://doi.org/10.1080/10508406.2024.2320159

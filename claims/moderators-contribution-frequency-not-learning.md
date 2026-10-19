@@ -62,4 +62,5 @@ Main-study moderation models on learning gains (Table 9) were non-significant: N
 
 
 ## Related Claims
--
+
+- [In the main study, wiki contribution frequency indirectly mediated the effect of script on post-test learning, while the direct script effect was not significant](contribution-frequency-mediates-script-learning.md)

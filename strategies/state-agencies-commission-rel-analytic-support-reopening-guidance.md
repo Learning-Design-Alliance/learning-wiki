@@ -40,6 +40,7 @@ This strategy pairs a state education agency with a regional educational laborat
 
 - [Develop or update continuity of learning plans using evidence-based and promising practices to prepare for blended learning and possible school closures](continuity-of-learning-plan-practices.md)
 - [When planning for the school year during COVID-19, schools and districts should weigh public health factors alongside educational factors such as potential learning loss](reopening-planning-weigh-health-and-learning-loss.md)
+- [Use district-level analyses of health condition prevalence, supports, and outcomes to inform an action plan for equitably supporting students with health conditions](district-health-condition-analysis-informs-equity-action-plan.md)
 
 ## Examples
 -

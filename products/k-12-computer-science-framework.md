@@ -27,6 +27,7 @@ A framework developed by ACM, CSTA, Code.org, and collaborating experts that def
 ## Related Products and Programmes
 
 - [Computational Thinking Pathways](computational-thinking-pathways.md)
+- [CSTA/ISTE operational definition of computational thinking](cstaiste-operational-definition-of-computational-thinking.md)
 
 ## Key Sources
 - Digital Promise. (2017). Computational Thinking for a Computational World. https://www.digitalpromise.org

@@ -44,4 +44,5 @@ The review's second section, on the developmental time course of selective atten
 
 
 ## Related Claims
--
+
+- [Selective attention processes are hypothesized to relate to language, literacy, and mathematics, three domains important to early academic skills](selective-attention-links-language-literacy-mathematics.md)

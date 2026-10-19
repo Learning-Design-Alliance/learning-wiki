@@ -48,6 +48,8 @@ Drawing on the converging gaps across the reviewed literature, the review recomm
 - [Prioritize inclusive-by-design architectures, interoperable agent frameworks, human-AI collaboration models, and real-world implementation studies](future-directions-inclusive-by-design-agentic-ai.md)
 - [Establish comprehensive institutional AI governance frameworks including task forces, roadmaps, and transparent policies](institutional-ai-governance-framework-strategy.md)
 - [Collaborative cross-cultural research agenda for validating AI-enabled pedagogical accompaniment](collaborative-agenda-validating-pedagogical-accompaniment.md)
+- [Pursue future research on ChatGPT in higher education to fill the gaps the scoping review identifies](chatgpt-he-future-research-directions.md)
+- [Integrate autonomy and agency paradigms, standardise instruments, probe non-demographic moderators, and extend evaluations to longitudinal real-world settings](integrate-paradigms-longitudinal-hri-autonomy-research.md)
 
 ## Examples
 -

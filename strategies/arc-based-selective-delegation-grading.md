@@ -42,6 +42,7 @@ The article recommends that educators and system designers use accuracy-rejectio
 ## Related Strategies
 
 - [Allocate human and AI effort by dimension type: automate explicit-criteria dimensions, retain human review for pedagogical judgment](human-ai-division-of-labor-mcq-generation.md)
+- [Use teacher-in-the-loop verification targeted at each error stage rather than fully automated LLM diagnosis](teacher-in-the-loop-diagnostic-verification.md)
 
 ## Examples
 -

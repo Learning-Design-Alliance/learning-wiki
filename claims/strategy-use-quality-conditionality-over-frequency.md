@@ -43,4 +43,5 @@ The commentary summarizes the three key findings Dinsmore extracts from his revi
 
 
 ## Related Claims
--
+
+- [Dinsmore's review of 134 studies argues that models of strategic processing among college students must be multidimensional and dynamic](strategic-processing-multidimensional-dynamic-college.md)

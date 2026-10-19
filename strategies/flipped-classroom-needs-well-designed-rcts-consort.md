@@ -17,7 +17,7 @@ sources:
 # Future flipped-classroom research should be well-designed, sufficiently powered RCTs with low risk of bias reported per CONSORT
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Based on the low certainty of evidence for both academic performance and satisfaction, the review recommends that "Future well‐designed sufficiently powered RCTs with low risk of bias that report according to the CONSORT guidelines are needed." This is the review's forward-looking research recommendation for decision-makers and researchers in health professional education.
@@ -36,6 +36,10 @@ Based on the low certainty of evidence for both academic performance and satisfa
 ### Target Learning Goals
 - academic performance
 - student satisfaction
+
+## Claims
+
+- [Undergraduate health professional students report more positive satisfaction with flipped class learning than with traditional class learning (SMD = 0.48), at low certainty](../claims/flipped-classroom-student-satisfaction-positive.md) [+W]
 
 ## Related Strategies
 - 

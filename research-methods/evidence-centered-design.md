@@ -45,7 +45,10 @@ ECD is a principled assessment design framework that structures the rationales, 
 - [LLM assessment conversations can be derailed off-topic by gaming attempts, and one successful prompt revision was not demonstrated to be replicable](../claims/llm-cba-derailment-gaming-not-replicable.md) [~M]
 
 ## Related Research Methods
--
+
+- [Retrospective emulation of evidence-centered design features for learning analytics](retrospective-emulation-of-evidence-centered-design-features-for-learning-analytics.md)
+- [Strategy-based temporal analytics framework for stealth assessment using LSTM evidence models](strategy-based-temporal-analytics-framework-for-stealth-assessment-using-lstm-evidence-mod.md)
+- [Three-construct framework for measuring challenge navigation in games](three-construct-framework-for-measuring-challenge-navigation-in-games.md)
 
 ## Key Sources
 - Rupp, A.A., Gushta, M., Mislevy, R.J., & Shaffer, D.W. (2010). Evidence-centered Design of Epistemic Games: Measurement Principles for Complex Learning Environments. Journal of Technology, Learning, and Assessment, 8(4). http://www.jtla.org

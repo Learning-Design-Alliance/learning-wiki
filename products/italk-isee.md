@@ -25,7 +25,8 @@ iTalk-iSee is a participatory visual learning analytics tool developed by Hu, Wu
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [KBDeX (Knowledge Building Discourse Explorer)](kbdex-knowledge-building-discourse-explorer.md)
 
 ## Key Sources
 - Carolyn Rosé · Sanna Järvelä. (2022). Supporting perspective taking across chasms of thinking: Do real-time analytics hold the key?. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-022-09378-6

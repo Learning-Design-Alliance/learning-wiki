@@ -62,6 +62,7 @@ Cross-over trial in which 552 children aged 8–12 were randomized by school int
 
 
 ## Related Claims
+
 - [Chronic exercise significantly improves working memory, inhibitory control, and cognitive flexibility in children and adolescents](chronic-exercise-improves-executive-function-children.md) — a broader claim this one bears on
 - [Open-skill exercises yield larger executive function benefits than closed-skill exercises for inhibitory control and working memory](open-skill-exercise-larger-ef-benefits.md) — related
 - [Acute exercise significantly improves inhibitory control in children and adolescents with a small effect size (SMD = −0.25)](acute-exercise-improves-inhibitory-control-children.md) — related
@@ -74,3 +75,4 @@ Cross-over trial in which 552 children aged 8–12 were randomized by school int
 - [Acute exercise produces an overall small positive effect on cognition, with executive functions benefiting most and effects lasting up to two hours post-exercise](acute-exercise-small-positive-executive-cognition-effect.md) — related
 - [Sustained aerobic exercise improves children's EFs, with dose-response benefits for the most EF-demanding task and math in the high-dose group only](aerobic-exercise-dose-response-ef.md) — a narrower finding that bears on this claim
 - [Exercise intensity differentially moderates acute exercise cognitive benefits, with moderate intensity favoring executive functions and high intensity favoring information processing](exercise-intensity-moderates-cognitive-benefits.md) — related
+- [Inhibitory control is the EDF subdomain most repeatedly linked to ADHD](inhibitory-control-repeatedly-adhd-related.md)

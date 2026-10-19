@@ -62,4 +62,8 @@ Stepwise regression on the same data confirmed that the percentage of explorator
 
 
 ## Related Claims
--
+
+- [Concrete-task participants conducted a significantly lower percentage of exploratory experiments than intermediate-task participants, whose exploratory percentage matched the abstract condition](concrete-task-lower-exploratory-experiments.md)
+- [Concrete-task participants achieved higher performance success than intermediate-task participants in simulation-based inquiry, while intermediate and abstract conditions did not differ significantly](concrete-task-higher-performance-success-than-intermediate.md)
+- [CVS skill is the strongest predictor of performing valid (unconfounded) experiments in simulation-based inquiry](cvs-predicts-proportion-valid-experiments.md)
+- [Cognitive factors explain about 49% of variance in simulation-based inquiry performance among young adults](cognitive-factors-explain-half-inquiry-variance.md)

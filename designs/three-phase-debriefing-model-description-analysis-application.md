@@ -17,7 +17,7 @@ sources:
 # The three-phase debriefing model (description, analysis, application) structuring the post-simulation discussions
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The investigated debriefings were organized around "a specific model for debriefing" with "three main phases: description, analysis, and application". Description begins with a 'blow out' in which each participant names one prominent feeling, followed by factual description of the scenario; the analysis phase, the most extensive part, is devoted to joint discussion and analysis of students' conduct; application involves students summarizing what they learned. Video clips of key events were introduced within the analysis phase.
@@ -38,10 +38,13 @@ The investigated debriefings were organized around "a specific model for debrief
 - interprofessional teamwork, communication and non-technical skills such as SBAR, speak up and closed loop communication
 
 ### Claims
-- 
+
+- [Debriefing description phase enacts conversational remembering that turns private recollections into a public, shared epistemic artifact](../claims/debriefing-conversational-remembering-public-artifact.md) [+W]
 
 ## Related Designs
-- 
+
+- [DCog model of debriefing as a coordination device for conversational remembering and distributed metacognition](debriefing-coordination-device-dcog-model.md)
+- [The briefing–scenario–debriefing (BSD) cycle as a design scaffold for distributing guidance, feedback, and representational work over time](bsd-cycle-design-scaffold.md)
 
 ## Examples
 -

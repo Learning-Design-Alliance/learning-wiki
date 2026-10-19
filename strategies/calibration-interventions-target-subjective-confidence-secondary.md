@@ -47,7 +47,8 @@ Because secondary school students' confidence judgements do not relate to their 
 - [Among university students, poorer calibration accuracy is accompanied by lower confidence in the performance estimate, independent of performance level](../claims/university-students-soj-tracks-calibration-accuracy.md) [-W]
 
 ## Related Strategies
-- 
+
+- [Tailor calibration interventions to whether a student is over- or under-confident](tailor-calibration-interventions-to-confidence-direction.md)
 
 ## Examples
 -

@@ -56,7 +56,7 @@ The packet explains that "Cummins divides language proficiency into two dimensio
 
 ## Examples
 
-- [Functional Approach progression from oral dialogue (BICS) to written discourse (CALP)](../patterns/functional-approach-bics-to-calp-progression.md)
+- [Functional Approach progression from oral dialogue (BICS) to written discourse (CALP)](../principles/talking-and-writing-means-to-learning.md)
 - [Functional Approach model: a five-step progression taking students from BICS (oral dialogue) to CALP (written discourse)](../elements/functional-approach-oral-dialogue-to-written-discourse-model.md)
 - [Teacher training packets operationalize communicative competence theory through workshop activities, pre/posttests, and guided discussion rather than expert knowledge alone](../strategies/workshop-packet-operationalize-communicative-competence-theory.md)
 
@@ -107,7 +107,7 @@ The packet presents Cummins' theoretical model of bilingualism, in which languag
 
 - [Functional Approach model: a five-step progression taking students from BICS (oral dialogue) to CALP (written discourse)](../elements/functional-approach-oral-dialogue-to-written-discourse-model.md)
 - [Teacher training packets operationalize communicative competence theory through workshop activities, pre/posttests, and guided discussion rather than expert knowledge alone](../strategies/workshop-packet-operationalize-communicative-competence-theory.md)
-- [Functional Approach progression from oral dialogue (BICS) to written discourse (CALP)](../patterns/functional-approach-bics-to-calp-progression.md)
+- [Functional Approach progression from oral dialogue (BICS) to written discourse (CALP)](../principles/talking-and-writing-means-to-learning.md)
 
 ## Key Sources
 - Calderon, Margarita; DiPietro, Robert J.; Larsen-Pusey, Mary Ann; Rubio, Olga. (1982). Methods and Techniques for Communicative Competence in Bilingual Education, Packet II. Series B. Teacher Edition. Evaluation, Dissemination and Assessment Center, Dallas. https://eric.ed.gov/?id=ED226608

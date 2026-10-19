@@ -64,3 +64,4 @@ Experiment 1: 36 paid volunteers from an introductory college physics course, bl
 - [Strong acquisition tasks explicating the organization produce better internalization than weak tasks asking only for a structured summary](strong-acquisition-tasks-improve-internalization.md) — related
 - [Kit+TA students spontaneously transferred the TA's hierarchical spatial organization to open-ended post-test answers, unlike Kit-Only students](ta-transfer-spatial-hierarchy-organization.md) — a narrower finding that bears on this claim
 - [Structural signals show no consistent recall benefits but can aid deeper understanding measured by problem-solving tests](structural-signals-aid-problem-solving-not-recall.md) — related
+- [In the exploratory recall analysis, participants with relatively high domain knowledge showed better recall performance than participants with relatively low domain knowledge.](domain-knowledge-predicts-recall.md)

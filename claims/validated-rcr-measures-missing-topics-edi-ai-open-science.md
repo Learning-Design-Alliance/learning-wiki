@@ -44,4 +44,8 @@ Content-analysis findings on topic coverage gaps across the 15 measures. The dis
 
 
 ## Related Claims
--
+
+- [Fifteen unique RCR outcome measures with supporting validation evidence were identified, all covering research integrity but only ten covering research ethics](fifteen-validated-rcr-measures-ri-re-coverage.md)
+- [Publication and dissemination is the most frequent research integrity item topic, and consent the most frequent research ethics topic, in validated RCR measures](publication-and-consent-top-validated-rcr-measure-topics.md)
+- [Validation evidence across the 15 RCR measures is partial and heterogeneous, with no test–retest, criterion validity or factor-analytic evidence reported](rcr-measure-validation-evidence-heterogeneous-limited.md)
+- [Most validated RCR measures assess a single learning outcome, with attitudes most common and only four measures testing knowledge](rcr-measures-single-learning-outcome-dominance.md)

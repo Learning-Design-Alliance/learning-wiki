@@ -165,6 +165,7 @@ This pattern is scoped to small-group work where each member's individual learni
 - [Cooperative Learning](../strategies/cooperative-learning.md)
 - [Encourage Cooperation](../strategies/encourage_cooperation.md)
 - [Adopt and adapt parts of several cooperative learning models to fit your teaching style and situation](../strategies/adopt-and-adapt-multiple-cl-models.md)
+- [ARDESOS-DIAPROVE program](../products/ardesos-diaprove-program.md)
 
 ## Key Sources
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)

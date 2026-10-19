@@ -43,4 +43,5 @@ Canonical correlation analysis of kindergarten DIBELS and TERA scores (N = 326) 
 
 
 ## Related Claims
--
+
+- [DIBELS subtests form a significant multivariate pair with peer-play and learning-behavior dimensions (Engaged Literacy Learning variate)](dibels-engaged-literacy-learning-canonical.md)

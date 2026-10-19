@@ -43,6 +43,7 @@ Because direct grit interventions lack evidentiary support, the review recommend
 
 - [Four Academic Mindsets](../theories/four-academic-mindsets.md)
 - [Cultivate positive academic mindsets through instructional practices aligned with students' psychological needs](mindset-cultivation-practices-list.md)
+- [Classroom strategies for developing student psycho-social supports and academic mindsets](classroom-psycho-social-support-strategies.md)
 
 ## Examples
 -

@@ -48,7 +48,7 @@ Drawing on Ericsson and Pool (2016) and Ericsson (2020), the article presents a 
 
 ## Examples
 
-- [Three-phase DP/PP practice protocol pattern](../patterns/three-phase-dp-pp-practice-protocol.md)
+- [Three-phase DP/PP practice protocol pattern](../principles/formative-assessment.md)
 - [Feedback and feedforward typology for deliberate language practice](../elements/dp-feedback-feedforward-typology.md)
 
 ## Key Sources

@@ -48,7 +48,7 @@ Guided inquiry is the element in which learners investigate questions or problem
 - [Team-Based Inquiry](team-based-inquiry.md)
 
 ## Patterns That Use This Element
-- [POGIL](../patterns/process-oriented-guided-inquiry-learning-pogil.md)
+- [POGIL](../principles/inquiry-based-learning.md)
 - [Problem-Based Learning](../patterns/problem-based-learning.md)
 
 ## Examples

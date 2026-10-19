@@ -24,7 +24,8 @@ The review synthesizes the varied conceptual indicators used to model individual
 ### Claims
 
 ## Related Research Methods
--
+
+- [CoMPAS framework: six forms modeling individual participation in collaborative learning](compas-framework-six-forms-modeling-individual-participation-in-collaborative-learning.md)
 
 ## Key Sources
 - Shihui Feng, Ziyi Wei. (2025). The CoMPAS Framework for Modeling Individual Participation in Collaborative Learning Processes: a Systematic Review. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09450-x

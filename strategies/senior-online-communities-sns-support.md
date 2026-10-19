@@ -37,7 +37,8 @@ The article recommends that people advising senior citizens point older, new soc
 - safe and effective adoption of social networking and Internet use
 
 ## Related Strategies
-- 
+
+- [Use scripted, small-group social media training workshops to foster older adults' social media engagement, and plan ongoing support to sustain use after training ends](social-media-training-workshops-older-adults-strategy.md)
 
 ## Examples
 -

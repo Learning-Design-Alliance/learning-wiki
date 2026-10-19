@@ -17,7 +17,7 @@ sources:
 # Use discussion forums with three reflection prompts to structure students' dialogic reflection after viewing visualisations
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Teachers devised reflection prompts centred on three questions—what happened (facts), how to interpret (reason and evaluation), and how to improve (plan)—to structure students' asynchronous forum responses to visualised classroom clips. Students first reflected individually on their group's performance, then reviewed peers' responses and contributed insights and feedback, making the forum an extension of classroom space for documenting and exchanging views asynchronously.
@@ -38,8 +38,13 @@ Teachers devised reflection prompts centred on three questions—what happened (
 - dialogic reflection on task performance and collaboration
 - accountability of talk to knowledge, reasoning and community
 
+## Claims
+
+- [VSDR helped students reflect on and adopt alternative problem-solving approaches to tasks](../claims/vsdr-alternative-problem-solving-reflection.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Calm and Honest Reflection](calm_and_honest_reflection.md)
 
 ## Examples
 -

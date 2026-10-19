@@ -30,7 +30,8 @@ OGAP Professional Learning is a mathematics professional-development programme r
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [OGAP Math](ogap-math.md)
 
 ## Key Sources
 - OGAP Math program description. (2024). Evidence for Learning. https://www.evidenceforlearning.org/ogap-math/

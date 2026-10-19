@@ -43,4 +43,6 @@ Analysis of interview transcripts and observational notes through the circuit-of
 
 
 ## Related Claims
--
+
+- [Users successfully localized the hard-to-use mobile text messaging technology into their daily lives despite poor developer localization](users-localize-hard-to-use-text-messaging.md)
+- [User localization success of text messaging is unqualified and fragile: some participants reduced use when costs rose or alternatives appeared](user-localization-success-fragile.md)

@@ -31,7 +31,8 @@ A regional alliance run by partner school districts, industry, and postsecondary
 - [Talladega County's cybersecurity program grew from 81 participating students in 2023-24 to 208 in 2024-25](../claims/talladega-cyber-program-enrollment-growth-81-to-208.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Shaping Our Appalachian Region (SOAR)](shaping-our-appalachian-region-soar.md)
 
 ## Key Sources
 - Babineau, K., Aso, C., Ganoo, K., Jacobs, B., Lenderman, K., Shah, Z., Smith, K., & Young, V. M. (2025). From Rural Districts to Statewide Pathways: A Blueprint for Scaling Cybersecurity Workforce Development Through Regional Collaboration. Digital Promise. https://doi.org/10.51388/20.500.12265/263

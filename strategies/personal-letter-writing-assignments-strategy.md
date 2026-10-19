@@ -39,7 +39,8 @@ The paper describes a strategy of assigning letter writing in college classes fo
 - reading comprehension in Portuguese
 
 ## Related Strategies
-- 
+
+- [Reflection After Writing](reflection_after_writing.md)
 
 ## Examples
 -

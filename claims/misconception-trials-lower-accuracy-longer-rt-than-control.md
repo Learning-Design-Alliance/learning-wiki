@@ -58,4 +58,6 @@ The same ANOVA on RT (N = 87) showed main effects of Trial type, F(1, 83) = 310.
 
 
 ## Related Claims
+
 - [Incongruent items in school-topic tasks are generally associated with longer response times and lower accuracy, patterns consistent with inhibitory control recruitment](incongruent-items-longer-rt-lower-accuracy.md) — a broader claim this one bears on
+- [In discipline-specific exploratory regressions, neither Stroop RT cost nor complex No-Go accuracy significantly predicted science or maths misconception measures separately](discipline-specific-inhibition-predictions-nonsignificant.md)

@@ -17,7 +17,7 @@ sources:
 # Adopt in-school spatial education curricula and assess their transferability using neural change alongside traditional assessments
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 6 claims (6 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 The article recommends wider in-school adoption of spatial education, noting that classroom-based evidence provides new empirical support where enthusiasm has not yet permeated education policy and practice. It further proposes neurally informed curriculum assessment: leveraging neural changes that predict transferability to evaluate curricula on relatively small scales — identifying existing curricula likely to achieve transfer, identifying changes that can improve transfer, and informing development of novel transferable curricula — while assessing curricula rather than individual students to avoid the practical and ethical limitations of large-scale neuroimaging.
@@ -40,6 +40,15 @@ The article recommends wider in-school adoption of spatial education, noting tha
 
 ### Affordances
 - Mental Model Theory Spatial Basis Verbal Reasoning
+
+## Claims
+
+- [Curriculum-related neural changes during spatial scanning predict and mediate transfer to verbal reasoning](../claims/eft-neural-change-predicts-mediates-transfer.md) [+M]
+- [Neural change during spatial scanning predicts verbal reasoning transfer better than traditional performance-based assessments, and best prediction combines both](../claims/neural-change-outpredicts-traditional-assessments.md) [+M]
+- [The spatial curriculum produced near transfer to improved spatial scanning and increased self-reported spatial habits of mind, but not to mental rotation](../claims/spatial-curriculum-near-transfer-scanning-habits.md) [+M]
+- [The spatial curriculum produced longitudinal neural changes during reasoning: increased aIPS activity, increased SpatialMap-to-DLPFC connectivity, and increased nonspatial-to-spatial representational similarity](../claims/spatial-curriculum-neural-changes-reasoning.md) [+M]
+- [A spatial STEM curriculum yields far transfer to improved verbal deductive reasoning in high school students, including on nonspatial relation trials](../claims/spatial-curriculum-transfers-to-verbal-reasoning.md) [+M]
+- [Improvement in spatial scanning predicts and mediates the curriculum's transfer effect to verbal reasoning](../claims/spatial-gains-predict-mediate-verbal-transfer.md) [+M]
 
 ## Related Strategies
 - 

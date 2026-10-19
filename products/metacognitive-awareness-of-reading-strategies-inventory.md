@@ -33,7 +33,8 @@ MARSI is a self-report assessment developed by Mokhtari and Reichard to measure 
 - [Successful readers out-use less successful readers on global and support strategies but not problem-solving strategies](../claims/successful-readers-global-support-strategy-difference.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Multiple-Text Strategy Inventory (MTSI)](multiple-text-strategy-inventory-mtsi.md)
 
 ## Key Sources
 - Thao M. T. Nguyen and Lap Q. Trinh. (2011). Learners' Metacognitive Strategy Use and Reading Comprehension: Insights from a Vietnamese Context. i-manager's Journal of English Language Teaching, Vol. 1 No. 1, January - March 2011. https://eric.ed.gov/?id=EJ1071083

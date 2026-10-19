@@ -62,4 +62,6 @@ Same retrieval ERP ANOVA: main effect of trial type with "larger P3 amplitude in
 
 
 ## Related Claims
--
+
+- [Adolescents with ADHD show poorer accuracy than non-ADHD peers on all conditions of a visual short-term memory task, with the largest drop on trials requiring WM updating](adhd-poorer-accuracy-wm-change-trials.md)
+- [Adolescents with ADHD respond more slowly than non-ADHD peers across all conditions, and color-shape binding slows responses in both groups](adhd-slower-rt-wm-binding-task.md)

@@ -56,6 +56,7 @@ The article recommends that higher education leadership move beyond widely embra
 - [Position AI detection tools as one component within a broader institutional decision-making process, with regularly updated benchmarks](detection-tools-within-broader-decision-process.md)
 - [Tripartite institutional response: AI literacy, ethical infrastructure, and competence-based educator training](tripartite-agentic-ai-institutional-response.md)
 - [Develop student AI literacy and institutional GenAI policies, guidelines and safeguards for responsible integration](genai-literacy-and-institutional-policy-strategy.md)
+- [Define institutional value from the bottom up, incorporating learning outcomes, community engagement, and career readiness beyond earnings thresholds](bottom-up-value-definition-beyond-earnings.md)
 
 ## Examples
 -

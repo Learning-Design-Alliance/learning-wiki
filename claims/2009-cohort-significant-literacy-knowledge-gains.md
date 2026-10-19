@@ -43,4 +43,6 @@ Pretest-posttest study of the 2009 cohort (n = 31) in the replicated literacy un
 
 
 ## Related Claims
--
+
+- [The study could not determine whether knowledge gains transferred to participants' classroom teaching](no-follow-through-classroom-transfer-unknown.md)
+- [Preservice special educators in the 2008 cohort showed significant pretest-to-posttest knowledge gains after the 6-week co-taught literacy unit](2008-cohort-significant-literacy-knowledge-gains.md)

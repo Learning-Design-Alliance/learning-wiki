@@ -12,7 +12,7 @@ generated:
 # Transactivity coding scheme for self- and other-oriented reasoning
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article operationalizes transactivity as reasoning made explicit that builds on prior reasoning in a discussion. As printed, "our operationalization of transactivity is defined as the process of building on an idea expressed earlier in a conversation using a reasoning statement." Transacts are self-oriented when they operate on the speaker's own prior reasoning and other-oriented when they operate on a partner's reasoning; other-oriented transacts are treated as particularly central to group knowledge integration. Coding proceeds in steps distinguishing reasoning from non-reasoning statements, externalizations from transactive contributions, and self- from other-oriented transacts.
@@ -22,7 +22,9 @@ The article operationalizes transactivity as reasoning made explicit that builds
 - **Transactivity framework: other-oriented versus self-oriented transacts as operationalized building-on-reasoning moves**: The article operationalizes transactivity as reasoning made explicit that builds on prior reasoning in a discussion. As printed, "our operationalization of transactivity is defined as the process of building on an idea expressed earlier in a conversation using a reasoning statement." Transacts are self-oriented when they operate on the speaker's own prior reasoning and other-oriented when they operate on a partner's reasoning; other-oriented transacts are treated as particularly central to group knowledge integration. Coding proceeds in steps distinguishing reasoning from non-reasoning statements, externalizations from transactive contributions, and self- from other-oriented transacts. (Gweon et al. (2013))
 
 ### Claims
+
 - [Human coding of other-oriented transacts in the debate corpus reached high inter-coder reliability (kappa 0.72 for reasoning, 0.7 for transactivity, 0.95 for self/other distinction)](../claims/transactivity-coding-kappa-reliability-debate-corpus.md) [+M]
+- [An automatic measure of speech style accommodation significantly positively correlates with prevalence of other-oriented transacts in dyadic debates (R = .36, p < .05)](../claims/speech-accommodation-correlates-other-oriented-transacts.md) [+W]
 
 ## Related Research Methods
 -

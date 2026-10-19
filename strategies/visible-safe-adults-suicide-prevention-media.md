@@ -17,7 +17,7 @@ sources:
 # Use visible adult identifiers and peer-focused media to signal safe adults and open conversations about suicide prevention
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 As suicide prevention efforts, PUSD created a video and education series titled "Talk to Me, I'll Listen" for grades 9–12 students and parents, encouraging open conversations and support networks to address suicidal ideation. Staff in grades 7–12 "wore matching shirts to signify that they were safe adults to talk to," and grades 7–8 staff created their own suicide prevention program to ensure continuity as students entered high school. This is a Tier 1 universal support strategy.
@@ -35,6 +35,10 @@ As suicide prevention efforts, PUSD created a video and education series titled 
 
 ### Target Learning Goals
 - recognizing and responding to signs of a mental health challenge; building support networks to address suicidal ideation
+
+## Claims
+
+- [Secondary students in PUSD increasingly reported open mental health conversations at school and knowing where to go for help from 2020/21 to 2022/23](../claims/pusd-chks-open-talk-help-seeking-increase.md) [+W]
 
 ## Related Strategies
 

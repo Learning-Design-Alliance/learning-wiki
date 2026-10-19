@@ -38,7 +38,9 @@ The article shows GBA data feeding back into game redesign: the semantic templat
 - content-model learning embedded in game play
 
 ## Related Strategies
-- 
+
+- [Design GBA according to educational needs and game features, integrating ECD by identifying competences, deciding on evidence, and designing in-game tasks](design-gba-by-needs-and-game-features.md)
+- [Guide Student Reflection](guide_student_reflection.md)
 
 ## Examples
 -

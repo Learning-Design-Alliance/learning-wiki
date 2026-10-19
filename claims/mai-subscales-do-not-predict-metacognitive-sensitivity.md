@@ -43,4 +43,5 @@ Null result from the same multiple regression in the 128-participant study. The 
 
 
 ## Related Claims
--
+
+- [The regression model significantly predicts metacognitive sensitivity but explains a small proportion of variance (R² = 0.079)](regression-model-small-variance-metacognitive-sensitivity.md)

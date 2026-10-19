@@ -62,4 +62,5 @@ In the saturated alternative ILS model with direct paths added, the direct path 
 
 
 ## Related Claims
--
+
+- [Conceptions of motivation to learn relate positively to self-regulation and external regulation and negatively to lack of regulation](motivation-to-learn-relates-to-regulation-strategies.md)

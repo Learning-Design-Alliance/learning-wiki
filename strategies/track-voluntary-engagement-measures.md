@@ -17,7 +17,7 @@ sources:
 # Track voluntary engagement measures alongside learning gains and study environments where bypass is possible
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (2 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The paper recommends that researchers consistently track and value voluntary engagement measures alongside learning gains, and study environments where bypass is present, since studies eliminating the possibility of bypass carry higher cost in ecological validity. It calls for longitudinal work on sustained AI use, mixed-methods approaches capturing why students engage or disengage, and deeper interdisciplinary partnerships with motivation scientists.
@@ -36,8 +36,14 @@ The paper recommends that researchers consistently track and value voluntary eng
 ### Target Learning Goals
 - Authentic engagement and self-regulatory capacity in environments where AI bypass is available
 
+## Claims
+
+- [AI assistance reduces persistence: persistence costs concentrate among learners who used AI for direct solutions, not hints](../claims/ai-assistance-persistence-costs-direct-solutions.md) [+W]
+- [Students' generative AI use may function either as a scaffold supporting thinking or as a shortcut bypassing essential cognitive processes](../claims/ai-scaffold-or-shortcut-pathways.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Track disaggregated dual enrollment pass rates in accountability frameworks alongside enrollment rates](disaggregated-pass-rate-accountability-dual-enrollment.md)
 
 ## Examples
 -

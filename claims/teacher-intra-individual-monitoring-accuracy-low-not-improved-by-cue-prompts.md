@@ -43,4 +43,7 @@ Experiment 1 with 255 sixth-graders and 14 teachers: teachers gave text-by-text 
 
 
 ## Related Claims
--
+
+- [The quality of sixth-graders' keywords is not diagnostic of intra-individual variation in test performance (Experiment 1).](keyword-quality-not-diagnostic-of-test-performance.md)
+- [Sixth-graders' own monitoring accuracy is low and does not differ between no-cue, keyword, and summary cue-prompt conditions (Experiment 1).](student-monitoring-accuracy-low-no-cue-prompt-effect-exp1.md)
+- [Teachers' inter-individual judgment accuracy (predicting differences between students) is well above chance (.528) even though their intra-individual accuracy is not (Experiment 1).](teacher-inter-individual-accuracy-above-chance.md)

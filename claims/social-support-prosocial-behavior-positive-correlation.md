@@ -43,4 +43,5 @@ Pearson correlation analysis in the 1171-adolescent survey. The article reports 
 
 
 ## Related Claims
--
+
+- [Adolescents' empathy is significantly positively correlated with social support (r = 0.164)](empathy-social-support-positive-correlation-adolescents.md)

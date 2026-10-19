@@ -17,7 +17,7 @@ sources:
 # Vary representational tools and look for invariants to discover collaboration methods before building CMC interfaces
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article's methodological recommendation for designers is to study how people appropriate flexible, familiar representations before fixing interface assumptions: "Our methodological strategy is to vary the representational tools provided and look for invariants across the different configurations." Rather than mapping a theoretical communication model directly onto an interface, designers should first identify which affordances users take up and for what communicative functions, then build tools that support those flexibilities.
@@ -36,6 +36,13 @@ The article's methodological recommendation for designers is to study how people
 
 ### Target Learning Goals
 - Understanding and designing for media appropriation in collaborative learning
+
+## Claims
+
+- [Dyads collaborating via flexible written paper media exhibit invariant communicative practices across media, participants and topics](../claims/invariant-communicative-practices-artifact-mediated-collaboration.md) [+W]
+- [Participants used a limited, polymorphic repertoire of materials, gestures and symbols whose meanings were context-derived](../claims/limited-polymorphic-repertoire-written-collaboration.md) [+W]
+- [Written media afford simultaneous production and comprehension, which pairs appropriate to manage multiple discussion threads](../claims/written-media-simultaneity-multiple-threads.md) [+W]
+- [Recurring functional/conceptual spaces (personal space, shared work area, conclusions, discard) emerged in every interaction, and pairs resisted re-designating designated spaces](../claims/functional-conceptual-workspace-spaces.md) [+W]
 
 ## Related Strategies
 - 

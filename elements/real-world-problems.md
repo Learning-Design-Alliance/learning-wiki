@@ -51,7 +51,6 @@ Real-world problems are tasks framed around authentic issues, needs, or dilemmas
 
 ## Patterns That Use This Element
 - [Anchored Instruction](../patterns/anchored-instruction.md)
-- [Goal-Based Scenarios](../patterns/goal-based-scenarios.md)
 
 ## Examples
 - Learners address a local civic issue, client problem, or design challenge with real constraints.

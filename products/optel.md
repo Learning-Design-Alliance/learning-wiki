@@ -18,7 +18,7 @@ sources:
 # OPTEL
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 OPTEL is an observation protocol for teachers of English learners, developed and implemented by the California Department of Education with support from R15CC.
@@ -28,6 +28,8 @@ OPTEL is an observation protocol for teachers of English learners, developed and
 - **Five-part ELD standards webinar series and forthcoming professional learning modules supporting OPTEL implementation**: Because OPTEL relies on the 2014 English learner development (ELD) standards, R15CC helped CDE design and deliver a five-part webinar series building the field's capacity to use that foundational document, deepening understanding of the standards and their proficiency levels, "which align with OPTEL ratings." CDE is also collaborating with county and district leaders on professional learning modules scheduled for release in fall 2024, focusing on parent perspectives and accommodating English learners with disabilities. (Strengthening English Learner Reclassification in California (2024))
 
 ### Claims
+
+- [Statewide OPTEL webinars showed high self-reported impact on participant knowledge and perceived quality](../claims/optel-webinar-high-survey-impact.md) [+W]
 
 ## Related Products and Programmes
 

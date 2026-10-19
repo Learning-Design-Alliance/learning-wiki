@@ -42,4 +42,6 @@ Quasi-experimental pre-post study of 89 first-year psychology students; Student'
 
 
 ## Related Claims
--
+
+- [The ARDESOS-DIAPROVE intervention significantly improved critical thinking skills, with higher PENCRISAL medians after intervention in the total score and all five factors](ardesos-diaprove-improves-pencrisal-scores.md)
+- [The relation between metacognition and critical thinking is bidirectional: metacognition improves thinking skills and vice versa](metacognition-ct-bidirectional-relation.md)

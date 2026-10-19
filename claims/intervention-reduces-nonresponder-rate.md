@@ -62,4 +62,8 @@ Subgroup analysis of children with IEPs in the earlier study, comparing nonrespo
 
 
 ## Related Claims
--
+
+- [Nonresponsiveness to kindergarten intervention is persistent and predicts school-identified reading problems through third grade](nonresponsiveness-persistent-predicts-disability.md)
+- [For first-grade nonresponders, PALS showed no statistically significant effects on seven alphabetics outcomes compared with adult tutoring](pals-first-grade-alphabetics-indeterminate-versus-adult-tutoring.md)
+- [For first-grade nonresponders, PALS showed a substantively important negative (but statistically non-significant) effect on reading comprehension versus adult tutoring](pals-mcmaster-comprehension-negative-effect.md)
+- [Peer-Assisted Literacy Strategies showed a substantively important positive (but statistically non-significant) effect on WRMT-R Passage Comprehension for first graders](pals-mathes-babyak-positive-comprehension-effect.md)

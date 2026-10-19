@@ -42,7 +42,10 @@ sources:
 - Coif Influences Trusting Meaning Making Deepening Understanding
 
 ## Related Strategies
+
 - Tutors Nurture Online Sob Facilitation
+- [Use the Meaning-making Influence to nurture online learners' sense of belonging](meaning-making-influence-sob-guidance.md)
+- [Use the Trusting Influence to nurture online learners' sense of belonging](trusting-influence-sob-guidance.md)
 
 ## Examples
 -

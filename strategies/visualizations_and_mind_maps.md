@@ -59,10 +59,12 @@ Visual representations exploit the capacity of the visual channel to carry infor
 6. Revisit and revise the map across the unit so it functions as a growing external model rather than a one-off artifact.
 
 ## Related Strategies
+
 - [Advance Organizers](../elements/advance-organizers.md) — a visualization presented *before* instruction to scaffold incoming information
 - [Analogies](../elements/analogies.md) — a verbal counterpart that maps unfamiliar structure onto familiar; often paired with a visual
 - [Annotating](../principles/annotating.md) — learner-generated marks and notes that can take graphical form
 - [Chunking](../principles/chunking.md) — the working-memory principle that visual grouping enacts
+- [Provide concept maps and hypermaps so learners see conceptual relationships and their own location in the system](concept-maps-hypermaps-navigation-support.md)
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — concept summaries and diagrams accompanying video lessons in science and economics.

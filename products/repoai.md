@@ -24,7 +24,8 @@ RepoAI is an open GitHub repository initiative run by LIA that provides AI tutor
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [GenAI-Learning-Outcomes GitHub repository](genai-learning-outcomes-github-repository.md)
 
 ## Key Sources
 - Panisson, A. R., Vianna, M. E. W. M., da Silva, I. F., da Silva, H. H., Savaris, R. F., Costa, B. P., Vigil, M. A. G., Lau, J., Hentz, A., Bordin, A. S., Gonçalves, A. L., & Rodrigues-Filho, R. (2026). Academic League of Artificial Intelligence – An Integrative Perspective of Teaching, Research, and Extension. https://arxiv.org/abs/2608.13447

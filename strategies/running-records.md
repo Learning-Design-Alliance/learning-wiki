@@ -59,10 +59,12 @@ Running records operationalize [Assessment for Learning](../principles/assessmen
 6. Reassess on a regular cycle (every 2–4 weeks for progressing readers, more often in intervention) to track growth.
 
 ## Related Strategies
+
 - [Guided Reading](guided-reading.md) — running records are the placement and diagnostic engine for guided reading groups
 - [Decodable Texts](decodable-texts.md) — the contrasting text-selection philosophy grounded in phonics-first instruction
 - [Formative Assessment Cycles](formative-assessment-cycles.md) — running records as a specific instance of assess–analyze–adjust
 - [Miscue Analysis](miscue-analysis.md) — the comprehension-oriented cousin developed by Goodman, which interprets errors semantically rather than as deficits
+- [Use tablet computers in Response to Intervention for self-recorded reading, electronic graphic organizers, and electronic text notation](rti-tablet-reading-strategies-strategy.md)
 
 ## Examples
 - **Reading Recovery** ([https://readingrecovery.org](https://readingrecovery.org)) — Clay's one-to-one intervention; daily running records drive lesson planning for the lowest-achieving first graders.

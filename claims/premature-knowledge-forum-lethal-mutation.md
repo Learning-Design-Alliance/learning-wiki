@@ -43,4 +43,5 @@ Observation from phase one of the Knowledge-Building Teacher Network. New teache
 
 
 ## Related Claims
--
+
+- [Students enact new CSCL technologies according to communication genres of the past, producing informal rather than scholarly discourse](old-genres-shape-threaded-discussion-use.md)

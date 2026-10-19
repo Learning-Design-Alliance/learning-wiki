@@ -43,6 +43,8 @@ The site coordinator, a role common to US PREP residency transformation sites, f
 ## Related Designs
 
 - [Residency clinical faculty site coordinator role](residency-site-coordinator-role.md)
+- [Teacher-mentor-AI collaboration as a distributed expertise system in AI technology creation](distributed-expertise-teacher-mentor-ai-collaboration.md)
+- [Three facilitation roles for STEM learning teams](three-facilitation-roles-stem-plcs.md)
 
 ## Examples
 -

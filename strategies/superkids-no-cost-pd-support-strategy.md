@@ -37,7 +37,11 @@ The program's implementation model bundles professional development and support 
 - Faithful implementation of the Superkids beginning reading curriculum
 
 ## Related Strategies
-- 
+
+- [Brief initial training with extensive follow-up coaching and on-site facilitation for whole-school program implementation](brief-initial-training-extensive-coaching-facilitation.md)
+- [Support curriculum implementation with initial multi-day training plus ongoing onsite consultation during the school year](training-plus-onsite-consultation-support.md)
+- [Provide a structured first-year Getting Started Experience plus year-long administrator training when adopting a comprehensive curriculum](bridges-getting-started-experience-pd.md)
+- [Brief initial training plus follow-up courses and coaching for program implementation](journeys-pd-training-coaching.md)
 
 ## Examples
 -

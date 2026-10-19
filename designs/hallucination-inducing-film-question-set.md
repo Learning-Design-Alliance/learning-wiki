@@ -41,7 +41,8 @@ A six-question instrument about fine visual details of films (e.g., Agatha's hai
 - [Ai Access Nearly Eliminates Judgment Suspension](../claims/ai-access-nearly-eliminates-judgment-suspension.md) [+M]
 
 ## Related Designs
-- 
+
+- [Film-plus-cloze metacognitive assessment paradigm with confidence judgments and answer withdrawal](film-cloze-confidence-withdrawal-metacognition-paradigm.md)
 
 ## Examples
 -

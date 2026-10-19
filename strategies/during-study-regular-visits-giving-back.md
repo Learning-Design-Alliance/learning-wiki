@@ -42,6 +42,7 @@ This strategy keeps researchers present and useful throughout data collection: v
 - [After a study, present final data in school-useful forms, remain available for ongoing conversations, and plan carefully to avoid data overload](post-study-data-sharing-and-ongoing-partnership.md)
 - [Before a study, researchers should present the proposal to district administration, hold conversations with administrators and teachers, and host parent events to build buy-in](pre-study-stakeholder-engagement-strategy.md)
 - [Multi-stakeholder analytics partnership using improvement science with strict data governance](improvement-science-analytics-partnership-strategy.md)
+- [Pair movement-based analysis with temporal analysis and discuss camera intrusiveness when collecting detailed data](temporal-analysis-and-ethics-in-movement-capture.md)
 
 ## Examples
 -

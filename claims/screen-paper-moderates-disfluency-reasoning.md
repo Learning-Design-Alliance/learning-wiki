@@ -43,9 +43,11 @@ Narrative review of Sidi et al. (2015), university students solving CRT reasonin
 
 
 ## Related Claims
+
 - [Disfluency affected metacognitive monitoring (JOLs) only under specific conditions: within-subjects manipulation with unrelated word pairs, or on screen rather than paper](disfluency-jol-boundary-conditions.md) — related
 - [Disfluency increased study times without improving performance, suggesting time was spent deciphering text rather than processing contents more deeply](disfluency-study-time-decoding-not-deeper.md) — related
 - [Working memory capacity moderated disfluency effects in one study but not another](wmc-moderates-disfluency-mixed.md) — related
 - [All 13 special-issue studies failed to show overall better performance due to disfluency](thirteen-studies-null-disfluency-performance.md) — related
 - [GCL-raising activations did not improve learning outcomes: neither prompted imagination nor disfluency produced a significant task-performance advantage](gcl-activation-no-task-performance-effect.md) — related
 - [Variations in cognitive activation are reflected in the germane cognitive load scale: prompted imagination and disfluent text raise GCL](activation-variations-reflected-in-gcl-scale.md) — related
+- [Medium of presentation interacts with font fluency: disfluent font yields higher success rates on computer but lower on paper](medium-fluency-interaction-sidi.md)

@@ -43,6 +43,7 @@ Because the article found that experience with AI does not correct miscalibratio
 ## Related Strategies
 
 - [Align AI learning-support communication and nudges with empirically observed usage windows and adapt support to learner groups](align-ai-support-nudges-observed-usage-windows.md)
+- [Tailor calibration interventions to whether a student is over- or under-confident](tailor-calibration-interventions-to-confidence-direction.md)
 
 ## Examples
 -

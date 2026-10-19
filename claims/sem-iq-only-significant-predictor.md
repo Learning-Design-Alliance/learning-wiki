@@ -62,7 +62,9 @@ SEM models for the t4/t5 wave of the LOGIC sample, including academic precursors
 
 
 ## Related Claims
+
 - [Non-verbal intelligence measures (Raven, WISC Block Design) are non-significant math predictors when well-specified spatial and memory measures are in the model](nonverbal-iq-nonsignificant-math-predictor.md) — reports the opposite
 - [Visuospatial memory did not predict word reading achievement in any grade, providing a discriminative contrast with mathematics](visuospatial-memory-not-predict-word-reading.md) — related
 - [IQ, short-term memory and study habits each correlate positively and significantly with academic achievement in both 3rd and 4th grade](iq-memory-study-habits-positive-correlations-achievement.md) — related
 - [Full-scale IQ predicts reading comprehension more strongly than word reading, and working memory and processing speed remain significant predictors after IQ is controlled](iq-predicts-comprehension-more-than-word-reading.md) — reports the opposite
+- [Synchronous observed-variable correlations between WMC and intelligence are modest (r = 0.17 to 0.40), lower than latent-variable correlations](wmc-iq-observed-correlations-modest.md)

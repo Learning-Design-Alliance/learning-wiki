@@ -81,6 +81,7 @@ Equity of access is a precondition for the benefits of any instructional design:
 - [Use economic indicators plus household size to prioritize families, and target outreach through schools with low family engagement](prioritize-economic-need-household-size-internet-programs.md)
 - [Survey adult learners about devices and home access before choosing instructional technology](survey-learners-devices-and-home-access.md)
 - [Teach foundational AI competencies with low-tech analogies and contextually relevant activities where technology access is limited](low-tech-analogies-foundational-ai-competencies.md)
+- [Design systems to accommodate low bandwidth limitations by using fewer graphics and media](low-bandwidth-design-fewer-graphics-media.md)
 
 ## Examples
 - **[Kolibri](../products/kolibri.md) (Learning Equality)** — an offline-first platform designed for low-connectivity schools and refugee education settings; content syncs without continuous internet (https://learningequality.org/kolibri/)

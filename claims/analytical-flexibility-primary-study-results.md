@@ -43,4 +43,5 @@ Re-analysis of the primary study's reported results by the replication authors, 
 
 
 ## Related Claims
--
+
+- [The primary study (Lehmann et al., 2016) had only about 45% power to detect its observed interaction effect; roughly 150 participants would be needed for 80% power](primary-study-underpowered-interaction-45-percent.md)

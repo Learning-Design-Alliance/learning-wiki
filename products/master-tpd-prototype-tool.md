@@ -26,7 +26,8 @@ A prototype design-support tool implementing the Training Program Design phase o
 - [Novice designers produced acceptable training program designs with the MASTER-TPD method and accompanying support](../claims/novices-produce-acceptable-designs-with-tpd-support.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [PECAS Mediator](pecas-mediator.md)
 
 ## Key Sources
 - Verstegen, D.M.L., Barnard, Y.F. & Pilot, A. (2006). Which events can cause iteration in instructional design? An empirical study of the design process. Instructional Science 34, 481–517. https://doi.org/10.1007/s11251-005-3346-0

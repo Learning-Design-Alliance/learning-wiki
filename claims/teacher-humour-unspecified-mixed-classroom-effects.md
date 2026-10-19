@@ -43,4 +43,7 @@ Narrative synthesis of classroom-observation studies in the review (theme five),
 
 
 ## Related Claims
--
+
+- [Affiliative humour is associated with positive classroom climate, enjoyment and willingness to participate among adolescent students](affiliative-humour-positive-classroom-outcomes.md)
+- [Aggressive humour has mixed effects on adolescent students' educational experiences, with reported increases in anger, boredom and resistance but some students reporting sarcasm improved rapport](aggressive-humour-mixed-student-effects.md)
+- [Observed teacher humour differs from self-reports: sarcasm and mocking accounted for nearly two-thirds of observed teacher humour although teachers and students reported aggressive humour as least common](observed-sarcasm-mocking-underreported.md)

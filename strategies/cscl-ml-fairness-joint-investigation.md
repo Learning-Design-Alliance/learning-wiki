@@ -38,7 +38,12 @@ The editorial proposes that CSCL researchers should partner with core machine le
 - Equitable design of adaptive collaborative learning support and mitigation of model unfairness
 
 ## Related Strategies
-- 
+
+- [Regularly audit ML models for fairness and proactively apply bias mitigation during model training](regular-fairness-audits-and-proactive-bias-mitigation.md)
+- [Use explainability tools (SHAP/LIME) and human monitoring for fair, transparent AI-driven personalized learning](explainability-tools-human-monitoring-personalized-learning.md)
+- [Use interpretable feature-driven machine learning as a human-in-the-loop baseline for flagging ethnic bias in learning content](feature-driven-ml-baseline-bias-flagging.md)
+- [Use this Toolkit: Mitigating Racial Bias in Edtech](use_this_toolkit-mitigating_racial_bias_in_edtech.md)
+- [Address core ethical challenges—data privacy, algorithmic fairness, and transparency—when deploying AI-driven personalized learning](ethical-safeguards-ai-personalized-learning.md)
 
 ## Examples
 -

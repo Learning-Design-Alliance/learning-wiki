@@ -62,4 +62,5 @@ Review reports the follow-up analysis of Jamieson-Noel and Winne (2003): self-re
 
 
 ## Related Claims
--
+
+- [Self-report measures of SRL capture perceptions of strategy use rather than implementation quality, and a combined trace-data approach may be best](self-report-srl-limitations-combined-approach.md)

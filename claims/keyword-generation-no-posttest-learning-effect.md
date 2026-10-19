@@ -43,4 +43,8 @@ Preliminary ANOVA comparing the three conditions on the 20-item inference postte
 
 
 ## Related Claims
--
+
+- [Generating keywords after a delay increases relative judgment accuracy compared with no keyword generation, replicating the keyword effect with a new sample and new materials](keyword-effect-delayed-generation-relative-accuracy-replication.md)
+- [Generating delayed keywords does not reduce bias in comprehension judgments](keyword-generation-does-not-reduce-bias.md)
+- [Comparing self-generated keywords with expert keywords increases bias, specifically underconfidence](expert-keyword-comparison-increases-underconfidence.md)
+- [The keyword-quality–JOL correlation increases after comparison with expert keywords, indicating learners exploit keyword quality as a cue only when given external standards](keyword-quality-jol-correlation-increases-with-expert-standards.md)

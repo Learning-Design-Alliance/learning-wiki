@@ -50,6 +50,7 @@ This strategy directs educators and policymakers to pair any GenAI assessment de
 - [Adopt LLMs in higher education only alongside organizational readiness, ethical guidance and professional development](llm-adoption-requires-readiness-ethics-professional-development.md)
 - [Deploy agentic AI in education with transparency about agentic decisions, human oversight and institutional responsibility](responsible-deployment-transparency-human-oversight-agentic-ai.md)
 - [Adopt a clear pedagogical approach focused on critical thinking and fact-checking strategies when integrating LLMs into curricula](critical-thinking-fact-checking-llm-integration.md)
+- [Operationalize abstract ethical frameworks as concrete LLM agent personas with demographic cues and value prioritizations](ethical-framework-persona-operationalization.md)
 
 ## Examples
 -

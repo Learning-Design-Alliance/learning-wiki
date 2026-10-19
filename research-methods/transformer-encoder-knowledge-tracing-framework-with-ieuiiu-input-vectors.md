@@ -35,7 +35,8 @@ A deep knowledge tracing framework for the ASSISTments dataset that predicts stu
 - [In artificial action logs, \"answer requested\" yields the lowest average predicted probability of a correct end-of-unit response, below even \"wrong response\"](../claims/answer-requested-lowest-main-effect.md) [+M]
 
 ## Related Research Methods
--
+
+- [Coherence analysis framework and its six activity-trace measures](coherence-analysis-framework-and-its-six-activity-trace-measures.md)
 
 ## Key Sources
 - Lu, Y., Tong, L., & Cheng, Y. (2024). Advanced Knowledge Tracing: Incorporating Process Data and Curricula Information via an Attention-Based Framework for Accuracy and Interpretability. Journal of Educational Data Mining, 16(2). https://osf.io/mdpzc/. [doi:10.31219/osf.io/3k7z2](https://doi.org/10.31219/osf.io/3k7z2)

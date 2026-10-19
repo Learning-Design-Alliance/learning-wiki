@@ -17,7 +17,7 @@ sources:
 # Prefer repeated measurement of cognitive load over a single delayed rating to capture changes during learning or performance
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 2 studies (1 causal, 1 associational), `q2`–`q3` · 1 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 Based on findings that delayed ratings at the end of a task set are affected by the most difficult task within the set, the article recommends that "repeated measurement of cognitive load should be preferred to get an impression of changes in cognitive load during performance or learning". Repeated immediate ratings can be implemented with single-item subjective scales, which the article notes are easy to implement even in huge samples, low in time exposure, and suitable for repeated measures.
@@ -37,6 +37,12 @@ Based on findings that delayed ratings at the end of a task set are affected by 
 
 ### Target Learning Goals
 - tracking changes in cognitive load across a sequence of tasks
+
+## Claims
+
+- [Delayed perceived task difficulty ratings relate more strongly to the relative difficulty of the more demanding items within a task set, consistent with delayed ratings being affected by the most demanding item](../claims/delayed-ratings-track-most-demanding-items.md) [+W]
+- [A single delayed cognitive load rating after a problem sequence is significantly higher than the average of immediate ratings for both mental effort and perceived difficulty (Experiment 1)](../claims/delayed-cognitive-load-ratings-higher-than-immediate-averages-exp1.md) [+W]
+- [Delayed cognitive load ratings are based mainly on the more complex problems in the series rather than on a recency effect](../claims/delayed-ratings-based-on-complex-problems.md) [+W]
 
 ## Related Strategies
 - 

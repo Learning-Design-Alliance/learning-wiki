@@ -43,6 +43,8 @@ Structural equation modeling of data from 281 grade 8 students compared linguist
 
 
 ## Related Claims
+
 - [Writing proficiency components were studied and compared across L1 and L2 using the same modeling framework](cross-language-comparison-writing-components-sem.md) — a broader claim this one bears on
 - [Metacognitive knowledge was examined as a component of writing proficiency alongside linguistic knowledge and fluency](metacognitive-knowledge-component-writing-sem.md) — related
 - [L2 writing proficiency was more highly correlated with L1 writing proficiency than with L2 linguistic knowledge or its accessibility](l2-writing-correlates-more-with-l1-writing-than-l2-knowledge.md) — related
+- [Metacognitive strategies directly and positively predict writing performance in both L1 and L2 task-situated writing](metacognitive-strategies-predict-l1-l2-writing-performance.md)

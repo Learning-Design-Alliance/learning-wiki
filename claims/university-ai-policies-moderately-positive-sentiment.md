@@ -43,6 +43,7 @@ NLP sentiment analysis of a corpus of 130 university AI policies crawled from R1
 
 
 ## Related Claims
+
 - [Only eight of 130 sampled universities had a business-school-specific AI policy, limiting discipline-specific alignment](few-business-schools-own-ai-policies.md) — related
 - [Public sentiment toward AI in education on Twitter was predominantly positive (81.65% of tweets) across 2019–2024](twitter-aied-discourse-predominantly-positive-sentiment.md) — related
 - [Participants' perceptions of AI in higher education shifted from 20% negative and 40% neutral pre-institute to 0% negative and 90% positive post-institute](ubridge-perception-shift-positive.md) — related
@@ -52,3 +53,4 @@ NLP sentiment analysis of a corpus of 130 university AI policies crawled from R1
 - [Institutional initiatives, demographics, teaching practices, and information sources show weak or null associations with AI pedagogical orientation and use](institutional-and-information-variables-weakly-related-to-ai-use.md) — related
 - [Most university AI policies are written as neutral suggested guidelines rather than strongly subjective or objective mandates](university-ai-policies-neutral-subjectivity-guidelines.md) — related
 - [A datafication-to-commodification governance pathway can shift education from a value-based practice toward a commodified service](datafication-to-commodification-governance-pathway.md) — related
+- [Sentiment scores in GenAI guidelines do not differ significantly by institution size, though small institutions show the highest mean](no-sentiment-difference-institution-size.md)

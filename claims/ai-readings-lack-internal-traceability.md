@@ -62,4 +62,5 @@ The same automated screen identified institution-specific assertive statements. 
 
 
 ## Related Claims
--
+
+- [Interest tailoring was structurally present in AI-generated readings: logs averaged 52.24 tailoring markers per 10,000 words and showed moderate divergence (cosine similarity 0.50–0.61)](interest-tailoring-structural-in-reading-logs.md)

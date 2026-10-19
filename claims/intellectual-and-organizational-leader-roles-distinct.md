@@ -62,4 +62,5 @@ Study two examined emergent leadership in 22 groups of students across six class
 
 
 ## Related Claims
--
+
+- [Emergent leadership did not differ between multi-touch table and paper conditions in study one](no-leadership-difference-multi-touch-paper.md)

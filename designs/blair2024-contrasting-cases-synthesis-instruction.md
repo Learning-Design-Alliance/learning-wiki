@@ -17,7 +17,7 @@ sources:
 # Contrasting cases with a synthesis (inventing principles) task to develop perceptual differentiation of discussion features
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 4 studies (3 causal, 1 quant-synthesis), `q2`–`q4` · 2 of 4 report an effect size · 2 claims rest on one study
 
 ## Description
 The instructional approach uses "juxtaposed examples that are chosen to highlight distinctive features or relationships", with most features held constant so key differences stand out. Learners synthesize across multiple cases by inventing guiding principles, in line with Schwartz and Martin's (2004) approach, so that differentiation of stimuli and of principles reinforce each other and support transfer. The activity prepares learners for an expert recap, creating "a time-for-telling".
@@ -40,8 +40,10 @@ The instructional approach uses "juxtaposed examples that are chosen to highligh
 - noticing present and absent discussion features
 
 ### Claims
+
 - [Blair2024 Noticing Time Subject Focus Interaction](../claims/blair2024-noticing-time-subject-focus-interaction.md) [+M]
 - [Blair2024 Student Focused Increase Teacher Flat](../claims/blair2024-student-focused-increase-teacher-flat.md) [+M]
+- [Comparing cases side by side improves learning and transfer by a moderate average amount, though in one algebra study it raised procedural knowledge and flexibility but not conceptual knowledge](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ## Related Designs
 - 

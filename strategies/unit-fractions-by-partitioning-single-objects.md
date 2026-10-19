@@ -17,7 +17,7 @@ sources:
 # Introduce unit fractions through partitioning a single object among sharers
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (1 causal, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 After students are comfortable dividing sets equally, teachers introduce the new challenge of partitioning one object so each sharer receives an equal share. The presentation states: "she introduces the new challenge of unit fractions" via a problem where "there is only one apple and three children want to share it," with problems growing gradually more complex, such as three children sharing four apples. Fraction names such as one-third are introduced while working through these problems.
@@ -37,6 +37,11 @@ After students are comfortable dividing sets equally, teachers introduce the new
 - unit fractions
 - fraction names
 - partitioning a single object
+
+## Claims
+
+- [Learning is effective when it builds on children's existing knowledge in real-world contexts, and early fraction foundations matter because many older children struggle with rational numbers](../claims/early-fraction-foundations-given-rational-number-difficulty.md) [+W]
+- [Primary four students taught with a variation-theory-designed lesson were far more likely to give a correct, properly explained answer about 'equal shares' in fractions than comparison-group students](../claims/variation-theory-fraction-lesson-outperforms-comparison.md) [+M]
 
 ## Related Strategies
 

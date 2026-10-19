@@ -46,6 +46,7 @@ Based on the observed associations, the article recommends that "universities co
 - [Support faculty UDL uptake through shared resources, discussion forums, responsive accessibility services, and recognition of accessible design work](institutional-support-for-faculty-udl.md)
 - [Address debilitating technology anxiety through supportive low-stakes introductory experiences while preserving the critical stance that accompanies it](preserve-critical-stance-while-reducing-debilitating-anxiety.md)
 - [Design plugged CT experiences to be accessible and appealing to girls, and address technology-related anxiety through supportive, culturally relevant designs](girl-accessible-plugged-ct-design.md)
+- [Provide institutional support: regular GenAI workshops, subsidized access to advanced tools, reliable resources, and curriculum inclusion](institutional-support-genai-translation-workshops-curriculum.md)
 
 ## Examples
 -

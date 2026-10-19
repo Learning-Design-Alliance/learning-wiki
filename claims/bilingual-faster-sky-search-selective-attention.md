@@ -41,4 +41,5 @@ Review narrative of the Results section on attention (n = 11 studies): three stu
 
 
 ## Related Claims
--
+
+- [The bilingual effect tends to emerge in more complex experimental tasks with higher control demands](task-complexity-moderates-bilingual-effect.md)

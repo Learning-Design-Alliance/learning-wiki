@@ -49,7 +49,7 @@ Argumentation supports learning by requiring learners to coordinate evidence wit
 - [Active Learning](../principles/active-learning.md) — argumentation enacts this principle by requiring learners to generate and defend positions rather than receive them; the cognitive work of justification is the learning mechanism
 - [Cognitive Activation](../principles/cognitive-activation.md) — contestable questions and required rebuttals provoke elaboration and deep processing beyond recall
 - [Collaborative Learning](../principles/collaborative-learning.md) — structured argumentation with peers exposes learners to alternative reasoning they must engage with, not merely tolerate
-- [Perspective-Taking](../principles/perspective-taking.md) — constructing a rebuttal requires genuinely modeling the opposing position, which supports more nuanced understanding of the issue space
+- [Perspective-Taking](../principles/cognitive-flexibility.md) — constructing a rebuttal requires genuinely modeling the opposing position, which supports more nuanced understanding of the issue space
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->

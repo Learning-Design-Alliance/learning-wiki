@@ -41,4 +41,6 @@ This review article reports, citing Rivkin, Hanushek and Kain (2000), a Texas ac
 
 
 ## Related Claims
--
+
+- [Students of under-certified teachers made about 20% less academic growth per year than students of regularly certified teachers](undercertified-20-percent-less-growth.md)
+- [TFA teachers in their first two years of teaching are more effective than more experienced non-TFA teachers in the same schools](tfa-first-two-years-beat-experienced-non-tfa.md)

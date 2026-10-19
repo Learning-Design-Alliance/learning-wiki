@@ -40,6 +40,7 @@ This strategy organizes educator professional development around joint work betw
 
 - [Schedule collaboration during summer months or existing professional development days to overcome staff time constraints](schedule-collaboration-in-summer-or-pd-days.md)
 - [Design future cross-sector collaboration efforts with clear goals and sufficient time period and scope, and include teacher-level activities](future-collaboration-efforts-clear-goals-adequate-scope-teacher-inclusion.md)
+- [Improve transmedia-curriculum professional development with classroom observation, Q&A-only webinars, and later scheduling](tec-pd-improvement-suggestions.md)
 
 ## Examples
 -

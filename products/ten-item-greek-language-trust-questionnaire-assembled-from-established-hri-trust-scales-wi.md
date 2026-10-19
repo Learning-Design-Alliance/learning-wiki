@@ -24,7 +24,8 @@ A 10-item Greek-language Likert questionnaire developed by Anna-Maria Velentza e
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Combined TRUST and Panorama Teacher and Staff Survey instrument](combined-trust-and-panorama-teacher-and-staff-survey-instrument.md)
 
 ## Key Sources
 - Anna-Maria Velentza, Konstantina Nikou, Anne-Gwenn Bosser, Nikolaos Fachantidis. (2026). What Robots Do Matters More Than What They Look Like: Task Context Shapes Trust in Educational HRI. https://www.google.com/search?q=%22What+Robots+Do+Matters+More+Than+What+They+Look+Like%22

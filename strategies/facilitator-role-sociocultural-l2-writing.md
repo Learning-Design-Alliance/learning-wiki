@@ -40,7 +40,8 @@ For the Sociocultural Model of L2 writing to work, the article recommends a role
 - [Sociocultural Model L2 Writing](../theories/sociocultural-model-l2-writing.md)
 
 ## Related Strategies
-- 
+
+- [Use technology-mediated learning to shift the trainer's role from knowledge provider to facilitator and foster reflection](technology-mediated-learning-for-teacher-reflection.md)
 
 ## Examples
 -

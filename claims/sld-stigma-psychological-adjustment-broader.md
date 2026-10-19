@@ -43,4 +43,6 @@ Systematic review of 12 stigma studies (936 participants; 52 correlation coeffic
 
 
 ## Related Claims
--
+
+- [SLD stigma effects on psychological adjustment appear in middle childhood as well as adolescence, and no discernible age pattern emerged across the reviewed studies](sld-stigma-effects-not-age-limited.md)
+- [Greater SLD stigma is associated with lower self-esteem, with a pooled medium-sized correlation (r = −.39) across nine effect sizes from six studies](sld-stigma-self-esteem-pooled-r-negative-39.md)

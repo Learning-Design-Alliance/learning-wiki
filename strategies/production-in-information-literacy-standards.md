@@ -17,7 +17,7 @@ sources:
 # Include producing information for others in information literacy instruction, with guidance and a phase of critiquing the resource
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends that educators treat production as a core aspect of information literacy: "information literacy standards should explicitly include producing information for others." Producing for a real audience gives students a starting point for reflecting on where information comes from and supports second-order skills. Because opportunities for such reflection "come too seldom" without mentors, guidance is necessary, and an additional phase asking students to identify weaknesses in the resource and find collaborators may help approach collective cognitive responsibility.
@@ -36,6 +36,10 @@ The article recommends that educators treat production as a core aspect of infor
 
 ### Target Learning Goals
 - Second-order information literacy: reflecting on how information is produced and assessing novel sources
+
+## Claims
+
+- [Producing a public information resource evoked a sense of responsibility toward readers that motivated care about information quality](../claims/public-production-evokes-responsibility.md) [+W]
 
 ## Related Strategies
 - 

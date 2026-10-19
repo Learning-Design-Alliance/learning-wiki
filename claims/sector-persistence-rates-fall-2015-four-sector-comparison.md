@@ -62,4 +62,7 @@ Descriptive comparison of enrollment intensity within the four-year public secto
 
 
 ## Related Claims
--
+
+- [First-year persistence declines with age at entry: 78.2 percent for students 20 and under, 57.8 percent for ages over 20 to 24, and 52.7 percent for students over 24](persistence-declines-with-age-at-entry-fall-2015.md)
+- [Among fall 2015 entrants, Asian students had the highest persistence rate (84.2 percent) and Black students the lowest (66.9 percent)](fall-2015-persistence-race-ethnicity-asian-highest-black-lowest.md)
+- [In two-year public institutions, white students had a lower retention rate (50.2 percent) than Hispanic students (55.1 percent) because a higher share of white students transferred to four-year institutions](two-year-public-white-lower-retention-transfer-to-four-year.md)

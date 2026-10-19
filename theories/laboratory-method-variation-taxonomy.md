@@ -45,7 +45,8 @@ The paper classifies laboratory instruction along three adjective groups, produc
 - [Seven goals for secondary science education with spatial consequences](seven-science-education-goals-taxonomy.md)
 
 ## Examples
--
+
+- [Draft flexible educational specifications stating activities and needs rather than fixed dimensions](../strategies/flexible-activity-based-specifications.md)
 
 ## Key Sources
 - Engelhardt, David Frederic. (1966). Space Requirements for Science Instruction Grades 9-12. Harvard Univ., Cambridge, Mass. Graduate School of Education. https://eric.ed.gov/?id=ED022353

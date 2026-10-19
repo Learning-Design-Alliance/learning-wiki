@@ -46,7 +46,9 @@ The review's central recommendation is that future research should strengthen th
 - [Duration and intensity of PA bouts may moderate attention effects, consistent with an inverted-U hypothesis](../claims/pa-duration-intensity-inverted-u-attention.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Research and training programs should differentiate age periods, sporting disciplines, and compare physically active with cognitively active groups](future-research-differentiate-ages-disciplines-cognitively-active.md)
+- [Use large samples, true experimental designs, and moderate treatment durations when evaluating SRL scaffolds](meta-analysis-design-recommendations-srl-scaffolds.md)
 
 ## Examples
 -

@@ -41,4 +41,6 @@ Descriptive statistics comparing families of children with a DAWBA research diag
 
 
 ## Related Claims
--
+
+- [Family adversity and lower parental involvement mediate 27.8% of the association between early financial difficulty and ADHD at age 7](adversity-parent-involvement-mediate-financial-difficulty-adhd.md)
+- [Parental education and occupational status showed no significant association with ADHD in this sample](parental-education-occupation-not-significant-adhd.md)

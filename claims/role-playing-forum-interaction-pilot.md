@@ -43,4 +43,6 @@ The editorial describes the concluding article of the issue as a small-scale pil
 
 
 ## Related Claims
+
 - [This issue's Knowledge Forum study is reported to show a clear impact of meta-discourse on collaboration that widened over time](meta-discourse-impact-widened-over-time.md) — related
+- [Sequential analysis methods for discussion forums avoid the loss of sequential interaction information in coded-posting statistics](sequential-analysis-preserves-interaction-information.md)

@@ -58,7 +58,9 @@ Post-hoc questionnaire data across grades: "the incr eased number of participant
 
 
 ## Related Claims
+
 - [Equations of the form a/x = b are the most difficult equation type, reflecting procedural complexity](c-equations-most-difficult-type.md) — related
 - [Students with higher general cognitive ability are more efficient in equation rearrangement](cognitive-ability-correlates-equation-efficiency.md) — related
 - [Students become faster and more accurate in equation rearrangement over a short practice session even without feedback](short-practice-improves-equation-rearrangement.md) — related
 - [Younger students solve letter equations less accurately than number equations, but this difference disappears by age 16–17](number-letter-accuracy-gap-disappears-by-16-17.md) — related
+- [High school teachers' rankings of algebra problem difficulty were uncorrelated with student performance, while middle school teachers' rankings were accurate](high-school-teacher-rankings-uncorrelated-student-performance.md)

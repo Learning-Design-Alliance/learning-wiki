@@ -43,4 +43,5 @@ Systematic review of 22 factor-structure studies. Component analysis "varied wid
 
 
 ## Related Claims
--
+
+- [Self-report factors correlate weakly with metacognitive behavior while within-factor subcomponent correlations are larger, per studies reviewed for the meta-analysis](self-report-factors-weakly-relate-to-behavior.md)

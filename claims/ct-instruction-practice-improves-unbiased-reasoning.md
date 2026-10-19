@@ -43,4 +43,5 @@ Classroom pretest-intervention-posttest experiment with 170 first-year students;
 
 
 ## Related Claims
--
+
+- [Contrasting examples, correct examples, erroneous examples, and practice problems produced no differences in learning gains or transfer of unbiased-reasoning skills](no-condition-differences-ct-practice-formats.md)

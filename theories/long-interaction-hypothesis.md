@@ -103,6 +103,7 @@ The articles disagree about how far interaction explains acquisition. Ellis foun
 
 - [For child beginner language learners, keep task complexity low or moderate so attention remains available for noticing recasts](../principles/cognitive-load-management.md)
 - [Provide incidental corrective feedback through clarification requests, recasts, and a P.S.](../strategies/incidental-corrective-feedback-in-dialogue-journals.md)
+- [Promote task-based peer interaction in primary EFL classes and scaffold L2 meaning negotiation through formulaic language and explicit training in negotiation strategies](../strategies/promote-peer-interaction-scaffold-l2-nom.md)
 
 ## Key Sources
 - Long, M. H. (1983). Native speaker/non-native speaker conversation and the negotiation of comprehensible input. *Applied Linguistics, 4*(2), 126–141. [doi:10.1093/applin/4.2.126](https://doi.org/10.1093/applin/4.2.126)

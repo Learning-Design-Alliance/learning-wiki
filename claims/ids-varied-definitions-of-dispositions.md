@@ -43,5 +43,7 @@ Interview findings (RQ1 definition category): participants defined dispositions 
 
 
 ## Related Claims
+
 - [Higher education instructional designers recognize dispositions as important learning goals in their course designs](ids-recognize-dispositions-as-learning-goals.md) — related
 - [Districts defined pilot success differently, making it difficult to set a standard for evaluating product effects on student improvement](varied-success-definitions-hinder-evaluation.md) — related
+- [Soft skills play an equally important role in education investments and outcomes as cognitive skills](soft-skills-equally-important-as-cognitive-skills.md)

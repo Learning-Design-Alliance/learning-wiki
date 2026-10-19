@@ -62,4 +62,5 @@ Same repeated-measures design; transfer items used disyllabic words not heard be
 
 
 ## Related Claims
--
+
+- [Skin conductance level did not differ significantly between instructor-presence conditions, though arousal patterns appeared to vary with content difficulty](instructor-presence-no-scl-difference.md)

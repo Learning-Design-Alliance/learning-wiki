@@ -12,7 +12,7 @@ generated:
 # Situated-interaction analysis of CSCL processes
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 3 studies (2 qualitative, 1 theoretical), `q2` · 0 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 The editorial's closing design recommendation for CSCL research: computer-supported collaborative learning opens a multi-dimensional shared world in an evolving, co-created context, where "Knowledge, roles, space, and time are not simple givens whose characteristics can be assumed". Each must be studied in each case through detailed analysis of the situated interaction. The editorial adds that many research questions can still be rigorously pursued within established perspectives, and the journal welcomes both kinds of studies.
@@ -24,11 +24,20 @@ The editorial's closing design recommendation for CSCL research: computer-suppor
 - **Analyze educational technology use from the participants' perspective rather than imposing preconceived codes**: Stahl argues EM rejects coding schemes, predefined hypotheses, and researcher-imposed frameworks; instead research should use thick description to analyze what learners make mean, what participants can see, and how they display mutual meaning as accountable. In CSCL this means studying learner actions and discourse from the learner's perspective without pre-structuring analysis. (Gerry Stahl (2012))
 
 ### Claims
+
 - [Sequential analysis of discourse reveals meaning-making processes in small-group CSCL interactions](../claims/sequential-analysis-of-small-group-cognition.md) [+M]
 - [CSCL should focus analytic attention on small-group interactions rather than individuals or society](../claims/small-group-unit-of-analysis-cscl.md) [+M]
+- [Students' collaborative historical reasoning evolved over two days while co-constructing network representations with Net.Create, per the editorial's report of Craig et al.](../claims/netcreate-collaborative-historical-reasoning-evolved.md) [+W]
+- [Multi-modal representations created during collaboration act as metaphors that shape joint reasoning and meaning making](../claims/multimodal-representations-as-metaphors-joint-reasoning.md) [+W]
 
 ## Related Research Methods
--
+
+- [Co-referencing typology and coding scheme for analyzing collaborative interaction around external representations](co-referencing-typology-and-coding-scheme-for-analyzing-collaborative-interaction-around-e.md)
+- [Divergent Collaborative Learning Mechanisms (DCLM) framework](divergent-collaborative-learning-mechanisms-dclm-framework.md)
+- [Interactional Ethnography and dialogic intervisualizing](interactional-ethnography-and-dialogic-intervisualizing.md)
+- [Thick description as the analytic basis for understanding transactive discourse](thick-description-as-the-analytic-basis-for-understanding-transactive-discourse.md)
+- [Interpersonal multilevel analysis of regulation in collaborative learning](interpersonal-multilevel-analysis-of-regulation-in-collaborative-learning.md)
+- [PISA collaborative problem-solving framework](pisa-collaborative-problem-solving-framework.md)
 
 ## Key Sources
 - Gerry Stahl & Friedrich Hesse. (2010). Beyond folk theories of CSCL. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-010-9098-0

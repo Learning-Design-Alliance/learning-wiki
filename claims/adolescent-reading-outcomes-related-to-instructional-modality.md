@@ -44,5 +44,5 @@ The editorial reports, from Calhoon and Petscher's investigation across three mi
 
 ## Related Claims
 - [Across measures, 42–87% of students in the most effective condition versus 14–65% in the least effective modality met the gain criterion (Calhoon and Petscher)](gain-criterion-percentages-by-modality.md) — a narrower finding that bears on this claim
-- [Neither group nor individual analyses revealed efficacy differences among three instructional programs for adult literacy learners (Scarborough et al.)](no-efficacy-differences-three-adult-reading-programs.md) — related
+- [Neither group nor individual analyses revealed efficacy differences among three instructional programs for adult literacy learners (Scarborough et al.)](no-significant-intervention-differences.md) — related
 - [Four methods of identifying individual change each duplicated group-based effect sizes, with the reliable change index and growth curve approaches showing stronger consistency and predictive power (Frijters et al.)](four-change-metrics-reliable-change-and-growth-curve-stronger.md) — related

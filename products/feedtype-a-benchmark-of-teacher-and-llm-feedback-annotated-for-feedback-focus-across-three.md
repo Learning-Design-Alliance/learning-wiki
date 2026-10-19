@@ -32,6 +32,7 @@ A released corpus of paragraph-level teacher- and LLM-generated writing feedback
 
 - [Estonian reflective-writing AI-feedback corpus of 2988 homework triplets from 283 students](estonian-reflective-writing-ai-feedback-corpus-of-2988-homework-triplets-from-283-students.md)
 - [TACTCorpus and TACTBench](tactcorpus-and-tactbench.md)
+- [Corpus of 500 annotated competency-based assessments in higher education for developing and evaluating the Teacher Evaluator](corpus-of-500-annotated-competency-based-assessments-in-higher-education-for-developing-an.md)
 
 ## Key Sources
 - Norah Almousa, Shayan Peyghambari Oskoui, Raquel Coelho, Gayle Rogers, Xiang Lorraine Li, Diane Litman. (2026). Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing. arXiv preprint. https://arxiv.org/abs/2609.28026

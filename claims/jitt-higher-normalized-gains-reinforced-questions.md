@@ -43,4 +43,8 @@ Preclass/postclass 20-question test analysis within individual N100 classes usin
 
 
 ## Related Claims
--
+
+- [Optional 'What is Biology Good For?' essays achieved >75% weekly participation and >90% of students reported they made science relevance clear](good-for-essays-relevance-motivation.md)
+- [JiTT implementation was associated with a decreased DFW rate in Contemporary Biology, from 27% to 20%](jitt-decreased-dfw-rate-n100.md)
+- [Students rated class discussions of Warm Up responses as very useful (87%, n = 485)](students-rate-warmup-discussions-useful.md)
+- [Cooperative learning exercises were rated highly useful by >94% of students and were associated with roughly doubled class attendance](cooperative-learning-usefulness-attendance.md)

@@ -62,6 +62,8 @@ The review attributes to Schulz and Somerville (2006) the finding that children 
 
 
 ## Related Claims
+
 - [Preschoolers make probabilistic backward-blocking causal inferences, with capacities appearing by 18 months](backward-blocking-preschoolers-infants.md) — related
 - [Children aged 2-4 infer causal structure from covariation and use it to design effective interventions](children-infer-causal-structure-from-covariation-blicket.md) — related
 - [Children extend statistical causal learning to psychological causes, inferring others' desires by 20 months](statistical-causal-learning-psychological-domains.md) — related
+- [Children integrate prior knowledge with new statistical evidence in a Bayesian way, overturning initially likely hypotheses](children-bayesian-prior-evidence-integration.md)

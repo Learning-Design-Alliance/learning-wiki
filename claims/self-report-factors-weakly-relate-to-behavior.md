@@ -62,4 +62,6 @@ The review reports, citing Schellings (2011) and Van Hout-Wolters & Schellings (
 
 
 ## Related Claims
--
+
+- [Self-report subscales do not reliably assess distinct metacognitive subcomponents, with structures of two to nine components found across studies](self-report-subcomponents-unreliable.md)
+- [MAKQ dimensions correlate moderately with each other, with strategy knowledge only weakly related to the self-perception scales](makq-intercorrelations-self-strategy.md)

@@ -43,4 +43,5 @@ T-test on discussion-level protocol data from 36 discussions in a Dutch first-ye
 
 
 ## Related Claims
--
+
+- [Anchored discussion supports greater communicative efficiency but not higher mutual understanding](anchored-discussion-communicative-efficiency.md)

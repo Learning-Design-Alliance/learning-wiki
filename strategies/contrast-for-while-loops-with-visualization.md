@@ -17,7 +17,7 @@ sources:
 # Teach loop structures by contrasting fixed-range for loops with condition-driven while loops and using program visualization
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 To address students' difficulty distinguishing for and while loops, the article recommends that educators explicitly contrast the two structures and use visualization. The article states: "educators should clarify that a for loop iterates over a fixed range or sequence, whereas a while loop has no predefined range and continues execution until its condition is no longer satisfied." It further suggests introducing graphical programming environments early so students can visualize and compare loop structures, and activities where students trace program execution step by step to strengthen comprehension of iterative processes and control flow.
@@ -35,6 +35,10 @@ To address students' difficulty distinguishing for and while loops, the article 
 
 ### Target Learning Goals
 - Distinguishing loop structures and understanding iteration and control flow
+
+## Claims
+
+- [Students have difficulty distinguishing between for loops and while loops](../claims/students-struggle-for-while-loop-distinction.md) [+W]
 
 ## Related Strategies
 - 

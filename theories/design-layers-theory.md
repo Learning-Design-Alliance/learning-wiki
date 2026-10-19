@@ -50,8 +50,10 @@ The theory's most distinctive claim is about designer cognition: designers predi
 - [Cognitive Load Theory](cognitive-load-theory.md) — poor articulation between the representation/media-logic layer and the message layer is one route by which extraneous cognitive load enters a design
 
 ## Examples
+
 - A course visibly built around PowerPoint slide templates and video-hosting conventions (media-centric) versus one built by first mapping the domain's own concept/rule/task structure and only then choosing media to represent it (model-centric)
 - Revising a course's video platform (a representation/media-logic change) without needing to rewrite its underlying strategy or content structure — evidence of well-articulated layers
+- [Disclose to learners what changes (visual presentation) and what does not (question content, scoring, time allowed)](../strategies/disclose-visual-presentation-not-content-scoring-time.md)
 
 ## Key Sources
 - Gibbons, A. S. (2018). What and how do designers design? A theory of design structure and layers. In R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/what_and_how_do_designers_design](https://edtechbooks.org/lidtfoundations/what_and_how_do_designers_design) (originally published as Gibbons, A. S. (2003). *TechTrends, 47*(5), 22–25.)

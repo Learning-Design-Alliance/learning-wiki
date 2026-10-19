@@ -43,7 +43,9 @@ Live-voice Common Phrases Test administered under auditory-alone, visual-alone, 
 
 
 ## Related Claims
+
 - [Children with higher auditory-alone spoken word recognition scores show higher audiovisual gain, for easy-word measures but not the hardest tests](auditory-word-recognition-predicts-av-gain-ci-children.md) — related
 - [Audiovisual gain correlates positively with speech intelligibility in children with cochlear implants](av-gain-correlates-speech-intelligibility.md) — related
 - [No significant group-level difference between auditory-alone and visual-alone sentence recognition, with substantial individual modality preferences](no-group-difference-auditory-visual-alone.md) — related
 - [Audiovisual sentence performance approximates the simple sum of unimodal scores, with no super-additive integration for familiar sentences](no-super-additive-av-integration-familiar-sentences.md) — related
+- [Children with cochlear implants had difficulty following spoken conversation in groups, with teachers reporting far more difficulty than parents](ci-group-conversation-difficulty.md)

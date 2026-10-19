@@ -74,6 +74,7 @@ Retrieval practice produces substantially more durable learning than restudying,
 6. Fade instructor-provided questions over time, shifting question generation to students ([Fading](../elements/fading.md)).
 
 ## Related Strategies
+
 - Spaced retrieval scheduling — self-testing is most powerful when retrieval attempts are distributed over time rather than massed
 - Student question generation — converts self-testing from recognition to generative practice
 - Low-stakes formative quizzing — the instructor-side complement to independent self-testing
@@ -81,6 +82,7 @@ Retrieval practice produces substantially more durable learning than restudying,
 - Formative feedback loops — self-testing supplies the data that feedback acts on
 - Rereading replacement — substituting retrieval for passive review in study-skills instruction
 - [Incorporate GenAI-based pronunciation tools to give anxious learners additional low-stakes speaking opportunities outside the classroom](genai-pronunciation-tools-low-stakes-speaking-opportunities.md)
+- [Implement weekly low-stakes spaced recall quizzes cycling fundamental concepts monthly, with a plan to address student frustration](weekly-spaced-recall-quiz-strategy-fundamental-concepts.md)
 
 ## Examples
 - **[Anki](https://apps.ankiweb.net)** — spaced-repetition flashcard software that schedules each card for review just before predicted forgetting; widely used in medical education.

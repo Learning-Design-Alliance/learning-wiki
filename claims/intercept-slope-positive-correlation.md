@@ -43,4 +43,6 @@ Unconditional non-linear LGC model on the BURN11 dataset (101 students). The art
 
 
 ## Related Claims
--
+
+- [Fluid abilities (Gf) significantly predicted the rate of learning, whereas crystallized abilities (Gc) significantly predicted final learning performance in a one-week instructional process](gf-rate-gc-final-level-learning.md)
+- [Achievement across the four instructional units followed a non-linear, sinusoid-like pattern with a pronounced drop in the final measure, and a non-linear latent growth model fit better than a linear one](nonlinear-achievement-growth-pattern.md)

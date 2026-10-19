@@ -43,4 +43,5 @@ Spearman correlation between item difficulty index and student-perceived curricu
 
 
 ## Related Claims
--
+
+- [Undergraduate learners rated CyberAGENTS positively, with scenario authenticity highest and challenge difficulty alignment lowest](cyberagents-positive-learner-perceptions.md)

@@ -43,4 +43,5 @@ Applying Julie Klein's typology, the chapter assesses both editions of Gee's mon
 
 
 ## Related Claims
--
+
+- [Gee justified games' pedagogical improvement via a Darwinian market process linking learning principles to sales](gee-darwinian-market-improvement-of-game-pedagogy.md)

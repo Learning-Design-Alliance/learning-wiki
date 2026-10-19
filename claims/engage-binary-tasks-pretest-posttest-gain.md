@@ -43,4 +43,6 @@ Paired t-test on the 168 students who completed pre-test, post-test, and all 11 
 
 
 ## Related Claims
--
+
+- [Playing Progenitor X over three weeks produced a statistically significant 11% pre-post gain in stem-cell science content knowledge among 39 middle and high school students](progenitor-x-play-significant-prepost-gain.md)
+- [Students reported statistically significant pre-post improvements in attitudes about learning after the summer ed-tech programs](summer-edtech-attitude-gains-significant.md)

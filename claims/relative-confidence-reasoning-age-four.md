@@ -43,4 +43,5 @@ In Experiment 1's Relative Confidence Task (45 trials across area, number, and e
 
 
 ## Related Claims
--
+
+- [Children's self-focused confidence reasoning and other-focused accuracy reasoning show no consistent correlation across four studies when mental-state language and response biases are eliminated](no-consistent-correlation-self-other-reasoning-children.md)

@@ -43,4 +43,7 @@ Association rule mining result for boredom from the same dataset; Table 2 lists 
 
 
 ## Related Claims
--
+
+- [Confusion during learning is associated with facial action units 4, 7, and 12, with tightened lids tending to trigger a lowered brow](confusion-facial-action-units-4-7-12.md)
+- [Frustration during learning is associated with facial action units 1, 2, and 14, with a mutual trigger rule between the inner and outer brow raises](frustration-facial-action-units-1-2-14.md)
+- [The emote-aloud procedure is limited by non-reporting and floor effects: 2 of 7 participants did not verbalise affective states and four states were removed from analysis](emote-aloud-floor-effects-limitation.md)

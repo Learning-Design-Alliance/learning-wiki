@@ -44,7 +44,7 @@ After the detailed work of a text is completed, the article recommends returning
 
 ## Related Patterns
 
-- [Socratic Seminar](../patterns/socratic-seminar.md)
+- [Socratic Seminar](../elements/socratic-seminar.md)
 
 ## Examples
 -

@@ -29,7 +29,8 @@ My Math Academy is a game-based adaptive mathematics learning platform for pre-K
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Save the Tree of Life](save-the-tree-of-life.md)
 
 ## Key Sources
 - My Math Academy evidence summary. (2022). Age of Learning. https://www.ageoflearning.com/schools/systemcheck/

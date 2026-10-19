@@ -62,4 +62,7 @@ One cited study found independent longitudinal contributions of peer rejection a
 
 
 ## Related Claims
+
 - [Age, gender of participant, and perceived responsibility of the target character were the three most important predictors of peer acceptance across all models](age-gender-responsibility-predict-peer-acceptance-mental-health.md) — related
+- [Children with ADHD show medium-to-large peer problems relative to typically developing youth, with effect sizes from d=.72 (no comorbidities) to d=1.25 (comorbid conduct problems)](adhd-peer-problems-effect-sizes-d072-d125.md)
+- [Children with ADHD show marked peer rejection and friendship impairment: approximately four times more likely to be rejected, 52–82% scoring over 1 SD above the classroom mean in rejection, and nearly twice as likely to have no classroom friends](adhd-peer-rejection-and-friendship-deficits.md)

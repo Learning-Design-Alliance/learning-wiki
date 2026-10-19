@@ -17,7 +17,7 @@ sources:
 # Use different measures or thresholds than the KEI cohort threshold when identifying individual students at risk of not reading proficiently
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Because the KEI threshold produced many individual-level misclassifications, the article advises districts seeking to target individual students to use other tools. It states that "To identify individual students for support in reading, SDP may wish to use different measures or thresholds that more accurately predict which individual students are at risk of not being proficient in reading." The recommendation follows directly from the threshold's individual-level error rates.
@@ -35,6 +35,10 @@ Because the KEI threshold produced many individual-level misclassifications, the
 
 ### Target Learning Goals
 - Early identification of students needing reading support
+
+## Claims
+
+- [The KEI threshold was accurate for the cohort despite large individual-level prediction errors (53% of proficient and 73% of non-proficient students correctly classified)](../claims/kei-threshold-individual-prediction-errors-large.md) [+W]
 
 ## Related Strategies
 

@@ -40,7 +40,8 @@ The article recommends that AI systems assisting collaborative problem solving b
 - [Ona Ordered Affective Transition Modeling](../research-methods/ordered-network-analysis-ona.md)
 
 ## Related Strategies
-- 
+
+- [Adapt tutor responses to detected learner affect: leading hints for frustration, engaging hooks for boredom, and timed intervention for confusion](affect-sensitive-autotutor-responses.md)
 
 ## Examples
 -

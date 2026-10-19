@@ -43,4 +43,6 @@ In the study's analysis of executive-function contributions, the authors report 
 
 
 ## Related Claims
+
 - EF tasks consolidate into three factors: inhibition, updating, and planning, with shifting not dissociable — related
+- [Affective theory of mind is positively related to age across adolescence](affective-tom-increases-across-adolescence.md)

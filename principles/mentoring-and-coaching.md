@@ -128,6 +128,7 @@ Mentoring and coaching are effective because they attach support to the learnerâ
 - **Office-hour coaching sessions**: Instead of only answering questions, the instructor helps the learner diagnose strategy and plan next actions.
 - **Near-peer tutoring**: Slightly more advanced learners support novices with task-specific modeling and feedback.
 - [Five key qualities of a successful instructional technology coach](../strategies/five-key-qualities-successful-coach.md)
+- [Study faculty advisors' and mentors' own views of their role in educating doctoral students about responsible research](../strategies/study-faculty-views-responsible-research-training.md)
 
 ## Key Sources
 - Ladyshewsky, R. K. (2006). Peer coaching: A constructivist methodology for enhancing critical thinking in postgraduate business education. *Higher Education Research & Development, 25*(1), 67-84. [https://doi.org/10.1080/13600800500453196](https://doi.org/10.1080/13600800500453196)

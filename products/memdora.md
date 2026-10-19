@@ -13,7 +13,7 @@ generated:
 # Memdora
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Memdora is a cross-platform AI spaced-repetition software system developed and described by Ruiyang Zhang, offering browser-based capture, AI-generated study cards, and FSRS-6 scheduling for long-term retention.
@@ -23,8 +23,12 @@ Memdora is a cross-platform AI spaced-repetition software system developed and d
 
 ### Claims
 
+- [The interaction taxonomy's effectiveness within Memdora has not been empirically evaluated](../claims/memdora-taxonomy-not-empirically-evaluated.md) [~W]
+
 ## Related Products and Programmes
--
+
+- [By Heart](by-heart.md)
+- [Linguatorium](linguatorium.md)
 
 ## Key Sources
 - Ruiyang Zhang. (2027). Memdora: Designing Cognitively-Grounded Flashcard Interactions for AI-Powered Spaced Repetition. Proceedings of ACM International Conference on Intelligent User Interfaces (IUI '27). https://arxiv.org/abs/2607.25096

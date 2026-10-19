@@ -28,7 +28,8 @@ A web-based no-code platform developed by Riahi et al. for teachers to configure
 - [In a case study, LLM-generated assessment conversations handled common student speech acts more naturalistically than RegExp/LSA conversations](../claims/llm-cba-more-naturalistic-than-regexp-lsa.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [AutoTutor Script Authoring Tool (ASAT) and generic AutoTutor Conversation Engine (ACE)](autotutor-script-authoring-tool-asat-and-generic-autotutor-conversation-engine-ace.md)
 
 ## Key Sources
 - Riahi, B., Ozturk, D., Guth, A., Li, J., Singh, D. P., Tian, X., Chiu, J., Lytle, N., Barnes, T., & Cateté, V. (2026). Will It Teach as Intended? How Teachers Configure Educational AI Chatbots. https://arxiv.org/abs/2609.29993. [doi:10.48550/arxiv.2609.29993](https://doi.org/10.48550/arxiv.2609.29993)

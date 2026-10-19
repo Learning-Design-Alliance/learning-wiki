@@ -43,4 +43,5 @@ Univariate follow-up to the MANOVA on the 10-item Environmental Protection Scale
 
 
 ## Related Claims
--
+
+- [Knowledge-test scores differed strongly between German school types, with academic-track students scoring highest](knowledge-test-school-type-differences.md)

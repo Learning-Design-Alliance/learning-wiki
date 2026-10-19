@@ -43,4 +43,8 @@ An LDA analysis of titles and abstracts from the 242 catalogued syntheses "revea
 
 
 ## Related Claims
+
 - Research syntheses in 11 top LDT journals have increased steadily since the first identified publication in 2015, totaling 242 published reviews by June 2025 — related
+- [LDA topic modeling of HI/HIM AI policy documents identifies four dominant themes: academic integrity, generative AI use, AI in research, and ChatGPT engagement](lda-four-themes-hi-him-ai-policies.md)
+- [Topic modelling yielded 16 topics dominated by four: AI in Education & Pedagogy (39.43%), Applied ML & Data Science (21.33%), AI Ethics Risk & Governance (20.83%), and ChatGPT for Teaching, Writing & Coding (7.13%)](four-dominant-bertopic-topics-aied-twitter.md)
+- [GenAI guidelines at top U.S. universities cluster into four topics: learning and assessment integration, visual/multimodal media, security and ethics, and academic integrity](four-topics-genai-guidelines-heis.md)

@@ -17,7 +17,7 @@ sources:
 # Use field trips to informal science institutions as a tool for reducing science achievement gaps
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (2 causal), `q3` · 1 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The article suggests that field trips "might be an effective tool for reducing achievement gaps," because effects were largest for Hispanic students and students qualifying for free or reduced-price lunch. Administrators and policymakers can target field trip programming toward these student groups as an equity-oriented enrichment strategy within accountability-constrained schooling.
@@ -38,6 +38,11 @@ The article suggests that field trips "might be an effective tool for reducing a
 ### Target Learning Goals
 - science achievement
 - closing achievement gaps
+
+## Claims
+
+- [Field trip effects on science achievement are largest for Hispanic students and students qualifying for free or reduced-price lunch](../claims/field-trip-effects-largest-hispanic-frpl-students.md) [+W]
+- [Effects were larger in intervention schools with a higher percentage of economically disadvantaged students or a lower percentage of White students](../claims/assistments-school-composition-moderators.md) [+W]
 
 ## Related Strategies
 - 

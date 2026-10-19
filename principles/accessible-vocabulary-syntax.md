@@ -1,7 +1,7 @@
 ---
 type: principle
 id: accessible-vocabulary-syntax
-aliases: [plain-english-workplace-materials, provide-peer-authored-syntactically-appropriate-texts]
+aliases: [plain-english-workplace-materials, provide-peer-authored-syntactically-appropriate-texts, comprehensible-input-communicative-reading-activities]
 title: "Accessible Vocabulary & Syntax"
 description: "For a learner whose failure on a content task may be linguistic rather than conceptual, removing avoidable wording barriers while explicitly teaching the few essential terms is expected to improve comprehension of the taught material, with weak evidence for transfer to authentic texts or delayed retention."
 canonical: true
@@ -22,12 +22,16 @@ sources:
     resource: "https://eric.ed.gov/?id=ED424564"
     title: "Fenton, Rebecca. (1998). Semantics and Syntax: Context Clues in Reading for Young Children. https://eric.ed.gov/?id=ED424564"
     author: Fenton, Rebecca
+  - id: yonghong-gao-2008
+    resource: "https://journals.cces.net/index.php/elt"
+    title: "Yonghong Gao. (2008). Implementing Communicative Activities in English Reading Class. English Language Teaching, Vol. 1, No. 1. https://journals.cces.net/index.php/elt"
+    author: Yonghong Gao
 ---
 
 # Accessible Vocabulary & Syntax
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (13 for, 3 mixed, 1 against) · 26 studies (8 causal, 6 review, 4 quant-synthesis, 3 design, 2 qualitative, 2 theoretical, 1 associational), `q1`–`q4` · 3 of 26 report an effect size · 12 claims rest on one study
+> **Evidence** · 18 claims (13 for, 3 mixed, 2 against) · 26 studies (8 causal, 6 review, 4 quant-synthesis, 3 design, 2 qualitative, 2 theoretical, 1 associational), `q1`–`q4` · 3 of 26 report an effect size · 13 claims rest on one study
 
 ## Conditional relationship
 
@@ -110,6 +114,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [The package claims minimal technical English limits workplace training through comprehension, confidence and written-form difficulties](../claims/minimal-technical-english-limits-training.md) [+W]
 - [Unfamiliar problem contexts and vocabulary distract students from the mathematics and reasoning a problem requires](../claims/unfamiliar-contexts-distract-from-mathematics.md) [+W] — attached 2026-10-09 from Preparing Problems for Classroom Instruction (2012), which proposed "Personalize and scaffold problem contexts before problem solving: reword problems into familiar contexts and clarify unfamiliar words in advance".
 - [Young developing readers rely more heavily on semantic and syntactic information for word-level analysis than adult readers, per Schwantes' study](../claims/young-readers-rely-on-semantic-syntactic-context-for-word-analysis.md) [+W]
+- [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](../claims/comprehensible-input-insufficient-grammar-acquisition.md) [-M]
 
 ## Objective and learner-valued goal
 
@@ -137,6 +142,8 @@ Immediate comprehension of a simplified text, comprehension of the original, del
 - [Clear Structure & Presentation](clear-structure.md) — accessible wording works best when paired with coherent organization
 - [Multimodal Instruction](multimodal-instruction.md) — visuals, audio, and examples can reinforce unfamiliar vocabulary and syntax
 - [Scaffolding and Fading](scaffolding-and-fading.md) — language supports should be deliberately reduced over time
+- [Reduce teacher talk time and improve its quality to give students adequate discussion time](talking-and-writing-means-to-learning.md)
+- [Teach writing based on reading so learners use meaningful input to accomplish output tasks](process-based-writing.md)
 
 ## Examples
 
@@ -148,6 +155,7 @@ Immediate comprehension of a simplified text, comprehension of the original, del
 - [Pair team-based discovery learning with detailed guiding questions, simplified texts, and glossaries of unfamiliar terms](../strategies/guide-questions-simplification-glossary-for-proposal-writing.md)
 - [Simplifying Language](../strategies/simplifying-language.md)
 - [Student-Authored Texts for Conceptual Change](../designs/student-authored-texts-for-conceptual-change.md)
+- [Apply six questioning techniques in whole-class discussion: simplify, moderate, provoke thought, challenge, follow up, and relate to students](../strategies/six-teacher-questioning-techniques-reading-discussion.md)
 
 ## Key Sources
 - Binder, K. S., Tremblay, K. A., & Joseph, A. (2020). Vocabulary accessibility and acquisition: Do you get more from a financestor or a sociophite? *Journal of Research in Reading, 43*(4), 395-416. [doi:10.1111/1467-9817.12314](https://doi.org/10.1111/1467-9817.12314)
@@ -156,6 +164,7 @@ Immediate comprehension of a simplified text, comprehension of the original, del
 - Devlin, M., Kift, S., Nelson, K., Smith, L., & McKay, J. (2012). *Effective teaching and support of students from low socioeconomic status backgrounds*. Office for Learning and Teaching.
 - Dyer, Penny. (1992). Training a Multicultural Workforce. Hobart Institute of Technical and Further Education. https://eric.ed.gov/?id=ED378844
 - Fenton, Rebecca. (1998). Semantics and Syntax: Context Clues in Reading for Young Children. https://eric.ed.gov/?id=ED424564
+- Yonghong Gao. (2008). Implementing Communicative Activities in English Reading Class. English Language Teaching, Vol. 1, No. 1. https://journals.cces.net/index.php/elt
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -291,4 +300,48 @@ The review argues that texts accounting for readers' cognitive and linguistic ex
 
 ## Key Sources
 - Fenton, Rebecca. (1998). Semantics and Syntax: Context Clues in Reading for Young Children. https://eric.ed.gov/?id=ED424564
+-->
+
+<!-- merged 2026-10-19 from principles/comprehensible-input-communicative-reading-activities ("Adjust delivery to students' proficiency so language input is comprehensible during communicative reading activities"), a narrower page folded into its canonical page (fragment step, two models agreeing or a third settling): its body as it stood. Its bullets this page lacked were added above.
+
+# Adjust delivery to students' proficiency so language input is comprehensible during communicative reading activities
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 against) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+The article holds that in communicative activities the focus is not on particular grammatical forms but on experiencing the relationship between language use and task fulfilment, so delivery must be adjusted to students' proficiency. It states that "the chief thing for the teacher is to make meaning evident", ensuring input is comprehensible and comprehended, and lists concrete ways: explaining terminology carefully, using visuals and diagrams, slower and more distinct delivery, and scaling tasks down.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Language input to students must be comprehensible and in fact comprehended
+- Tasks assigned to students should be appropriately scaled down, especially in early stages
+#### Constraints
+- If subject matter uses unfamiliar vocabulary or complicated discourse structure, it may tax students unduly
+
+### Target Learners
+- English majors in university English Reading classes
+
+### Target Learning Objectives
+- Reading comprehension
+- Vocabulary enlargement
+- Use of the target language in authentic communication
+
+### Claims
+
+- [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](../claims/comprehensible-input-insufficient-grammar-acquisition.md) [-M]
+
+## Related Principles
+
+- [Reduce teacher talk time and improve its quality to give students adequate discussion time](talking-and-writing-means-to-learning.md)
+- [Teach writing based on reading so learners use meaningful input to accomplish output tasks](process-based-writing.md)
+
+## Examples
+
+- [Apply six questioning techniques in whole-class discussion: simplify, moderate, provoke thought, challenge, follow up, and relate to students](../strategies/six-teacher-questioning-techniques-reading-discussion.md)
+
+## Key Sources
+- Yonghong Gao. (2008). Implementing Communicative Activities in English Reading Class. English Language Teaching, Vol. 1, No. 1. https://journals.cces.net/index.php/elt
 -->

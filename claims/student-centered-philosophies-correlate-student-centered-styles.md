@@ -43,8 +43,10 @@ Pearson correlation analysis (N=301) on the same survey data; Table 4 shows expe
 
 
 ## Related Claims
+
 - [Majority of classroom teachers adopt experimentalist philosophy](classroom-teachers-mostly-adopt-experimentalism.md) — related
 - [Majority of classroom teachers have a facilitator teaching style](classroom-teachers-mostly-facilitator-style.md) — related
 - In a survey of physical education and sports teachers, existentialist education is the most endorsed and essentialism the least endorsed of five educational philosophies — related
 - [Adopted educational philosophy is significantly positively related to teaching style](philosophy-significantly-related-teaching-style.md) — a broader claim this one bears on
 - [Teacher-centered philosophies correlate with formal-authority teaching styles](teacher-centered-philosophies-correlate-formal-authority.md) — related
+- [Perceived power distance correlates with expert and authority roles, collaboration with facilitator and delegator roles, and competition correlates with all five teacher roles](cultural-environment-correlates-with-teacher-roles.md)

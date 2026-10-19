@@ -17,7 +17,7 @@ sources:
 # LIA's student-centered organizational framework integrating teaching, research, and extension
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper proposes an organizational framework in which a stable student-elected administrative board governs a dynamic portfolio of student-led projects, with faculty acting as mentors. Its central premise is that "students should occupy a leading role in both the conception and execution of projects, while faculty members act primarily as mentors and facilitators." Every project is expected to simultaneously promote student learning, generate knowledge, and produce extension outcomes, so the three university pillars are integrated continuously rather than treated as separate activities.
@@ -40,10 +40,12 @@ The paper proposes an organizational framework in which a stable student-elected
 - transversal competencies such as leadership, teamwork, and communication
 
 ### Claims
-- 
+
+- [The LI(A)RA project produced competitive, scholarly, and educational outcomes that validated the framework's practices](../claims/liara-outcomes-validate-framework.md) [+W]
 
 ## Related Designs
-- 
+
+- [LI(A)RA: competition team for the Multi-Agent Programming Contest integrated with a course](liara-mapc-competition-team.md)
 
 ## Examples
 -

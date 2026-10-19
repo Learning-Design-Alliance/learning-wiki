@@ -30,7 +30,9 @@ Croteau et al. released reproducible gold and ultra-gold subsets of image-requir
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [DrawEduMath](drawedumath.md)
+- [SciEntsBank](scientsbank.md)
 
 ## Key Sources
 - Croteau, E., & Heffernan, N. (2026). Seeing Is Solving: MLLMs, Reasoning, and Refusal in Visual Math. https://osf.io/ct7bg/

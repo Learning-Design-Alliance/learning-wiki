@@ -41,7 +41,10 @@ Paired-sample t-tests on the 225 children's Dot Task accuracy showed a significa
 
 
 ## Related Claims
+
 - [Flanker task produces congruency effects in reaction time and accuracy in twelve-year-old children](flanker-congruency-effects-twelve-year-olds.md) — related
 - [Accuracy in the mixed block decreases across trials while PES also decreases, independent of intelligence](accuracy-decreases-mixed-block-trials.md) — related
 - [Relational integration is less accurate and slower than single-relation matching regardless of audience or age](relational-harder-than-control-main-effect.md) — related
 - [Incongruent items in school-topic tasks are generally associated with longer response times and lower accuracy, patterns consistent with inhibitory control recruitment](incongruent-items-longer-rt-lower-accuracy.md) — a broader claim this one bears on
+- [Turkish and German identity interactively predicted accuracy on mixed Dot Task trials requiring cognitive flexibility among immigrant-origin children](bicultural-identity-interaction-predicts-cognitive-flexibility.md)
+- [The identity interaction on mixed-trial accuracy held marginally when controlling for language abilities, which themselves did not predict performance](biculturalism-not-bilingualism-explains-flexibility.md)

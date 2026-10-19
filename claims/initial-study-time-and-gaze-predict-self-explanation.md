@@ -62,4 +62,7 @@ In the same 18-student study, three predictors were compared: gaze shifts only, 
 
 
 ## Related Claims
--
+
+- [Eye tracking can identify which words a second-language reader had trouble understanding](eye-tracking-identifies-difficult-words-l2-reading.md)
+- [Adding eye-tracking evidence to ACE's student model significantly improves assessment of implicit self-explanation over a time-only model](eye-tracking-improves-implicit-se-assessment.md)
+- [More accurate assessment of self-explanation significantly improves the model's assessment of student learning through exploration](se-assessment-improves-exploration-assessment.md)

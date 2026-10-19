@@ -17,7 +17,7 @@ sources:
 # Perturbation model of CSCL macro script design
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article proposes a pedagogical model for designing collaboration scripts in which the script's core action is perturbation: "a script disturbs the natural convergence of a team and in doing so increases the intensity of interaction required between team members". The nature of the perturbation determines which interaction types (argumentation, explanation, regulation) become necessary, giving designers a lever for targeting interaction quality.
@@ -37,10 +37,13 @@ The article proposes a pedagogical model for designing collaboration scripts in 
 - knowledge-productive interactions such as argumentation, explanations and mutual regulation
 
 ### Claims
+
 - [Scripts Disturb Convergence Increase Interaction Intensity](../claims/scripts-disturb-convergence-increase-interaction-intensity.md) [+M]
+- [Perturbation type determines the interaction types needed: conflicting evidence elicits argumentation](../claims/conflicting-evidence-increases-argumentation.md) [+W]
 
 ## Related Designs
-- 
+
+- [Four-factor scripting approach for blended learning: space, pedagogical method, participants, and history](four-factor-scripting-space-method-participants-history.md)
 
 ## Examples
 -

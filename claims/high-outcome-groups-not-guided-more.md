@@ -43,4 +43,6 @@ Video-based frequency counts of teacher visits across 19 groups in four classroo
 
 
 ## Related Claims
+
 - [Teachers visited teams frequently but mostly only briefly, except during phases requiring more intense teacher engagement](claim-teacher-visit-pattern-brief-with-phase-exceptions.md) — related
+- [Teachers spent most CSCL class time on task management, content knowledge, technical support and observing, with minimal socio-emotional support](teacher-guidance-focus-distribution-cscl-science.md)

@@ -24,7 +24,11 @@ Jacques Lonchamp proposes a systematic integration of three analytic approaches,
 ### Claims
 
 ## Related Research Methods
--
+
+- [Event-centered analysis of CSCL processes](event-centered-analysis-of-cscl-processes.md)
+- [Micro-ecological approach to cross-level CSCL analysis](micro-ecological-approach-to-cross-level-cscl-analysis.md)
+- [Dialogical self theory (DST) I-positions as a CSCL analytical framework](dialogical-self-theory-dst-i-positions-as-a-cscl-analytical-framework.md)
+- [Multimodal analysis](multimodal-analysis.md)
 
 ## Key Sources
 - Gerry Stahl & Friedrich Hesse. (2009). Classical dialogs in CSCL. Computer-Supported Collaborative Learning 4. https://doi.org/10.1007/s11412-009-9071-y

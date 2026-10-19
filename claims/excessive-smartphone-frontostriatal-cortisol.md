@@ -43,4 +43,9 @@ fMRI and cortisol study of 38 15-year-old participants with excessive smartphone
 
 
 ## Related Claims
--
+
+- [Adolescents with Internet addiction show structural and resting-state functional brain alterations, including reduced gray matter density, reduced white matter FA, and decreased connectivity in DMN and CEN](internet-addiction-adolescent-brain-alterations.md)
+- [Internet-addicted adolescents show deficient response inhibition, failing to recruit the frontal-basal ganglia pathway engaged by controls](internet-addiction-deficient-response-inhibition.md)
+- [Frequent and longer screen-based media use, including Internet-related addictive behaviors, is related to a less efficient cognitive control system in adolescence](screen-time-less-efficient-cognitive-control-adolescence.md)
+- [Screen time is not significantly associated with white matter microstructure (FA, MD) in 10-year-olds, while sports participation is positively associated with FA](screen-time-null-white-matter-children.md)
+- [Smartphone attachment is associated with impatience and impulsive behavior in young children, per cited literature](smartphone-attachment-impatience-impulsivity.md)

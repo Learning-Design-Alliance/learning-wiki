@@ -62,4 +62,6 @@ Experiment 1 simple effect for Scroll readers: response-box page breaks the read
 
 
 ## Related Claims
--
+
+- [Only Page readers tended to locate boundary-zone sentences more accurately than central-zone sentences](boundary-zone-locating-advantage-page-only.md)
+- [Readers locate sentences more accurately after reading a text in page-by-page presentation than in scrolling presentation](page-presentation-better-sentence-locating.md)

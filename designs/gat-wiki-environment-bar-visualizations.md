@@ -17,7 +17,7 @@ sources:
 # Wiki learning environment with knowledge bars and participation bars at individual, group, and subgroup levels
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A self-designed wiki environment on energy sources in which awareness information appears as horizontal bars in the discussion forum in the header and next to threads. Yellow knowledge bars visualize subgroup knowledge; blue participation bars visualize contribution counts, with low, medium, and high levels presented at individual, whole-group, and subgroup levels across 12 discussion threads on energy types.
@@ -38,10 +38,12 @@ A self-designed wiki environment on energy sources in which awareness informatio
 - Content selection from discussion forums
 
 ### Claims
-- 
+
+- [Providing combined cognitive and behavioral group awareness information positively affects cognitive and behavioral learning processes and outcomes in social media, per the editorial's report of Ollasch et al., but its emotional effects were not consistently positive.](../claims/combined-cognitive-behavioral-ga-positive-cognitive-behavioral.md) [+W]
 
 ## Related Designs
-- 
+
+- [Group formation system with automatic grouping panel, group composition visualization, and Wordcloud group-awareness tool](wordcloud-group-formation-system-element.md)
 
 ## Examples
 -

@@ -17,7 +17,7 @@ sources:
 # Use the solver as a hint engine for intelligent tutoring of spatial reasoning in puzzle games
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The authors propose deploying the human-centric solver as the core of an educational tool: 'the system can serve as a core engine for an intelligent tutoring system, providing meaningful, human-like hints tailored to a player's current solution attempt'. Because the agent reasons symbolically about stability and path affordances, its intermediate decisions can be translated into interpretable feedback for players. They envisage that 'Experiments with students in STEM fields, engaging with such interactive teaching tools, can be an effective educational aid'.
@@ -42,8 +42,13 @@ The authors propose deploying the human-centric solver as the core of an educati
 ### Affordances
 - Hybrid Qualitative Com Model Camelot Jr
 
+## Claims
+
+- [The hybrid qualitative-COM solver solves arbitrary Camelot Jr. configuration challenges within the game's problem space](../claims/camelot-jr-solver-solves-arbitrary-configurations.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Apply GAP data in educational game design through difficulty tuning, hints, and feedback](apply-gap-data-tuning-hints-feedback.md)
 
 ## Examples
 -

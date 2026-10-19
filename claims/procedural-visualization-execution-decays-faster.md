@@ -43,4 +43,6 @@ LMM analysis of technical-execution rubric scores for the same 40-student cohort
 
 
 ## Related Claims
--
+
+- [The correlation between conceptual understanding and procedural execution weakened over time, becoming largely independent after one year](conceptual-procedural-correlation-weakens-over-time.md)
+- [Technologically oriented help requests comprised 11.5% of requests and declined steeply from the first to the last post-experiment activity](tech-help-requests-steep-decline-across-activities.md)

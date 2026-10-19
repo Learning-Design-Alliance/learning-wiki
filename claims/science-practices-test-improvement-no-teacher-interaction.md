@@ -43,4 +43,8 @@ Mixed-model ANOVA of pre/post science practices test scores (14 multiple-choice 
 
 
 ## Related Claims
--
+
+- [On the physics conceptual test, both teachers' students improved significantly, with a significant teacher-by-time interaction in which Mrs. Lewis's students overcame a lower pre-test disadvantage by post-test](physics-test-teacher-time-interaction-lewis-overcame-pretest-gap.md)
+- [Report Out performance showed a significant instructor-by-scaffolding-level interaction, with Mrs. Lewis's students significantly outperforming Mr. Green's at Medium and Low material support but not at High](report-out-instructor-scaffolding-interaction.md)
+- [The two teachers' scaffolding moves differed significantly: Mrs. Lewis monitored more, prompted peer idea-sharing, extended materials, and handed over independence more, while Mr. Green provided more static support](teacher-scaffolding-moves-main-effect-differences.md)
+- [As material scaffolds faded, Mrs. Lewis's students' performance returned to initial levels between High and Low support, while Mr. Green's students declined significantly across the unit](within-teacher-performance-trajectories-as-scaffolds-faded.md)

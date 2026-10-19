@@ -66,6 +66,7 @@ Reader's Theater converts repeated oral reading — one of the best-supported fl
 - [Act It Out](act_it_out.md) — embodied enactment of a text that shares the performance-to-comprehension logic
 - [Repeated Reading](repeated-reading.md) — the underlying fluency mechanism Reader's Theater packages with motivation and audience
 - [Teach prosody through dramatized contrasts, slashed passages, and modeled expression](prosody-instruction-activities-strategy.md)
+- [Implement Reader's Theater in EFL classrooms through a nine-step sequence from text selection to adaptation](readers-theater-nine-step-efl-sequence.md)
 
 ## Related Elements
 - [Assigned Readings](../elements/assigned-readings.md) — the script is the reading assignment

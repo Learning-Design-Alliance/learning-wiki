@@ -94,6 +94,7 @@ Advance organizers improve comprehension and retention by giving learners a subs
 **Cornell Notes system** — The cue column and summary structure act as a standing organizer learners apply before and after lectures.
 
 **Khan Academy unit overviews** — Each unit opens with a map of the concepts to come, positioning individual videos within a larger structure.
+- [Provide concept maps and hypermaps so learners see conceptual relationships and their own location in the system](../strategies/concept-maps-hypermaps-navigation-support.md)
 
 ## Key Sources
 - Ausubel, D. P. (1968). *Educational psychology: A cognitive view*. Holt, Rinehart & Winston.

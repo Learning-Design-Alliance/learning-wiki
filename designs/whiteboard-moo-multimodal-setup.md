@@ -17,7 +17,7 @@ sources:
 # Multimodal collaboration setup: shared whiteboard plus MOO environment with text chat
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The studied environment combines two media for computer-mediated collaborative problem solving: "a shared whiteboard and a MOO environment that includes a text chat facility." The whiteboard serves as a persistent shared workspace representing the state of problem solving, while the chat facility carries grounding exchanges about information created on the whiteboard. The setup enabled the exploratory study of acknowledgment rates and media use.
@@ -37,7 +37,10 @@ The studied environment combines two media for computer-mediated collaborative p
 - Coordinating shared problem representations and grounding mutual understanding
 
 ### Claims
+
 - [Whiteboard Represents Problem State Chat Grounds](../claims/whiteboard-represents-problem-state-chat-grounds.md) [+M]
+- [More persistent information is exchanged through the more persistent medium: the whiteboard acts as a shared memory rather than a grounding tool](../claims/persistence-more-persistent-info-more-persistent-medium.md) [+W]
+- [The acknowledgment rate — how often partners give feedback of having perceived, understood, and accepted contributions — varies according to the medium and the content of interactions](../claims/acknowledgment-rate-varies-media-and-content.md) [+W]
 
 ## Related Designs
 - 

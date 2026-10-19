@@ -42,7 +42,7 @@ The report closes by endorsing the attitude Jespersen expressed in his 1909 gram
 
 ## Related Principles
 
-- [Learning activities have a legitimate place in the language syllabus, but remain secondary to acquisition activities](../principles/learning-activities-legitimate-place-syllabus.md)
+- [Learning activities have a legitimate place in the language syllabus, but remain secondary to acquisition activities](../principles/flexible-error-treatment-strategies.md)
 
 ## Examples
 -

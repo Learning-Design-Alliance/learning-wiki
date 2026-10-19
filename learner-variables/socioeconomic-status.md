@@ -204,4 +204,6 @@ A learner's economic and social position: family income or poverty (often measur
 
 ## Examples
 
+- [Clinicians supporting children with ADHD should take a holistic approach and refer families to services addressing socioeconomic circumstances](../strategies/holistic-adhd-care-with-family-socioeconomic-support-referral.md)
+
 ## Key Sources

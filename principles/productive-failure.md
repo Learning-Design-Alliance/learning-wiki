@@ -219,6 +219,7 @@ The expectation should weaken if new comparisons with comparable learners, holdi
 - [Productive failure](../strategies/productive-failure.md) and [Productive struggle](../strategies/productive_struggle.md) are the strategies that carry this principle into an activity.
 - [Invention](../elements/invention.md) — the invention activity as a building block.
 - [When implementing PS-I, include contrasting cases or build the instruction phase on student solutions](../strategies/include-contrasting-cases-or-build-instruction-on-student-solutions.md)
+- [Use collaboration scripting to take advantage of the hidden learning in productive failure](../strategies/scripting-leverage-productive-failure-hidden-learning.md)
 
 ## Key Sources
 - Sinha, T., & Kapur, M. (2021). When problem solving followed by instruction works: Evidence for productive failure. *Review of Educational Research, 91*(5), 761–798. [doi:10.3102/00346543211019105](https://doi.org/10.3102/00346543211019105)

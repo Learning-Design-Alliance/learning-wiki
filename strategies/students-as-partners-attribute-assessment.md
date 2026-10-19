@@ -37,7 +37,8 @@ The paper recommends engaging students as active partners in directing their own
 - lifelong learning, self-assessment and monitoring of graduate attribute development
 
 ## Related Strategies
-- 
+
+- [Student Voice In Curriculum Planning](student-voice-in-curriculum-planning.md)
 
 ## Examples
 -

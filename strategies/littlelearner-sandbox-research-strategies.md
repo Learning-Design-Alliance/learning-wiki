@@ -17,7 +17,7 @@ sources:
 # Use the LittleLearner sandbox for controlled studies of RL-driven discovery, continual learning, interpretability, calibration, and human-model comparison
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article proposes the LittleCurriculum-LittleLearner sandbox as a playground for studies that are confounded in web-scale models. Because "the model’s prior is restricted toK–5material, capabilities that emerge under RL ... can be cleanly attributed to the RL process itself". Suggested directions include RL discovery and algorithmic extrapolation, continual learning and interpretability studies, epistemic-behavior evaluation, retrieval and memory integration, and controlled human-model comparisons of sample efficiency and error structure.
@@ -35,6 +35,13 @@ The article proposes the LittleCurriculum-LittleLearner sandbox as a playground 
 
 ### Target Learning Goals
 - Studying genuine out-of-distribution capability acquisition, sample efficiency, prerequisite dependence, transfer, and error structure
+
+## Claims
+
+- [GRPO post-training boosts in-scope K-5 capabilities but fails to recover Beyond-K-5 capabilities, even when post-trained on out-of-scope data](../claims/grpo-post-training-fails-beyond-k5.md) [+W]
+- [The multi-stage filtering pipeline reduces Beyond-K-5 retention to near zero while preserving a minority of K-5 content](../claims/k5-filter-pipeline-near-zero-beyond-k5-retention.md) [+W]
+- [LittleLearner's capabilities tightly track its controlled exposure: strong on in-scope tasks, degrading beyond the K-5 boundary](../claims/littlelearner-capabilities-track-controlled-exposure.md) [+W]
+- [Across scaling, post-training, and in-context learning, the pretraining filter rather than the intervention sets LittleLearner's capability ceiling](../claims/pretraining-filter-sets-capability-ceiling.md) [+W]
 
 ## Related Strategies
 - 

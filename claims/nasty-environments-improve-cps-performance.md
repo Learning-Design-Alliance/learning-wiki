@@ -43,4 +43,6 @@ The review reports a recent Tailorshop experiment by Barth and Funke (2009) in w
 
 
 ## Related Claims
--
+
+- [Successful and unsuccessful complex problem solvers differ in transition frequencies between questions and decisions](transition-frequencies-differ-successful-solvers.md)
+- [ChatGPT use improves the quality, elaboration, and originality of university students' solutions to a complex ill-defined problem-solving task](chatgpt-improves-quality-elaboration-originality-pit.md)

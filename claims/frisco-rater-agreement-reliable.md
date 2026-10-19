@@ -43,6 +43,7 @@ Reliability analysis of essay scoring by three high school physics teachers of 1
 
 
 ## Related Claims
+
 - The interview coding achieved high inter-rater reliability, with Cohen's Kappa of 0.82 between independent coders — related
 - [Three independent expert instructors reached exceptionally high inter-rater reliability when grading 1200 bash exam responses, establishing a reliable human reference standard](expert-triad-high-inter-rater-reliability-bash-grading.md) — related
 - The review's evidence base comprises 42 peer-reviewed publications selected from 922 records with high inter-rater agreement (Cohen's kappa = 0.88) — related
@@ -54,3 +55,4 @@ Reliability analysis of essay scoring by three high school physics teachers of 1
 - Two human graders reached almost perfect agreement (QWK = 0.95), though one waterfall-model question showed only substantial agreement — related
 - [Automated essay scoring can achieve high agreement with human raters but faces calibration constraints](aes-high-agreement-calibration-constraint.md) — related
 - Think aloud coding achieved inter-rater reliability of k = .53-.65 (kmax = .81-.82) between two coders using ELAN software — related
+- [Human coding of other-oriented transacts in the debate corpus reached high inter-coder reliability (kappa 0.72 for reasoning, 0.7 for transactivity, 0.95 for self/other distinction)](transactivity-coding-kappa-reliability-debate-corpus.md)

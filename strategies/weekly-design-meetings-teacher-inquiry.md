@@ -40,7 +40,11 @@ Seconded teachers and researchers met weekly as a design team to improve knowled
 - Collaborative inquiry into classroom practice
 
 ## Related Strategies
-- 
+
+- [Professional Learning Communities](professional-learning-communities.md)
+- [Lesson Study](lesson-study.md)
+- [Reflection with Others](reflection_with_others.md)
+- [Form design teams by building trust and relationships and prioritizing meaningful representation before project kick-off.](build-trust-meaningful-representation-design-teams.md)
 
 ## Examples
 -

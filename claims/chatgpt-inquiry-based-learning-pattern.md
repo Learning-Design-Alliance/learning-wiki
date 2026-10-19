@@ -43,4 +43,6 @@ Thematic finding from reflective essays and focus group interviews in the case s
 
 
 ## Related Claims
--
+
+- [More than half of participants' ChatGPT queries sought knowledge or advice, with methodological knowledge and classroom management the largest prompt categories](chatgpt-queries-sought-knowledge-advice.md)
+- [Participants' prompting was often limited, with poorly formulated prompts leading to vague or unhelpful outputs](poorly-formulated-prompts-vague-outputs.md)

@@ -17,7 +17,7 @@ sources:
 # Promote motivation alongside executive functioning and early numeracy development from the earliest stages of mathematics education
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Based on the finding that motivation exerts an indirect effect on later mathematical performance, the authors recommend that educators and parents enhance children's motivation as a basic driver of learning from the earliest stages. They recommend "interesting mathematical tasks such as projects that emerge from student's interests," "activities focused on highe r-order thinking," and "avoiding anxiety by promoting cooperative work rather than competitive," while warning against defining success as fast, correct responses and rote, repetitive learning.
@@ -37,8 +37,13 @@ Based on the finding that motivation exerts an indirect effect on later mathemat
 ### Target Learning Goals
 - sustained motivation toward mathematics and later mathematical performance
 
+## Claims
+
+- [Motivation's effect on later mathematical performance is indirect, mediated by executive functioning and early numeracy skills](../claims/motivation-indirect-effect-mediated-by-ef-and-numeracy.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Monitor children's math anxiety from the earliest stages of schooling to support proficient math performance](monitor-math-anxiety-early-schooling.md)
 
 ## Examples
 -

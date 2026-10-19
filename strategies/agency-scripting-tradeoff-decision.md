@@ -39,7 +39,8 @@ The editorial shows that the choice between leaving open what learners map or pr
 - emerging digital and spatial literacies
 
 ## Related Strategies
-- 
+
+- [When designing instructive animations, weigh the trade-off between learner control and increased time-on-task](learner-control-time-tradeoff-design-consideration.md)
 
 ## Examples
 -

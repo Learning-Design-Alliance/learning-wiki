@@ -43,4 +43,6 @@ Controlled experiment with 12 children with DD and 11 controls completing an ari
 
 
 ## Related Claims
+
 - [Negative priming effects are generally larger in mathematics than in language or science, particularly in arithmetic tasks](np-effects-larger-mathematics-arithmetic.md) — related
+- [Math-related word primes facilitate arithmetic processing in children with DD but inhibit it in typically-developing controls](math-primes-facilitate-dd-inhibit-controls.md)

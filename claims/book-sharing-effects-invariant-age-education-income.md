@@ -46,6 +46,7 @@ Pre-specified subgroup meta-regression analyses across the included RCTs, with a
 - [Oral Language](../learner-variables/oral-language.md) — outcome: instruction changes it
 
 ## Related Claims
+
 - [Book-sharing interventions produce a large improvement in caregiver book-sharing competence (d=1.01)](book-sharing-caregiver-competence-large-effect.md) — related
 - [Improvements in caregiver book-sharing behaviour mediate the intervention's impact on child language (one mediation analysis)](caregiver-book-sharing-competence-mediation.md) — related
 - [Intervention dosage moderates child language outcomes: brief interventions under 60 minutes show no significant effect](book-sharing-dosage-moderates-language-outcomes.md) — related
@@ -55,3 +56,5 @@ Pre-specified subgroup meta-regression analyses across the included RCTs, with a
 - [Group-based delivery is associated with more improvement in child language than individually delivered interventions](book-sharing-group-delivery-better-than-individual.md) — related
 - [Parent Involvement Improves Early Reading](parent-involvement-improves-early-reading.md) — related
 - [Interventions were effective across all child and adolescent age groups, with no particular age group in which interventions were most effective.](sr-interventions-effective-across-all-age-groups.md) — related
+- [Cognitive control mechanisms do not moderate the beneficial effects of book exposure on early literacy outcomes](cognitive-control-does-not-moderate-book-exposure.md)
+- [The bullying-achievement and mediation associations are moderated by design, assessment method, country, age and bullying type](moderators-of-bullying-achievement-association.md)

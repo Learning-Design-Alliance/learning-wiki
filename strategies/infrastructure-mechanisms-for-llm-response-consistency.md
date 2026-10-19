@@ -39,6 +39,7 @@ The article recommends treating response consistency in conversation-based asses
 ## Related Strategies
 
 - [Apply error mitigation such as self-consistency before deploying LLM-generated help, and frame unmitigated LLM feedback as an imperfect source](mitigate-llm-hint-errors-before-deployment.md)
+- [Human-in-the-loop evaluation of LLM assessment conversations for fairness, bias, and explainability](human-in-the-loop-llm-cba-fairness-evaluation.md)
 
 ## Examples
 -

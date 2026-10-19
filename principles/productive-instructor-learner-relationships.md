@@ -1,7 +1,7 @@
 ---
 type: principle
 id: productive-instructor-learner-relationships
-aliases: [separate-assistance-from-assessment]
+aliases: [separate-assistance-from-assessment, gradual-empathic-concern-over-efficiency, twelve-characteristics-of-effective-teachers]
 title: Build productive instructor-learner relationships so adults feel connected and take an active role in learning
 description: "For adult learners, deliberate early relationship work by the instructor (learning about each learner, greeting by name, stated working terms, a brief one-to-one, low-exposure participation before public, non-punitive responses to conflict) is expected to raise willingness to participate, raise needs and engage opposing arguments, but no claim in the wiki tests this for adults: the evidence is correlational syntheses and randomised tests of single moves in middle schools."
 canonical: true
@@ -18,12 +18,16 @@ sources:
     resource: "https://eric.ed.gov/?id=ED377169"
     title: "Feiman-Nemser, Sharon, et al. (1994). Guiding Teacher Learning: Insider Studies of Classroom-Based Work with Teachers. Craft Paper 94-1. National Center for Research on Teacher Learning. https://eric.ed.gov/?id=ED377169"
     author: Feiman-Nemser, Sharon, et al
+  - id: williams-1995
+    resource: "https://eric.ed.gov/?id=ED398498"
+    title: "Williams, Paul A. (1995). Developing a Model to Ease Youths' Transitions into Residential Treatment: Integrating Constructivist Therapies and Youth Care Work into a Contextually Relevant Rite of Passage. Nova Southeastern University. https://eric.ed.gov/?id=ED398498"
+    author: Williams, Paul A
 ---
 
 # Build productive instructor-learner relationships so adults feel connected and take an active role in learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 22 claims (15 for, 7 mixed) · 28 studies (7 causal, 7 associational, 4 review, 4 qualitative, 3 theoretical, 2 quant-synthesis, 1 design), `q1`–`q4` · 2 of 28 report an effect size · 18 claims rest on one study
+> **Evidence** · 24 claims (17 for, 7 mixed) · 29 studies (7 causal, 7 associational, 4 review, 4 qualitative, 3 theoretical, 2 quant-synthesis, 2 design), `q1`–`q4` · 2 of 29 report an effect size · 20 claims rest on one study
 
 ## Conditional relationship
 
@@ -133,6 +137,8 @@ Claims bearing on the page that are not part of the model above, each with how f
 - [Strong student–tutor relationships and a sense of belonging characterized tutoring programs with high attendance and positive learning effects](../claims/strong-student-tutor-relationships-key-to-tutoring-success.md) [+W] — a cross-programme association across eight tutoring evaluations; used above only for the scarce-facilitator row.
 - [Judgement-bearing assistance is the central analytic pivot: delegating evaluation of quality and correctness is normatively more demanding than instrumental assistance](../claims/judgement-bearing-assistance-central-pivot.md) [~W]
 - [Relational goals are associated with recognition, grouping, and classroom mutual respect practices](../claims/lao-relational-goals-targets-recognition-grouping-respect.md) [+W] — attached 2026-10-18 from Anongsack Mahavong (2026), which proposed "Foster teachers' relational goals alongside mastery goals to support favorable instructional practices".
+- [Workers Treat Admissions As Sudden Procedural Event](../claims/workers-treat-admissions-as-sudden-procedural-event.md) [+M]
+- [Cmr Model Viewed As Comfortable Transition](../claims/cmr-model-viewed-as-comfortable-transition.md) [+M]
 
 ## Objective and learner-valued goal
 
@@ -160,16 +166,26 @@ A good reported relationship, participation, persistence, openness to opposing a
 - [Wise Feedback Across Difference](wise-feedback-across-difference.md) — framing critique when the learner may doubt the giver's intent.
 - [Check-ins](check-ins.md) — the recurring prompt this page uses to check the relationship from the learner's side.
 - [Culturally Responsive Classroom Norms](culturally-responsive-classroom-norms.md) — the interaction norms the relationship sits inside.
+- [NBPTS Five Core Propositions for Accomplished Teaching](../theories/nbpts-five-core-propositions.md) — a complementary, standards-body framework covering overlapping ground (commitment to students, equitable treatment) from a top-down direction
+- [Set a High Bar for Each Student](../strategies/set_a_high_bar_for_each_student.md) — operationalizes characteristic 3 (Hold High Expectations)
 
 ## Examples
 -
 - [Positive Greetings at the Door](../strategies/positive-greetings-at-the-door.md) — the greeting routine in step 2.
 - [Learning Students' Names](../strategies/learning-students-names.md) — learning and using names early.
 - [Positive Teacher Student Relationships](../strategies/positive-teacher-student-relationships.md) and [Building trusting relationships](../strategies/building_trusting_relationships.md) — strategy recipes for the same aim.
+- [Admission structured as a rite of passage combining rituals and constructivist therapy](../designs/admission-as-rite-of-passage-pattern.md)
+- [Conduct admissions as a gradual therapeutic process examining needs, forming relationships, involving supports, and celebrating arrival](../strategies/gradual-therapeutic-admission-strategy.md)
+- [Care-Giver Primacy as a worker stance for meeting new youths' needs](../elements/care-giver-primacy.md)
+- A teacher who privately, rather than publicly, addresses a student's behavior or grade concerns (characteristic 10)
+- A teacher who is transparent with a class after making a grading or instructional error (characteristic 12)
 
 ## Key Sources
 - Ellis, M. L. (2012). Using the Pragmatic Progressive Philosophy in Adult Education. https://eric.ed.gov/?id=ED536865
 - Feiman-Nemser, Sharon, et al. (1994). Guiding Teacher Learning: Insider Studies of Classroom-Based Work with Teachers. Craft Paper 94-1. National Center for Research on Teacher Learning. https://eric.ed.gov/?id=ED377169
+- Williams, Paul A. (1995). Developing a Model to Ease Youths' Transitions into Residential Treatment: Integrating Constructivist Therapies and Youth Care Work into a Contextually Relevant Rite of Passage. Nova Southeastern University. https://eric.ed.gov/?id=ED398498
+- Walker, J. (2008). Twelve characteristics of an effective teacher: A longitudinal, qualitative, quasi-research study of in-service and pre-service teachers' opinions. *Educational Horizons*. Retrieved from https://files.eric.ed.gov/fulltext/EJ815372.pdf
+- Arduini-Van Hoose, N. (2020). The nature of teaching. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
 
 <!-- deprecated 2026-10-15: superseded by the conditional model above. The previous body, kept verbatim.
 ## Description
@@ -245,4 +261,95 @@ The paper reports that many induction programs deliberately locate the functions
 
 ## Key Sources
 - Feiman-Nemser, Sharon, et al. (1994). Guiding Teacher Learning: Insider Studies of Classroom-Based Work with Teachers. Craft Paper 94-1. National Center for Research on Teacher Learning. https://eric.ed.gov/?id=ED377169
+-->
+
+<!-- merged 2026-10-19 from principles/gradual-empathic-concern-over-efficiency ("Favor gradual, empathic concern for individuals over quick, cost-effective efficiency in transition therapies"), a narrower page folded into its canonical page (fragment step, two models agreeing or a third settling): its body as it stood. Its bullets this page lacked were added above.
+
+# Favor gradual, empathic concern for individuals over quick, cost-effective efficiency in transition therapies
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+The article advances a paradigm shift in how transition-support therapies are valued. As stated, "a paradigm-shift from therapies emphasizing quick cost-effective efficiency to therapies emphasizing a gradual, empathic concern for individuals was pursued." The principle holds that easing youths into residential treatment should prioritize empathic, relationship-based gradualness over procedural speed and cost efficiency, because admissions experienced as sudden procedural events are the documented problem.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Programs willing to allocate worker time and training to multi-stage admissions
+#### Constraints
+- The article frames this as pursued within CMR at one residential treatment program; it does not report comparative outcome data demonstrating superiority over efficiency-oriented approaches
+
+### Target Learners
+- youth care workers and administrators at residential treatment programs
+
+### Target Learning Objectives
+- designing admissions that youths experience as comfortable transitions
+
+### Claims
+- [Workers Treat Admissions As Sudden Procedural Event](../claims/workers-treat-admissions-as-sudden-procedural-event.md) [+M]
+- [Cmr Model Viewed As Comfortable Transition](../claims/cmr-model-viewed-as-comfortable-transition.md) [+M]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Admission structured as a rite of passage combining rituals and constructivist therapy](../designs/admission-as-rite-of-passage-pattern.md)
+- [Conduct admissions as a gradual therapeutic process examining needs, forming relationships, involving supports, and celebrating arrival](../strategies/gradual-therapeutic-admission-strategy.md)
+- [Care-Giver Primacy as a worker stance for meeting new youths' needs](../elements/care-giver-primacy.md)
+
+## Key Sources
+- Williams, Paul A. (1995). Developing a Model to Ease Youths' Transitions into Residential Treatment: Integrating Constructivist Therapies and Youth Care Work into a Contextually Relevant Rite of Passage. Nova Southeastern University. https://eric.ed.gov/?id=ED398498
+-->
+
+<!-- merged 2026-10-19 from principles/twelve-characteristics-of-effective-teachers ("Twelve Characteristics of Effective Teachers"), a narrower page folded into its canonical page (fragment step): its body as it stood. Its bullets this page lacked were added above.
+
+# Twelve Characteristics of Effective Teachers
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
+
+## Description
+Walker (2008) asked in-service and preservice teachers to identify characteristics of their most effective teachers — "effective" meaning teachers who made the most significant and positive impact on their lives. Twelve characteristics emerged from those responses:
+
+1. **Prepared.** Ready for each class, prioritizing time on task; students report that learning feels easy because time passes quickly while they're engaged.
+2. **Positive.** Optimistic about teaching and about students, available to students, communicating about progress, giving praise, and supporting students to respond positively to one another.
+3. **Hold High Expectations.** Hold the highest standards and believe all students can be successful, challenging students to do their best and building their confidence.
+4. **Creative.** Resourceful and inventive, doing things outside the norm to keep students engaged and motivated.
+5. **Fair.** Fair in handling students and grading, giving equal opportunity and clear, consistent expectations — while recognizing that not all students learn the same way, so "fair" does not necessarily mean treating everyone identically.
+6. **Display a Personal Touch.** Approachable and personally connected with students, sharing experiences and taking a genuine interest in them.
+7. **Cultivate a Sense of Belonging.** Project that the classroom is where they want to be, and make students feel welcome and comfortable there too.
+8. **Compassionate.** Concerned about students' academics as well as their personal issues, showing sensitivity and compassion.
+9. **Have a Sense of Humor.** Make learning fun and don't take everything seriously, using humor while teaching and in difficult situations.
+10. **Respect Students.** Give and earn the highest respect, avoid deliberately embarrassing students, and address sensitive issues privately.
+11. **Forgiving.** Forgive students for inappropriate behavior, don't hold grudges, and refuse to give up on difficult students.
+12. **Admit Mistakes.** Admit when wrong and apologize for mistakes.
+
+## Implications
+
+### Context
+#### Requirements
+- Willingness to treat "effectiveness" partly as a matter of disposition and relationship, not only instructional technique — these characteristics are largely about how a teacher relates to students rather than which method they use
+#### Constraints
+- The framework is derived from retrospective student and teacher accounts of who was memorable and impactful, not from a controlled study linking these traits to measured learning outcomes — treat it as a bottom-up description of what students value, not as validated causal evidence
+
+### Target Learners
+- Teacher preparation programs and individual teachers reflecting on which of these characteristics they already display and which need deliberate development
+
+### Target Learning Objectives
+- A teacher-student relationship durable enough to support learning even where a specific instructional technique is imperfect
+
+## Related Principles
+- [NBPTS Five Core Propositions for Accomplished Teaching](../theories/nbpts-five-core-propositions.md) — a complementary, standards-body framework covering overlapping ground (commitment to students, equitable treatment) from a top-down direction
+- [Set a High Bar for Each Student](../strategies/set_a_high_bar_for_each_student.md) — operationalizes characteristic 3 (Hold High Expectations)
+
+## Examples
+- A teacher who privately, rather than publicly, addresses a student's behavior or grade concerns (characteristic 10)
+- A teacher who is transparent with a class after making a grading or instructional error (characteristic 12)
+
+## Key Sources
+- Walker, J. (2008). Twelve characteristics of an effective teacher: A longitudinal, qualitative, quasi-research study of in-service and pre-service teachers' opinions. *Educational Horizons*. Retrieved from https://files.eric.ed.gov/fulltext/EJ815372.pdf
+- Arduini-Van Hoose, N. (2020). The nature of teaching. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
 -->

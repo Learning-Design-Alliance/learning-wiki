@@ -43,4 +43,7 @@ The review's third section examines hypothesized links between selective attenti
 
 
 ## Related Claims
--
+
+- [Developmental differences in selective attention are related to neural systems for deploying attention and managing response conflict, while deployed selective attention acts through similar neural mechanisms across ages](developmental-selective-attention-deployment-mechanisms.md)
+- [Video-game play and mind-brain training literatures suggest the possibility of training selective attention](video-game-and-mind-brain-training-selective-attention.md)
+- [Executive function measures predict early mathematics achievement over and above reading ability and IQ](executive-functions-predict-early-math-over-iq.md)

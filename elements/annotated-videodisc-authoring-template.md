@@ -51,6 +51,7 @@ An authoring template developed at the McKay Institute that permitted annotating
 
 - [Montevidisco conversational simulator](../products/montevidisco.md)
 - [Flight SOS interactive video program](../products/flight-sos.md)
+- [Film-based simulation paradigm for training and testing anticipation and decision making](film-based-anticipation-simulation-paradigm.md)
 
 ## Examples
 

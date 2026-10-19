@@ -43,4 +43,5 @@ Qualitative analysis of the Wikipedia article "Computer-supported collaborative 
 
 
 ## Related Claims
--
+
+- [Wikipedia history analysis shows external accommodation: the AIDS origin article progressively weakened and integrated the contentious polio vaccine theory](wikipedia-aids-origin-external-accommodation.md)

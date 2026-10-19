@@ -43,4 +43,7 @@ Descriptive social network analysis of the pre-workshop collaboration networks f
 
 
 ## Related Claims
--
+
+- [Longer face-to-face contact during a scientific event increases the likelihood that a researcher selects the other as a new potential collaboration partner](contact-duration-predicts-new-collaboration-partner-selection.md)
+- [Reciprocity predicts the initiation of new potential collaborations at scientific events](reciprocity-predicts-new-collaboration-initiation.md)
+- [Transitivity predicts the initiation of new potential collaborations at scientific events](transitivity-predicts-new-collaboration-initiation.md)

@@ -37,7 +37,8 @@ In its recommendations, the article directs future work at two gaps: persistence
 - Sustained engagement with and applied understanding of ecological concepts
 
 ## Related Strategies
-- 
+
+- [Prepare college instructors to support English Learners' language and academic development in dual enrollment courses](pd-for-college-instructors-teaching-els.md)
 
 ## Examples
 -

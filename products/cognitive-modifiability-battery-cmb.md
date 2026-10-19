@@ -13,7 +13,7 @@ generated:
 # Cognitive Modifiability Battery (CMB)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A dynamic assessment and intervention instrument developed by Tzuriel for evaluating and supporting cognitive modifiability in young children, including children with complex learning difficulties.
@@ -22,6 +22,9 @@ A dynamic assessment and intervention instrument developed by Tzuriel for evalua
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
+- [Dynamic assessment is useful for assessing outcome effects of cognitive education programs aimed at learning-how-to-learn skills](../claims/da-assesses-cognitive-education-program-outcomes.md) [+W]
+- [The mediational strategy is reported as more effective than other intervention approaches such as the graduated prompt](../claims/mediational-strategy-more-effective-than-graduated-prompt.md) [+W]
 
 ## Related Products and Programmes
 -

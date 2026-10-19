@@ -45,6 +45,7 @@ The authors recommend that future work examine professional development for coll
 
 - [Select dual enrollment courses without English language proficiency requirements or prerequisites to make Early College linguistically accessible](ec-courses-without-english-proficiency-prerequisites.md)
 - [Use students' home language (Marshallese) to supplement English instruction in entry-level ELA courses](home-language-supplement-english-instruction.md)
+- [Research agenda for extending puppetry as an ecology teaching tool](puppetry-ecology-future-research-agenda.md)
 
 ## Examples
 -

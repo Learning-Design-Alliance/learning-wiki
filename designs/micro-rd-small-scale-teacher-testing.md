@@ -39,7 +39,8 @@ At South Fayette Township School District (PA), R&D operates as a culture of exp
 - 
 
 ## Related Designs
-- 
+
+- [Tough as Nails project: a K-8 coding pathway research-practice partnership in Kentucky Appalachia](tough-as-nails-project.md)
 
 ## Examples
 -

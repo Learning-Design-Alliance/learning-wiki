@@ -25,7 +25,8 @@ The editorial reports that Meier, Spada and Rummel differentiated as many as nin
 - [CSCL needs to promote the inter-animation of complementary quantitative and qualitative perspectives rather than converge on a single ideal method.](../claims/cscl-interanimate-quantitative-qualitative-methods.md) [+M]
 
 ## Related Research Methods
--
+
+- [Meier et al. rating schema for productive collaboration](meier-et-al-rating-schema-for-productive-collaboration.md)
 
 ## Key Sources
 - Gerry Stahl & Friedrich Hesse. (2007). Welcome to the future: ijCSCL volume 2. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-007-9010-8

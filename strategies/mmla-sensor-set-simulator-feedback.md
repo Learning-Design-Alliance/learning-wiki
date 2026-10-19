@@ -17,7 +17,7 @@ sources:
 # Combine system logs, eye-tracking, and speech recognition to capture professional performance, communication, and collaboration for automated feedback in full-mission simulator training
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article proposes an MMLA design using three technologies: system logs capturing navigational actions such as speed, "angle of turns", and distance between vessels; eye-tracking capturing "area of interest and joint visual attention" as accountable traces of gaze orientation; and speech recognition transcribing bridge team communications, usable in debriefing to provide accountability. Each maps to a display of understanding identified in the episode analyses.
@@ -36,8 +36,14 @@ The article proposes an MMLA design using three technologies: system logs captur
 ### Target Learning Goals
 - professional navigation performance, communication, and collaboration
 
+## Claims
+
+- [Students raised four categories of concern about potential misuse of MMLA data: judgment, privacy, career impact, and academic integrity](../claims/mmla-data-misuse-concerns-four-themes.md) [~W]
+
 ## Related Strategies
-- 
+
+- [Address ethics and privacy considerations — transparency, security, student control, accountability, and informed consent — at the initial stages of MMLA design in simulation-based training](ethics-privacy-principles-mmla-simulator-design.md)
+- [Triangulate physiological data with other CSCL data streams ( such as video or logfile traces ) to uncover otherwise unidentifiable psychophysiological reactions](triangulate-physiological-data-with-video-or-logs.md)
 
 ## Examples
 -

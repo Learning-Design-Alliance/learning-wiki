@@ -17,7 +17,7 @@ sources:
 # Select LoRA rank r=8 as a balanced compromise between parameter count and performance when adapting course question-answering models under resource constraints
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 When adapting open-source instruction-tuned models to a specific course with limited data and hardware, the article recommends treating LoRA rank as a tunable trade-off rather than always maximizing it. The article states that "Ther= 8 setting provided a stable compromise between parameter count and performance," while r=4 gave incomplete structured output and r=16 gave the largest absolute gains with diminishing per-parameter returns. Practitioners should choose rank according to whether maximizing similarity or conserving parameters is the primary objective.
@@ -37,6 +37,11 @@ When adapting open-source instruction-tuned models to a specific course with lim
 
 ### Target Learning Goals
 - course-specific question answering with structured, verifiable instructional responses
+
+## Claims
+
+- [Increasing LoRA rank raises absolute ROUGE-L gains but produces diminishing returns in performance per million adapter parameters](../claims/lora-rank-diminishing-parameter-efficiency-returns.md) [+W]
+- [LoRA fine-tuning makes the Solution-Method-Teaching Points instructional format more stable, with Solution and Method coverage reaching 1.00 at r=8 and r=16 for the 3B model](../claims/lora-improves-structured-instructional-output-stability.md) [+W]
 
 ## Related Strategies
 

@@ -45,6 +45,7 @@ Because SR and OB measures are weakly correlated and cannot be used interchangea
 ## Related Strategies
 
 - [Use a mixed-methods assessment sequence: diagnostic inventory, structured verification tasks, and discipline-specific critique or workflow-design assignments](mixed-methods-ai-literacy-assessment-sequence.md)
+- [Use external instruments rather than teacher judgment to measure learning strategies for differentiation decisions](external-instruments-measure-learning-strategies.md)
 
 ## Examples
 -

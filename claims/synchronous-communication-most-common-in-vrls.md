@@ -43,4 +43,6 @@ Systematic review coding of communication tools across the 62 analysed publicati
 
 
 ## Related Claims
--
+
+- [Group awareness tools showing peer presence, peer activities, or multiple artifacts are integrated in many educational VRLs, but performance and teacher-presence indicators are never standalone](group-awareness-tools-multimodal-vrls.md)
+- [Only a minority of VRL studies assess collaboration quality or learning, but most studies that measure learning report positive impact](minority-studies-evaluate-collaboration-learning-vrls.md)

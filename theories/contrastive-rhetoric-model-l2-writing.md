@@ -16,7 +16,7 @@ sources:
 # Contrastive Rhetoric Model of L2 writing
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The Contrastive Rhetoric Model explains L2 writing through the influence of a writer's first language and culture. The article states that it "focuses on the influence of the L1 and one's own culture on the process of writing in a second language", building on Kaplan's claim that linguistic communities share collective thought patterns reflected in their writing. It has focused primarily on international student L2 writers in ESL contexts in American higher education.
@@ -37,8 +37,12 @@ The Contrastive Rhetoric Model explains L2 writing through the influence of a wr
 
 ### Claims
 
+- [L1 and L2 writers share a core set of high-frequency connectives but with strikingly different frequencies, and is nearly three times more frequent in L1 essays](../claims/shared-top-dcs-different-frequencies.md) [+W]
+
 ## Related Theories
-- 
+
+- [Cognitive Model of L2 writing](cognitive-model-l2-writing.md)
+- [Sociocultural Model of L2 writing](sociocultural-model-l2-writing.md)
 
 ## Examples
 -

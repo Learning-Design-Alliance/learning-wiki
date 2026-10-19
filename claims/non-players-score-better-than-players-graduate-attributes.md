@@ -43,4 +43,5 @@ Player-versus-non-player analysis (Table 3: 753 non-players, 1351 players) of th
 
 
 ## Related Claims
--
+
+- [Existing extracurricular video game play habits show no significant relationship with graduate attribute attainment among higher education students](no-significant-relationship-game-play-habits-graduate-attributes.md)

@@ -59,9 +59,11 @@ Miscue analysis operationalizes [Assessment for Learning](../principles/assessme
 6. Plan one or two targeted instructional moves and schedule the next conference; use [Check-ins](../principles/check-ins.md) to track progress across sessions.
 
 ## Related Strategies
+
 - **Running records** — the condensed, high-frequency variant used for daily monitoring in early literacy programs
 - **Retrospective miscue analysis** — the metacognitive variant in which readers analyze their own miscues
 - **Informal reading inventory** — the broader diagnostic battery that miscue analysis often complements
+- [Use tablet computers in Response to Intervention for self-recorded reading, electronic graphic organizers, and electronic text notation](rti-tablet-reading-strategies-strategy.md)
 
 ## Examples
 - **Reading Recovery** ([https://readingrecovery.org](https://readingrecovery.org)) — Marie Clay's one-to-one intervention for the lowest-achieving first graders; daily running records drive lesson sequencing.

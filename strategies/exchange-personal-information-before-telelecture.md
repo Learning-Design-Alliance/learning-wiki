@@ -39,6 +39,8 @@ The author recommends building personal contact into telelectures: "The students
 ## Related Strategies
 
 - [Schedule telediscussion courses weekly in two-and-one-half-hour sections with discussion before and after each telelecture](weekly-two-and-half-hour-telediscussion-sections.md)
+- [Purposeful Scheduling for Learner Connections](purposeful_scheduling_for_learner_connections.md)
+- [Pre-Entry Socialization](pre-entry_socialization.md)
 
 ## Examples
 -

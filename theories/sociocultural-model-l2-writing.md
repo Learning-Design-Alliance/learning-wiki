@@ -38,10 +38,17 @@ The Sociocultural Model emphasizes the social and contextual situatedness of wri
 ### Claims
 
 ## Related Theories
-- 
+
+- [Contrastive Rhetoric Model of L2 writing](contrastive-rhetoric-model-l2-writing.md)
+- [Vygotsky's sociocultural theory: development is historically situated, culturally determined, and proceeds through internalization of social interaction](vygotsky-sociocultural-theory-overview.md)
+- [Activity theory models learning as participation in a collective activity system whose elements dynamically interact](activity-system-model-l2-writing.md)
+- [Sociocultural Theory](sociocultural-theory.md)
+- [Zone of Proximal Development as learners' responsiveness to culturally appropriate mediation](zpd-responsiveness-to-mediation.md)
+- [Dialectical monism: culture restructures natural mind, and applied research is basic research](sct-dialectical-monism-culture-restructures-nature.md)
 
 ## Examples
--
+
+- [Adopt a facilitator role and prepare students for active participation in sociocultural L2 writing instruction](../strategies/facilitator-role-sociocultural-l2-writing.md)
 
 ## Key Sources
 - Chmarkh, M. (2025). Evaluating the Contrastive Rhetoric Model, the Cognitive Model, and the Sociocultural Model to L2 Writing. https://eric.ed.gov/?id=ED671744

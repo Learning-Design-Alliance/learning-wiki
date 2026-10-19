@@ -43,6 +43,8 @@ The review reports this from further SNA analysis (Halatchliyski et al. 2014) of
 
 
 ## Related Claims
+
 - [New Wikipedia knowledge emerges around pivotal articles: high-centrality articles within domains and high-betweenness boundary-spanning articles between domains](new-knowledge-at-pivotal-central-boundary-articles.md) — related
 - [Artifacts and their interconnected structure operationalize collective knowledge processes in large-scale Wikipedia analysis](artifact-structure-operationalizes-collective-knowledge.md) — a broader claim this one bears on
 - [Three big data methods—text classification, cluster analysis, and social network analysis—can each yield insights into learning in mass collaboration](three-big-data-methods-insights-mass-collaboration.md) — a broader claim this one bears on
+- [Boundary spanning perceptions and actions are critical mechanisms for productive divergent collaboration](bsp-bsa-critical-mechanisms-divergent-collaboration.md)

@@ -17,7 +17,7 @@ sources:
 # Give more importance to science teaching courses and actively involve pre-service teachers in determining method-technique and strategy
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The authors recommend that primary school teaching departments "increase the number of practice courses especially about science teaching, in which primary school teachers perceive themselves as insufficient", and that qualified theoretical and practical teaching courses may raise self-efficacy. Within these courses, faculty members should "actively involve pre-service teachers in the teaching process, especially while determining method-technique and strategy". The recommendation rests on seniors' superior taxonomy and method-technique scores and the weak self-efficacy–planning correlation.
@@ -35,6 +35,11 @@ The authors recommend that primary school teaching departments "increase the num
 
 ### Target Learning Goals
 - science teaching self-efficacy and objective-aligned instructional planning
+
+## Claims
+
+- [Pre-service teachers choose strategies, methods, and techniques mainly for fit with objective content and for promoting active student participation](../claims/reasons-for-choosing-strategies-methods-techniques.md) [+W]
+- [Pre-service primary teachers' science teaching self-efficacy beliefs correlate weakly but positively with their ability to determine suitable taxonomy, strategy, and method-techniques](../claims/self-efficacy-weakly-correlates-objective-aligned-instructional-planning.md) [+W]
 
 ## Related Strategies
 - 

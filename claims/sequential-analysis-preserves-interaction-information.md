@@ -43,4 +43,6 @@ The editorial reports, citing Wise and Chiu, a methodological contribution model
 
 
 ## Related Claims
--
+
+- [Lag-sequential Analysis reveals temporal ordering patterns in CSCL interaction that traditional coding-and-counting approaches hide](lag-sequential-analysis-reveals-interaction-ordering.md)
+- [A small-scale pilot study explored the impact of a variety of roles on discussion-forum interaction across participative, social, cognitive, and teaching dimensions](role-playing-forum-interaction-pilot.md)

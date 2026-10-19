@@ -43,4 +43,6 @@ Denckla's clinical chapter describes, citing Singer, Schuerholz, and Denckla, ho
 
 
 ## Related Claims
--
+
+- [Middle school's escalated executive function demands cause a crash for students with ADHD/EDF, and 504 plans rarely meet EDF needs](middle-school-ef-demands-crash-504-inadequate.md)
+- [Read Naturally® shows potentially positive effects on writing for students with learning disabilities, with a substantively important but non-significant effect size on the WIAT Written Expression subtest](read-naturally-potentially-positive-writing-effects.md)

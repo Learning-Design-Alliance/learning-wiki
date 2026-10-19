@@ -17,7 +17,7 @@ sources:
 # Structure AI training as a preparatory phase followed by practical progression from guided to autonomous exploration culminating in critical reflection
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review found training generally comprised a preparatory phase followed by a practical phase, "progressing from guided to autonomous exploration of AI tools and culminating in critical reflection on the developed product". The conclusion recommends a training approach following this progression, with the preparatory phase integrating AI concepts, mathematical content understanding, prompt engineering, and ethical implications of AI use.
@@ -37,8 +37,13 @@ The review found training generally comprised a preparatory phase followed by a 
 - Intentional interaction with AI tools
 - critical reflection on AI-produced products
 
+## Claims
+
+- [In most included studies, AI tool use is preceded by a preparatory phase, but its configuration varies between technology-first and content-first approaches](../claims/preparatory-phase-precedes-ai-use-variable-configuration.md) [+W]
+
 ## Related Strategies
-- 
+
+- [A three-part goal-setting roadmap: collaborate on goals, establish autonomous activities, and check in regularly](growth-goal-roadmap-collaborate-activities-check-ins.md)
 
 ## Examples
 -

@@ -25,7 +25,8 @@ The article introduces a methodological contribution that combines fine-grained 
 - [Pre-service teachers showed stronger sequential transitions linking controlling with monitoring and planning, while in-service teachers more often followed sociocognitive challenges with monitoring](../claims/pre-service-controlling-monitoring-planning-sequences.md) [+M]
 
 ## Related Research Methods
--
+
+- [Coding framework of metacognition intervention components and instructional methods](coding-framework-of-metacognition-intervention-components-and-instructional-methods.md)
 
 ## Key Sources
 - Faisal Channa, Piia Näykki, Päivi Häkkinen, Kristóf Fenyvesi, Takumi Yada. (2026). Sequential patterns of challenges and socially shared regulation of learning: a comparison of pre-service and in-service teachers’ collaborative learning. Instructional Science. https://doi.org/10.1007/s11251-026-09818-y

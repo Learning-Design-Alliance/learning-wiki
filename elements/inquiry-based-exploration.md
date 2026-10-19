@@ -81,10 +81,12 @@ Inquiry can build deep conceptual understanding and durable engagement because l
 - [Anchored Instruction](../patterns/anchored-instruction.md) — inquiry launched from a rich, shared problem context such as a video-based scenario
 
 ## Examples
+
 - **[Problem-Based Learning](../patterns/problem-based-learning.md)** — Maastricht University's curriculum presents authentic problems before any lecture; students identify what they need to learn, research it, and return to apply it to the problem.
 - **[Anchored Instruction — The Jasper Woodbury Problem Solving Project](https://peabody.vanderbilt.edu/departments/teachingandlearning/research/jasper.php)** — Vanderbilt's video-anchored adventures require students to generate and test solution plans for complex embedded problems.
 - **[5E Instructional Model (BSCS)](https://bscs.org/bscs-5e-instructional-model/)** — a guided-inquiry sequence (Engage, Explore, Explain, Elaborate, Evaluate) that structures exploration before formal explanation, mitigating the risks of unguided discovery.
 - **[iGEM](https://igem.org)** — the International Genetically Engineered Machine competition, in which student teams design and carry out open-ended synthetic biology research projects.
+- [Use open-ended, modeling-focused collaborative tasks with embedded scaffolds to support group disciplinary engagement](../strategies/open-modeling-tasks-scaffold-gde.md)
 
 ## Key Sources
 - Hmelo-Silver, C. E., Duncan, R. G., & Chinn, C. A. (2007). Scaffolding and achievement in problem-based and inquiry learning: A response to Kirschner, Sweller, and Clark (2006). *Educational Psychologist, 42*(2), 99–107. [doi:10.1080/00461520701263368](https://doi.org/10.1080/00461520701263368)

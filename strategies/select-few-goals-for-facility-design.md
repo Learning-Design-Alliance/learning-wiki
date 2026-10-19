@@ -40,6 +40,10 @@ The paper recommends that school systems judiciously select some, not all, of th
 
 - [Seven Science Education Goals Taxonomy](../theories/seven-science-education-goals-taxonomy.md) [+M]
 
+## Related Strategies
+
+- [Draft flexible educational specifications stating activities and needs rather than fixed dimensions](flexible-activity-based-specifications.md)
+
 ## Related Principles
 - 
 

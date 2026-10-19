@@ -40,10 +40,14 @@ The review presents an emergent neurobiological model in which "the brain underg
 ### Claims
 
 ## Related Theories
-- 
+
+- [Adolescent Brain Development](adolescent-brain-development.md)
+- [Executive Function Development](executive-function-development.md)
 
 ## Examples
--
+
+- [Design guidance lessons that give adolescents practice in planning, anticipating consequences, and regulating behavior, and avoid scare tactics and lecturing](../strategies/guidance-lessons-practice-executive-skills-not-scare-tactics.md)
+- [Use brain-friendly, multisensory and expressive approaches and a partner (not authority) stance in counseling adolescents](../strategies/multisensory-expressive-brain-friendly-counseling-adolescents.md)
 
 ## Key Sources
 - Roaten, G. K., & Roaten, D. J. (2011). Adolescent Brain Development: Current Research and the Impact on Secondary School Counseling Programs. https://schoolcounselor.org

@@ -43,4 +43,6 @@ Repeated-measures ANOVA on London Bridge Task flexibility (N = 100). The interac
 
 
 ## Related Claims
--
+
+- [CREATE benefits transfer to a new task on all three creativity components: fluency, flexibility, and originality](create-transfer-effects-all-components.md)
+- [The classroom training is associated with a greater DCCS flexibility gain in the experimental group, though the printed ANOVA table reports a non-significant interaction](dccs-flexibility-gain-training-group.md)

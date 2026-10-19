@@ -17,7 +17,7 @@ sources:
 # A conceptual design framework for PST collaborative inquiry combining knowledge building principles with collaborative-analytics reflective assessment
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 2 studies (2 causal), `q1`–`q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The article proposes a conceptual and design framework in which knowledge building principles emphasise "epistemic agency, idea improvement, community knowledge and transformative assessment" and PSTs take epistemic agency to foster idea improvement using transformative assessment focused on metacognitive reflection. Two key design components follow: sustained idea-driven knowledge building inquiry in Knowledge Forum writing, and collaborative analytics consisting of KBDeX visualizations plus interaction rubrics and prompt questions supporting metacognitive reflection. PSTs use the analytics to reflect on and assess ongoing Knowledge Forum work for deepening inquiry and revision.
@@ -40,10 +40,15 @@ The article proposes a conceptual and design framework in which knowledge buildi
 - metacognitive reflection and epistemic agency
 
 ### Claims
-- 
+
+- [Collaborative analytics-supported reflective assessment helps PSTs develop collaborative inquiry competencies for community knowledge advancement in a knowledge building course](../claims/collab-analytics-reflective-assessment-developed-pst-collaborative-inquiry-competencies.md) [+M]
+- [KBDeX visualization and knowledge building rubrics engaged PSTs in continuous monitoring, analysis, negotiation, synthesis, and identification of promising inquiry routes](../claims/kbdex-rubric-reflection-enabled-continuous-monitoring-synthesis-inquiry.md) [+W]
+- [Collaborative analytics-supported reflective assessment helped pre-service teachers develop collaborative inquiry competencies](../claims/collaborative-analytics-reflective-assessment-pst-competencies.md) [+M]
 
 ## Related Designs
-- 
+
+- [Three-phase principle-based pedagogical design scaffolding low-achieving students into Knowledge Building](three-phase-kb-design-low-achievers.md)
+- [Reflective assessment as collaborative, embedded metacognitive assessment for knowledge building](reflective-assessment-embedded-collaborative-metacognitive.md)
 
 ## Examples
 -

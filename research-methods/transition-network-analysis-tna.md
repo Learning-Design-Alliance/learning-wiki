@@ -29,7 +29,9 @@ Transition Network Analysis (TNA) models learning processes as networks of discr
 - [Essential Olive Oil task actions T3 and A47 were conducted by few dyads, marking key difficulties in the solution path](../claims/infrequent-essential-actions-t3-a47-key-difficulties.md) [+M]
 
 ## Related Research Methods
--
+
+- [Temporal network analysis](temporal-network-analysis.md)
+- [Coherence analysis framework and its six activity-trace measures](coherence-analysis-framework-and-its-six-activity-trace-measures.md)
 
 ## Key Sources
 - Steve Woollaston, Brendan Flanagan, Yuko Toyokawa and Hiroaki Ogata. (2026). Penny: Transition Network Analysis of Learner-Chatbot Interactions in Scaffolded EFL Writing. Preprint, accepted at the 1st Workshop on Transition Network Analysis (TNA) at LAK '26.

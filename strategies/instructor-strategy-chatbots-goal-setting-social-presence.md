@@ -17,7 +17,7 @@ sources:
 # Instructors apply chatbots to support goal setting and social presence in fully online activities
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The authors offer instructors practical suggestions for applying chatbots in teaching and learning, derived from the two studies: “We also provided suggestions for instructors to apply chatbots in teaching and learning.” The strategy involves deploying chatbots to scaffold goal setting before online classes (SMART-based questions) and to provide socially present conversational support during online practice tasks such as EFL listening.
@@ -39,8 +39,16 @@ The authors offer instructors practical suggestions for applying chatbots in tea
 ### Affordances
 - Social Presence Framework Three Communication Types
 
+## Claims
+
+- [Chatbot support for goal setting and social presence in fully online activities was evaluated through behavioral engagement from conversation records plus perceptions and interviews](../claims/chatbot-engagement-conversation-records-evaluation.md) [+W]
+- [Learners in fully online courses reported positive perceived usefulness and perceived ease of use of both a goal-setting chatbot and a learning buddy chatbot](../claims/chatbots-positive-usefulness-ease-of-use-online.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Introducing Yourself Via Video](introducing_yourself_via_video.md)
+- [Design online courses with predictable structure, professionally relevant choice, and substantive instructor discussion facilitation to support learner presence](design-features-supporting-learner-presence.md)
+- [Community Building](community-building.md)
 
 ## Examples
 -

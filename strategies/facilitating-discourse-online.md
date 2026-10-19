@@ -64,6 +64,8 @@ Effective facilitation converts discussion from an assessment checkbox into a si
 - [Flipped Classroom](flipped-classroom.md) — frees synchronous online time for facilitated discussion rather than content delivery
 - [Require regular online instructor participation in asynchronous discussions, which may mitigate the lack of face-to-face interaction](regular-instructor-asynchronous-participation.md)
 - [Facilitate sessions with a welcoming environment, probing questions, and structured pauses](facilitation-protocol-probing-questions.md)
+- [Use information-exchange prompts in online PD discussion forums to elicit transactive discourse](information-exchange-prompts-strategy-online-pd.md)
+- [Research agenda for advancing transformative communication environments: sociocultural theory, conversational analysis, and beyond-face-to-face affordances](transformative-communication-research-agenda.md)
 
 ## Examples
 - **Discussion protocols in online graduate courses** (e.g., the Community of Inquiry research tradition at Athabasca University) use instructor weaving posts every 2–3 days to sustain cognitive presence across multi-week threads.

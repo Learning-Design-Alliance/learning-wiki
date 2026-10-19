@@ -41,4 +41,5 @@ Meta-analysis of 22 studies (27 pairwise comparisons) of acute exercise effects 
 
 
 ## Related Claims
--
+
+- [Exercise session time of 30 minutes or less yields a larger working memory effect than longer sessions in chronic exercise interventions](shorter-session-time-larger-working-memory-effect.md)

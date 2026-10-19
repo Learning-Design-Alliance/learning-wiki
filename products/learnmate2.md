@@ -13,7 +13,7 @@ generated:
 # LearnMate2
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 LearnMate2 is an LLM-powered online learning support platform developed by its authors that generates personalized study plans, provides contextual learning assistance, and adapts activities using learner progress.
@@ -22,6 +22,8 @@ LearnMate2 is an LLM-powered online learning support platform developed by its a
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
+- [LearnMate2 improved learning outcomes and user experience compared to a baseline combining an online learning platform and an LLM in a user study (n=16)](../claims/learnmate2-final-study-improved-outcomes-experience.md) [+W]
 
 ## Related Products and Programmes
 -

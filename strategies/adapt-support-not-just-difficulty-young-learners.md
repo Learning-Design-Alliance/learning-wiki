@@ -17,7 +17,7 @@ sources:
 # For young learners, adapt instructional support level rather than only task difficulty, and investigate adaptive features in isolation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Drawing on their null findings, the authors recommend that "future adaptive systems for younger learners should focus on adjusting the level of instructional support, for example, by providing more scaffolding, guidance, or hints when learners struggle, instead of simply lowering task complexity". They further argue that adaptive algorithms should integrate motivational and affective signals to prevent disengagement or over-challenge, and that adaptive features "should also be investigated in isolation" to broaden understanding of individual mechanisms.
@@ -35,6 +35,10 @@ Drawing on their null findings, the authors recommend that "future adaptive syst
 
 ### Target Learning Goals
 - mathematics learning with adaptive tutoring systems
+
+## Claims
+
+- [Adaptive task difficulty in an ITS did not improve second-graders' mathematics posttest performance compared with an identical non-adaptive ITS](../claims/task-difficulty-adaptation-no-learning-benefit-second-grade.md) [+W]
 
 ## Related Strategies
 - 

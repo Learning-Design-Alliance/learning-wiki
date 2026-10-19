@@ -62,4 +62,6 @@ Conditional effects from the same regression showed that in the control group "t
 
 
 ## Related Claims
--
+
+- [Think sheets counteracted the positive effect of misconceptions on transfer in the control group, though the overall interaction only approached significance](think-sheet-misconception-effect-transfer.md)
+- [Misconceptions did not impair transfer in the strong control condition, but learners with more misconceptions in the think-sheet group transferred better](think-sheet-misconceptions-positive-transfer-effect.md)

@@ -24,7 +24,8 @@ Equal Opportunity Schools' assessment tool compiles students' interests, aspirat
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [EOS Opportunity Chart](eos-opportunity-chart.md)
 
 ## Key Sources
 - The Education Trust; Equal Opportunity Schools. (2023). 5 Questions to Ask District and School Leaders About Access to Advanced STEM Coursework in High School. https://edtrust.org

@@ -17,7 +17,7 @@ sources:
 # Clinicians query for consistency in sleep routines and schedules and discuss sleep health with families before formal schooling entry as preventative support for school readiness
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A strategy in which pediatricians and clinicians use pre-kindergarten well-child interactions to query families about consistency of sleep routines and schedules, and to provide targeted education and support for optimal sleep health. The article states "it may be useful for clinicians to query for consistency in sleep routines and schedules as a general preventative measure and as a possible avenue for support." It further notes that "The interactions pediatricians have with families prior to children's entry in formal schooling represent key opportunities for targeted education and support for optimal sleep health promotive of school readiness skill development."
@@ -40,8 +40,14 @@ A strategy in which pediatricians and clinicians use pre-kindergarten well-child
 - Language development
 - Social-emotional-behavioral regulation
 
+## Claims
+
+- [Two parent-reported sleep health patterns characterize low-income pre-kindergarteners: an earlier, longer, consistent class (87%) and a later, shorter, inconsistent class (13%)](../claims/two-sleep-health-classes-prek-low-income.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Promote a consistent bedtime routine as a feasible, cost-effective method to support early childhood development, particularly for at-risk children](promote-bedtime-routine-public-health-strategy.md)
+- [Assess sleep problems early in primary school and provide preventive intervention, including sleep hygiene education, to protect later academic performance](early-assessment-preventive-sleep-intervention.md)
 
 ## Examples
 -

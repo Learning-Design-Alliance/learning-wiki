@@ -17,7 +17,7 @@ sources:
 # Incorporate social communication skill building into preschool interventions promoting school readiness
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The authors recommend that "strategies to build social communication skills be incorporated in preschool interventions promoting school readiness", alongside established vocabulary strategies. They suggest expanded interactive reading programs targeting children's question-asking, verbal turn-taking, and narrative skills, and interventions designed to promote teacher-child conversations. A home visiting program including interactive reading and social communication games improved receptive social communication skills in low-income children.
@@ -42,8 +42,14 @@ The authors recommend that "strategies to build social communication skills be i
 ### Affordances
 - Structural Versus Social Communication Language Dimensions
 
+## Claims
+
+- [Social communication skills uniquely predict kindergarten executive functions after accounting for vocabulary, which does not predict EF](../claims/social-communication-uniquely-predicts-kindergarten-executive-functions.md) [+W]
+- [Social communication skills uniquely predict teacher-rated kindergarten learning behaviors after accounting for vocabulary](../claims/social-communication-uniquely-predicts-kindergarten-learning-behaviors.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Include attention difficulties and social skills in preschool academic screening, and consider prosocial components and feelings about school in early interventions](preschool-screening-attention-and-social-skills.md)
 
 ## Examples
 -

@@ -43,4 +43,7 @@ The review's synthesis of cross-sectional studies using food-group-based breakfa
 
 
 ## Related Claims
--
+
+- [Increased frequency of habitual breakfast is consistently positively associated with academic performance in children and adolescents](habitual-breakfast-frequency-academic-performance.md)
+- [School breakfast programs show suggestive positive effects on academic performance, with clearest effects on mathematics and arithmetic grades in undernourished children](sbp-positive-academic-performance-undernourished.md)
+- [Regular breakfast consumption is associated with increased odds of high academic achievement in Norwegian adolescent girls and boys, most strongly in girls](regular-breakfast-associated-high-academic-achievement-norwegian-adolescents.md)

@@ -42,7 +42,8 @@ The review describes Education 4.0 as the educational expression of the fourth i
 ### Claims
 
 ## Related Theories
-- 
+
+- [Learner-Centered Paradigm of Education](learner-centered-paradigm.md)
 
 ## Examples
 -

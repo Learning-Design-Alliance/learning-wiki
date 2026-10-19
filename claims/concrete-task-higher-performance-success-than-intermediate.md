@@ -62,4 +62,5 @@ Same randomized three-condition experiment. The planned contrast between interme
 
 
 ## Related Claims
--
+
+- [In multiple regression, the percentage of exploratory experiments was the strongest predictor of performance success, negatively related to it](exploratory-experiments-negative-predictor-of-success.md)

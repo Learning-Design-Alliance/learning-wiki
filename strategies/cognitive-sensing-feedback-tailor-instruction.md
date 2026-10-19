@@ -17,7 +17,7 @@ sources:
 # Use cognitive-sensing feedback on attention and learning progress to tailor instruction to individual learners
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The authors recommend that educators use feedback about students' attention level and learning progress, obtained through cognitive activity recognition, to adapt teaching. As they write, educators "could modify their presentation and tailor learning material to individual pupils' needs, backgrounds, and preferences". Content creators could similarly use quantified mind logs to improve works by learning which parts excite, move, or lose readers.
@@ -41,8 +41,14 @@ The authors recommend that educators use feedback about students' attention leve
 ### Affordances
 - Cognitive Quantified Self Reading
 
+## Claims
+
+- [Eye tracking can identify which words a second-language reader had trouble understanding](../claims/eye-tracking-identifies-difficult-words-l2-reading.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Targeted interventions and adaptive feedback to move learners from Observation toward full-cycle Exploration](adaptive-feedback-move-observation-to-exploration.md)
+- [Use progress monitoring to tailor math instruction to each child's position on a developmental progression](progress-monitoring-tailor-early-math-instruction.md)
 
 ## Examples
 -

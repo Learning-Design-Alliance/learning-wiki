@@ -66,3 +66,4 @@ Teachers' interpretation of the Organization distribution (Figure 4): AES reads 
 
 - [The AES tool scored middle school essays more generously than teacher scorers overall and on three of four dimensions](aes-more-generous-than-teachers.md) — related
 - [LLM-based rubric scores agreed with expert ratings at the total-score level and on cognitive-process dimensions, but agreement was low for more subjective dimensions](ai-expert-agreement-cognitive-versus-subjective-dimensions.md)
+- [Teacher ratings of language and reading skills correlate significantly with PSP-1 total scores, whereas grade point average does not](teacher-ratings-correlate-psp1-gpa-does-not.md)

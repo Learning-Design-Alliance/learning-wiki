@@ -16,7 +16,7 @@ sources:
 # Biglan classification of academic disciplines as a framework for analyzing disciplinary variation in faculty work
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The Biglan classification characterizes academic disciplines along three dimensions: pure/applied (degree of concern with application of disciplinary knowledge), hard/soft (degree of paradigm consensus), and life/nonlife (whether the discipline concerns living organisms). This study is the first to use it as a conceptual framework for publicly engaged scholarship, assigning each faculty member's department a Biglan code and extending the classification to 40 departments that postdate Biglan's 1973 scheme. The article notes disciplines have evolved since 1973 and interdisciplinary scholarship poses a challenge to the classification.
@@ -37,6 +37,7 @@ The Biglan classification characterizes academic disciplines along three dimensi
 
 ### Claims
 
+- [Student subject matter orientation differs significantly from faculty perceptions of departmental characteristics](../claims/student-faculty-subject-matter-mismatch.md) [~W]
 
 ## Related Theories
 - [Biglan Four Dimension Department Classification](biglan-four-dimension-department-classification.md)

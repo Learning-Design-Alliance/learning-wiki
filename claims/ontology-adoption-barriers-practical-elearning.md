@@ -43,4 +43,6 @@ Theoretical argument in the article's background and motivation section, reviewi
 
 
 ## Related Claims
+
 - Learning analytics and EDM researchers raise practical concerns: impoverished ontologies, easy-to-collect data bias, interdisciplinary demands, and negative consequences for students — related
+- [Classical description logic cannot model non-crisp knowledge, and fuzzy and probabilistic DL extensions substantially increase reasoning complexity, limiting practical use](dl-crisp-limitation-fuzzy-probabilistic-complexity.md)

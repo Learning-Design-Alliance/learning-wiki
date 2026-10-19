@@ -43,4 +43,5 @@ Regression analyses of subjective ECL ratings after learning and after testing i
 
 
 ## Related Claims
--
+
+- [Disfluency shows no negative effects on learning; the common-sense hypothesis that it harms learning can be rejected](disfluency-no-negative-effects.md)

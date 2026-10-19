@@ -49,6 +49,7 @@ The paper enumerates seven features that any learning or knowledge creation proc
 
 - [Knowledge Practices Environment (KPE): a platform for object-centred collaborative knowledge creation](../products/kpe.md)
 - [Pedagogical scenarios that organise learning around knowledge creation with shared objects](../strategies/trialogical-pedagogical-scenarios.md)
+- [Promote knowledge creation by coordinating group practices, technology affordances, interaction genres, community metaskills, and trialogical learning through design-based research](../strategies/coordinated-dbr-knowledge-creation-culture.md)
 
 ## Key Sources
 - Reynolds, S., & Camilleri, A. F. (2010). KP-LAB: Breaking New Ground on How to Create Knowledge Through Learning. EDEN 2010 Conference, Valencia.

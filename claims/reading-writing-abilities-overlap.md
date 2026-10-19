@@ -46,4 +46,6 @@ The article cites Tierney and Shanahan (1991) as background support, reporting t
 - [Reading and Language](../learner-variables/reading-and-language.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
 - [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — related
+- [About 25–40% of patients with ADHD have major reading and writing difficulties, many show co-existing language disorders, and there is considerable overlap with arithmetical skills disorders](adhd-reading-writing-difficulties-comorbidity.md)

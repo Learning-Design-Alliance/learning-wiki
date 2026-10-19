@@ -17,7 +17,7 @@ sources:
 # Use the VisA instrument as an efficient whole-class metacognition screener where teachers lack time for individual testing
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The authors recommend the VisA instrument for practitioners because it is collected in paper-and-pencil format with groups of students and has straightforward scoring rules. They argue that "in schools where teachers have little time for testing individual students, it would be most relevant to have an efficient and valid instrument that shows which teachable metacognitive skills some students lack." This makes it a practical screener for identifying students' metacognitive strengths and gaps in mathematics.
@@ -36,6 +36,11 @@ The authors recommend the VisA instrument for practitioners because it is collec
 
 ### Target Learning Goals
 - identifying teachable metacognitive skills in mathematical word problem solving
+
+## Claims
+
+- [The VisA instrument predicts word problem solving performance in grade 5, explaining 23 percent of variance](../claims/visa-instrument-predicts-word-problem-solving.md) [+W]
+- [The VisA instrument and think-aloud measure converge moderately and each contributes unique predictive variance for word problem solving](../claims/visa-think-aloud-moderate-overlap-unique-variance.md) [+W]
 
 ## Related Strategies
 - 

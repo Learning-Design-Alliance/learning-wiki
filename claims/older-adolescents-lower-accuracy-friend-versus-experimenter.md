@@ -43,4 +43,9 @@ Follow-up repeated-measures ANOVA within the older adolescent group (n = 20) fro
 
 
 ## Related Claims
--
+
+- [Across all age groups, relational reasoning accuracy is lower in the friend-present condition than in the experimenter-present condition overall](overall-main-effect-social-condition-accuracy.md)
+- [Younger adolescents (10.6–14.2 years) show lower relational reasoning accuracy when observed by a friend than by an experimenter only in low-relational trials](younger-adolescents-friend-effect-low-relational-only.md)
+- [No behavioural Audience × Age group interaction: the accuracy decrement was comparable in adolescents and adults](no-behavioural-audience-age-interaction.md)
+- [A peer audience decreases accuracy in the complex relational integration condition in both adolescents and adults](peer-audience-decreases-relational-integration-accuracy.md)
+- [Older adolescents respond faster when observed by an experimenter than by a friend or when alone, while social condition does not affect younger adolescents' or adults' response times](older-adolescents-faster-rt-experimenter-present.md)

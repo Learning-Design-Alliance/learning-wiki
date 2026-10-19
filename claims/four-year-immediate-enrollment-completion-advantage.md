@@ -43,6 +43,7 @@ Observational comparison of immediate four-year versus immediate two-year enroll
 
 
 ## Related Claims
+
 - Among 2014 CPS graduates who immediately enrolled in college, 46% completed a credential within six years, with large gaps by enrollment pathway — related
 - [CPS graduates took more than 6,000 distinct post-secondary paths, so continuous enrollment at one college was not the standard route to a credential](cps-graduates-6000-college-paths.md) — related
 - Four-year to two-year transfer was more common than two-year to four-year transfer among CPS graduates (29 percent vs 22 percent) — related
@@ -51,3 +52,4 @@ Observational comparison of immediate four-year versus immediate two-year enroll
 - [Six-year college completion rates for immediate four-year enrollees rose from 54 to 56 percent for the CPS class of 2013, double the rate for immediate two-year enrollees](cps-completion-four-year-double-two-year.md) — related
 - [CPS alumni college completion (48%) remains below the national average (64%), with 56% of immediate four-year and 32% of immediate two-year enrollees completing within six years](cps-college-completion-below-national.md) — related
 - [Few CPS graduates who delay college entry or first enroll in a two-year college go on to earn a four-year degree](cps-delayed-and-two-year-paths-low-degree-completion.md) — related
+- [Among the CPS class of 2009, 76 percent enrolled in college within six years, and delayed entry was concentrated among two-year starters rather than four-year starters](delayed-enrollment-concentrated-two-year-starters-2009.md)

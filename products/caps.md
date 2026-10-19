@@ -29,7 +29,8 @@ CAPS is a LISP-based interpreter and production-system software developed by Thi
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [PRISM (Program for Research Into Self-Modifying Systems)](prism-program-for-research-into-self-modifying-systems.md)
 
 ## Key Sources
 - Neches, Robert. (1982). Simulation Systems for Cognitive Psychology. Learning Research and Development Center, University of Pittsburgh. https://eric.ed.gov/?id=ED217874

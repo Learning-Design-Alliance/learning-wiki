@@ -43,4 +43,6 @@ The article reports this as a finding from stereotype-threat studies in which st
 
 
 ## Related Claims
--
+
+- [Stereotype threat compromises the test performance of learners whose group is the target of a negative stereotype](stereotype-threat-compromises-performance.md)
+- [Stereotype threat reverses the gender gap in third-grade reading: boys underperform girls under threat but outperform them under reduced threat](stereotype-threat-reverses-boys-reading-gender-gap.md)

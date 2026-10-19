@@ -62,5 +62,7 @@ Sensitivity re-estimation controlling for visual realism, anthropomorphism, vari
 
 
 ## Related Claims
+
 - [Single noncollaborative, noncompetitive play shows the largest learning effects; single competitive play shows no benefit relative to nongame conditions](single-noncompetitive-play-largest-effects.md) — possibly the same claim (merge candidate)
 - [Digital game conditions produce significantly better learning outcomes than nongame conditions (g = 0.33) in media comparisons](digital-games-outperform-nongame-media-comparisons.md) — a broader claim this one bears on
+- [Playing games in a variety of modes (local and online multiplayer; cooperative and team-based) is associated with higher adaptability and communication scores](variety-of-play-modes-higher-adaptability.md)

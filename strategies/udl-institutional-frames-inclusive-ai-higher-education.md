@@ -17,7 +17,7 @@ sources:
 # Ancrer l'usage de l'IA dans l'enseignement supérieur inclusif dans l'Universal Design for Learning et des cadres institutionnels dépassant la logique punitive
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 L'article propose d'articuler outils d'IA et pratiques inclusives via l'Approche par Conception Universelle pour l'Apprentissage (UDL), qui « vise des curriculums flexibles adaptés à une gamme étendue de styles et d'aptitudes » (Rose & Meyer, 2002, cités dans Bergeron et al., 2012). En anticipant la diversité dès la conception, cette approche « produit des effets plus durables que les démarches réactives qui ne cherchent à adapter les situations qu'après identification des difficultés ». La stratégie englobe aussi les pratiques « transgressives » d'enseignants (Pérez & Suau, 2023) que l'IA pourrait amplifier, et une réponse institutionnelle dépassant la logique punitive, alors que moins de 10 % des établissements ont initié une réflexion éthique (UNESCO, 2023, citée par Zollinger, 2024).
@@ -40,6 +40,10 @@ L'article propose d'articuler outils d'IA et pratiques inclusives via l'Approche
 
 ### Affordances
 - Universal User Concept Exclusion Disability
+
+## Claims
+
+- [Les LLMs utilisés comme juges d'évaluation scientifique présentent douze types de biais qui désavantagent les productions s'écartant des canons dominants](../claims/llm-as-a-judge-twelve-bias-types.md) [+W]
 
 ## Related Strategies
 

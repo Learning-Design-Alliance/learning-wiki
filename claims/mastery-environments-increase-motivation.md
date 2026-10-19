@@ -43,4 +43,5 @@ The article states this contrast in its conclusion, citing Eggen & Kauchak (2013
 
 
 ## Related Claims
--
+
+- [Disidentification relieves stereotype threat at the cost of loss of motivation and dissociation from school achievement](disidentification-costs-motivation.md)

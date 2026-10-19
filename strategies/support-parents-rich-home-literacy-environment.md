@@ -45,7 +45,8 @@ The article concludes that its findings "suggest potential for interventions whi
 - [Parent Involvement Improves Early Reading](../claims/parent-involvement-improves-early-reading.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Start early: foster a positive math climate at home and school to prevent the distal avoidance pathway](early-positive-math-climate-prevention.md)
 
 ## Examples
 -

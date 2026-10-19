@@ -42,7 +42,8 @@ Dual tailoring is the article's descriptive design label (explicitly "not a new 
 - [Comprehension Prompts Trigger Scaffolding Increase](../claims/comprehension-prompts-trigger-scaffolding-increase.md) [+M]
 
 ## Related Designs
-- 
+
+- [Four-dimensional personalization framework for study planning: goals, time, pace, and path](four-dimensional-personalization-goals-time-pace-path.md)
 
 ## Examples
 -

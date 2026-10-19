@@ -40,7 +40,8 @@ The architecture keeps only a condensed three-paragraph context summary carried 
 - [No Conceptual Hallucinations 28 Contexts](../claims/no-conceptual-hallucinations-28-contexts.md) [+M]
 
 ## Related Designs
-- 
+
+- [Segment-structure transcript format with boldface labels replacing bracketed nonverbal insertions](segment-structure-transcript-format.md)
 
 ## Examples
 -

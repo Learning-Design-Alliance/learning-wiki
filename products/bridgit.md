@@ -34,7 +34,8 @@ Bridgit is a school-counseling platform used to track students’ pre-matriculat
 - [Three of the five reviewed RCTs found no statistically significant effect of summer counseling on fall college enrollment (indeterminate effects)](../claims/summer-counseling-three-indeterminate-enrollment-effects.md) [-W]
 
 ## Related Products and Programmes
--
+
+- [Indiana College Core](indiana-college-core.md)
 
 ## Key Sources
 - Summer Counseling. (2018). What Works Clearinghouse Intervention Report, Transition to College. U.S. Department of Education, Institute of Education Sciences, What Works Clearinghouse. https://ies.ed.gov/ncee/wwc/InterventionReport/693

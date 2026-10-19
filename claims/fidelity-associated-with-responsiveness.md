@@ -43,4 +43,7 @@ Univariate ANOVAs on implementation fidelity by responsiveness status. Post hoc 
 
 
 ## Related Claims
--
+
+- [Naming speed, vocabulary, sentence imitation, problem behavior, and amount of intervention correctly classify most nonresponsive and always responsive students](discriminant-predictors-of-nonresponsiveness.md)
+- [Nonresponsive students scored significantly lower than always responsive students on seven measures and higher on problem behavior](nonresponders-posthoc-pairwise-deficits.md)
+- [Nonresponsiveness to kindergarten intervention is persistent and predicts school-identified reading problems through third grade](nonresponsiveness-persistent-predicts-disability.md)

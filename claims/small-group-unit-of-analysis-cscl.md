@@ -43,4 +43,6 @@ Analytical/theoretical argument in Stahl's editorial: EM makes the meaning-makin
 
 
 ## Related Claims
--
+
+- [Sequential analysis of discourse reveals meaning-making processes in small-group CSCL interactions](sequential-analysis-of-small-group-cognition.md)
+- [The three major theories of artifact-people interaction operate at different levels: affordances individual, structuration societal, instrumental genesis small-group](three-theories-artifact-levels-comparison.md)

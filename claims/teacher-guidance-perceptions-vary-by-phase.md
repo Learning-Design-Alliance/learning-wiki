@@ -43,4 +43,6 @@ Teachers' paper-and-pencil questionnaire after each of three sessions (planning,
 
 
 ## Related Claims
--
+
+- [Teachers spent most CSCL class time on task management, content knowledge, technical support and observing, with minimal socio-emotional support](teacher-guidance-focus-distribution-cscl-science.md)
+- [Teacher self-reported affect was compounded by students' self-reported affect across working phases](teacher-student-affect-reciprocity-inquiry.md)

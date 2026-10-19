@@ -17,7 +17,7 @@ sources:
 # Explore executive function training as an intervention for children with dyslexia
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (2 associational), `q3` · 1 of 2 report an effect size
 
 ## Description
 The authors' forward-looking recommendation is that future work test executive function training with dyslexic children. They write that "Future studies should explore executive function training as an intervention for children with dyslexia as core executive functions appear to be modiﬁable with training and may transfer to improved reading ability." The strategy targets the inhibition and updating weaknesses this study identified, on the premise that trained core executive functions may transfer to reading. It is a recommendation for future research, not a tested intervention in this article.
@@ -35,6 +35,11 @@ The authors' forward-looking recommendation is that future work test executive f
 
 ### Target Learning Goals
 - improved reading ability via inhibition and updating training
+
+## Claims
+
+- [Children with developmental dyslexia show a significant inhibition impairment at the error z-mean composite level, which remains after controlling for processing speed](../claims/dyslexia-inhibition-error-composite-impairment.md) [+M]
+- [Children with developmental dyslexia show a significant updating impairment at the error z-mean composite level, which remains after controlling for processing speed](../claims/dyslexia-updating-error-composite-impairment.md) [+M]
 
 ## Related Strategies
 - 

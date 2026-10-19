@@ -44,4 +44,5 @@ Observational coding of the same 21 teachers' transcripts. A Wilcoxon signed ran
 
 
 ## Related Claims
--
+
+- [Elementary teachers more often instruct cognitive strategies than metacognitive strategies during a standardized lesson](teachers-instruct-cognitive-more-than-metacognitive-strategies.md)

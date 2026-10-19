@@ -17,7 +17,7 @@ sources:
 # Design AI-generated educational IF so quiz prompts are narratively motivated and setting changes are bridged
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article translates participant feedback into design targets: "the in-fiction motivation for why non-player characters ask the player for technical knowledge must be made explicit in the narrative", and abrupt location or character changes "should be suppressed in the generation or repair stage". Participants independently suggested surreal or fictional settings may be more productive than realistic ones because they remove the demand for real-world causal plausibility. Further suggestions include attaching story-level consequences to wrong answers, mixing purely narrative choices with learning choices, and varying interaction format beyond multiple-choice.
@@ -35,6 +35,12 @@ The article translates participant feedback into design targets: "the in-fiction
 
 ### Target Learning Goals
 - Integrating educational quiz content into branching narratives without breaking perceived story coherence
+
+## Claims
+
+- [Abrupt location or character changes mid-scenario co-occur with the lowest story-content coherence ratings](../claims/abrupt-setting-changes-lowest-coherence.md) [+W]
+- [Story-content coherence is the weakest perceived-quality dimension of AI-generated educational interactive fiction in this pilot](../claims/ai-generated-if-coherence-weakest-dimension.md) [+W]
+- [The dominant qualitative criticism of AI-generated educational IF is the artificial in-fiction motivation for quiz prompts](../claims/artificial-in-fiction-quiz-motivation-dominant-criticism.md) [+W]
 
 ## Related Strategies
 - 

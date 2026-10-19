@@ -43,4 +43,5 @@ Topic modeling (optimized LDA) of a corpus of 214 documents from 50 U.S. univers
 
 
 ## Related Claims
--
+
+- [LDA topic modeling of 242 LDT syntheses reveals eight thematic areas, with computational tools most prevalent (21.7%) and generative AI integration emerging (8.2%)](lda-eight-thematic-areas-ldt-syntheses.md)

@@ -43,4 +43,6 @@ Review describing Agarwal et al.'s (2008) observational analysis of an extensive
 
 
 ## Related Claims
--
+
+- [Cross-sectional age relations show monotonic decline in fluid cognition (age-reasoning correlation about −0.40) but stability followed by decline for acquired knowledge](age-fluid-decline-knowledge-stable.md)
+- [Meta-analyses reveal little or no systematic relation between age and job performance, with a meta-analytic correlation of 0.06](age-job-performance-null-meta-analysis.md)

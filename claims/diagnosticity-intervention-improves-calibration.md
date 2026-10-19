@@ -43,4 +43,5 @@ Multilevel comparison of conditions 3 and 4 (N = 33 teachers) found "teachers' c
 
 
 ## Related Claims
--
+
+- [The cue-diagnosticity intervention steered cue utilization: diagnostic cue use increased and non-diagnostic cue use decreased](diagnosticity-intervention-steers-cue-utilization.md)

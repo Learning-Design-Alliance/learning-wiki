@@ -43,7 +43,10 @@ The article recommends that higher education leaders on campuses and in state go
 - long-term mobility
 
 ## Related Strategies
-- 
+
+- [Higher education leaders should develop more inclusive and future-oriented GenAI policies integrating social equity, interdisciplinary experimentation, and sustainability considerations](develop-inclusive-future-oriented-genai-policies.md)
+- [Foster interdisciplinary collaboration and actively include student perspectives in institutional GenAI responses.](genai-interdisciplinary-collaboration-student-perspectives.md)
+- [Foster communities of practice for AI governance instead of rigid top-down policies](communities-of-practice-for-ai-governance.md)
 
 ## Examples
 -

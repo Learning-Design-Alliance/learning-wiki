@@ -62,4 +62,5 @@ Analysis of Fragment 8, where the teacher suggested pupils "break it down into s
 
 
 ## Related Claims
--
+
+- [During collaborative learning with computers, teachers' concerns of classroom management and pedagogy are typically intertwined](teacher-management-pedagogy-intertwined.md)

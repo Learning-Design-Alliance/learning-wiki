@@ -44,6 +44,7 @@ The site coordinator is a clinical faculty role at residency partner educator pr
 ## Related Designs
 
 - [Site coordinator role combining field supervision, coaching, seminar teaching, mentor training, and governance facilitation](site-coordinator-role-residency-element.md)
+- [Phase-in schedule pacing resident responsibility and Danielson Clusters across the residency year](phase-in-schedule-resident-responsibility.md)
 
 ## Examples
 -

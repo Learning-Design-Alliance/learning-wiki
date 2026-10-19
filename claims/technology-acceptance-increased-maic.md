@@ -43,4 +43,6 @@ Pre- and post-course technology acceptance questionnaires in the MAIC pilot. The
 
 
 ## Related Claims
--
+
+- [Students in MAIC tend to prefer the passive continuous mode over interactive mode](students-prefer-continuous-mode.md)
+- [Predicted post-test distributions differed significantly from real distributions in four dimensions, with no significant difference only for Technology Acceptance](agent-distribution-significance-only-tech-acceptance.md)

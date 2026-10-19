@@ -43,4 +43,5 @@ Combined collaboration-and-learning evaluation in one reviewed publication, wher
 
 
 ## Related Claims
--
+
+- [Only a minority of VRL studies assess collaboration quality or learning, but most studies that measure learning report positive impact](minority-studies-evaluate-collaboration-learning-vrls.md)

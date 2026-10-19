@@ -43,4 +43,9 @@ Robust t-test on the total number of unmasked text segments consulted while sear
 
 
 ## Related Claims
--
+
+- [Answering inserted adjunct questions with the text available produces higher delayed transfer learning than answering post-reading questions](inserted-adjunct-questions-better-learning-than-post-reading.md)
+- [Question timing interacts with relevance of rereading: inserted-question students reread more relevant and less non-relevant information than post-reading students](question-timing-by-relevance-rereading-interaction.md)
+- [Post-reading-question students spend more time reading the questions for the first time than inserted-question students](post-reading-longer-task-model-formation.md)
+- [Students in the inserted-question condition spend more time reading the text initially than students in the post-reading condition](inserted-questions-longer-initial-reading.md)
+- [Inserted questions elicit more correct and fewer incorrect elaborations than post-reading questions, with no condition differences in paraphrases](inserted-questions-more-correct-elaborations.md)

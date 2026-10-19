@@ -45,7 +45,8 @@ The review develops a definitional framework classifying modalities used in MMCA
 - [Multimodal analysis: studying learning with multiple integrated data streams](../research-methods/multimodal-analysis.md)
 
 ## Examples
--
+
+- [Triangulate physiological data with other CSCL data streams ( such as video or logfile traces ) to uncover otherwise unidentifiable psychophysiological reactions](../strategies/triangulate-physiological-data-with-video-or-logs.md)
 
 ## Key Sources
 - Rachelle Esterhazy, Rogers Kaliisa, Daniel Sanchez, Malcolm Langford and Crina Damsa. (2025). Advancing Multimodal Collaboration Analytics: A Scoping Review. Journal of Learning Analytics 12(2). https://doi.org/10.18608/jla.2025.8625

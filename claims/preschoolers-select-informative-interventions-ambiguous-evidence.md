@@ -43,4 +43,8 @@ The article reports Experiment 1 with preschoolers (mean: 54 months), in which "
 
 
 ## Related Claims
--
+
+- [Given ambiguous evidence, preschoolers design informative interventions in their exploratory play (Experiment 2)](preschoolers-design-informative-interventions-ambiguous-evidence.md)
+- [Given unambiguous evidence, preschoolers play indiscriminately and rarely try to isolate candidate causes](preschoolers-play-indiscriminately-unambiguous-evidence.md)
+- [Preschoolers recognize action possibilities (affordances) that allow them to isolate variables when there is information to be gained](preschoolers-recognize-affordances-for-variable-isolation.md)
+- [Manipulating stimulus physical properties and base rates of candidate causes changes preschoolers' exploratory play](stimulus-and-baseraate-manipulations-shape-exploratory-play.md)

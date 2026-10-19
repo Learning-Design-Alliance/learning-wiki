@@ -17,7 +17,7 @@ sources:
 # JiTT: a feedback loop between Web-based pre-class assignments and classroom instruction
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (1 causal, 1 associational), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 JiTT is a teaching and learning approach that combines traditional in-class instruction with Web communication. Its essence is a feedback loop: faculty post Warm Up assignments before class, students respond, and faculty use those responses to tailor the class session. As the authors state, "The essence of JiTT is the feedback loop between the Web and the classroom," emphasizing active learning, constructivism, and prompt feedback while decreasing traditional lecture.
@@ -42,7 +42,9 @@ JiTT is a teaching and learning approach that combines traditional in-class inst
 - formative assessment and prompt feedback
 
 ### Claims
-- 
+
+- [Students self-reported less cramming and more class preparation in the JiTT course than in their non-JiTT courses, except students receiving D or F grades](../claims/jitt-improves-study-habits-self-report.md) [+W]
+- [On Newton's Third Law questions specifically, Just-in-Time Teaching students gained 50.8%±4.1% while traditional lecture students gained only 6.6%±5.2%](../claims/jitt-newtons-third-law-question-gains.md) [+W]
 
 ## Related Designs
 - 

@@ -43,4 +43,5 @@ Null three-way interaction from the same vignette-based repeated-measures ANOVA 
 
 
 ## Related Claims
--
+
+- [Comprehension-related problems elicit more cognitive strategies but do not reduce motivational strategy use](comprehension-problems-raise-cognitive-not-cut-motivational.md)

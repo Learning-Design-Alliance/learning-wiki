@@ -168,6 +168,7 @@ Visible thinking, the teacher's accurate reading of it, a well-chosen move, the 
 - Early numeracy lessons where multiple addition or subtraction strategies are surfaced and compared.
 - Math talk classrooms that use learner solutions as the basis for whole-group discussion.
 - Problem sequences that move from familiar contexts toward more abstract structures.
+- [JiTT: a feedback loop between Web-based pre-class assignments and classroom instruction](../designs/jitt-web-classroom-feedback-loop.md)
 
 ### Illustrative
 

@@ -17,7 +17,7 @@ sources:
 # Use computer-proctored gamified ability assessments as an accessible, accommodating early selection step
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends implementing ability assessments, following a job analysis aligning job needs with test content, to present unbiased data to hiring managers before they form impressions of a candidate. Computer-proctored gamified assessments can be taken at any place and at any time, making them highly accommodating relative to traditional screening methods such as interviews, and can signal that an organization is forward-thinking in its selection process.
@@ -36,6 +36,11 @@ The article recommends implementing ability assessments, following a job analysi
 
 ### Target Learning Goals
 - fair, evidence-driven hiring decisions about candidate ability
+
+## Claims
+
+- [Autistic and general-population job seekers do not differ significantly on the Disconumbers and Shapedance game-based assessment package](../claims/no-group-difference-disconumbers-shapedance-package.md) [+W]
+- [Score distributions on both game packages appear roughly equal across autistic and general-population candidates](../claims/score-distributions-roughly-equal-both-packages.md) [+W]
 
 ## Related Strategies
 - 

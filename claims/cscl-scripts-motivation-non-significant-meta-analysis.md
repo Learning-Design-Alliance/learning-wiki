@@ -43,4 +43,7 @@ Editorial report of the meta-analysis by Radkowitsch, Vogel and Fischer, which t
 
 
 ## Related Claims
--
+
+- [The editorial reports that CSCL scripts show positive effects on domain learning and collaboration process skills, and that scaffolding single versus combinations of collaborative activities affects script impact](cscl-scripts-positive-learning-collaboration-skills.md)
+- [CSCL scripts have a small significant positive effect on domain learning compared to unstructured collaborative learning](cscl-scripts-small-positive-domain-learning-effect.md)
+- [CSCL scripts have a medium significant positive effect on collaboration skills compared to unstructured collaborative learning](cscl-scripts-medium-positive-collaboration-skills-effect.md)

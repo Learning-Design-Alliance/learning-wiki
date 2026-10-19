@@ -28,6 +28,7 @@ A public corpus of 12,450 classroom-dialogue transcripts annotated with rubric-a
 ## Related Products and Programmes
 
 - [Edustories dataset](edustories-dataset.md)
+- [Corpus of 500 annotated competency-based assessments in higher education for developing and evaluating the Teacher Evaluator](corpus-of-500-annotated-competency-based-assessments-in-higher-education-for-developing-an.md)
 
 ## Key Sources
 - Li, Y.; Yang, H.; Fang, Q. (2025). Towards Trustworthy and Explainable-by-Design Large Language Models for Automated Teacher Assessment. Information 2025, 16, 882. https://doi.org/10.3390/info16100882

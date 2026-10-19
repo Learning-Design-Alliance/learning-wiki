@@ -43,4 +43,6 @@ The paper attends to parallels in canonical mathematics practice, reporting that
 
 
 ## Related Claims
--
+
+- [Direct instruction and discovery are complementary rather than opposite, linked by repetitive yet explorative practice](direct-instruction-discovery-complementary-explorative-practice.md)
+- [Empirical case of martial arts instruction grounds the argument that practice can support discovery](martial-arts-instruction-case-practice-discovery.md)

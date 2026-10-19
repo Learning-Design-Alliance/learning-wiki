@@ -24,7 +24,12 @@ A Web-based assessment system and battery of computerized cognitive and mathemat
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [American Sign Language Assessment Instrument (ASLAI)](american-sign-language-assessment-instrument-aslai.md)
+- [Adaptive Cognitive Evaluation Classroom (ACE-C)](adaptive-cognitive-evaluation-classroom-ace-c.md)
+- [Assessment Integration Management (AIM)](assessment-integration-management-aim.md)
+- [Comprehensive Assessment Battery for Children - Working Memory (CABC-WM)](comprehensive-assessment-battery-for-children-working-memory-cabc-wm.md)
+- [Span-task battery distinguishing STM (simple span) from WM (complex span) in children](span-task-battery-distinguishing-stm-simple-span-from-wm-complex-span-in-children.md)
 
 ## Key Sources
 - Zhou X, Wei W, Zhang Y, Cui J, and Chen C (2015) Visual perception can account for the close relation between numerosity processing and computational fluency. Front. Psychol. 6:1364. https://doi.org/10.3389/fpsyg.2015.01364

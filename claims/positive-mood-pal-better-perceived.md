@@ -43,4 +43,8 @@ The review reports, citing Kim (2004), a controlled experiment with 142 male and
 
 
 ## Related Claims
--
+
+- [A high-competency PAL elicits more positive learner attitudes toward the agent (d = 0.91)](high-competency-pal-more-positive-attitudes.md)
+- [The review reports that highly competent PALs increased learners' application of acquired knowledge while low-competent PALs increased self-efficacy](pal-competency-self-efficacy-application-tradeoff.md)
+- [Same-ethnicity agents were perceived as more credible, engaging, and affable, though agent ethnicity did not affect learning in another study](same-ethnicity-agents-more-credible.md)
+- [Learners perceived male PALs more positively and recalled more with them than with female PALs, reflecting gender stereotypes](male-pal-favored-over-female-pal.md)

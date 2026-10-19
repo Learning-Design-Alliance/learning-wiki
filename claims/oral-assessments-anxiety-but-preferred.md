@@ -51,3 +51,4 @@ The review reports, citing Huxham et al. (2012), a comparison of student anxiety
 - [No evidence found that particular student groups are disadvantaged in oral versus written assessments](no-group-disadvantage-oral-assessments.md) — related
 - [Retrieval practice benefits learners regardless of trait anxiety level, but higher trait or induced anxiety is associated with smaller testing effects](higher-anxiety-is-associated-with-smaller-testing-effects.md) — related
 - [Students performed better on oral measures than written measures in comparison studies](students-perform-better-oral-than-written.md) — related
+- [Moving oral assessments online reduced required support staff hours from almost 8 days to 3 days](online-oral-assessments-reduced-staff-hours.md)

@@ -43,4 +43,6 @@ Descriptive survey results from 399 Hong Kong university students on a 5-point L
 
 
 ## Related Claims
+
 - [Faculty report high self-perceived knowledge in traditional TPACK domains but substantially lower self-perceived knowledge in technology-integrated GenAI domains](faculty-high-traditional-low-technology-integrated-genai-knowledge.md) — related
+- [Students' knowledge of GenAI is positively correlated with their frequency of use](genai-knowledge-frequency-use-correlation.md)

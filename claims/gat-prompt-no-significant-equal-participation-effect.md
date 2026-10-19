@@ -43,4 +43,5 @@ Field experiment in a university online course: 61 students in 16 groups (topic 
 
 
 ## Related Claims
--
+
+- [More unequal distribution of participation in online collaboration groups is associated with lower satisfaction with the collaboration](unequal-participation-lower-satisfaction.md)

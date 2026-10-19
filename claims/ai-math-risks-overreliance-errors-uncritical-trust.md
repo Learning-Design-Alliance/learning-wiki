@@ -62,6 +62,7 @@ Review synthesis on uncritical trust in AI outputs. The authors conclude that "u
 
 
 ## Related Claims
+
 - The review found AI was effective for improving basic problem-solving but required teacher mediation to handle more complex mathematical tasks — related
 - A systematic review of 14 studies (8,305 participants) found AI-based tools enhanced comprehension, engagement, problem-solving, and critical thinking by personalizing learning experiences — related
 - [Overreliance on AI is the most prevalent pedagogical limitation (27 studies, 50%), followed by reduced critical thinking (25 studies, 46%)](overreliance-reduced-critical-thinking-ai-efl.md) — a narrower finding that bears on this claim
@@ -166,3 +167,5 @@ Review synthesis on uncritical trust in AI outputs. The authors conclude that "u
 - [Students reported ChatGPT limitations in Quantum Theory learning: insufficient in-depth explanations, inability to interpret graphs or graphic equations, and occasional unexplainable mathematical errors](chatgpt-quantum-limitations-graphs-errors.md) — a narrower finding that bears on this claim
 - [Collaborative evaluation of chatbot solutions in groups supported problem-solving: students verified the chatbot's step-by-step photoelectric-effect calculation together](collaborative-chatbot-answer-verification-problem-solving.md) — related
 - [Systematic prompting of an LLM can generate cognitively activating formative feedback aligned with research-based scaffold types (demonstrated, not yet empirically validated)](leap-prompt-design-generates-cognitively-activating-feedback.md) — related
+- [Students most often report hybrid interaction modes with generative AI, with passive task delegation and verification-only use as smaller patterns](hybrid-ai-interaction-modes-students.md)
+- [Leading LLMs hallucinated legal authorities in 58%-88% of tested cases while failing to recognise incorrect legal assumptions in prompts](llms-hallucinate-legal-authorities-58-88.md)

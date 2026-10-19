@@ -37,7 +37,8 @@ The editorial highlights Solberg and Sellberg's notion of epistemic engineering,
 - joint remembering, distributed metacognition, and actionable takeaways from simulation
 
 ## Related Strategies
-- 
+
+- [Use debriefing to enable multiple viewpoints, shared cognitive resources, and challenge students' assumptions to foster critical thinking](debriefing-multiple-viewpoints-critical-thinking.md)
 
 ## Examples
 -

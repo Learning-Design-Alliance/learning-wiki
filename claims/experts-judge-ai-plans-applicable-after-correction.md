@@ -43,5 +43,8 @@ Thematic content analysis (Braun and Clarke's framework) of eleven experts' open
 
 
 ## Related Claims
+
 - A hybrid human-AI workflow using GPT-4o with retrieval-augmented generation supported efficient inductive thematic analysis while preserving researcher judgment — related
 - LLM-assisted inductive qualitative coding carries risks of superficial themes, broad or redundant codes, and hallucinated interpretations, so LLMs should augment rather than replace human researchers — related
+- [Expert plan preferences were split, with some experts preferring the lower-scoring general-purpose plan for its social-emotional emphasis](expert-preferences-split-despite-c2-higher-scores.md)
+- [The education-focused AI platform (C2) received numerically higher expert ratings than the general-purpose platform (C1) across all eight overall quality criteria](education-focused-ai-platform-higher-overall-lesson-plan-ratings.md)

@@ -44,4 +44,8 @@ Descriptive coding of group awareness functionality across the 62 reviewed publi
 
 
 ## Related Claims
--
+
+- [Guidance tools supporting collaboration are relatively uncommon in educational VRLs, integrated in only 13 of 62 reviewed systems](guidance-tools-uncommon-vrls.md)
+- [Regulation tools for collaboration are very rare in educational VRLs, identified in only 8 laboratories, mostly supporting regulation by teachers](regulation-tools-very-rare-vrls.md)
+- [Synchronous communication is the most common collaboration support integrated in educational VRLs, and few labs offer none](synchronous-communication-most-common-in-vrls.md)
+- [Only a minority of VRL studies assess collaboration quality or learning, but most studies that measure learning report positive impact](minority-studies-evaluate-collaboration-learning-vrls.md)

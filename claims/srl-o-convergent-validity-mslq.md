@@ -43,4 +43,7 @@ Convergent validity analysis correlating SRL-O subscales with MSLQ subscales in 
 
 
 ## Related Claims
--
+
+- [The SRL-O supports both ten lower-order subscales and two superordinate factors (motivational beliefs and learning strategies)](srl-o-bifactor-two-superordinate-factors.md)
+- [Nine of the ten SRL-O subscales showed internal consistency above 0.70, with study environment lower (omega = 0.665)](srl-o-internal-consistency.md)
+- [Metacognition items loaded as a single factor, and time management combined with planning, in the SRL-O structure](srl-o-metacognition-single-factor-planning-time-management.md)

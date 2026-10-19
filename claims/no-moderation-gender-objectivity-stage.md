@@ -43,4 +43,9 @@ Meta-regression moderator analyses testing instrument, academic level, achieveme
 
 
 ## Related Claims
--
+
+- [Cynicism is significantly negatively related to academic achievement (rc+ = −.24)](cynicism-negative-achievement.md)
+- [Exhaustion is significantly negatively related to academic achievement (rc+ = −.15)](exhaustion-negative-achievement.md)
+- [Reduced efficacy shows the largest negative correlation with academic achievement (rc+ = −.39)](reduced-efficacy-largest-negative-achievement.md)
+- [Total academic burnout is significantly negatively related to academic achievement (rc+ = −.24)](total-burnout-negative-achievement-meta-analysis.md)
+- [Gender did not significantly moderate relationships between social functioning and academic development in preschoolers](gender-does-not-moderate-social-academic-relations.md)

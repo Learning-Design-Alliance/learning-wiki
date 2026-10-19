@@ -38,7 +38,9 @@ The report recommends concrete pre-expansion steps: "Prior to a decision to expa
 - Sustaining school quality and student learning conditions during organizational growth
 
 ## Related Strategies
-- 
+
+- [Assess team readiness across leadership, facilitation, communication, shared understanding, and capacity before starting](readiness-assessment-before-alignment-work.md)
+- [Five getting-started steps for building an integrated, school-based system of care](getting-started-steps-integrated-systems-of-care.md)
 
 ## Examples
 -

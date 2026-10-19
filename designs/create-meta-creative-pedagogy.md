@@ -43,7 +43,9 @@ CREATE is an explicit, theory-grounded meta-creative pedagogy whose acronym name
 - [Create Transfer Effects All Components](../claims/create-transfer-effects-all-components.md) [+M]
 
 ## Related Designs
-- 
+
+- [Engineering Design-Based Learning (EDBL) as a six-stage iterative pedagogical framework](edbl-six-stage-framework.md)
+- [The MACE pedagogy: five key features for integrating geometry and visual arts](mace-pedagogy-five-features.md)
 
 ## Examples
 -

@@ -12,7 +12,7 @@ generated:
 # Hierarchical resampling simulation framework for evaluating metacognitive measures
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A simulation methodology in which real confidence-judgment datasets are resampled hierarchically (participants with replacement, then trials within participants) to create realistic simulated experiments without committing to a mathematical model of confidence. The article states that "The 46 datasets from the confidence database were used to simulate 5000 experiments," with a continuous predictor sampled from a Gaussian distribution for each simulated participant. It enables false positive rate estimation for any measure computable from binary stimulus, binary response, and confidence data.
@@ -22,7 +22,9 @@ A simulation methodology in which real confidence-judgment datasets are resample
 - **Hierarchical resampling simulation framework based on the confidence database for evaluating metacognitive measures**: A simulation methodology in which real confidence-judgment datasets are resampled hierarchically (participants with replacement, then trials within participants) to create realistic simulated experiments without committing to a mathematical model of confidence. The article states that "The 46 datasets from the confidence database were used to simulate 5000 experiments," with a continuous predictor sampled from a Gaussian distribution for each simulated participant. It enables false positive rate estimation for any measure computable from binary stimulus, binary response, and confidence data. (Manuel Rausch (2023))
 
 ### Claims
+
 - [Summary-statistic measures of metacognitive accuracy (gamma, type 2 ROC, meta-d′, meta-da) maintain a false positive rate consistent with the nominal 5% alpha level in group comparisons](../claims/summary-statistics-metacognitive-accuracy-adequate-false-positive-rate.md) [+M]
+- [T-testing raw meta-d′/d′ or meta-da/da yields a false positive rate below 5%; log transformation or the Mann–Whitney U-test restores an adequate rate](../claims/meta-d-ratio-ttest-low-false-positive-rate.md) [+W]
 
 ## Related Research Methods
 -

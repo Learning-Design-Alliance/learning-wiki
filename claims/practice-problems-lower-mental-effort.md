@@ -43,4 +43,5 @@ One-way ANOVA on 9-point mental-effort ratings during practice printed a main ef
 
 
 ## Related Claims
--
+
+- [Contrasting examples, correct examples, erroneous examples, and practice problems produced no differences in learning gains or transfer of unbiased-reasoning skills](no-condition-differences-ct-practice-formats.md)

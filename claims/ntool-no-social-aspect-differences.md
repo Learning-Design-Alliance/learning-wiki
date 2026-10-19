@@ -43,4 +43,5 @@ Questionnaire measures of sociability (a = .86) and social presence (a = .86) fr
 
 
 ## Related Claims
--
+
+- [Experimental conditions did not affect felt presence or perceived realism, which were high across all IVR configuration conditions](ivr-presence-realism-high-uniform.md)

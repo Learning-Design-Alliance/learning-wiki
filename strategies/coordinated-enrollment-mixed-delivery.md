@@ -45,6 +45,7 @@ The report recommends that states organize recruitment, outreach, and enrollment
 - Aligned Standards Across Mixed Delivery Settings
 - [Use centralized enrollment, controlled choice, and transparency systems to ensure equitable access and integration](centralized-enrollment-controlled-choice-transparency.md)
 - [Use local resources to serve children birth through age 3 to stabilize community providers as 4-year-olds move into TK](serve-birth-through-3-to-stabilize-providers.md)
+- [Five ways state and local chambers can support working families by supporting female providers of color](five-chamber-strategies-support-female-providers-of-color.md)
 
 ## Examples
 -

@@ -42,6 +42,7 @@ Automaticity Theory (AT) is presented as a main theory in developing reading flu
 ## Related Theories
 
 - [Automaticity theory as the theoretical basis of repeated reading](automaticity-theory-repeated-reading-basis.md)
+- [Behaviorism frames reading fluency instruction as sub-skill training with response and feedback](behaviorism-reading-fluency-subskills-feedback.md)
 
 ## Examples
 

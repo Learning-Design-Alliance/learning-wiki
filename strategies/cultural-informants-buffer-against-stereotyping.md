@@ -37,7 +37,10 @@ The article describes cultural informants—members of the target audience who a
 - Accurate, non-stereotyped portrayal of the target community in instructional materials
 
 ## Related Strategies
-- 
+
+- [Use ethnographic research methods to authenticate culture-specific designs for target audiences](ethnographic-methods-authenticate-design.md)
+- [De-centering: reject the focus on Western ideologies and promote the target audience's culture and learning needs](de-centering-western-ideologies-design.md)
+- [Address Biases in the Use of Language and Symbols](address_biases_in_the_use_of_language_and_symbols.md)
 
 ## Examples
 -

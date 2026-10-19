@@ -43,4 +43,5 @@ Theoretical argument in the Externalization section, drawing on Flower and Hayes
 
 
 ## Related Claims
--
+
+- [Four forms of learning and knowledge building with wikis: internal and external assimilation and accommodation](four-processes-assimilation-accommodation-wikis.md)

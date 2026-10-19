@@ -66,6 +66,7 @@ Reflection after writing is a form of self-assessment that develops the monitori
 - [Writing Conferences](writing-conferences.md) — the reflection memo supplies the conference agenda
 - [Use a Letter to the Reviewer reflective memo submitted with each draft](letter-to-the-reviewer-memo.md)
 - [Design activities that make students' AI-supported learning processes visible through reflection prompts and process documentation](process-documentation-ai-learning-visibility.md)
+- [Use personal letter-writing assignments in composition and literature classes because personal letters are expressive and intimate](personal-letter-writing-assignments-strategy.md)
 
 ## Examples
 - **Process portfolios in secondary English** — students attach a one-paragraph reflection to each draft in a working portfolio, then write a cover letter at term's end synthesizing what they learned about their own writing process.

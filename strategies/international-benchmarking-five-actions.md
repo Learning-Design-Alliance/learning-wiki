@@ -37,7 +37,9 @@ Citing the 2008 "Benchmarking for Success" report, the chapter recommends five a
 - Globally competitive knowledge and skills
 
 ## Related Strategies
-- 
+
+- [Align high school graduation standards, assessments, and course requirements with college readiness so a diploma signals preparation for credit-bearing college work](align-k16-standards-assessments-graduation-requirements.md)
+- [Structure reform analyses so each chapter presents original analysis, discusses implications for practice, and ends with recommendations for community colleges](chapter-recommendations-for-practice-reform-volume.md)
 
 ## Examples
 -

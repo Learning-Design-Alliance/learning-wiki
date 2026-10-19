@@ -62,4 +62,8 @@ Age-specific ear analysis on the Dichotic Sentences subtest. The article reports
 
 
 ## Related Claims
--
+
+- [Dichotic listening subtests were the most challenging PSP-1 tasks, especially for children with auditory processing difficulties](dichotic-listening-tasks-most-challenging-psp1.md)
+- [PSP-1 performance increases with age across grades 1–4, with significant differences between adjacent age groups on total score](psp1-performance-increases-with-age.md)
+- [Monolingual and bilingual children perform the dichotic comprehension task equivalently, with both groups finding English–English interference hardest](equivalent-comprehension-monolingual-bilingual-children.md)
+- [Approximately 2.9% of Croatian grade 1–4 pupils meet diagnostic criteria for auditory processing disorder on the PSP-1 screening battery](psp1-screening-apd-prevalence-2-9-percent.md)

@@ -29,6 +29,7 @@ A publicly available Ed Trust data and rating tool that compares states' progres
 
 ## Related Products and Programmes
 
+- [Is Your State Prioritizing Social, Emotional, and Academic Development? 50-state scan](is-your-state-prioritizing-social-emotional-and-academic-development-50-state-scan.md)
 
 ## Key Sources
 - EdTrust. (2022). Educator Diversity State Profile: NORTH CAROLINA. https://edtrust.org

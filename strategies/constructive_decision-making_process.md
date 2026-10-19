@@ -78,11 +78,13 @@ The strategy works by externalizing a self-regulation routine, giving students a
 6. **Evaluate and fade.** Review outcomes after decisions, give process-level feedback [Feedback is most effective at the task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S], and progressively remove prompts as students internalize the sequence.
 
 ## Related Strategies
+
 - [Contingent scaffolding](../claims/contingent-scaffolding-improves-learning.md) — the display is a scaffold whose support should be adjusted to student needs and faded over time
 - Restorative circles and class meetings — provide authentic decision points where the process gets exercised
 - Establishing classroom norms and agreements — the decision-making process is a specialized, procedural form of the same co-construction move
 - Conflict-resolution routines — the process supplies the general frame that conflict protocols instantiate
 - Restorative-practice circles — the reflection step of the process is enacted in circle dialogue
+- [Classroom strategies to develop metacognition: reflective questions, decision diagrams, thinking aloud, reflective dialogue, and metacognitive argumentation](metacognition-classroom-strategies-set.md)
 
 ## Examples
 - **Second Step (Committee for Children)** — published SEL curriculum in which students learn and rehearse a step-by-step problem-solving and decision sequence ("How do I feel? What happened? What could I do?") supported by classroom posters: [https://www.secondstep.org](https://www.secondstep.org)

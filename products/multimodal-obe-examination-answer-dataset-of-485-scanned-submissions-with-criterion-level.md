@@ -28,7 +28,9 @@ A restricted research dataset created by Jahangir Alam SM et al. pairing 485 sca
 - [Subject distribution is uneven, with E-commerce contributing five answers and Machine Learning 88 of 485](../claims/uneven-subject-distribution-485-answers.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [1,650-question STEM diagram dataset collected via campus-wide submission campaign](1650-question-stem-diagram-dataset-collected-via-campus-wide-submission-campaign.md)
+- [TutorBench](tutorbench.md)
 
 ## Key Sources
 - Jahangir Alam SM, Md Khalid Syfullaha, Saad Ahmed, Munira Akter Mou, A K Z Rasel Rahman, A.K.M. Masudur Rahman, Mohammed Sowket Ali. (2026). Multimodal examination answer data with expert-designed Outcome-Based Education rubrics for criterion-level assessment. arXiv. https://arxiv.org/abs/2608.22346

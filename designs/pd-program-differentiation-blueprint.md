@@ -17,7 +17,7 @@ sources:
 # Five-month workplace-based PD program blueprint for teacher differentiation skills
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A professional development program designed with 4C/ID and the Ten Steps to teach primary school teachers differentiated instruction in mathematics. It combines three initial group meetings (interactive lectures, modeling examples, imitation tasks), four four-week task classes of daily classroom practice with individual coaching based on classroom recordings, cognitive feedback against 30 performance standards, and team reflection sessions. The article states "it resulted in a detailed blueprint of a five-month professional development program that strategically combines learning activities to stimulate learning processes that are essential for developing the complex skill providing differentiated instruction in a mathematics lesson."
@@ -37,8 +37,10 @@ A professional development program designed with 4C/ID and the Ten Steps to teac
 - providing differentiated instruction in mathematics lessons
 
 ### Claims
+
 - Five Principles Expert Differentiation [+M]
 - [Four Phases Expert Differentiation](../claims/four-phases-expert-differentiation.md) [+M]
+- [Ten Steps design of a workplace PD program is time and resource-intensive, spanning nearly two years for a five-month program](../claims/ten-steps-design-cost-time-intensive.md) [~W]
 
 ## Related Designs
 - Emphasis Manipulation Task Sequencing

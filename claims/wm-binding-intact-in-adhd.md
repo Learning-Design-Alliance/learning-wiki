@@ -43,4 +43,5 @@ Behavioral and ERP comparisons of Shape-Only vs Color-Shape conditions in the 18
 
 
 ## Related Claims
--
+
+- [Adolescents with ADHD respond more slowly than non-ADHD peers across all conditions, and color-shape binding slows responses in both groups](adhd-slower-rt-wm-binding-task.md)

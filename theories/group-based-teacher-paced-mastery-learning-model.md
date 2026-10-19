@@ -51,6 +51,7 @@ The article describes Bloom's group-based, teacher-paced mastery learning model 
 - [Mastery Learning](../strategies/mastery-learning.md)
 - [Mastery Based Progression](../strategies/mastery-based-progression.md)
 - [Mastery Based Retesting](../strategies/mastery-based-retesting.md)
+- [Compress or mainstream developmental education with course redesign](../designs/wwc-compress-mainstream-developmental-education.md)
 
 ## Key Sources
 - Guskey, Thomas R., et al. (1982). The Effectiveness of Mastery Learning Strategies in Undergraduate Education Courses. Paper presented at the Annual Meeting of the American Educational Research Association, New York. https://eric.ed.gov/?id=ED213702

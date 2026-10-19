@@ -1,7 +1,7 @@
 ---
 type: principle
 id: flexible-error-treatment-strategies
-aliases: [integrate-explicit-correction-with-meaningful-activities]
+aliases: [integrate-explicit-correction-with-meaningful-activities, establish-meaningful-communication-before-correction, learning-activities-legitimate-place-syllabus]
 title: Employ flexible error treatment strategies matched to objectives, competence, affect, and correction effectiveness
 description: "For a second-language learner, treating errors according to the activity's objective (accuracy or meaning), the learner's competence with the form, their affect and whether earlier corrections have taken hold is expected to improve accuracy at immediate and delayed tests better than one uniform correction policy; no claim in the wiki tests that matching, though corrective feedback as a whole has a durable effect and correction forms differ."
 canonical: true
@@ -18,12 +18,20 @@ sources:
     resource: "https://doi.org/10.5539/elt.v4n2p97"
     title: "Ehsan Rassaei, Ahmad Moinzadeh. (2011). Investigating the Effects of Three Types of Corrective Feedback on the Acquisition of English Wh-question Forms by Iranian EFL Learners. English Language Teaching, 4(2). https://doi.org/10.5539/elt.v4n2p97"
     author: Ehsan Rassaei, Ahmad Moinzadeh
+  - id: kimberly-miller-linnell-2010
+    resource: "https://eric.ed.gov/?id=EJ891083"
+    title: "Kimberly Miller Linnell. (2010). Using Dialogue Journals to Focus on Form. Journal of Adult Education Information Series, No. 1, Vol. 39. https://eric.ed.gov/?id=EJ891083"
+    author: Kimberly Miller Linnell
+  - id: adamson-1983
+    resource: "https://eric.ed.gov/?id=ED242194"
+    title: "Adamson, Douglas. (1983). Monitoring and the Monitor Model: Labov Versus Krashen. WATESOL Working Papers. https://eric.ed.gov/?id=ED242194"
+    author: Adamson, Douglas
 ---
 
 # Employ flexible error treatment strategies matched to objectives, competence, affect, and correction effectiveness
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 29 claims (11 for, 17 mixed, 1 against) · 21 studies (9 causal, 6 review, 2 quant-synthesis, 2 qualitative, 1 associational, 1 theoretical), `q1`–`q3` · 4 of 21 report an effect size · 25 claims rest on one study
+> **Evidence** · 33 claims (15 for, 17 mixed, 1 against) · 25 studies (10 causal, 7 review, 3 theoretical, 2 quant-synthesis, 2 qualitative, 1 associational), `q1`–`q3` · 4 of 25 report an effect size · 29 claims rest on one study
 
 ## Conditional relationship
 
@@ -131,6 +139,10 @@ Claims bearing on the page that have not been read against the model above; each
 - [CF treatment improved regular past tense performance on both GJT and EIT with large effects](../claims/cf-treatment-improves-regular-past-tense-gjt-eit.md) [+W]
 - [Low-proficiency L2 learners benefited significantly more from prompts than from recasts](../claims/low-proficiency-learners-benefit-more-from-prompts.md) [+W] — attached 2026-10-15 from Ahlem Ammar et al. (2006), which proposed "Match corrective feedback technique to learner proficiency: prefer prompts for lower-proficiency learners"; tests this page's relationship.
 - [Explicit correction improves adult L2 learners' responses on corrected suffixation items during the feedback session](../claims/explicit-correction-improves-feedback-session-responses.md) [+W] — attached 2026-10-15 from Susanne Carroll et al. (1992), which proposed "Expect explicit correction to improve performance on corrected items, not to guarantee generalized rule learning"; tests this page's relationship.
+- [Dialogue journals inherently meet conditions deemed necessary for second language acquisition](../claims/dialogue-journals-meet-sla-conditions.md) [+W]
+- [Student-centered writing environments are argued to lower anxiety, increase confidence, and provide natural language contexts](../claims/student-centered-environments-lower-anxiety-increase-confidence.md) [+W]
+- [Monitoring Improves Learnable Rule Accuracy](../claims/monitoring-improves-learnable-rule-accuracy.md) [+M]
+- [A 1982 bilingual-education teacher-training packet asserts, citing Krashen, that repetitive drill and grammar-focused instruction are ineffective for second language acquisition](../claims/drill-and-grammar-focus-ineffective-for-l2-acquisition.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -150,15 +162,22 @@ Accuracy on the treated form straight after correction, accuracy at a delay, acc
 - [Immediate Feedback](immediate-feedback.md) — when a correction arrives; this page uses its reading that timing is a local choice.
 - [Feedback Loops](feedback-loops.md) — the broader model of acting on a response and checking the next one.
 - [Favor input processing and focus on form over focus on forms in adult L2 teaching](teacher-as-mediator-not-content-disseminator.md)
+- [Teach language as living and developing, not as a set of dogmatic precepts](../theories/teach-language-as-living-and-developing.md)
 
 ## Examples
 -
 - [Process Writing (Journals)](../strategies/process-writing-journals.md)
 - [Design explicit pragmatic instruction with practice opportunities, feedback addressing both form and meaning, and authentic input models](../strategies/explicit-pragmatic-instruction-authentic-models-strategy.md)
+- [Provide incidental corrective feedback through clarification requests, recasts, and a P.S.](../strategies/incidental-corrective-feedback-in-dialogue-journals.md)
+- [Pre-teach target language forms deductively before journal entries incorporate them](../strategies/pre-teach-forms-before-journal-entries.md)
+- [Use sample journal entries to inductively highlight target language elements](../strategies/sample-journal-entries-inductive-focus-on-form.md)
+- [Put students in charge of soliciting grammatical feedback through pre-taught correction questions](../strategies/student-initiated-correction-questions.md)
 
 ## Key Sources
 - XIE Fang, JIANG Xue-mei. (2007). Error analysis and the EFL classroom teaching. US-China Education Review. https://scholar.google.com/scholar?q=Error+analysis+and+the+EFL+classroom+teaching
 - Ehsan Rassaei, Ahmad Moinzadeh. (2011). Investigating the Effects of Three Types of Corrective Feedback on the Acquisition of English Wh-question Forms by Iranian EFL Learners. English Language Teaching, 4(2). https://doi.org/10.5539/elt.v4n2p97
+- Kimberly Miller Linnell. (2010). Using Dialogue Journals to Focus on Form. Journal of Adult Education Information Series, No. 1, Vol. 39. https://eric.ed.gov/?id=EJ891083
+- Adamson, Douglas. (1983). Monitoring and the Monitor Model: Labov Versus Krashen. WATESOL Working Papers. https://eric.ed.gov/?id=ED242194
 
 <!-- deprecated 2026-10-15: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -246,4 +265,88 @@ The article concludes that L2 classrooms aiming at both accuracy and fluency sho
 
 ## Key Sources
 - Ehsan Rassaei, Ahmad Moinzadeh. (2011). Investigating the Effects of Three Types of Corrective Feedback on the Acquisition of English Wh-question Forms by Iranian EFL Learners. English Language Teaching, 4(2). https://doi.org/10.5539/elt.v4n2p97
+-->
+
+<!-- merged 2026-10-19 from principles/establish-meaningful-communication-before-correction ("Establish meaningful communication first, then layer in focus on form gradually"), a narrower page folded into its canonical page (fragment step, two models agreeing or a third settling): its body as it stood. Its bullets this page lacked were added above.
+
+# Establish meaningful communication first, then layer in focus on form gradually
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 2 studies (1 review, 1 theoretical), `q1` · 0 of 2 report an effect size · 2 claims rest on one study
+
+## Description
+Because dialogue journals' value rests on authentic interaction, the article recommends laying the groundwork for meaningful communication at the outset, which may mean withholding grammar correction initially. During this introductory get-to-know-you phase, the teacher and student build a routine for writing, establish guidelines about how much or how long to write, and the teacher becomes familiar with students' language needs before any corrective feedback begins.
+
+## Design Implications
+
+### Context
+#### Requirements
+- An initial phase in which the teacher interacts with student ideas and introduces new topics without grammar correction
+#### Constraints
+- Explicit corrective feedback is appropriate only if the student is responsive to grammatical feedback and the journal has been well established as a meaningful context of communication
+
+### Target Learners
+- adult ESL students
+
+### Target Learning Objectives
+- sustained authentic written communication alongside gradual attention to language form
+
+### Claims
+
+- Adult Esl Learners Favor Corrective Feedback [+M]
+- [Dialogue journals inherently meet conditions deemed necessary for second language acquisition](../claims/dialogue-journals-meet-sla-conditions.md) [+W]
+- [Student-centered writing environments are argued to lower anxiety, increase confidence, and provide natural language contexts](../claims/student-centered-environments-lower-anxiety-increase-confidence.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Provide incidental corrective feedback through clarification requests, recasts, and a P.S.](../strategies/incidental-corrective-feedback-in-dialogue-journals.md)
+- [Pre-teach target language forms deductively before journal entries incorporate them](../strategies/pre-teach-forms-before-journal-entries.md)
+- [Use sample journal entries to inductively highlight target language elements](../strategies/sample-journal-entries-inductive-focus-on-form.md)
+- [Put students in charge of soliciting grammatical feedback through pre-taught correction questions](../strategies/student-initiated-correction-questions.md)
+
+## Key Sources
+- Kimberly Miller Linnell. (2010). Using Dialogue Journals to Focus on Form. Journal of Adult Education Information Series, No. 1, Vol. 39. https://eric.ed.gov/?id=EJ891083
+-->
+
+<!-- merged 2026-10-19 from principles/learning-activities-legitimate-place-syllabus ("Learning activities have a legitimate place in the language syllabus, but remain secondary to acquisition activities"), a narrower page folded into its canonical page (fragment step): its body as it stood. Its bullets this page lacked were added above.
+
+# Learning activities have a legitimate place in the language syllabus, but remain secondary to acquisition activities
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 2 studies (1 causal, 1 theoretical), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+
+## Description
+If Labov's monitor model better represents the facts than Krashen's, the article argues, then learning activities such as error correction, drills, and grammar explanation have "a legitimate place in our syllabi." Yet they remain secondary: the author states learning activities are "not essential and are still very much secondary to learning-acquisition activities," and endorses Paulston and Bruder's rule of thumb that learning activities should be both present and brief.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Learning activities must be kept brief and embedded in a syllabus dominated by meaningful acquisition activities.
+#### Constraints
+- The article warns that too much overt correction can make students feel insecure, so that they will say very little, accurately or otherwise.
+
+### Target Learners
+- second language learners in ESL classrooms
+
+### Target Learning Objectives
+- accurate production of target language forms alongside natural acquisition
+
+### Claims
+
+- [Monitoring Improves Learnable Rule Accuracy](../claims/monitoring-improves-learnable-rule-accuracy.md) [+M]
+- [A 1982 bilingual-education teacher-training packet asserts, citing Krashen, that repetitive drill and grammar-focused instruction are ineffective for second language acquisition](../claims/drill-and-grammar-focus-ineffective-for-l2-acquisition.md) [+W]
+
+## Related Principles
+
+- [Teach language as living and developing, not as a set of dogmatic precepts](../theories/teach-language-as-living-and-developing.md)
+
+## Examples
+-
+
+## Key Sources
+- Adamson, Douglas. (1983). Monitoring and the Monitor Model: Labov Versus Krashen. WATESOL Working Papers. https://eric.ed.gov/?id=ED242194
 -->

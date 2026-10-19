@@ -43,4 +43,6 @@ Denckla's chapter reports, citing Cutting, Koth, Mahone, and Denckla (2003), tha
 
 
 ## Related Claims
--
+
+- [Verbal working memory predicts oral reading fluency in children with and without ADHD](verbal-working-memory-predicts-reading-fluency.md)
+- [Verbal and spatial working memory, and verbal attention span, explain unique variance in Coding beyond motor speed, symptom severity, and IQ](working-memory-explains-coding-variance.md)

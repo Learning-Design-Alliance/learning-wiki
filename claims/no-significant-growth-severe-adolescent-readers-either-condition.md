@@ -43,4 +43,6 @@ Authors' interpretation of the repeated measures ANOVA of pre/post standard scor
 
 
 ## Related Claims
--
+
+- [Only one of 38 severely struggling middle school readers met a standard-score benchmark of 93 for adequate response to intervention after the study](benchmark-93-adequate-response-met-by-one-student.md)
+- [Embedded cognitive flexibility practice showed no overall advantage over phonics alone on growth in decoding, encoding, or cognitive flexibility](embedded-cognitive-flexibility-no-overall-advantage-winter-kindergarten.md)

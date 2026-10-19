@@ -40,7 +40,8 @@ The authors built an LLM-based pipeline that converts unstructured application m
 - 
 
 ## Related Designs
-- 
+
+- [AI-driven tutor training and real-life assessment system linking scenario-based lessons to transcript-based evaluation](ai-driven-tutor-training-assessment-system.md)
 
 ## Examples
 -

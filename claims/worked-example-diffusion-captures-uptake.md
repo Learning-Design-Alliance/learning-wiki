@@ -43,4 +43,6 @@ A single fictional network scenario with printed centrality values (Table 1): no
 
 
 ## Related Claims
--
+
+- [In a correlation meta-analysis across 69 course offerings, diffusion-based centralities correlated with academic achievement with high combined coefficients and predictive intervals](diffusion-centralities-meta-analysis-achievement.md)
+- [Prior SNA studies of centrality-achievement links in CSCL show inconsistent, mostly small-sample results, with betweenness and closeness the most inconsistent measures](traditional-centralities-inconsistent-literature.md)

@@ -17,7 +17,7 @@ sources:
 # Use varied equal-partitioning problems to develop fraction comparison and equivalence
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (1 associational, 1 qualitative), `q2`–`q3` · 1 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Teachers help children compare fractional parts and explore equivalence by trying different ways to partition objects. The presentation suggests asking "Is one-third of an apple larger or smaller than one-fourth of the same apple?" and notes that when one student breaks candy bars in half while another breaks each into four pieces and groups two pieces together, "Children can check to see that each approach results in equivalent shares." Problems can grow increasingly sophisticated as understanding of equivalence develops.
@@ -37,6 +37,11 @@ Teachers help children compare fractional parts and explore equivalence by tryin
 - comparing fractions
 - equivalent fractions
 - ordering fractions
+
+## Claims
+
+- [Mathspace dynamic representations, such as fraction smart shapes, let students see how changing the number of equal parts alters part size while the whole stays the same](../claims/mathspace-dynamic-representations-fractions.md) [+W]
+- [Visual fraction models yield more accurate magnitude comparisons than Arabic numeral fractions for all ability groups, but the visual model advantage persists through Grade 8 only for children with MLD](../claims/visual-model-advantage-persists-mld.md) [+W]
 
 ## Related Strategies
 

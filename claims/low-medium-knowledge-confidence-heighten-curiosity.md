@@ -43,4 +43,6 @@ Linear mixed-effects model of 6000 trials from 100 adults rating 60 blurred imag
 
 
 ## Related Claims
--
+
+- [Curiosity did not significantly predict recall accuracy in the blurred-picture learning task](curiosity-did-not-predict-recall-accuracy.md)
+- [Yes/no feedback that participants were correct nearly quenched curiosity for correct answers, whereas without feedback curiosity peaked at moderate-to-high confidence](yes-no-feedback-correct-answers-quench-curiosity.md)

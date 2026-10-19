@@ -43,4 +43,6 @@ Simple main effects of the motivation factor in the quasi-experiment; for childr
 
 
 ## Related Claims
--
+
+- [Increasing extrinsic motivation via reward and competition interacts with group membership in reducing attention-task differences between children with ADHD and TD children](motivation-group-interaction-attention-adhd.md)
+- [Increased motivation eliminated ADHD–TD differences on most attention measures but differences persisted in complex multitasking and commission errors](motivation-reduces-but-not-eliminates-adhd-deficits.md)

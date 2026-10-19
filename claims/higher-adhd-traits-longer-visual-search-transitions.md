@@ -43,4 +43,5 @@ Observational analysis of search paths from 87 children performing the Bells Tes
 
 
 ## Related Claims
--
+
+- [Higher ADHD scores predict an excess of long-distance jumps in visual search without any cost to visual search performance](visual-search-performance-unaffected-by-adhd-traits.md)

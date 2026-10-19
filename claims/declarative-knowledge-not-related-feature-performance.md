@@ -43,4 +43,9 @@ Logistic regressions tested whether declarative knowledge of each feature predic
 
 
 ## Related Claims
--
+
+- [Adding a practice phase after instruction (PS-I + P) did not improve javelin throwing performance over PS-I alone](additional-practice-no-effect-primary-javelin.md)
+- [Primary school children improved execution of movement features but showed no improvement in javelin throwing distance across all conditions](features-improved-distance-did-not-primary-javelin.md)
+- [Movement-feature performance predicted javelin throwing distance, with the bracing step contributing most](movement-features-predict-throwing-distance.md)
+- [In primary school children learning javelin throwing, PS-I did not outperform I-PS on throwing distance or movement-feature execution](ps-i-no-advantage-primary-motor-learning.md)
+- [Working memory capacity did not moderate learning gains in PS-I and I-PS, but digit recall correlated with declarative knowledge of the features](working-memory-no-moderation-correlated-declarative.md)

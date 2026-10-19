@@ -63,6 +63,7 @@ The report recommends seven "evidence-based approaches for resolving teacher sho
 - [Four-part policy strategy for increasing student access to advanced mathematics and science courses](policy-strategies-advanced-course-access.md)
 - [Invest in retention of teachers of color through residencies, affinity groups, and induction/mentoring](retain-teachers-of-color-residencies-affinity-mentoring.md)
 - [Federal policy levers for an equitable pathways system: funding, mandates, certification, research, and data systems](federal-pathways-policy-levers.md)
+- [Institutional, state, and federal actions to increase faculty diversity](institutional-state-federal-faculty-diversity-actions.md)
 
 ## Examples
 -

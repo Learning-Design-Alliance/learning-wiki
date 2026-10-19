@@ -43,4 +43,8 @@ The report's introduction analyzes state workforce data, reporting that "45,231 
 
 
 ## Related Claims
--
+
+- [In 2021–22, 99.7% of Texas teacher hires replaced teachers who had left the prior year, making attrition the dominant driver of demand](texas-attrition-drives-99-7-percent-of-hires.md)
+- [A statewide cohort analysis found 8% of new Texas teachers left after year 1, 26% by year 5, and 46% by year 8](texas-early-career-attrition-cohort-analysis.md)
+- [High teacher attrition, near 8% annually, is the largest share of teacher demand, and halving it could virtually eliminate shortages](teacher-attrition-largest-demand-driver.md)
+- [Texas teacher turnover cost estimates exceed $10,800 per teacher in rural districts, $13,200 in suburban districts, and $25,200 in urban districts](texas-turnover-replacement-costs-by-district-type.md)

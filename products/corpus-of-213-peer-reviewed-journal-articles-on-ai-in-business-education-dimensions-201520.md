@@ -13,7 +13,7 @@ generated:
 # Corpus of 213 peer-reviewed journal articles on AI in business education (Dimensions, 2015–2024)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A corpus compiled by Espino et al. from peer-reviewed Dimensions-indexed articles published from 2015 to 2024 for bibliometric analysis of AI integration in business education.
@@ -22,6 +22,8 @@ A corpus compiled by Espino et al. from peer-reviewed Dimensions-indexed article
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
+- [Persistent research gaps in AI-integrated business education concern curriculum coherence, educator readiness, and assessment validity](../claims/persistent-gaps-ai-business-education.md) [+W]
 
 ## Related Products and Programmes
 

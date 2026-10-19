@@ -43,4 +43,5 @@ Open questionnaire questions about iteration. The most frequent self-reported re
 
 
 ## Related Claims
--
+
+- [All subjects iterated while designing a training simulator specification, with iteration counts ranging from 10 to 30](all-subjects-iterated-log-evidence.md)

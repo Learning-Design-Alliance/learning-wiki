@@ -13,7 +13,7 @@ generated:
 # American Sign Language Assessment Instrument (ASLAI)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 2 studies (2 associational), `q3` · 0 of 2 report an effect size
 
 ## Description
 The ASLAI is a computerized battery of video-presented multiple-choice receptive ASL language tasks developed by the research team for assessing deaf students' ASL abilities and informing IEP planning.
@@ -23,8 +23,11 @@ The ASLAI is a computerized battery of video-presented multiple-choice receptive
 
 ### Claims
 
+- [Native signers (children of at least one Deaf parent) outperform non-native signers on ASL syntactic judgment and analogical reasoning tasks](../claims/native-signers-outperform-non-native-asl.md) [+M]
+
 ## Related Products and Programmes
--
+
+- [Online Experimental Psychological System (OPES) computerized cognitive test battery](online-experimental-psychological-system-opes-computerized-cognitive-test-battery.md)
 
 ## Key Sources
 - Henner J, Caldwell-Harris CL, Novogrodsky R and Hoffmeister R (2016) American Sign Language Syntax and Analogical Reasoning Skills Are Influenced by Early Acquisition and Age of Entry to Signing Schools for the Deaf. Front. Psychol. 7:1982. https://doi.org/10.3389/fpsyg.2016.01982

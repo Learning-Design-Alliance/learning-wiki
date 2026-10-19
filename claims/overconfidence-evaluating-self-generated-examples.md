@@ -3,6 +3,7 @@ type: claim
 title: Learners are substantially overconfident when evaluating the quality of their self-generated examples
 description: Learners are substantially overconfident when evaluating the quality of their self-generated examples
 id: overconfidence-evaluating-self-generated-examples
+aliases: [overconfidence-judging-self-generated-examples]
 status: review
 generated:
   by: "process:wiki-ingest"
@@ -17,15 +18,26 @@ sources:
     i: 3
     kind: causal
     rigour: 3
+  - id: linda-froese-2023
+    resource: "https://doi.org/10.1007/s11409-023-09347-w"
+    title: "Linda Froese, Julian Roelle. (2023). Expert example but not negative example standards help learners accurately evaluate the quality of self-generated examples. Metacognition and Learning. https://doi.org/10.1007/s11409-023-09347-w"
+    author: Linda Froese, Julian Roelle
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Learners are substantially overconfident when evaluating the quality of their self-generated examples
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r3` · `q3` · `i3` large
+> **Evidence** · 2 studies · 2 causal `r2`–`r3` · `q2`–`q3` · `i3` large
 
 ## Subclaims
+
 `q3 i3` University students showed substantial overconfidence (mean bias 22.9%) and inaccuracy (absolute accuracy 32.4%) in evaluating their self-generated examples. [→ Linda Froese 2022](#linda-froese-2022)
+
+`q2 i?` Learners overestimate the quality of their self-generated examples relative to expert ratings, especially for poor examples. [→ Linda Froese 2023](#linda-froese-2023)
 
 ## Evidence
 
@@ -39,10 +51,22 @@ In the 2×2 factorial experiment (N = 131 university students), all learners gen
 
 > "Overall, they were overconfident with a mean bias of 22.9% (SD = 19.1%), which was significantly greater than zero, t(130) = 13.75, p < .001, d = 1.20."
 
+### Linda Froese 2023
+
+Linda Froese, Julian Roelle. (2023). Expert example but not negative example standards help learners accurately evaluate the quality of self-generated examples. Metacognition and Learning. https://doi.org/10.1007/s11409-023-09347-w
+
+`q2 · i?` · `causal · r2`
+
+In the present experiment's descriptive results, even learners provided with expert example standards overestimated examples rated 0% by experts by ca. 57%, replicating the substantial overconfidence pattern reported by Froese and Roelle (2022) and Zamary et al. (2016).
+
+> "Notably, like in Froese and Roelle (2022), the expert example standards did not yield fully accurate judgments. For instance, the learners still overestimated their poor examples, which were credited with 0% by the expert raters, by ca. 57%."
+
 ## Discussion
 
 
+
 ## Related Claims
+
 - [Providing expert example standards reduces bias in learners' evaluations of self-generated examples](expert-example-standards-reduce-bias.md) — related
 - [Learners partly use example length as a cue when evaluating their self-generated examples](length-cue-example-evaluation.md) — related
 - [Readers in all conditions except sketching were overconfident, with the most overconfidence in the photograph condition and the least in the sketching condition](overconfidence-all-conditions-except-sketching.md) — related

@@ -125,12 +125,14 @@ Whether a learner can perceive and operate the material at all: device, bandwidt
 - Working memory — accommodations often work by removing a load rather than by adding support.
 
 ## Examples
+
 - [Accommodations](../elements/accommodations.md) — the element that names the adjustment
 - [Specific Learning Disabilities](../elements/specific-learning-disabilities.md) — the population-specific considerations
 - [Audiobooks](../elements/audiobooks.md) — an alternative route to the same content
 - [Accessible Syntax](../strategies/accessible_syntax.md) — lowers linguistic demand without lowering content
 - [Audiobooks](../strategies/audiobooks.md) — the strategy form
 - [Audio + Structured Activity](../strategies/audio-structured-activity.md) — pairs an audio route with a task that does not assume reading
+- [Design systems to accommodate low bandwidth limitations by using fewer graphics and media](../strategies/low-bandwidth-design-fewer-graphics-media.md)
 
 ## Key Sources
 - The evidence is carried by the claim pages linked above, each holding its own `## Evidence` entries with `q`/`i` codes and DOIs checked against Crossref. Citations are deliberately not duplicated here — a second copy is a second thing to keep correct.

@@ -50,6 +50,7 @@ The article articulates an orientation in which teaching about justice and equit
 - [Ask students to reflect on how they have been exposed to and impacted by society's messages about race, gender, and sexual identity, after the teacher has modeled vulnerability](../strategies/student-reflection-social-messages-after-teacher-modeling.md)
 - [Start with Yourself (Identity Mapping)](../strategies/start-with-yourself-identity-mapping.md)
 - [Teacher Racial Identity Work](../strategies/racial_identity_work.md)
+- [Four activity categories scaffold CRA learning from reflection to redesign](../designs/cra-four-activity-categories.md)
 
 ## Key Sources
 - Angelica Paz Ortiz, Beth Tarasawa, Jack Straton, Noelle Al-Mustaifry, Anmarie Trimble. (2019). Positionality in teaching: Implications for advancing social justice. Journal of General Education 67(1), 109-121. https://www.nwea.org/research/publication/positionality-in-teaching-implications-for-advancing-social-justice/

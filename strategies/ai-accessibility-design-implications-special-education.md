@@ -17,7 +17,7 @@ sources:
 # Design AI-assisted accessibility tools for personalization, practitioner review, and cultural and contextual specificity
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article distills its findings into design implications for AI-assisted accessibility tools in special education: personalization, practitioner review, and contextual specificity. It notes that "personalization must also have a cultural dimension as social narratives developed in Western contexts may miss locally meaningful cues and expectations." Concrete realizations include grade-based comprehension categories instead of subjective labels, sentence-length controls, child-like narration voices, tablet-friendly use, and support for varied learner needs across the autism spectrum.
@@ -36,8 +36,13 @@ The article distills its findings into design implications for AI-assisted acces
 ### Target Learning Goals
 - Engagement and comprehension of social narratives tailored to the learner's context
 
+## Claims
+
+- [Practitioners perceived the profile-driven workflow as reducing Social Story preparation burden](../claims/adapted-stories-reduces-preparation-burden.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Preparing preservice teachers to implement AI-powered personalized learning in special education through professional development in technical and pedagogical expertise](preservice-teacher-ai-ppl-professional-development.md)
 
 ## Examples
 -

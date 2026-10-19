@@ -43,4 +43,5 @@ Final regression model (Model 4) on posttest probabilistic reasoning weighted su
 
 
 ## Related Claims
--
+
+- [The learning benefit of the worked-example textbook was greater for students with lower pretest proportional reasoning skills](worked-examples-benefit-lower-proportional-reasoners.md)

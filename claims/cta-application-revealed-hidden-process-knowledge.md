@@ -43,4 +43,5 @@ Authors' report from the ongoing qualitative pilot applying the adapted CTA fram
 
 
 ## Related Claims
--
+
+- [Environmental analysis via structured observation of morning rounds identified unanticipated stakeholders in surgical discharge](cta-pilot-uncovered-unanticipated-stakeholders.md)

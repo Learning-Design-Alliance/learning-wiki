@@ -12,7 +12,7 @@ generated:
 # Socio-cognitive openness framework: three levels, two dimensions, four discourse acts, and eight components
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 6 claims (6 for) · 2 studies (2 associational), `q2`–`q3` · 0 of 2 report an effect size · 6 claims rest on one study
 
 ## Description
 A conceptual framework for analyzing openness in online knowledge building contributions, organized at three levels: dimensions, discourse acts and components (see Fig. 1). The cognitive dimension contains components relating to the mental activities of producing and evaluating knowledge claims, while the social dimension contains components on how the contributor aligns with others and presents him- or herself. Components are grouped in pairs into the discourse acts of building knowledge, expression of uncertainty, community orientation and the expression of self, reflecting the principles of producing knowledge claims and taking intersubjective stance. The framework was operationalized as a binary coding scheme applied in ATLAS.ti to Knowledge Forum notes.
@@ -23,7 +23,13 @@ A conceptual framework for analyzing openness in online knowledge building contr
 - **Socio-cognitive openness: a CSCL construct with cognitive and social dimensions decomposed into four discourse acts and eight components**: A new explanatory construct for CSCL developed by van Heijst et al. to explain why actual knowledge-building levels remain low, since "students sometimes do not build upon the prior work of their peers and need scaffolding to do so." It distinguishes two dimensions (cognitive and social) divided into four knowledge-building discourse acts — knowledge-building, expression of uncertainty, community orientation, expression of self — and eight components. The framework was empirically tested by analysis and coding of Knowledge Forum contributions from two mixed cohorts of students and teachers, with its two-factor structure validated. (U. Cress et al. (2019))
 
 ### Claims
+
 - [In Knowledge Forum discourse, three components (connecting knowledge, transactivity, authority) dominated notes, and cognitive openness components predicted follow-up while social openness components predicted slightly reduced follow-up](../claims/openness-components-frequency-follow-up-knowledge-forum.md) [+M]
+- [Contributions to online knowledge building discourse show moderate socio-cognitive openness, with higher social than cognitive openness](../claims/higher-social-than-cognitive-openness.md) [+W]
+- [At the discourse-act level, expression of uncertainty predicts more follow-up while community orientation predicts less, and notes lacking building-knowledge openness receive less follow-up](../claims/uncertainty-discourse-act-more-followup.md) [+W]
+- [CATPCA of openness components yielded two dimensions largely matching the theoretical cognitive/social framework, with transactivity not included](../claims/catpca-two-dimensions-openness.md) [+W]
+- [Social openness components transactivity and authority are associated with less follow-up, and dimension-level openness shows no significant association with follow-up](../claims/social-openness-components-less-followup.md) [+W]
+- [Component frequencies: elaboration, other transactivity and expert authority are frequent; multiple justification, personal positioning and questioning are rare](../claims/openness-component-frequency-pattern.md) [+W]
 
 ## Related Research Methods
 -

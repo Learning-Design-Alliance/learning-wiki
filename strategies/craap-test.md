@@ -75,12 +75,15 @@ The CRAAP Test gives learners a concrete, structured procedure for a judgment ta
 5. Fade the worksheet over successive tasks so students internalize evaluation as habitual questioning rather than form-filling ([Fading](../elements/fading.md)).
 
 ## Related Strategies
+
 - **Lateral Reading** — the expert strategy research recommends supplementing or replacing checklist evaluation; leave the page to check the source
 - **Civic Online Reasoning Curriculum** — Stanford's published curriculum teaching evaluation through lateral reading and claim verification ([Stanford History Education Group](https://cor.stanford.edu))
 - **Fact-Checking Tasks** — applying evaluation criteria to specific claims rather than whole pages
 - [Lateral reading](../strategies/lateral-reading.md) — the expert strategy that research shows outperforms checklist evaluation; best taught alongside or instead of CRAAP
 - [SIFT method](../strategies/sift-method.md) — a streamlined successor built on fact-checker practice
 - [Comparing cases](../elements/comparing-cases.md) — evaluating multiple sources side by side builds the discrimination a single-source checklist cannot
+- [Parents and educators should search multiple sources — app stores, expert review sites, and producers' websites — when selecting literacy apps](cross-source-app-search-strategy.md)
+- [Extend multiple-text strategy assessment with sourcing and contextualization items and validate against online traces](extend-mtsi-sourcing-contextualization-validation.md)
 
 ## Examples
 - **Meriam Library, CSU Chico** — the original CRAAP Test worksheet ([library.csuchico.edu](https://library.csuchico.edu/sites/default/files/craap-test.pdf)), widely adopted by school and academic libraries

@@ -95,6 +95,11 @@ This is a distinct lens from [boundary crossing](boundary-crossing-learning.md):
 - [Organization Simulation for Interdisciplinary Learning](../designs/organization-simulation-for-interdisciplinary-learning.md) — the pattern this framework was developed to analyze, tracing how student teams built a client offer across six weeks
 - [Evolving-artifact course organization: each module's output becomes the next module's input](../designs/evolving-artifact-module-chain.md)
 - [Train ITD competencies through cross-training, guided boundary-object creation, coaching, and early reflexivity learning objectives](../strategies/itd-competency-training-strategies.md)
+- [A conceptual design framework for PST collaborative inquiry combining knowledge building principles with collaborative-analytics reflective assessment](../designs/collaborative-analytics-reflective-assessment-design-framework.md)
+- [Support learners in climbing the social and epistemic ladders together](../strategies/climbing-social-and-epistemic-ladders-together.md)
+- [Promote knowledge creation by coordinating group practices, technology affordances, interaction genres, community metaskills, and trialogical learning through design-based research](../strategies/coordinated-dbr-knowledge-creation-culture.md)
+- [Redesign course projects around collaboration, open-ended problems, shared knowledge objects, technology mediation, and as-needed mentoring](../strategies/five-design-principles-collaborative-course-redesign.md)
+- [Develop new pedagogical solutions to facilitate and collectively manage students' multimodal knowledge practices in makerspaces](../strategies/pedagogical-solutions-multimodal-knowledge-practices.md)
 
 ## Key Sources
 - Muukkonen, H., & Kajamaa, A. (2024). Knowledge objects and knowledge practices in interdisciplinary learning: Example of an organization simulation in higher education. *Journal of the Learning Sciences, 33*(2), 365-404. [https://doi.org/10.1080/10508406.2024.2344794](https://doi.org/10.1080/10508406.2024.2344794)

@@ -43,4 +43,7 @@ A-priori moderator analysis on task type using outlier-removed data. All six tas
 
 
 ## Related Claims
--
+
+- [The effect of reward on inhibitory control is not moderated by participant age (children vs adults)](age-does-not-moderate-reward-effect-on-inhibitory-control.md)
+- [The effect of reward on inhibitory control is not moderated by reward type (monetary vs points vs other)](reward-type-does-not-moderate-inhibitory-control-effect.md)
+- [The effect of reward on inhibitory control is not moderated by clinical status, including ADHD and substance use disorder samples](clinical-status-does-not-moderate-reward-effect-on-inhibitory-control.md)

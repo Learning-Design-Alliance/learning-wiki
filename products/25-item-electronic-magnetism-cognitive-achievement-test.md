@@ -24,7 +24,8 @@ A 25-item multiple-choice test developed by Alneyadi et al. to measure eleventh-
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Quantum Theory Test](quantum-theory-test.md)
 
 ## Key Sources
 - Alneyadi, S., & Wardat, Y. (2023). ChatGPT: Revolutionizing student achievement in the electronic magnetism unit for eleventh-grade students in Emirates schools. Contemporary Educational Technology, 15(4), ep448. https://doi.org/10.30935/cedtech/13417

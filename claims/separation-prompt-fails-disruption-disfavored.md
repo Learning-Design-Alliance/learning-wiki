@@ -62,4 +62,5 @@ Mediation analysis showed the prompt raised integration avoidance (recall: b = 0
 
 
 ## Related Claims
--
+
+- [An irrelevance prompt eliminates the recall cost of seductive details, supporting the diversion explanation](irrelevance-prompt-eliminates-seductive-details-recall-cost.md)

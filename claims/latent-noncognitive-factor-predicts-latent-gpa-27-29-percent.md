@@ -43,4 +43,6 @@ Comparison of the two fitted SEMs (n = 386): the theory-driven MABC model (Model
 
 
 ## Related Claims
--
+
+- [A reduced set of non-cognitive factors alone explains 17–25% of the variance in university GPA across three years of a degree](noncognitive-factors-explain-17-25-percent-gpa-variance-three-years.md)
+- [Previous academic performance is the strongest predictor of university GPA, and adding cognitive predictors raises explained variance to about 44–50%](previous-ap-strongest-predictor-gpa-up-to-50-percent.md)

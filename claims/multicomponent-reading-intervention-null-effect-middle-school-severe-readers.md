@@ -43,4 +43,5 @@ Randomized experiment in one urban middle school: 38 students in grades 6–8 ra
 
 
 ## Related Claims
--
+
+- [Only one of 38 severely struggling middle school readers met a standard-score benchmark of 93 for adequate response to intervention after the study](benchmark-93-adequate-response-met-by-one-student.md)

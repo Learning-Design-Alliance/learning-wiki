@@ -25,7 +25,8 @@ A framework developed by the National Graduate Attributes Project for universiti
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Three-component framework for Portrait of a Graduate assessment systems](three-component-framework-for-portrait-of-a-graduate-assessment-systems.md)
 
 ## Key Sources
 - Clair Hughes and Simon Barrie. (2010). Influences on the assessment of graduate attributes in higher education. Assessment & Evaluation in Higher Education. https://doi.org/10.1080/02602930903221485

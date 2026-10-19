@@ -62,5 +62,8 @@ Follow-up repeated-measures ANOVA within the older adolescent group (n = 20). Th
 
 
 ## Related Claims
+
 - [The link between children's affect index and their subsequent collaboration preferences varied with age, with the two proxies for social motivation becoming dissociated in older children](affect-preference-link-dissociates-with-age.md) — related
 - [No behavioural Audience × Age group interaction: the accuracy decrement was comparable in adolescents and adults](no-behavioural-audience-age-interaction.md) — related
+- [The study found no evidence of age differences in relational reasoning performance, possibly due to design choices maximising sensitivity to audience effects](no-age-differences-relational-reasoning-this-task.md)
+- [Older adolescents (14.9–17.8 years) show lower relational reasoning accuracy when observed by a friend than by an experimenter, across task difficulty levels](older-adolescents-lower-accuracy-friend-versus-experimenter.md)

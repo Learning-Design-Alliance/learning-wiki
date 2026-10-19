@@ -43,4 +43,6 @@ Validity analysis correlating automatic dialogue act coding with a manual coding
 
 
 ## Related Claims
--
+
+- [DAC reliability varies by category: Informatives (especially negative evaluations and nonsense statements) code poorly](dac-reliability-varies-by-category-informatives-weak.md)
+- [Automatically coded dialogue acts distinguish male and female students' online communication](dac-detects-gender-differences-dialogue-acts.md)

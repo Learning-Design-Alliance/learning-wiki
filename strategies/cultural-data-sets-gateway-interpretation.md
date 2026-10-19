@@ -38,7 +38,8 @@ Following Lee, the module introduced symbolism through texts from the everyday w
 - recognizing symbols and articulating criteria for symbolism
 
 ## Related Strategies
-- 
+
+- [Culturally and Historically Responsive Literacy](culturally_and_historically_responsive_literacy.md)
 
 ## Examples
 -

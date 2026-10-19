@@ -43,4 +43,8 @@ Definitional statement of the model's central taxonomy, applying Piaget's assimi
 
 
 ## Related Claims
--
+
+- [Internalizing wiki information can yield emergent knowledge that was in neither the person's prior knowledge nor the wiki](emergent-knowledge-from-internalization.md)
+- [Externalizing knowledge into a wiki can itself produce individual learning through deeper processing](externalization-produces-individual-learning.md)
+- [Only medium-level incongruity between individual knowledge and wiki information causes cognitive conflict that motivates equilibration](medium-incongruity-inverted-u-cognitive-conflict.md)
+- [Topic valence is proposed to relate linearly to perceived cognitive conflict and interest in contributing](valence-linearly-relates-cognitive-conflict.md)

@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1814 entries** · 0 stable · 1814 in review · 0 drafts
+**1815 entries** · 0 stable · 1815 in review · 0 drafts
 
 ---
 
@@ -776,6 +776,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [iTalk-iSee](italk-isee.md) - iTalk-iSee is a participatory visual learning analytics tool developed by Hu, Wu, and Chen that codes and visualizes peer talk to support student reflection and regulation of discourse engagement.
 * [ITAS conversational instructor analytics agent](itas-conversational-instructor-analytics-agent.md) - ITAS is a conversational analytics agent that helps instructors and content developers query privacy-preserving aggregate learning-deployment data in natural language.
 * [ITSS](itss.md) - ITSS is a web-based intelligent tutoring system for grades K–8 that teaches students to recognize and use factual-text structures through animated modeling, self-paced practice, and immediate feedback.
+* [IUPUI ePortfolio HIP taxonomy: four attributes of high-impact ePortfolio practice at three ascending levels of impact](iupui-epportfolio-taxonomy-four-attributes.md) - The taxonomy identifies four attributes of high-impact ePortfolio practice: \"1.
 * [IXL Math](ixl-math.md) - IXL Learning's IXL Math is a personalized mathematics learning platform with adaptive skills, tutorials, diagnostics, analytics, and classroom-support tools for learners from PreK through Calculus.
 
 #### J {: #letter-j }

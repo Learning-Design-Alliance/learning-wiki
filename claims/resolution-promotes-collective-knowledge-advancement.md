@@ -43,4 +43,5 @@ The article's summary finding, stated by the authors as their overall conclusion
 
 
 ## Related Claims
--
+
+- [Students disagreed more directly with invisible out-of-group peers than with present groupmates](direct-disagreement-invisible-versus-present-peers.md)

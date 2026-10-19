@@ -17,7 +17,7 @@ sources:
 # Use information-exchange prompts in online PD discussion forums to elicit transactive discourse
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · no studies recorded yet
 
 ## Description
 When facilitating discussions in online asynchronous PD, structure prompts to specifically target the exchange of information between teachers rather than asking them to reflect individually. The article's transactivity analyses support this recipe: discussions showed higher levels of collaborative discourse resulting from prompts that specifically targeted the exchange of information over those that asked teachers to reflect about their content understanding or their classroom practice. Designers of asynchronous PD can therefore allocate prompt design toward interaction and information exchange to build collaborative community.
@@ -36,8 +36,14 @@ When facilitating discussions in online asynchronous PD, structure prompts to sp
 ### Target Learning Goals
 - Collaborative discourse and knowledge building in professional development
 
+## Claims
+
+- [Discussion prompts targeting the exchange of information produced higher levels of collaborative transactive discourse than prompts asking teachers to reflect on their content understanding or classroom practice.](../claims/information-exchange-prompts-higher-transactivity.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Facilitating Discourse (Online)](facilitating-discourse-online.md)
+- [Instructor Presence In Discussions](instructor-presence-in-discussions.md)
 
 ## Examples
 -

@@ -91,6 +91,7 @@ A school early-warning indicator and dashboard system that combines student atte
 
 - [Chicago Public Schools' school diagnostic data reports](chicago-public-schools-school-diagnostic-data-reports.md)
 - [Freshman Success](freshman-success.md)
+- [To&Through Project](tothrough-project.md)
 
 ## Key Sources
 - Cocuzza, B., Noakes, S., Aso, C., Vollavanh, A., Goldschmidt, L., and Bennett, K. (2026, August). From Data Silos to Student Success: The CICS and Innovare Co-Design Approach to AI-Driven Intervention. Digital Promise. https://doi.org/10.51388/20.500.12265/304

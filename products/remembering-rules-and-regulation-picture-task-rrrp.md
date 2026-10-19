@@ -26,7 +26,9 @@ A brief, direct assessment developed by Day et al. for measuring children's work
 - [Fall RRRP predicted spring reading outcomes, with Part 1 predicting decoding and comprehension and Part 2 predicting vocabulary and gains in comprehension and vocabulary](../claims/rrrp-parts-differentially-predict-reading-outcomes.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Extended 36-trial Red-Blue Test](extended-36-trial-red-blue-test.md)
+- [Head-Toes-Knees-Shoulders (HTKS) task](head-toes-knees-shoulders-htks-task.md)
 
 ## Key Sources
 - Day, Stephanie L.; Connor, Carol M. (2017). Examining the relations between self-regulation and achievement in third grade students. Assessment for Effective Intervention, 42(2), 97-109. https://doi.org/10.1177/1534508416670367

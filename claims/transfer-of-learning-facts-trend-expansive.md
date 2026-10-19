@@ -43,4 +43,5 @@ ANOVA on the transfer-of-learning measure in the tutoring experiment; only the t
 
 
 ## Related Claims
--
+
+- [Expansive framing increased spontaneous transfer of the diagram-drawing learning strategy (7 of 12 vs. 1 of 12 students)](expansive-framing-boosts-diagram-strategy-transfer.md)

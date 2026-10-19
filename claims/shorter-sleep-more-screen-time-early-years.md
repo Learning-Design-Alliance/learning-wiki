@@ -62,4 +62,9 @@ One of four cross-sectional studies (42,751 participants combined) in the sedent
 
 
 ## Related Claims
--
+
+- [Shorter sleep duration is associated with higher adiposity in children aged 0–4 years, though evidence quality is low](shorter-sleep-higher-adiposity-early-years.md)
+- [Shorter sleep duration is associated with higher injury risk in children aged 0–4 years, though evidence is limited (2 of 3 studies)](shorter-sleep-injury-risk-early-years.md)
+- [Evidence on sleep duration and cognitive development in children aged 0–4 years is mixed, with no consistent association](sleep-cognitive-development-mixed-early-years.md)
+- [Sleep duration shows no association with gross and fine motor skills in children aged 0–4 years](sleep-motor-development-null-early-years.md)
+- [A consistent bedtime routine is associated with better sleep outcomes in young children, with a dose-dependent relationship between nights per week of routine adherence and sleep benefits](bedtime-routine-dose-dependent-sleep-benefits.md)

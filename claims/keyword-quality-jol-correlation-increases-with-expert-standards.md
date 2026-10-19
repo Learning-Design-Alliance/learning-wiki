@@ -43,4 +43,5 @@ Planned contrast (weights 1 vs. −1) on intraindividual Goodman-Kruskal gamma c
 
 
 ## Related Claims
--
+
+- [Generating or comparing keywords had no substantial effect on posttest learning performance](keyword-generation-no-posttest-learning-effect.md)

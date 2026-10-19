@@ -43,4 +43,5 @@ First-stage confirmatory factor analysis on the BURN11 correlation matrix, with 
 
 
 ## Related Claims
--
+
+- [There was a significant indirect effect of Gf through Gc onto final learning performance, and the Gf→Gc→Learning model fit better than the reverse causal ordering](gf-through-gc-indirect-effect.md)

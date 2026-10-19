@@ -43,8 +43,10 @@ Self-report check in the IVR experiment using nine presence items and six realis
 
 
 ## Related Claims
+
 - [Higher proportions of hand-raising virtual classmates raise sixth-graders' perceived class performance level and register more hand-raisers in an IVR lesson](ivr-handraising-raises-perceived-class-performance.md) — related
 - [A 15-minute exposure to higher-performing virtual classmates did not significantly affect sixth-graders' dispositional domain-specific self-concept](no-dispositional-self-concept-effect-ivr.md) — related
 - [Students who perceived the class performance level as higher reported lower situational self-concept in the IVR classroom](higher-perceived-performance-lowers-situational-self-concept.md) — related
 - [A high proportion of high-performing classmates lowers sixth-graders' situational academic self-concept, an experimental BFLPE at the extreme contrast](bflpe-experimental-situational-self-concept.md) — related
 - [Students' perceived class performance level fully mediates the effect of classmates' hand-raising behavior on situational self-concept](perceived-performance-mediates-bflpe.md) — related
+- [The low- and high-coercion versions of NTool did not differ on perceived sociability or social presence](ntool-no-social-aspect-differences.md)

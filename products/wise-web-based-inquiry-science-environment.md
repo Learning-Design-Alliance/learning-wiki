@@ -27,7 +27,10 @@ WISE is a web-based science-inquiry authoring and learning platform developed by
 - [A Web-based collaborative inquiry project produces significant overall learning gains in science knowledge in secondary classrooms](../claims/web-based-collaborative-inquiry-significant-knowledge-gains.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Go-Lab ecosystem](go-lab-ecosystem.md)
+- [Virtual Collaborative Research Institute (VCRI) CSCL environment](virtual-collaborative-research-institute-vcri-cscl-environment.md)
+- [SCY-Lab](scy-lab.md)
 
 ## Key Sources
 - Annelies Raes, Tammy Schellens, and Bram De Wever. (2013). Web-based Collaborative Inquiry to Bridge Gaps in Secondary Science Education. Journal of the Learning Sciences. https://doi.org/10.1080/10508406.2013.836656

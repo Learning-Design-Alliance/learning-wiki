@@ -39,4 +39,5 @@ Transactivity analysis of teachers' interaction logs in course discussions of th
 
 
 ## Related Claims
--
+
+- [Role-based information asymmetry with infrared beaming encourages cross-team information exchange and collaborative discussion](role-asymmetry-beaming-promotes-cross-team-exchange.md)

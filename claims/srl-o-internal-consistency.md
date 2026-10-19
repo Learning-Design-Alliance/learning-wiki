@@ -43,4 +43,5 @@ Reliability estimation from the finalised CFA solution in the validation sample 
 
 
 ## Related Claims
--
+
+- [SRL-O subscales show convergent validity with corresponding MSLQ scales](srl-o-convergent-validity-mslq.md)

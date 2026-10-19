@@ -50,3 +50,4 @@ Simple main effects tests in the Results section comparing clear vs. unclear con
 - [Instructional clarity is a significant main effect on concept achievement, accounting for roughly half of score variance across measures](instructional-clarity-main-effect-concept-achievement.md) — the same study's overall main effect of clarity, which this finding qualifies
 - [Clarity and concept structure interact for defining and applying concepts, each accounting for about 40-44% of variance](clarity-concept-structure-interaction.md) — related
 - [Under unclear presentation, a more complex concept structure lessens students' ability to identify concepts](unclear-presentation-complex-structure-penalty.md)
+- [Simpler knowledge components are executed faster: correct application times rise from about 3-6 seconds for constant-constant KCs to 10-14 seconds for variable-variable KCs](kc-complexity-predicts-application-time.md)

@@ -17,7 +17,7 @@ sources:
 # Run the structural check on a synthetic dataset, using only permutations of itself, before release or before committing to a line of analysis
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article recommends its surrogate-based structural check as a cheap, early screening step for synthetic educational datasets. Because the computation "needs a synthetic dataset and permutations of itself", a data custodian can run it before release and a researcher before committing to an analysis, flagging synthetic cohorts whose weekly structure is implausibly flat without touching real data. It reaches part of what epistemic precision reaches, but only afterwards.
@@ -37,6 +37,13 @@ The article recommends its surrogate-based structural check as a cheap, early sc
 
 ### Target Learning Goals
 - trustworthy secondary use of learning-platform data for research on temporal cohort structure
+
+## Claims
+
+- [Real cohorts separate from marginal-preserving surrogates of themselves in all four years, while three of four synthetic cohorts do not](../claims/real-cohorts-separate-from-marginal-surrogates-synthetic-do-not.md) [+W]
+- [In a control experiment on data of known construction, the check is calibrated, can be passed, and separability from marginals is not fidelity](../claims/structural-check-calibrated-passable-separability-not-fidelity.md) [+W]
+- [Synthetic cohorts place week-to-week change in the term's examination weeks, which real cohorts do not](../claims/synthetic-cohorts-misplace-examination-week-structure.md) [+W]
+- [Synthetic cohorts reproduce the level and shape of the weekly β0 partition but vary 2.6–4.9 times less across the term than real cohorts at a common working point](../claims/synthetic-cohorts-understate-weekly-beta0-variation.md) [+W]
 
 ## Related Strategies
 - 

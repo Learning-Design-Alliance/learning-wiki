@@ -24,7 +24,8 @@ A publicly available tract-level dataset and interactive mapping tool created by
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Stanford Educational Data Archive (SEDA)](stanford-educational-data-archive-seda.md)
 
 ## Key Sources
 - Raj Chetty, John N. Friedman, Nathaniel Hendren, Maggie R. Jones, and Sonya R. Porter. (2018). The Opportunity Atlas: Mapping the Childhood Roots of Social Mobility. NBER Working Paper No. 25147. http://www.nber.org/papers/w25147

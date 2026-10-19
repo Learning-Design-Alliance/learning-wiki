@@ -27,7 +27,8 @@ STEMHub is a modular AI-enhanced personalised and adaptive learning platform dev
 - [Fine-tuning LLMs on Nigerian Pidgin English improves linguistic naturalness and cultural appropriateness: native speakers rated fine-tuned model outputs as understandable and context-aware](../claims/pidgin-fine-tuning-improves-linguistic-alignment.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [MALA (Modular Artificial Learning Assistance)](mala-modular-artificial-learning-assistance.md)
 
 ## Key Sources
 - Nwogo, E. U., Ihianle, I. K., Machado, P., Bird, J. J., Lotfi, A., Shuaib, A. A., Akinwumi, I. I., & Oluranti, J. (2026). An AI-Based Adaptive Learning Platform for Multilingual and Low-Resource Educational Contexts: A Case Study on Nigeria. arXiv. https://arxiv.org/abs/2608.15738. [doi:10.48550/arxiv.2608.15738](https://doi.org/10.48550/arxiv.2608.15738)

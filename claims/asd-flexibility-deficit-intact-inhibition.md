@@ -43,4 +43,10 @@ Narrative review of clinical literature. Cognitive inflexibility in ASD "is asso
 
 
 ## Related Claims
+
 - The four published neuroimaging studies of cognitive flexibility in ASD report inconsistent activation differences, with altered profiles possibly compensatory — related
+- [Cognitive flexibility develops protractedly: sharp increase between 7 and 9 years, largely mature by age 10, peaking between 21 and 30](protracted-cognitive-flexibility-development.md)
+- [Cognitive flexibility uniquely predicts literacy achievement in Grades 4 and 6, above and beyond fluid intelligence, attention, inhibitory control, working memory, and planning](cognitive-flexibility-unique-predictor-literacy-grades-4-6.md)
+- [Meta-analyses identify a distributed frontoparietal network for flexible switching including vlPFC, dlPFC, ACC, right AI, parietal and subcortical regions](frontoparietal-network-flexible-switching.md)
+- [Neural variability and flexibility may underlie cognitive flexibility, with an optimal level required across the lifespan](neural-flexibility-supports-cognitive-flexibility.md)
+- [Inhibitory control is the EDF subdomain most repeatedly linked to ADHD](inhibitory-control-repeatedly-adhd-related.md)

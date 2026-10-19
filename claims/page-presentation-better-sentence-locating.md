@@ -43,4 +43,7 @@ Experiment 1, a controlled lab experiment in which 54 undergraduates read a 574-
 
 
 ## Related Claims
--
+
+- [Only Page readers tended to locate boundary-zone sentences more accurately than central-zone sentences](boundary-zone-locating-advantage-page-only.md)
+- [The effect of page-break response cues on locating accuracy depends on the presentation mode read: they help Page readers and hurt Scroll readers](page-break-response-cues-interaction.md)
+- [Reading time did not differ between Page and Scroll, though Page readers tended to backtrack more](reading-time-null-backtracking-tendency.md)

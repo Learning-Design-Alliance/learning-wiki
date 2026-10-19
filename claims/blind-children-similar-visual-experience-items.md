@@ -43,4 +43,5 @@ Source-modality items of the non-visual ToM task in 12 blind and 21 sighted chil
 
 
 ## Related Claims
--
+
+- [RTPJ selectivity for mental state content does not differ between blind and sighted children](rtpj-selectivity-similar-blind-sighted-children.md)

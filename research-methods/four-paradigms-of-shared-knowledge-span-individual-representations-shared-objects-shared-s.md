@@ -24,7 +24,8 @@ The editorial organizes CSCL analyses of shared knowledge into four paradigms sp
 ### Claims
 
 ## Related Research Methods
--
+
+- [Three planes of learning in CSCL: individual, small-group, and community](three-planes-of-learning-in-cscl-individual-small-group-and-community.md)
 
 ## Key Sources
 - Gerry Stahl & Friedrich Hesse. (2009). Paradigms of shared knowledge. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-009-9075-7

@@ -17,7 +17,7 @@ sources:
 # Steer an antagonistic agent with point-level tagging and stance-level framing
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends giving designers explicit mechanisms to steer agent pushback: "(1)point-level tagging, in which they label each pushback point as useful, not useful, or with a custom tag, and discard irrelevant ones; and (2)stance-level framing, in which two optional frames declare the designer's position, namely a Consensus frame for decisions to consolidate and a Command frame for areas inviting additional pressure." These mechanisms let designers stabilize emerging directions while deliberately exposing them to further critique and articulate trade-offs. In the study, 14 of 15 participants used the frames.
@@ -39,6 +39,10 @@ The article recommends giving designers explicit mechanisms to steer agent pushb
 
 ### Affordances
 - Constructive Conflict Agonistic Pluralism Framework
+
+## Claims
+
+- [The antagonistic agent surfaced a broader set of stakeholder concerns than novice designers reached on their own](../claims/antagonistic-agent-broadens-stakeholder-coverage.md) [+W]
 
 ## Related Strategies
 - 

@@ -40,6 +40,8 @@ In its conclusion the report recommends future directions for advancing platform
 - [Four ecosystem recommendations: experiment with currency forms, protect time for inquiry, include everyone in team learning, and invest in adaptive platforms](four-micro-credential-ecosystem-recommendations.md)
 - [Pursue continuous collaboration between digital learning platform providers and school districts, with teacher training, to interconnect platform use with instruction](provider-district-collaboration-for-dlp-use.md)
 - [Design classroom-embedded experiments as small, focused, theory-driven manipulations](focused-theory-driven-embedded-manipulations.md)
+- [Research on composite instructional designs should connect studies via a common theoretical model and may exploit machine-learning-based process data](common-model-and-ml-methods-for-composite-designs.md)
+- [Use identified KAM social practices to guide collaborative platform features supporting teacher adoption](platform-features-guided-by-kam-practices.md)
 
 ## Examples
 -

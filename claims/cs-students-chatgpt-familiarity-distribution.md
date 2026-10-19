@@ -43,5 +43,7 @@ Descriptive survey result from Question 2 of the questionnaire completed by 430 
 
 
 ## Related Claims
+
 - [Familiarity with ChatGPT is positively correlated with frequency of academic use](chatgpt-familiarity-correlates-academic-use.md) — related
 - [A majority of surveyed MSc computer science students had never used ChatGPT for academic purposes](msc-cs-students-rarely-use-chatgpt-academically.md) — related
+- [African and Asian students did not differ significantly in their answers about ChatGPT](no-background-difference-in-chatgpt-opinions.md)

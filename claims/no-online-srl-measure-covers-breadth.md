@@ -43,4 +43,5 @@ The authors' narrative review of existing online SRL questionnaires (Table 1 com
 
 
 ## Related Claims
--
+
+- [The SRL-O supports both ten lower-order subscales and two superordinate factors (motivational beliefs and learning strategies)](srl-o-bifactor-two-superordinate-factors.md)

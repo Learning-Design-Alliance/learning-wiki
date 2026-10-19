@@ -43,4 +43,6 @@ In the seven-day experience-sampling study of twelve visually impaired high scho
 
 
 ## Related Claims
--
+
+- [Students with visual impairments rated leisure and structured recreation in other locations as their most enjoyable activities](leisure-other-locations-most-enjoyable.md)
+- [Most Digital Café participants had home Internet but no one to help with everyday computer learning needs](cafe-participants-home-internet-no-help.md)

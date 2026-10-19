@@ -62,4 +62,6 @@ Separate ANOVA on accuracy in the auditory modality of the same inferential word
 
 
 ## Related Claims
--
+
+- [Linguistic group and perceptual modality show a significant disordinal interaction in metacognition: Arabic speakers monitor better in the auditory modality, Chinese speakers in the visual modality](disordinal-group-modality-metacognition-interaction.md)
+- [Metacognitive sensitivity (meta-d') in the visual modality is highest among Chinese speakers and lowest among Arabic speakers, with no group differences in the auditory modality](writing-script-visual-modality-metacognitive-sensitivity.md)

@@ -17,7 +17,7 @@ sources:
 # Translate findings on early adversity and brain development into public health efforts
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The review closes by arguing that its findings on early adversity and the developing brain should inform public health efforts. It states: "We conclude by discussing implications of this work for public health efforts and highlight important directions for the field." The strategy is to use evidence on how maltreatment and institutional deprivation affect neurodevelopment, and on the effectiveness of early intervention, to guide population-level prevention and policy, while also directing future research priorities.
@@ -35,6 +35,12 @@ The review closes by arguing that its findings on early adversity and the develo
 
 ### Target Learning Goals
 - preventing neurodevelopmental difficulties arising from early adversity
+
+## Claims
+
+- [Exposure to adverse early circumstances affects the developing brain in ways that increase risk for later problems](../claims/adversity-affects-developing-brain-increasing-risk.md) [+W]
+- [Children exposed to early adversity are at increased risk for a broad range of developmental difficulties affecting both cognitive and emotional adjustment](../claims/early-adversity-increases-developmental-risk-cognitive-emotional.md) [+W]
+- [Early intervention can remediate neurodevelopmental consequences associated with maltreatment or institutional rearing](../claims/early-intervention-remediates-adversity-neurodevelopmental-consequences.md) [+W]
 
 ## Related Strategies
 - 

@@ -24,7 +24,9 @@ A 38-item self-report survey developed and used by Martin et al. to measure onli
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [38-item GenAI motivation and engagement survey instrument (nine constructs)](38-item-genai-motivation-and-engagement-survey-instrument-nine-constructs.md)
+- [ACE in Higher Education (ACE-HE)](ace-in-higher-education-ace-he.md)
 
 ## Key Sources
 - Martin, F., & Bolliger, D. U. (2018). Engagement Matters: Student Perceptions on the Importance of Engagement Strategies in the Online Learning Environment. Online Learning, 22(1). https://doi.org/10.24059/olj.v22i1.1092

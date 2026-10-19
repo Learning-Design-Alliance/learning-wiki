@@ -43,4 +43,8 @@ The article describes its experimental design: "By manipulating the physical pro
 
 
 ## Related Claims
--
+
+- [Given ambiguous evidence, preschoolers select informative interventions in their exploratory play (Experiment 1)](preschoolers-select-informative-interventions-ambiguous-evidence.md)
+- [Given ambiguous evidence, preschoolers design informative interventions in their exploratory play (Experiment 2)](preschoolers-design-informative-interventions-ambiguous-evidence.md)
+- [Given unambiguous evidence, preschoolers play indiscriminately and rarely try to isolate candidate causes](preschoolers-play-indiscriminately-unambiguous-evidence.md)
+- [Preschoolers recognize action possibilities (affordances) that allow them to isolate variables when there is information to be gained](preschoolers-recognize-affordances-for-variable-isolation.md)

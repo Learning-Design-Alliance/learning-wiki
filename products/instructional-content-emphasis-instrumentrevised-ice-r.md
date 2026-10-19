@@ -13,7 +13,7 @@ generated:
 # Instructional Content Emphasis Instrument–Revised (ICE-R)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A multidimensional classroom-observation instrument developed by Swanson et al. for coding and evaluating elementary reading instruction, including instructional content, grouping, student engagement, and instructional quality.
@@ -24,8 +24,11 @@ A multidimensional classroom-observation instrument developed by Swanson et al. 
 
 ### Claims
 
+- [Phonics/word study occupied the largest share of observed resource-room reading instruction (32%) at high-average quality, but a quarter was rated weak](../claims/word-study-largest-component-high-average-quality.md) [+W]
+
 ## Related Products and Programmes
--
+
+- [Adapted ATES low-inference observation instrument for coding explicit and implicit SRL instruction](adapted-ates-low-inference-observation-instrument-for-coding-explicit-and-implicit-srl-ins.md)
 
 ## Key Sources
 - Swanson, E. A., & Vaughn, S. (2010). An Observation Study of Reading Instruction Provided to Elementary Students With Learning Disabilities in the Resource Room. Psychology in the Schools, 47(5). https://doi.org/10.1002/pits.20484

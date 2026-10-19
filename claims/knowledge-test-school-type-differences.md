@@ -43,4 +43,7 @@ ANOVA on the four-item VR-only knowledge test (experimental condition, 108 stude
 
 
 ## Related Claims
--
+
+- [Theory of Mind skills differed substantially across the three populations, with German children scoring highest and Ovambo children lowest](theory-of-mind-scores-vary-across-populations.md)
+- [School type significantly predicted change in environmental-protection attitudes, with academic-track students changing more than combined-school students](school-type-predicts-uss-attitude-change.md)
+- [The VR application did not increase students' interest in biodiversity, and only the academic-track control group showed a significant interest increase](vr-did-not-increase-interest.md)

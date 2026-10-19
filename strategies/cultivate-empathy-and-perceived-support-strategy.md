@@ -17,7 +17,7 @@ sources:
 # Cultivate adolescent empathy and perceived social support to promote prosocial behavior
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (5 for) · 1 study (1 associational), `q3` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The article's practical implication is that education should focus on "cultivating the empathy ability of children and adolescents, especially for adolescents learning in boarding schools", using stories and learning content from Chinese culture, while school administrators strengthen the school's support system so students feel a positive psychological atmosphere. The strategy pairs empathy cultivation with building peer and teacher support environments.
@@ -35,6 +35,14 @@ The article's practical implication is that education should focus on "cultivati
 
 ### Target Learning Goals
 - Social competence and prosocial behavior
+
+## Claims
+
+- [Adolescents' empathy is significantly positively correlated with prosocial behavior (r = 0.333)](../claims/empathy-prosocial-behavior-positive-correlation-adolescents.md) [+W]
+- [Adolescents' empathy is significantly positively correlated with social support (r = 0.164)](../claims/empathy-social-support-positive-correlation-adolescents.md) [+W]
+- [Social support partially mediates the relationship between empathy and prosocial behavior](../claims/social-support-partial-mediator-empathy-prosocial.md) [+W]
+- [Social support is significantly positively correlated with adolescents' prosocial behavior (r = 0.206)](../claims/social-support-prosocial-behavior-positive-correlation.md) [+W]
+- [Only the subjective (perceived) support dimension of social support mediates empathy and prosocial behavior](../claims/subjective-support-dimension-mediation.md) [+W]
 
 ## Related Strategies
 - 

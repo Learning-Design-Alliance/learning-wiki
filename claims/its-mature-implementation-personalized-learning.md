@@ -44,6 +44,7 @@ The review's Research Question 6 synthesis of nine ITS studies, which the review
 
 
 ## Related Claims
+
 - [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — a narrower finding that bears on this claim
 - [Most ITS applications augment existing mathematics teaching practices rather than transform instruction, indicating technological sophistication does not independently determine pedagogical value](its-applications-augment-not-transform.md) — reports the opposite
 - AI presents four solution types for overcoming situated learning barriers: adaptive systems, intelligent tutoring in authentic scenarios, administrative automation, and data-driven teacher support — related
@@ -52,3 +53,4 @@ The review's Research Question 6 synthesis of nine ITS studies, which the review
 - Research on AI in STEM education evolved through three stages, from proof-of-concept learning systems to generative-AI-centered adaptive instruction (2015–2025) — related
 - [CA prototype technologies shifted from rule-based and deterministic systems toward open-source tools, pre-trained LLMs, and retrieval-augmented generation pipelines](ca-technology-shift-toward-llm-rag.md) — related
 - [ChatGPT-generated synthesis claims benefits for personalized tutoring, automated essay grading, language translation, interactive learning, and adaptive learning, citing supporting studies](chatgpt-education-benefits-taxonomy.md) — related
+- [The AMOEBA system's automated collaboration-pairing recommendations led to improved learning and more sophisticated programming by students](amoeba-live-analytics-improved-learning-pairing.md)

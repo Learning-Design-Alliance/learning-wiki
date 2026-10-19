@@ -17,7 +17,7 @@ sources:
 # Design CSCL environments for older learners that support memory reactivation as well as constructive and interactive engagement
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Based on the finding that older adults engaged interactively but needed to reactivate memory before elaborating, the article states that "older adults may require the reactivation of memory to engage in elaboration" and that the results "offer insights into designing effective CSCL environments tailored to the learning needs of older adults." The strategy is to pair concept-map-based collaboration with support for recall of studied material, since older adults' interactive episodes repeatedly involved re-reading the text.
@@ -38,6 +38,11 @@ Based on the finding that older adults engaged interactively but needed to react
 
 ### Affordances
 - Collaborative Memory Mechanisms Cross Cuing Re Exposure Error Pruning
+
+## Claims
+
+- [Age groups differ in ICAP engagement distribution: younger adults engage more in active mode, older adults more in constructive and interactive modes, during collaborative concept-map learning](../claims/icap-engagement-distribution-age-differences.md) [+M]
+- [ENA reveals different utterance co-occurrence structures by age: older adults show a stronger active–interactive connection while younger adults' constructive–interactive connection is not statistically confirmed](../claims/ena-network-structure-age-differences-icap.md) [+M]
 
 ## Related Strategies
 - 

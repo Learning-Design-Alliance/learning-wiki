@@ -38,7 +38,8 @@ Because children who bully tend to pick on children with low status in the socia
 - Displaying confident behaviours when defending peers
 
 ## Related Strategies
-- 
+
+- [Cast a popular child in the defender role-play](popular-child-as-defender-roleplay.md)
 
 ## Examples
 -

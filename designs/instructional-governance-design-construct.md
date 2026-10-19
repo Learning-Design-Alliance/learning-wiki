@@ -45,6 +45,7 @@ The article defines instructional governance as "the designed allocation of peda
 ## Related Designs
 
 - [Relational bridge: AI-enabled pedagogical accompaniment as temporary, directional, bounded micro-mediation toward human engagement](relational-bridge-pedagogical-accompaniment.md)
+- [Auditability principle and the seven-part anatomy of an agentic workflow turn](auditability-principle-seven-part-workflow-anatomy.md)
 
 ## Examples
 -

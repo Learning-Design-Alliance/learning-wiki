@@ -48,4 +48,3 @@ An fMRI study using an appetitive go/no-go variant with happy and calm face cues
 - [Task-irrelevant negative images disrupt no-go accuracy specifically in early-mid adolescence](task-irrelevant-negative-images-disrupt-early-adolescent-inhibition.md) — related
 - [Task-relevant emotions affect response inhibition more strongly than task-irrelevant emotions, especially in young children](task-relevant-emotions-stronger-response-inhibition-effect.md) — related
 - [Age correlates with detection performance: hits and d′ increase and false alarms decrease with age](age-correlates-detection-performance.md) — related
-- [Sustained attention performance (hits, false alarms, and sensitivity d′) continues to improve after age 12 through early adulthood](sustained-attention-improves-after-age-12.md) — related

@@ -12,7 +12,7 @@ generated:
 # Taxonomy of five computational thinking aspects with 13 sub-aspects
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 From a review of 28 manuscripts defining computational thinking, the authors identified five key CT aspects in the context of modeling: decomposing problems so they are computationally solvable, creating artifacts using algorithmic thinking, generating/organizing/interpreting data, testing and debugging, and making iterative refinements. Thirteen sub-aspects were synthesized, e.g., parameterizing relevant elements and encoding them into executable algorithmic form. Generic features like creativity and collaboration, disposition features, and overly broad features such as abstraction were deliberately excluded.
@@ -22,6 +22,8 @@ From a review of 28 manuscripts defining computational thinking, the authors ide
 - **Taxonomy of five computational thinking aspects with 13 sub-aspects derived from a review of 28 manuscripts**: From a review of 28 manuscripts defining computational thinking, the authors identified five key CT aspects in the context of modeling: decomposing problems so they are computationally solvable, creating artifacts using algorithmic thinking, generating/organizing/interpreting data, testing and debugging, and making iterative refinements. Thirteen sub-aspects were synthesized, e.g., parameterizing relevant elements and encoding them into executable algorithmic form. Generic features like creativity and collaboration, disposition features, and overly broad features such as abstraction were deliberately excluded. (Namsoo Shin et al. (2022))
 
 ### Claims
+
+- [Problem decomposition, artifact creation, data practices, and testing/debugging appear in all 28 reviewed CT manuscripts, while iterative refinement appears in 17](../claims/ct-aspect-coverage-across-ct-literature.md) [+W]
 
 ## Related Research Methods
 -

@@ -43,6 +43,8 @@ The abstract describes the study's central contribution: a "general process for 
 
 
 ## Related Claims
+
 - [RTE provides an assessment of test-taking effort down to the level of individual item responses](rte-assesses-effort-at-item-response-level.md) — related
 - [RTE is limited to selected-response items that must be answered before advancing](rte-limited-to-answered-selected-response-items.md) — related
 - [Test takers generally disengage during only a portion of their items, and these disengaged responses reflect a momentary cessation of measurement](disengagement-portion-of-items-momentary-cessation.md) — related
+- [The general effort-measurement process is illustrated with data from a large-scale assessment program](effort-process-illustrated-large-scale-assessment-data.md)

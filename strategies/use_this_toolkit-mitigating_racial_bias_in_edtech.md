@@ -72,6 +72,7 @@ The toolkit treats bias mitigation as a design discipline rather than a complian
 - [Address core ethical challenges—data privacy, algorithmic fairness, and transparency—when deploying AI-driven personalized learning](ethical-safeguards-ai-personalized-learning.md)
 - [Mitigation strategies pairing each AI-DSS challenge with a targeted countermeasure](ai-dss-challenge-mitigation-strategies.md)
 - [Design verification and mutual-evaluation assessments for fairness and feasibility: alternative response modes, equitable AI access, selective documentation, and planned workload](fair-feasible-ai-assessment-design-strategies.md)
+- [Jointly investigate fairness in machine learning with core ML researchers when deploying adaptive collaborative learning support](cscl-ml-fairness-joint-investigation.md)
 
 ## Related Elements
 - [Assess Performance](../elements/assess-performance.md) — disaggregated outcome evaluation is the toolkit's core verification step

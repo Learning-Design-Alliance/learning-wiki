@@ -43,4 +43,5 @@ The editorial reports, from Friesen's article in the issue, that student discour
 
 
 ## Related Claims
--
+
+- [New teachers introduced to Knowledge Forum first tended to use it for teacher-directed instruction rather than collaborative knowledge building](premature-knowledge-forum-lethal-mutation.md)

@@ -45,7 +45,7 @@ Contextualization is the element in which new ideas, texts, or tasks are framed 
 - [Application](application.md)
 
 ## Patterns That Use This Element
-- [Goal-Based Scenarios](../patterns/goal-based-scenarios.md)
+- [Goal-Based Scenarios](../patterns/anchored-instruction.md)
 - [Problem-Based Learning](../patterns/problem-based-learning.md)
 
 ## Examples

@@ -43,4 +43,6 @@ Prototype evaluation of the Wordometer app on the SMI iView X eye tracker: eye m
 
 
 ## Related Claims
--
+
+- [Mobile eye tracking distinguishes five document types with 99 percent user-dependent and 74 percent user-independent recognition from about one minute of gaze data](document-type-recognition-mobile-eye-tracking.md)
+- [Eye tracking can identify which words a second-language reader had trouble understanding](eye-tracking-identifies-difficult-words-l2-reading.md)

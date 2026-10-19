@@ -43,6 +43,7 @@ Cohort tracking of the CPS graduating class of 2015, the most recent cohort with
 
 
 ## Related Claims
+
 - [College completion rates among immediate enrollees varied widely by community area, ranging from 24 to 74 percent for the class of 2013](college-completion-varied-widely-by-community-area.md) — related
 - Among 2014 CPS graduates who immediately enrolled in college, 46% completed a credential within six years, with large gaps by enrollment pathway — related
 - [College completion among immediate enrollees in the CPS class of 2015 shows large race/ethnicity and gender gaps, with fewer than a third of Black and Latino young men completing a bachelor's degree](cps-college-completion-race-gender-gaps.md) — related
@@ -61,3 +62,4 @@ Cohort tracking of the CPS graduating class of 2015, the most recent cohort with
 - [College was the most prevalent postsecondary pathway selection, with CTE/non-CTE differences narrowing over time](pathway-selection-college-prevalent-cte-gaps-narrowing.md) — related
 - [Students meeting the continuous four-term persistence definition completed college at higher rates than students meeting the third-semester definition, for both bachelor's and community college enrollees](persisters-completion-rates-by-definition.md) — related
 - [Community college credential completion rates are low and have slightly declined, with markedly lower rates for black and Hispanic students](low-community-college-completion-rates-declining.md) — related
+- [Among the CPS class of 2009, 76 percent enrolled in college within six years, and delayed entry was concentrated among two-year starters rather than four-year starters](delayed-enrollment-concentrated-two-year-starters-2009.md)

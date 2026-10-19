@@ -12,7 +12,7 @@ generated:
 # Jan van Aalst's seven-code discourse coding scheme
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (1 review, 1 qualitative), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 A coding scheme developed to analyze asynchronous group discourse in Knowledge Forum and to identify mechanisms explaining between-group differences in summary-note performance. As printed, "It includes seven main codes: Community, Ideas, Questions, Information, Links, Agency, and Meta-Discourse." Each of 33 subcodes was rated low, medium, or high for its relevance to knowledge sharing, knowledge construction, and knowledge creation. Notes were coded in Atlas-ti QDA software (399 notes, approximately 60,000 words), with inter-rater reliability of .82 (Cohen kappa) on the mode-relevance ratings.
@@ -22,7 +22,10 @@ A coding scheme developed to analyze asynchronous group discourse in Knowledge F
 - **Discourse coding scheme with seven main codes and 33 subcodes**: A coding scheme developed to analyze asynchronous group discourse in Knowledge Forum and to identify mechanisms explaining between-group differences in summary-note performance. As printed, "It includes seven main codes: Community, Ideas, Questions, Information, Links, Agency, and Meta-Discourse." Each of 33 subcodes was rated low, medium, or high for its relevance to knowledge sharing, knowledge construction, and knowledge creation. Notes were coded in Atlas-ti QDA software (399 notes, approximately 60,000 words), with inter-rater reliability of .82 (Cohen kappa) on the mode-relevance ratings. (Jan van Aalst (2009))
 
 ### Claims
+
 - [Community and Questions codes most strongly separated the four groups, especially Group A from the others](../claims/community-questions-codes-separate-groups.md) [+M]
+- [A coding scheme distinguishing knowledge creation from knowledge sharing and construction can differentiate student groups' engagement in knowledge creation](../claims/knowledge-creation-coding-scheme-distinguishes-groups.md) [+W]
+- [Group A's discourse contained the idea units needed for knowledge construction but only rare rise-above moves, indicating a threshold rather than well-developed knowledge-creation discourse](../claims/group-a-threshold-knowledge-creation-discourse.md) [+W]
 
 ## Related Research Methods
 -

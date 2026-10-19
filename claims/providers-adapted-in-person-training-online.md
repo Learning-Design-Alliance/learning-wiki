@@ -43,7 +43,9 @@ Reported in the brief's key takeaways from the eight-state discussion groups. Ma
 
 
 ## Related Claims
+
 - [Apprenticeship expansion into nontraditional industries such as healthcare and education accelerated during the pandemic](nontraditional-industry-expansion-accelerated.md) — related
 - [Online apprenticeship learning offers greater flexibility than in-person learning despite implementation challenges for hybrid or remote options](online-apprenticeship-learning-flexibility-tradeoffs.md) — related
 - [State apprenticeship administrators leveraged technology to pivot work online, streamline processes, and expand reach and responsiveness during the pandemic](technology-pivot-expanded-apprenticeship-agency-reach.md) — related
 - Prior use of adaptive courseware in blended STEM courses eased the transition to fully remote instruction for instructors and students — related
+- [Virtual pre-K observations posed substantial logistical challenges despite being practical](virtual-pre-k-observations-logistical-challenges.md)

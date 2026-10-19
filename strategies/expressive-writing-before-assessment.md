@@ -62,8 +62,10 @@ Test anxiety impairs performance by occupying working memory with task-irrelevan
 6. **Repeat across assessments** — treat it as a reusable [Assessment](../elements/assessment.md) routine rather than a one-time fix, so students internalize the strategy for independent use.
 
 ## Related Strategies
+
 - [3-2-1 Reflection](3-2-1_reflection.md) — a structured reflection format; expressive writing differs in being open-ended and emotion-focused rather than content-focused
 - [5-Minute Writing Conferences](5-minute_writing_conferences.md) — another brief, targeted writing routine, but dialogic and instructional rather than private and regulatory
+- [Use expressive writing before math situations to offload worry and protect working memory resources](expressive-writing-before-math.md)
 
 ## Examples
 - **Ramirez & Beilock (2011) classroom study** — Ninth-grade students in a U.S. high school wrote about their exam worries for 10 minutes before their first final exam; anxious students' performance improved such that the anxiety–performance relationship was eliminated, with effects persisting on a follow-up exam.

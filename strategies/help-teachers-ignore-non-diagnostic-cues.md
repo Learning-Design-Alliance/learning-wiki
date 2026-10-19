@@ -17,7 +17,7 @@ sources:
 # Help teachers ignore non-diagnostic cues to improve judgment accuracy of students' monitoring
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (2 for, 2 mixed) · 2 studies (1 causal, 1 associational), `q2`–`q3` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 The article recommends targeting teachers' cue use rather than only their knowledge: 'To further improve teachers' ability to accurately judge students' monitoring, it may be worthwhile to help teachers ignore non-diagnostic cues.' The strategy builds on the Lens Model assumption that judgments are more accurate when diagnostic cues are used and non-diagnostic cues are ignored, and on the study's finding that even accurate judgments involved non-diagnostic cues such as students' IQ and reading self-concept. It is offered as a direction for improving teachers' judgment accuracy of students' monitoring skills.
@@ -35,6 +35,13 @@ The article recommends targeting teachers' cue use rather than only their knowle
 
 ### Target Learning Goals
 - improving teachers' judgment accuracy of students' monitoring skills
+
+## Claims
+
+- [Teachers judge more accurately with only diagnostic cues than with a mix of diagnostic and non-diagnostic cues](../claims/non-diagnostic-cues-hinder-teacher-judgment-accuracy.md) [+M]
+- [Teachers' judgments of students' text comprehension are significantly more accurate when diagnostic performance cues are available than when only non-diagnostic student cues are available](../claims/diagnostic-cues-improve-teacher-judgment-accuracy.md) [+M]
+- [A brief cue-diagnosticity intervention did not significantly improve teachers' judgment accuracy, presumably because accuracy was already relatively high](../claims/diagnosticity-intervention-no-accuracy-gain.md) [~M]
+- [When making accurate judgments, teachers used diagnostic cues to a greater extent, but also used non-diagnostic cues (IQ and reading self-concept)](../claims/accurate-judgments-greater-diagnostic-cue-use-plus-nondiagnostic.md) [~W]
 
 ## Related Strategies
 - 

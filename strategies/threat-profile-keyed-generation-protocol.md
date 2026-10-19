@@ -17,7 +17,7 @@ sources:
 # Select the variant-generation prompting protocol by deployment threat profile: zero-shot or structured CoT for construct fidelity, few-shot or dimension-preserving generation for surface separation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends that institutions deploying AIAA-style variant generation choose a prompting protocol keyed to the application's threshold profile. Where "construct fidelity is paramount — high-stakes credentialling — zero-shot or structured chain-of-thought is the safest default", because these deliver the highest construct equivalence and tightest readability dispersion. Where the threat is lexical copy-paste in large-enrolment formative assessment, few-shot anchoring or dimension-preserving constrained generation buys surface separation at an equivalence cost that downstream rubric validation must absorb.
@@ -36,8 +36,14 @@ The article recommends that institutions deploying AIAA-style variant generation
 ### Target Learning Goals
 - integrity-bearing per-student assessment variant generation without surveillance
 
+## Claims
+
+- [Few-shot anchoring trades surface diversity against construct equivalence and readability parity, with each direction significant at p = 0.004 relative to zero-shot](../claims/few-shot-anchoring-three-way-tradeoff.md) [+W]
+- [Under illustrative property thresholds, no prompting strategy passes all measured AIAA properties in every model-blueprint cell; few-shot anchoring passes only 2 of 9 cells](../claims/threshold-gating-no-strategy-fully-passes.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Translate deductive coding rubrics into structured zero-shot prompts to compare LLM coding against human coding](zero-shot-prompt-codebook-translation-strategy.md)
 
 ## Examples
 -

@@ -18,7 +18,7 @@ sources:
 # FEIP
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (2 design), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 A Heising-Simons Foundation-funded public-private partnership that builds parents' and professionals' capacity for family engagement and promotes educational outcomes for low-income immigrant children from birth through age 8 in California's San Mateo and Santa Clara counties.
@@ -29,8 +29,13 @@ A Heising-Simons Foundation-funded public-private partnership that builds parent
 
 ### Claims
 
+- [The Heising-Simons Foundation funded family engagement providers to develop, test, and integrate research-based early math projects within existing family engagement programs](../claims/heising-simons-funded-early-math-family-engagement-projects.md) [+W]
+- [FEIP was associated with improvements in interagency collaboration and organizational capacity to support family engagement](../claims/feip-interagency-collaboration-capacity-improvements.md) [+W]
+
 ## Related Products and Programmes
--
+
+- [YMCA of Silicon Valley early math project](ymca-of-silicon-valley-early-math-project.md)
+- [Milpitas Early Learning Transitions Model](milpitas-early-learning-transitions-model.md)
 
 ## Key Sources
 - Dana Petersen, Megan Shoji, Adam Dunn, Natasha Nicolai. (2016). Family Engagement Impact Project (FEIP): Phase II Evaluation Report. Oakland, CA: Mathematica Policy Research. https://www.mathematica.org/publications/feip

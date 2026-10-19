@@ -38,7 +38,8 @@ A Stanford Education Data Archive dataset providing district-level estimates of 
 - [SEDA growth estimates show differences from common-assessment-based estimates](../claims/seda-growth-estimates-show-differences.md) [~W]
 
 ## Related Products and Programmes
--
+
+- [The Opportunity Atlas](the-opportunity-atlas.md)
 
 ## Key Sources
 - Megan Kuhfeld, Thurston Domina, Paul Hanselman. (2019). Validating the SEDA measures of district educational opportunities via a common assessment. AERA Open 5(2). https://www.nwea.org/research/publication/validating-the-seda-measures-of-district-educational-opportunities-via-a-common-assessment/

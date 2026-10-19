@@ -43,5 +43,8 @@ In an illustrative study of students in India, Manu Kapur applied Lag-sequential
 
 
 ## Related Claims
+
 - [Epistemic network analysis provides a better account of temporal patterns between socio-cognitive events than coding-and-counting](ena-outperforms-coding-and-counting-temporality.md) — related
 - [Video review produces more structured reflective behavior patterns, with modality-specific video interaction sequences](video-review-structured-reflective-behavior-patterns.md) — a narrower finding that bears on this claim
+- [Sequential analysis methods for discussion forums avoid the loss of sequential interaction information in coded-posting statistics](sequential-analysis-preserves-interaction-information.md)
+- [Sequential analysis of discourse reveals meaning-making processes in small-group CSCL interactions](sequential-analysis-of-small-group-cognition.md)

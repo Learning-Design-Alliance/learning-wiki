@@ -43,4 +43,6 @@ Analysis of coded selection reasons in the 36 think-aloud protocols: linguistic 
 
 
 ## Related Claims
--
+
+- [The most prevalent verbalization type was labeling text parts as important without stating any reason for selection](labeling-text-parts-most-prevalent-verbalization.md)
+- [Tenth-graders show few signs of global task awareness when selecting text fragments, rarely rereading or deeply processing task instructions](few-signs-global-task-awareness-selection.md)

@@ -43,7 +43,8 @@ The AI-guided PD comprised ten asynchronous modules completed across one academi
 - [Simulated Student Reasoning Pck Rehearsal](../claims/simulated-student-reasoning-pck-rehearsal.md) [+M]
 
 ## Related Designs
-- 
+
+- [Social capital elements as design levers for online teacher professional development](social-capital-elements-online-pd-framework.md)
 
 ## Examples
 -

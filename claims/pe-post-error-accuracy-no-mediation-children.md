@@ -43,4 +43,7 @@ Brain-behavior correlation analysis (Table 2) in the same 123-child sample, limi
 
 
 ## Related Claims
--
+
+- [Growth mindset endorsement is associated with larger Pe amplitude (greater attention to errors) in school-aged children](growth-mindset-larger-pe-children.md)
+- [Growth mindset endorsement is associated with higher post-error accuracy but not post-correct accuracy in children](growth-mindset-post-error-accuracy-children.md)
+- [Growth mindset predicts post-error accuracy for children with small Pe amplitudes but not large Pe amplitudes (exploratory moderation)](mindset-pe-moderation-post-error-accuracy.md)

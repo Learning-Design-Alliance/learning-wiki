@@ -47,7 +47,8 @@ The authors propose a graphic reinterpretation of the original CoI framework in 
 - Community Of Inquiry Framework
 
 ## Examples
--
+
+- [Use the Trusting Influence to nurture online learners' sense of belonging](../strategies/trusting-influence-sob-guidance.md)
 
 ## Key Sources
 - Honig, C.A. & Salmon, D. (2021). Learner presence matters: A learner-centered exploration into the community of inquiry framework. Online Learning, 25(2), 95-119. https://doi.org/10.24059/olj.v25i2.2237

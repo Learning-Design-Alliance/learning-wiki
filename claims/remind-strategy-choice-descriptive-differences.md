@@ -46,7 +46,9 @@ Descriptive comparison of game-log strategy choices in the play-testing study; o
 - [Motivation](../learner-variables/motivation.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
 - [After REMind, children's expectations that confronting a bully would stop the bullying shifted toward a calibrated midpoint](remind-calibrated-bully-outcome-expectations.md) — related
 - [Playing REMind significantly increased children's perceived self-efficacy for defending peers](remind-increased-self-efficacy-for-defending.md) — related
 - [During REMind, nearly all children reported feeling sad for the victim and attributed bystander inaction mainly to low confidence or fear of retaliation](remind-qualitative-perspective-taking-themes.md) — related
 - [REMind did not significantly change children's expectations that defending would help the victim feel better](remind-victim-outcome-expectations-not-significant.md) — related
+- [Victim group children score higher than bullies on the SDQ prosocial behavior subscale](victims-higher-prosocial-behavior-than-bullies.md)

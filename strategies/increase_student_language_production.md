@@ -60,8 +60,10 @@ Language production forces learners to organize knowledge into coherent verbal s
 6. Review writing samples to give feedback on both mathematical content and language use.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — front-loads the vocabulary and concepts students need before producing language
 - [Accessible Syntax](../strategies/accessible_syntax.md) — reduces the linguistic barrier so production focuses on content
+- [Use brain-friendly, multisensory and expressive approaches and a partner (not authority) stance in counseling adolescents](multisensory-expressive-brain-friendly-counseling-adolescents.md)
 
 ## Examples
 - Writing out 3x + 4 = 16 as "Three times a number plus four equals sixteen" helps learners process the operations involved and think through how to solve it.

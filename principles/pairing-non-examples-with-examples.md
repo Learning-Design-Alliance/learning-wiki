@@ -153,6 +153,7 @@ Classification of labelled pairs, classification of new unlabelled cases, explan
 - **Category boundary sort**: Learners sort cases into examples and non-examples, then justify the classification.
 - **Procedure contrast**: Learners compare a correct sequence of steps with an incorrect or incomplete one.
 - [Misconception-aware contrastive remediation videos triggered by incorrect quiz answers](../strategies/misconception-aware-contrastive-remediation-videos.md)
+- [Contrasting examples as a generative-processing instructional method whose preconditions for critical-thinking transfer are questioned](../designs/contrasting-examples-generative-processing-account.md)
 
 ## Key Sources
 - Barbieri, C. A., & Booth, J. L. (2020). Mistakes on display: Incorrect examples refine equation solving and algebraic feature knowledge. *Applied Cognitive Psychology, 34*(4), 862-878. [https://doi.org/10.1002/acp.3663](https://doi.org/10.1002/acp.3663)

@@ -17,7 +17,7 @@ sources:
 # Use a 30-minute neurophysiological assessment of consonants-in-noise coding for early identification of children at risk for language and literacy problems
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 2 studies (2 associational), `q3` · 2 of 2 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends, on the strength of its predictive findings, that evaluating the neural coding of speech in noise can serve as an objective screen to identify at-risk children before reading instruction begins. As the authors put it, "Evaluating the neural coding of speech in noise may provide an objective neurophysiological marker for these at-risk children, opening a door to early and specific interventions." The assessment is a passive recording while children watch a film, requiring no behavioral compliance with paper-and-pencil tests.
@@ -39,6 +39,13 @@ The article recommends, on the strength of its predictive findings, that evaluat
 
 ### Affordances
 - Consonants In Noise Ffr Biomarker Framework
+
+## Claims
+
+- [The consonants-in-noise model predicts concurrent reading in school-aged children and reliably classifies externally diagnosed learning disability, being most effective at clearing children as unlikely to have an LD](../claims/consonants-in-noise-model-predicts-reading-and-diagnostic-category-older-children.md) [+M]
+- [A consonants-in-noise model derived in 4-year-olds generalizes to predict rapid naming and sentence memory in preschoolers, though not sentence memory in 3-year-olds](../claims/consonants-in-noise-score-predicts-rapid-naming-and-sentence-memory.md) [+M]
+- [Neural coding of consonants in noise strongly predicts phonological processing in 4-year-old pre-readers over and above demographic factors](../claims/neural-coding-consonants-noise-predicts-phonological-processing-prereaders.md) [+W]
+- [Preschool neurophysiological assessment predicts performance on phonological processing, rapid naming, sentence memory, sight word reading, spelling, and composite reading one year later](../claims/year1-neural-predictions-forecast-year2-literacy.md) [+M]
 
 ## Related Strategies
 - 

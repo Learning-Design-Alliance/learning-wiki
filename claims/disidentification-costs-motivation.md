@@ -43,4 +43,6 @@ The article presents disidentification, citing Steele (1997), as a psychological
 
 
 ## Related Claims
--
+
+- [Stereotype threat compromises the test performance of learners whose group is the target of a negative stereotype](stereotype-threat-compromises-performance.md)
+- [Mastery-focused environments increase motivation to learn while performance-focused environments detract from it for all but the highest achievers](mastery-environments-increase-motivation.md)

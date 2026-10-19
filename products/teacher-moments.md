@@ -30,7 +30,8 @@ Teacher Moments is a free, openly licensed digital teaching-simulation platform 
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Openly released TTX assessment resources](openly-released-ttx-assessment-resources.md)
 
 ## Key Sources
 - Littenberg-Tobias, J., Borneman, E., & Reich, J. (2021). Measuring Equity-Promoting Behaviors in Digital Teaching Simulations: A Topic Modeling Approach. AERA Open. https://doi.org/10.1177/23328584211045685

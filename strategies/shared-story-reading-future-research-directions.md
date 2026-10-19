@@ -37,7 +37,10 @@ The review identifies gaps for future research: all reviewed studies used fictio
 - literacy through shared story reading with fictional and nonfiction texts
 
 ## Related Strategies
-- 
+
+- [Future AI-SRL research should broaden search strategies, include educators and younger learners, address motivation, and apply longitudinal designs](ai-srl-future-research-recommendations.md)
+- [Pursue future research on ChatGPT in higher education to fill the gaps the scoping review identifies](chatgpt-he-future-research-directions.md)
+- [Future AIHEd research should give greater attention to ethics, methodological rigour, context, and interdisciplinary collaboration](aihed-future-research-ethics-rigour-interdisciplinarity.md)
 
 ## Examples
 -

@@ -43,4 +43,9 @@ Video-analysis of four teachers' real-time guidance across 913 coded activity se
 
 
 ## Related Claims
--
+
+- [Teacher guidance distribution tracked perceived willingness to collaborate, not group outcome level or prior science competence](guidance-follows-willingness-not-outcome.md)
+- [Highest-outcome groups did not receive more guidance than other groups](high-outcome-groups-not-guided-more.md)
+- [Teachers' self-perceived guidance and affect varied across the three inquiry phases and between teachers](teacher-guidance-perceptions-vary-by-phase.md)
+- [Teacher self-reported affect was compounded by students' self-reported affect across working phases](teacher-student-affect-reciprocity-inquiry.md)
+- [A regulation macro script structured collaboration to support socio-cognitive and socio-emotional monitoring among teacher-education students](regulation-macro-script-monitoring-support.md)

@@ -17,7 +17,7 @@ sources:
 # Advance CSCL impact on schooling through multi-disciplinary design-based research networks that package effective collaborative-learning models for teachers everywhere
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (1 design, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The editorial argues that isolated CSCL advances must be consolidated into larger efforts, since the DBR needed to influence educational policy and practice requires large multi-disciplinary undertakings beyond single labs. It states the field must "flesh out models of collaborative learning that are not only demonstrably effective under a range of settings, but are packaged to be used in practice by teachers everywhere." Implementing this requires new kinds of research networks, sustained teacher professional development in guiding collaboration, and curriculum aligned with established standards across grades, developed through many iterations of trial and redesign.
@@ -38,6 +38,11 @@ The editorial argues that isolated CSCL advances must be consolidated into large
 
 ### Target Learning Goals
 - Collaborative, explorative, problem-solving learning supported by technology
+
+## Claims
+
+- [Development of collaborative classrooms and effective CSCL curriculum is a multi-year, multi-iteration process requiring sustained institutional commitment](../claims/cscl-teacher-development-multi-year-multi-iteration.md) [+W]
+- [In Quebec's Remote Networked School initiative, teacher collaborative design proved to be relevant, feasible, and sustainable despite systemic limits](../claims/rns-collaborative-design-relevant-feasible-sustainable.md) [+W]
 
 ## Related Strategies
 - 

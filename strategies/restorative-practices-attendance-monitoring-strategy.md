@@ -45,6 +45,7 @@ This strategy pairs two recommendations the authors draw from their findings: ad
 - [Adopt positive, restorative discipline approaches and ban harmful exclusionary practices](restorative-discipline-ban-harmful-practices.md)
 - [Restorative-justice-aligned discipline policies to reduce exclusionary discipline disparities](restorative-discipline-policies-reduce-exclusionary-disparities.md)
 - [Build safety and belonging by detracking, offering low-barrier extracurriculars, and implementing restorative approaches in place of exclusionary discipline](restorative-inclusive-safety-structures.md)
+- [Use educative and restorative behavior supports rather than punitive and exclusionary discipline](restorative-educative-behavior-supports-gateway.md)
 
 ## Examples
 -

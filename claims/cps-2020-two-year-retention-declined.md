@@ -43,8 +43,10 @@ Spring-to-fall continuation analysis of first-year CPS graduates enrolled in two
 
 
 ## Related Claims
+
 - CPS graduates in four-year colleges were slightly more likely to continue from spring to fall 2020 (80.6%) than in 2019 (79.0%) — related
 - CPS class of 2020 graduates were less likely to enroll in two-year colleges (20.0% in 2019 vs. 16.4% in 2020) — related
 - [Latinx two-year college students' spring-to-fall return rates declined most among race/ethnicity and gender groups in 2020](cps-2020-latinx-two-year-return-declines.md) — related
 - Immediate college enrollment declined from 62 percent for the CPS class of 2019 to 58 percent for the class of 2020, driven more by the drop in two-year than four-year enrollment — related
 - Immediate college enrollment among 2021 CPS graduates was 58.6%, with four-year enrollment recovering to pre-pandemic levels while two-year enrollment fell to 15.6% — related
+- [Fall 2020 CPS enrollment changes showed no clear pattern by colleges' reopening models](cps-2020-no-reopening-model-pattern.md)

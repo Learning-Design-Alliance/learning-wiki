@@ -43,4 +43,6 @@ Main-study two-group field experiment with DokuWiki (N = 69 completing all stage
 
 
 ## Related Claims
+
 - [Wikipedia's bold-edit collaboration script led to lower article quality than a discussion-first alternative script](wikipedia-script-lower-article-quality.md) — related
+- [In the main study, BRD articles were longer, but DDR articles had a lower relative error rate, and article length correlated positively with errors](brd-longer-articles-more-errors.md)

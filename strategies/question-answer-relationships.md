@@ -96,11 +96,13 @@ QAR improves comprehension by making the question–text relationship explicit, 
 6. Fade the labels, prompting only "What kind of question is this, and how do you know?"
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — the "Author and Me" and "On My Own" categories depend on learners deliberately drawing on background knowledge
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — shares the goal of making comprehension strategies explicit; QAR's question-type awareness feeds its questioning role
 - [Annotating](../principles/annotating.md) — marking where answers come from in the text supports the "Think and Search" category
 - [Question Generation](../strategies/question-generation.md) — the extension phase where learners author questions by type
 - [Think-Aloud](../elements/think-aloud.md) — the modeling method for making classification decisions visible
+- [Teachers should make task demands explicit, compelling, varied, and metacognitively supported when assigning text-study tasks](explicit-compelling-varied-task-demands-strategy.md)
 
 ## Examples
 - **Raphael's original materials** — Taffy Raphael's QAR instructional sequence, widely reproduced in reading methods textbooks and basal reading programs since the mid-1980s.

@@ -43,4 +43,5 @@ Vignette-based 2 × 2 within-subjects experiment with N = 278 university student
 
 
 ## Related Claims
--
+
+- [Comprehension-related problems elicit more cognitive strategies but do not reduce motivational strategy use](comprehension-problems-raise-cognitive-not-cut-motivational.md)

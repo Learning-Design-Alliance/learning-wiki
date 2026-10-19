@@ -40,7 +40,9 @@ The third educational example is "an undergraduate climatology course at the Uni
 - 
 
 ## Related Designs
-- 
+
+- [ChemViz Project at the National Center for Supercomputing Activities](chemviz-project-ncsa.md)
+- [Image Processing for Teaching (IPT) project at the University of Arizona](image-processing-for-teaching-ipt.md)
 
 ## Examples
 -

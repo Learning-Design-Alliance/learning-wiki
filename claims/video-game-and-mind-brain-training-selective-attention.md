@@ -43,4 +43,5 @@ The review's fourth section draws on recent literatures on video-game play and m
 
 
 ## Related Claims
--
+
+- [Selective attention processes are hypothesized to relate to language, literacy, and mathematics, three domains important to early academic skills](selective-attention-links-language-literacy-mathematics.md)

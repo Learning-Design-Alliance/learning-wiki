@@ -43,4 +43,5 @@ The editors state this as an implication of the Fu et al. discourse-pattern clas
 
 
 ## Related Claims
--
+
+- [A text-mining group and representation tool scaffolds students' learning processes and improves outcomes under specific conditions](grt-text-mining-group-formation-scaffolds-learning.md)

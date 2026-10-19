@@ -84,6 +84,7 @@ Station rotation operationalizes [Active Learning](../principles/active-learning
 - [Implement Math 180 as a blended rotation model with 1:1 computer use during rotation and roughly half the class on software at a time](math-180-blended-rotation-implementation.md)
 - [Lab Rotation](lab-rotation.md) — rotates between classrooms rather than within one
 - [Individual Rotation](individual-rotation.md) — each student follows a personalized playlist instead of a fixed sequence
+- [Set up peer tutoring stations with audio prompting as a low-cost supplement to teacher-led instruction](peer-tutoring-stations-audio-prompting-supplement.md)
 
 ## Examples
 - **Khan Academy's Khanmigo-supported math stations** — classrooms pair a teacher-led small group with a [Khan Academy](https://www.khanacademy.org) practice station that adapts difficulty per learner.

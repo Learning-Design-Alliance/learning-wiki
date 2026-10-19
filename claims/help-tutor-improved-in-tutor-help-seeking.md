@@ -43,4 +43,5 @@ First of two classroom experiments comparing the standard Geometry Cognitive Tut
 
 
 ## Related Claims
--
+
+- [Students' help-seeking error frequencies correlate strongly across different Cognitive Tutor units and cohorts (r = 0.89)](help-seeking-errors-stable-across-units.md)

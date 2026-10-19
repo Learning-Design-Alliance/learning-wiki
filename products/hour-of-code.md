@@ -30,7 +30,8 @@ The Hour of Code is a Code.org initiative offering one-hour introductory compute
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [PCEX expert-bundled Python dataset](pcex-expert-bundled-python-dataset.md)
 
 ## Key Sources
 - Digital Promise. (2017). Computational Thinking for a Computational World. https://www.digitalpromise.org

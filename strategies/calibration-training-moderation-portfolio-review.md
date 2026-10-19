@@ -41,6 +41,8 @@ A reader-capacity strategy in which the admissions director hires, trains, and c
 ## Related Strategies
 
 - [Four recommended practices for implementing an admissions portfolio system](four-practices-implementing-admissions-portfolio.md)
+- [Portfolio Assessment](portfolio-assessment.md)
+- [Peer and Self-Assessment](peer_and_self-assessment.md)
 
 ## Examples
 -

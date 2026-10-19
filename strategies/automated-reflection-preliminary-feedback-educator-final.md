@@ -48,6 +48,7 @@ The article recommends deploying automatic reflection-level classifiers as assis
 - [Allocate human and AI effort by dimension type: automate explicit-criteria dimensions, retain human review for pedagogical judgment](human-ai-division-of-labor-mcq-generation.md)
 - [Use reward-aligned LLM scoring as a teacher-supervised auxiliary tool for preliminary essay scoring at scale](teacher-supervised-auxiliary-llm-essay-scoring.md)
 - [Implement AI in assessment as a hybrid support tool for low-stakes, formative stages while humans retain final grading authority](hybrid-ai-human-assessment-implementation.md)
+- [Deploy automated analysis tools to support tutors' time-consuming analysis of CSCL conversations](automated-tools-supporting-tutor-conversation-analysis.md)
 
 ## Examples
 -

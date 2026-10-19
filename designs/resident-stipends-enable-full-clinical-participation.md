@@ -17,7 +17,7 @@ sources:
 # Provide resident stipends covering living expenses so candidates can fully participate in yearlong clinical placements
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Paid residency stipends intended to cover living expenses are an essential feature of Texas residencies. "Set by the TCLAS grant program at $20,000 per resident, stipends were aimed at eliminating the need for residents to take outside jobs during the yearlong clinical placement." Stipends made residencies a realistic option for a broader pool of candidates, and current residents consistently shared they could only participate because of the stipends. Implementing residencies without stipends may create barriers to full resident participation.
@@ -37,7 +37,8 @@ Paid residency stipends intended to cover living expenses are an essential featu
 - full participation in yearlong immersive clinical placements
 
 ### Claims
-- 
+
+- [TCLAS stipends of $20,000 enabled residents to participate in yearlong residencies by forgoing outside employment](../claims/stipends-enable-full-residency-participation.md) [+W]
 
 ## Related Designs
 - 

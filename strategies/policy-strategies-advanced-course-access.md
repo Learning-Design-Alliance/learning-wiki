@@ -42,6 +42,7 @@ The report recommends a set of state, federal, and local policy actions to close
 - [State and federal policy recommendations: recruit and prepare more candidates, retain new teachers through early-career mentoring, and improve working conditions](teacher-shortage-policy-recommendations.md)
 - [Pursue policy, materials, and professional development changes to restore science as a core content area for all students](policy-changes-restore-science-access.md)
 - [Three strategies for closing advanced coursework participation gaps and retaining students](three-strategies-close-advanced-coursework-gaps-retention.md)
+- [Offer a STEM-specific pre-college preparation course emphasizing mathematics and effective learning habits, and expose female high-school students to extra-curricular advanced mathematics](stem-specific-preparation-course-strategy.md)
 
 ## Examples
 -

@@ -41,4 +41,5 @@ Study 2 attention-bid coding of a 7-minute segment of the first session: repeate
 
 
 ## Related Claims
--
+
+- [The augmentation effect on cooperative play replicated in Study 2, with a large playset-by-behavior interaction and no overlap in confidence intervals](cooperative-play-replicated-study2-interaction.md)

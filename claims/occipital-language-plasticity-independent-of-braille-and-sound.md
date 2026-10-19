@@ -43,4 +43,7 @@ Based on the dissociation between language responses (maximal by age 4, unrelate
 
 
 ## Related Claims
--
+
+- [The \"visual\" cortices of young blind children, but not sighted children, respond to sound](blind-children-occipital-response-to-sound.md)
+- [Occipital responses to spoken language in blind children are maximal by age 4 and unrelated to Braille learning](occipital-language-response-maximal-by-age-4.md)
+- [Occipital responses to nonlanguage sounds in blind children increase between ages 4 and 17](occipital-nonlanguage-sound-response-increases-with-age.md)

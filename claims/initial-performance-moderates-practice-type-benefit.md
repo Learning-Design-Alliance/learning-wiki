@@ -44,4 +44,6 @@ Regression with interaction terms on 57,188 observations. "The negative interact
 
 
 ## Related Claims
--
+
+- [Prior knowledge moderates the effectiveness of erroneous and contrasting erroneous examples, with low-prior-knowledge learners benefiting in several studies but findings contradictory](prior-knowledge-moderates-errex-effectiveness.md)
+- [LA usage in K–12 mathematics has a generally positive effect on student learning, with high-performing students benefiting most](la-positive-effect-high-performers-benefit-most-k12-math.md)

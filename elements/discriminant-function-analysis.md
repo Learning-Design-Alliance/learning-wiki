@@ -45,7 +45,8 @@ A multivariate statistical technique (Wilks method) used to identify variables t
 - 
 
 ## Examples
--
+
+- [Delete items only when test reliability improves upon deletion](../methods/item-deletion-only-if-reliability-improves.md)
 
 ## Key Sources
 - Van Wicklin, J. F. (1984). Ego identity status, self-esteem, social desirability, and parent-child relations in college females. Doctoral dissertation. https://eric.ed.gov/?id=ED257546

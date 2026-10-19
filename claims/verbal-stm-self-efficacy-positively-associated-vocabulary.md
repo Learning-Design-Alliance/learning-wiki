@@ -43,4 +43,5 @@ Structural equation models tested direct and indirect associations in 442 childr
 
 
 ## Related Claims
--
+
+- [Vocabulary is positively associated with listening comprehension in upper elementary children (9-12 years)](vocabulary-positively-associated-listening-comprehension-upper-elementary.md)

@@ -1,7 +1,7 @@
 ---
 type: principle
 id: phonics
-aliases: [explicit-instruction-phonics, devote-reading-class-time-to-phonological-practice]
+aliases: [explicit-instruction-phonics, devote-reading-class-time-to-phonological-practice, eliminate-three-cueing-instruction]
 title: Phonics
 description: "For a beginning reader who cannot yet turn print into sound, explicit teaching of letter–sound correspondences in a planned sequence, applied at once to reading and spelling words, is expected to produce more accurate decoding and word reading than unsystematic or no phonics; a meta-analysis tests this for kindergarten to grade 6, with smaller gains for older struggling readers and for comprehension, and a contested advantage over whole-language teaching."
 canonical: true
@@ -22,6 +22,10 @@ sources:
     resource: "https://doi.org/10.5539/ies.v4n4p192"
     title: "Khatib, M., & Fat'hi, J. (2011). The Effect of Automatization of the Phonological Component on the Reading Comprehension of ESP Students. International Education Studies, 4(4). https://doi.org/10.5539/ies.v4n4p192"
     author: "Khatib, M., & Fat'hi, J"
+  - id: comprehensive-early-literacy-policy-fundamental-principles-2024
+    resource: "https://www.excelined.org"
+    title: "Comprehensive Early Literacy Policy: Fundamental Principles. (2024). ExcelinEd Policy Toolkit. https://www.excelined.org"
+    author: "Comprehensive Early Literacy Policy: Fundamental Principles"
 ---
 
 # Phonics
@@ -418,4 +422,43 @@ Based on the finding that pronunciation practice outperformed traditional transl
 * [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — decoding support is stronger when instructors respond to specific breakdowns in sound-symbol mapping
 * [Combined letter name and sound instruction produced greater letter sound gains than number instruction, with a trend over letter sound only instruction](../claims/combined-lnls-letter-sound-gains-over-control.md) [+M] — attached 2026-10-17 from Piasta et al. (2010), which proposed "Teach letter names and sounds together rather than letter sounds alone when fostering preschool alphabet knowledge"; tests this page's relationship.
 * [Instruction that includes systematic phonics leads to better spelling and reading outcomes than instruction that does not](../claims/systematic-phonics-benefits-spelling-and-reading.md) [+W] — attached 2026-10-17 from Treiman Rebecca (2013), which proposed "Spelling instruction should go beyond rote memorization and explicitly teach sound-to-spelling patterns, including context-conditioned choices"; tests this page's relationship.
+-->
+
+<!-- merged 2026-10-19 from principles/eliminate-three-cueing-instruction ("Eliminate three-cueing from elementary reading curricula and educator preparation materials"), a narrower page folded into its canonical page (fragment step): its body as it stood. Its bullets this page lacked were added above.
+
+# Eliminate three-cueing from elementary reading curricula and educator preparation materials
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
+
+## Description
+The toolkit defines three-cueing (also known as "MSV") as a practice teaching students to read using meaning, structure and syntax, and visual cues, and calls it "a flawed literacy instructional practice." It directs states and districts to remove it from curricula, instruction, and educator preparation coursework because it "encourages students to guess, not sound out, words they do not know."
+
+## Design Implications
+
+### Context
+#### Requirements
+- Districts must adopt replacement curricula and instructional materials aligned to the science of reading and state standards.
+#### Constraints
+- 
+
+### Target Learners
+- K–3 elementary students
+
+### Target Learning Objectives
+- Decoding and word reading
+- Foundational reading skills
+
+### Claims
+- 
+
+## Related Principles
+
+- [Adopt high-quality instructional materials aligned to the science of reading, accompanied by professional development](../patterns/professional-development.md)
+
+## Examples
+-
+
+## Key Sources
+- Comprehensive Early Literacy Policy: Fundamental Principles. (2024). ExcelinEd Policy Toolkit. https://www.excelined.org
 -->

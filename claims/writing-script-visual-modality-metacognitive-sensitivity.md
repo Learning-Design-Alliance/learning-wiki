@@ -43,4 +43,5 @@ Separate ANOVA on meta-d' in the auditory modality of the same experiment found 
 
 
 ## Related Claims
--
+
+- [Inferential word learning accuracy differs between Arabic, Chinese and Portuguese speakers only in the visual modality, with Arabic speakers lower than both Chinese and Portuguese speakers](writing-script-visual-modality-word-learning-accuracy.md)

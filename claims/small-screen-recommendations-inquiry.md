@@ -43,4 +43,5 @@ A qualitative design-inquiry in which learning objects demonstrating various mod
 
 
 ## Related Claims
--
+
+- [A river-study conceptual model on handhelds supported observation, analysis, experimentation, and report writing for 72 secondary students in fieldwork](river-conceptual-model-fieldwork-case.md)

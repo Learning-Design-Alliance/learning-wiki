@@ -62,4 +62,7 @@ LGC fit comparison for Han students' VK breadth favored the linear model on AIC,
 
 
 ## Related Claims
--
+
+- [For Yao students, both metacognitive knowledge and vocabulary breadth were best described by linear growth models with significant intercepts and slopes](yao-linear-growth-mck-vk.md)
+- [Metacognitive knowledge scores increased cumulatively over time, and the time-by-ethnic-group interaction showed Han and Yao students followed different MCK development trends](mck-cumulative-growth-group-interaction.md)
+- [Han students significantly outperformed Yao students in breadth of English vocabulary knowledge, with a significant time-by-group interaction in development patterns](han-outperform-yao-vk-breadth.md)

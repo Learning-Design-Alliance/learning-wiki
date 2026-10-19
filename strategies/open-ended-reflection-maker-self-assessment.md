@@ -43,6 +43,7 @@ The paper recommends reflection as a powerful self-assessment tool usable for fo
 - [Formative Evaluation](formative-evaluation.md)
 - [Balanced Assessment System](balanced_assessment_system.md)
 - [Use a three-part process-understanding-product rubric for formative and summative maker assessment](three-part-rubric-maker-assessment.md)
+- [Ten recommendations for teachers on effectively using formative assessment in the classroom](ten-recommendations-formative-assessment-teachers.md)
 
 ## Examples
 -

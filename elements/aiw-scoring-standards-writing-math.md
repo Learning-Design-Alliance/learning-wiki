@@ -50,6 +50,7 @@ The report translates the three criteria into specific scoring standards for ass
 - [Assignment-scoring standards and rubrics for authentic intellectual work in writing and mathematics](aiw-assignment-scoring-standards-rubrics.md)
 - [Rubric](rubrics.md)
 - [Chicago Annenberg classroom assignment collection and scoring system](annenberg-assignment-collection-scoring-system.md)
+- [Authentic Instructional Assessments (AIA)](authentic-instructional-assessments-aia.md)
 
 ## Examples
 -

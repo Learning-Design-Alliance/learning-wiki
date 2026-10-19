@@ -39,7 +39,8 @@ The whole language approach is the simultaneous teaching and learning of differe
 
 
 ## Related Theories
-- 
+
+- [Writing process approach: prewriting, drafting, and revising as overlapping cyclical task groups](writing-process-three-task-groups-cyclical.md)
 
 ## Examples
 -

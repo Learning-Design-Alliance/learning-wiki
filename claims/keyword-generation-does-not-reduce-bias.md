@@ -43,4 +43,5 @@ Contrast analysis on bias (z-standardized JOLs minus z-standardized posttest per
 
 
 ## Related Claims
--
+
+- [Generating or comparing keywords had no substantial effect on posttest learning performance](keyword-generation-no-posttest-learning-effect.md)

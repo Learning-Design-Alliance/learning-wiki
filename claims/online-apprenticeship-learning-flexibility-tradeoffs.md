@@ -43,9 +43,11 @@ A key takeaway from the virtual discussion groups with state apprenticeship admi
 
 
 ## Related Claims
+
 - [Training providers and instructors faced logistical challenges moving in-person apprenticeship training online but adapted quickly](providers-adapted-in-person-training-online.md) — related
 - [Online professional development offers potential advantages of reduced travel costs, increased convenience, and community building among participants](online-pd-reduces-travel-supports-community.md) — related
 - [State apprenticeship administrators leveraged technology to pivot work online, streamline processes, and expand reach and responsiveness during the pandemic](technology-pivot-expanded-apprenticeship-agency-reach.md) — related
 - [Reliable Internet access was a larger barrier to remote and hybrid learning than device access, especially in urban areas](internet-access-larger-barrier-than-devices.md) — related
 - [Virtual meeting options gave parents more flexible scheduling opportunities to communicate with educators during remote schooling](virtual-meetings-flexible-parent-communication.md) — a narrower finding that bears on this claim
 - Local leaders supported student learning in similar and different ways across in-person, hybrid, and remote instructional modalities — related
+- [Virtual pre-K observations posed substantial logistical challenges despite being practical](virtual-pre-k-observations-logistical-challenges.md)

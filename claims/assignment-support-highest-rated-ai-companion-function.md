@@ -43,4 +43,6 @@ Descriptive survey analysis (n = 24) of five rated Class Companion functions in 
 
 
 ## Related Claims
--
+
+- [Among TAM constructs, result demonstrability, intention to use, and ease of use received the highest ratings while output quality was lowest](tam-construct-means-asr-writing-study.md)
+- [Students rated ChatGPT highly for completing activities more quickly, among the highest-scoring survey items in both courses](chatgpt-rated-high-for-speed-of-completion.md)

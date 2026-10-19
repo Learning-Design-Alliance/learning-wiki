@@ -48,8 +48,8 @@ Open-ended discussion supports learning by requiring learners to articulate, def
 - Communication and argumentation skills
 
 ### Affordances
-- [Social Constructivism](../principles/social-constructivism.md) — discussion enacts this principle directly: meaning is negotiated through dialogue, with peers serving as the "more knowledgeable other" who challenges and extends current understanding
-- [Perspective-Taking](../principles/perspective-taking.md) — encountering peers' differing interpretations forces learners to represent alternative viewpoints, the core mechanism of this principle
+- [Social Constructivism](../theories/sociocultural-theory.md) — discussion enacts this principle directly: meaning is negotiated through dialogue, with peers serving as the "more knowledgeable other" who challenges and extends current understanding
+- [Perspective-Taking](../principles/cognitive-flexibility.md) — encountering peers' differing interpretations forces learners to represent alternative viewpoints, the core mechanism of this principle
 - [Active Learning](../principles/active-learning.md) — discussion makes every participant a producer of reasoning rather than a receiver of content, consistent with the ICAP finding that interactive engagement outperforms passive modes [+S]
 - [Community of Inquiry](../principles/community-of-inquiry.md) — open discussion builds the social presence and cognitive tension that sustain an inquiry community
 
@@ -76,7 +76,7 @@ Open-ended discussion supports learning by requiring learners to articulate, def
 
 ## Patterns That Use This Element
 - [Discussion-Based Learning](../principles/collaborative-learning.md) — discussion as the primary vehicle for content
-- [Socratic Seminar](../patterns/socratic-seminar.md) — text-anchored dialogue with questioning protocols
+- [Socratic Seminar](socratic-seminar.md) — text-anchored dialogue with questioning protocols
 - [Structured Academic Controversy](../patterns/structured-academic-controversy.md) — assigned positions followed by perspective switch, adding structure that mitigates status effects
 - [Debate](../patterns/debate.md) — the competitive, position-defending variant
 
@@ -88,6 +88,7 @@ Open-ended discussion supports learning by requiring learners to articulate, def
 - **[Structured Academic Controversy](../patterns/structured-academic-controversy.md)** (Johnson & Johnson) — learners argue one side of an issue, switch sides, then drop positions to seek consensus; a published protocol for making open discussion equitable.
 - [Facilitate sessions with a welcoming environment, probing questions, and structured pauses](../strategies/facilitation-protocol-probing-questions.md)
 - [Protect teachers from social and political backlash by communicating CRSE's value and providing norms and probing questions for sociopolitical discussions](../strategies/protect-teachers-sociopolitical-backlash-crse.md)
+- [Use SQuILD to quantify informal talk and learning in open-ended museum settings](../strategies/squild-scoring-informal-learning-dialogues.md)
 
 ## Key Sources
 - Murphy, P. K., Wilkinson, I. A. G., Soter, A. O., Hennessey, M. N., & Alexander, J. F. (2009). Examining the effects of classroom discussion on students' comprehension of text: A meta-analysis. *Journal of Educational Psychology, 101*(3), 740-764. [doi:10.1037/a0015576](https://doi.org/10.1037/a0015576)

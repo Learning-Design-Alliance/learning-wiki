@@ -43,4 +43,6 @@ Delayed posttest from the same between-subjects experiment with 90 undergraduate
 
 
 ## Related Claims
--
+
+- [Strategy guidance in using pause and scrollbar controls yields better immediate comprehension and higher performance efficiency than unguided learner control](strategy-guidance-beats-unguided-learner-control-immediate.md)
+- [Providing strategy guidance leads learners to pause and scroll back on the video timeline more often than unguided learner control](strategy-guidance-increases-pauses-and-scrollbacks.md)

@@ -62,4 +62,7 @@ Analysis of a marine group's self-debriefing where a student described mine plac
 
 
 ## Related Claims
--
+
+- [In post-wargaming debriefings, teachers and students delineate tactics from related areas of military competence such as teamwork, communication, and technology](tactics-delineated-from-related-competence-debriefing.md)
+- [Teachers construe tactical reasoning as a generalizable, transferable skill, using the educational design of wargames to downplay concern with realism](tactics-generalizable-transferable-skill.md)
+- [Teachers actively highlight specific in-game actions as examples of tactical decision-making, including distinguishing sound tactical reasoning from negative outcomes](teachers-highlight-tactical-decisions-debriefing.md)

@@ -40,7 +40,8 @@ The review defines reading fluency as the ability to read aloud a text accuratel
 - [Repeated listening improves oral reading fluency in second-grade students, with Listening Only outgaining Reading While Listening and Reading Only](../claims/repeated-listening-improves-oral-reading-fluency.md) [+W]
 
 ## Related Theories
-- 
+
+- [Behaviorism frames reading fluency instruction as sub-skill training with response and feedback](behaviorism-reading-fluency-subskills-feedback.md)
 
 ## Examples
 -

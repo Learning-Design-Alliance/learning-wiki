@@ -62,4 +62,7 @@ The review reports, citing Cheung et al. (2015a) and van Lieshout et al. (2016b)
 
 
 ## Related Claims
--
+
+- [A third systematic review concluded ADHD medication reduced symptoms and impairments but found limited and inconsistent evidence for long-term medication effects on social functioning, academic achievement, employment status, and psychiatric comorbidity](adhd-medication-limited-long-term-functional-effects.md)
+- [A large Swedish register-based study found treatment with ADHD medication significantly reduces the risk for criminality in adults with ADHD](adhd-medication-reduces-criminality-risk-adults.md)
+- [ADHD is associated with poor academic outcomes, including lower grade point average, increased grade retention, and lower rates of high-school graduation and post-secondary education](adhd-poor-academic-outcomes-longitudinal.md)

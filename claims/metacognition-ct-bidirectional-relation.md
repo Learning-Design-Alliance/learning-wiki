@@ -41,5 +41,7 @@ Authors' interpretation of the pre-post results in the discussion; the article s
 
 
 ## Related Claims
+
 - [Higher starting scores in vocabulary predicted greater gains in matrix reasoning and vice versa (bidirectional positive coupling)](bidirectional-coupling-vocabulary-reasoning-gains.md) — related
 - [PK-12 performance assessments are enhanced when performance assessments are also part of teacher preparation, and vice versa](pk20-performance-assessment-mutual-enhancement.md) — a narrower finding that bears on this claim
+- [A critical thinking instruction program (ARDESOS-DIAPROVE) improved students' metacognition, with significant pre-post gains in the metaknowledge total and most MAI dimensions](ct-instruction-improves-metacognition-mai.md)

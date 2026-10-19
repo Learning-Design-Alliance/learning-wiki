@@ -43,8 +43,11 @@ In the preregistered study (n = 131 participants who interacted with ChatGPT), r
 
 
 ## Related Claims
+
 - [Affinity for technology interaction differed across clusters, with text reproducers highest and integrators scoring higher than reconstructors (d = 0.59)](ati-differs-across-uptake-clusters.md) — related
 - [Current ChatGPT users were overrepresented among text reconstructors and underrepresented among text integrators (Cramér's V = 0.26)](current-chatgpt-use-associated-with-reconstructors.md) — a narrower finding that bears on this claim
 - [Text reproducers copied nearly all of their final text from ChatGPT with long verbatim sequences, while text integrators showed fragment-level micro-uptake](text-reproducers-near-verbatim-copying.md) — a narrower finding that bears on this claim
 - [Clusters did not differ significantly in the number of prompts sent to ChatGPT](clusters-no-difference-in-prompt-count.md) — a narrower finding that bears on this claim
 - [Cluster membership showed a strong multivariate effect on standard text-similarity metrics (Pillai's trace = 0.85, F(12, 248) = 15.31, p < 0.001)](manova-cluster-effect-text-metrics.md) — a narrower finding that bears on this claim
+- [Affinity propagation clustering of gameplay attempts yielded an interpretable six-cluster solution (part.6)](affinity-propagation-six-cluster-solution.md)
+- [Clustering n-gram flip sequences per task yields three distinct problem-solving strategy groups across the binary challenges](three-strategy-clusters-from-ngram-flip-sequences.md)

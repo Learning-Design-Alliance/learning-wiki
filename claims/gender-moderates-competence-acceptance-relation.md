@@ -43,4 +43,5 @@ The review reports, from van der Wilt et al. (2016) (N = 54 children aged 3.83â€
 
 
 ## Related Claims
--
+
+- [Rejected and neglected children show lower oral communicative competence than average children, while popular and controversial children do not differ from average](rejected-neglected-lower-communicative-competence.md)

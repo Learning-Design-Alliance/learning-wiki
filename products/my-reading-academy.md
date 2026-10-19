@@ -29,7 +29,8 @@ My Reading Academy is an adaptive game-based foundational reading curriculum for
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Superkids Reading Program](superkids-reading-program.md)
 
 ## Key Sources
 - My Reading Academy: Evidence Rating. (2023). https://www.ageoflearning.com/schools/systemcheck/

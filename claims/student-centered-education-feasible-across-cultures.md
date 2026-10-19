@@ -62,4 +62,6 @@ Discussion section: the comparison of one Western and two non-Western cases yiel
 
 
 ## Related Claims
--
+
+- [Four cultural factors inhibit students from speaking up, asking questions and challenging others in PBL discussions, with stronger impact in non-Western schools](four-cultural-factors-inhibit-discussion-behaviors.md)
+- [Six contextual factors mediate the influence of cultural factors on discussion behaviors, either inhibiting or enhancing discussion](six-contextual-factors-mediate-discussion.md)

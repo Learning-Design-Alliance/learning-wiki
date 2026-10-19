@@ -43,4 +43,7 @@ Single longitudinal study (n = 9674, ~10-year follow-up) in the review's quality
 
 
 ## Related Claims
--
+
+- [Children who slept <10 hours/day at ages 3-4 years had worse maternal-reported executive function and behavioral difficulties at age 7 than children with age-appropriate sleep](short-sleep-3-4-years-worse-maternal-neurobehavioral-age-7.md)
+- [Short sleep duration (<9 hours) at follow-up is associated with impaired academic achievement, while baseline sleep duration did not significantly predict later school performance](short-sleep-duration-academic-achievement-longitudinal.md)
+- [Evidence on sleep duration and cognitive development in children aged 0–4 years is mixed, with no consistent association](sleep-cognitive-development-mixed-early-years.md)

@@ -28,7 +28,8 @@ This analytical pattern combines several learning-analytics methods into layers 
 - [Temporal process analysis reveals group- and task-related differences that the frequency accounts did not show, in the interchange of CPS elements over time](../claims/process-analysis-temporal-differences-groups-tasks.md) [+M]
 
 ## Related Research Methods
--
+
+- [Triangulated three-method analysis of collaborative problem-solving enactment](triangulated-three-method-analysis-of-collaborative-problem-solving-enactment.md)
 
 ## Key Sources
 - Ramy Elmoazen, Mohammed Saqr, Laura Hirsto, Matti Tedre. (2025). Capturing temporal pathways of collaborative roles: A multilayered analytical approach using community of inquiry. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-024-09431-6

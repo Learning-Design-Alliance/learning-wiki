@@ -81,4 +81,6 @@ Follow-up ANOVA on the integrative measure elaborations across domains in the sa
 
 
 ## Related Claims
--
+
+- [Domain-specific knowledge gains from the learning session were large but comparable across the three experimental conditions](knowledge-gains-comparable-across-prompt-conditions.md)
+- [Prompted and control groups show no significant differences in separative elaborations within domains or in additions](no-prompt-effect-within-domain-elaborations-additions.md)

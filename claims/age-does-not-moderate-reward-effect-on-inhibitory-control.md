@@ -43,4 +43,7 @@ Exploratory moderator analysis comparing child (younger than 18) versus adult sa
 
 
 ## Related Claims
--
+
+- [The effect of reward on inhibitory control is not moderated by reward type (monetary vs points vs other)](reward-type-does-not-moderate-inhibitory-control-effect.md)
+- [The effect of reward on inhibitory control is not moderated by clinical status, including ADHD and substance use disorder samples](clinical-status-does-not-moderate-reward-effect-on-inhibitory-control.md)
+- [The reward effect on inhibitory control is significant across all six IC task types, but task type significantly moderates the effect, with the largest effect in Stroop tasks](task-type-moderates-reward-effect-on-inhibitory-control.md)

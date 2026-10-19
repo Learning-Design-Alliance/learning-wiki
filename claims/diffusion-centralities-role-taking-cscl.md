@@ -43,4 +43,6 @@ Editorial account (the editors report, describing Saqr & López-Pernas's network
 
 
 ## Related Claims
+
 - [CSCL relations matter in two ways: interventions informed by empirical studies can support collaboration, and CSCL environments can foster key competencies](cscl-relations-matter-two-ways.md) — related
+- [The editors identify sequentiality of CSCL discourse — how one action takes up a previous action in online interaction — as a central, under-theorized problem](sequentiality-central-problem-cscl-discourse.md)

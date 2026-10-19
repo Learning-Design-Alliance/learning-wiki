@@ -43,4 +43,7 @@ Experiment 1: 255 sixth-graders read six texts, gave delayed JOLs after no cue p
 
 
 ## Related Claims
--
+
+- [The quality of sixth-graders' keywords is not diagnostic of intra-individual variation in test performance (Experiment 1).](keyword-quality-not-diagnostic-of-test-performance.md)
+- [Teachers' intra-individual monitoring accuracy of students' text-by-text learning is not better than chance and is not improved by students' keywords or summaries (Experiment 1).](teacher-intra-individual-monitoring-accuracy-low-not-improved-by-cue-prompts.md)
+- [Test performance differs by cue-prompt condition in Experiment 1, with higher scores in the no-cue condition than the summary condition.](test-performance-higher-no-cue-than-summary-condition.md)

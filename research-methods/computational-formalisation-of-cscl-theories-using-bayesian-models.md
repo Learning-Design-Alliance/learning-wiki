@@ -12,7 +12,7 @@ generated:
 # Computational formalisation of CSCL theories using Bayesian models
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 associational, 1 theoretical), `q1`–`q2` · 1 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The authors recommend striving for a unified language, such as a formalisation strategy, in which different CSCL theories can be expressed, proposing the Bayesian framework as a formal language within reach for CSCL researchers. Formal modelling "makes us think deeply about our theories", highlights gaps and lack of clarity, contributes to open theorising by making assumptions explicit, and yields compact, easily exchanged theories.
@@ -23,10 +23,14 @@ The authors recommend striving for a unified language, such as a formalisation s
 - **Ground the design of automated collaborative-process analysis models in theoretical constructs from social and cognitive psychology**: The article recommends that computational models for automated collaborative-learning process analysis be structured using theories from social and cognitive psychology, so that models capture deep structure in the data and generalize better. The authors state that "The significance of this finding from a methodological standpoint is that it highlights the importance of considering the theoretical foundation for a construct when setting up a machine learning model to use for automated assessment." Theory informed both the feature representation and the DBN model structure, enabling an unsupervised approach requiring neither hand-labeled data nor hand-crafted features. (Gweon et al. (2013))
 
 ### Claims
+
 - [An automatic measure of speech style accommodation significantly positively correlates with prevalence of other-oriented transacts in dyadic debates (R = .36, p < .05)](../claims/speech-accommodation-correlates-other-oriented-transacts.md) [+M]
+- [Formalisation of theory offers generative models, counterfactual reasoning, and optimal-performance yardsticks unavailable to verbal accounts](../claims/benefits-of-formal-modelling-theory.md) [+W]
 
 ## Related Research Methods
--
+
+- [Bayesian Networks for student modelling, assessment, and collaborative learning theory](bayesian-networks-for-student-modelling-assessment-and-collaborative-learning-theory.md)
+- [Event-centered analysis of CSCL processes](event-centered-analysis-of-cscl-processes.md)
 
 ## Key Sources
 - Baker, M., Reimann, P. (2024). CSCL: a learning and collaboration science?. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-024-09433-4

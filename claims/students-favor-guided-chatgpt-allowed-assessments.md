@@ -43,5 +43,7 @@ Descriptive result from Question 9 on how educators should create assessments to
 
 
 ## Related Claims
+
 - [Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator](student-critical-ai-role-expectations.md) — related
 - [Institutional GenAI guidance is more pro-use than computing course syllabus policies, where 92% of syllabi set explicit permissions and half prohibit use outright](institutional-pro-use-course-guarded-genai-policies.md) — related
+- [African and Asian students did not differ significantly in their answers about ChatGPT](no-background-difference-in-chatgpt-opinions.md)

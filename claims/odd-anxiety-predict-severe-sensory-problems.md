@@ -43,4 +43,5 @@ The review reports that "co-morbidity with oppositional defiant disorder and anx
 
 
 ## Related Claims
--
+
+- [ADHD subtypes are not distinct disorders with regard to sensory processing problems](adhd-subtypes-not-distinct-sensory-processing.md)

@@ -62,4 +62,7 @@ Teacher-level descriptive analysis of the 20,064 Graasp teachers who (co)created
 
 
 ## Related Claims
--
+
+- [The higher the maturation level of an Inquiry Learning Space (create, share, co-create, publish), the higher its probability of being implemented in a classroom](higher-maturation-level-higher-ils-implementation-probability.md)
+- [ILS reuse and edition as a proxy for knowledge appropriation relates to about four times higher adoption (19.77% vs 4.51%)](ils-reuse-appropriation-proxy-higher-adoption.md)
+- [Re-used Inquiry Learning Spaces were about four times more likely to be implemented than those created from scratch, and scaffolding increased the implementation rate](reused-ils-four-times-more-likely-implemented-scaffolding-increases.md)

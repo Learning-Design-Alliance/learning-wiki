@@ -48,6 +48,7 @@ The article describes a pipeline in which human codebook rubrics are converted i
 - [Guide student instruction with chain-of-thought decomposition, few-shot worked examples, and self-consistency over multiple LLM queries](cot-fewshot-selfconsistency-student-guidance.md)
 - [Reserve LLM grading for short, well-structured tasks with explicit rubrics or exemplar answers, newer models, and stable API pipelines](reserve-llm-grading-for-structured-rubric-tasks.md)
 - [Provide LLM graders with the full human rubric, accepted solutions, and common-mistake penalties in the prompt (rubric-enhanced prompting)](rubric-enhanced-llm-grading-prompt.md)
+- [Select the variant-generation prompting protocol by deployment threat profile: zero-shot or structured CoT for construct fidelity, few-shot or dimension-preserving generation for surface separation](threat-profile-keyed-generation-protocol.md)
 
 ## Examples
 -

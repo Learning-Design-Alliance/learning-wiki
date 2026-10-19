@@ -43,4 +43,5 @@ Null result from the same 120-participant experiment: "no significant main effec
 
 
 ## Related Claims
--
+
+- [Readers in all conditions except sketching were overconfident, with the most overconfidence in the photograph condition and the least in the sketching condition](overconfidence-all-conditions-except-sketching.md)

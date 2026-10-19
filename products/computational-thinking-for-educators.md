@@ -25,7 +25,9 @@ Google's free online professional-learning programme helps K–12 teachers learn
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [CSTA/ISTE operational definition of computational thinking](cstaiste-operational-definition-of-computational-thinking.md)
+- [Scratch](scratch.md)
 
 ## Key Sources
 - Yadav, A., Hong, H., & Stephenson, C. (2016). Computational Thinking for All: Pedagogical Approaches to Embedding 21st Century Problem Solving in K-12 Classrooms. TechTrends. https://doi.org/10.1007/s11528-016-0087-7

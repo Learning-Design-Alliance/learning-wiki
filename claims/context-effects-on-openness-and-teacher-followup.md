@@ -62,4 +62,5 @@ Analysis of teacher-student role among 65 of the analyzed notes (10.9%) contribu
 
 
 ## Related Claims
--
+
+- [CATPCA of openness components yielded two dimensions largely matching the theoretical cognitive/social framework, with transactivity not included](catpca-two-dimensions-openness.md)

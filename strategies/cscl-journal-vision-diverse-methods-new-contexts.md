@@ -37,7 +37,8 @@ The new co-editors-in-chief state an inclusive editorial stance: they will "embr
 - Collaborative process improvements and learning gains supported by new technologies
 
 ## Related Strategies
-- 
+
+- [Reconsider CSCL research designs and methodologies for mass collaboration and learning analytics](reconsider-methods-for-mass-collaboration-analytics.md)
 
 ## Examples
 -

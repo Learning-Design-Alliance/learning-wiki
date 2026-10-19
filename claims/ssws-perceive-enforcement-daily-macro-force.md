@@ -43,8 +43,10 @@ Thematic analysis of open-ended survey responses from a national survey of schoo
 
 
 ## Related Claims
+
 - [SSWs aware of racialized nested contexts of reception take advocacy actions that counteract racialization, though such actions were less frequently reported](ssw-awareness-linked-advocacy-actions.md) — related
 - [Some SSWs hold deficit-based racial attitudes, conflating structural constraints with immigrant cultural values and misreading trauma responses](ssws-deficit-racial-attitudes.md) — related
 - [SSWs perceive meso-level community and school contexts, including 287g programs and ICE activity, as shaping immigrant families' fear and access](ssws-perceive-meso-community-school-contexts.md) — related
 - [Trauma exposure is widespread among school students and is associated with adverse cognitive, academic, behavioral, and socioemotional outcomes](trauma-exposure-adverse-school-outcomes.md) — related
 - [Many students and staff will return to school with trauma that can adversely affect teaching and learning](covid-trauma-adversely-affects-teaching-and-learning.md) — related
+- [Sociological research reports workplace segregation and coercive labor conditions for immigrant tech workers](immigrant-tech-workers-segregation-legal-violence.md)

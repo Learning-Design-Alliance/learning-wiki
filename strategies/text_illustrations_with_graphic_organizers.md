@@ -59,10 +59,12 @@ Pairing text with a structure-preserving graphic exploits dual-channel processin
 6. Debrief by having learners explain relationships shown in the organizer in their own words, converting the spatial representation back into elaborated verbal knowledge.
 
 ## Related Strategies
+
 - [Advance Organizers](../elements/advance-organizers.md) — the before-reading variant; text illustrations typically operate during or after reading
 - [Concept Mapping](../elements/concept-mapping.md) — learner-generated node-and-link diagrams; the most open-ended organizer form
 - [Summarization](summarizing.md) — organizer construction is a structured, spatial form of summarizing
 - [Annotating](../principles/annotating.md) — complementary text-marking strategy operating on the text itself rather than beside it
+- [Use tablet computers in Response to Intervention for self-recorded reading, electronic graphic organizers, and electronic text notation](rti-tablet-reading-strategies-strategy.md)
 
 ## Examples
 - **Reading apprenticeship in secondary science** — students complete a compare/contrast matrix after reading paired passages on photosynthesis and respiration, making the shared structure visible.

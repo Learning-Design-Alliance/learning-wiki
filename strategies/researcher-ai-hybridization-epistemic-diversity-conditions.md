@@ -17,7 +17,7 @@ sources:
 # Hybrider chercheur et IA en préservant la diversité épistémique : posture critique, diversification des corpus, prompt engineering disciplinaire, benchmarks et formation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 L'article définit les conditions d'une hybridation chercheur/IA respectueuse de la diversité épistémique. Première exigence : une « posture critique vis-à-vis des productions des systèmes d'IA », traitant les sorties des LLMs « non comme des vérités objectives mais comme des hypothèses soumises à l'examen », l'expertise humaine demeurant « le filtre ultime de validation » (Gottweis et coll., 2025). Deuxième exigence : la diversification des corpus sollicités, en croisant les productions des LLMs avec des corpus spécialisés et en restant attentif aux silences. Troisième exigence : le prompt engineering disciplinaire avec « phrases de protection » contre les biais (Ye et coll., 2024). S'y ajoutent la construction de benchmarks disciplinaires, la formation des enseignants-chercheurs aux dimensions critiques, des politiques éditoriales évaluant la transparence, et une recherche participative impliquant les personnes handicapées.
@@ -43,6 +43,10 @@ L'article définit les conditions d'une hybridation chercheur/IA respectueuse de
 ### Affordances
 - Four Modes Ai Research Illusion Exploration
 - Universal User Concept Exclusion Disability
+
+## Claims
+
+- [Les LLMs utilisés comme juges d'évaluation scientifique présentent douze types de biais qui désavantagent les productions s'écartant des canons dominants](../claims/llm-as-a-judge-twelve-bias-types.md) [+W]
 
 ## Related Strategies
 

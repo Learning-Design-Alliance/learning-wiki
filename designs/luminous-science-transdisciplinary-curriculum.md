@@ -72,6 +72,10 @@ Unit (a multi-week classroom project; the source professional-development worksh
 ### Personalization
 - The specific phenomenon and representational medium are interchangeable; what matters structurally is that no discipline's criteria fit the artifact by default, forcing genuine cross-disciplinary negotiation.
 
+## Related Designs
+
+- [SPICE curriculum formative assessments: Rules Task, Debugging Task, and Engineering Task with cross-domain rubrics](spice-formative-assessments-rules-debugging-engineering.md)
+
 ## Related Patterns
 
 - (none yet linked)

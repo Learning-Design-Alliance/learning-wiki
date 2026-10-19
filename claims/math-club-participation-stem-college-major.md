@@ -43,6 +43,8 @@ Logistic regression and propensity-matched models predicting STEM major selectio
 
 
 ## Related Claims
+
 - [Math club participation is positively associated with high school math GPA, with a medium standardized relationship that persists after propensity score matching](math-club-participation-higher-math-gpa.md) — related
 - [Science club participation shows no statistically significant relationship with selecting a STEM college major](science-club-no-stem-major-association.md) — related
 - [STEM club participants differ descriptively from non-participants in GPA, course-taking, test scores, and college desire](stem-club-participants-descriptive-differences.md) — related
+- [Attending an inclusive STEM high school nearly triples the odds of declaring a Core STEM major at a four-year college two years after high school graduation](ishs-triples-odds-four-year-stem-major.md)

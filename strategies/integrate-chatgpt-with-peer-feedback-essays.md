@@ -53,6 +53,7 @@ The article recommends combining ChatGPT-generated and peer-generated feedback f
 
 - [Combine AI-based feedback on early drafts with human feedback on later drafts, and teach students to evaluate AI feedback critically](combine-ai-early-draft-human-later-draft-feedback.md)
 - [Use hybrid human–AI feedback models that combine AI's and instructors' complementary strengths](hybrid-human-ai-feedback-models.md)
+- [Have students compare their peer-feedback revisions with AI-generated revisions to examine dialogic positioning](compare-peer-and-ai-revisions-dialogic-positioning.md)
 
 ## Examples
 -

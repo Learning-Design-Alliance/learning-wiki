@@ -62,4 +62,7 @@ In the same ranking task, middle school teachers with less post-secondary mathem
 
 
 ## Related Claims
--
+
+- [Students' difficulty rankings of equation types partly mismatch their measured performance, though metacognitive accuracy improves with age](equation-difficulty-self-ranks-mismatch-performance.md)
+- [Equations of the form a/x = b are the most difficult equation type, reflecting procedural complexity](c-equations-most-difficult-type.md)
+- [In Grossman's case study, English teachers without formal teacher education adopted text-centered instruction, while teacher education graduates adopted student-centered instruction](teacher-education-graduates-student-centered-text-selection.md)

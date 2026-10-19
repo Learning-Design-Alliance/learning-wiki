@@ -39,10 +39,13 @@ The review presents behaviorism as a theory in which information is passed from 
 - 
 
 ## Related Theories
-- 
+
+- [Automaticity Theory: fluency develops through repeated practice that frees attention for comprehension](automaticity-theory-reading-fluency.md)
+- [Reading fluency consists of three components: accuracy, automaticity, and prosody](reading-fluency-three-components-accuracy-automaticity-prosody.md)
 
 ## Examples
--
+
+- [Part-task practice](../elements/part-task-practice.md)
 
 ## Key Sources
 - Salarvand, L., Guimaraes, N., & Balagholi, Z. (2022). Instructional Strategies' Impacts on EFL Learners Reading Fluency: A Review. THAITESOL JOURNAL, 35(1), 77-90. https://eric.ed.gov/?id=EJ1340892

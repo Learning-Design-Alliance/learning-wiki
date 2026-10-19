@@ -13,7 +13,7 @@ generated:
 # MALA (Modular Artificial Learning Assistance)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A GPT-4o-based modular chatbot architecture developed by Gabelmann et al. that routes exercise-solving requests among hint, explanation, feedback, and safety modules.
@@ -24,8 +24,12 @@ A GPT-4o-based modular chatbot architecture developed by Gabelmann et al. that r
 
 ### Claims
 
+- [A three-week MALA deployment recorded 62 distinct usernames across 128 conversations, with 63% of conversations resolved or partially resolved](../claims/mala-deployment-62-users-63-percent-resolved.md) [+W]
+
 ## Related Products and Programmes
--
+
+- [WrAFT (Writing Assessment and Feedback Tool)](wraft-writing-assessment-and-feedback-tool.md)
+- [STEMHub](stemhub.md)
 
 ## Key Sources
 - Gabelmann, J., Jahn, F., Baum, K., van Rossum, S., Wuenscher, E., Gros, T. P., Wolf, V. (2026). Modularizing Educational LLM-Agency for Fostering Responsible Learning Assistance. https://arxiv.org/abs/2605.30187. [doi:10.48550/arxiv.2605.30187](https://doi.org/10.48550/arxiv.2605.30187)

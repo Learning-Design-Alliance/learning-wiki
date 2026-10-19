@@ -43,4 +43,5 @@ Exploratory multiple regression from the Results section predicting recall from 
 
 
 ## Related Claims
--
+
+- [A hierarchical internal knowledge organization facilitates performance on complex recall and problem-solving tasks more than a single-level organization of the same knowledge](hierarchical-organization-improves-complex-task-performance.md)

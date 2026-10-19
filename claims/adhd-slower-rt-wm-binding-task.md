@@ -62,4 +62,8 @@ Same RT ANOVA: a main effect of condition, with "The Color-shape condition showe
 
 
 ## Related Claims
--
+
+- [Visual WM binding of color and shape is intact in ADHD: no group differences behaviorally or electrophysiologically, with Bayesian support for null Group x Condition interactions](wm-binding-intact-in-adhd.md)
+- [Adults with dyscalculia perform the number comparison task as accurately as controls but respond significantly more slowly](dyscalculia-equal-accuracy-slower-reaction-time.md)
+- [Having three or more comorbid psychiatric conditions increases risk for slow processing speed, but a single comorbid condition does not](multiple-comorbidities-increase-slow-ps-risk.md)
+- [Retrieval P3 discriminates Same from Different trials only in non-ADHD adolescents, indicating a failure of post-selection prioritization in ADHD](retrieval-p3-change-discrimination-only-non-adhd.md)

@@ -53,6 +53,7 @@ The report recommends a package of evidence-based alternatives to zero-tolerance
 - [Replace exclusionary discipline with restorative practices and implement data-driven attendance monitoring](restorative-practices-attendance-monitoring-strategy.md)
 - [Build safety and belonging by detracking, offering low-barrier extracurriculars, and implementing restorative approaches in place of exclusionary discipline](restorative-inclusive-safety-structures.md)
 - [Use preventive disciplinary and restorative justice approaches rather than exclusionary discipline for students experiencing homelessness](restorative-discipline-for-homeless-students.md)
+- [Use educative and restorative behavior supports rather than punitive and exclusionary discipline](restorative-educative-behavior-supports-gateway.md)
 
 ## Examples
 -

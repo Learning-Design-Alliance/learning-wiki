@@ -43,5 +43,7 @@ Narrative review reporting meta-analytic findings of neuroimaging studies in neu
 
 
 ## Related Claims
+
 - The four published neuroimaging studies of cognitive flexibility in ASD report inconsistent activation differences, with altered profiles possibly compensatory — related
 - [FIR analysis shows adults sustain DLPFC, RLPFC and superior parietal activation for relational integration through later time-bins, whereas children's integration-specific activation appears only in the first time-bins and late DLPFC activation is tied to REL-1](fir-sustained-integration-adults-early-children.md) — related
+- [ASD shows a distinct executive dysfunction profile of impaired cognitive flexibility and planning with intact inhibitory control](asd-flexibility-deficit-intact-inhibition.md)

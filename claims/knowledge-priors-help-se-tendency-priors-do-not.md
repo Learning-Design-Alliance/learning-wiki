@@ -62,4 +62,5 @@ SE-tendency priors (0.85 for self-explainers, 0.15 for non-self-explainers, valu
 
 
 ## Related Claims
--
+
+- [Adding eye-tracking evidence to ACE's student model significantly improves assessment of implicit self-explanation over a time-only model](eye-tracking-improves-implicit-se-assessment.md)

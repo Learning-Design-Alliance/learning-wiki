@@ -41,7 +41,9 @@ The authors recommend that educators "participate in the creative teconstruction
 ### Affordances
 
 ## Related Strategies
-- 
+
+- [Intentionally activate symbols so they assist transformative learning](intentionally-activate-symbols-for-learning.md)
+- [Creative Writing](creative_writing.md)
 
 ## Examples
 -

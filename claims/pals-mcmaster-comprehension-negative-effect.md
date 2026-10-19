@@ -48,3 +48,4 @@ Comprehension outcome from the randomized field trial of 41 first-grade nonrespo
 - [PALS showed no statistically significant effects on near-transfer and far-transfer reading fluency for first graders](pals-fluency-no-significant-effects-first-grade.md) — related
 - [Peer-Assisted Literacy Strategies showed a substantively important positive (but statistically non-significant) effect on WRMT-R Passage Comprehension for first graders](pals-mathes-babyak-positive-comprehension-effect.md) — related
 - [PALS shows potentially positive effects on reading comprehension for students with learning disabilities (average effect size 0.75, not statistically significant)](pals-potentially-positive-reading-comprehension-ld.md) — related
+- [Early literacy intervention reduced the proportion of nonresponders to 7.05% versus 25.35% among controls](intervention-reduces-nonresponder-rate.md)

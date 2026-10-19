@@ -43,4 +43,6 @@ The article reports, citing Caprara et al.'s longitudinal study of children's th
 
 
 ## Related Claims
--
+
+- [Multiple non-academic competencies (leadership, sports-related skills, work habits, prosocial behavior, locus of control) appear to predict students' later success in higher education and the labor market](non-academic-competencies-predict-later-success.md)
+- [Social and emotional learning programs promote competencies, reduce behavior problems, and improve engagement and achievement, with sustained longer-term benefits](sel-programs-improve-behavior-engagement-achievement.md)

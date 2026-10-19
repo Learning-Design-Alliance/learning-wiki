@@ -43,4 +43,7 @@ Narrative synthesis of student-report studies (theme four); the review reports c
 
 
 ## Related Claims
--
+
+- [Aggressive humour has mixed effects on adolescent students' educational experiences, with reported increases in anger, boredom and resistance but some students reporting sarcasm improved rapport](aggressive-humour-mixed-student-effects.md)
+- [Course-related humour is positively correlated and course-unrelated humour negatively correlated with students' perceptions of instructional interestingness and intrinsic motivation](course-related-vs-unrelated-humour-interest-motivation.md)
+- [Teachers' humour (unspecified) shows mixed observed effects on adolescent students' classroom experience, with reported benefits to environment and learning alongside reduced participation and loss of control](teacher-humour-unspecified-mixed-classroom-effects.md)

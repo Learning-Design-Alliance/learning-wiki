@@ -72,6 +72,10 @@ Learners make art using or about living organisms (specimens, plants, biological
 - The specific institutional partners (museum, lab) and art medium can vary; what matters structurally is progressive institutional expansion, a broker who pre-negotiates access, and low-threshold tools that scale to learner interest
 - Learners can be given latitude over which organisms they engage with, since ethical reasoning about this choice was itself a productive part of the source study's learning
 
+## Related Designs
+
+- [Collaborative making project pattern: multi-material, digitally enhanced, holistic, thematically anchored](school-collaborative-making-project-pattern.md)
+
 ## Related Patterns
 - [Problem-Based Learning (PBL)](../patterns/problem-based-learning.md) — shares an inquiry-driven structure but is organized around progressive institutional access and material engagement rather than a single driving problem
 

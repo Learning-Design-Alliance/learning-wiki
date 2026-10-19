@@ -47,3 +47,4 @@ Confidence bias was the signed difference between prediction and outcome composi
 - [Sketching during reading yielded the most accurate comprehension monitoring, with significantly less absolute error than photograph, no-image, and animation conditions](sketching-most-accurate-monitoring-absolute-error.md) — related
 - [Sketching and viewing animations produced the best understanding of a geoscience text, while the photograph condition produced the worst](sketching-animation-best-understanding-photograph-worst.md) — related
 - [Learners are substantially overconfident when evaluating the quality of their self-generated examples](overconfidence-evaluating-self-generated-examples.md) — related
+- [Instructional condition did not significantly affect readers' predictive judgments of understanding](no-condition-effect-predictive-judgments.md)

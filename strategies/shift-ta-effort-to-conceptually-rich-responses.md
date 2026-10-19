@@ -39,6 +39,7 @@ The article recommends that AI-assisted grading be structured so that teaching a
 ## Related Strategies
 
 - [Allocate human and AI effort by dimension type: automate explicit-criteria dimensions, retain human review for pedagogical judgment](human-ai-division-of-labor-mcq-generation.md)
+- [Use context-rich multifaceted problems with TA scaffolding and group exams to create epistemic doubt in large introductory courses](multifaceted-problems-create-epistemic-doubt.md)
 
 ## Examples
 -

@@ -43,4 +43,5 @@ The editorial summarizes Yoon's reported study of an intervention administered t
 
 
 ## Related Claims
--
+
+- [The editorial reports that CSCL scripts show positive effects on domain learning and collaboration process skills, and that scaffolding single versus combinations of collaborative activities affects script impact](cscl-scripts-positive-learning-collaboration-skills.md)

@@ -43,4 +43,6 @@ Sociogram and centrality analysis (in-/out-degree, UCINET) of interaction patter
 
 
 ## Related Claims
--
+
+- [Learning and teaching processes in networked learning are not static but have different dynamics at various stages of collaborative work](nl-processes-dynamics-vary-by-phase.md)
+- [Both teachers remained peripherally active and concentrated their contributions on tutoring, with the experienced teacher also acting as a learner on an equal basis](peripheral-teacher-tutoring-contributions.md)

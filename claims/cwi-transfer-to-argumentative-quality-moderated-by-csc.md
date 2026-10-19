@@ -81,4 +81,5 @@ The abstract reports the second panel's non-replication and the crossover effect
 
 
 ## Related Claims
--
+
+- [Students' creative writing speed decreased in panel 1 except for students with relatively high Creative Self-Concept, and increased in panel 2](creative-writing-speed-panel-pattern-csc.md)

@@ -24,7 +24,8 @@ The article defines theoretically productive dialogue as classroom verbal intera
 ### Claims
 
 ## Related Research Methods
--
+
+- [Bakhtinian dialogic framework of four interconnected themes — voices, expanding the dialogue, inter-animation, and relations](bakhtinian-dialogic-framework-of-four-interconnected-themes-voices-expanding-the-dialogue.md)
 
 ## Key Sources
 - Howe, C., Hennessy, S., Mercer, N., Vrikki, M., & Wheatley, L. (2018). Teacher-Student Dialogue during Classroom Teaching: Does it Really Impact upon Student Outcomes? To appear in The Journal of the Learning Sciences. https://gtr.ukri.org/projects?ref=ES/M007103/1

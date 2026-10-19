@@ -17,7 +17,7 @@ sources:
 # Schedule an engaging, playful shareback (including dramatic readings of generated text) immediately after the Generation activity
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 When delivering the LLMs Unplugged Fundamentals lessons, the author recommends that facilitators leave space after generation for groups to share their model's output aloud. The author observes that “the room really starts to buzz duringGenerationwhen we go around the room and people get to share what came out of their new model,” and that having each group perform a dramatic reading of their generated text amplifies this effect. From this point on, engagement and the quality of participants' questions about LLMs both improve.
@@ -35,6 +35,10 @@ When delivering the LLMs Unplugged Fundamentals lessons, the author recommends t
 
 ### Target Learning Goals
 - engagement with and demystification of how language models generate text
+
+## Claims
+
+- [Workshop engagement reaches an inflection point at the first shareback of newly generated text, after which participant questions about LLMs become more incisive](../claims/shareback-inflection-point-engagement.md) [+W]
 
 ## Related Strategies
 - 

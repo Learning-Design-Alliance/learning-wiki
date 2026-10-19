@@ -37,7 +37,8 @@ This strategy operationalizes item fit analysis as a quality-control step in mai
 - Accurate measurement of early literacy and numeracy achievement on the Rasch-based MAP Growth K–2 scales
 
 ## Related Strategies
-- 
+
+- [Use a two-step quality-indicator and decision-rule procedure that considers both high-quality and acceptable-quality research when establishing level of evidence](two-step-quality-indicator-evidence-review-procedure.md)
 
 ## Examples
 -

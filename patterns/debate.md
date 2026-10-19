@@ -130,7 +130,7 @@ This pattern is scoped to structured adversarial argument on a question that adm
 - [Adding reflective activities to dialogic argumentation produced greater content-knowledge gains on the intervention topic than argumentation practice alone](../claims/reflection-boosts-topic-knowledge-gains.md) [~W]
 
 ## Related Patterns
-- [Socratic Seminar](socratic-seminar.md)
+- [Socratic Seminar](../elements/socratic-seminar.md)
 - [Structured Academic Controversy (SAC)](structured-academic-controversy.md)
 
 ## Key Sources
@@ -253,7 +253,7 @@ The pattern can take many forms, but the core features are role clarity, timed t
 
 ## Related Patterns
 
-- [Socratic Seminar](socratic-seminar.md)
+- [Socratic Seminar](../elements/socratic-seminar.md)
 - [Structured Academic Controversy (SAC)](structured-academic-controversy.md)
 - [Debate as a laboratory for argumentation theory, contingent on keeping debate practices accountable to argumentation principles](debate.md)
 

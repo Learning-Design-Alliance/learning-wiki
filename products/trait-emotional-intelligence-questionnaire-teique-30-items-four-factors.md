@@ -13,7 +13,7 @@ generated:
 # Trait Emotional Intelligence Questionnaire (TEIQue, 30 items, four factors)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A 30-item self-report questionnaire measuring 15 facets of trait emotional intelligence grouped into Emotionality, Sociability, Well-Being, and Self-Control, developed by Petrides and colleagues.
@@ -23,6 +23,8 @@ A 30-item self-report questionnaire measuring 15 facets of trait emotional intel
 - **Trait Emotional Intelligence Questionnaire (TEIQue, 30 items, four factors) adopted under the trait EI perspective**: The study measured emotional intelligence with the TEIQue: 'The questionnaire consists of 30 items covering 15 facets of trait emotional intelligence, grouped under four factors: Emotionality, Sociability, Well-Being, and Self-Control', rated on a 7-point Likert scale. The authors adopt the trait model rather than the ability model and add an explicit caveat: 'EI is treated here as a practically useful, self-reported indicator of emotional functioning relevant to teaching, not as a settled construct'. (Ismael I et al. (2026))
 
 ### Claims
+
+- [Trait emotional intelligence showed no significant association with university GPA, despite correlating with engagement, SRL strategies and self-efficacy](../claims/trait-ei-no-direct-association-university-gpa.md) [~W]
 
 ## Related Products and Programmes
 -

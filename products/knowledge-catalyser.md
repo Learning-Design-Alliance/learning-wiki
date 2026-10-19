@@ -26,7 +26,9 @@ A computer-supported discussion forum developed by Gerry Stahl and colleagues fo
 - [Students' use of metacognitive actions to direct group work increased over time when using the Knowledge Catalyser tools](../claims/metacognitive-actions-increase-over-time-knowledge-catalyser.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Mr. Vetro simulation framework](mr-vetro-simulation-framework.md)
+- [Wiki Design Platform](wiki-design-platform.md)
 
 ## Key Sources
 - Gerry Stahl & Friedrich Hesse. (2010). A prism of CSCL research. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-010-9087-3

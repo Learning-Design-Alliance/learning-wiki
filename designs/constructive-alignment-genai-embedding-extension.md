@@ -40,7 +40,8 @@ The article extends Biggs' theory of constructive alignment into the GenAI era, 
 - [Genai Integration Depth Tradeoff Business Education](../claims/genai-integration-depth-tradeoff-business-education.md) [+M]
 
 ## Related Designs
-- 
+
+- [Constructive alignment (Biggs & Tang) as a student-centered framework for aligning learning outcomes, teaching-and-learning activities, and assessment tasks](constructive-alignment-biggs-tang-framework.md)
 
 ## Examples
 -

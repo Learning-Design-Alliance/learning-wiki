@@ -13,7 +13,7 @@ generated:
 # Multi-measure metacognition assessment paradigm combining MAI, confidence judgments, and trial-by-trial AUROC2
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (3 for, 1 against) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 A study-developed assessment paradigm by Terneusen et al. that measures metacognitive knowledge, monitoring, and sensitivity through an inventory, confidence judgments, and trial-level recognition-task ratings.
@@ -22,7 +22,11 @@ A study-developed assessment paradigm by Terneusen et al. that measures metacogn
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
 - [The regression model significantly predicts metacognitive sensitivity but explains a small proportion of variance (R² = 0.079)](../claims/regression-model-small-variance-metacognitive-sensitivity.md) [+M]
+- [Higher (worse) prospective discrepancy scores predict higher metacognitive sensitivity on a memory task](../claims/prospective-discrepancy-predicts-metacognitive-sensitivity.md) [+W]
+- [Lower (better) retrospective discrepancy scores predict higher metacognitive sensitivity on a memory task](../claims/retrospective-discrepancy-predicts-metacognitive-sensitivity.md) [+W]
+- [Self-report metacognitive knowledge (MAI subscales) does not significantly predict metacognitive sensitivity](../claims/mai-subscales-do-not-predict-metacognitive-sensitivity.md) [-W]
 
 ## Related Products and Programmes
 -

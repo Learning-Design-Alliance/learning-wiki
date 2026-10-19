@@ -17,7 +17,7 @@ sources:
 # Support children's ecological active learning through explanation prompts, active control, and environment design rather than explicit strategy training
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends supporting children's question asking and active learning through lightweight environmental and prompt-based interventions rather than extensive explicit training. Prompting children 'to explain previous observations' promotes identification of features shared by multiple objects, and environments that give children active control over what, when, and how long to study enhance learning. The author argues improving ecological active learning early can support school performance, independent learning, critical thinking, and preparedness for uncertain future challenges.
@@ -41,8 +41,14 @@ The article recommends supporting children's question asking and active learning
 ### Affordances
 - Ecological Active Learning Framework
 
+## Claims
+
+- [Active control over the learning experience enhances recognition memory from age 7 into adulthood](../claims/active-control-enhances-memory-development.md) [+W]
+- [Explicit training in constraint-seeking questions showed only moderate, non-generalizing benefits, whereas prompting explanation supports better question asking](../claims/question-asking-interventions-mixed-success.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Scaffold question formulation and active help-seeking in AI-supported tutoring systems](scaffold-question-formulation-ai-help-seeking.md)
 
 ## Examples
 -

@@ -16,7 +16,7 @@ sources:
 # Strauss's dual disequilibrium framework extended with a Bias directionality indicator
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article tests and extends Strauss's (1972) elaboration of Piaget's equilibration model, which distinguishes two aspects of structural instability: "external disequilibrium refers to the interplay of current structure with discrepantenvironmental events" and "internal disequilibrium refers to contradictionswithin the existing structure itself." Internal disequilibrium is operationalized as level mixture, a tendency to respond at several reasoning levels. The authors add a Bias indicator measuring the directionality of non-modal responses (above vs. below the mode) to distinguish subjects likely to advance from those likely to consolidate. The framework predicts that external disequilibrium determines the direction of change while internal disequilibrium affects the amount of change.
@@ -39,11 +39,17 @@ The article tests and extends Strauss's (1972) elaboration of Piaget's equilibra
 
 ### Claims
 
+- [External disequilibrium level systematically influences subsequent changes in internal disequilibrium: discrepant conditions increase mixture among low mix subjects and decrease it among high mix subjects](../claims/external-disequilibrium-shapes-internal-mixture-changes.md) [+W]
+- [Higher internal disequilibrium is associated with more regressive (minus) changes as well as more progressive changes](../claims/high-mixture-increases-regressive-changes.md) [+W]
+- [One-level and two-level external disequilibrium conditions did not differ significantly, and all Modal Level advances occurred to exactly one level above the subject's mode](../claims/one-step-advance-regardless-of-discrepancy-size.md) [+W]
+
 ## Related Theories
-- 
+
+- [Four interrelated factors drive progression between developmental stages: maturation, experience, social interaction, and equilibration](piaget-four-factors-stage-progression.md)
 
 ## Examples
--
+
+- [Cognitive Conflict](../elements/cognitive-conflict.md)
 
 ## Key Sources
 - Snyder, S. S. & Feldman, D. H. (1975). An Experimental Test of the Effects of Internal and External Disequilibrium on Spatial Reasoning Development. https://eric.ed.gov/?id=ED118211

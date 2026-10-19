@@ -25,7 +25,8 @@ The Internationals Network for Public Schools framework guides a network of scho
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [KIPP](kipp.md)
 
 ## Key Sources
 - Charlie Thompson. (2023). Oakland International High School: A Thriving Community School for Oakland's Newcomer Students. Learning Policy Institute. https://learningpolicyinstitute.org

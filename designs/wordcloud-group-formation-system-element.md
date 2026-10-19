@@ -42,7 +42,8 @@ A group formation system embedded in the LEAF infrastructure that automates grou
 - [Wordcloud Use Survey And Outcome Comparison](../claims/wordcloud-use-survey-and-outcome-comparison.md) [+M]
 
 ## Related Designs
-- 
+
+- [Wiki learning environment with knowledge bars and participation bars at individual, group, and subgroup levels](gat-wiki-environment-bar-visualizations.md)
 
 ## Examples
 -

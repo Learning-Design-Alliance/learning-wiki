@@ -17,7 +17,7 @@ sources:
 # Use AI-correcting and AI-mediating episodes as cases in teacher professional development for AI-based mathematics teaching
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The authors propose that the documented orchestration episodes serve as concrete material for teacher education. They state that the 'AI-수정하기' and 'AI-매개하기' cases show how teachers understand AI tools' functional characteristics and limits, respond actively to AI errors, and reinterpret AI feedback in curriculum context, and that these cases should be treated in teacher training as "구체적인 사례로써 제공된다". Dashboard-monitoring cases are likewise recommended for explicitly building dashboard-based lesson-management competency in teacher education programs.
@@ -38,6 +38,13 @@ The authors propose that the documented orchestration episodes serve as concrete
 
 ### Affordances
 - Instrumental Orchestration Extended Agentic Ai
+
+## Claims
+
+- [AI-correcting is a newly observed orchestration type in which the teacher identifies erroneous AI feedback, points it out to students, and re-guides or edits AI prompts (10 of 46 episodes)](../claims/ai-correcting-orchestration-type.md) [+W]
+- [AI-mediating is a newly observed orchestration type in which the teacher concretizes or supplements correct AI feedback for students in curriculum context (12 of 46 episodes)](../claims/ai-mediating-orchestration-type.md) [+W]
+- [Dashboard-monitoring is a newly observed orchestration type in which the teacher uses real-time AI dashboards to grasp student status and adjust lesson direction and pace (14 of 46 episodes)](../claims/dashboard-monitoring-orchestration-type.md) [+W]
+- [Teacher roles vary by orchestration type, with content-related and ethical roles prominent when the teacher intervenes in AI-generated feedback, and a knowledge-transmitter role emerging in explain-the-screen](../claims/teacher-roles-vary-by-orchestration-type.md) [+W]
 
 ## Related Strategies
 - 

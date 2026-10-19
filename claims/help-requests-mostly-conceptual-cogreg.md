@@ -43,4 +43,8 @@ Frequency-count categorisation of all 122 help requests raised in 70 help-seekin
 
 
 ## Related Claims
--
+
+- [Technologically oriented help requests comprised 11.5% of requests and declined steeply from the first to the last post-experiment activity](tech-help-requests-steep-decline-across-activities.md)
+- [When facing students' major conceptual challenges, the teacher shifted from prompting cued questions to providing explanations himself](teacher-shifts-cued-questions-to-explanations.md)
+- [The teacher supported understanding of assignments by reformulating scientific terms into everyday concepts and by contextualising the lab experiment](teacher-reformulates-terms-contextualises-experiment.md)
+- [Teacher support with real-time labs requires adaptive expert input that closes cognitive, social, and design gaps](adaptive-expert-teacher-closes-gaps-real-time-labs.md)

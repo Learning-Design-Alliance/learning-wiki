@@ -43,4 +43,5 @@ Omnibus result of the multiple regression in the 128-participant online study. T
 
 
 ## Related Claims
--
+
+- [Self-report metacognitive knowledge (MAI subscales) does not significantly predict metacognitive sensitivity](mai-subscales-do-not-predict-metacognitive-sensitivity.md)

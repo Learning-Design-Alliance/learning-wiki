@@ -43,4 +43,5 @@ Large-scale national assessment data (NAEP 2005) cited as the article's motivati
 
 
 ## Related Claims
--
+
+- [Below Basic adults read far fewer words per minute than higher-level readers, with 49% reading at 60 wcpm or slower](below-basic-adults-slow-oral-reading.md)

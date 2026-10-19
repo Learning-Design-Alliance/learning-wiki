@@ -37,7 +37,11 @@ The program created video modeling examples by recording expert teachers demonst
 - understanding expert reasoning and decision-making in differentiated instruction
 
 ## Related Strategies
+
 - Pd Program Differentiation Blueprint
+- [Video Based Modeling](video-based-modeling.md)
+- [Think-Aloud Modeling](think-aloud-modeling.md)
+- [Cognitive Apprenticeship](cognitive-apprenticeship.md)
 
 ## Examples
 -

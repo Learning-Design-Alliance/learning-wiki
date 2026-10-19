@@ -62,4 +62,6 @@ From the step-wise regression analyses of parent survey data. The authors call f
 
 
 ## Related Claims
--
+
+- [Parents' postimplant experiences of children's outcomes largely matched their preimplant expectations, with about four fifths reporting expectations met](ci-parent-expectations-matched-experiences.md)
+- [Parents experienced more rehabilitation stress than they had expected before their children's implantation](ci-rehabilitation-stress-exceeded-expectations.md)

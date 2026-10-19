@@ -43,6 +43,7 @@ Pretest administration of the researcher-devised 50-item vocabulary test to both
 
 
 ## Related Claims
+
 - The three treatment groups were equivalent in reading comprehension at pretest — related
 - The four DA-by-age groups were statistically equivalent in general English proficiency and pre-test writing accuracy before treatment — related
 - [L1 glosses do not significantly improve EFL reading comprehension compared with no glosses](l1-glosses-no-reading-comprehension-gain.md) — related
@@ -51,3 +52,4 @@ Pretest administration of the researcher-devised 50-item vocabulary test to both
 - Baseline pre-assessment scores showed no statistical differences between treatment and control groups in either the matched or baseline sample. — related
 - [The online vocabulary intervention did not significantly improve reading comprehension](online-vocabulary-intervention-no-comprehension-effect.md) — related
 - [Background measures show no group differences in age, intelligence, or English vocabulary, confirming group matching](group-matching-background-measures.md) — related
+- [Randomization check found no significant pre-intervention differences between treatment and control groups on pre-test or 8th-grade merit rating](randomization-check-no-pre-differences-variation-study.md)

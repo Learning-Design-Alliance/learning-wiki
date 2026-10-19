@@ -13,7 +13,7 @@ generated:
 # 2026 GenAI Typology survey dataset of educator tool usage
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 An internationally collected survey dataset of 211 educators across nine countries and education levels, released by Matt Bower et al., documenting the generative-AI tools educators reported using across nine typology categories.
@@ -22,6 +22,10 @@ An internationally collected survey dataset of 211 educators across nine countri
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
+- [A 2025-2026 survey of 211 educators in nine countries identified 50 unique generative AI tools meeting inclusion criteria across nine categories](../claims/211-educators-survey-50-genai-tools-nine-categories.md) [+W]
+- [Typology tools are ordered by educator-reported frequency of use within each category](../claims/typology-tools-ordered-by-reported-frequency.md) [+W]
+- [Many contemporary generative AI tools serve multiple educational purposes, with several tools appearing in multiple typology categories](../claims/genai-tools-multipurpose-multiple-categories.md) [+W]
 
 ## Related Products and Programmes
 -

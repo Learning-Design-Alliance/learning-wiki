@@ -43,6 +43,7 @@ This strategy has students recognize and generate multiple solution strategies, 
 - [Comparing Multiple Solution Methods](comparing_multiple_solution_methods.md)
 - [Reasoning-Focused Instruction](reasoning-focused_instruction.md)
 - [De-emphasize Answers, Emphasize Reasoning](de-emphasize-answers-emphasize-reasoning.md)
+- [Have learners develop their own problem-solving templates instead of replicating instructor templates](learner-generated-problem-solving-templates.md)
 
 ## Examples
 -

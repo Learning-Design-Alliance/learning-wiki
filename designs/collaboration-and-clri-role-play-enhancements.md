@@ -17,7 +17,7 @@ sources:
 # Two-enhancement design: refined teacher collaboration plus CLRI role-play
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The Write to Succeed program is refined through "two enhancements for refined teacher collaboration and culturally and linguistically relevant instruction (CLRI) role-play." Role-play is used as the practice format for embedding CLRI in instruction, and teacher collaboration practices are a measured short-term teacher outcome in the logic model.
@@ -38,7 +38,8 @@ The Write to Succeed program is refined through "two enhancements for refined te
 - Teacher collaboration practices
 
 ### Claims
-- 
+
+- [Teachers reported increased use of culturally and linguistically relevant instruction over the year, while teacher collaboration remained unchanged](../claims/wts-clri-increased-collaboration-unchanged.md) [~W]
 
 ## Related Designs
 - 

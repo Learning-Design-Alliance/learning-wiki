@@ -60,6 +60,8 @@ A Digital Promise framework of system-wide K–12 computational-thinking learnin
 ## Related Products and Programmes
 
 - [K-12 Computer Science Framework](k-12-computer-science-framework.md)
+- [CSTA/ISTE operational definition of computational thinking](cstaiste-operational-definition-of-computational-thinking.md)
+- [South Fayette School District CS/STEAM pathway](south-fayette-school-district-cssteam-pathway.md)
 
 ## Key Sources
 - Finding kinship in a far away land: The relevance of Japanese cultural perspectives to education research in Eastern Kentucky. (2022). https://bit.ly/TANrefs

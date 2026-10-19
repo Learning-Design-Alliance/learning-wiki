@@ -37,7 +37,8 @@ Mayer proposes that a useful critique moves "from criticizing to building" by re
 - advancing a research-based science of instruction
 
 ## Related Strategies
-- 
+
+- [Critical Response Process](critical_response_process.md)
 
 ## Examples
 -

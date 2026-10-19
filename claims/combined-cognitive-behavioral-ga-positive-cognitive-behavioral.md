@@ -43,4 +43,6 @@ The editorial reports Ollasch et al.'s "experimental study with 158 participants
 
 
 ## Related Claims
+
 - [Group awareness support in CSCL shows a moderate significant effect on students' learning performance, per the meta-analysis summarized in this issue (Chen et al.)](group-awareness-support-moderate-significant-effect.md) — related
+- [Partner-model quality emerges through the task and is sensitive to awareness tools and media richness, partly contradicting the assumption that partner modelling is an individual skill](partner-model-quality-emerges-through-task.md)

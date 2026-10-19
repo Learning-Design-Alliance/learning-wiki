@@ -43,4 +43,7 @@ Authors' interpretation of Callie's switch to imagined past self in her Józefó
 
 
 ## Related Claims
--
+
+- [HPT is not a simple shedding of presentist perspectives: multiple selves of one learner intertwine with the target's perspective](hpt-multiple-selves-intertwined.md)
+- [The now-self functions as an anchor in HPT: participants began in now-self and frequently returned to it](now-self-anchors-hpt.md)
+- [Shifts among self perspectives are locatable moments of learning in which the self develops and expands](self-perspective-shifts-as-learning.md)

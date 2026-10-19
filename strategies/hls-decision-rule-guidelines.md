@@ -39,6 +39,7 @@ The paper summarizes guidelines for turning HLS responses into identification de
 ## Related Strategies
 
 - [Standardized administration procedures for HLS: training, translation, documentation, and exception handling](standardized-hls-administration-procedures.md)
+- [Four-layer workplace assessment battery with non-compensatory decision rules for competent GenAI use](layered-workplace-genai-assessment-battery.md)
 
 ## Examples
 -

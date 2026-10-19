@@ -62,4 +62,7 @@ Same Table 6 ranking of most cited in-journal documents. The authors report Mart
 
 
 ## Related Claims
+
 - [Instructional Science has accumulated 39,169 citations with an h-index of 86 and an average of 26.5 citations per paper as of July 2024](instructional-science-39169-citations-h-index-86.md) — related
+- [The journal's impact factor rose from 0.378 in 1997 to 2.7 in 2022, with consistent Q1 or upper-quartile ranking in Education & Educational Research](instructional-science-impact-factor-rise-q1.md)
+- [Among references cited by Instructional Science publications, Cohen's 1988 Statistical Power Analysis (66 citations) and Sweller's 1998 cognitive load theory article are the most referenced works](most-cited-references-cohen-sweller-cognitive-load.md)

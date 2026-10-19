@@ -37,7 +37,8 @@ The article recommends that RTC platforms add a mechanism governing shared edits
 - maintaining team function and reducing interruptions during collaborative programming
 
 ## Related Strategies
-- 
+
+- [Make partners' AI use visible through transparency mechanisms in early collaborative programming phases](ai-use-transparency-features-collaborative-programming.md)
 
 ## Examples
 -

@@ -43,4 +43,5 @@ Quartile comparison of 10 upper-quartile students (averaging a 33% increase) and
 
 
 ## Related Claims
--
+
+- [Playing Progenitor X over three weeks produced a statistically significant 11% pre-post gain in stem-cell science content knowledge among 39 middle and high school students](progenitor-x-play-significant-prepost-gain.md)

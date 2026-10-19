@@ -62,4 +62,5 @@ Response-level bias was computed by subtracting external raters' creativity rati
 
 
 ## Related Claims
--
+
+- [Self-assessed creative performance and self-assessed idea creativity are moderately correlated but empirically distinct judgments](performance-and-idea-self-assessments-moderately-related.md)

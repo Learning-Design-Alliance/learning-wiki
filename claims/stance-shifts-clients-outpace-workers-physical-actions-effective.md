@@ -62,4 +62,6 @@ The authors compare Excerpt 1 (verbal hint extinguished) with Excerpts 2 and 6 (
 
 
 ## Related Claims
--
+
+- [In encounters where both client and worker are predominantly defensive, the learning cycle stalls before implementing, reflecting and consolidating actions](both-defensive-cycles-stall-before-implementation.md)
+- [Encounters with a mismatch between client's and worker's learning cycles typically contained all or almost all learning actions of the ideal-typical expansive cycle](mismatched-cycles-produce-fuller-learning-cycles.md)

@@ -47,3 +47,5 @@ The review's executive summary and findings heading state that "effectiveness in
 - Teachers improve faster when they teach the same grade level and subject for multiple years — a narrower finding that bears on this claim
 - Teachers whose colleagues are more experienced improve more quickly, with novices benefiting most — related
 - Teachers are more likely to stay in schools where they perceive colleagues as collaborators, feel influence over their work environment, and trust their principal as an instructional leader — related
+- [Cohort-based principal preparation is associated with program completion, perceived preparedness, and supportive collegial environments](principal-cohort-learning-benefits.md)
+- [High schools improving instruction and teacher collaboration also showed the largest improvements in parent communication](instructional-improvement-linked-parent-communication-gains.md)

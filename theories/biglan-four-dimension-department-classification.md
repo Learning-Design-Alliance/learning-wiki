@@ -16,7 +16,7 @@ sources:
 # Biglan's four-dimension model for classifying academic departments
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Biglan's empirically derived model classifies academic departments on dimensions of hard versus soft (paradigm existence), pure versus applied (concern with application), non-life versus life (involvement with living objects), and empirical versus creative (approach to liberal arts subject matter). The paper extends this model to the small liberal arts college setting, finding faculty perceptions strikingly consistent.
@@ -37,6 +37,7 @@ Biglan's empirically derived model classifies academic departments on dimensions
 
 ### Claims
 
+- [Student subject matter orientation differs significantly from faculty perceptions of departmental characteristics](../claims/student-faculty-subject-matter-mismatch.md) [+W]
 
 ## Related Theories
 

@@ -43,4 +43,5 @@ Pearson correlation in a convenience sample of 55 deaf individuals from Gallaude
 
 
 ## Related Claims
--
+
+- [Deaf adults in this sample read on average at a 5.8 grade level, ranging from grade 1.7 to post-college](deaf-sample-mean-reading-grade-5-8.md)

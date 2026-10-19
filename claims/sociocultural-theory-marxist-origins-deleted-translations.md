@@ -43,4 +43,5 @@ Historical argument citing Graham (1993) and Au (2007) about Cold War-era transl
 
 
 ## Related Claims
--
+
+- [Cognitivism and human-machine interaction emerged from the pragmatic challenges of World War II](cognitivism-emerged-from-world-war-ii.md)

@@ -27,6 +27,7 @@ A restricted dataset of 1,650 educator- and student-submitted STEM questions con
 ## Related Products and Programmes
 
 - [Curated library of 375 abstract graph templates built with 12 STEM educators](curated-library-of-375-abstract-graph-templates-built-with-12-stem-educators.md)
+- [Multimodal OBE examination-answer dataset of 485 scanned submissions with criterion-level rubric marks](multimodal-obe-examination-answer-dataset-of-485-scanned-submissions-with-criterion-level.md)
 
 ## Key Sources
 - Sun Y., Liao Y. & Ma X. (2026). Advancing diagram-based reasoning in AI tutoring systems: a structural approach for STEM education. Smart Learning Environments. https://doi.org/10.1186/s40561-026-00459-9

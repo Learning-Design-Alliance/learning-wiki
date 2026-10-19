@@ -44,7 +44,8 @@ LI(A)RA was one of LIA's first competition projects, developing intelligent agen
 - [The LI(A)RA project produced competitive, scholarly, and educational outcomes that validated the framework's practices](../claims/liara-outcomes-validate-framework.md) [+W]
 
 ## Related Designs
-- 
+
+- [LIA's student-centered organizational framework integrating teaching, research, and extension](lia-student-centered-integrative-framework.md)
 
 ## Examples
 -

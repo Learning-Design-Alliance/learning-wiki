@@ -50,6 +50,7 @@ The article argues that facilitators can, and in many cases should, navigate the
 ## Related Strategies
 
 - [Avoiding or preventing discussion of teacher emotions may constitute emotional rules that exclude emotions from pedagogical discourse](avoiding-emotions-constitutes-exclusionary-emotional-rules.md)
+- [Facilitators can use a taxonomy of moves and strategies for acknowledging and exploring emotion to build a facilitation repertoire](facilitation-moves-acknowledging-exploring-emotion.md)
 
 ## Examples
 -

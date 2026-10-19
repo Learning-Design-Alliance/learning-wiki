@@ -622,7 +622,7 @@ def main() -> None:
                     help="with --orphan-claims: the kinds to offer (default: the concept kinds). A component "
                          "claim, such as knowledge-tracing accuracy, belongs on its product, research-method "
                          "or element page; a context claim on a learner variable or a design method.")
-    ap.add_argument("--only", metavar="FILE", help="with --orphan-claims: only these claim keys, one per line")
+    ap.add_argument("--only", metavar="FILE", help="with --orphan-claims or --unlinked: only these page keys, one per line")
     ap.add_argument("--out", default=None)
     ap.add_argument("--apply", action="store_true")
     ap.add_argument("--verify", action="store_true",
@@ -655,6 +655,9 @@ def main() -> None:
         elif args.unlinked:
             pages = all_pages()
             keys = outside_main(pages, link_graph(pages))
+            if args.only:   # a batch's own new pages, not every isolated page again
+                only = {l.strip() for l in Path(args.only).read_text(encoding="utf-8").splitlines() if l.strip()}
+                keys = [k for k in keys if k in only]
         else:
             keys = new_pages() if args.new else args.pages
             if args.claims_only:

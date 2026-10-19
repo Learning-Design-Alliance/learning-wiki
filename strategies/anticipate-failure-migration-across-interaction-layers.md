@@ -17,7 +17,7 @@ sources:
 # Treat added output structure in AI problem solving systems as a tradeoff, anticipating failure migration across interaction layers
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 For designers of AI-assisted problem solving systems, the article recommends that adding structure to model outputs, such as constrained executable reasoning, "should be understood as a tradeoff rather than an unambiguous improvement". Constraints can increase transparency and debuggability but introduce new points of breakdown at the protocol, execution, and mathematical layers. Designers should anticipate how failures migrate across representation layers rather than assuming they will disappear, treating LLMs as components within socio-technical systems.
@@ -36,6 +36,12 @@ For designers of AI-assisted problem solving systems, the article recommends tha
 
 ### Target Learning Goals
 - reliable operation of AI-assisted problem solving under executable output contracts
+
+## Claims
+
+- [Code-augmented interaction redistributes failures into protocol, execution, and mathematical layers, with Gemini 2.5 Pro failing mostly through protocol violations](../claims/executable-reasoning-failure-redistribution-layers.md) [+W]
+- [Code-augmented interaction consistently increases median and tail latency, and costs per correct answer typically increase, with Gemini 2.5 Pro a notable outlier](../claims/code-augmented-latency-cost-increases.md) [+W]
+- [Representation gaps are nontrivial for all models, and code-based interaction can amplify representational specialization rather than stabilizing performance](../claims/representation-gaps-model-specific-code-amplification.md) [+W]
 
 ## Related Strategies
 - 

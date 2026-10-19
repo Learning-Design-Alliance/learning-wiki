@@ -25,7 +25,8 @@ An eight-item parent-report subscale that measures the frequency of parents’ p
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Bright Beginnings](bright-beginnings.md)
 
 ## Key Sources
 - Tiago Ferreira, Joana Cadima, Marisa Matias, Joana Marina Vieira, and Teresa Leal; Karine Verschueren; Paula Mena Matos. (2018). Trajectories of Parental Engagement in Early Childhood Among Dual-Earner Families: Effects on Child Self-Control. Developmental Psychology, 54(4), 731–743. https://doi.org/10.1037/dev0000458

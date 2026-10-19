@@ -43,4 +43,6 @@ Teacher survey (N = 151) and parent survey (N = 247) reports of academic outcome
 
 
 ## Related Claims
+
 - [Cochlear implant use is not associated with greater perceived academic or social success, and children with implants are rated lowest in reading](cochlear-implants-not-associated-greater-perceived-success.md) — related
+- [Children with cochlear implants had difficulty following spoken conversation in groups, with teachers reporting far more difficulty than parents](ci-group-conversation-difficulty.md)

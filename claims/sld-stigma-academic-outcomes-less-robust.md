@@ -43,4 +43,6 @@ Review synthesis of the three studies (five effect sizes) relating SLD stigma to
 
 
 ## Related Claims
--
+
+- [Stigma awareness is associated with higher academic anxiety and lower intrinsic motivation among elementary-age children](stigma-awareness-academic-anxiety-intrinsic-motivation-children.md)
+- [Greater SLD stigma is associated with lower self-esteem, with a pooled medium-sized correlation (r = −.39) across nine effect sizes from six studies](sld-stigma-self-esteem-pooled-r-negative-39.md)

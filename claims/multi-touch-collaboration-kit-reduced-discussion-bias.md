@@ -43,4 +43,5 @@ Experimental hidden-profile study described by the editorial, including 54 triad
 
 
 ## Related Claims
--
+
+- [Emergent leadership did not differ between multi-touch table and paper conditions in study one](no-leadership-difference-multi-touch-paper.md)

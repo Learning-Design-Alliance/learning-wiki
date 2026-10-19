@@ -43,4 +43,7 @@ Systematic review searching PubMed, PsycINFO, ProQuest, and Academic Search Prem
 
 
 ## Related Claims
+
 - [No instruments were found measuring teachers' self-regulation in relation to inclusive teaching of autistic children, a gap the review flags for future research](self-regulation-measurement-gap-autism-inclusive-teaching.md) — related
+- [BRIEF, CBCL, SDQ, and CBQ were the most frequently used measures across included studies](sr-most-used-measures-brief-cbcl-sdq-cbq.md)
+- [Search of 7024 studies yielded 1228 eligible studies containing 133 unique measures](sr-screening-yield-7024-to-1228-studies.md)

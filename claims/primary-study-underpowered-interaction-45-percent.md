@@ -43,4 +43,6 @@ Simulation-based power analysis using the InteractionPoweR R package and shiny a
 
 
 ## Related Claims
--
+
+- [Analytical degrees of freedom in the primary study (prior-knowledge filtering and control-variable selection) affected its results: removing prior knowledge as a control rendered the comprehension interaction nonsignificant](analytical-flexibility-primary-study-results.md)
+- [The null effect of the disfluency × WMC interaction on transfer replicated the primary study's null finding, with both studies showing negative coefficients](transfer-null-interaction-replicated.md)

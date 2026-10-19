@@ -61,8 +61,11 @@ Figure 3 caption describing the within-country curves for the 33 countries in al
 - [Gender](../learner-variables/gender.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
+
 - [Sex differences in mathematics and reading are strongly and inversely correlated across nations in all four PISA assessments](across-nation-inverse-correlation-math-reading-sex-differences.md) — related
 - [The mathematics sex difference is practically non-existent among low performers and largest among high performers, where boys outnumber girls up to 2.7:1 above the 99th percentile](math-sex-difference-concentrated-at-high-end.md) — related
 - [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](pisa-sex-differences-math-small-reading-three-times-larger.md) — related
 - [The reading sex difference favoring girls grew over the decade and was driven by very poor performance of boys at the low end](reading-gap-growing-driven-by-low-performing-boys.md) — related
 - [The gender gap in reading is three times bigger than the gender gap in math](reading-gender-gap-three-times-math-gap.md) — related
+- [Gender is unevenly distributed across participation profiles: boys are overrepresented among disconnected and girls among diligent students](gender-distribution-participation-profiles.md)
+- [Shanghai students took first place in all three major PISA 2009 categories, with Asian countries dominating the top rankings](shanghai-first-place-pisa-2009-all-categories.md)

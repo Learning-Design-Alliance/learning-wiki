@@ -41,4 +41,5 @@ In the Engagement section, Mr. Duarte describes tasking his AP computer science 
 
 
 ## Related Claims
--
+
+- [Exposure to the HP Learning Studio raised student awareness that spread peer-to-peer and broadened students' sense of future possibilities](learning-studio-exposure-builds-student-awareness.md)

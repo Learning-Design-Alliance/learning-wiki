@@ -43,4 +43,5 @@ Experiment 1 mixed-effects regression (participants as random effect) found curi
 
 
 ## Related Claims
--
+
+- [The opt-out and curiosity–accuracy findings replicate in a larger UK sample (Experiment 3A)](opt-out-curiosity-findings-replicate-uk-sample.md)

@@ -17,7 +17,7 @@ sources:
 # Use the Computational Systems Modeling framework to guide curriculum integration, learning-tool design, and assessment of ST and CT
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The authors propose three uses of their framework: guiding curriculum developers and teachers in integrating ST and CT through modeling across multiple STEM courses; assisting software developers and curriculum designers in building learning tools and pedagogical supports involving modeling, ST, and CT; and helping researchers and teachers measure learners' understanding and application of modeling, ST, and CT. The framework's operationalizable aspects and sub-aspects are intended to make learner progress monitorable.
@@ -39,6 +39,11 @@ The authors propose three uses of their framework: guiding curriculum developers
 
 ### Affordances
 - Computational Systems Modeling Framework
+
+## Claims
+
+- [Systems thinking alone is insufficient for investigating complex systems with time delays and feedback, motivating the addition of computational thinking](../claims/st-alone-insufficient-complex-systems.md) [+W]
+- [The framework treats systems thinking and computational thinking as co-equal, separate entities within the context of modeling](../claims/st-and-ct-co-equal-separate-entities.md) [+W]
 
 ## Related Strategies
 - 

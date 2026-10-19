@@ -43,4 +43,5 @@ Design-narrative evaluation across iterations of the redesigned AR engine, illus
 
 
 ## Related Claims
--
+
+- [Role-based information asymmetry with infrared beaming encourages cross-team information exchange and collaborative discussion](role-asymmetry-beaming-promotes-cross-team-exchange.md)

@@ -43,4 +43,5 @@ Results section of the simultaneous treatments design: four participants showed 
 
 
 ## Related Claims
--
+
+- [Tutoring sessions were implemented with high procedural fidelity (mean 93.4%)](treatment-fidelity-peer-tutoring-sessions.md)

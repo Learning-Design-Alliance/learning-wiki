@@ -28,6 +28,8 @@ The Indiana Commission for Higher Education's Indiana College Core programme ena
 
 - [Early College](early-college.md)
 - [OnRamps](onramps.md)
+- [Illinois Monetary Award Program (MAP) grant](illinois-monetary-award-program-map-grant.md)
+- [Bridgit](bridgit.md)
 
 ## Key Sources
 - Rebeca Shackleford and Kristen Hengtgen. (2024). A Vision for Equitable Pathways: Enhancing Support and Innovation in College and Career Counseling. EdTrust/All4Ed. https://edtrust.org

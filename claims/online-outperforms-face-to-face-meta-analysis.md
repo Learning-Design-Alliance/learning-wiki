@@ -61,4 +61,5 @@ The meta-analysis reports the pooled mean difference across the 51 contrasts as 
 
 
 ## Related Claims
--
+
+- [In the narrative synthesis, blended and purely online conditions within a single study generally produced similar learning outcomes, and media elements such as video or online quizzes did not appear to influence learning.](narrative-synthesis-variants-of-online-learning.md)

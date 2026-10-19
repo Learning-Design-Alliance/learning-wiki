@@ -17,7 +17,7 @@ sources:
 # Combined health and financial literacy assessment yielding an averaged total literacy score
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article describes a literacy assessment composed of nine health literacy questions (e.g., understanding Medicare, medication instructions, interpreting drug risk) and 23 financial literacy questions (numeracy, compound interest, inflation, financial terms such as FDIC, stocks, and mutual funds), all multiple choice or true/false and scored correct/incorrect. Because the tests differed in item count, subscores were "expressed as the percentage correct out of total items (from 0 – 1)" and "The total literacy score was the average of these two percentages." Total literacy had "adequate internal consistency with a Cronbach 's coefficient alpha of 0.77."
@@ -37,7 +37,10 @@ The article describes a literacy assessment composed of nine health literacy que
 - ability to understand and process health and financial information, concepts, and numeracy
 
 ### Claims
-- 
+
+- [Higher total literacy is associated with higher global cognition and all five specific cognitive abilities in older adults without dementia](../claims/literacy-associated-cognition-older-adults.md) [+W]
+- [Higher total literacy is associated with more frequent participation in cognitive, physical, and social activities in older adults without dementia](../claims/literacy-associated-health-promoting-behaviors-older-adults.md) [+W]
+- [Literacy is associated with functional status in older adults, but after full adjustment total literacy remains associated only with instrumental activities of daily living and mobility disability](../claims/literacy-associated-functional-status-older-adults.md) [+W]
 
 ## Related Designs
 - 

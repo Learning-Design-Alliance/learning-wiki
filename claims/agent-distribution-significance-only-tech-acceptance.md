@@ -43,5 +43,7 @@ Distribution and paired t-test comparisons across the five non-cognitive dimensi
 
 
 ## Related Claims
+
 - [In the MAIC case study, student development agent predictions (Concept and Scales methods) outperformed the mean baseline across all five non-cognitive dimensions on RMSE and MAE](agent-beats-mean-baseline-rmse-mae.md) — related
 - [The agent's predictions show a performance gap versus a regression reference that uses real students' post-test data](agent-gap-versus-regression-reference.md) — related
+- [Students' technology acceptance increased significantly after taking a MAIC course](technology-acceptance-increased-maic.md)

@@ -43,4 +43,6 @@ Structural equation modeling of concurrent measures in a sample of 442 upper ele
 
 
 ## Related Claims
--
+
+- [Self-reported concentration was examined as a contributor to listening comprehension but did not emerge in the best-fitting model](concentration-not-in-best-fitting-listening-model.md)
+- [Verbal short-term memory and academic self-efficacy are positively associated with children's vocabulary](verbal-stm-self-efficacy-positively-associated-vocabulary.md)

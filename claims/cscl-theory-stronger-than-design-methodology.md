@@ -43,4 +43,5 @@ The incoming Editor-in-Chief's editorial observation, drawn from ten years of ed
 
 
 ## Related Claims
--
+
+- [The editorial calls for empirically grounded analysis combining Rabardel's theory with design-based research data to study mutual shaping of CSCL software and group cognition](rabardel-plus-design-based-research-agenda.md)

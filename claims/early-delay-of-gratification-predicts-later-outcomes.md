@@ -82,3 +82,4 @@ The Watts, Duncan, and Quan (2018) replication is an important corrective to the
 - [Social competence is positively and externalizing problems negatively prospectively related to academic achievement](social-competence-positive-externalizing-negative-achievement.md) — related
 - [Children's wait-times on sustained delay-of-gratification tasks reflect beliefs about environmental reliability in addition to self-control capacity](wait-times-reflect-environmental-reliability-beliefs.md) — related
 - [Reward prediction error: achieving less than expected causes a dopamine dip below baseline that discourages future effort, while external reward surges are followed by compensatory dips](dopamine-reward-prediction-error-crash.md) — related
+- [A majority of young children make choices consistent with hyperbolic discounting, preferring immediate over larger delayed rewards](children-hyperbolic-discounting-bettinger-slonim.md)

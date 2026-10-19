@@ -13,7 +13,7 @@ generated:
 # Woodcock-Johnson Tests of Achievement—Applied Problems subtest
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q3` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 A standardized achievement subtest measuring applied mathematical problem-solving and early numeracy, developed and published as part of the Woodcock-Johnson assessment system by Riverside Insights.
@@ -24,8 +24,13 @@ A standardized achievement subtest measuring applied mathematical problem-solvin
 
 ### Claims
 
+- [Studies relying exclusively on the Applied Problems subtest are likely to miss small but meaningful influences on early math achievement because the measure is less sensitive to variation among young children](../claims/applied-problems-misses-small-moderation-effects.md) [+W]
+- [Quality of the kindergarten teacher–child relationship moderates the preschool-to-kindergarten development of math ability on the ECLS-K Math battery but not the Applied Problems subtest](../claims/teacher-relationship-moderates-ecls-k-math-growth.md) [+W]
+- [Preschool math ability significantly predicts kindergarten math ability on both the ECLS-K Math battery and the Applied Problems subtest](../claims/preschool-math-predicts-kindergarten-math-both-measures.md) [+W]
+
 ## Related Products and Programmes
--
+
+- [MSCEIT-YV Emotion Regulation Ability subtest](msceit-yv-emotion-regulation-ability-subtest.md)
 
 ## Key Sources
 - Pamela Davis-Kean, Thurston Domina, Megan Kuhfeld, Alexa Ellis, Elizabeth Gershoff. (2021). It matters how you start: Early numeracy mastery predicts high school math course-taking and college attendance. Infant and Child Development. https://doi.org/10.1002/icd.2281

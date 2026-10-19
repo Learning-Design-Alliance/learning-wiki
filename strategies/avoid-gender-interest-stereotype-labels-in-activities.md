@@ -17,7 +17,7 @@ sources:
 # Avoid labeling activities with gender-interest stereotypes; describe activities as equally interesting to girls and boys
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The experiments show that simply describing an activity as one "girls are less interested in this activity than boys" causally lowers girls' interest and choice, whereas the description "girls and boys are equally interested in this activity" does not. The authors conclude that cues of gender-interest stereotypes by teachers, parents, or peers may create or widen gender gaps "even when the stereotypes have no basis in reality", so educators should omit such interest-stereotype framing from activity descriptions.
@@ -36,8 +36,14 @@ The experiments show that simply describing an activity as one "girls are less i
 ### Target Learning Goals
 - Maintaining girls' interest and participation choices in computer science activities
 
+## Claims
+
+- [Gender-interest stereotypes create a gender gap in interest in a computer science activity: girls, but not boys, show lower interest when the stereotype is present](../claims/stereotype-creates-gender-gap-cs-activity-study4.md) [+M]
+- [Experimentally labeling a novel activity with a gender-interest stereotype causes 8-year-old girls to report lower interest and choose it less often](../claims/stereotype-label-causes-lower-girls-interest-novel-activity.md) [+M]
+
 ## Related Strategies
-- 
+
+- [Introduce computer science to girls in elementary school, before gender-interest stereotypes take root](introduce-cs-early-before-interest-stereotypes-take-root.md)
 
 ## Examples
 -

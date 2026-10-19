@@ -40,7 +40,8 @@ A training program implemented and tested as part of a digital literacy course, 
 - [Analytical Strategy Training Improves Online Reading Performance](../claims/analytical-strategy-training-improves-online-reading-performance.md) [+M]
 
 ## Related Designs
-- 
+
+- [Analytical approach to strategy training: detailed step-by-step strategy presentation combined with integration of strategies across modules and practice tasks](analytical-approach-strategy-training.md)
 
 ## Examples
 -

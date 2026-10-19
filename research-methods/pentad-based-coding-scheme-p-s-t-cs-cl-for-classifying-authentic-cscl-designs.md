@@ -24,7 +24,8 @@ The article operationalizes sociocultural design variation with a coding scheme 
 ### Claims
 
 ## Related Research Methods
--
+
+- [A taxonomy classifying authentic CSCL learning environments into simulation and hybrid environments with five descriptors](a-taxonomy-classifying-authentic-cscl-learning-environments-into-simulation-and-hybrid-env.md)
 
 ## Key Sources
 - Yotam Hod, Ornit Sagy. (2019). Conceptualizing the Designs of Authentic Computer-Supported Collaborative Learning Environments in Schools. http://link.springer.com/article/10.1007%2Fs11412-019-09300-7 https://doi.org/10.1007/s11412-019-09300-7

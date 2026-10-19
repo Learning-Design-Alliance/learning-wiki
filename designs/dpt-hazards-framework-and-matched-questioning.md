@@ -41,7 +41,8 @@ Dual-process theories describe reasoning as the interplay of a fast, automatic P
 ### Claims
 
 ## Related Designs
-- 
+
+- [Five-agent DPT simulated classroom on a static-friction problem](dpt-five-agent-simulated-classroom.md)
 
 ## Examples
 -

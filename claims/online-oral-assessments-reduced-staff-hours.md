@@ -43,4 +43,10 @@ The review reports, citing Starr-Egger (2023), an operational analysis of online
 
 
 ## Related Claims
+
 - Staff time for the Capstone was limited and unequally divided across CHARM-EU partners, with University of Pretoria staff receiving no hours or funding — related
+- [No evidence found that particular student groups are disadvantaged in oral versus written assessments](no-group-disadvantage-oral-assessments.md)
+- [Oral assessments are recommended as a strategy to maintain academic integrity against AI use](oral-assessments-academic-integrity-ai.md)
+- [Oral assessments can induce more anxiety than written ones, yet many students still prefer them](oral-assessments-anxiety-but-preferred.md)
+- [Preparing for oral assessments changes student study habits toward understanding over memorization](oral-assessments-change-study-habits.md)
+- [Students performed better on oral measures than written measures in comparison studies](students-perform-better-oral-than-written.md)

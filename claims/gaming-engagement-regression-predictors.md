@@ -43,4 +43,7 @@ Stepwise linear regression on self-report data from 189 participants, with engag
 
 
 ## Related Claims
--
+
+- [Players decided to engage in gaming primarily for escapism and fun, social connectivity, and achievement of task-related goals through control](gaming-engagement-decision-factors.md)
+- [Male participants were almost twice as likely as females to be engaged in gaming](males-twice-likely-gaming-engagement.md)
+- [Video game skill and time spent playing are associated with gaming motivations](skill-and-hours-associated-with-gaming-motivations.md)

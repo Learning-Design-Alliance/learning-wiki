@@ -43,5 +43,8 @@ Descriptive results from Figure 4 aggregating mean nonverbal frequencies per rat
 
 
 ## Related Claims
+
 - [No statistically significant association between QCGE dimension ratings and the collaborative product grade](qcge-dimensions-nonsignificant-learning-outcome-grade.md) — related
 - [QCGE dimensions correlate weakly with each other except a moderate CE–CC correlation; nonverbal behaviors were not affected by task condition](qcge-dimensions-weak-intercorrelations-condition-null.md) — related
+- [A confirmatory factor analysis supports a four-factor structure of collaborative group engagement (behavioural, social, cognitive, conceptual-to-consequential) for the QCGE self-assessment scale](qcge-sas-four-factor-structure-cfa-supported.md)
+- [Criterion validity testing related QCGE-SAS subscale correlations and a regression on objectively graded group products for a laboratory subsample](qcge-sas-criterion-validity-learning-outcomes.md)

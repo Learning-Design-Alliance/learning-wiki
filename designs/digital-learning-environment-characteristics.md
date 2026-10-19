@@ -39,6 +39,10 @@ The report enumerates the characteristics learning takes on once digital content
 ### Claims
 
 
+## Related Designs
+
+- [Collaborative making project pattern: multi-material, digitally enhanced, holistic, thematically anchored](school-collaborative-making-project-pattern.md)
+
 ## Related Patterns
 
 - [Dynamic characteristics of digital content: randomly accessed, authentic, multi-level, interactive, manipulatable, instantaneous and creative](../elements/digital-content-dynamic-characteristics.md)

@@ -13,7 +13,7 @@ generated:
 # The River conceptual model
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 against) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A Flash-based interactive geography learning object developed by Daniel Churchill that lets secondary students manipulate river parameters, calculate discharge, and visualize river-flow relationships across handheld and other presentation devices.
@@ -23,7 +23,9 @@ A Flash-based interactive geography learning object developed by Daniel Churchil
 - **The River conceptual model learning object**: The River conceptual model is a Flash-based learning object designed for handheld use in geography fieldwork. It contains information about river parameters, enables calculation of river discharge, presents the impact of riverbed shape on flow rates, and allows identification of common bedrocks along the river. Students manipulate parameters such as position on the river via sliders, with outcomes displayed visually and numerically, and it can be rescaled for computers, projectors, and embedding in PowerPoint or blogs. (Daniel Churchill (2011))
 
 ### Claims
+
 - [A river-study conceptual model on handhelds supported observation, analysis, experimentation, and report writing for 72 secondary students in fieldwork](../claims/river-conceptual-model-fieldwork-case.md) [+M]
+- [Reading text and presenting graphics on handheld screens are more difficult than on paper, and interactivity may be compromised](../claims/small-screen-usability-limitations.md) [-W]
 
 ## Related Products and Programmes
 -

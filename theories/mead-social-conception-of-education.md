@@ -44,6 +44,7 @@ The course description of Mead's Course 50, quoted in the article, frames two in
 - [Mead's theory of the social origin of reflective consciousness](mead-social-origin-of-reflective-consciousness.md)
 - [Dewey's democratic education](dewey-democratic-education.md)
 - [Experiential learning: students develop opinions of a concept through interaction with information](dewey-experiential-learning-vr.md)
+- [Dewey's pedagogical principles: school as life itself, no subject with educational value on its own, and education for all citizens](dewey-pedagogical-principles-school-as-life.md)
 
 ## Examples
 

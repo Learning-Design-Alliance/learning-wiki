@@ -17,7 +17,7 @@ sources:
 # Use district-level analyses of health condition prevalence, supports, and outcomes to inform an action plan for equitably supporting students with health conditions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article describes a district partnering with a regional educational laboratory to analyze the prevalence of student health conditions, available supports, and relationships with education outcomes. DCPS "expects to use the results of the study to inform an action plan for equitably supporting students with health conditions," focusing on a core set of conditions of particular district interest.
@@ -36,8 +36,14 @@ The article describes a district partnering with a regional educational laborato
 ### Target Learning Goals
 - Equitable support and improved education outcomes for students with health conditions
 
+## Claims
+
+- [Among DCPS students with a reported health condition, 28 percent receive support through a Section 504 plan or an individualized education program](../claims/dcps-28-percent-health-condition-504-iep-support.md) [+W]
+- [DCPS students with any reported health condition generally had poorer education outcomes than students without a health condition](../claims/dcps-health-condition-poorer-education-outcomes.md) [+W]
+
 ## Related Strategies
-- 
+
+- [State education agencies can commission regional educational laboratory analytic support to develop COVID-19 mitigation guidance for school reopening](state-agencies-commission-rel-analytic-support-reopening-guidance.md)
 
 ## Examples
 -

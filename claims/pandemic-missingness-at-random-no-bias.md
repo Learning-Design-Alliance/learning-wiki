@@ -43,4 +43,5 @@ Secondary missingness analysis in the Sample and Design section comparing the se
 
 
 ## Related Claims
--
+
+- [Missing data in the analysis samples occurred largely at random](missing-data-largely-at-random-training-study.md)

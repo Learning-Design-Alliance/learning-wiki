@@ -83,7 +83,7 @@ Discussion sections convert passive exposure into generative engagement; learner
 
 ## Examples
 - **Peer Instruction (Eric Mazur, Harvard University)** ([https://blog.peerinstruction.net](https://blog.peerinstruction.net)) — students answer a concept question individually, discuss with neighbors, then re-answer; peer discussion in the intervening step produces large gains [Peer discussion improves performance even without initial knowledge.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
-- **[Socratic Seminar](../patterns/socratic-seminar.md)** — a text-based discussion format in which learners question one another using evidence from an assigned reading; the facilitator intervenes only to redirect
+- **[Socratic Seminar](socratic-seminar.md)** — a text-based discussion format in which learners question one another using evidence from an assigned reading; the facilitator intervenes only to redirect
 - **Harkness Method (Phillips Exeter Academy)** — oval-table discussion where all participants, with the teacher as facilitator, drive the conversation
 - **Perusall** ([https://www.perusall.com](https://www.perusall.com)) — social annotation platform that moves reading discussion online, giving every learner a written voice before the live section
 

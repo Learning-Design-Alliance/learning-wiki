@@ -47,7 +47,9 @@ Regression analysis of the same 478-student survey. Academic self-efficacy was a
 - [Self-Efficacy](../learner-variables/self-efficacy.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — a broader claim this one bears on
 - [Academic self-efficacy is negatively associated with AI dependency among university students](self-efficacy-negatively-associated-ai-dependency.md) — a narrower finding that bears on this claim
 - [AI dependency mediates the relationship between academic self-efficacy and learning burnout](ai-dependency-mediates-self-efficacy-burnout.md) — related
 - [GenAI can support learner agency through self-regulated learning, self-efficacy, and feedback literacy under appropriate conditions](genai-agency-supportive-patterns.md) — related
+- [The eight-predictor model explains 27.3% of variance in AI dependency, and multidimensional AI literacy adds explanatory value over a single aggregate score](multidimensional-ai-literacy-model-explains-27-percent-dependency-variance.md)

@@ -43,4 +43,7 @@ Learning-curve analysis of student performance data from computer-based tutoring
 
 
 ## Related Claims
--
+
+- [Students are significantly worse at translating two-step algebra story problems than matched one-step problems, implicating a hidden integrative knowledge component](integrative-kc-two-step-algebra-translation.md)
+- [KLI complexity-matching hypothesis: instructional principles of a given complexity are effective for knowledge components of equal or greater complexity but not less complex ones](kli-complexity-matching-hypothesis.md)
+- [Clarity matters less as concept structure becomes simpler: no significant clear-vs-unclear difference for constant successive lessons](clarity-less-relevant-simpler-structures.md)

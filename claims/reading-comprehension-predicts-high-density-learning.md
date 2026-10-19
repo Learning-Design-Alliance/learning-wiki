@@ -62,4 +62,8 @@ Comparison regressions on the three remaining standard-density treatments with s
 
 
 ## Related Claims
--
+
+- [High-density text takes longer to complete than low-density text in self-paced lessons](high-density-text-longer-completion-time.md)
+- [Low-density text is as effective as high-density text for achievement in expository CBI and print lessons](low-density-text-equal-achievement.md)
+- [Less skilled readers are more likely to select high-density text under learner control](reading-rate-predicts-density-selection.md)
+- [Students generally prefer low-density text, selecting it on about 65 percent of learner-control choices](students-prefer-low-density-text.md)

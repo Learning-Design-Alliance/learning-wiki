@@ -39,7 +39,9 @@ The article recommends future uses of FOXGLOVE: controlled studies of how studen
 - connecting feedback quality to revision outcomes
 
 ## Related Strategies
+
 - Foxglove Dataset
+- [Prefer naturalistic over randomized controlled designs when studying dialogue-outcome relations](naturalistic-design-for-dialogue-outcome-research.md)
 
 ## Examples
 -

@@ -17,7 +17,7 @@ sources:
 # Provide free or low-cost technical support and device access so families can maintain the technology they need
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 4 studies (3 associational, 1 qualitative), `q2`–`q3` · 0 of 4 report an effect size · 2 claims rest on one study
 
 ## Description
 Even when families own devices, they often lack affordable technical support. Briya therefore provides "full technical support to ensure their parents and children always have the devices they need," connects learners to a local program offering low-cost laptops, lets learners use the program's IT department for device issues, and opens its devices for use before and after school. The case study names opening the program's IT division to families "a creative way to solve this need."
@@ -38,7 +38,10 @@ Even when families own devices, they often lack affordable technical support. Br
 - sustained access to digital learning tools
 
 ### Claims
-- 
+
+- [Immediately after closure, New York charter students lacked adequate devices (44.4% on average) more often than adequate internet access (27.0%), while teachers were almost universally equipped](../claims/device-access-gap-internet.md) [+W]
+- [During spring 2020 remote instruction, internet connectivity and hardware/software problems interfered with course participation for large shares of undergraduates](../claims/remote-covid-technology-access-problems-widespread.md) [+M]
+- [Teachers identify attendance, unreliable devices, prior academic gaps, and COVID-related disruption as compounding contextual barriers to persistence](../claims/contextual-barriers-persistence-theme.md) [+W]
 
 ## Related Designs
 - 

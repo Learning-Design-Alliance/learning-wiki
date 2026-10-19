@@ -59,6 +59,7 @@ The report's policy implications section recommends four levers for policymakers
 - [State policy levers for sustaining yearlong, stipended clinical preparation: require or incentivize full-year stipended clinical experience, fund partnerships, and reduce testing fees](state-policy-levers-yearlong-stipended-clinical-preparation.md)
 - [Invest in high-quality induction and mentoring programs, which are associated with higher retention particularly for teachers of color](induction-mentoring-retention-teachers-of-color.md)
 - [Invest in retention of teachers of color through residencies, affinity groups, and induction/mentoring](retain-teachers-of-color-residencies-affinity-mentoring.md)
+- [Institutional, state, and federal actions to increase faculty diversity](institutional-state-federal-faculty-diversity-actions.md)
 
 ## Examples
 -

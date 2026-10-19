@@ -236,3 +236,4 @@ This study found that the seductive details effect was not uniform: readers with
 - [Working memory capacity interacts with illustration type: seductive illustrations impair comprehension only for low-WMC readers](wmc-moderates-seductive-details-effect.md) — a narrower finding that bears on this claim
 - [Interest-evoking text revision strategies raised fourth and sixth graders' recall of a history passage but not acquisition of abstract, general information](interest-evoking-strategies-recall-history-passage.md) — related
 - [Distraction during maintenance impairs working memory, with distractor processing inversely related to recognition accuracy](distraction-during-maintenance-impairs-wm.md) — a narrower finding that bears on this claim
+- [Seductive detail amount did not increase learners' intrinsic motivation in either study](sd-amount-no-motivation-effect.md)

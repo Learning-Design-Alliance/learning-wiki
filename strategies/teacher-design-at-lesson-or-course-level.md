@@ -44,6 +44,7 @@ Kirschner recommends that teacher participation in research and design be served
 ## Related Strategies
 
 - [Provide teachers with exemplar NGSS-aligned CBL units and templates to customize rather than requiring design from scratch](hybrid-unit-template-customization-approach.md)
+- [Organize participatory design meetings for one teacher with a small heterogeneous group of student co-designers](pd-meeting-format-small-heterogeneous-group.md)
 
 ## Examples
 -

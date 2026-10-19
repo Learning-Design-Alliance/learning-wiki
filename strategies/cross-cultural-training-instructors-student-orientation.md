@@ -17,7 +17,7 @@ sources:
 # Provide program-level cross-cultural training for online instructors and orientation plus scaffolding for international students
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends concrete program-level actions for transnational online programs: cross-cultural training support to develop instructors' cultural competencies, an initial student orientation to U.S. culture and academic rules of conduct, scaffolding to reduce cultural language barriers, and use of audio and visual aids. As the authors state, "Appropriate cross-cultural training support should be provided at the program level in order to develop the online instructors’ cultural competencies." They also recommend instructors conduct a quick learner analysis of students' expectations and cultural backgrounds.
@@ -35,6 +35,11 @@ The article recommends concrete program-level actions for transnational online p
 
 ### Target Learning Goals
 - reducing cultural and language barriers to full participation in online courses
+
+## Claims
+
+- [Language barriers were the biggest concern for Chinese international students, who reported tripling their reading time in English](../claims/language-barriers-biggest-concern-chinese-students.md) [+W]
+- [International students expressed frustration at severe punishment for inappropriate citations, and the authors recommend education over pure punishment](../claims/plagiarism-cultural-conduct-frustration.md) [+W]
 
 ## Related Strategies
 - 

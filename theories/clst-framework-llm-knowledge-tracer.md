@@ -45,7 +45,8 @@ CLST is a framework that aligns a generative LLM to knowledge tracing by convert
 - 
 
 ## Examples
--
+
+- [KT4EQG](../products/kt4eqg.md)
 
 ## Key Sources
 - Heeseok Jung, Yohaan Yoon, Jaesang Yoo, Yeonju Jang. (2025). CLST: Cold-Start Mitigation in Knowledge Tracing by Aligning a Generative Language Model as a Students' Knowledge Tracer. Journal of Educational Data Mining, Volume 17, No 2. https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2

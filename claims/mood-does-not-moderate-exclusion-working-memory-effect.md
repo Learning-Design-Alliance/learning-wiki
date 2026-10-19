@@ -43,4 +43,7 @@ Exploratory analysis in the same 98-participant experiment tested whether mood m
 
 
 ## Related Claims
--
+
+- [Cyberball exclusion reduces n-back verbal working memory accuracy in young adolescent girls but not in mid-adolescents or adults](exclusion-reduces-nback-accuracy-young-adolescent-girls.md)
+- [Social exclusion shows no significant effect on n-back response times in any age group](no-exclusion-effect-nback-response-times.md)
+- [Social exclusion has no significant effect on visuo-spatial dot-matrix working memory accuracy in any age group](no-exclusion-effect-visuospatial-working-memory.md)

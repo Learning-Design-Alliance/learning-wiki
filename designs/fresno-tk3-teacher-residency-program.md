@@ -41,7 +41,8 @@ An 18-month residency (2017–2019) within Fresno Unified's workforce pipeline, 
 - [Fresno Tk3 Residency 30 Teachers 83 Percent Retention](../claims/fresno-tk3-residency-30-teachers-83-percent-retention.md) [+M]
 
 ## Related Designs
-- 
+
+- [Sanger STaR integrated two-semester curriculum: eleven courses consolidated into two yearlong integrated courses, saving residents roughly $4,000](sanger-star-integrated-two-semester-curriculum.md)
 
 ## Examples
 -

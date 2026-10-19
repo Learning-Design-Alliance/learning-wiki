@@ -62,4 +62,7 @@ Student rating survey of the Good For assignments in N100. The article reports o
 
 
 ## Related Claims
--
+
+- [JiTT implementation was associated with a decreased DFW rate in Contemporary Biology, from 27% to 20%](jitt-decreased-dfw-rate-n100.md)
+- [Test questions reinforced by Warm Up questions or Cooperative Learning activities showed higher average normalized gains (~52%, ~60%) than questions discussed in class only (~15%)](jitt-higher-normalized-gains-reinforced-questions.md)
+- [Students rated class discussions of Warm Up responses as very useful (87%, n = 485)](students-rate-warmup-discussions-useful.md)

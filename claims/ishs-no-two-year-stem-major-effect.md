@@ -43,8 +43,10 @@ Propensity score-weighted HLM on the same Texas survey sample, analyzed separate
 
 
 ## Related Claims
+
 - [ISHS attendance increases the odds of economically disadvantaged students entering a Texas four-year college by 75 to 80 percent, with no significant college-entry effect for students overall](ishs-four-year-entry-economically-disadvantaged.md) — related
 - [The ISHS advantage in STEM career interest at the end of high school remains significant after controlling for prior middle school STEM interest and activity](ishs-impact-robust-to-prior-stem-interest-controls.md) — related
 - [ISHS attendance is associated with more Core STEM courses completed at four-year colleges but not with STEM GPA or total courses, and shows no course-taking advantage at two-year colleges](ishs-more-core-stem-courses-four-year-only.md) — related
 - [Attending an inclusive STEM high school nearly triples the odds of declaring a Core STEM major at a four-year college two years after high school graduation](ishs-triples-odds-four-year-stem-major.md) — related
 - [The four-year college STEM major advantage of inclusive STEM high schools holds for Hispanic, female, and economically disadvantaged students, with odds ratios above three](ishs-stem-major-advantage-underrepresented-subgroups.md) — related
+- [Science club participation shows no statistically significant relationship with selecting a STEM college major](science-club-no-stem-major-association.md)

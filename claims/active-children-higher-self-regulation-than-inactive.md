@@ -62,4 +62,5 @@ ANCOVA comparison of self-regulation across screen time categories (less than 2 
 
 
 ## Related Claims
--
+
+- [Active children show higher self-regulation than inactive/high screen time peers regardless of their own screen time level](active-children-high-screen-time-higher-self-regulation.md)

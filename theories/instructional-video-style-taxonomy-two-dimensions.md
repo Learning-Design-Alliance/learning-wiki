@@ -50,7 +50,7 @@ The article proposes a taxonomy that classifies asynchronous instructional video
 
 ## Examples
 
-- [Select a video production style holistically, considering course type, complementary materials, and learner needs rather than video alone](../principles/holistic-video-style-selection-principle.md)
+- [Select a video production style holistically, considering course type, complementary materials, and learner needs rather than video alone](../principles/multimedia-learning.md)
 - [Use the taxonomy as a design space to select or invent novel video formats, especially combining artificial characters with digital or physical media](../strategies/video-taxonomy-as-design-space-strategy.md)
 - [Index of instructional video styles (Table 2): a sampled classification of existing formats](../elements/instructional-video-style-index-table2.md)
 

@@ -17,7 +17,7 @@ sources:
 # Explicitly encourage readers to monitor how sources differing in trustworthiness, and reading order, influence their reliability perceptions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article proposes an intervention direction for promoting critical or analytical reading: learners should be guided to notice how sources with differing trustworthiness, encountered in sequence, shape their reliability judgments relative to reading each source in isolation. The authors write that "Future intervention studies could benefit from explicitly encouraging readers to monitor how sources with significantly differing trustworthiness may influence their perception of reliability". This builds on their finding that contrast between document sources drove evaluation shifts.
@@ -35,6 +35,10 @@ The article proposes an intervention direction for promoting critical or analyti
 
 ### Target Learning Goals
 - critical evaluation of source trustworthiness in multiple-document reading
+
+## Claims
+
+- [Embedded-source trustworthiness evaluations shift toward the trustworthiness of the most recent document source in mixed sequences](../claims/es-evaluation-shifts-mixed-sequences.md) [+W]
 
 ## Related Strategies
 - 

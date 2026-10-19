@@ -37,7 +37,9 @@ The article recommends that teachers of young children receive professional deve
 - Self-regulation skills, school engagement, and academic competence in early elementary school
 
 ## Related Strategies
-- 
+
+- [Scaffolding Self-Regulation](scaffolding_self-regulation.md)
+- [Provide professional learning and a bilingual workforce so preK and early elementary educators can sustain home language and oral language development](bilingual-workforce-prek-professional-learning.md)
 
 ## Examples
 -

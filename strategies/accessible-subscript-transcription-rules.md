@@ -17,7 +17,7 @@ sources:
 # Accessible subscript transcription rules: math-code single elements, text-code multi-letter labels, unstack stacked subscripts
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The v6m system instructions encode subscript elements semantically: bare numbers, single symbols, and single letters are coded as math so a screen reader reads them separately, while multi-letter labels are coded as text so they are read as words. The instructions state that "All subscript elements consisting of multi-letter labels are coded as text, so that they will be read out as words rather than as individual letters". Subscripts are transcribed in board-written order without artificially injected commas, and vertically stacked subscripts are identified and rearranged into unstacked configurations, which are more robust and simpler for screen readers.
@@ -36,6 +36,10 @@ The v6m system instructions encode subscript elements semantically: bare numbers
 
 ### Target Learning Goals
 - accurate auditory reconstruction of multi-subscript mathematical notation
+
+## Claims
+
+- [The v6m subscript framework robustly transcribed a wide range of board-written subscript configurations, with stacked-subscript unstacking less reliable](../claims/v6m-subscript-framework-robust-transcription.md) [+W]
 
 ## Related Strategies
 

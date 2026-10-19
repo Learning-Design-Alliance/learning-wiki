@@ -17,7 +17,7 @@ sources:
 # Evaluate ed-tech program effects at the grade-level cluster level with state-z-scored outcomes across states
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The evaluation used the grade-level cluster (all classes teaching a given grade in a school) as the unit of analysis rather than classrooms or whole schools, and converted state-specific assessment outcomes to z-scores because the states used differing standardized tests. Matching was conducted within the same state, and combined-grade effects were estimated with hierarchical linear modeling to account for nesting of grades within schools, with the Benjamini-Hochberg correction applied to control false discovery across multiple outcome comparisons.
@@ -35,6 +35,10 @@ The evaluation used the grade-level cluster (all classes teaching a given grade 
 
 ### Target Learning Goals
 - elementary mathematics achievement on state standardized assessments
+
+## Claims
+
+- [Grade-level clusters provided with ST Math scored higher on state math proficiency rates and scale scores than matched comparison clusters across grades 3-5](../claims/st-math-provided-schools-higher-math-outcomes.md) [+W]
 
 ## Related Strategies
 - 

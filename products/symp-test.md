@@ -27,7 +27,8 @@ The SYMP Test is a group-administered, timed paper-and-pencil assessment created
 - [Typically achieving children outperform children with mathematical learning difficulties on both SYMP subtests in all grades except Grade 6](../claims/symp-mld-lower-except-grade-6.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [VisA instrument (Visualization and Accuracy)](visa-instrument-visualization-and-accuracy.md)
 
 ## Key Sources
 - Brankaer, C., Ghesquière, P., & De Smedt, B. (2017). Symbolic magnitude processing in elementary school children: A group administered paper-and-pencil measure (SYMP Test). Behavior Research Methods, 49, 1361–1373. https://doi.org/10.3758/s13428-016-0792-3

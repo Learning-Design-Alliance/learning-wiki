@@ -62,4 +62,5 @@ In the same mixed-effects models with modality as a fixed effect, the studying-r
 
 
 ## Related Claims
--
+
+- [Text amount and slide position strongly influenced studying durations, but picture type did not affect studying rate in either modality](slide-characteristics-drive-studying-duration.md)

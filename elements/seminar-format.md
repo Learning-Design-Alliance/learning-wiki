@@ -32,7 +32,7 @@ Seminar format is the element in which learning is organized around sustained di
 
 ### Affordances
 - [Peer Discussion](../principles/peer-discussion.md)
-- [Social Constructivism](../principles/social-constructivism.md)
+- [Social Constructivism](../theories/sociocultural-theory.md)
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
@@ -46,7 +46,7 @@ Seminar format is the element in which learning is organized around sustained di
 - [Pre-Seminar Preparation](pre-seminar-preparation.md)
 
 ## Patterns That Use This Element
-- [Socratic Seminar](../patterns/socratic-seminar.md)
+- [Socratic Seminar](socratic-seminar.md)
 - [Discussion-Based Learning](../principles/collaborative-learning.md)
 
 ## Examples

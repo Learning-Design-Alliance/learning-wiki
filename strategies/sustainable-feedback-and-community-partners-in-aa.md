@@ -17,7 +17,7 @@ sources:
 # Design sustainable, future-oriented feedback and structured community-partner collaboration in authentic assessment
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Drawing on the review's gaps, the authors recommend that educators design feedback that emphasises the learning process and self-regulation, fostering students' evaluative judgement and application of knowledge over time, and provide 'more structured opportunities for students to engage in collaborative projects with workplace or community partners'. Such partnerships advance a broader mission of societal transformation and help students define their societal roles and gain recognition for their contributions.
@@ -38,6 +38,11 @@ Drawing on the review's gaps, the authors recommend that educators design feedba
 
 ### Affordances
 - Learning Oriented Collaborative Aa Design Framework
+
+## Claims
+
+- [Formative feedback dominates authentic assessment designs while sustainable feedback is rare](../claims/aa-formative-feedback-dominates-sustainable-rare.md) [+W]
+- [Social collaboration in authentic assessment is mostly peer- and teacher-based, with few connections to industry or community partners and rare equitable teacher-student collaboration](../claims/aa-social-collaboration-limited-community-connection.md) [+W]
 
 ## Related Strategies
 - 

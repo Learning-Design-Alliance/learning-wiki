@@ -26,7 +26,8 @@ A data-reporting tool developed by Equal Opportunity Schools that helps schools 
 - [Leaders caution that disaggregating data by student demographics is only the beginning of using continuous improvement for equity, not its entirety](../claims/data-disaggregation-beginning-not-entirety.md) [~W]
 
 ## Related Products and Programmes
--
+
+- [EOS Student Insight Card](eos-student-insight-card.md)
 
 ## Key Sources
 - The Education Trust; Equal Opportunity Schools. (2023). 5 Questions to Ask District and School Leaders About Access to Advanced STEM Coursework in High School. https://edtrust.org

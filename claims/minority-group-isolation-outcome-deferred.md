@@ -43,5 +43,9 @@ Statement of scope from the report's executive summary: the minority group isola
 
 
 ## Related Claims
+
 - Most education impact studies can rigorously address only broad questions due to power constraints — related
 - A methodological study tests whether four nonexperimental comparison group approaches can replicate experimental impact estimates from a random assignment evaluation of charter schools. — related
+- [Attendance at Gehring STEM Academy had statistically significant positive impacts on mathematics and reading achievement in grades 1-5 after up to 1.5 years, with no significant science impacts](gehring-magnet-qed-math-reading-impacts.md)
+- [Lied magnet students in grades 6-8 attempted and completed significantly more STEM credits than matched comparison students](lied-magnet-stem-credit-impacts.md)
+- [A lottery-based randomized controlled trial at Lied replicated the positive, statistically significant impact on 6th graders' mathematics achievement found by the QED](lied-rct-replicates-math-impact.md)

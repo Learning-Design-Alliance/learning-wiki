@@ -84,6 +84,8 @@ In instruction, constructivism is less a single method than a family resemblance
 - [Purposeful Reflection](../principles/reflection.md)
 - [Makerspace](../elements/makerspace.md)
 - [Create an interactive learning environment in real or semi-real contexts using modern teaching media](../strategies/interactive-real-semi-real-learning-environment.md)
+- [Virtual Collaborative Research Institute (VCRI) CSCL environment](../products/virtual-collaborative-research-institute-vcri-cscl-environment.md)
+- [Constructive alignment (Biggs & Tang) as a student-centered framework for aligning learning outcomes, teaching-and-learning activities, and assessment tasks](../designs/constructive-alignment-biggs-tang-framework.md)
 
 ## Key Sources
 - Piaget, J. (1970). *Science of education and the psychology of the child*. Viking.

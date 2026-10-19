@@ -157,7 +157,7 @@ Behaviour, civic commitment, ethical reasoning, attitudes, achievement and what 
 - [Building Empathy](building-empathy.md) — structured perspective-taking
 - [Effective Classroom Management Plan](effective-classroom-management-plan.md) — the classroom-wide plan inside which conflict-resolution discipline sits
 - [Culturally Responsive Classroom Norms](culturally-responsive-classroom-norms.md) — reading a departure from a norm as a possible difference of convention
-- [Teach Civic Responsibility, Not Proficiency](teach-civic-responsibility-not-proficiency.md) — a civic framing of competence
+- [Teach Civic Responsibility, Not Proficiency](rhetorical-skill-development.md) — a civic framing of competence
 
 ## Examples
 

@@ -58,6 +58,8 @@ The review identifies three central ethical challenges for AI-driven personalize
 - [Ethical governance safeguards for robot-supported mental health education with children](ethical-safeguards-child-robot-mental-health-education.md)
 - [Automated assessment outputs must retain human monitoring and never serve as official grades or sole decision bases](human-monitoring-automated-assessment.md)
 - [Teachers adopting EAI should address digital literacy and ethical design challenges identified for each AI dimension](teacher-challenges-eai-inclusion-digital-literacy-ethics.md)
+- [Jointly investigate fairness in machine learning with core ML researchers when deploying adaptive collaborative learning support](cscl-ml-fairness-joint-investigation.md)
+- [Address ethics and privacy considerations — transparency, security, student control, accountability, and informed consent — at the initial stages of MMLA design in simulation-based training](ethics-privacy-principles-mmla-simulator-design.md)
 
 ## Examples
 -

@@ -13,7 +13,7 @@ generated:
 # Partnership for 21st Century Skills (P21) framework
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A framework developed by the Partnership for 21st Century Skills that organizes core subjects, 21st-century content, learning and thinking skills, ICT literacy, and life skills for K–12 education and promotes integrated assessment.
@@ -23,8 +23,11 @@ A framework developed by the Partnership for 21st Century Skills that organizes 
 
 ### Claims
 
+- [Major 21st century skills frameworks are largely consistent, adding to P21 either highlighted subskills or areas underemphasized in its categories](../claims/frameworks-consistent-two-addition-types.md) [+W]
+
 ## Related Products and Programmes
--
+
+- [CSTA/ISTE operational definition of computational thinking](cstaiste-operational-definition-of-computational-thinking.md)
 
 ## Key Sources
 - Dede, C. (2009). Comparing Frameworks for "21st Century Skills". Harvard Graduate School of Education. https://eric.ed.gov

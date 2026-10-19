@@ -43,4 +43,5 @@ Micro-analysis of Excerpt 3 during the final report-writing activity; the teache
 
 
 ## Related Claims
--
+
+- [Cognitively oriented challenges dominated student help requests during computer-supported lab work, with 45.1% conceptual and 28.7% cognitive-regulation requests](help-requests-mostly-conceptual-cogreg.md)

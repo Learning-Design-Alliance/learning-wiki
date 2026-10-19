@@ -44,7 +44,8 @@ Each short online pedagogy module comprised “an individual study phase and a s
 - [Short Online Training Shifts Interpretations Content Focused Video](../claims/short-online-training-shifts-interpretations-content-focused-video.md) [+M]
 
 ## Related Designs
-- 
+
+- [Argumentative Essay Writing online module with FeedbackFruits peer feedback](aew-module-feedbackfruits-peer-feedback.md)
 
 ## Examples
 -

@@ -53,6 +53,7 @@ The review presents Situated Learning as the framework originating with Lave and
 - [Authentic Audiences and Purposes](../strategies/authentic_audiences_and_purposes.md)
 - [Learning Communities](../strategies/learning-communities.md)
 - [Community Involvement](../strategies/community_involvement.md)
+- [Actively involve community members and study participants in the co-construction of research](../strategies/co-construct-research-with-community-participants.md)
 
 ## Key Sources
 - Vargas, E. G., Chiappe, A., & Durand, J. (2024). Reshaping education in the era of artificial intelligence: insights from Situated Learning related literature. Journal of Social Studies Education Research. https://eric.ed.gov/?id=EJ1445872

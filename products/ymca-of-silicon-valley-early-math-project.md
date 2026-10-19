@@ -32,7 +32,8 @@ An early-mathematics family-engagement programme developed and implemented by th
 - [Mathematica conducted an implementation study of the early math scale-up effort during 2018 and 2019](../claims/mathematica-implementation-study-early-math-scale-up-2018-2019.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [FEIP](feip.md)
 
 ## Key Sources
 - Jaimie Grazi, Barbara Harris, Patricia Del Grosso. (2020). Scaling Up Early Math Programs: Recommendations from a Study on Engaging Families with Early Math. Princeton, NJ: Mathematica. https://www.mathematica.org/publications/scaling-up-early-math-programs-recommendations-from-a-study-on-engaging-families-with-early-math

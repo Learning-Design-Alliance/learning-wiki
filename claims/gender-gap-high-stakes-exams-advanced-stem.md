@@ -43,4 +43,8 @@ Analysis of a single cohort of 315 undergraduate electrical engineering students
 
 
 ## Related Claims
--
+
+- [A gender gap of ~9 points appears even on a low-stakes diagnostic assessment, contradicting prior findings that the gap disappears in low-stakes assessments](gender-gap-persists-low-stakes-diagnostic.md)
+- [High-school grades do not capture the preparation gap: controlling for high-school scores did not eliminate the gap, possibly due to a ceiling effect](high-school-grades-ceiling-effect-gap.md)
+- [Young women outperformed young men in every grading category family in unweighted points, with the largest gap in assignments and smallest in assessments; weighting reversed this ordering](gender-gap-varies-by-grading-category-family.md)
+- [Higher weights on assessments shrank, but did not eliminate, the gender difference in final grades, because young women were more often in classes weighting assessments heavily](assessment-weights-shrank-gender-grade-gap.md)

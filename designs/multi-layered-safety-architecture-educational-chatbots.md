@@ -17,7 +17,7 @@ sources:
 # Multi-layered safety architecture for teacher-supervised educational chatbots
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Teachers in the study articulated a safety architecture for LLM-powered chatbots composed of four component types: "content scoping, presentation strategies, oversight mechanisms, and adaptation frameworks". This architecture gives teachers a reusable lesson/unit-level design that keeps chatbot behavior within professionally supervised bounds. It operationalizes the bounded authority model by layering protective mechanisms rather than relying on any single safeguard.
@@ -37,7 +37,9 @@ Teachers in the study articulated a safety architecture for LLM-powered chatbots
 - safe, scope-limited interaction with AI chatbots during learning
 
 ### Claims
+
 - Bounded Authority Model Teacher Ai [+M]
+- [Teachers sought to preserve student thinking and authorship by bounding chatbot answer-giving and maintaining teacher control over scope](../claims/teachers-preserve-student-thinking-bound-answer-giving.md) [+W]
 
 ## Related Designs
 - 

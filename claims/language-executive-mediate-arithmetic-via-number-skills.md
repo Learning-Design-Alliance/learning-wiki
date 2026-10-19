@@ -65,8 +65,10 @@ After mediated pathways were included, direct paths from executive function and 
 - [Oral Language](../learner-variables/oral-language.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
 - [Preschool counting skills and number knowledge directly predict formal arithmetic skills in primary school, together accounting for 40–46% of variance](counting-number-knowledge-predict-arithmetic.md) — related
 - [Executive skills, but not nonverbal IQ, at age 3–4 predict preschool counting and number knowledge](executive-skills-not-nonverbal-iq-predict-number-skills.md) — related
 - [Children at family-risk of dyslexia perform more poorly than typically developing controls on the cognitive foundations of arithmetic and on arithmetic itself](family-risk-dyslexia-poorer-arithmetic-foundations.md) — related
 - [Phonological awareness at age 4–5 does not predict later arithmetic skills despite being predicted by early oral language](phonological-awareness-not-arithmetic-predictor.md) — related
 - [The same cognitive processes account for variability in arithmetic skills in children at family-risk of dyslexia and typically developing controls](same-cognitive-processes-arithmetic-fr-td.md) — related
+- [Motivation's effect on later mathematical performance is indirect, mediated by executive functioning and early numeracy skills](motivation-indirect-effect-mediated-by-ef-and-numeracy.md)

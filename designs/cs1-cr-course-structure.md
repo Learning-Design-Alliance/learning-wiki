@@ -17,7 +17,7 @@ sources:
 # CS1-CR course structure: unrestricted AI use with mandatory oral code review interviews and a flipped classroom
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 CS1-CR is a CS1 course design in which students may freely use generative AI on coding assignments but must complete "an oral, in-person code review (CR) interview session with a TA or instructor within 48 hours after each submission deadline". Rubric scores count for 30% of the assignment grade and code review performance for 70%, with a zero for missing the session. One of three weekly class days was cancelled for interviews, replaced by a flipped classroom with pre-class lecture videos and in-class coding activities. Eleven TAs were trained via mock interviews and structured per-assignment interview protocols.
@@ -40,6 +40,8 @@ CS1-CR is a CS1 course design in which students may freely use generative AI on 
 - Core programming concepts such as Python syntax, logic, tracing, and functions
 
 ### Claims
+
+- [Students in both conditions named awareness of their reliance on AI as the most valuable course outcome, and unrestricted-AI students described shallow engagement they could not stop](../claims/reliance-awareness-most-valued-outcome.md) [+W]
 
 ## Related Designs
 - 

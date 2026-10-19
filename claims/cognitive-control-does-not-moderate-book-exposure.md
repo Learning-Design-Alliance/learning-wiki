@@ -43,4 +43,6 @@ Final step of the vocabulary hierarchical regression (N = 174): "None of the thr
 
 
 ## Related Claims
--
+
+- [Book exposure predicts letter knowledge (about 6% of variance), consistent with meta-analytic evidence that print-related skills improve even from story-content-focused reading](book-exposure-predicts-letter-knowledge.md)
+- [Child age, caregiver education and country income level do not moderate book-sharing intervention effects on child language](book-sharing-effects-invariant-age-education-income.md)

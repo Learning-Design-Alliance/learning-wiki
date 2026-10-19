@@ -43,4 +43,5 @@ Qualitative discourse analysis of two representative excerpts of triad responses
 
 
 ## Related Claims
--
+
+- [Only problematizing scaffolds, not structuring scaffolds, significantly raise domain knowledge](only-problematizing-scaffolds-raise-domain-knowledge.md)

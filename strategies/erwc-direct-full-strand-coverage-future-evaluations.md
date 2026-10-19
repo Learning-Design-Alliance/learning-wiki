@@ -17,7 +17,7 @@ sources:
 # Direct teachers to teach at least one activity in each strand of every module taught, as a lever future evaluations could test for greater impacts
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (1 causal, 1 design), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The report's discussion recommends that future evaluations assess whether ERWC impacts would be greater if teachers were explicitly directed to teach at least one activity in each strand of every module taught. This strategy follows from the finding that many teachers did not complete at least one activity in each strand of the modules they taught, even though the impact evaluation found a positive effect on student achievement. The recommendation is framed as a question for future research rather than a demonstrated improvement.
@@ -36,6 +36,11 @@ The report's discussion recommends that future evaluations assess whether ERWC i
 ### Target Learning Goals
 - college English readiness
 - critical reading and writing skills
+
+## Claims
+
+- [Only 17.9 percent of study ERWC teachers taught at least 8 modules with fidelity under the strand criterion, versus 62.5 percent under an activity-count criterion](../claims/erwc-low-fidelity-strand-criterion.md) [+M]
+- [Teachers least often taught the aspects of the ERWC curriculum associated with writing and metacognition](../claims/teachers-least-often-taught-writing-and-metacognition.md) [+W]
 
 ## Related Strategies
 - 

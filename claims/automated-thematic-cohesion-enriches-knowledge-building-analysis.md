@@ -43,4 +43,6 @@ Editorial summary of Dascalu, Trausan-Matu, McNamara and Dessus's article, which
 
 
 ## Related Claims
--
+
+- [Temporal network motifs show promise as a proxy indicator of task cohesion in WIL environments when combined with survey data](temporal-motifs-proxy-task-cohesion-mixed-methods.md)
+- [A promising-ideas tool enabled children of about 8 years old to identify, communicate, respond to and build upon promising ideas in knowledge-building discourse](promising-ideas-tool-young-children.md)

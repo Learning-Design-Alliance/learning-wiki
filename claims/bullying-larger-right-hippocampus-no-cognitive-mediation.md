@@ -62,4 +62,6 @@ Mediation and association analyses testing whether hippocampal volume related to
 
 
 ## Related Claims
+
 - [Exploratory ROI volume–behavior correlations within SES groups did not survive FDR correction](exploratory-roi-behavior-correlations-not-significant-after-fdr.md) — related
+- [Bullied preadolescents show larger cortical volumes in left entorhinal, left superior parietal, and right fusiform regions than matched non-bullied peers](bullying-larger-cortical-volumes-entorhinal-parietal-fusiform.md)

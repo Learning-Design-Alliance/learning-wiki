@@ -43,4 +43,7 @@ Laboratory task relating adults' Visualizer–Verbalizer Questionnaire scores to
 
 
 ## Related Claims
--
+
+- [Virtually no learning-styles studies used designs capable of testing the required style-by-method crossover interaction](learning-styles-crossover-evidence-missing.md)
+- [Cook et al. (2009) found no support for sensing/intuitive style-by-sequence interaction in medical education](cook-medical-education-no-style-interaction.md)
+- [Aptitude-by-treatment interactions for instructional structure show mixed support: crossovers in some studies, nulls in others](ati-structure-ability-interactions-mixed.md)

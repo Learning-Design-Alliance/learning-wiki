@@ -41,7 +41,9 @@ Fresno State faculty and Sanger Unified leadership redesigned the STaR residency
 - 
 
 ## Related Designs
-- 
+
+- [Fresno TK–3 Teacher Residency Program](fresno-tk3-teacher-residency-program.md)
+- [Phase-in schedule pacing resident responsibility and Danielson Clusters across the residency year](phase-in-schedule-resident-responsibility.md)
 
 ## Examples
 -

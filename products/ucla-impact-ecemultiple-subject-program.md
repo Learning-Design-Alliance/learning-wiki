@@ -27,6 +27,7 @@ A UCLA Center X and Los Angeles Unified School District teacher-residency progra
 ## Related Products and Programmes
 
 - [Claremont Critical Social Justice Teaching Competencies](claremont-critical-social-justice-teaching-competencies.md)
+- [EDvance at San Francisco State University](edvance-at-san-francisco-state-university.md)
 
 ## Key Sources
 - Cathy Yun. (2022). Preparing Transitional Kindergarten to 3rd Grade Educators Through Teacher Residencies. Learning Policy Institute & EDPREPLAB. https://doi.org/10.54300/139.797

@@ -62,4 +62,6 @@ Same Experiment 3 analysis comparing invalid-cue costs across hemifield configur
 
 
 ## Related Claims
--
+
+- [Covert attention facilitates detection within the foveola at locations only 20 arcminutes apart, with an effect similar in magnitude to the parafovea](covert-attention-facilitates-foveolar-detection.md)
+- [Fine foveolar attentional effects persist during normal, non-stabilized fixation with natural retinal image motion](foveolar-attention-persists-normal-fixation.md)

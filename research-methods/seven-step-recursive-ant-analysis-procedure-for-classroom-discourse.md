@@ -12,7 +12,7 @@ generated:
 # Seven-step recursive ANT analysis procedure for classroom discourse
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article adapts ANT into a recursive analytic procedure for classroom talk with seven steps: recognizing actors (human and non-human), tracing connections into assemblages, identifying translations of roles, identifying shifts and changes in the network, delineating interactions' outcomes, examining connections to other networks, and revealing black boxes. Roles are translated through network dynamics: "the teacher played alternatively the role of a source of knowledge, an activity facilitator, and a referee, according to the specific dynamic in the network".
@@ -23,8 +23,12 @@ The article adapts ANT into a recursive analytic procedure for classroom talk wi
 
 ### Claims
 
+- [Non-human actants such as a Bristol board and task instructions can subordinate students and render classroom talk non-dialogic](../claims/bristol-board-actant-subordinates-students.md) [+W]
+- [Dialogic networks in classroom talk can dissolve into non-dialogic ones when task instructions and artifacts regain power over students](../claims/dialogic-network-dissolves-to-task-compliance.md) [+W]
+
 ## Related Research Methods
--
+
+- [Seven-step recursive ANT analysis of dialogic and non-dialogic classroom talk networks](seven-step-recursive-ant-analysis-of-dialogic-and-non-dialogic-classroom-talk-networks.md)
 
 ## Key Sources
 - Baruch B. Schwarz, Udi Tsemach, Mirit Israeli, Erez Nir. (2025). Actor-network theory as a new direction in research on educational dialogues. Instructional Science. https://doi.org/10.1007/s11251-024-09669-5

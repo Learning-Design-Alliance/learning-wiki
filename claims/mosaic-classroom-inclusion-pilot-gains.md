@@ -43,4 +43,6 @@ The review reports its small randomized pilot study of MOSAIC, in a 2-week summe
 
 
 ## Related Claims
+
 - [Math difficulties are more strongly associated with social isolation than reading difficulties, and peer dislike of readers with RD is explained by ADHD symptoms](md-social-isolation-rd-peer-dislike-adhd.md) — related
+- [Children with ADHD show medium-to-large peer problems relative to typically developing youth, with effect sizes from d=.72 (no comorbidities) to d=1.25 (comorbid conduct problems)](adhd-peer-problems-effect-sizes-d072-d125.md)

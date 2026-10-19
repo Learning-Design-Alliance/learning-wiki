@@ -40,6 +40,8 @@ The review recommends that future studies combine methods, because standardized 
 
 - [Combine cognitive tasks and ecological teacher questionnaires when measuring children's inhibition for academic research](combine-task-and-teacher-inhibition-measures.md)
 - [Assess executive functions in group-based naturalistic school settings rather than individualized lab-like sessions](group-based-ef-assessment-in-naturalistic-school-settings.md)
+- [Prefer naturalistic over randomized controlled designs when studying dialogue-outcome relations](naturalistic-design-for-dialogue-outcome-research.md)
+- [Three development directions for observational self-regulation measures: broader behaviors, cross-context observability, and clear operational definitions](observational-tool-development-three-directions.md)
 
 ## Examples
 -

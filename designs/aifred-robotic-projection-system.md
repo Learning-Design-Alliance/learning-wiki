@@ -44,7 +44,8 @@ AIfred is a prototype combining a robotic arm with a mini projector at its end-e
 - [Aifred Drawing Quality Ranked First](../claims/aifred-drawing-quality-ranked-first.md) [+M]
 
 ## Related Designs
-- 
+
+- [RALL-E robot-assisted language learning prototype](ralle-robot-language-learning-prototype.md)
 
 ## Examples
 -

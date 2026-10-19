@@ -17,7 +17,7 @@ sources:
 # Two-day lesson sequence: contrast pattern with identification exercise, then generalization pattern with sorting exercise, then reinforcement
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The treatment teaching across ten 40-minute lessons operationalized the patterns of variation. In the contrast lessons, "The teacher showed responses illustrating zero to three alternations of points of view, comparing them in order to highlight for the students how they differed in terms of number of alternations of points of view" on the same task. A reinforcement exercise had students estimate the number of alternating points of view in further responses. Lessons 4–7 implemented generalization across all three tasks, with students themselves sorting responses by number of alternations; lessons 8–9 reinforced both patterns with additional responses.
@@ -39,8 +39,14 @@ The treatment teaching across ten 40-minute lessons operationalized the patterns
 ### Affordances
 - Variation Theory Learning Teaching
 
+## Claims
+
+- [Variation-theory-based teaching produces significantly larger gains than control teaching in 9th-grade students' alternations of points of view on a taught societal issue](../claims/variation-theory-teaching-gains-alternating-points-of-view-taught-task.md) [+W]
+- [Variation-theory-based teaching significantly improves students' alternation of points of view on novel, untaught societal issues (transfer), with smaller effects than on the taught task](../claims/variation-theory-transfer-novel-issues.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Teaching Learning Collaborative: a two-day lesson-study process of collaborative planning, teaching, and evidence-based revision](teaching-learning-collaborative-lesson-study.md)
 
 ## Examples
 -

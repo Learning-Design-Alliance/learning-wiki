@@ -28,6 +28,7 @@ A Python-based intelligent tutoring web application developed by Csépányi-Für
 ## Related Products and Programmes
 
 - [SCRIPT (Step-based Coding for Research and Intelligent Programming Tutoring)](script-step-based-coding-for-research-and-intelligent-programming-tutoring.md)
+- [Generalized Intelligent Framework for Tutoring (GIFT)](generalized-intelligent-framework-for-tutoring-gift.md)
 
 ## Key Sources
 - Csépányi-Fürjes, L., & Kovács, L. (2026). Intelligent tutoring in dynamic domains: a graph-based system for comparative analysis of adaptive algorithms with intuitionistic fuzzy logic and forgetting. Education Tech Research Dev. https://doi.org/10.1007/s11423-026-10639-6

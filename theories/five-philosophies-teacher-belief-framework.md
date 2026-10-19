@@ -44,7 +44,8 @@ The article organizes teachers' philosophical beliefs into five basic philosophi
 - [Traditional versus modern philosophies distinguished by who determines ends and means](traditional-modern-philosophies-ends-means.md)
 
 ## Examples
--
+
+- [Ames Philosophical Belief Inventory](../products/ames-philosophical-belief-inventory.md)
 
 ## Key Sources
 - Starkey, John D.; Barr, Rita L. (1972). The Philosophical Nature of Teachers--Graduate and Undergraduate. https://eric.ed.gov/?id=ED072018

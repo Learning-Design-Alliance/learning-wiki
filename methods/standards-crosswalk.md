@@ -70,12 +70,14 @@ The crosswalk is normally the *first* analysis step where it applies, because it
 9. **Re-run on framework revision**, comparing versions by code. This is the step the codes existed for
 
 ## Related Methods
+
 - [Backward Design](backward-design.md) — the immediate consumer of the goal tree this produces
 - [Needs Analysis](needs-analysis.md) — what you do instead when no framework sets the goals, and alongside it when the framework is silent on local need
 - [Task Analysis](task-analysis.md) — decomposes a mapped goal into the skills beneath it
 - [Learning Hierarchy Task Analysis](learning-hierarchy-task-analysis.md) — orders those skills by prerequisite
 - [Standards-Based Grading](../strategies/standards-based-grading.md) — the reporting practice the same codes make possible
 - [Cognitive Task Analysis](cognitive-task-analysis.md) — for the mapped statements that turn out to be judgement rather than procedure
+- [Three-set coding scheme (group, grade level, subject area) with column-aligned codes and group indexes](group-grade-subject-coding-scheme.md)
 
 ## Examples
 - **Accreditation self-study** — a programme outcome map crosswalking every course's assessed outcomes to the accreditor's criteria, graded introduced / developed / assessed

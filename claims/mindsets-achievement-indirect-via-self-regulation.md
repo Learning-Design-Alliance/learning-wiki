@@ -84,6 +84,7 @@ In the same path analysis, the total indirect relation of EF with achievement wa
 - [Mindset](../learner-variables/mindset.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
 - [In kindergarteners, trait beliefs and goal orientations form two separate but related factors rather than a coherent growth/fixed mindset](kindergarten-mindsets-two-factor-structure.md) — related
 - [Kindergarteners who believe traits are malleable show better classroom behavioral self-regulation than children with a stable trait belief](malleable-trait-beliefs-better-cbsr-kindergarten.md) — a narrower finding that bears on this claim
 - [Mastery orientation relates to classroom behavioral self-regulation only indirectly via executive functions, while trait beliefs relate mainly directly](sem-differential-paths-mindsets-cbsr.md) — related
@@ -92,3 +93,4 @@ In the same path analysis, the total indirect relation of EF with achievement wa
 - [Growth in task orientation partially mediates the association between executive function and mathematics achievement in preschoolers](task-orientation-partially-mediates-ef-math.md) — related
 - [Children's executive function at the beginning of pre-kindergarten predicts growth in mathematics achievement across the pre-kindergarten year](ef-predicts-preschool-math-growth.md) — related
 - [No statistically significant sex differences in the direct associations among EF, task orientation, and mathematics or in the mediating effect of task orientation](no-sex-differences-ef-task-orientation-math-pathways.md) — related
+- [Motivation's effect on later mathematical performance is indirect, mediated by executive functioning and early numeracy skills](motivation-indirect-effect-mediated-by-ef-and-numeracy.md)

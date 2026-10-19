@@ -37,7 +37,8 @@ The article recommends ethnographic research—participant observation, intervie
 - Authentic representation of a target audience's culture in technology design
 
 ## Related Strategies
-- 
+
+- [Use cultural informants from the target community to buffer against stereotyping and bias](cultural-informants-buffer-against-stereotyping.md)
 
 ## Examples
 -

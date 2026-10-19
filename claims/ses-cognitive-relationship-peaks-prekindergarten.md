@@ -43,6 +43,8 @@ Growth curve (multilevel) analyses of the nationally representative ECLS-B cohor
 
 
 ## Related Claims
+
 - [Hours in center-based child care become increasingly positively associated with cognitive scores and negatively associated with behavior scores starting around age 4–4½.](center-care-hours-cognitive-behavior-age-pattern.md) — related
 - [The SES–positive behavior relationship follows the same curvilinear pattern but is weaker in magnitude than the SES–cognitive relationship at every wave.](ses-behavior-relationship-weaker-curvilinear.md) — related
 - [Socioeconomic resources changed meaningfully over early childhood, with household income rising from 290% to 351% of the poverty line, concentrated in the prekindergarten year.](ses-resource-levels-changed-over-early-childhood.md) — related
+- [Household chaos predicts lower prekindergarten math and reading but faster growth in both](household-chaos-lower-level-faster-growth.md)

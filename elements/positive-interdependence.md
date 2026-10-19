@@ -72,6 +72,7 @@ Positive interdependence is the mechanism through which cooperative structures o
 **[PALS (Peer-Assisted Learning Strategies)](https://intensiveintervention.org/intervention-instructional-content/pals-peer-assisted-learning-strategies)** — Structured reciprocal peer tutoring in reading and math with team scores that depend on both partners' improvement.
 
 **Team-based learning (TBL)** — Michaelsen's Readiness Assurance process: teams submit a single answer sheet and receive immediate group feedback, with individual and team scores both counting.
+- [Design CSCL assignments with individual accountability and positive interdependence](../strategies/cscl-individual-accountability-positive-interdependence.md)
 
 ## Key Sources
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)

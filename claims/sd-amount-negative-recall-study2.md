@@ -43,4 +43,5 @@ Replication regression with 101 students assigned to five conditions (0%, 12.5%,
 
 
 ## Related Claims
--
+
+- [Seductive detail amount did not increase learners' intrinsic motivation in either study](sd-amount-no-motivation-effect.md)

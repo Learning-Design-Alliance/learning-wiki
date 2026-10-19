@@ -40,7 +40,12 @@ An implementable teaching activity: provide answers to sample problems so activi
 - Quasi Community Framework
 
 ## Related Strategies
-- 
+
+- [Student-Generated Problems](student-generated_problems.md)
+- [Teach students to intentionally choose from alternative algebraic strategies when solving problems, after they have procedural fluency](intentional-alternative-strategy-choice-sequenced-after-fluency.md)
+- [Reasoning-Focused Instruction](reasoning-focused_instruction.md)
+- [De-emphasize Answers, Emphasize Reasoning](de-emphasize-answers-emphasize-reasoning.md)
+- [Provide feedback in the problem-solving phase to foster negative knowledge and multiple solution attempts](feedback-in-problem-solving-phase-negative-knowledge.md)
 
 ## Examples
 -

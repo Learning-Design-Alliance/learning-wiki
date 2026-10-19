@@ -78,9 +78,12 @@ Peer and self-assessment work because evaluating work against criteria requires 
 6. Compare peer and self-marks with instructor marks over time and discuss discrepancies to sharpen judgment.
 
 ## Related Strategies
+
 - [Rubric-based feedback](../strategies/rubric-based-feedback.md) — the criteria infrastructure that makes peer and self-judgment reliable
 - [Portfolio assessment](../strategies/portfolio-assessment.md) — a context where self-assessment is naturally embedded through reflection on collected work
 - [Two-stage exams](../strategies/two-stage-exams.md) — a peer-assessment variant applied to testing itself
+- [Calibration training and moderation to ensure reliable rubric-based portfolio review](calibration-training-moderation-portfolio-review.md)
+- [Reallocate graders to gradees based on model confidence so low-confidence submissions receive more or better graders](confidence-based-grader-reallocation.md)
 
 ## Examples
 - **[Calibrated Peer Review](calibrated_peer_review.md) (CPR)** (https://cpr.molsci.ucla.edu) — a tool in which students first calibrate their judgment against instructor-graded exemplars, then review peers' anonymous submissions; calibration accuracy gates whether a student's reviews count.

@@ -24,7 +24,8 @@ The chapter holds that telemetry "should have the following properties: (a) is a
 ### Claims
 
 ## Related Research Methods
--
+
+- [Digital learning platform process-data analysis](digital-learning-platform-process-data-analysis.md)
 
 ## Key Sources
 - Gregory K.W.K. Chung. (2015). Guidelines for the Design and Implementation of Game Telemetry for Serious Games Analytics. In C.S. Loh et al. (eds.), Serious Games Analytics. https://doi.org/10.1007/978-3-319-05834-4_3

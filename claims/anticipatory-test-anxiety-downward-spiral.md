@@ -43,4 +43,6 @@ Narrative review statement, citing Bandura (1997) and Zeidner (1998), on anticip
 
 
 ## Related Claims
--
+
+- [Self-handicapping decreases effort to protect self-worth, in contrast to defensive pessimism](self-handicapping-versus-defensive-pessimism.md)
+- [Students use strategies to regulate their own motivation and affect](students-regulate-motivation-affect-strategies.md)

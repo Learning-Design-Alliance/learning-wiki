@@ -41,7 +41,9 @@ TDHS gives ninth graders a double dose of reading: students take double periods 
 - 
 
 ## Related Designs
+
 - [Tdhs Whole School Reform Model](../products/talent-development-high-school.md)
+- [Ninth-grade structure of interdisciplinary learning communities with double-dose courses and freshman seminars](ninth-grade-interdisciplinary-double-dose-structure.md)
 
 ## Examples
 -

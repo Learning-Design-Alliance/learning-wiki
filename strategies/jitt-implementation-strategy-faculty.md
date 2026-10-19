@@ -17,7 +17,7 @@ sources:
 # Implement JiTT incrementally using course management software and existing activity resources
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends that faculty start JiTT in small pieces, using course management systems (BlackBoard, WebCT, Angel) whose discussion forums serve as templates for Warm Up and Good For assignments and can auto-grade responses, or the free jittWeb.org site to generate Warm Up forms, grade responses online, and export to Excel. Cooperative learning activities can be drawn from lab manuals, study guides, or existing activity books. As the authors advise, "faculty can start slowly; by learning how to imple- ment JiTT into a classroom in small pieces."
@@ -39,6 +39,11 @@ The article recommends that faculty start JiTT in small pieces, using course man
 ### Target Learning Goals
 - active learning and formative assessment implementation
 - student preparation and study habits
+
+## Claims
+
+- [Cooperative learning exercises were rated highly useful by >94% of students and were associated with roughly doubled class attendance](../claims/cooperative-learning-usefulness-attendance.md) [+W]
+- [Optional 'What is Biology Good For?' essays achieved >75% weekly participation and >90% of students reported they made science relevance clear](../claims/good-for-essays-relevance-motivation.md) [+W]
 
 ## Related Strategies
 - 

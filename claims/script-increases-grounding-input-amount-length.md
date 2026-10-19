@@ -61,4 +61,8 @@ Contrast between the two scripted conditions on input length in words (unit of a
 
 
 ## Related Claims
--
+
+- [Scripted conditions more often produced a discussion phase on differences between group members, but no quality differences in those discussions were detected](script-increases-discussion-on-differences.md)
+- [Scripted students tended to answer either all or none of a discussion's input questions, and the structured interface strengthened this all-or-none pattern](script-all-or-none-input-answering.md)
+- [The script improved adherence to the prescribed order of grounding discussions before group activities, with an additional effect of the structured interface](script-improves-adherence-activity-order.md)
+- [Scripting shifted student effort toward grounding discussions and away from group-issue discussions](script-shifts-effort-toward-grounding.md)

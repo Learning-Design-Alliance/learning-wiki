@@ -40,7 +40,10 @@ The review proposes three directions for developing observational measures of ch
 - [Three Tiered Sr Classification Categories Domains Facets](../research-methods/three-tiered-classification-system-of-self-regulation-categories-domains-and-facets.md)
 
 ## Related Strategies
-- 
+
+- [Study the development of self-regulatory skills in naturalistic settings over longer periods of time](study-self-regulation-naturalistic-long-periods.md)
+- [Combine standardized tests and naturalistic classroom observations (mixed methods) when assessing oral communicative competence](mixed-methods-assessment-oral-communicative-competence.md)
+- [Combine cognitive tasks and ecological teacher questionnaires when measuring children's inhibition for academic research](combine-task-and-teacher-inhibition-measures.md)
 
 ## Examples
 -

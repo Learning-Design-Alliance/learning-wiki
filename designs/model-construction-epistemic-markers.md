@@ -43,7 +43,8 @@ In phase 3 of the KBM unit, the teacher and researcher codesigned custom Model C
 - 
 
 ## Related Designs
-- 
+
+- [Three-phase principle-based pedagogical design scaffolding low-achieving students into Knowledge Building](three-phase-kb-design-low-achievers.md)
 
 ## Examples
 -

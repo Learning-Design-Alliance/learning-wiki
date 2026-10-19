@@ -66,6 +66,7 @@ The brief enumerates six strategies states should pursue to "create the right po
 - [Make school-level educator diversity data publicly available and easy to interpret so stakeholders can act on it](public-school-level-educator-diversity-data-strategy.md)
 - [Six state strategies for increasing the racial diversity of the educator workforce, from data visibility through COVID-relief investment](six-state-strategies-educator-diversity-workforce.md)
 - [Support teacher residency programs, which are associated with higher retention rates for teachers of color](teacher-residency-programs-retain-teachers-of-color.md)
+- [Institutional, state, and federal actions to increase faculty diversity](institutional-state-federal-faculty-diversity-actions.md)
 
 ## Examples
 -

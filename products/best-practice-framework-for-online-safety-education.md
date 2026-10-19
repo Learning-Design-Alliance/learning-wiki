@@ -13,7 +13,7 @@ generated:
 # Best Practice Framework for Online Safety Education
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A national framework developed by Walsh et al. for Australian schools to guide online safety education, program-quality assessment, and continuous improvement across Foundation to Year 12.
@@ -22,6 +22,8 @@ A national framework developed by Walsh et al. for Australian schools to guide o
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
+- [Expert review and stakeholder consultation established strong consensus on the need for and acceptability of the Framework](../claims/stakeholder-consensus-online-safety-framework.md) [+W]
 
 ## Related Products and Programmes
 -

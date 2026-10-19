@@ -40,7 +40,8 @@ To work for transfer of conceptual knowledge and language awareness across a stu
 - [Common Underlying Proficiency Cup](../theories/common-underlying-proficiency-cup.md)
 
 ## Related Strategies
-- 
+
+- [Foster L1-L2 transfer of writing metacognitive regulation through cross-language collaboration between writing educators and balanced attention to all learner groups](cross-language-collaboration-cultivate-writing-strategy-transfer.md)
 
 ## Examples
 -

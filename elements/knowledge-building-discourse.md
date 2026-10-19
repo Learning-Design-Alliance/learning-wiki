@@ -82,13 +82,16 @@ Structured discourse deepens conceptual understanding because articulating and d
 
 ## Patterns That Use This Element
 - [Discussion-Based Learning](../principles/collaborative-learning.md) — discourse as the primary instructional medium
-- [Socratic Seminar](../patterns/socratic-seminar.md) — text-anchored questioning structure
+- [Socratic Seminar](socratic-seminar.md) — text-anchored questioning structure
 - [Fostering Communities of Learning (FCL)](../patterns/fostering-communities-of-learning-fcl.md) — cross-talk and jigsaw sharing as knowledge-building mechanisms
 
 ## Examples
+
 - **Knowledge Forum** (https://www.knowledgeforum.com) — Scardamalia and Bereiter's platform for asynchronous knowledge building; learners post, revise, and link written "notes" that rise-and-improve over time.
 - **[Accountable Talk](../strategies/accountable_talk.md)** (University of Pittsburgh, Institute for Learning) — a set of talk moves and norms (press for reasoning, accountability to community and evidence) for classroom discourse.
 - **Paideia Seminar** (National Paideia Center) — scripted seminar cycles pairing reading with structured dialogue.
+- [Support learners in climbing the social and epistemic ladders together](../strategies/climbing-social-and-epistemic-ladders-together.md)
+- [Use information-exchange prompts in online PD discussion forums to elicit transactive discourse](../strategies/information-exchange-prompts-strategy-online-pd.md)
 
 ## Key Sources
 - Scardamalia, M., & Bereiter, C. (2006). Knowledge building: Theory, pedagogy, and technology. In R. K. Sawyer (Ed.), *The Cambridge Handbook of the Learning Sciences* (pp. 97–118). Cambridge University Press. [doi:10.1017/cbo9780511816833.008](https://doi.org/10.1017/cbo9780511816833.008)

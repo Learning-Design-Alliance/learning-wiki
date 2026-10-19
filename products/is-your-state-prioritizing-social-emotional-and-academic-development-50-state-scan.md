@@ -24,7 +24,8 @@ A 50-state policy-scan data resource released by Ed Trust in partnership with CA
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Ed Trust Teacher Diversity 50-State Scan data tool](ed-trust-teacher-diversity-50-state-scan-data-tool.md)
 
 ## Key Sources
 - Blair Wriston, Nancy Duchesneau. (2023). How School Discipline Impacts Students' Social, Emotional, and Academic Development (SEAD). The Education Trust. https://edtrust.org

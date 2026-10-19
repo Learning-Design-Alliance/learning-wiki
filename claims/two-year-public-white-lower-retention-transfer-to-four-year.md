@@ -43,4 +43,7 @@ Descriptive race/ethnicity disaggregation for the two-year public sector, fall 2
 
 
 ## Related Claims
--
+
+- [Among fall 2015 entrants, Asian students had the highest persistence rate (84.2 percent) and Black students the lowest (66.9 percent)](fall-2015-persistence-race-ethnicity-asian-highest-black-lowest.md)
+- [In four-year private institutions, white and Asian students had nearly identical persistence rates (89.8 and 89.6 percent), but Asian students were more likely to continue at their starting institution (82.5 percent)](four-year-private-asian-white-persistence-retention-split.md)
+- [Sector persistence rates for fall 2015 entrants: 81.7 percent at four-year public, 84.9 percent at four-year private, 62.7 percent at two-year public, and 55.7 percent at four-year for-profit institutions](sector-persistence-rates-fall-2015-four-sector-comparison.md)

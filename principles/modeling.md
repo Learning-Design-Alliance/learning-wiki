@@ -163,9 +163,11 @@ Imitation right after the model, unaided immediate performance, delayed retentio
 - [Self-Explanation](cognitive-activation.md) — prompting learners to explain what they watch or study
 
 ## Examples
+
 - [Incorporate assessment questions that elicit causal mechanistic reasoning through phenomena, scaffolded but not over-probed](../strategies/align-assessments-with-cmr-phenomena.md)
 - An instructor models a complete solution path before learners solve a similar problem with support.
 - A clinical trainer demonstrates a procedure while narrating the key decision points.
+- [Video modeling examples with expert narration revealing covert cognitive processing](../strategies/video-modeling-examples-expert-narration.md)
 
 ### Illustrative
 
@@ -347,7 +349,7 @@ This page captures the demonstration-focused slice of Merrill's First Principles
 ## Related Patterns
 
 - [Merrill's First Principles of Instruction](../patterns/4cid-four-component-instructional-design.md)
-- [Demonstration, application, and integration corollaries of Merrill's framework](../patterns/merrill-demonstration-application-integration-corollaries.md)
+- [Demonstration, application, and integration corollaries of Merrill's framework](../patterns/4cid-four-component-instructional-design.md)
 
 ## Examples
 - An instructor models a complete solution path before learners solve a similar problem with support.

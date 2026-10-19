@@ -57,9 +57,11 @@ Mapping converts the fast, largely automatic decisions of online reading into ob
 5. Learners write a short reflection synthesizing what their map reveals about their habits and what they will change — a form of [Articulation](../elements/articulation.md) that consolidates the metacognitive insight.
 
 ## Related Strategies
+
 - **Source evaluation checklists** — complements mapping by giving learners explicit criteria to apply at each decision point
 - **Search strategy instruction** — mapping reveals the search behaviors that explicit strategy instruction then targets
 - **Reading logs** — the print-era analogue; mapping extends logging to navigation decisions, not just content
+- [Extend multiple-text strategy assessment with sourcing and contextualization items and validate against online traces](extend-mtsi-sourcing-contextualization-validation.md)
 
 ## Examples
 - A middle-school media literacy unit in which students map their path while researching a controversial topic, then compare maps to see how quickly different students landed on low-credibility sites.

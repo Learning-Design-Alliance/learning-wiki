@@ -43,6 +43,7 @@ The report's third key takeaway is that raising teacher awareness of additional 
 - [Use in-service training to raise teacher awareness of lingering teacher-centered styles](in-service-training-teacher-centered-awareness.md)
 - [Combine live cohort sessions, self-guided application, peer coaching, and virtual office hours in literacy professional learning](cohort-peer-coaching-office-hours-pd-model.md)
 - [Combine public information campaigns, continuous staff education, and direct outreach to identify students experiencing homelessness](multi-channel-homeless-student-identification-strategy.md)
+- [Use identified KAM social practices to guide collaborative platform features supporting teacher adoption](platform-features-guided-by-kam-practices.md)
 
 ## Examples
 -

@@ -45,7 +45,7 @@ The article presents a taxonomy of the value conflicts that arise in evaluation 
 
 ## Examples
 
-- [Use the taxonomy of value conflicts before starting an evaluation](../principles/use-taxonomy-before-starting-evaluation.md)
+- [Use the taxonomy of value conflicts before starting an evaluation](../research-methods/prospective-value-conflict-analysis-for-educational-evaluation.md)
 
 ## Key Sources
 - Patry, Jean-Luc, & Gastager, Angela. (2004). Kokybės vertinimo dilemos – Dilemmas in quality assessment. The Quality of Higher Education 2004/1. https://eric.ed.gov/?id=EJ874233

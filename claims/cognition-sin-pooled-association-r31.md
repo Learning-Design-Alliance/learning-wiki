@@ -43,4 +43,5 @@ Random-effects meta-analysis (Hedges and Olkin method) of 25 included studies wi
 
 
 ## Related Claims
--
+
+- [Working-memory associations with SiN perception appear strongest under informational masking and sentence targets (r up to .43)](wm-strongest-informational-masking-sentences.md)

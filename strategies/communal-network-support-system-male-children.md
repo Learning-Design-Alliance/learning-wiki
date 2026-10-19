@@ -37,7 +37,8 @@ The paper recommends that communities create a horizontal communal network in wh
 - Connection, validation, and guidance toward adult roles and responsibility
 
 ## Related Strategies
-- 
+
+- [Offering Multiple Options for Family Engagement](offering_multiple_options_for_family_engagement.md)
 
 ## Examples
 -

@@ -72,7 +72,7 @@ MISE's reform theory held that professional development alone would not change p
 ## Examples
 
 - [Peer Teacher Workshops (PTWs)](../elements/peer-teacher-workshops-mise.md)
-- [Design professional development around curriculum-embedded, teacher-led, sustained learning](../principles/curriculum-embedded-teacher-led-sustained-pd.md)
+- [Design professional development around curriculum-embedded, teacher-led, sustained learning](../patterns/professional-development.md)
 - [Redesign workshop structure, content, timing, and location in response to non-participant barriers](../strategies/redesign-pd-to-lower-participation-barriers.md)
 
 ## Key Sources

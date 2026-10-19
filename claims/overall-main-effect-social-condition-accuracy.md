@@ -43,4 +43,7 @@ Omnibus mixed-design ANOVA on accuracy across all 62 analysed participants. The 
 
 
 ## Related Claims
--
+
+- [The study found no evidence of age differences in relational reasoning performance, possibly due to design choices maximising sensitivity to audience effects](no-age-differences-relational-reasoning-this-task.md)
+- [Older adolescents (14.9–17.8 years) show lower relational reasoning accuracy when observed by a friend than by an experimenter, across task difficulty levels](older-adolescents-lower-accuracy-friend-versus-experimenter.md)
+- [Younger adolescents (10.6–14.2 years) show lower relational reasoning accuracy when observed by a friend than by an experimenter only in low-relational trials](younger-adolescents-friend-effect-low-relational-only.md)

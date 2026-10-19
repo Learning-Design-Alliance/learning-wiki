@@ -62,4 +62,6 @@ Correlational analysis linking CI children's hearing age to borrow-subtraction l
 
 
 ## Related Claims
--
+
+- [The subtraction borrowing effect is more pronounced in children with cochlear implants than in hearing peers](ci-borrow-subtraction-specific-difficulty.md)
+- [Children with cochlear implants are generally slower than hearing peers in multiplication and subtraction but show comparable error profiles](ci-children-general-slowing-multiplication-subtraction.md)

@@ -41,4 +41,5 @@ Observational comparison of degree-map requirements across representation groups
 
 
 ## Related Claims
--
+
+- [School rank shows little correlation with percentage of women CS graduates (r = -0.36), suggesting prestige does not explain the complexity–representation relationship](school-rank-weakly-correlated-women-representation.md)

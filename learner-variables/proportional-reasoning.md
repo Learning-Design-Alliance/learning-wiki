@@ -75,5 +75,7 @@ LVN treats it as an essential part of arithmetic proficiency in primary school a
 
 ## Examples
 
+- [Build on children's informal proportional understandings to prepare for ratio and proportion](../strategies/early-proportional-thinking-for-ratio-preparation.md)
+
 ## Key Sources
 - Digital Promise. *Learner Variability Navigator*: Proportional Reasoning (Building Math 3-6, Building Math 7-10). [lvp.digitalpromiseglobal.org](https://lvp.digitalpromiseglobal.org/content-area/math-3-6/factors/proportional-reasoning-math-3-6/summary). Licensed CC BY-NC 4.0.

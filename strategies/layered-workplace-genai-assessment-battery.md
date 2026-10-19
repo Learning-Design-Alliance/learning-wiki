@@ -46,6 +46,7 @@ The review proposes a four-layer workplace assessment keeping measurement target
 ## Related Strategies
 
 - [Use a six-question drafting and audit framework for GenAI assessment rules covering task rules, defaults, disclosure, contribution, verification, and hierarchy](six-question-genai-policy-audit-framework.md)
+- [Decision-rule guidelines for interpreting HLS responses, including weighted thresholds and preponderance-of-evidence profiles](hls-decision-rule-guidelines.md)
 
 ## Examples
 -

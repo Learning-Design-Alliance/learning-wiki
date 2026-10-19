@@ -25,7 +25,11 @@ A framework developed by the Computer Science Teachers Association and Internati
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Computational Thinking for Educators](computational-thinking-for-educators.md)
+- [K-12 Computer Science Framework](k-12-computer-science-framework.md)
+- [Computational Thinking Pathways](computational-thinking-pathways.md)
+- [Partnership for 21st Century Skills (P21) framework](partnership-for-21st-century-skills-p21-framework.md)
 
 ## Key Sources
 - Yadav, A., Hong, H., & Stephenson, C. (2016). Computational Thinking for All: Pedagogical Approaches to Embedding 21st Century Problem Solving in K-12 Classrooms. TechTrends. https://doi.org/10.1007/s11528-016-0087-7

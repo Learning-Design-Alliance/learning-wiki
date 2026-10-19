@@ -37,7 +37,9 @@ The article recommends that the PBL teacher "ask directive questions which point
 - recall from subsequent self-study of text material related to the discussion
 
 ## Related Strategies
-- 
+
+- [Give Hints and Clues to Help Students Answer Questions](give_hints_and_clues_to_help_students_answer_questions.md)
+- [Activating Prior Knowledge](activating-prior-knowledge.md)
 
 ## Examples
 -

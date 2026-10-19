@@ -307,8 +307,9 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [Use performance assessments in conjunction with selected-response items, counting enough toward final scores to matter](../strategies/performance-plus-selected-response-balance.md)
 - [Route divergent or linguistically weak AI-scored explanations to teachers as diagnostic signals for mindful human review](../strategies/route-divergent-ai-scores-to-teacher-review.md)
 - [Select a DC estimation method based on score distribution shape, the user's measurement background, and the intended audience](../strategies/dc-method-selection-guidance.md)
-- [Ground coaching conversations in the work of children](../patterns/ground-conversations-in-childrens-work.md)
+- [Ground coaching conversations in the work of children](../patterns/professional-development.md)
 - [Administer the Inquiry with classroom test procedures and interpret by item-by-item comparison with expert votes](../strategies/inquiry-item-by-item-expert-comparison-strategy.md)
+- [Use external instruments rather than teacher judgment to measure learning strategies for differentiation decisions](../strategies/external-instruments-measure-learning-strategies.md)
 
 ## Key Sources
 - Linn, R. L., & Miller, M. D. (2005). *Measurement and assessment in teaching* (9th ed.). Pearson.
@@ -490,7 +491,7 @@ The coach conducts and analyzes assessments together with teachers, looking for 
 
 ## Examples
 
-- [Ground coaching conversations in the work of children](../patterns/ground-conversations-in-childrens-work.md)
+- [Ground coaching conversations in the work of children](../patterns/professional-development.md)
 
 ## Key Sources
 - Dozier, C. L. (2008). Literacy coaching: Engaging and learning with teachers. The Language and Literacy Spectrum, 18. https://eric.ed.gov/?id=EJ1059644

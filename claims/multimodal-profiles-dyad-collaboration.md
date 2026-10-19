@@ -43,4 +43,5 @@ Editorial account (the editors describe Nasir et al.'s multimodal study of dyads
 
 
 ## Related Claims
--
+
+- [Certain multimodal data combinations improve predictive model performance, with audio plus eye-tracking data most effective in one K–8 study](mmla-k8-modality-combinations-prediction.md)

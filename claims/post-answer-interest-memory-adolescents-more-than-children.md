@@ -61,4 +61,6 @@ Follow-up correlation treating age as continuous confirmed the group analysis: t
 
 
 ## Related Claims
--
+
+- [States of high pre-answer curiosity enhance memory for trivia answers similarly in children and adolescents](curiosity-enhances-trivia-memory-children-adolescents.md)
+- [Positive information prediction errors enhance memory for low-curiosity answers increasingly with age](positive-ipe-memory-low-curiosity-answers-increase-with-age.md)

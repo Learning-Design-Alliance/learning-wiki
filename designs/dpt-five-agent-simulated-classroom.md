@@ -40,7 +40,9 @@ A simulated class of five AI students, each embodying a distinct point of failur
 ### Claims
 
 ## Related Designs
-- 
+
+- [Practice-based clinical mastery through progressively challenging simulated encounters](residencyrl-practice-based-clinical-mastery.md)
+- [Dual-process reasoning hazards framework with hazard-matched questioning strategies](dpt-hazards-framework-and-matched-questioning.md)
 
 ## Examples
 -

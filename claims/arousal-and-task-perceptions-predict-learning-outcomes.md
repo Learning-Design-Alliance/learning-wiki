@@ -43,4 +43,7 @@ GEE models predicting quiz scores (mean 4.23, Std 1.26) from perceptions and aro
 
 
 ## Related Claims
--
+
+- [Students perceive collaborative physics tasks as less difficult after completing them](task-difficulty-decreases-after-collaborative-task.md)
+- [Physiological arousal is higher in sessions where the task is perceived as less difficult at the end](higher-eda-when-task-perceived-easier-at-end.md)
+- [Higher task difficulty ratings before and after collaborative tasks predict higher physiological arousal, while task understanding does not](task-difficulty-predicts-physiological-arousal.md)

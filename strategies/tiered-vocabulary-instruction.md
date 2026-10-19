@@ -82,6 +82,7 @@ The strategy operationalizes a core insight from vocabulary research: instructio
 - [Morphological Analysis](morphological-analysis-instruction.md) — extends each taught word to its word family, multiplying instructional yield
 - [Pre-Teaching Vocabulary](../strategies/pre-teaching-vocabulary.md) — the front-loading move that makes tiered selection actionable before reading
 - [Front-load Tier 1 vocabulary before the science lesson and teach embedded scientific vocabulary in the lesson's context](frontload-tier1-teach-embedded-vocabulary-in-context.md)
+- [Focus vocabulary instruction on Tier 2 words drawn from content-area materials](tier2-vocabulary-instruction-strategy.md)
 
 ## Examples
 - **Beck, McKeown & Kucan's *Bringing Words to Life*** — the originating framework; provides Tier Two word lists and rich instructional routines (Text Talk) for elementary classrooms.

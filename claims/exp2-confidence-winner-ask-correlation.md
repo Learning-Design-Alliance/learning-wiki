@@ -43,4 +43,5 @@ Experiment 2 (N = 81 children, ages 4–7) replicated Experiment 1 using only th
 
 
 ## Related Claims
--
+
+- [Children do not reliably endorse the more accurate informant when no objective reference is available](endorse-judgments-at-chance-children.md)

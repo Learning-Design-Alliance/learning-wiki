@@ -55,6 +55,7 @@ Based on interviews with entrepreneurs, investors, and providers, the guide reco
 - [Use micro-modules pairing short audio lessons with reflection texts and interactive quizzes for adult ELL mobile learning](cell-ed-micro-module-recipe.md)
 - [Sell to consortia of adult education providers and encourage institutions to buy technology together to lower cost and risk](sell-through-adult-education-consortia.md)
 - [Teach foundational AI competencies with low-tech analogies and contextually relevant activities where technology access is limited](low-tech-analogies-foundational-ai-competencies.md)
+- [Design mobile learning around the features students already use frequently, while recognising this is not a panacea](design-mobile-learning-around-frequent-features.md)
 
 ## Examples
 -

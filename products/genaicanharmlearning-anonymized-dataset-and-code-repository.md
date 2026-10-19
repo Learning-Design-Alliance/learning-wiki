@@ -29,6 +29,7 @@ A GitHub release by Bastani Hamsa et al. containing anonymized practice- and exa
 - [GenAI-Learning-Outcomes GitHub repository](genai-learning-outcomes-github-repository.md)
 - [GenAI Education Reddit Corpus and 17-Theme Taxonomy](genai-education-reddit-corpus-and-17-theme-taxonomy.md)
 - [LLM-queries](llm-queries.md)
+- [Open online dataset and statistical analyses of the mutual-modelling emotions study](open-online-dataset-and-statistical-analyses-of-the-mutual-modelling-emotions-study.md)
 
 ## Key Sources
 - Bastani Hamsa, Bastani Osbert, Sungu Alp, Ge Haosen, Kabakcı Özge, Mariman Rei. (2025). Generative AI without guardrails can harm learning: Evidence from high school mathematics. Proceedings of the National Academy of Sciences of the United States of America. https://doi.org/10.1073/pnas.2422633122

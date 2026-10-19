@@ -17,7 +17,7 @@ sources:
 # Three-level integration framework for educational reform: micro, meso, and macro levels
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (1 qualitative, 1 theoretical), `q1` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The Singapore presentation by Looi, So, Toh, and Chen is framed around the need to integrate reform efforts at three scales, building on meso-level infrastructure discussion by Jones et al. (2006). As the editorial states, it "distinguishes the micro level of student learning and interaction, the meso level of teacher professional development in the school, and the macro level of national policy and strategic planning." Change must take place simultaneously on many levels, requiring a carefully coordinated, phased, and iterative approach, illustrated by Group Scribbles introduction into Singapore classrooms over several years.
@@ -37,7 +37,9 @@ The Singapore presentation by Looi, So, Toh, and Chen is framed around the need 
 - 21st century skills including collaborative knowledge building and creative thinking
 
 ### Claims
-- 
+
+- [Digital transformation permeates all levels of the education system as an interdependent structure](../claims/digital-transformation-interdependent-multi-level-structure.md) [+W]
+- [Hong Kong's centralized education reforms provided a favorable macro-context for CSCL classroom innovation despite examination pressure](../claims/hong-kong-reforms-favorable-cscl-context.md) [+W]
 
 ## Related Designs
 - 

@@ -13,7 +13,7 @@ generated:
 # Digalo
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 2 studies (1 qualitative, 1 design), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 Digalo is a graphical computer-supported collaborative-learning and argumentation tool developed for organizing learners' shared dialogue and representations across activity phases.
@@ -23,7 +23,10 @@ Digalo is a graphical computer-supported collaborative-learning and argumentatio
 - **Graphical shared workspace for argumentative discussion**: A CSCL tool consisting of a shared drawing area and a graphical notation system supporting specific kinds of communicative acts. Students choose contribution cards (labeled 'argument pro', 'argument contra', and 'source'), add textual messages, use comment windows for elaboration, and connect cards with links. The graphical modality is synchronous while the textual modality is quasi-synchronous, meaning "a participant can not be interrupted when he formulates a textual contribution." (Overdijk et al. (2008))
 
 ### Claims
+
 - [Using graphical tools within a phased activity can enhance learners' dialogical skills, as illustrated with Digalo](../claims/graphical-tools-phased-activity-enhance-dialogical-skills.md) [+M]
+- [The two phases of the argumentative task required different organizing principles, and groups changed or failed to change accordingly](../claims/two-phases-require-different-principles.md) [~W]
+- [Weak initial organization enables experimentation with alternative graphical organizing principles](../claims/weak-organization-enables-principle-experimentation.md) [+W]
 
 ## Related Products and Programmes
 -

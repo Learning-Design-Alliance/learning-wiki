@@ -17,7 +17,7 @@ sources:
 # Propensity-score inverse-probability-weighting design with publicly reported school-quality tiers
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (5 for) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The study classifies all Chicago high schools into selective, top-tier, mid-tier, and bottom-tier groups using publicly available average ACT scores and 4-year graduation rates, combined "via principal components analysis into terciles" for nonselective schools. It then estimates treatment effects with propensity scores and inverse probability weights, comparing each higher tier against lower-performing tiers with cohort fixed effects and school-cohort clustered standard errors. The design covers all schools in a large district, not only those with lotteries or explicit admission criteria, and includes extensive pretreatment covariates such as middle-grades grades, test scores, attendance, suspensions, survey measures, and neighborhood characteristics.
@@ -36,6 +36,14 @@ The study classifies all Chicago high schools into selective, top-tier, mid-tier
 
 ### Target Learning Goals
 - Academic achievement, high school graduation, course taking, college enrollment and persistence, and nonacademic school experiences
+
+## Claims
+
+- [Attending a top-tier nonselective high school raises ACT scores, with the largest gains for students whose counterfactual is a bottom-tier school](../claims/top-tier-nonselective-schools-raise-act-scores.md) [+W]
+- [Escaping a bottom-tier school raises four-year graduation rates, by 10 percentage points for top-tier schools and 3 for mid-tier schools](../claims/escaping-bottom-tier-schools-raises-graduation-rates.md) [+W]
+- [Attending a selective exam-entry high school yields no significant academic benefits and lowers 11th-grade GPA relative to observationally similar peers elsewhere](../claims/selective-schools-no-academic-benefit-lower-gpa.md) [+W]
+- [Selective and top-tier schools improve students' nonacademic experiences, with peer classroom behavior showing the largest differences](../claims/selective-top-tier-schools-improve-nonacademic-experiences.md) [+W]
+- [Top-tier nonselective schools improve college enrollment, persistence, and selectivity, while selective schools show no college advantage](../claims/top-tier-schools-improve-college-outcomes-selective-do-not.md) [+W]
 
 ## Related Elements
 - 

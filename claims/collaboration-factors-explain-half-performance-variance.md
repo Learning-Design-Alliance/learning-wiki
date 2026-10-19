@@ -43,4 +43,5 @@ Omnibus multiple regression result for 101 groups across three studies; the four
 
 
 ## Related Claims
--
+
+- [Regulation of social activities positively predicts group performance in CSCL inquiry tasks](social-regulation-positively-predicts-group-performance.md)

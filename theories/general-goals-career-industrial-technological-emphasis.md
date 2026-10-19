@@ -45,7 +45,7 @@ Chapter III presents two inter-related types of general goals for the entire K-1
 
 ## Examples
 
-- [Deliver career education through industrial arts so all experiences prepare students for economic independence and the dignity of work](../principles/career-education-through-industrial-arts.md)
+- [Deliver career education through industrial arts so all experiences prepare students for economic independence and the dignity of work](../products/louisiana-middle-school-communications-industrial-arts-curriculum-guide-draft.md)
 
 ## Key Sources
 - The Iowa Guide for Curriculum Improvement in Industrial Arts, K-12. A Study of Industrial Technology. (1975). Iowa State Dept. of Public Instruction. https://eric.ed.gov/?id=ED113517

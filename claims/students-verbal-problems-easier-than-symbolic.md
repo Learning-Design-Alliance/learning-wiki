@@ -43,4 +43,7 @@ Research on problem-solving performance of ninth grade students in two samples (
 
 
 ## Related Claims
--
+
+- [Polya Method students outscore Dahmus Method students on the equation criterion for verbal problems](polya-method-beats-dahmus-on-equation-criterion.md)
+- [Dahmus Method students translated phrases successfully but failed to combine them into a single solution equation](dahmus-students-translate-but-no-single-equation.md)
+- [Algebra ability level differences appear on both criteria with no treatment-by-ability interaction](ability-level-differences-verbal-problem-solving.md)

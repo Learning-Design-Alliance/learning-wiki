@@ -44,7 +44,8 @@ Based on interview and survey findings, the authors recommend course designs tha
 - [Learner Centered Coi Reinterpretation](../theories/learner-centered-coi-reinterpretation.md)
 
 ## Related Strategies
-- 
+
+- [Instructors apply chatbots to support goal setting and social presence in fully online activities](instructor-strategy-chatbots-goal-setting-social-presence.md)
 
 ## Examples
 -

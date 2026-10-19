@@ -46,5 +46,7 @@ Wald test comparing regression models with and without an ADHD × sex interactio
 - [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs by group
 
 ## Related Claims
+
 - [Childhood ADHD symptoms are associated with higher late-adolescent depressive symptoms in a population cohort](childhood-adhd-predicts-adolescent-depressive-symptoms.md) — related
 - [Clinical ADHD diagnosis in childhood is associated with increased odds of clinically significant adolescent depressive symptoms](clinical-adhd-diagnosis-increased-odds-adolescent-depression.md) — related
+- [Males were significantly more likely than females to report probable ADHD in the young adult sample (OR=1.56)](males-more-likely-probable-adhd.md)

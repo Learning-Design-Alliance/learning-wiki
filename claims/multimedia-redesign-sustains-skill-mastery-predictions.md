@@ -43,4 +43,6 @@ Study 2 replicated Study 1 analyses with students who completed a multimedia red
 
 
 ## Related Claims
--
+
+- [Completing the Science of Learning to Learn training conferred an effect of about one-third of a letter grade (d ~ 0.3) on subsequent quizzes and exams in the original randomized study](slll-training-letter-grade-effect.md)
+- [Declarative and conceptual levels of learning-skill mastery predicted biology exam performance, but application-level knowledge did not](declarative-conceptual-skill-mastery-predicts-exams-application-does-not.md)

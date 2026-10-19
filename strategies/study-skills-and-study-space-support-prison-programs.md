@@ -37,7 +37,10 @@ Participants in the pilot study entered the prison college program without study
 - Academic study skills, course persistence, and effective learning within a secure facility
 
 ## Related Strategies
+
 - Bu Prison Education Program Element
+- [Quiet Space for Self-Regulation](quiet_space_for_self-regulation.md)
+- [Quiet Space](quiet_space.md)
 
 ## Examples
 -

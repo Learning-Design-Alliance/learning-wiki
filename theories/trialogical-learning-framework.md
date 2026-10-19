@@ -54,6 +54,8 @@ The Trialogical Approach holds that learning occurs not only through monological
 - [KP-Lab toolset supporting four types of mediation, including the Visual Model Editor and analytic mirroring tools](../products/kp-lab.md)
 - [Design learning for knowledge creation by delegating responsibility for developing shared, re-usable knowledge objects to learners](../principles/collaborative-learning.md)
 - [Pedagogical scenarios that organise learning around knowledge creation with shared objects](../strategies/trialogical-pedagogical-scenarios.md)
+- [Promote knowledge creation by coordinating group practices, technology affordances, interaction genres, community metaskills, and trialogical learning through design-based research](../strategies/coordinated-dbr-knowledge-creation-culture.md)
+- [Redesign course projects around collaboration, open-ended problems, shared knowledge objects, technology mediation, and as-needed mentoring](../strategies/five-design-principles-collaborative-course-redesign.md)
 
 ## Key Sources
 - Reynolds, S., & Camilleri, A. F. (2010). KP-LAB: Breaking New Ground on How to Create Knowledge Through Learning. EDEN 2010 Conference, Valencia.

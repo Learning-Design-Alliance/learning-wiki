@@ -43,4 +43,5 @@ The article reports, citing Tofel-Grehl and Feldon (2013), a meta-analysis of 20
 
 
 ## Related Claims
--
+
+- [CDM study of emergency responders (31 participants, over 51 hours of interviews) generated a theoretical model of command-level indecision](cdm-emergency-command-indecision-model.md)

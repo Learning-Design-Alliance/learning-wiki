@@ -12,7 +12,7 @@ generated:
 # Marginal structural models with inverse probability of treatment weighting
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article adapts a counterfactual framework for time-varying treatments in which "Inverse probability of treatment (IPT) weighting is an alternative approach specifically developed to adjust for confounding by time-varying covariates." A marginal structural model specifies the logit of graduation as a function of duration-weighted exposure (the average of wave-specific quintile treatments). Weighting builds a pseudo-population in which treatment is unconfounded by measured covariates, allowing an unadjusted outcome model to yield unbiased causal effect estimates.
@@ -22,6 +22,8 @@ The article adapts a counterfactual framework for time-varying treatments in whi
 - **Marginal structural models with inverse probability of treatment weighting for time-varying neighborhood exposures**: The article adapts a counterfactual framework for time-varying treatments in which "Inverse probability of treatment (IPT) weighting is an alternative approach specifically developed to adjust for confounding by time-varying covariates." A marginal structural model specifies the logit of graduation as a function of duration-weighted exposure (the average of wave-specific quintile treatments). Weighting builds a pseudo-population in which treatment is unconfounded by measured covariates, allowing an unadjusted outcome model to yield unbiased causal effect estimates. (Wodtke et al. (2011))
 
 ### Claims
+
+- [Sustained exposure to the most disadvantaged neighborhoods from age 2 to 17 substantially reduces the probability of high school graduation for both black and nonblack children](../claims/sustained-neighborhood-disadvantage-reduces-high-school-graduation.md) [+W]
 
 ## Related Research Methods
 -

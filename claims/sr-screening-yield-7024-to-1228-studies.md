@@ -43,4 +43,6 @@ PRISMA-documented screening by five trained reviewers who reached at least 80% a
 
 
 ## Related Claims
--
+
+- [BRIEF, CBCL, SDQ, and CBQ were the most frequently used measures across included studies](sr-most-used-measures-brief-cbcl-sdq-cbq.md)
+- [Systematic review identified 19 adult-reported self-regulation measures, 138 unique terms, 62 codes, and 25 facets](sr-review-19-measures-25-facets.md)

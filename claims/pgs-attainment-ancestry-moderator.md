@@ -62,4 +62,7 @@ Adjusted pooled estimate after modeling sample ancestry in the attainment meta-r
 
 
 ## Related Claims
+
 - [The ToM–achievement association is significantly weaker in European samples than in Asian and North American samples](european-samples-weaker-tom-achievement-link.md) — related
+- [Only 15% of published polygenic score estimates for education come from non-European ancestry samples, all recruited in the US](eurocentric-sample-base-pgs-education-research.md)
+- [Age at assessment and achievement measure moderate polygenic score predictions of educational achievement; the adjusted pooled estimate rises to ρ = 0.50](pgs-achievement-age-grade-moderators-rho-50.md)

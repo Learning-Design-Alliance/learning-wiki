@@ -43,4 +43,5 @@ Mann–Whitney U comparison of video-coded cognitive regulation episodes across 
 
 
 ## Related Claims
--
+
+- [Emotion–motivation regulation is the code most often connected to other codes in both tasks, linking to negotiation in SimSketch but to share/compare in Simua](emotion-motivation-regulation-central-both-tasks.md)

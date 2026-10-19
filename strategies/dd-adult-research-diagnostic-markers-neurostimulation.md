@@ -38,7 +38,8 @@ The review outlines future research directions: developing and evaluating diagno
 - understanding neurocognitive underpinnings of persistent numeracy difficulties
 
 ## Related Strategies
-- 
+
+- [Interventions for adult DD should target both number-specific core deficiencies and domain-general skills while incorporating preserved skills](dd-adult-intervention-target-core-and-preserved-skills.md)
 
 ## Examples
 -

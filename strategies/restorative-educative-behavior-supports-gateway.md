@@ -17,7 +17,7 @@ sources:
 # Use educative and restorative behavior supports rather than punitive and exclusionary discipline
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 3 studies (3 review), `q2`–`q3` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 Gateway's approach to behavior is restorative rather than punitive. The report states that "Gateway's behavior supports and practices are educative and restorative rather than punitive and exclusionary" and that "Through restorative practices, students receive guidance around effective communication, conflict resolution, and problem-solving." The restorative process focuses on repairing relationships, restoring community, and building skills for maintaining positive relationships with peers, faculty, and staff.
@@ -37,8 +37,20 @@ Gateway's approach to behavior is restorative rather than punitive. The report s
 - effective communication and conflict resolution
 - relationship repair and community membership
 
+## Claims
+
+- [SEL programs cannot produce meaningful long-term growth in authoritarian, punitive, or exclusionary environments; restorative practices are needed](../claims/sel-requires-educative-inclusive-environments.md) [+W]
+- [Restorative practices reduce exclusionary discipline and misbehavior and improve school climate, safety, and achievement, though implementation requires sustained investment](../claims/restorative-practices-improve-safety-climate-achievement.md) [+W]
+- [Shifting to restorative practices reduced exclusionary discipline and its racial disparities while improving climate and achievement](../claims/restorative-practices-reduce-exclusionary-discipline.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Empathic Discipline](empathic-discipline.md)
+- [Use preventive disciplinary and restorative justice approaches rather than exclusionary discipline for students experiencing homelessness](restorative-discipline-for-homeless-students.md)
+- [Restorative Approaches](restorative-approaches.md)
+- [Restorative Practices](restorative-practices.md)
+- [Replace exclusionary discipline for low-level offenses with social-emotional skill teaching, educator supports, implicit-bias training, and relationship-centered schools](replace-exclusionary-discipline-with-sel-and-relationship-centered-approaches.md)
+- [Replace exclusionary discipline with restorative practices and implement data-driven attendance monitoring](restorative-practices-attendance-monitoring-strategy.md)
 
 ## Examples
 -

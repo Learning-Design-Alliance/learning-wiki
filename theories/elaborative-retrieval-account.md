@@ -52,7 +52,9 @@ Proposed by Carpenter (2009), this account holds that "semantic elaboration occu
 - *Does retrieving improve later recall because learners elaborate the material semantically while retrieving, as this account holds?* [Existing theoretical accounts attributing the testing effect to enhanced semantic elaboration receive limited support](../claims/limited-support-semantic-elaboration-testing-accounts.md) [-M]
 
 ## Related Theories
+
 - [Elaborative Encoding Improves Retention](../claims/generative-processing-improves-learning.md)
+- [Dual-process account of category access: general initial facilitation plus accumulating inhibition determined by the number of prior retrievals](facilitation-plus-accumulating-inhibition.md)
 
 ## Examples
 -

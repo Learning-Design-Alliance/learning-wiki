@@ -43,4 +43,5 @@ Group summaries submitted via BookRoll's memo function were scored by the senior
 
 
 ## Related Claims
--
+
+- [Most students reported using the Wordcloud for group discussion, and Wordcloud use showed a marginally non-significant advantage on content comprehension but no difference on vocabulary gain](wordcloud-use-survey-and-outcome-comparison.md)

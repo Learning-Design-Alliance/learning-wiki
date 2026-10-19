@@ -62,4 +62,5 @@ Correlational and regression analyses at discussion level (n = 36) found less ar
 
 
 ## Related Claims
--
+
+- [Anchored discussion supports greater communicative efficiency but not higher mutual understanding](anchored-discussion-communicative-efficiency.md)

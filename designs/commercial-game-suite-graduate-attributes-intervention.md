@@ -17,7 +17,7 @@ sources:
 # Suite of eight selected commercial video games played in supervised drop-in game labs
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The intervention material was a suite of commercial entertainment titles (Borderlands 2, Minecraft, Portal 2, Lara Croft and the Guardian of Light, Warcraft III, Team Fortress 2, Gone Home, Papers, Please) played on twelve Windows PCs in university game labs. Selection required that "no game with a Metacritic score of less than 80 out of 100 was considered", and all but Gone Home and Papers, Please included a substantial multiplayer component. Participants logged about 120 minutes per game (60 minutes each for Gone Home and Papers, Please).
@@ -40,10 +40,14 @@ The intervention material was a suite of commercial entertainment titles (Border
 - resourcefulness
 
 ### Claims
+
 - [Game Intervention Gains All Three Graduate Skills](../claims/game-intervention-gains-all-three-graduate-skills.md) [+M]
+- [Playing commercial video games for eight weeks improved self-reported resourcefulness more than control conditions in a randomised trial of undergraduates](../claims/video-games-improve-resourcefulness-rct.md) [+W]
+- [Playing commercial video games for eight weeks improved self-reported communication skill more than control conditions in a randomised trial of undergraduates](../claims/video-games-improve-communication-skill-rct.md) [+W]
 
 ## Related Designs
-- 
+
+- [Drop-in game lab structure preserving flexible play sessions for ecological validity](drop-in-game-lab-flexible-play.md)
 
 ## Examples
 -

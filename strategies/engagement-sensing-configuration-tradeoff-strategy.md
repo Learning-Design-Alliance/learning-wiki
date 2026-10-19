@@ -17,7 +17,7 @@ sources:
 # Choose sensing configurations by target metric and deployment burden, favoring compact five-stream or chest-ECG setups for lightweight deployments
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 2 studies (1 review, 1 design), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The article recommends treating sensing configuration as a design decision balancing predictive value against practical burden. It reports that "the preferred configuration depends on the performance metric and the practical cost of its sensors", with a five-stream setup (EEG, EDA, eSense IMU, HR, Ring Temperature) achieving the highest Within-1 and binary accuracy and chest ECG alone achieving the highest binary Macro-F1, so lighter deployments can drop streams without uniform loss.
@@ -35,6 +35,12 @@ The article recommends treating sensing configuration as a design decision balan
 
 ### Target Learning Goals
 - fine-grained estimation of attention difficulty under practical wearable deployment constraints
+
+## Claims
+
+- [Predictive performance of sensor configurations does not change monotonically with the number of sensing streams; preferred configuration depends on target metric and sensing cost](../claims/sensor-stream-performance-non-monotonic.md) [+W]
+- [Chest-worn ECG provides the strongest cardiac-sensing performance for attention-difficulty prediction, and fusing all cardiac streams does not improve upon chest ECG alone](../claims/chest-ecg-strongest-cardiac-engagement-signal.md) [+W]
+- [Combining more modalities does not always improve detection of learner mental states](../claims/more-modalities-not-always-better-mental-state-detection.md) [+W]
 
 ## Related Strategies
 - 

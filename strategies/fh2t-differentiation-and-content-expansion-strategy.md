@@ -40,6 +40,7 @@ Educators recommended that FH2T allow differentiation "by allowing students to s
 ## Related Strategies
 
 - [Low Floor, High Ceiling Tasks](low-floor_high-ceiling_tasks.md)
+- [Begin targeted math support for BVI students in middle school, focusing on algebra-predictive topics with systematic differentiated instruction and inclusive assessment](middle-school-algebra-readiness-supports-bvi.md)
 
 ## Examples
 -

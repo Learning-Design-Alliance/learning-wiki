@@ -43,4 +43,5 @@ Authors' conclusion from the timeline analysis of the two NLCs, in which activit
 
 
 ## Related Claims
--
+
+- [NLC1 acted as one evenly participating group with no cliques, while NLC2 was initially directed by three central participants and did not operate as one group](nlc1-even-participation-nlc2-star-shape.md)

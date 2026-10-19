@@ -44,4 +44,7 @@ The article's literature review (summarized in its Fig. 3) of SNA studies of cen
 
 
 ## Related Claims
+
 - [Prior CBLEs for programming education have mostly supported SRL individually while disregarding the social context's influence on regulation](programming-cbles-focus-srl-disregarding-social-context.md) — related
+- [Diffusion-based centralities show moderate-to-strong statistically significant positive correlations with the frequency of information sharing and argumentation utterances in CSCL](diffusion-centralities-capture-information-exchange-argumentation.md)
+- [A worked network example shows diffusion-based centralities capturing uptake and argumentation more accurately than traditional centrality measures](worked-example-diffusion-captures-uptake.md)

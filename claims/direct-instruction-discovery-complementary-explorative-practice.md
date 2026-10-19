@@ -43,4 +43,5 @@ Theoretical argument of a conceptual paper, elaborated through an empirical case
 
 
 ## Related Claims
--
+
+- [Parallels between explorative practice and canonical mathematics practice are recognized among mathematicians](explorative-practice-parallels-mathematics-practice.md)

@@ -26,7 +26,11 @@ Coherence analysis (CA) is the paper's approach to analyzing learners' problem-s
 - [Confused guessers had significantly lower pre- and post-test skill scores than most other clusters, but their science learning gains were not significantly different from those of Clusters 1, 2, and 4.](../claims/confused-guessers-lower-skills-similar-gains.md) [+M]
 
 ## Related Research Methods
--
+
+- [Transition Network Analysis (TNA)](transition-network-analysis-tna.md)
+- [Trace parser with action library and process library for measuring SRL from multi-channel data](trace-parser-with-action-library-and-process-library-for-measuring-srl-from-multi-channel.md)
+- [Transformer-encoder knowledge tracing framework with IEU/IIU input vectors](transformer-encoder-knowledge-tracing-framework-with-ieuiiu-input-vectors.md)
+- [Cognitive episodes: an eight-way taxonomy of functional problem-solving states grounded in Schoenfeld's Episode Theory](cognitive-episodes-an-eight-way-taxonomy-of-functional-problem-solving-states-grounded-in.md)
 
 ## Key Sources
 - Gautam Biswas, James R. Segedy, Kritya Bunchongchit. (2016). From Design to Implementation to Practice: a Learning by Teaching System: Betty's Brain. International Journal of Artificial Intelligence in Education. https://doi.org/10.1007/s40593-015-0057-9

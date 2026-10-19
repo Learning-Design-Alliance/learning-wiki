@@ -121,6 +121,9 @@ Perceived presence, the quality of the discourse, each learner's understanding a
 
 ## Examples
 
+- [Wiki learning environment with knowledge bars and participation bars at individual, group, and subgroup levels](../designs/gat-wiki-environment-bar-visualizations.md)
+- [Use information-exchange prompts in online PD discussion forums to elicit transactive discourse](../strategies/information-exchange-prompts-strategy-online-pd.md)
+
 ### Illustrative
 
 **[Online Course Design (Community of Inquiry)](../patterns/online-course-design.md)** — Applies this principle at the scale of a full online course, structured around Moore's three types of interaction.
@@ -167,7 +170,7 @@ Community of inquiry is most useful when learning depends on sustained discourse
 ### Theory
 #### Supporting
 - [Social Learning](../theories/sociocultural-theory.md) — interaction with others is treated as a direct source of learning
-- [Social Constructivism](social-constructivism.md) — shared dialogue and interpretation can shape understanding
+- [Social Constructivism](../theories/sociocultural-theory.md) — shared dialogue and interpretation can shape understanding
 - [Collaborative Learning](collaborative-learning.md) — inquiry communities depend on well-designed collaborative structures
 
 #### Contradicting / Qualifying

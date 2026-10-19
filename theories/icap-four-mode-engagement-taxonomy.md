@@ -71,7 +71,8 @@ ICAP defines four modes of cognitive engagement — Interactive, Constructive, A
 - [ICAP framework: four engagement modes from Interactive to Passive](icap-four-engagement-modes-classroom-discourse-primer.md)
 
 ## Examples
--
+
+- [ICAP-CG lesson-task engagement coding protocol](../research-methods/icap-cg-lesson-task-engagement-coding-protocol.md)
 
 ## Key Sources
 - Chi, M. T. H., Adams, J., Bogusch, E. B., Bruchok, C., Kang, S., Lancaster, M., Levy, R., Li, N., McEldoon, K. L., Stump, G. S., Wylie, R., Xu, D., & Yaghmourian, D. L. (2018). Translating the ICAP Theory of Cognitive Engagement Into Practice. Cognitive Science, 42. https://doi.org/10.1111/cogs.12626

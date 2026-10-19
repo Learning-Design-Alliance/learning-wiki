@@ -62,4 +62,8 @@ Discussion section interpreting the visualized dialogues of both groups: group A
 
 
 ## Related Claims
--
+
+- [Group A's brainstorming was repeatedly unproductive because individual interjections redirected the group's dialogue toward personal concerns](group-a-unproductive-brainstorming-personal-drift.md)
+- [Group A's two most common I-positions were I–it and I–me, while group B's were I–me and I–we, indicating different reliance on interpersonal versus intrapersonal voices](iposition-distribution-two-groups-cscl.md)
+- [Group B showed a shift toward intrapersonal voices (I–you/I–we) during its later empirical evaluation, while group A remained interpersonal (I–it/I–me) even when investigating, with un-negotiated inputs](shift-toward-intrapersonal-voices-successful-group.md)
+- [In group B, usage of I–we gradually increased and peaked in the final stage during critical evaluation, suggesting intrapersonal collective voice drives critical evaluation of evidence](iwe-usage-peaked-final-stage-group-b.md)

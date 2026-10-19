@@ -57,9 +57,11 @@ Short activity bouts acutely improve on-task attention and classroom behavior, p
 5. Provide adapted participation options so all students can take part ([Accommodations](../elements/accommodations.md)).
 
 ## Related Strategies
+
 - [Active Recess](../strategies/active-recess.md) — structured recess activity that complements in-class bouts
 - [Brain Breaks](../strategies/brain-breaks.md) — the generic, non-content-linked variant
 - [Movement-Based Learning](../strategies/movement-based-learning.md) — fully embodied lesson designs
+- [Design physical activity interventions as continuous regular activity sustained over several weeks](continuous-regular-physical-activity-over-weeks.md)
 
 ## Examples
 - **TAKE 10!** (International Life Sciences Institute) — published curriculum embedding 10-minute activity bouts into academic lessons for grades K–5.

@@ -61,4 +61,6 @@ Interpretive conclusion drawn from the scan's Table 1 counts, which categorized 
 
 
 ## Related Claims
+
 - [As of May 2024, 37 states require that some type of statewide or district-level KEA be administered to all incoming kindergarten students](37-states-require-kea-2024.md) — related
+- [Only 15 states and the District of Columbia mandate kindergarten attendance, and 11 of those states require students to take a KEA](15-states-mandate-kindergarten-attendance.md)

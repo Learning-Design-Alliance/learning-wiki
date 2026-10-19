@@ -47,6 +47,7 @@ The report's lessons for the field urge practitioners to go beyond representatio
 - [Design participation deliberately: align entry points with partners' actual readiness rather than assuming a uniform baseline](design-participation-entry-points-match-readiness.md)
 - [Assess team readiness across leadership, facilitation, communication, shared understanding, and capacity before starting](readiness-assessment-before-alignment-work.md)
 - [Form a small cross-departmental team with defined facilitation roles before starting alignment work](small-cross-departmental-team-facilitation-roles.md)
+- [Organize participatory design meetings for one teacher with a small heterogeneous group of student co-designers](pd-meeting-format-small-heterogeneous-group.md)
 
 ## Examples
 -

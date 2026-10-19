@@ -43,4 +43,7 @@ Sequential analysis of Thread 2 (question ID 77879966): the OP self-identified a
 
 
 ## Related Claims
--
+
+- [When comment-based methods fail to repair misunderstanding, directly editing another user's question serves as a last resort that corrects a flawed problem formulation](direct-editing-last-resort-repair.md)
+- [Collaborative problem framing unfolds as sequential comment-and-edit organization across Stack Overflow's dual-space design of distinct question and commenting spaces](dual-space-comment-edit-sequential-organization.md)
+- [Reproducibility of code in questions involves nuanced community formatting expectations, not merely technical correctness](reproducibility-community-formatting-expectations.md)

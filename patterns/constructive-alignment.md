@@ -21,6 +21,10 @@ sources:
     resource: "https://doi.org/10.5539/elt.v5n2p148"
     title: "Ali Panahi. (2012). Binding Task-Based Language Teaching and Task-Based Language Testing: A Survey into EFL Teachers and Learners' Views of Task-Based Approach. English Language Teaching, 5(2). https://doi.org/10.5539/elt.v5n2p148"
     author: Ali Panahi
+  - id: the-iowa-guide-for-curriculum-improvement-in-industrial-arts-1975
+    resource: "https://eric.ed.gov/?id=ED113517"
+    title: "The Iowa Guide for Curriculum Improvement in Industrial Arts, K-12. A Study of Industrial Technology. (1975). Iowa State Dept. of Public Instruction. https://eric.ed.gov/?id=ED113517"
+    author: The Iowa Guide for Curriculum Improvement in Industrial Arts, K-12. A Study of Industrial Technology
 author: "Biggs (1996)"
 grain_size: course, program
 ---
@@ -290,4 +294,42 @@ The article argues that task-based language testing (e.g., IELTS) and task-based
 
 ## Key Sources
 - Ali Panahi. (2012). Binding Task-Based Language Teaching and Task-Based Language Testing: A Survey into EFL Teachers and Learners' Views of Task-Based Approach. English Language Teaching, 5(2). https://doi.org/10.5539/elt.v5n2p148
+-->
+
+<!-- merged 2026-10-19 from principles/learning-activity-selection-principles ("General principles for selecting learning activities"), a narrower page folded into its canonical page (fragment step, two models agreeing or a third settling): its body as it stood. Its bullets this page lacked were added above.
+
+# General principles for selecting learning activities
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
+
+## Description
+Chapter V states five general principles for selecting learning activities: activities should provide practice of the behavior implied by the competency or objective, the student should acquire satisfaction from carrying out the activity, activities should be within the range of possibility for the students involved, many types of activities can attain the same competencies, and the same learning activities will usually bring about several outcomes beyond the targeted objective.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Activities must be matched to competencies and objectives already identified
+#### Constraints
+- The competency and activity lists are explicitly not exhaustive; each teacher must develop activities that best meet the needs of his or her students
+
+### Target Learners
+- K-12 industrial arts students
+
+### Target Learning Objectives
+- Mastery of competencies through practice of implied behaviors
+
+### Claims
+- 
+
+## Related Principles
+
+- [Select content from competencies, not the reverse](../elements/learning-goals.md)
+
+## Examples
+-
+
+## Key Sources
+- The Iowa Guide for Curriculum Improvement in Industrial Arts, K-12. A Study of Industrial Technology. (1975). Iowa State Dept. of Public Instruction. https://eric.ed.gov/?id=ED113517
 -->

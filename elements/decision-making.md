@@ -77,7 +77,7 @@ Decision-making tasks support learning because they require learners to actively
 
 ## Examples
 
-**[Goal-Based Scenarios](../patterns/goal-based-scenarios.md)** — Schank's design pattern: learners pursue a goal within a simulated environment and must make repeated decisions (hiring, budgeting, diagnosing) whose consequences reshape the scenario. Cover Story and other simulations at the Institute for the Learning Sciences were built on this pattern.
+**[Goal-Based Scenarios](../patterns/anchored-instruction.md)** — Schank's design pattern: learners pursue a goal within a simulated environment and must make repeated decisions (hiring, budgeting, diagnosing) whose consequences reshape the scenario. Cover Story and other simulations at the Institute for the Learning Sciences were built on this pattern.
 
 **Harvard Business School case method** — Each class session requires students to take and defend a decision position ("What would you do as the CEO?") before the instructor reveals the protagonist's actual choice, forcing commitment and justification prior to expert comparison. (https://www.hbs.edu/mba/academic-experience/Pages/the-case-method.aspx)
 

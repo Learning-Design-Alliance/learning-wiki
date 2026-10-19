@@ -17,7 +17,7 @@ sources:
 # Treat a drop in scores after an assessment change as potentially a measurement artifact rather than a real achievement decline
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 When scores fall after a new assessment is introduced, communicators and analysts should first check whether the drop reflects the instrument change before reporting an achievement decline. The article shows this in practice: many "wrongly believed that the results showed dramatic declines in student achievement", while "a closer look at the results showed that student achievement may have increased." The strategy is to perform that closer look before drawing conclusions.
@@ -35,6 +35,10 @@ When scores fall after a new assessment is introduced, communicators and analyst
 
 ### Target Learning Goals
 - Accurate public communication of achievement trends
+
+## Claims
+
+- [A closer look at New York's first Common Core exam results suggests student achievement may have increased](../claims/ny-common-core-achievement-may-have-increased.md) [+W]
 
 ## Related Strategies
 - 

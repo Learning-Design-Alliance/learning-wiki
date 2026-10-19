@@ -43,6 +43,9 @@ The review describes the no-loss gambling design proposed by Schurger & Sher (20
 
 
 ## Related Claims
+
 - [Many four-cell PDW payoff matrices imply an optimal strategy of always wagering high](many-pdw-matrices-imply-always-wager-high-optimal.md) — related
 - [Most four-cell PDW payoff matrices fulfill the intuitive wagering-on-correctness properties](four-cell-matrices-fulfill-wagering-on-correctness-properties.md) — related
 - [Participants frequently deviate from optimal wagering strategies implied by payoff matrices](participants-deviate-from-optimal-wagering-strategies.md) — related
+- [Free-choice wager designs vary widely in wager categories and often match other instruments](free-choice-designs-wager-categories-and-instrument-matching.md)
+- [In standard free-choice wagering schemes only the lowest and highest wagers are ever optimal](free-choice-only-extreme-wagers-optimal.md)

@@ -43,4 +43,5 @@ Follow-up univariate tests from the 2 x 2 MANOVA on achievement in the randomize
 
 
 ## Related Claims
--
+
+- [High CPC students outperform low CPC students only on the delayed posttest under the chunking method](cpc-difference-delayed-posttest-only.md)

@@ -191,6 +191,7 @@ Group performance during the task, individual understanding straight after it, d
 - Small-group problem discussion before whole-class synthesis.
 - Professional learning groups discussing a shared scenario or decision point.
 - [Use heterogeneous-pair CPS in which students first generate individual solutions then revise them after collaboration](../strategies/heterogeneous-pair-cps-individual-then-revise.md)
+- [Support collaborative groups by raising awareness of the nature of their challenges and allowing sufficient time for negotiated interaction](../strategies/awareness-and-time-for-negotiated-emotion-regulation.md)
 
 ### Illustrative
 
@@ -447,14 +448,14 @@ Discussion-Based Learning is a pattern in which understanding is built through s
 
 ### Affordances
 - [Peer Discussion](../principles/peer-discussion.md)
-- [Perspective-Taking](../principles/perspective-taking.md)
+- [Perspective-Taking](cognitive-flexibility.md)
 - [Social Learning](../theories/sociocultural-theory.md)
 - [Inquiry-based Learning](../principles/inquiry-based-learning.md)
 - [Perspective-Seeking/Multiple Perspectives](cognitive-flexibility.md)
 - [Purposeful Reflection](../principles/reflection.md)
 
 ## Related Patterns
-- [Socratic Seminar](../patterns/socratic-seminar.md)
+- [Socratic Seminar](../elements/socratic-seminar.md)
 - [Structured Academic Controversy (SAC)](../patterns/structured-academic-controversy.md)
 - [Collaborative Inquiry](../principles/inquiry-based-learning.md)
 
@@ -555,7 +556,7 @@ The pattern is useful across in-person, online, synchronous, and asynchronous se
 
 ## Related Patterns
 - [Collaborative Inquiry](../principles/inquiry-based-learning.md)
-- [Socratic Seminar](../patterns/socratic-seminar.md)
+- [Socratic Seminar](../elements/socratic-seminar.md)
 
 ## Examples
 - Online forum discussions tied to a case, reading, or weekly question.

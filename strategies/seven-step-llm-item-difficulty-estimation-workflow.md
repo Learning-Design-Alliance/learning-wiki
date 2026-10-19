@@ -17,7 +17,7 @@ sources:
 # Seven-step workflow for testing professionals to implement LLM-based item difficulty estimation with their item pool
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (4 for, 1 mixed) · 1 study (1 design), `q2` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The article offers its methods as a reusable implementation path for other testing organizations, stating: "We provide a seven-step workflow for testing professionals who would want to implement a similar item difficulty estimation approach with their item pool". The workflow distills the study's pipeline: SME feature elicitation, prompt development with iterative refinement, direct and feature-based LLM estimation, rescaling to the IRT scale, ensemble model training with cross-validation, and benchmark comparison on a stratified holdout sample. It is intended to streamline item development and reduce reliance on extensive field testing.
@@ -37,6 +37,14 @@ The article offers its methods as a reusable implementation path for other testi
 
 ### Target Learning Goals
 - Scalable pre-screening of item difficulty to support efficient item development and adaptive testing
+
+## Claims
+
+- [Direct LLM estimation accuracy varies by grade, performing worse for early grades; math grade K was worse than the dummy regressor and math grade 1 showed no significant prediction](../claims/direct-llm-accuracy-varies-by-grade-early-grades-worse.md) [~W]
+- [Direct zero-shot GPT-4o difficulty ratings beat a grade-level dummy regressor and correlate strongly with true Rasch difficulties overall, for K-5 math and reading items](../claims/direct-llm-estimation-beats-dummy-regressor-k5-items.md) [+W]
+- [Feature-based models (LLM-extracted features plus metadata in random forest and gradient boosting) outperform direct LLM estimation, dummy regressor, TF-IDF, and metadata-only benchmarks, with correlations up to r = .87](../claims/feature-based-llm-models-outperform-direct-estimation-and-benchmarks.md) [+W]
+- [Feature-based model predictive power derives from a large and varied set of features rather than a few dominant variables](../claims/feature-importance-spread-across-many-features.md) [+W]
+- [LLM-extracted cognitive and linguistic features add predictive value beyond readily available item metadata (grade, domain, item type, word count)](../claims/llm-features-add-value-beyond-item-metadata.md) [+W]
 
 ## Related Strategies
 - 

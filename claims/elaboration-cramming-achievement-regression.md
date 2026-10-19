@@ -43,4 +43,5 @@ Regression of self-reported achievement on rehearsal, elaboration, spacing, cram
 
 
 ## Related Claims
--
+
+- [Self-control was not a significant predictor of any learning strategy or of self-reported achievement, and MCSR predicted only elaboration](self-control-null-predictor-strategies-achievement.md)

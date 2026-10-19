@@ -43,4 +43,6 @@ Exploratory correlational analysis of posttest scores against SSRS teacher ratin
 
 
 ## Related Claims
+
 - [HTKS scores show validity evidence for first graders, associating with teacher-rated social skills and problem behavior](htks-validity-first-graders.md) — related
+- [Only one of 38 severely struggling middle school readers met a standard-score benchmark of 93 for adequate response to intervention after the study](benchmark-93-adequate-response-met-by-one-student.md)

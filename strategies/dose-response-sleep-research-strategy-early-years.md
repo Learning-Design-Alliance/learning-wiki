@@ -17,7 +17,7 @@ sources:
 # Prioritize dose-response sleep research with multiple time points and narrower age groups before refining early-years sleep recommendations
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review's authors recommend a research programme to strengthen the evidence base behind sleep duration recommendations for children aged 0–4 years. They state "there is a clear need for dose-response curves with multiple time points of sleep duration that can provide a better idea of optimal sleep duration ranges", including experimental sleep restriction/extension interventions, observational comparisons of several sleep-duration categories, objective sleep measurement, and results reported for narrower age groups aligned with current recommendations.
@@ -36,8 +36,13 @@ The review's authors recommend a research programme to strengthen the evidence b
 ### Target Learning Goals
 - informing sleep duration recommendations that support healthy cognitive, psychosocial and physical development
 
+## Claims
+
+- [Evidence on sleep duration and cognitive development in children aged 0–4 years is mixed, with no consistent association](../claims/sleep-cognitive-development-mixed-early-years.md) [~W]
+
 ## Related Strategies
-- 
+
+- [Promote a consistent bedtime routine as a feasible, cost-effective method to support early childhood development, particularly for at-risk children](promote-bedtime-routine-public-health-strategy.md)
 
 ## Examples
 -

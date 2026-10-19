@@ -44,9 +44,11 @@ Exploratory correlational analysis in 86 third graders testing whether domain-ge
 - [Number Sense](../learner-variables/number-sense.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
 - [Teacher-rated inhibition (BRIEF) does not correlate with stroop-based cognitive inhibition measures](brief-uncorrelated-stroop-inhibition.md) — related
 - [Children with developmental dyscalculia are more susceptible to task-irrelevant information than controls across five experiments](dd-interference-suppression-impairment.md) — related
 - [Symbolic numerical magnitude processing is a powerful unique predictor of arithmetic fact retrieval](symbolic-nmp-strong-predictor-fact-retrieval.md) — related
 - [Adults with DD show a reduced Number Stroop effect during physical comparison, suggesting weaker automatic activation of number magnitude](dd-adults-reduced-number-stroop-effect.md) — related
 - [Adults with DD show deficient time/duration processing but preserved length processing, with mixed findings across studies](dd-adults-time-duration-deficit-length-mixed.md) — related
 - [No significant independent relationship was found between inhibition and factual knowledge of arithmetic in either children or adults](no-inhibition-factual-knowledge-relationship.md) — related
+- [Adults with dyslexia without dyscalculia show no deficit in nonsymbolic numerical magnitude processing](dyslexia-without-dyscalculia-intact-magnitude-processing.md)

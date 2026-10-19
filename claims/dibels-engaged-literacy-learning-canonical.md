@@ -43,4 +43,6 @@ Canonical variance analysis relating PIPPS and LBS dimensions to DIBELS subtests
 
 
 ## Related Claims
--
+
+- [DIBELS subtests share a significant multivariate relationship with TERA early reading dimensions (Early Literacy Competence variate)](dibels-tera-canonical-early-literacy-competence.md)
+- [Kindergarten DIBELS subtests correlate significantly with early mathematics ability and with behavioral approaches to learning](dibels-convergent-math-learning-behaviors.md)

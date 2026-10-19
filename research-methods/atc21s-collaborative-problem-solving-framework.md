@@ -12,7 +12,7 @@ generated:
 # ATC21S collaborative problem-solving framework
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The study applies the ATC21S CPS framework, in which "CPS is defined as a set of elements consisting of 'social' and 'cognitive' as the first-order components". The second-order components are three social elements (participation, perspective taking, social regulation) and two cognitive elements (task regulation, knowledge building), which are "further divided into 19 specific sub-elements as third-order components". Because the framework "profoundly covers both social and cognitive elements" and specifies operational definitions, the authors judged it "suitable for the purposes of directed content analysis". The elements "can overlap and run parallel between the different stages of the process".
@@ -22,6 +22,8 @@ The study applies the ATC21S CPS framework, in which "CPS is defined as a set of
 - **The Hesse et al. CPS framework: two first-order components, five second-order elements, and 19 third-order sub-elements used for directed content analysis**: The study applies the ATC21S CPS framework, in which "CPS is defined as a set of elements consisting of 'social' and 'cognitive' as the first-order components". The second-order components are three social elements (participation, perspective taking, social regulation) and two cognitive elements (task regulation, knowledge building), which are "further divided into 19 specific sub-elements as third-order components". Because the framework "profoundly covers both social and cognitive elements" and specifies operational definitions, the authors judged it "suitable for the purposes of directed content analysis". The elements "can overlap and run parallel between the different stages of the process". (Johanna Pöysä-Tarhonen et al. (2022))
 
 ### Claims
+
+- [Among 166 sixth graders, social CPS skill levels were mostly high while cognitive CPS skill levels were mostly low across four ATC21S CPS tasks](../claims/sixth-graders-high-social-low-cognitive-cps-skill-distribution.md) [+W]
 
 ## Related Research Methods
 -

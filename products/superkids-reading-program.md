@@ -29,7 +29,9 @@ The Superkids Reading Program is a K–2 beginning-reading curriculum developed 
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [SIPPS](sipps.md)
+- [My Reading Academy](my-reading-academy.md)
 
 ## Key Sources
 - The Superkids Reading Program. (2009). https://evidenceforessa.org/program/the-superkids-reading-program/

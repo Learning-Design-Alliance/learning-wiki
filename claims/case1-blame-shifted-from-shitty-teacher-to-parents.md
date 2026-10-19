@@ -44,4 +44,5 @@ Case 1 discourse analysis of a VFF debrief transcript at Haynes Middle School. T
 
 
 ## Related Claims
--
+
+- [Deficit narratives are co-constructed in teacher collegial talk in response to teacher vulnerability under emotional regimes that disallow strong negative emotions](deficit-narratives-arise-from-vulnerability-under-emotional-regimes.md)

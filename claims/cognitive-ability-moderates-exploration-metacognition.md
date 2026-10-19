@@ -43,4 +43,6 @@ Theoretical aptitude-treatment argument: the article cites Snow's position that 
 
 
 ## Related Claims
--
+
+- [Exploratory learning is expected to raise metacognitive activity, which in turn increases strategic knowledge and adaptive transfer](exploratory-learning-metacognition-adaptive-transfer-pathway.md)
+- [Trait goal orientation is expected to moderate error-framing effects, with framing most powerful for trainees low in the corresponding trait orientation](trait-goal-orientation-moderates-error-framing.md)

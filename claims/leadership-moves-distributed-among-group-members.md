@@ -62,4 +62,5 @@ Coding of 22 groups in a multi-touch classroom study. The article reports "1,377
 
 
 ## Related Claims
--
+
+- [Emergent leadership did not differ between multi-touch table and paper conditions in study one](no-leadership-difference-multi-touch-paper.md)

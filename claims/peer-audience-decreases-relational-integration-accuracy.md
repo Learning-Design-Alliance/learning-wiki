@@ -43,6 +43,8 @@ Behavioural analysis of the fMRI study's 2×2×2 mixed-design ANOVA on accuracy 
 
 
 ## Related Claims
+
 - [Being observed by a friend or an experimenter affects relational reasoning accuracy in adolescents but not in adults](audience-effect-adolescent-relational-reasoning-not-adults.md) — reports the opposite
 - [No behavioural Audience × Age group interaction: the accuracy decrement was comparable in adolescents and adults](no-behavioural-audience-age-interaction.md) — reports the opposite
 - [Relational integration is less accurate and slower than single-relation matching regardless of audience or age](relational-harder-than-control-main-effect.md) — reports the opposite
+- [Older adolescents (14.9–17.8 years) show lower relational reasoning accuracy when observed by a friend than by an experimenter, across task difficulty levels](older-adolescents-lower-accuracy-friend-versus-experimenter.md)

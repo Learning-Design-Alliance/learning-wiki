@@ -43,4 +43,7 @@ Quantitative synthesis across the 33 free-choice payoff designs assembled in the
 
 
 ## Related Claims
+
 - [In standard free-choice wagering schemes only the lowest and highest wagers are ever optimal](free-choice-only-extreme-wagers-optimal.md) — related
+- [Many four-cell PDW payoff matrices imply an optimal strategy of always wagering high](many-pdw-matrices-imply-always-wager-high-optimal.md)
+- [No-loss gambling and gains-only designs avoid loss-aversion complications in PDW](no-loss-gambling-and-gains-only-designs-avoid-loss-aversion.md)

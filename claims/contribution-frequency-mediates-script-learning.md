@@ -62,4 +62,5 @@ Same main-study mediation section: the unmediated total-effect model found no si
 
 
 ## Related Claims
--
+
+- [In the main study, NCC, metacognitive strategies, and intrinsic motivation moderated contribution frequency but showed no significant conditional effects on learning gains](moderators-contribution-frequency-not-learning.md)

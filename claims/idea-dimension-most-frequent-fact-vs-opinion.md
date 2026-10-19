@@ -43,4 +43,6 @@ Qualitative coding of discourse across three KF views found the Bidea^ dimension
 
 
 ## Related Claims
--
+
+- [Agency, information, linking, and meta-discourse dimensions appeared infrequently in the dataset despite their theoretical importance](agency-information-linking-meta-discourse-infrequent.md)
+- [Knowledge-sharing discourse was the most common mode in KF discussions, while knowledge-building discourse was comparatively rare](knowledge-sharing-most-common-knowledge-building-rare.md)

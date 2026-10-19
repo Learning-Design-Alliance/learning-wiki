@@ -43,4 +43,5 @@ Theoretical argument in the article's exploration section: control over learning
 
 
 ## Related Claims
--
+
+- [Cognitive ability is expected to moderate exploration effects: enhancing metacognition for high-ability trainees but inhibiting it for low-ability trainees](cognitive-ability-moderates-exploration-metacognition.md)

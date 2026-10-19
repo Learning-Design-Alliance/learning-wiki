@@ -41,7 +41,9 @@ This strategy replaces conventional single-coder reliability checking with colla
 - [Collaborative Grounded Theory Developmental Evaluation](../theories/collaborative-grounded-theory-developmental-evaluation.md)
 
 ## Related Strategies
-- 
+
+- [Assess social and group flow in real time through non-intrusive observation instead of interrupting learners with self-report surveys](real-time-observational-flow-assessment-in-dgbl.md)
+- [Report intercoder agreement at each level of a hierarchical codebook using set-valued measures such as Jaccard similarity](report-agreement-at-each-hierarchy-level.md)
 
 ## Examples
 -

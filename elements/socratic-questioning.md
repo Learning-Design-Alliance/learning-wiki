@@ -69,7 +69,7 @@ Socratic questioning is the element in which prompts are used to probe assumptio
 - [Peer Discussion](peer-discussion.md)
 
 ## Patterns That Use This Element
-- [Socratic Seminar](../patterns/socratic-seminar.md)
+- [Socratic Seminar](socratic-seminar.md)
 - [Discussion-Based Learning](../principles/collaborative-learning.md)
 
 ## Examples

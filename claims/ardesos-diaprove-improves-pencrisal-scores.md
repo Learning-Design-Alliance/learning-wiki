@@ -41,4 +41,6 @@ Pre-post comparison on the PENCRISAL test (35 open-answer items across five fact
 
 
 ## Related Claims
--
+
+- [A critical thinking instruction program (ARDESOS-DIAPROVE) improved students' metacognition, with significant pre-post gains in the metaknowledge total and most MAI dimensions](ct-instruction-improves-metacognition-mai.md)
+- [The TEFA-T model improves students' critical thinking skills on all measured indicators compared with conventional instruction](tefa-t-improves-critical-thinking-skills.md)

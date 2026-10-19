@@ -63,7 +63,7 @@ Preparation before discussion raises the quality of seminar talk because learner
 - [Advance Organizers](advance-organizers.md) — framing devices that direct preparatory attention
 
 ## Patterns That Use This Element
-- [Socratic Seminar](../patterns/socratic-seminar.md) — preparation is the precondition for text-based questioning
+- [Socratic Seminar](socratic-seminar.md) — preparation is the precondition for text-based questioning
 - [Flipped Classroom](../principles/flipped-learning.md) — pre-class first exposure is the defining structural move
 - [Case-Based Learning](../patterns/case-based-learning.md) — learners prepare by analyzing the case before seminar deliberation
 

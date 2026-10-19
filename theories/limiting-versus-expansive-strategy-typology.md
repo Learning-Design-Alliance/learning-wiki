@@ -39,7 +39,8 @@ The article develops a coding typology distinguishing four "limiting" strategies
 ### Claims
 
 ## Related Theories
-- 
+
+- [Well-Structured vs. Ill-Structured Problems](well-structured-vs-ill-structured-problems.md)
 
 ## Examples
 

@@ -180,6 +180,8 @@ Claims the earlier page cited, each now placed above (in the model, the evidence
 
 ## Examples
 
+- [Digalo](../products/digalo.md)
+
 ### Illustrative
 
 **[Shared Documents](../elements/shared-documents.md)** — Learners co-construct an artifact that carries part of the group’s memory, coordination, and reasoning.

@@ -43,4 +43,5 @@ The ANCOVA on transfer scores found no significant difference between control an
 
 
 ## Related Claims
--
+
+- [An irrelevance prompt eliminates the recall cost of seductive details, supporting the diversion explanation](irrelevance-prompt-eliminates-seductive-details-recall-cost.md)

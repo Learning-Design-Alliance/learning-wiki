@@ -43,4 +43,5 @@ Same multiple regression on 101 groups' factor scores; the social activities fac
 
 
 ## Related Claims
--
+
+- [Regulation of social activities positively predicts group performance in CSCL inquiry tasks](social-regulation-positively-predicts-group-performance.md)

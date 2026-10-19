@@ -244,6 +244,7 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Three-phase SRL scaffolding framework (planning, task execution, post-task reflection) operationalized across iterative design cycles](three-phase-srl-chatbot-scaffolding-framework.md)
 - [Learning readiness as an operationalization of self-regulated learning (SRL)](learning-readiness-srl-operationalization.md)
 - [Self-regulated learning as the priority outcome of remote independent work](self-regulated-learning-homework-priority.md)
+- [Four-category operationalization of Winne and Hadwin's four-stage SRL model for tutored problem-solving verbalizations](winne-hadwin-four-category-tap-coding-scheme.md)
 
 ## Examples
 
@@ -255,6 +256,8 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Place GenAI entry after the learner's initial task attempt rather than before it](../strategies/genai-entry-after-attempt-in-srl-cycle.md)
 - [Study learning with AI by varying the interactional arrangement and measuring process and delayed reduced-support outcomes](../strategies/measure-process-and-delayed-outcomes-ai-learning-research.md)
 - [Teacher supports for self-regulated GenAI feedback engagement](../strategies/teacher-supports-self-regulated-genai-feedback.md)
+- [App-based metacognitive monitoring training program with paired-associates memory tasks and feedback](../designs/app-based-metacognitive-monitoring-training-kindergarten.md)
+- [Newell-inspired time-scale taxonomy for aligning SRL measurement to theorized process duration](../research-methods/newell-inspired-time-scale-taxonomy-for-aligning-srl-measurement-to-theorized-process-dura.md)
 
 ## Key Sources
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64-70. [https://doi.org/10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

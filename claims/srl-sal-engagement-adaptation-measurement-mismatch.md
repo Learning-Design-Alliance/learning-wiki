@@ -43,4 +43,9 @@ The commentary reports Zusho's (2017) conclusions from reviewing the literature 
 
 
 ## Related Claims
--
+
+- [Unexplicated definitions of key constructs introduce conceptual ambiguity that makes theory integration far less likely](conceptual-ambiguity-impedes-theory-integration.md)
+- [Review of 23 ILS studies since 2004 finds more dimensionality in learning patterns than previously considered](ils-learning-patterns-greater-dimensionality.md)
+- [Neither self-report nor eye tracking can reliably distinguish strategic from habituated behavior in empirical practice](measurement-cannot-separate-strategic-from-habituated.md)
+- [Fryer argues perceived control and need for competence may bridge differences among models of higher-education learning toward a mega-theory](perceived-control-competence-mega-theory-bridge.md)
+- [Dinsmore's review of 134 studies argues that models of strategic processing among college students must be multidimensional and dynamic](strategic-processing-multidimensional-dynamic-college.md)

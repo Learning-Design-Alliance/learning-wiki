@@ -17,7 +17,7 @@ sources:
 # Teachers should make task demands explicit, compelling, varied, and metacognitively supported when assigning text-study tasks
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 From the finding that tenth-graders show limited task awareness, the authors derive four instructional suggestions: provide sufficient information about intended task demands aligned with the tasks ultimately set; make task demands "convincing and compelling enough" so students cannot succeed with routine strategies alone; vary the types of study tasks (e.g., memorization versus deep comprehension, different disciplinary perspectives); and give metacognitive support by asking students to judge the importance of text units and explain their judgments. The article states students must learn that author-based, reader-based, and instruction-based relevance criteria exist.
@@ -36,8 +36,14 @@ From the finding that tenth-graders show limited task awareness, the authors der
 ### Target Learning Goals
 - adapting text-study strategies to specific task demands; selecting relevant information according to varied criteria
 
+## Claims
+
+- [Tenth-graders show few signs of global task awareness when selecting text fragments, rarely rereading or deeply processing task instructions](../claims/few-signs-global-task-awareness-selection.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Question Answer Relationships](question-answer-relationships.md)
+- [Provide explicit prompting instruction and expert scaffolding before or during novice LLM activities](explicit-prompting-instruction-before-llm-tasks.md)
 
 ## Examples
 -

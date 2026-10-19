@@ -60,9 +60,11 @@ LEA works because it makes text personally meaningful and fully decodable within
 5. **Extend to independent writing** — learners write their own version or a follow-up sentence ([Application](../elements/application.md))
 
 ## Related Strategies
+
 - **Shared Reading** — pairs naturally with LEA; big-book shared reading models what LEA charts then personalize
 - **Dialogic Reading** — the questioning routine that deepens the oral language LEA builds on
 - **Dictated Writing / Interactive Writing** — adjacent methods that shift more of the pen to the learner
+- [Integrate oracy and literacy in meaningful activities rather than treating the four modes as separate](integrate-oracy-literacy-meaningful-activities.md)
 
 ## Examples
 - A kindergarten class visits a pumpkin patch, then dictates "We saw big pumpkins. Sam found a tiny one." onto a language experience chart; the class rereads it daily, hunts for the word *pumpkin*, and each child illustrates and copies one sentence.

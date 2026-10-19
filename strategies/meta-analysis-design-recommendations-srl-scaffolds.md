@@ -17,7 +17,7 @@ sources:
 # Use large samples, true experimental designs, and moderate treatment durations when evaluating SRL scaffolds
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 For researchers studying SRL scaffolds, the article recommends methodological choices to maximize statistical power and reduce confounding. It suggests researchers "should adopt the largest sample size possible so as to obtain significant statistical power and reliable results", that "more studies with true experimental designs should be adopted in future", and that "the duration of treatment should not be too long" to eliminate confounding variables. It also calls for future studies to examine outcome variables beyond academic performance, including self-regulated skills, motivations, and emotions, and to analyze qualitative research.
@@ -36,8 +36,14 @@ For researchers studying SRL scaffolds, the article recommends methodological ch
 ### Target Learning Goals
 - rigorous evaluation of SRL scaffold effectiveness
 
+## Claims
+
+- [Scaffold effects peak at 2–4 weeks of treatment and decrease dramatically for treatments lasting 9–24 weeks](../claims/treatment-duration-moderates-scaffold-effects.md) [~W]
+
 ## Related Strategies
-- 
+
+- [Conduct methodologically comparable experimental studies of acute PA and attention in school settings](comparable-school-setting-pa-attention-studies.md)
+- [Use multi-method, multi-timing measurement and subscale-level correlational analysis when evaluating metacognition](multi-method-metacognition-measurement-strategy.md)
 
 ## Examples
 -

@@ -62,4 +62,5 @@ Same regression model for comprehension: the learning material × WMC interactio
 
 
 ## Related Claims
--
+
+- [Disfluency shows no negative effects on learning; the common-sense hypothesis that it harms learning can be rejected](disfluency-no-negative-effects.md)

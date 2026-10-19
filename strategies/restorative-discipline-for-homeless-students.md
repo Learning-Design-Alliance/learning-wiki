@@ -39,6 +39,7 @@ This strategy replaces school-removal discipline (suspensions and expulsions) wi
 ## Related Strategies
 
 - [Replace exclusionary discipline for low-level offenses with social-emotional skill teaching, educator supports, implicit-bias training, and relationship-centered schools](replace-exclusionary-discipline-with-sel-and-relationship-centered-approaches.md)
+- [Use educative and restorative behavior supports rather than punitive and exclusionary discipline](restorative-educative-behavior-supports-gateway.md)
 
 ## Examples
 -

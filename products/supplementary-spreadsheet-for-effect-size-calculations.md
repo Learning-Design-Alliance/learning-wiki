@@ -13,7 +13,7 @@ generated:
 # Supplementary spreadsheet for effect size calculations
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A spreadsheet accompanying Lakens (2013) that calculates and recommends effect sizes for t-test and ANOVA results from user-entered study statistics.
@@ -22,6 +22,8 @@ A spreadsheet accompanying Lakens (2013) that calculates and recommends effect s
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
+- [Cohen's small, medium, and large effect size benchmarks are arbitrary and should not be interpreted rigidly](../claims/cohen-benchmarks-arbitrary.md) [+W]
 
 ## Related Products and Programmes
 -

@@ -43,4 +43,6 @@ Experiment 1 supplementary analysis (footnote): Pearson correlations between eac
 
 
 ## Related Claims
--
+
+- [The quality of sixth-graders' keywords is not diagnostic of intra-individual variation in test performance (Experiment 1).](keyword-quality-not-diagnostic-of-test-performance.md)
+- [Teachers' intra-individual monitoring accuracy of students' text-by-text learning is not better than chance and is not improved by students' keywords or summaries (Experiment 1).](teacher-intra-individual-monitoring-accuracy-low-not-improved-by-cue-prompts.md)

@@ -13,7 +13,7 @@ generated:
 # EISEL
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 EISEL is an in-house LMS learning tool developed for the study that provides chapter-based question pools, randomized practice sets, immediate correctness feedback, and repeated practice for undergraduate MIS and information-technology learners.
@@ -22,6 +22,8 @@ EISEL is an in-house LMS learning tool developed for the study that provides cha
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
+- [Providing feedback after initial multiple-choice tests cut lure intrusions on final short-answer tests roughly in half, with immediate and delayed feedback equally effective](../claims/feedback-after-multiple-choice-tests-halves-lure-intrusions.md) [+W]
 
 ## Related Products and Programmes
 -

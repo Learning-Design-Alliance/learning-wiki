@@ -43,4 +43,5 @@ Correlational analysis in the 55-participant sample relating maternal education 
 
 
 ## Related Claims
--
+
+- [Family communication mode and hearing status at birth were not significantly related to bilingual abilities](family-communication-mode-null-bilingual.md)

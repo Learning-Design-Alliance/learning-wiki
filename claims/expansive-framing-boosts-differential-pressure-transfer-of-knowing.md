@@ -43,4 +43,5 @@ ANOVA on transfer-of-knowing for the differential pressure principle in the tuto
 
 
 ## Related Claims
--
+
+- [General biology students in the expansive condition transferred more of what they learned about the differential pressure principle (d = 1.2)](general-biology-transfer-of-learning-differential-pressure.md)

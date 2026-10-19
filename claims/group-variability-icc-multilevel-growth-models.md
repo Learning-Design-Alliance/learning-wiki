@@ -43,4 +43,6 @@ Multilevel modeling setup for the course's weekly interaction data: the random i
 
 
 ## Related Claims
--
+
+- [Model-based clustering of tied durations identifies four weekly regulation patterns in PBL group discussions](four-weekly-regulation-patterns-pbl.md)
+- [Most PBL groups settled into stable regulatory patterns early in the course, with transitions usually between similar patterns](stable-early-regulatory-patterns-limited-change.md)

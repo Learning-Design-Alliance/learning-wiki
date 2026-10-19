@@ -43,7 +43,8 @@ The statement of task organizes the study around learning and learning contexts 
 - 
 
 ## Examples
--
+
+- [Specify directions for strategic investments in research and development to support learning](../strategies/hpl-ii-strategic-rd-investment-directions.md)
 
 ## Key Sources
 - National Academies of Sciences, Engineering, and Medicine. (2018). How People Learn II: Learners, Contexts, and Cultures. Consensus Study Report. https://www.nationalacademies.org/publications/24783

@@ -43,4 +43,8 @@ Qualitative content analysis of semi-structured interviews with six experimental
 
 
 ## Related Claims
--
+
+- [Eighth graders experiencing ADI instruction scored significantly higher on the post-test of demonstrated scientific literacy (SLA-D) than students experiencing structured inquiry](adi-higher-sla-d-posttest-than-structured-inquiry.md)
+- [ADI students scored significantly higher than structured-inquiry students on the personal epistemology of science subscale, but not on value of science or self-efficacy subscales](adi-personal-epistemology-gain-only-subscale.md)
+- [The ADI group showed significant within-group gains on demonstrated scientific literacy from pre- to post-test, while the structured-inquiry group did not](adi-within-group-sla-d-gain-comparison-null.md)
+- [Argumentation Improves Reasoning](argumentation-improves-reasoning.md)

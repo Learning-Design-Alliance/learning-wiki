@@ -43,4 +43,5 @@ Descriptive statement of the study design: five experiments on collaborative pro
 
 
 ## Related Claims
--
+
+- [In most of the reported collaborative experiments, the accuracy of the partner model A built about B was correlated with the accuracy of the model B built about A](partner-model-accuracy-symmetry-correlated.md)

@@ -47,7 +47,7 @@ The paper's central contribution is an organizing framework answering its essent
 - [Use a three-part process-understanding-product rubric for formative and summative maker assessment](../strategies/three-part-rubric-maker-assessment.md)
 - [Teach a simple, clear, memorable design cycle without treating it as a rigid checklist](../principles/clear-structure.md)
 - [Focus assessment on process over product in maker education](../principles/fostering-creative-thinking.md)
-- [Involve students in real-world problem solving to deepen engagement, retention, and understanding](../principles/real-world-problem-solving-maker-context.md)
+- [Involve students in real-world problem solving to deepen engagement, retention, and understanding](../principles/problem-based-learning.md)
 - [Provide student choice to build ownership and self-efficacy in maker education](../principles/autonomy.md)
 
 ## Key Sources

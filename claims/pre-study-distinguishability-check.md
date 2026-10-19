@@ -43,4 +43,5 @@ Pre-study with 33 undergraduate students randomly assigned to distinguish either
 
 
 ## Related Claims
--
+
+- [Visualization format has a large multivariate and univariate effect on identifying motions and spatial arrangements](manova-omnibus-visualization-format-effect.md)

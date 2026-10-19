@@ -42,6 +42,7 @@ The report recommends siting magnets near job centers so parents can transport c
 ## Related Strategies
 
 - [Create and foster diverse, effective magnet schools through coordinated federal, state, district, and school policies](multilevel-policy-support-for-magnet-diversity.md)
+- [Use community-area demographic descriptor data as an input to school planning and reform](use-community-demographic-data-for-school-planning.md)
 
 ## Examples
 -

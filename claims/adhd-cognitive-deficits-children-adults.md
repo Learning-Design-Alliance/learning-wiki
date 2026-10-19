@@ -81,4 +81,6 @@ The review reports, citing Frazier-Wood et al. (2012), Karalunas et al. (2014) a
 
 
 ## Related Claims
+
 - [Low working memory span individuals are more affected by Stroop task lapses and report more task-related mind-wandering](low-span-staying-on-task-deficits.md) — related
+- [ADHD is associated with poor academic outcomes, including lower grade point average, increased grade retention, and lower rates of high-school graduation and post-secondary education](adhd-poor-academic-outcomes-longitudinal.md)

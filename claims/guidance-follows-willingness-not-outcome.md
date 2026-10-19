@@ -43,4 +43,5 @@ SNA and Blau's heterogeneity measure on interaction frequencies across four clas
 
 
 ## Related Claims
--
+
+- [Teachers spent most CSCL class time on task management, content knowledge, technical support and observing, with minimal socio-emotional support](teacher-guidance-focus-distribution-cscl-science.md)

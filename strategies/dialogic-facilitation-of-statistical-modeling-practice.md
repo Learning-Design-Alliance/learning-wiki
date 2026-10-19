@@ -47,7 +47,9 @@ Statistical modeling — mapping a real situation into a model, imagining it as 
 5. Periodically coordinate aspects explicitly in a single discourse move — connecting a model's construction, its established fit, and a new inference question in one continuous exchange.
 
 ## Related Strategies
+
 - (none yet linked)
+- [Adopt a dialogic format to align student and teacher perspectives on instructional quality within schools](dialogic-format-align-perspectives-instructional-quality.md)
 
 ## Examples
 - A teacher, prompted to interpret an unusual sample statistic reported by another class, said: "Mr. B's class measured a median of 517. Do you think they measured the same table, or by chance?" — explicitly linking model fit and inference in one move.

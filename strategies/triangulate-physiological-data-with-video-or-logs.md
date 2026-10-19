@@ -17,7 +17,7 @@ sources:
 # Triangulate physiological data with other CSCL data streams ( such as video or logfile traces ) to uncover otherwise unidentifiable psychophysiological reactions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 review, 1 associational), `q2` · 1 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends combining physiological sensors with other data sources to interpret bodily reactions in collaborative learning. It states that "the use of physiological data in triangulation with other data (e.g., video) has the potential to uncover otherwise unidentifiable psychophysiological reactions". It further suggests connecting physiological data with logfile traces to gather bigger datasets, and notes that physiological sensors are "seamless" and record reactions "on the fly".
@@ -37,8 +37,15 @@ The article recommends combining physiological sensors with other data sources t
 ### Target Learning Goals
 - recognising regulation-relevant events and difficulties in collaborative learning
 
+## Claims
+
+- [Students' monitoring frequency during the collaborative exam was significantly and positively correlated with their number of EDA peaks.](../claims/monitoring-frequency-correlates-eda-peaks.md) [+W]
+- [Combining more modalities does not always improve detection of learner mental states](../claims/more-modalities-not-always-better-mental-state-detection.md) [~W]
+
 ## Related Strategies
-- 
+
+- [Use multimodal data channels combining subjective and objective measures to overcome single-channel constraints in SSRL research](multimodal-multichannel-ssrl-measurement.md)
+- [Combine system logs, eye-tracking, and speech recognition to capture professional performance, communication, and collaboration for automated feedback in full-mission simulator training](mmla-sensor-set-simulator-feedback.md)
 
 ## Examples
 -

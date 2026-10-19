@@ -43,4 +43,5 @@ This is the review's own synthesis statement: it reviews "a growing body of evid
 
 
 ## Related Claims
--
+
+- [Early intervention can remediate neurodevelopmental consequences associated with maltreatment or institutional rearing](early-intervention-remediates-adversity-neurodevelopmental-consequences.md)

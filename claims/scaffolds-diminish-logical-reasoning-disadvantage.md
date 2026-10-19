@@ -62,9 +62,8 @@ General additive model main smooth term for teacher-judged logical reasoning in 
 
 
 ## Related Claims
-- [The general additive model estimated a main effect of intervention condition on posttest reasoning from irrelevant events](gam-main-condition-effect-irrelevant-reasoning.md) — related
+- [The general additive model estimated a main effect of intervention condition on posttest reasoning from irrelevant events](scaffolds-improve-irrelevant-evidence-reasoning-third-graders.md) — related
 - [Scaffolding mitigated the limiting effect of low prior knowledge: prior knowledge predicted posttest irrelevant-evidence reasoning only under the control condition](scaffolds-mitigate-prior-knowledge-limit.md) — related
 - [Scaffolding enabled students' inhibition ability to contribute to learning reasoning from irrelevant events: inhibition predicted posttest scores only under the experimental condition](scaffolds-enable-inhibition-contribution.md) — related
 - [BKT scaffolding significantly benefits low prior knowledge students, who outperformed low prior knowledge controls](bkt-benefits-low-prior-knowledge-students.md) — related
 - [Adaptive scaffolding policies (BKT and DRL) significantly improve posttest performance over a non-adaptive control in a logic ITS](adaptive-icap-scaffolding-improves-posttest-logic-tutor.md) — related
-- [Scaffolded third-graders outperformed control students on reasoning based on irrelevant evidence after instruction](scaffolds-improve-irrelevant-evidence-reasoning-third-graders.md) — related

@@ -37,7 +37,8 @@ Drawing on Pett and Wilson (1996), the article offers guidelines for color in mL
 - attention, information search, retention and legibility in mobile instructional content
 
 ## Related Strategies
-- 
+
+- [Using Colors for Different Feelings](using_colors_for_different_feelings.md)
 
 ## Examples
 -

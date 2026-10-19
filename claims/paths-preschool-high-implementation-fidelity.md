@@ -43,4 +43,6 @@ Process evaluation using monthly coordinator ratings on 13 items rated on a 4-po
 
 
 ## Related Claims
+
 - [Preschool PATHS increases emotion knowledge and parent- and teacher-rated social competence in Head Start children](paths-preschool-improves-emotion-knowledge-social-competence.md) — related
+- [Tutoring sessions were implemented with high procedural fidelity (mean 93.4%)](treatment-fidelity-peer-tutoring-sessions.md)

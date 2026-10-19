@@ -17,7 +17,7 @@ sources:
 # Cross-device learning platform with Course, Gallery, and GenAI modules for flipped studio preparation
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A responsive website developed to support pre-class learning, studio readiness, and early-stage visual ideation in an undergraduate knit yarn design course, accessible on desktop and mobile devices. It comprised "a Course module, a Gallery module, and a GenAI module". The Course module delivered eight micro-videos of approximately five minutes with embedded formative readiness checks unlocked after a viewing threshold; the Gallery provided exemplars organized by yarn type across thirteen lab-producible categories plus a Color Thief palette tool; the GenAI module offered parameter-guided prompt scaffolding with optional reference images. The platform also logged learning traces including video watch time, readiness-check records, gallery visits, and image generation frequency.
@@ -37,7 +37,9 @@ A responsive website developed to support pre-class learning, studio readiness, 
 - foundational knowledge of yarn production, machine operation, and yarn selection; early-stage design ideation
 
 ### Claims
-- 
+
+- [Interviews indicated flipped learning supported studio readiness while the GenAI module served as a supplementary tool for early-stage visual ideation](../claims/interviews-flipped-readiness-genai-supplementary.md) [+W]
+- [Students rated the flipped-learning component highest and the GenAI module lower, with GenAI rated stronger for ideation than for time saving or direct output use](../claims/genai-rated-for-ideation-not-time-saving.md) [+W]
 
 ## Related Designs
 - 

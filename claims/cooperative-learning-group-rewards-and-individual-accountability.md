@@ -151,3 +151,4 @@ The standard remedy in the cooperative learning literature is **individual accou
 - [Methods derived from all four theoretical perspectives contribute to achievement gain under certain conditions](all-four-perspectives-contribute-under-conditions.md) — related
 - [Classroom research primarily supports the motivational perspective on cooperative learning effects](classroom-research-supports-motivational-perspective.md) — a broader claim this one bears on
 - [Purely peer groups working purposefully out-of-reach problems did not fully succeed but still made significant progress, internalizable by individual members](peer-groups-did-not-fully-succeed-out-of-reach-problems.md) — a narrower finding that bears on this claim
+- [4th and 5th grade students learning fractions with an ITS show significant learning gains in individual, collaborative, and combined conditions](all-conditions-significant-fractions-its-gains.md)

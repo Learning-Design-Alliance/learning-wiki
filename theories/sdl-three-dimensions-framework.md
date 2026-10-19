@@ -44,9 +44,11 @@ Following formulations by Caffarella and O'Donnell, the authors propose that deb
 - [Knowles' andragogy (Adult Learning Theory) as the framework for adult immigrant instruction](andragogy-knowles-adult-learning-theory.md)
 - [Self-directed learning as a five-step process learners control themselves](self-directed-learning-five-step-process.md)
 - [Five adult learning theories — andragogy, experiential learning, self-directed learning, transformational learning, and neuroscience — as a design framework for adult-learning technology](five-theories-adult-learning-design-framework.md)
+- [Houle's typology of adult learners as goal-oriented, activity-oriented and learning-oriented](houle-three-orientations-adult-learners.md)
 
 ## Examples
--
+
+- [Support adult self-directed learning by enabling self-paced, self-styled access rather than only removing barriers to taught classes](../strategies/support-self-paced-access-over-barrier-removal.md)
 
 ## Key Sources
 - Percy, K., Burton, D., & Withnall, A. (1994). Self-Directed Learning among Adults: The Challenge for Continuing Educators. Association for Lifelong Learning. https://eric.ed.gov/?id=ED382882

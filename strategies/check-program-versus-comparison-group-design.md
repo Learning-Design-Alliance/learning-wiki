@@ -17,7 +17,7 @@ sources:
 # When reading an evaluation, check that the study compared a group that received the program to a group that did not
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 4 studies (4 causal), `q2`–`q4` · 1 of 4 report an effect size · 1 claim rests on one study
 
 ## Description
 This strategy tells readers of effectiveness research to look for a comparison between outcomes of a group that received a program and outcomes of a group that did not, since "research studies compare outcomes for a group that received a program to outcomes of a group that did not." Readers should then check whether any observed difference is statistically significant before concluding the program had an effect.
@@ -35,6 +35,11 @@ This strategy tells readers of effectiveness research to look for a comparison b
 
 ### Target Learning Goals
 - judging whether an evaluation supports a claim that a program had an effect
+
+## Claims
+
+- [Civic Online Reasoning Instruction Improves Evaluation](../claims/civic-online-reasoning-instruction-improves-evaluation.md) [+M]
+- [Reading Partners tutoring significantly improves reading comprehension for grade 2-4 struggling readers, with a total effect size of +0.10](../claims/reading-partners-tutoring-comprehension-effect.md) [+W]
 
 ## Related Strategies
 - 

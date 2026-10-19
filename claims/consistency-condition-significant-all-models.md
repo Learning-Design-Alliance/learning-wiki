@@ -43,4 +43,8 @@ Omnibus statement of the GLMM analyses across all twelve text-area × eye-moveme
 
 
 ## Related Claims
--
+
+- [First-pass reading measures at the target word showed no main effect on inconsistency identification, and lookbacks from the target word were associated with lower accuracy in consistent texts](first-pass-target-word-no-effect-lookbacks-consistent.md)
+- [Reanalysis of the pre-target text (rereading time and revisit frequency) interacted significantly with consistency condition in predicting consistency judgement accuracy](pre-target-reanalysis-condition-interaction.md)
+- [Longer first-pass reading time at the final word of the target sentence was negatively associated with consistency judgement accuracy](sentence-final-first-pass-time-negative-accuracy.md)
+- [Reanalysis of the inconsistent target word (longer rereading time and higher revisit probability) is associated with higher consistency judgement accuracy in inconsistent texts, but not in consistent texts](target-word-reanalysis-predicts-inconsistency-identification.md)

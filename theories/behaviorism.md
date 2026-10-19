@@ -83,6 +83,7 @@ Behaviorism is criticized as overly deterministic and as denying free will; by t
 - [Connectivism](connectivism.md) — positions itself against behaviorism (along with cognitivism and constructivism) as a pre-networked-era theory of individual, internal learning
 - [Behaviorism as a learning theory: learning is the acquisition of new observable behavior, not a mental process](behaviorism-observable-behavior-theory-faryadi.md)
 - [Programmed instruction framework: six-element operant-conditioning lesson format](programmed-instruction-six-element-framework.md)
+- [Reinforcement framework for cognitive learning: imagery as perception-like experience producing learning under ordinary principles](reinforcement-theory-of-cognitive-learning-framework.md)
 
 ## Examples
 
@@ -94,6 +95,7 @@ Behaviorism is criticized as overly deterministic and as denying free will; by t
 - [Conditioning Natural Reinforcers](../strategies/conditioning-natural-reinforcers.md) — fading extrinsic reinforcers toward intrinsic ones
 - [Learning Hierarchy Task Analysis](../methods/learning-hierarchy-task-analysis.md) — sequencing prerequisite skills into a learning hierarchy
 - [Teach response precision and new associations with minimal errors, using mediators and stimulus fading](../principles/minimize-errors-for-precision-and-associations.md)
+- [Use tasks without explicit feedback or rewards to study intrinsic reinforcement responses](../strategies/no-feedback-paradigm-for-intrinsic-reinforcement.md)
 
 ## Key Sources
 - Skinner, B. F. (1954). The science of learning and the art of teaching. *Harvard Educational Review, 24*, 86–97.

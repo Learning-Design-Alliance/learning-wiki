@@ -43,4 +43,6 @@ Figure 5-based per-student talk-code counts across four ~30-minute segments for 
 
 
 ## Related Claims
--
+
+- [Anger did not preclude high science talk: the most anger-expressing Red City student also had the group's highest science-talk proportion](anger-compatible-with-science-talk.md)
+- [Anger-related science talk rose in parallel until an apparent tipping point in group dynamics](anger-science-talk-tipping-point.md)

@@ -41,7 +41,9 @@ The **dual-process account** (Galbraith) proposes instead that discovery arises 
 - [In one keystroke-logging study, spontaneous sentence production under minimal planning is associated with gains in writers' self-rated understanding and with lower initial text quality](../claims/spontaneous-sentence-production-in-synthetic-planning-increases-understanding.md) [~M]
 
 ## Related Theories
+
 - (none yet linked)
+- [Four-state keystroke-log operationalization of cognitive writing processes (planning, text production, local editing, jump editing)](four-state-writing-process-model-keystroke.md)
 
 ## Examples
 

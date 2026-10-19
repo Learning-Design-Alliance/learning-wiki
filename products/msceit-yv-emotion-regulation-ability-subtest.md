@@ -24,7 +24,8 @@ A standardized youth assessment subtest that measures adolescents’ ability to 
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Woodcock-Johnson Tests of Achievement—Applied Problems subtest](woodcock-johnson-tests-of-achievementapplied-problems-subtest.md)
 
 ## Key Sources
 - Ivcevic Zorana; Eggers Catherine. (2021). Emotion Regulation Ability: Test Performance and Observer Reports in Predicting Relationship, Achievement and Well-Being Outcomes in Adolescents. International Journal of Environmental Research and Public Health. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8003666/

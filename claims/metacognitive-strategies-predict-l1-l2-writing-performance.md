@@ -43,4 +43,6 @@ SEM analysis of questionnaire and writing-score data from 502 Chinese EFL underg
 
 
 ## Related Claims
--
+
+- [L1 and L2 writing metacognitive strategy subcategories are strongly and positively correlated](strong-positive-correlations-l1-l2-writing-strategy-subcategories.md)
+- [Fluency measures correlated with overall writing performance in both L1 and L2, but added no predictive value beyond linguistic knowledge](fluency-no-additional-value-beyond-linguistic-knowledge-writing.md)

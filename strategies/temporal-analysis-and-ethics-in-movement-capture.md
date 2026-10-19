@@ -37,7 +37,8 @@ The editors recommend extensions to movement-based analytic work: "temporal anal
 - Understanding participation changes over time for redesign of learning settings
 
 ## Related Strategies
-- 
+
+- [During a study, researchers should visit regularly, give back to the school community, minimize classroom disruption, and share initial data for feedback](during-study-regular-visits-giving-back.md)
 
 ## Examples
 -

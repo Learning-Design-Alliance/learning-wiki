@@ -43,6 +43,7 @@ Cross-sectional survey of 2,432 Norwegian adolescents (1258 girls, 1187 boys) ag
 
 
 ## Related Claims
+
 - The study's cross-sectional self-report design does not allow causal inference about lifestyle habits and academic achievement — related
 - [High intake of fruit and berries is associated with increased odds of high academic achievement in girls and boys, and high vegetable intake in girls](fruit-berries-vegetable-intake-associated-academic-achievement.md) — related
 - [Increased frequency of habitual breakfast is consistently positively associated with academic performance in children and adolescents](habitual-breakfast-frequency-academic-performance.md) — a broader claim this one bears on
@@ -52,3 +53,4 @@ Cross-sectional survey of 2,432 Norwegian adolescents (1258 girls, 1187 boys) ag
 - [Smoking and snuffing are inversely associated with high academic achievement in both adolescent girls and boys](smoking-snuffing-inversely-associated-academic-achievement.md) — related
 - [High intake of lemonade, sugar-sweetened soft drinks and salty snacks is associated with decreased odds of high academic achievement, mainly in girls](unhealthy-beverage-snack-intake-associated-lower-achievement.md) — related
 - [Robust RCTs of school breakfast programs failed to find behavioral benefits, with low and variable attendance and a shift from at-home to at-school consumption limiting impact](sbp-rcts-null-behavior-attendance-limits.md) — related
+- [Quality of habitual breakfast, in terms of variety of food groups and adequate energy, is positively related to school performance](breakfast-quality-school-performance.md)

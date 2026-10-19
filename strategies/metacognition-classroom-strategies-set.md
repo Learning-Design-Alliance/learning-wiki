@@ -37,7 +37,15 @@ The article enumerates strategies for promoting metacognitive work at individual
 - critical thinking
 
 ## Related Strategies
-- 
+
+- [Weekly Student Reflection](weekly_student_reflection.md)
+- [Constructive Decision-Making Process](constructive_decision-making_process.md)
+- [Promoting Self-Directed Learning Strategies](promoting_self-directed_learning_strategies.md)
+- [Teach Metacognitive Strategies](teach-metacognitive-strategies.md)
+- [Model Reflection](model_reflection.md)
+- [Strategy Identification & Reflection](strategy-identification-reflection.md)
+- [Shared Reflection](shared_reflection.md)
+- [Teach Self Regulation Strategies](teach-self-regulation-strategies.md)
 
 ## Examples
 -

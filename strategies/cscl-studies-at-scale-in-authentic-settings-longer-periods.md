@@ -37,7 +37,8 @@ As directions for future work, the article calls for studies involving many part
 - productive collaborative talk, question crafting, and knowledge building
 
 ## Related Strategies
-- 
+
+- [Study the development of self-regulatory skills in naturalistic settings over longer periods of time](study-self-regulation-naturalistic-long-periods.md)
 
 ## Examples
 -

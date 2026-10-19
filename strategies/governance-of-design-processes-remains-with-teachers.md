@@ -37,7 +37,8 @@ The review recommends that control over AI-supported instructional design must s
 - Maintaining pedagogical control and epistemic integrity in AI-supported task design
 
 ## Related Strategies
-- 
+
+- [Build educator AI literacy and pedagogical competence alongside student critical engagement with AI-generated content](educator-ai-literacy-and-critical-engagement.md)
 
 ## Examples
 -

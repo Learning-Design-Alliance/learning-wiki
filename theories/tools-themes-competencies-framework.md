@@ -48,6 +48,7 @@ The presentation distinguishes three layers of a CT pathway. Tools are "Curricul
 ## Examples
 
 - [CT Pathways Toolkit for district design of K-12 CS/CT pathways](../products/computational-thinking-pathways.md)
+- [South Fayette School District CS/STEAM pathway](../products/south-fayette-school-district-cssteam-pathway.md)
 
 ## Key Sources
 - Computing in Rural America: Developing K-8 Coding Pathways for Kentucky Appalachia. (2020). Presentation slides, December 2nd 2020. https://digitalpromise.dspacedirect.org/items/0c77d3c7-12c8-4a9b-8583-040137f0fd3c

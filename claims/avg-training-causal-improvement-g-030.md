@@ -43,4 +43,6 @@ Intervention meta-analysis of 91 effect sizes from 28 studies with active contro
 
 
 ## Related Claims
--
+
+- [Cross-sectional advantages are largest for perception, multitasking, spatial cognition, and top-down attention](avg-domain-pattern-perception-attention-spatial.md)
+- [No significant moderators of the action video game effect were found in either meta-analysis](no-significant-moderators-avg-meta-analysis.md)

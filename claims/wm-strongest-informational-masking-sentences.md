@@ -62,4 +62,7 @@ Meta-analyses of specific target–masker combinations (Table 7): WM–sentences
 
 
 ## Related Claims
--
+
+- [Cognitive subdomains differ in association strength with SiN perception, from r = .18 (crystallized IQ, nonsignificant) to r = .39 (processing speed)](subdomain-associations-range-18-39.md)
+- [Cognitive performance shows a pooled association of r = .31 with speech-in-noise perception across adult unaided listeners](cognition-sin-pooled-association-r31.md)
+- [Degree of unaided hearing loss (normal-to-mild vs normal-to-moderate) does not moderate the cognition–SiN association](hearing-loss-does-not-moderate-cognition-sin.md)

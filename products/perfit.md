@@ -25,7 +25,8 @@ PerFit is an R package that computes person-fit statistics for item-response and
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [vICC R package](vicc-r-package.md)
 
 ## Key Sources
 - Alona Strugatski and Giora Alexandron. (2025). Applying Item Response Theory to Distinguish Between Human and Generative AI Responses to Multiple-Choice Assessments. LAK'25 pre-print. https://arxiv.org/abs/2412.02713

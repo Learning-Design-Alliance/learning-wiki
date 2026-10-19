@@ -17,7 +17,7 @@ sources:
 # Design physical activity interventions as continuous regular activity sustained over several weeks
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Based on its meta-analytic findings, the review recommends that interventions aim for sustained regular activity rather than single bouts: "Largest effects are expected for interventions that aim for continuous regular physical activity over several weeks." Longitudinal programs showed positive effects on executive functions, attention and academic performance, whereas acute activity showed a positive effect only on attention. Implementers should therefore schedule regular physical activity across multiple weeks when targeting cognitive and academic outcomes.
@@ -38,8 +38,16 @@ Based on its meta-analytic findings, the review recommends that interventions ai
 - attention
 - academic performance
 
+## Claims
+
+- [Longitudinal physical activity programs have a positive effect on academic performance in preadolescent children (g = 0.26)](../claims/longitudinal-physical-activity-improves-academic-performance.md) [+W]
+- [Longitudinal physical activity programs show a positive effect on attention in preadolescent children (g = 0.90), based on a single study](../claims/longitudinal-physical-activity-improves-attention-single-study.md) [+W]
+- [Longitudinal physical activity programs have a positive effect on executive functions in preadolescent children (g = 0.24)](../claims/longitudinal-physical-activity-improves-executive-functions.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Classroom Physical Activity Integration](classroom-physical-activity-integration.md)
+- [Research and training programs should differentiate age periods, sporting disciplines, and compare physically active with cognitively active groups](future-research-differentiate-ages-disciplines-cognitively-active.md)
 
 ## Examples
 -

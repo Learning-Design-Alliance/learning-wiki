@@ -50,6 +50,7 @@ The article proposes that teachers use LLMs and generative AI to gamify teaching
 - [Phase-aligned teaching applications for LLM-supported learning across five phases](phase-aligned-llm-teaching-applications.md)
 - [Treat AI-generated lesson plans as drafts requiring teacher evaluation, adaptation, and pedagogical judgment](ai-lesson-plans-as-drafts-requiring-teacher-adaptation.md)
 - [Use generative AI as a brainstorming partner for divergent ideation while treating didactic transformation as a human responsibility](ai-as-brainstorming-partner-human-didactic-transformation.md)
+- [Use structured initial prompts and iterative optimization when generating lesson plans with ChatGPT](structured-prompts-iterative-optimization-lesson-planning.md)
 
 ## Examples
 -

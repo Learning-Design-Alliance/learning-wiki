@@ -12,7 +12,7 @@ generated:
 # Teacher noticing framework: detection and interpretation of classroom situations
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article adopts the teacher noticing framework of Van Es and Sherin to model how teachers make sense of classroom and dashboard situations. It distinguishes two processes: "detection", deciding what deserves attention, and interpretation, reasoning about events and their broader principles. Characteristics include which students and behaviors teachers focus on, the specificity and evidence use of interpretations, and teachers' stance ranging from describing to interpreting. The framework supplies the study's coding scheme and its outcome measures.
@@ -24,8 +24,11 @@ The article adopts the teacher noticing framework of Van Es and Sherin to model 
 
 ### Claims
 
+- [Dashboard support type did not influence detection of CSCL events but did influence teachers' interpretation of the situation](../claims/dashboard-support-type-affects-interpretation-not-detection.md) [+W]
+
 ## Related Research Methods
--
+
+- [Teacher Noticing of Rationality Framework (TNRF)](teacher-noticing-of-rationality-framework-tnrf.md)
 
 ## Key Sources
 - van Leeuwen, A., Rummel, N., & van Gog, T. (2019). What information should CSCL teacher dashboards provide to help teachers interpret CSCL situations? International Journal of Computer-Supported Collaborative Learning 14, 261–289. https://doi.org/10.1007/s11412-019-09299-x

@@ -66,6 +66,9 @@ The SFA® staff development model "emphasizes a relatively brief initial trainin
 - [Provide extensive initial training plus ongoing coaching, with a teacher-level facilitator, when adopting a whole-school reform model](tdhs-extensive-pd-coaching-facilitator.md)
 - [Layered professional development: summer institute plus weekly web conferencing follow-up](tri-layered-pd-summer-institute-web-conferencing.md)
 - [Train and support educators to implement mindfulness through programs, coaching, and shared leadership](educator-training-mindfulness-implementation-supports.md)
+- [Improve transmedia-curriculum professional development with classroom observation, Q&A-only webinars, and later scheduling](tec-pd-improvement-suggestions.md)
+- [Ongoing math-specialist coaching and curriculum-based professional development for implementing teachers](thinking-math-coaching-pd-strategy.md)
+- [Provide no-cost initial training, coaching visits, administrator overviews, and year-round support when implementing Superkids](superkids-no-cost-pd-support-strategy.md)
 
 ## Examples
 -

@@ -43,4 +43,5 @@ Randomised trial: 36 students per group completed week 1 testing; 20 control and
 
 
 ## Related Claims
--
+
+- [Playing commercial video games for eight weeks improved self-reported resourcefulness more than control conditions in a randomised trial of undergraduates](video-games-improve-resourcefulness-rct.md)

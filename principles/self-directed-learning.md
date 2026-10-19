@@ -154,6 +154,8 @@ Completion, achievement at the end of the course, self-reported autonomy or moti
 ## Examples
 
 - [Provide support, feedback, guidance, and coaching along the way for low-skilled adult learners](../strategies/coaching-and-support-for-low-skilled-adult-learners.md)
+- [Promote autonomous motivation in low-education adult learners by helping them grasp the meaning of education and providing choice and volition](../strategies/promote-autonomous-motivation-low-education-adults.md)
+- [Support adult self-directed learning by enabling self-paced, self-styled access rather than only removing barriers to taught classes](../strategies/support-self-paced-access-over-barrier-removal.md)
 
 ### Illustrative
 

@@ -58,4 +58,6 @@ ANCOVA controlling for processing speed in the same sample. The switching reacti
 
 
 ## Related Claims
--
+
+- [Children with developmental dyslexia show a significant updating impairment at the error z-mean composite level, which remains after controlling for processing speed](dyslexia-updating-error-composite-impairment.md)
+- [Task-level executive function differences in dyslexia on the Phoneme Go No-Go and Picture 2-back tasks are no longer significant after controlling for processing speed](phoneme-gng-picture-2back-null-after-speed-control.md)

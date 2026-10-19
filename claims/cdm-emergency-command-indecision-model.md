@@ -43,4 +43,6 @@ The article describes this CDM study of emergency command decision-making, in wh
 
 
 ## Related Claims
--
+
+- [ACTA study of global leaders identified expertise components including reading people closely, bridging cross-cultural communication, and perspective taking](acta-global-leadership-expertise-components.md)
+- [A meta-analysis of 20 studies found a large effect (Hedges' g = 0.871) for CTA use in training design](cta-training-design-meta-analysis-large-effect.md)

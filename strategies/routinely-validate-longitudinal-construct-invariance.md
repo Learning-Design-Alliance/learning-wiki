@@ -39,6 +39,7 @@ The article recommends an ongoing validation practice: "We strongly recommend th
 ## Related Strategies
 
 - [Brief researchers and media on how to calculate and interpret months-of-learning figures before using them](brief-researchers-media-on-months-of-learning.md)
+- [Validate EDM models across demographic subpopulations of students](validate-edm-models-across-demographic-subpopulations.md)
 
 ## Examples
 -

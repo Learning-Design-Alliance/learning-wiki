@@ -17,7 +17,7 @@ sources:
 # Use myriad field texts and the analytical tools of broadening, burrowing, and storying and restorying to move from field texts to research texts
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 against) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 This strategy specifies the data sources and analytical moves of narrative inquiry. Data sources are myriad—observations, field notes, journals, interview transcripts, letter writing, documents, picturing, metaphors, autobiography, biography, storytelling—and inquirers should be open about imaginative possibilities for composing field texts. Three analytical tools—broadening, burrowing, and storying and restorying (Connelly & Clandinin, 1990)—are used for "narratively cod(ing)" the field texts as they transition into research texts, channeling them toward texts that grow out of repeated asking of questions concerning meaning and significance.
@@ -37,8 +37,14 @@ This strategy specifies the data sources and analytical moves of narrative inqui
 ### Target Learning Goals
 - conducting narrative inquiry analysis of lived educational experience
 
+## Claims
+
+- [Narrative and storying genres in educational inquiry risk disempowering the very people they claim to empower](../claims/narrative-genres-may-disempower-while-claiming-empowerment.md) [-W]
+
 ## Related Strategies
-- 
+
+- [Move from life stories to life histories: collect stories of action within theories of context](life-histories-stories-of-action-within-theories-of-context.md)
+- [Restorying Computing Futures Through Electronic Quilting](restorying-through-electronic-quilting.md)
 
 ## Examples
 -

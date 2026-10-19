@@ -48,6 +48,8 @@ A teacher-preparation programme model run by partnerships between local educatio
 - [NextGen Educators Program](nextgen-educators-program.md)
 - [On the Rise Academy](on-the-rise-academy.md)
 - [TCLAS High-Quality, Sustainable Residency Program grant](tclas-high-quality-sustainable-residency-program-grant.md)
+- [New Hampshire Teacher Candidate Assessment of Performance (NH TCAP)](new-hampshire-teacher-candidate-assessment-of-performance-nh-tcap.md)
+- [Talent Together registered teacher apprenticeship](talent-together-registered-teacher-apprenticeship.md)
 
 ## Key Sources
 - Hirschboeck, K., Eiler White, M., Brannegan, A., & Reade, F. (2022). Teacher residency programs in California: Financial sustainability challenges and opportunities. WestEd. https://www.WestEd.org

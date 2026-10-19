@@ -43,9 +43,11 @@ Latent variable regression in a 230-participant SEM study (executive functions r
 
 
 ## Related Claims
+
 - [Creativity, crystallized intelligence, fluid intelligence and executive functions are all correlated in children aged 8 to 13](cognitive-variables-creativity-correlations-children.md) — related
 - [Executive functions substantially account for the latent intelligence–creativity correlation, leaving a reduced but still positive residual of r = .34.](executive-functions-reduce-gf-creativity-correlation.md) — related
 - [Creativity (divergent thinking ability) is predicted by both updating and inhibition, but not by shifting ability.](updating-and-inhibition-predict-creativity.md) — related
 - [Updating ability, together with openness, explains a substantial part of the shared variance between fluid intelligence and creativity.](updating-explains-intelligence-creativity-shared-variance.md) — related
 - [After controlling for children's level of intelligence, only shifting and inhibition make a significant contribution to creativity](shifting-inhibition-unique-creativity-contribution-children.md) — related
 - [Openness to experience predicts creativity but not fluid intelligence, and further reduces the residual intelligence–creativity correlation to a trend.](openness-predicts-creativity-not-gf.md) — related
+- [Synchronous observed-variable correlations between WMC and intelligence are modest (r = 0.17 to 0.40), lower than latent-variable correlations](wmc-iq-observed-correlations-modest.md)

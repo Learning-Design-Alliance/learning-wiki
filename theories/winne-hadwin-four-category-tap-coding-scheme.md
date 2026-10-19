@@ -40,7 +40,9 @@ The study operationalizes SRL in think-aloud transcripts as four categories grou
 
 
 ## Related Theories
-- 
+
+- [Self-Regulated Learning](self-regulated-learning.md)
+- [Three-phase SRL scaffolding framework (planning, task execution, post-task reflection) operationalized across iterative design cycles](three-phase-srl-chatbot-scaffolding-framework.md)
 
 ## Examples
 

@@ -62,4 +62,6 @@ Regression analysis on the same 32 tasks; the article reports that "only 16.8% o
 
 
 ## Related Claims
--
+
+- [Items requiring integration have higher relative item difficulty than items requiring selecting or organizing, and delayed perceived task difficulty ratings appear closer to integrating-item difficulty, though that correlation comparison is not significant](cognitive-process-integration-raises-item-difficulty.md)
+- [Both the competence test and the cognitive load ratings fit two-dimensional Rasch models significantly better than unidimensional models, supporting separate modeling of the two load dimensions](two-dimensional-rasch-models-fit-better.md)

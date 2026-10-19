@@ -49,6 +49,7 @@ Empathy interviews, drawn from the design thinking tradition, are conducted as n
 - [Using Empathy Interviews for Family Engagement](using_empathy_interviews_for_family_engagement.md)
 - [Five-step empathy interview exercise for teachers designing inclusive computing pathways](empathy-interview-five-step-exercise.md)
 - [Empathy for Educators](empathy_for_educators.md)
+- [Adopt a dialogic format to align student and teacher perspectives on instructional quality within schools](dialogic-format-align-perspectives-instructional-quality.md)
 
 ## Examples
 -

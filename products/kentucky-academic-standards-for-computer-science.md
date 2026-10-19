@@ -30,7 +30,8 @@ A framework issued by the Kentucky Department of Education that defines K–8 co
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Wisconsin Information and Technology Literacy Standards](wisconsin-information-and-technology-literacy-standards.md)
 
 ## Key Sources
 - Computational Thinking Boosters: Data & Analysis in 3-8. (2020). Webinar slide deck, NSF grant #1923314. https://www.nsf.gov/awardsearch/?AwardId=1923314

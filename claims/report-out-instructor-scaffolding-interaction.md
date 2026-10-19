@@ -62,4 +62,6 @@ Pairwise t-tests with Holm–Bonferroni correction following the significant int
 
 
 ## Related Claims
--
+
+- [On the physics conceptual test, both teachers' students improved significantly, with a significant teacher-by-time interaction in which Mrs. Lewis's students overcame a lower pre-test disadvantage by post-test](physics-test-teacher-time-interaction-lewis-overcame-pretest-gap.md)
+- [Both classes improved significantly on the science practices test, with no significant teacher main effect or teacher-by-time interaction](science-practices-test-improvement-no-teacher-interaction.md)

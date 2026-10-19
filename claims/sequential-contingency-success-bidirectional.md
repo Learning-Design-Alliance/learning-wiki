@@ -62,4 +62,5 @@ The second sequential analysis set on the same turn-based coded dataset, testing
 
 
 ## Related Claims
--
+
+- [Children of consistently contingent mothers (30%+ contingent at all three time-points) scored higher on grasping, delay and cognitive measures than children of inconsistently contingent mothers](consistent-contingency-group-child-outcomes.md)

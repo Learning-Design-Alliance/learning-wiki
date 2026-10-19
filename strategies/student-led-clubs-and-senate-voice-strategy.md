@@ -42,6 +42,7 @@ Roswell community schools shifted decision-making to students: at Sierra, all af
 ## Related Strategies
 
 - [Integrated school-based health and social safety net supports addressing out-of-school learning barriers](school-based-health-safety-net-integrated-supports.md)
+- [Teachers sponsor student industrial arts clubs to build leadership, attitudes, and public relations](teacher-sponsorship-of-industrial-arts-clubs.md)
 
 ## Examples
 -

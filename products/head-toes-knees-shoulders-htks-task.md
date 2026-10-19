@@ -25,7 +25,11 @@ A brief, game-like direct assessment developed for young children that measures 
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Extended 36-trial Red-Blue Test](extended-36-trial-red-blue-test.md)
+- [Faces task](faces-task.md)
+- [Remembering Rules and Regulation Picture Task (RRRP)](remembering-rules-and-regulation-picture-task-rrrp.md)
+- [Red Light, Purple Light](red-light-purple-light.md)
 
 ## Key Sources
 - Montroy Janelle J., Bowles Ryan P., Skibbe Lori E., McClelland Megan M., Morrison Frederick J. (2016). The Development of Self-Regulation across Early Childhood. Developmental Psychology. https://doi.org/10.1037/dev0000159

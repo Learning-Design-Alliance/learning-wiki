@@ -1,7 +1,7 @@
 ---
 type: principle
 id: digital-learning
-aliases: [shared-whiteboard-dual-cohort-workspace, tablets-expand-science-education-approaches]
+aliases: [shared-whiteboard-dual-cohort-workspace, tablets-expand-science-education-approaches, open-licensing-teachers-as-designers]
 title: Digital Learning
 description: "Putting part of a course on a digital tool is expected to help only through the method it makes affordable (more practice with feedback, adaptive hints, prompts to explain, visible progress) and not through the medium itself; no claim here tests a digital against a non-digital version of the same method."
 canonical: true
@@ -22,12 +22,16 @@ sources:
     resource: "https://arxiv.org/abs/1405.6581"
     title: "V.O.M. Lara, D. F. Amaral, D. Faria, and L. P. Vieira. (2014). Demonstrations of magnetic phenomena: Measuring the air permeablity using tablets. https://arxiv.org/abs/1405.6581"
     author: V.O.M. Lara, D. F. Amaral, D. Faria, and L. P. Vieira
+  - id: wee-loo-kang-2013
+    resource: "http://ictconnection.opal.moe.edu.sg/cos/o.x?ptid=711&c=/ictconnection/ictlib&func=view&rid=82"
+    title: "Wee Loo Kang. (2013). Open Source Physics. i in Practice 1(1), 58-63. http://ictconnection.opal.moe.edu.sg/cos/o.x?ptid=711&c=/ictconnection/ictlib&func=view&rid=82"
+    author: Wee Loo Kang
 ---
 
 # Digital Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 69 claims (34 for, 32 mixed, 3 against) · 75 studies (19 causal, 16 review, 12 quant-synthesis, 12 theoretical, 6 associational, 5 qualitative, 5 design), `q1`–`q4` · 13 of 75 report an effect size · 60 claims rest on one study
+> **Evidence** · 71 claims (36 for, 32 mixed, 3 against) · 76 studies (19 causal, 16 review, 12 quant-synthesis, 12 theoretical, 6 associational, 6 design, 5 qualitative), `q1`–`q4` · 13 of 76 report an effect size · 62 claims rest on one study
 
 ## Conditional relationship
 
@@ -158,6 +162,8 @@ Claims read against this model that bear on it only at the edges, or not at all.
 - [Graduate students can effectively develop interactive educational online software modules as a curriculum component of an advanced science course](../claims/graduate-students-develop-interactive-modules-as-course-project.md) [~W] (not about this page). Read 2026-10-19: fifteen students in one course built software modules as a graded project. It is about learning by producing, not about delivering instruction on a digital medium.
 - [Emerging empirical studies report positive associations between generative AI use and international-student adaptation](../claims/ai-use-positive-adaptation-associations.md) [~W] (not about this page). Read 2026-10-19: second-hand cross-sectional associations with sociocultural adaptation abroad, not learning from instruction.
 - [Tablet Magnetometer Linear B Current Coil](../claims/tablet-magnetometer-linear-b-current-coil.md) [+M], [Tablet Demo Set Estimates Air Permeability](../claims/tablet-demo-set-estimates-air-permeability.md) [+M], [The magnet data cannot determine air permeability; only the magnet's dipole moment can be estimated](../claims/magnet-case-cannot-determine-air-permeability.md) [+W] and [Magnetic field falls off as the inverse cube of axial distance for both a coil and a magnet](../claims/magnetic-field-inverse-cube-axial-distance-coil-magnet.md) [+W] (not about this page). Read 2026-10-19: from one physics demonstration paper (Lara et al. 2014), carried here when a fragment page was folded in. They report how accurately a tablet's magnetometer measures a field, not anything learners learned; the demonstration set is listed under Examples.
+- [A Singapore teacher community has remixed 75 EJS models and lesson packages toward a national digital library](../claims/osp-community-remixed-75-ejs-models.md) [+W]
+- [The OSP approach helps users overcome barriers in creating, using and scaling up meaningful ICT use in education](../claims/osp-overcomes-ict-barriers.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -196,6 +202,8 @@ Access, use, assisted success, unaided immediate performance, delayed retention 
 - [Blended Cognitive Tutor® implementation alternating collaborative textbook periods with adaptive software lab periods](../strategies/cognitive-tutor-blended-textbook-software-schedule.md)
 - [Tablet-based magnetic-field demonstration set (coil circuit, ruler, book, MagnetMeter app)](../elements/tablet-magnetometer-demonstration-set.md)
 - [Extend tablet magnetometer experiments to other current geometries](../strategies/extend-magnetometer-experiments-other-geometries.md)
+- [Quantum Randi Challenge: a modifiable computer game teaching quantum mechanics](../products/quantum-randi-challenge-qrc.md)
+- [Use freely available gravitational-wave education tools and resources, including Black Hole Hunter and Einstein's Messengers](../strategies/grav-wave-education-tools-for-educators.md)
 
 ### Illustrative
 
@@ -216,6 +224,7 @@ Access, use, assisted success, unaided immediate performance, delayed retention 
 - Lawson, A. P., Martella, A. M., LaBonte, K., Delgado, C. Y., Zhao, F., Gluck, J. A., Munns, M. E., LeRoy, A. W., & Mayer, R. E. (2024). Confounded or Controlled? A Systematic Review of Media Comparison Studies Involving Immersive Virtual Reality for STEM Education. *Educational Psychology Review*. https://doi.org/10.1007/s10648-024-09908-8
 - Belland, B. R., Walker, A. E., Kim, N. J., & Lefler, M. (2017). Synthesizing Results From Empirical Research on Computer-Based Scaffolding in STEM Education: A Meta-Analysis. *Review of Educational Research, 87*(2), 309–344. https://doi.org/10.3102/0034654316670999
 - Means, B., Toyama, Y., Murphy, R., Bakia, M., & Jones, K. (2009). *Evaluation of Evidence-Based Practices in Online Learning: A Meta-Analysis and Review of Online Learning Studies*. U.S. Department of Education.
+- Wee Loo Kang. (2013). Open Source Physics. i in Practice 1(1), 58-63. http://ictconnection.opal.moe.edu.sg/cos/o.x?ptid=711&c=/ictconnection/ictlib&func=view&rid=82
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -365,4 +374,45 @@ The article opens with the design rationale that consumer mobile devices can ser
 
 ## Key Sources
 - V.O.M. Lara, D. F. Amaral, D. Faria, and L. P. Vieira. (2014). Demonstrations of magnetic phenomena: Measuring the air permeablity using tablets. https://arxiv.org/abs/1405.6581
+-->
+
+<!-- merged 2026-10-19 from principles/open-licensing-teachers-as-designers ("Use open-licensed educational computer models so anyone can freely access and modify resources, building teachers' professionalism as designers"), a narrower page folded into its canonical page (fragment step, two models agreeing or a third settling): its body as it stood. Its bullets this page lacked were added above.
+
+# Use open-licensed educational computer models so anyone can freely access and modify resources, building teachers' professionalism as designers
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+The article argues that open source licensing of educational computer models/software has opened up tremendous opportunities for learning in the 21st century, since anyone can freely access and modify these resources to suit their teaching and learning needs. Using OSP tools builds and deepens teachers' professionalism as they become designers of learning environments through customisation of existing computer models in the Open Source Physics comPADRE Digital Library Collection.
+
+## Design Implications
+
+### Context
+#### Requirements
+- access to the Open Source Physics comPADRE Digital Library Collection and the EJS authoring toolkit
+#### Constraints
+- 
+
+### Target Learners
+- physics teachers and students customising and using open-licensed models
+
+### Target Learning Objectives
+- customising computer models to suit teaching and learning needs; teacher professional development as designers of learning environments
+
+### Claims
+
+- [A Singapore teacher community has remixed 75 EJS models and lesson packages toward a national digital library](../claims/osp-community-remixed-75-ejs-models.md) [+W]
+- [The OSP approach helps users overcome barriers in creating, using and scaling up meaningful ICT use in education](../claims/osp-overcomes-ict-barriers.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Quantum Randi Challenge: a modifiable computer game teaching quantum mechanics](../products/quantum-randi-challenge-qrc.md)
+- [Use freely available gravitational-wave education tools and resources, including Black Hole Hunter and Einstein's Messengers](../strategies/grav-wave-education-tools-for-educators.md)
+
+## Key Sources
+- Wee Loo Kang. (2013). Open Source Physics. i in Practice 1(1), 58-63. http://ictconnection.opal.moe.edu.sg/cos/o.x?ptid=711&c=/ictconnection/ictlib&func=view&rid=82
 -->

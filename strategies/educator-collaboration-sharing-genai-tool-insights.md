@@ -40,6 +40,7 @@ Given the dynamic landscape of AI technologies, the article recommends collabora
 
 - [Foster communities of practice for AI governance instead of rigid top-down policies](communities-of-practice-for-ai-governance.md)
 - [Concentrate AI-edtech adoption priorities through collaborative networks that share tools, policies, and evaluation practices](collaborative-networks-responsible-ai-edtech-adoption.md)
+- [Reorganize workshop modules in response to students' dynamic requirements as the semester unfolds](reorganize-workshops-to-student-needs.md)
 
 ## Examples
 -

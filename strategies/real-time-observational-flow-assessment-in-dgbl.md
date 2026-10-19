@@ -47,7 +47,8 @@ To minimise disruption to flow and reduce recall bias from retrospective self-re
 - [NGI did not appear to divert students from learning objectives; attention momentarily shifted but quickly returned to gameplay](../claims/ngi-not-distracting-attention-returns.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use two researchers as independent instruments for interpretation instead of one researcher confirming the other's reliability](two-researchers-independent-interpretive-instruments.md)
 
 ## Examples
 -

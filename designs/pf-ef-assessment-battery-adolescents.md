@@ -17,7 +17,7 @@ sources:
 # Physical fitness and executive function assessment battery for adolescents
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 3 studies (3 associational), `q3` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 A battery of nine physical tests and five cognitive instruments used to assess adolescents' fitness and executive functions: "resistance strength with the 30-second Chair Stand Test", explosive strength (standing broad jump), agility and speed (10 × 5 m shuttle run, quadrant jump), aerobic endurance (20 m shuttle run, 6 min endurance run), balance (BOT-2), flexibility (Sit and Reach, Back Scratch), plus PAQ-A, Stroop Golden Test, Wechsler Memory Scale, Symbol Digit Modalities Test, Trail Making Test and MESSY Scale. Academic achievement came from school records across six subjects scored 0–10.
@@ -37,7 +37,10 @@ A battery of nine physical tests and five cognitive instruments used to assess a
 - physical fitness and executive function assessment
 
 ### Claims
-- 
+
+- [Specific physical fitness components are differentially associated with specific executive function domains in adolescents](../claims/pf-components-map-onto-ef-domains.md) [+W]
+- [Cardiorespiratory fitness (VO2max) is the physical fitness measure most strongly correlated with cognitive functioning in adolescents](../claims/vo2max-best-correlated-cognition.md) [+W]
+- [VO2max is the main linear-regression predictor of attention and concentration, with strength also predictive in boys](../claims/vo2max-main-predictor-attention-concentration.md) [+W]
 
 ## Related Designs
 - 

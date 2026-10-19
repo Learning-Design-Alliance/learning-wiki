@@ -43,4 +43,6 @@ Regression models using WMPT confidence as predictor with gender and age covaria
 
 
 ## Related Claims
--
+
+- [Grade 4 children can metacognitively monitor their working memory performance, tending to be over-confident as task difficulty increases](grade4-children-monitor-working-memory-overconfident.md)
+- [WMPT accuracy, confidence, Bias Index and Absolute Accuracy Index all change significantly with task difficulty](wmpt-measures-vary-with-difficulty.md)

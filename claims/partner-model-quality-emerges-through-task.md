@@ -62,4 +62,5 @@ The editorial reports this symmetry result from the same five experiments by Dil
 
 
 ## Related Claims
--
+
+- [Providing combined cognitive and behavioral group awareness information positively affects cognitive and behavioral learning processes and outcomes in social media, per the editorial's report of Ollasch et al., but its emotional effects were not consistently positive.](combined-cognitive-behavioral-ga-positive-cognitive-behavioral.md)

@@ -43,4 +43,5 @@ Microgenetic examination of the eight electronic dialog sessions (pair as unit o
 
 
 ## Related Claims
--
+
+- [Both conditions improved in overall idea units, evidence-based units and functional units, with no significant condition-by-time differences](argumentation-practice-improves-argument-output-both-conditions.md)

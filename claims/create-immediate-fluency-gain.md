@@ -43,4 +43,5 @@ Repeated-measures ANOVA on the London Bridge Task (N = 100). The fluency Time ×
 
 
 ## Related Claims
--
+
+- [CREATE benefits transfer to a new task on all three creativity components: fluency, flexibility, and originality](create-transfer-effects-all-components.md)

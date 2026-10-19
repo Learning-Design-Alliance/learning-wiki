@@ -13,7 +13,7 @@ generated:
 # Go-Lab ecosystem
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The Go-Lab ecosystem, including the Graasp authoring and implementation platform and Golabz repository, is a technology environment developed and maintained to help teachers create and use inquiry-based STEM learning spaces.
@@ -24,8 +24,14 @@ The Go-Lab ecosystem, including the Graasp authoring and implementation platform
 
 ### Claims
 
+- [Re-used Inquiry Learning Spaces were about four times more likely to be implemented than those created from scratch, and scaffolding increased the implementation rate](../claims/reused-ils-four-times-more-likely-implemented-scaffolding-increases.md) [+W]
+- [The higher the maturation level of an Inquiry Learning Space (create, share, co-create, publish), the higher its probability of being implemented in a classroom](../claims/higher-maturation-level-higher-ils-implementation-probability.md) [+W]
+
 ## Related Products and Programmes
--
+
+- [Go-Lab online teacher community and Inquiry Learning Spaces](go-lab-online-teacher-community-and-inquiry-learning-spaces.md)
+- [WISE (Web-based Inquiry Science Environment)](wise-web-based-inquiry-science-environment.md)
+- [SCY-Lab](scy-lab.md)
 
 ## Key Sources
 - María Jesús Rodríguez-Triana, Luis P. Prieto, Tobias Ley, Ton de Jong, Denis Gillet. (2020). Social practices in teacher knowledge creation and innovation adoption: a large-scale study in an online instructional design community for inquiry learning. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-020-09331-5

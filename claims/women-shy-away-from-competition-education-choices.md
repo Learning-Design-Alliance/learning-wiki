@@ -43,4 +43,5 @@ The review reports experimental evidence on selection into competition: Niederle
 
 
 ## Related Claims
--
+
+- [Single-sex math classrooms raised female students' math performance by 7–10% over co-educational programs](single-sex-classrooms-raise-female-math-performance.md)

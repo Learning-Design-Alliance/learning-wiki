@@ -41,4 +41,6 @@ ANCOVA across six age groups with IQ as covariate on CGT risk adjustment. The ar
 
 
 ## Related Claims
+
 - [Cognitive flexibility develops protractedly: sharp increase between 7 and 9 years, largely mature by age 10, peaking between 21 and 30](protracted-cognitive-flexibility-development.md) — related
+- [Cool EF measures correlate with each other, but no association is found between cool and hot EF measures](cool-hot-ef-uncorrelated.md)

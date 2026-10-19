@@ -62,4 +62,5 @@ Confirmatory factor analysis in Mplus 6 on the same 216-student sample tested th
 
 
 ## Related Claims
--
+
+- [Self-reported multiple-text strategies did not predict intratextual comprehension, where prior knowledge was the unique predictor](strategies-not-predict-intratextual-comprehension.md)

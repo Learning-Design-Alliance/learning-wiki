@@ -43,4 +43,6 @@ This finding emerged from the cognitive task analysis and expert consultations, 
 
 
 ## Related Claims
--
+
+- [Prospective teachers hold more misconceptions about teaching and learning than current faculty both before and after training, and misconceptions decreased only among current faculty](prospective-teachers-more-misconceptions.md)
+- [Experts perform differentiation activities across four phases: period preparation, lesson preparation, the lesson, and post-lesson evaluation](four-phases-expert-differentiation.md)

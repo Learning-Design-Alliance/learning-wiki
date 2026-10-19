@@ -43,4 +43,5 @@ Conceptual analysis in the article's notes: the authors state that "these defini
 
 
 ## Related Claims
--
+
+- [The evolutionary analogy for a smaller working memory being more efficient is doubtful](doubt-on-smaller-working-memory-efficiency-analogy.md)

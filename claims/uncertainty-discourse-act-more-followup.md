@@ -43,4 +43,5 @@ Chi-square tests relating the four discourse acts to follow-up among the 594 ana
 
 
 ## Related Claims
--
+
+- [CATPCA of openness components yielded two dimensions largely matching the theoretical cognitive/social framework, with transactivity not included](catpca-two-dimensions-openness.md)

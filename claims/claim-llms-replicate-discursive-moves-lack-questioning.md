@@ -62,5 +62,10 @@ Qualitative comparison of AI-agent and human discursive moves. The authors find 
 
 
 ## Related Claims
+
 - Human-LLM sentiment divergences were patterned: the LLM tended to assign affective labels to statements a human coder read as neutral — related
 - LLM-based transcript classifications agreed highly with human judgment for explicit questions (κ = .778) and math talk (κ = .722), but only moderately for need for help (κ = .562) and confusion (κ = .531) — related
+- [Standalone LLM tutors replicate Phase II's profile: strong single-interaction intelligence without systematic control over the learning trajectory](standalone-llm-tutors-lack-trajectory-control.md)
+- [The adaptive virtual patient produces a steadily climbing disclosure trajectory across a session while a prompt-only baseline with the same LLM and persona stays flat](avp-climbing-disclosure-vs-static-flat.md)
+- [Ignoring the emotion strategy neither recognizes nor explores the displayed emotion, closing the discursive space](ignoring-emotion-closes-discursive-space.md)
+- [In blind A/B comparison, raters prefer personalised (Adaptive) questions over non-personalised (Random-topic) questions about 68–69% of the time in Biology and Chemistry](collearn-ab-personalised-question-preference.md)

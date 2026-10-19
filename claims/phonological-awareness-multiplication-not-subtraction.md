@@ -43,4 +43,6 @@ Subgroup correlational analyses of retrieval frequency against phonological comp
 
 
 ## Related Claims
--
+
+- [Adults use a mix of retrieval and procedural strategies in single-digit arithmetic, with retrieval more frequent in multiplication and procedures more frequent in subtraction](adult-strategy-mix-retrieval-more-in-multiplication.md)
+- [Adults with developmental dyslexia use arithmetic fact retrieval less frequently than matched controls during single-digit multiplication and subtraction](dyslexia-reduced-arithmetic-fact-retrieval-frequency.md)

@@ -74,6 +74,7 @@ The study's concluding recommendation is that ethical AI use in higher education
 - [Instructional designers use AI-ARC across analysis, design, development, and evaluation to align outcomes with responsible AI integration](ai-arc-design-heuristic-for-instructional-designers.md)
 - [Develop student AI literacy and institutional GenAI policies, guidelines and safeguards for responsible integration](genai-literacy-and-institutional-policy-strategy.md)
 - [Universities should provide vivid guidelines and education on how and where ChatGPT may be used for learning](university-guidelines-education-chatgpt-use.md)
+- [Provide institutional support: regular GenAI workshops, subsidized access to advanced tools, reliable resources, and curriculum inclusion](institutional-support-genai-translation-workshops-curriculum.md)
 
 ## Examples
 -

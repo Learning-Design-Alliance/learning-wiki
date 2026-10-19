@@ -17,7 +17,7 @@ sources:
 # Promote knowledge creation by coordinating group practices, technology affordances, interaction genres, community metaskills, and trialogical learning through design-based research
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Drawing on Hakkarainen's reflection, facilitating sharing and building on ideas is not enough; a classroom must develop a culture of knowledge-creation practices, with technology iteratively developed in response to enacted student practices. All factors 'must move in a coordinated and coherent unity of design-based research driving change in group practices, technology affordances, interaction genres, community metaskills, and trialogical learning.'
@@ -36,8 +36,15 @@ Drawing on Hakkarainen's reflection, facilitating sharing and building on ideas 
 ### Target Learning Goals
 - knowledge-creation practices
 
+## Claims
+
+- [Becoming knowledge-creating learners requires developing specific metaskills](../claims/knowledge-creation-requires-metaskills.md) [+W]
+- [Students enact new CSCL technologies according to communication genres of the past, producing informal rather than scholarly discourse](../claims/old-genres-shape-threaded-discussion-use.md) [+W]
+- [Persistence of inscriptions in the VMT environment supported students explaining postings and establishing collaborative activity](../claims/persistence-affordance-supports-collaborative-explanation.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Train students in new communication practices rather than merely providing digital media](train-new-practices-not-just-media.md)
 
 ## Examples
 -

@@ -43,4 +43,7 @@ A neuroimaging study comparing blind and sighted children listening to auditory 
 
 
 ## Related Claims
--
+
+- [Occipital plasticity for spoken language is independent of plasticity for Braille and for sound](occipital-language-plasticity-independent-of-braille-and-sound.md)
+- [Occipital responses to spoken language in blind children are maximal by age 4 and unrelated to Braille learning](occipital-language-response-maximal-by-age-4.md)
+- [Occipital responses to nonlanguage sounds in blind children increase between ages 4 and 17](occipital-nonlanguage-sound-response-increases-with-age.md)

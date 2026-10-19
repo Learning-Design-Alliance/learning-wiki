@@ -43,4 +43,7 @@ The commentary reports that Vermunt and Donche (2017) focused on 23 studies cond
 
 
 ## Related Claims
--
+
+- [Zusho concludes SRL, SAL, and engagement perspectives all entail learner adaptation, and that models of student learning mismatch how they are measured](srl-sal-engagement-adaptation-measurement-mismatch.md)
+- [Fryer argues perceived control and need for competence may bridge differences among models of higher-education learning toward a mega-theory](perceived-control-competence-mega-theory-bridge.md)
+- [Cultural and linguistic background influences measured learning and cognitive styles, and should be considered in style assessment](cultural-background-influences-learning-style-measurement.md)

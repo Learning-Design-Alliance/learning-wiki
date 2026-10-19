@@ -43,5 +43,7 @@ Observations from the second-stage interviews and shadowing in the comparative c
 
 
 ## Related Claims
+
 - [American and Chinese users showed distinct messaging use patterns: fun-oriented short exchanges in the US versus informing and long in-depth chats in China](cross-site-messaging-use-patterns-differ.md) — related
 - [Users successfully localized the hard-to-use mobile text messaging technology into their daily lives despite poor developer localization](users-localize-hard-to-use-text-messaging.md) — related
+- [Problematic one-way links between production and consumption processes impede the technology's circulation, with only one manufacturer responding to users](problematic-production-consumption-links.md)

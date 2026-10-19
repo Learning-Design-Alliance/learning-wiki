@@ -43,7 +43,9 @@ The paper describes pedagogical scenarios aimed at settings where the emphasis i
 - [Trialogical Learning Framework](../theories/trialogical-learning-framework.md)
 
 ## Related Strategies
+
 - [Trialogical Learning Design Characteristics](../theories/trialogical-learning-design-characteristics.md)
+- [Redesign course projects around collaboration, open-ended problems, shared knowledge objects, technology mediation, and as-needed mentoring](five-design-principles-collaborative-course-redesign.md)
 
 ## Examples
 -

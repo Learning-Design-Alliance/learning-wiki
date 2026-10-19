@@ -13,7 +13,7 @@ generated:
 # ASTRA
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 ASTRA is an end-to-end air-traffic-control training simulator developed by Ethan Chew and colleagues that automates the simpilot role through speech recognition, response generation, and geospatial scenario visualization.
@@ -25,6 +25,8 @@ ASTRA is an end-to-end air-traffic-control training simulator developed by Ethan
 - **ASTRA social–cognitive framework for multi-agent tutoring**: A framework formalising how social, cognitive, and regulatory information guides multi-agent tutoring in collaborative programming. It models a session as a partially observable multi-agent process in which "ASTRA instantiates the latent state z_t using a structured Cognitive–Affective–Social Model (CASM)" with cognitive, metacognitive, socio-emotional, and group-regulation components. Role-differentiated agents (Tutor, Facilitator, optional Coordinator) condition policies on a belief state over this latent state, and support is framed as optimising a multi-objective reward over task progress, metacognitive quality, and participation-oriented equity proxies. (Solomon Sunday Oyelere (2026))
 
 ### Claims
+
+- [XTTS and Orpheus achieve the highest human-rated MOS for Singaporean-accented ATC speech synthesis (3.71 and 3.70), with female voices preferred across models](../claims/astra-tts-mos-xtts-orpheus-best.md) [+W]
 
 ## Related Products and Programmes
 -

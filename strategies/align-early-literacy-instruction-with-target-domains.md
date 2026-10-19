@@ -17,7 +17,7 @@ sources:
 # Align early literacy instruction with the specific skill domains educators seek to support, favoring small-group language delivery
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The review recommends that early childhood educators use its findings to improve the alignment between instructional focus and target skill domains, and to identify evidence-based curricula, lesson packages, practices, and technology programs. It states the findings "can help early childhood educators improve the alignment between the focus of their instruction and the skill domains they seek to support among students." Educators can compare current practices against the 38 effective interventions listed by outcome domain.
@@ -36,6 +36,11 @@ The review recommends that early childhood educators use its findings to improve
 
 ### Target Learning Goals
 - Language, phonological awareness, print knowledge, decoding, and early writing skills supporting kindergarten readiness
+
+## Claims
+
+- [Among language-only interventions, instructional practices and one-on-one or small-group delivery produced significantly larger language gains than curricula and large-group or whole-class delivery](../claims/small-group-language-instruction-larger-effects.md) [+W]
+- [Instruction in language, phonological awareness, and decoding improved performance in the taught domain, while interventions teaching print knowledge or early writing exclusively did not](../claims/taught-domain-instruction-improves-taught-domain.md) [+W]
 
 ## Related Strategies
 - 

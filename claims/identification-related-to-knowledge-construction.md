@@ -43,4 +43,5 @@ The editorial reports Öztok's case study, which used an interaction-analysis mo
 
 
 ## Related Claims
--
+
+- [In a CSCL biology problem-solving session, procedural problem solving tended to dominate students' interactions, with conceptual knowledge construction present only where strictly necessary](procedural-dominance-cscl-biology.md)

@@ -43,4 +43,5 @@ Historical argument citing Lachman et al. (1979) and Gardner (1985): the war "st
 
 
 ## Related Claims
--
+
+- [Sociocultural theory emerged from the Russian Revolution, and English translations systematically deleted its Marxist references](sociocultural-theory-marxist-origins-deleted-translations.md)

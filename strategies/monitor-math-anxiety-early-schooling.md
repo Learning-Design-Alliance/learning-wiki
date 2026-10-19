@@ -44,7 +44,9 @@ The article recommends that teachers and schools attend to math anxiety from the
 - [The prevalent direction of the Grade 3 anxiety-performance link runs from math anxiety to performance, not the reverse](../claims/math-anxiety-to-performance-directionality.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Reduce math anxiety in children with DD by improving math achievement early through targeted interventions](early-achievement-interventions-reduce-math-anxiety-dd.md)
+- [Promote motivation alongside executive functioning and early numeracy development from the earliest stages of mathematics education](promote-motivation-from-earliest-stages-math.md)
 
 ## Examples
 -

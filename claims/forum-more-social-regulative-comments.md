@@ -62,4 +62,5 @@ Message-length analysis over the complete collection of messages (n = 1,342). Fo
 
 
 ## Related Claims
--
+
+- [Anchored discussion supports greater communicative efficiency but not higher mutual understanding](anchored-discussion-communicative-efficiency.md)

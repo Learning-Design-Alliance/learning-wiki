@@ -43,4 +43,7 @@ Mixed-model analysis of unattended-stream reconstruction accuracy (three conditi
 
 
 ## Related Claims
--
+
+- [Monolingual and bilingual children perform the dichotic comprehension task equivalently, with both groups finding English–English interference hardest](equivalent-comprehension-monolingual-bilingual-children.md)
+- [Bilingual children show a flatter pattern of attended-speech encoding across conditions, driven by weaker encoding in low- or no-interference conditions](bilingual-flatter-attended-encoding-pattern.md)
+- [The study found no evidence for enhanced attentional capacity in bilingual children, behaviourally or neurally](no-bilingual-attentional-capacity-enhancement.md)

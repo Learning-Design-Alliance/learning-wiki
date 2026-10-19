@@ -38,10 +38,15 @@ The Cognitive Model treats L2 writing as a complex mental activity involving str
 ### Claims
 
 ## Related Theories
-- 
+
+- [Language related episodes (LREs) as the operationalization of noticing in L2 writing](lre-operationalization-noticing-writing.md)
+- [Contrastive Rhetoric Model of L2 writing](contrastive-rhetoric-model-l2-writing.md)
 
 ## Examples
--
+
+- [Write Alouds](../strategies/write_alouds.md)
+- [Teacher Modeling](../strategies/teacher_modeling.md)
+- [Live Writing Demonstrations](../strategies/live_writing_demonstrations.md)
 
 ## Key Sources
 - Chmarkh, M. (2025). Evaluating the Contrastive Rhetoric Model, the Cognitive Model, and the Sociocultural Model to L2 Writing. https://eric.ed.gov/?id=ED671744

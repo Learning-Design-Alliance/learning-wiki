@@ -17,7 +17,7 @@ sources:
 # Balance skill-acquisition settings with opportunities to practise tasks under peer evaluation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The authors suggest that if adolescents activate compensatory mechanisms to maintain performance when observed by peers, educational settings should balance environments that optimally support skills acquisition with environments where adolescents carry out tasks in the presence of evaluative peers. This would let students both become proficient in the task itself and "learn how to excel in tasks while being observed and evaluated by their peers". The recommendation is explicitly framed as requiring further research on the underlying cognitive mechanisms.
@@ -35,6 +35,11 @@ The authors suggest that if adolescents activate compensatory mechanisms to main
 
 ### Target Learning Goals
 - performing cognitively challenging tasks under peer observation and evaluation
+
+## Claims
+
+- [A peer audience decreases accuracy in the complex relational integration condition in both adolescents and adults](../claims/peer-audience-decreases-relational-integration-accuracy.md) [+M]
+- [A peer audience differentially modulates fronto-parietal activation by age: increased in adolescents, decreased in adults](../claims/peer-audience-age-differential-frontoparietal-activation.md) [+M]
 
 ## Related Strategies
 - 

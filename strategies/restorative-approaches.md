@@ -67,6 +67,7 @@ Restorative approaches treat classroom climate as a precondition for learning: s
 - [Use RJ strategies such as proactive circles to manage classrooms and establish norms beyond discipline](proactive-circles-classroom-management-norms.md)
 - [Adopt positive, restorative discipline approaches and ban harmful exclusionary practices](restorative-discipline-ban-harmful-practices.md)
 - [Build safety and belonging by detracking, offering low-barrier extracurriculars, and implementing restorative approaches in place of exclusionary discipline](restorative-inclusive-safety-structures.md)
+- [Use educative and restorative behavior supports rather than punitive and exclusionary discipline](restorative-educative-behavior-supports-gateway.md)
 
 ## Examples
 - **[International Institute for Restorative Practices](https://www.iirp.edu)** — whole-school implementation model and training; the basis for the RAND Pittsburgh study.

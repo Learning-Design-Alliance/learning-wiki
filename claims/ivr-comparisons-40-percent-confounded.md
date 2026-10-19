@@ -43,4 +43,5 @@ Frequency analysis of 50 coded comparisons from the systematic review. A compari
 
 
 ## Related Claims
--
+
+- [IVR conditions included participatory activities in 50% of comparisons while conventional conditions did so in only 20%](ivr-conditions-more-likely-to-include-activities.md)

@@ -42,7 +42,8 @@ The HP Learning Studio is a school-community technology space launched in Winter
 - [Anaheim High School's lab showed sustained and expanded impact in year two, with student-led use outpacing teacher engagement](../claims/anaheim-lab-year-two-expanded-impact.md) [+W]
 
 ## Related Designs
-- 
+
+- [Educational Design Research Studio (EDRS) for collaborative design work](educational-design-research-studio-edrs.md)
 
 ## Examples
 -

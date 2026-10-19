@@ -62,4 +62,5 @@ Same coding analysis of 30 visits. The authors note that although the new practi
 
 
 ## Related Claims
--
+
+- [In encounters where both parties are predominantly expansive, early cycle actions such as questioning and modeling are typically absent and the focus is on implementing and consolidating](both-expansive-encounters-skip-early-cycle-actions.md)

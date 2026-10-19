@@ -45,7 +45,8 @@ Part III's Publisher Directory (Section 11) opens with the Association of Americ
 - [Fair Textbooks: A Resource Guide, a centralized catalog of bias-free education resources](fair-textbooks-resource-guide-catalog.md)
 
 ## Examples
--
+
+- [Combine resources across guide sections for the most fruitful results](../strategies/cross-section-resource-combination-strategy.md)
 
 ## Key Sources
 - Alspektor, Rose Ann, and Wirtenberg, Jeana. (1979). Fair Textbooks: A Resource Guide. U.S. Commission on Civil Rights, Clearinghouse Publication 61. https://eric.ed.gov/?id=ED183700

@@ -43,4 +43,7 @@ Meta-ANOVA moderator analysis for the bullying-achievement relationship. Design 
 
 
 ## Related Claims
--
+
+- [Cognitive-motivational factors mediate the association between bullying victimisation and lower academic achievement (pooled OR = 0.74)](cognitive-motivational-factors-mediate-victimisation-achievement.md)
+- [Program effectiveness varies by country: Greece led for perpetration, Italy for victimization](anti-bullying-effectiveness-varies-by-country.md)
+- [Child age, caregiver education and country income level do not moderate book-sharing intervention effects on child language](book-sharing-effects-invariant-age-education-income.md)

@@ -62,4 +62,5 @@ Taylor and Kuo (2009) as tabulated: 17 children with ADHD walking alternately in
 
 
 ## Related Claims
--
+
+- [Chronic cardio exercise programs improve executive functions, attention, and behavior in children with ADHD](chronic-cardio-exercise-benefits-adhd-children.md)

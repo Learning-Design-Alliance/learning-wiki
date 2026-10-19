@@ -44,7 +44,9 @@ Descriptive tabulations of pooled 2017-19 CHKS data from approximately 800,000 s
 
 
 ## Related Claims
+
 - [Transgender, gay/lesbian, bisexual, and 'something else' students report significantly poorer outcomes than non-transgender and straight peers on all 14 measures](lgbtq-subgroups-poorer-all-14-measures.md) — a broader claim this one bears on
 - [Adjusting for perceived school supports and safety eliminates the transgender/non-transgender school connectedness gap and halves mental health, motivation, and middle school performance gaps](supports-safety-account-transgender-disparities.md) — related
 - [Across nearly all race/ethnicity groups, transgender high school students report fewer school supports, lower safety, lower motivation, and lower connectedness than non-transgender peers](transgender-students-report-fewer-school-supports-lower-safety.md) — a broader claim this one bears on
 - [Disparities are not uniform: some gender- and sexual-minority groups report equal or better school experiences than majority peers (e.g., Black transgender students, Cambodian gay/lesbian students)](lgbtq-disparities-vary-with-exceptions-by-group.md) — related
+- [Students most valued the caring, accountable relationship with their coach, reporting motivation, confidence, and accountability gains](caring-accountable-coach-relationship-benefits.md)

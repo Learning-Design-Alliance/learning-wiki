@@ -41,7 +41,10 @@ A three-phased pedagogical design, refined from a previous four-phased design, t
 - [Low Achievers Joy Predominance Knowledge Building](../claims/low-achievers-joy-predominance-knowledge-building.md) [+M]
 
 ## Related Designs
+
 - Mastery Learning
+- [A conceptual design framework for PST collaborative inquiry combining knowledge building principles with collaborative-analytics reflective assessment](collaborative-analytics-reflective-assessment-design-framework.md)
+- [Model Construction epistemic markers for model-based reasoning on Knowledge Forum](model-construction-epistemic-markers.md)
 
 ## Examples
 -

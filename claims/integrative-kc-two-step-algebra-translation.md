@@ -43,4 +43,6 @@ The article reports, citing Heffernan and Koedinger (1997), a performance differ
 
 
 ## Related Claims
--
+
+- [Simpler knowledge components are executed faster: correct application times rise from about 3-6 seconds for constant-constant KCs to 10-14 seconds for variable-variable KCs](kc-complexity-predicts-application-time.md)
+- [KLI complexity-matching hypothesis: instructional principles of a given complexity are effective for knowledge components of equal or greater complexity but not less complex ones](kli-complexity-matching-hypothesis.md)

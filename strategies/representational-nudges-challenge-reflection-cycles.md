@@ -39,7 +39,8 @@ Two cross-cutting mechanisms supported teachers' movement across MC, CK, and PCK
 - instructional design reasoning
 
 ## Related Strategies
-- 
+
+- [Math Art](math_art.md)
 
 ## Examples
 -

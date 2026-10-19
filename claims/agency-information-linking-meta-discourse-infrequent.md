@@ -43,4 +43,6 @@ Qualitative coding of 764 notes across three discussion views using seven discou
 
 
 ## Related Claims
--
+
+- [This issue's Knowledge Forum study is reported to show a clear impact of meta-discourse on collaboration that widened over time](meta-discourse-impact-widened-over-time.md)
+- [The Bidea^ dimension was the most frequent (45.87% of total discourse), with Bfact^ dominant in Grade 5 Science and Bopinion^ dominant in Grade 10 Liberal Studies](idea-dimension-most-frequent-fact-vs-opinion.md)

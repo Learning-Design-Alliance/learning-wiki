@@ -43,6 +43,7 @@ The article recommends pairing AI-driven learning predictions with interpretabil
 - [Use GenAI-co-created data comics to communicate data insights to novice students, with human oversight to address misinformation and bias risks](genai-data-comics-for-insight-communication.md)
 - [Use interpretable feature-driven machine learning as a human-in-the-loop baseline for flagging ethnic bias in learning content](feature-driven-ml-baseline-bias-flagging.md)
 - [Deploy agentic AI in education with transparency about agentic decisions, human oversight and institutional responsibility](responsible-deployment-transparency-human-oversight-agentic-ai.md)
+- [Jointly investigate fairness in machine learning with core ML researchers when deploying adaptive collaborative learning support](cscl-ml-fairness-joint-investigation.md)
 
 ## Examples
 -

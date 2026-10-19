@@ -2,7 +2,7 @@
 
 Concrete teaching activity recipes — specific, implementable approaches.
 
-**6282 entries** · 0 stable · 6282 in review · 0 drafts
+**6283 entries** · 0 stable · 6283 in review · 0 drafts
 
 ---
 
@@ -5036,6 +5036,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Support implementation with initial Science of Reading training plus PLC-based lesson study and model lessons](plc-lesson-study-implementation-support.md) - Teachers attend an initial Science of Reading and Implementation Professional Development Session, followed by targeted support sessions during grade-level Professional Learning Communities where they conduct lesson p...
 * [Support informal workplace learning by recognising and rendering visible the informal networks through which workers actually learn](render-informal-workplace-learning-visible.md) - The article argues that informal learning is often not acknowledged as learning within organisations, being regarded as 'part of the job', and that \"there is value in rendering learning visible so that it can be consc...
 * [Support instructors during execution with predefined email templates and instructor notes](predefined-email-templates-instructor-notes.md) - The authors recommend that designers \"provide predefined email templates covering a range of possible replies to trainees\" and provide instructor notes detailing actions and inputs requiring instructor assistance.
+* [Support internet safety for teens with ASD through simple, frequent conversations and clear rules and limits on internet use](frequent-conversations-clear-limits-internet-safety.md) - The brief recommends that adults support adolescents with ASD online by holding \"simple and frequent conversations about internet safety\" and by \"establishing clear rules and limits to internet use.\" It also suggests...
 * [Support intervention teachers with biweekly Teacher Learning Community meetings alongside scripted curriculum materials](biweekly-teacher-learning-community-meetings.md) - During the study, \"Researchers conducted biweekly Teacher Learning Community meetings with intervention group teachers\", at which researchers facilitated discussion of practices that worked well in previous lessons an...
 * [Support language development in both languages during preschool since growth in either language supports reading in both](support-both-languages-preschool-language-development.md) - The article recommends that preschool programs support language development in both of a bilingual child's languages rather than immersing children solely in English.
 * [Support learners in climbing the social and epistemic ladders together](climbing-social-and-epistemic-ladders-together.md) - Generalizing from the super-notes study of cross-class knowledge building, the editorial conveys the authors' conclusion that \"learning designs should support people in 'climbing the social and epistemic ladders toget...

@@ -61,6 +61,8 @@ Review reports the reverse cohesion effect for high-knowledge readers, who proce
 - [Prior Knowledge](../learner-variables/prior-knowledge.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
 - [Higher background knowledge enables better reading comprehension for both skilled and low-skilled primary readers](background-knowledge-improves-comprehension-primary.md) — related
 - [Background knowledge has a greater impact on comprehension of expository texts than narrative texts for primary children](knowledge-impact-greater-expository-narrative.md) — related
 - [Passage cohesion showed no effect on delayed recall; means showed greater recall from less cohesive passages](cohesion-no-effect-delayed-recall.md) — reports the opposite
+- [Prior biology knowledge tentatively moderates material effectiveness: non-STEM students favor narratives, STEM students favor expository texts for recall and understanding](prior-knowledge-moderates-narrative-effectiveness.md)

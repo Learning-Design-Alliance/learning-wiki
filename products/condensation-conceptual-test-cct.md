@@ -13,7 +13,7 @@ generated:
 # Condensation Conceptual Test (CCT)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A five-item diagnostic assessment developed by Bayram Costu and colleagues to measure university students' conceptual understanding and conceptual change about condensation.
@@ -22,6 +22,8 @@ A five-item diagnostic assessment developed by Bayram Costu and colleagues to me
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
+- [Responses classified as sound understanding on open-ended condensation items rose after the intervention and were still above pre-test levels at delayed post-test](../claims/pdeode-sound-understanding-increase-open-ended-items.md) [+W]
 
 ## Related Products and Programmes
 -

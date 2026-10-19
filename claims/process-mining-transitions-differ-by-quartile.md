@@ -62,4 +62,5 @@ The high-performing group's process map (Fig. 2a) showed most students began wit
 
 
 ## Related Claims
--
+
+- [Frequency of correct quiz submissions differs across performance quartiles, with high performers submitting correct answers most often](correct-submissions-differ-across-quartiles.md)

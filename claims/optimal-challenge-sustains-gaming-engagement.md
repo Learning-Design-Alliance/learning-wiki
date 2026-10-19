@@ -43,4 +43,7 @@ Interview finding from the 25-player subset: participants perceived difficulty a
 
 
 ## Related Claims
+
 - [The usefulness of the GAP depends on players being sufficiently challenged in the game](gap-usefulness-depends-on-challenge.md) — a narrower finding that bears on this claim
+- [The authors concluded transfer of motivational engagement from entertainment gaming to educational contexts was unlikely](gaming-engagement-transfer-to-classroom-unlikely.md)
+- [Players decided to engage in gaming primarily for escapism and fun, social connectivity, and achievement of task-related goals through control](gaming-engagement-decision-factors.md)

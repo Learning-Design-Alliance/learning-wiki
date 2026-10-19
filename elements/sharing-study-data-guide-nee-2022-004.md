@@ -37,7 +37,9 @@ A practical guide published by the U.S. Department of Education's Institute of E
 - sharing study data responsibly and useably
 
 ## Related Elements
-- 
+
+- [NCEE technical appendix for the elementary math curricula evaluation, organized in six analytic sections](ncee-elementary-math-curricula-technical-appendix.md)
+- [NWEA technical appendix documenting sample and methods for the 2022-23 pandemic recovery brief](nwea-tech-appendix-pandemic-recovery-2022-23.md)
 
 ## Examples
 

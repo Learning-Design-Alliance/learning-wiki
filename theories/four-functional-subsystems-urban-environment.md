@@ -39,7 +39,9 @@ In the conference's general session address, sociologist H. Wentworth Eldredge p
 
 
 ## Related Theories
-- 
+
+- [Four topical areas organize Chicago school reform research: governance, teaching and learning, quality of schools, and systemic change](four-topical-areas-chicago-research-agenda.md)
+- [The five essential supports framework: five mutually reinforcing organizational dimensions that enable or inhibit improvement in classroom practices](five-essential-supports-early-education-framework.md)
 
 ## Examples
 -

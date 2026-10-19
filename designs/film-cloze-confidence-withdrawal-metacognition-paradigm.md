@@ -17,7 +17,7 @@ sources:
 # Film-plus-cloze metacognitive assessment paradigm with confidence judgments and answer withdrawal
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A multi-phase assessment paradigm for children's metacognitive monitoring and control. Children "watched an educational film and predicted their test performance," then "solved a cloze test regarding the film content including answerable and unanswerable items and gave confidence judgments to every answer." Finally, "children withdrew answers that they believed to be incorrect," allowing monitoring accuracy and control behavior to be measured before and during test taking across answerable and unanswerable items.
@@ -39,10 +39,13 @@ A multi-phase assessment paradigm for children's metacognitive monitoring and co
 - Assessment of metacognitive monitoring and control processes during test taking
 
 ### Claims
-- 
+
+- [Monitoring-based control (the relation between confidence judgments and maintenance decisions) is stronger for fourth graders than second graders and strengthens over time for open-ended questions](../claims/monitoring-based-control-strengthens-age-and-time.md) [+W]
+- [Fourth graders monitor and control answers to open-ended questions more accurately than second graders, but no such age difference exists for true-false questions](../claims/age-effect-monitoring-open-ended-only.md) [+W]
 
 ## Related Designs
-- 
+
+- [Hallucination-inducing film-detail question set with pre-generated incorrect AI responses](hallucination-inducing-film-question-set.md)
 
 ## Examples
 -

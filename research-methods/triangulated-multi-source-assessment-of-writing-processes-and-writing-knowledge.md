@@ -25,7 +25,8 @@ A methodological framework combining three elements to examine writing processes
 - [Combining collaborative-writing observation, text analysis, and retrospective-prospective interviews provides productive tools to assess writing processes and knowledge of struggling adult writers](../claims/triangulated-assessment-writing-processes-adults.md) [+M]
 
 ## Related Research Methods
--
+
+- [Triangulated three-method analysis of collaborative problem-solving enactment](triangulated-three-method-analysis-of-collaborative-problem-solving-enactment.md)
 
 ## Key Sources
 - Sturm, A. (2016). Observing writing processes of struggling adult writers with collaborative writing. Journal of Writing Research, 8(2), 301-344. https://doi.org/10.17239/jowr-2016.08.02.05

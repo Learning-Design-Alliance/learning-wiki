@@ -44,6 +44,7 @@ The report's second promising practice holds that effective newcomer schools dep
 ## Related Designs
 
 - [Three-type taxonomy of newcomer schools: programs-within-a-school, transitional, and comprehensive](newcomer-school-three-type-taxonomy.md)
+- [Newcomer schools as self-contained learning environments for recently-arrived immigrant English Learners](newcomer-school-element.md)
 
 ## Examples
 -

@@ -65,9 +65,11 @@ Same cohort analysis of baseline sleep duration categories (<9, 9-10, ≥10 hour
 - [Sleep](../learner-variables/sleep.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
 - [Frequent daytime sleepiness is associated with impaired academic achievement, attention, and learning motivation in school-aged children](frequent-daytime-sleepiness-impaired-school-performance.md) — related
 - [The association between sleep duration and school performance is nonlinear (p = 0.04) in generalized additive models](nonlinear-sleep-duration-school-performance-association.md) — related
 - [Sleep education at school improves academic performance in children](sleep-education-improves-academic-performance.md) — related
 - [Only 22.34% of Chinese school-aged children get sufficient sleep (≥10 hours), while 37.96% have short sleep duration (<9 hours)](insufficient-sleep-prevalence-chinese-children.md) — related
 - [Children who slept <10 hours/day at ages 3-4 years had worse maternal-reported executive function and behavioral difficulties at age 7 than children with age-appropriate sleep](short-sleep-3-4-years-worse-maternal-neurobehavioral-age-7.md) — related
 - [Children who slept <9 hours/day at ages 5-7 years had worse maternal-reported executive function and behavioral difficulties at age 7 than children sleeping ≥10 hours/day](short-sleep-5-7-years-worse-maternal-neurobehavioral.md) — related
+- [Short sleep duration at age 3 was not associated with quality of life at about age 13](sleep-quality-of-life-null-longitudinal.md)

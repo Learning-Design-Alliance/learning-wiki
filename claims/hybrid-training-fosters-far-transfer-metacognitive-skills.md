@@ -62,4 +62,5 @@ Analysis of the MST_E at T3 found a significant condition effect, F(5,205) = 6.3
 
 
 ## Related Claims
--
+
+- [The four aggregated non-hybrid training groups did not differ on the dependent variables of the analyses](non-hybrid-groups-no-difference-dependent-variables.md)

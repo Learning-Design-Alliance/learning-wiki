@@ -24,7 +24,9 @@ The study's model of productive collaboration is the rating schema by Meier et a
 ### Claims
 
 ## Related Research Methods
--
+
+- [Theoretically refined multidimensional interaction rating scheme](theoretically-refined-multidimensional-interaction-rating-scheme.md)
+- [PISA collaborative problem-solving framework](pisa-collaborative-problem-solving-framework.md)
 
 ## Key Sources
 - Sebastian Strauß, Isis Tunnigkeit, Julia Eberle, Arlind Avdullahu, Nikol Rummel. (2025). Comparing the effects of a collaboration script and collaborative reflection on promoting knowledge about good collaboration and effective interaction. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-024-09430-7

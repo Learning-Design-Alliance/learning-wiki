@@ -17,7 +17,7 @@ sources:
 # Integrate anchored-discussion functionality into existing electronic learning environments
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (2 for, 2 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The authors recommend that, to increase the availability of anchored discussion in university practice, it would be useful to integrate functionality for anchored discussion into existing electronic learning environments, rather than relying on separate specialized systems. This follows from their finding that the anchored system's functional design implicitly focused students' collaborative intentions on the text without additional training or elaborate instructions, preserving an open learning environment that does not restrict users' actions.
@@ -38,6 +38,13 @@ The authors recommend that, to increase the availability of anchored discussion 
 
 ### Affordances
 - [Anchored Discussion Design Theory](../designs/anchored-discussion-design-theory.md)
+
+## Claims
+
+- [Anchored discussion supports greater communicative efficiency but not higher mutual understanding](../claims/anchored-discussion-communicative-efficiency.md) [~W]
+- [Anchored discussion strengthens referrals to content and prompts rereading of relevant passages](../claims/anchored-discussion-content-referrals-rereading.md) [+W]
+- [Anchored discussion produces more meaning-oriented discussion of academic texts than traditional forum discussion](../claims/anchored-discussion-more-meaning-oriented.md) [+W]
+- [Forum discussion contains more social and regulative comments and longer messages; anchored discussion is briefer with more messages](../claims/forum-more-social-regulative-comments.md) [~W]
 
 ## Related Strategies
 - 

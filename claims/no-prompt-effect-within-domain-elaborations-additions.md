@@ -43,4 +43,5 @@ Follow-up ANOVAs in the three-group essay-coding analysis found no condition eff
 
 
 ## Related Claims
--
+
+- [Relevance instructions and guiding questions both improve pre-service teachers' first-order knowledge integration in a reading- and writing-based learning setting with three domain-specific texts](prompts-improve-first-order-knowledge-integration.md)

@@ -36,6 +36,7 @@ The Oakes et al. community schools framework organizes school redesign around in
 - [Guiding Principles for Enacting SoLD-Aligned Teacher Preparation framework](guiding-principles-for-enacting-sold-aligned-teacher-preparation-framework.md)
 - [New Mexico Community Schools Act grant program](new-mexico-community-schools-act-grant-program.md)
 - [Whole School, Whole Community, Whole Child (WSCC) model](whole-school-whole-community-whole-child-wscc-model.md)
+- [Four-Element Family Engagement Framework](four-element-family-engagement-framework.md)
 
 ## Key Sources
 - Oakes, J., & Espinoza, D. (2020). Community schools the New Mexico way. Learning Policy Institute. https://learningpolicyinstitute.org/product/improving-education-new-mexico-way

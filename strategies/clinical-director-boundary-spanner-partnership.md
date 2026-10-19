@@ -39,6 +39,7 @@ Each Alder–LEA partnership is managed by a clinical director, an LEA employee 
 ## Related Strategies
 
 - [Recommendations for sustainable and affordable residency programs: align with LEA strategy, engage system leaders, dedicate sustainability roles, and run affordability analyses](residency-sustainability-recommendations.md)
+- [Strengthen PK-20 partnerships through annual summits of policy makers, practitioners, and teacher education faculty](annual-pk20-partnership-summits.md)
 
 ## Examples
 -

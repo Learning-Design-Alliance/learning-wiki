@@ -39,7 +39,8 @@ In her 1960 essay on the high school of the future, Mead proposed four phases of
 - 
 
 ## Related Theories
-- 
+
+- [Mead's taxonomy of post-figurative, co-figurative, and pre-figurative cultures explains how accelerating change reverses the direction of learning](mead-post-co-pre-figurative-cultures.md)
 
 ## Examples
 -

@@ -83,3 +83,4 @@ some configurations.
 - [Cross-linguistic transfer is skill-specific: phonological awareness and print concepts transfer across languages, vocabulary and comprehension do not](cross-linguistic-transfer-skill-specific.md) — related
 - [The phonological loop plays a significant role in vocabulary acquisition and second language learning](phonological-loop-vocabulary-acquisition-l2.md) — related
 - [Ultimate attainment and optimal-period length do not reliably differ across major native-language groups, with slightly more evidence for differences in learning curves](native-language-group-differences-small-unreliable.md) — related
+- [Young DLLs have two separate phonological and grammatical language systems early in life](dlls-two-separate-language-systems-early.md)

@@ -43,4 +43,6 @@ Correlational analyses of WMC with verbal and nonverbal intelligence across t1 t
 
 
 ## Related Claims
--
+
+- [In latent-variable SEM models, intelligence — not working memory — is the significant direct predictor of academic outcomes in both childhood and early adulthood](sem-iq-only-significant-predictor.md)
+- [Updating ability strongly predicts fluid intelligence, while shifting and inhibition do not significantly predict it.](updating-predicts-fluid-intelligence-not-shifting-inhibition.md)

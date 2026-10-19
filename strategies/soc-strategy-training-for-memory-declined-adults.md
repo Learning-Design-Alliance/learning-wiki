@@ -17,7 +17,7 @@ sources:
 # Target SOC strategy training at adults whose memory has declined to buffer low-control weeks
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends that "Research and interventions that target adaptive behaviors and beliefs, such as maintaining high perceived control and engaging in SOC strategies may help older adults to adapt to age-related declines in working memory." It identifies participants whose memory has declined as those who may benefit most, framing SOC as a "life management" technique for everyday life and weekly control fluctuations. The strategy is to teach selection, optimization, and compensation skills to this group.
@@ -38,6 +38,11 @@ The article recommends that "Research and interventions that target adaptive beh
 
 ### Affordances
 - Soc Life Management Framework Memory Decline
+
+## Claims
+
+- [Low weekly perceived control predicts more memory problems among adults with greater memory decline and low SOC strategy use (three-way interaction)](../claims/soc-buffers-low-control-effects-under-memory-decline.md) [+W]
+- [Selection strategies predict fewer memory problems regardless of decline extent; optimization and compensation are adaptive mainly under greater decline](../claims/soc-subscale-sensitivity-selection-versus-optimization-compensation.md) [+W]
 
 ## Related Strategies
 - 

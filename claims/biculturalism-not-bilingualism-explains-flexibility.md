@@ -41,4 +41,5 @@ Post hoc regression analyses with seventh graders only added self-reported Turki
 
 
 ## Related Claims
--
+
+- [Dot Task accuracy decreased from congruent to incongruent to mixed trials, with condition accuracies positively correlated](dot-task-accuracy-gradient-congruent-incongruent-mixed.md)

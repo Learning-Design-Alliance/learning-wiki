@@ -43,4 +43,5 @@ The editorial reports, from the Muukkonen and Lakkala article using a coding sch
 
 
 ## Related Claims
--
+
+- [Individual learnity graphs are unique, and their uniqueness becomes a source of innovation and creative problem solving](unique-graphs-source-of-innovation.md)

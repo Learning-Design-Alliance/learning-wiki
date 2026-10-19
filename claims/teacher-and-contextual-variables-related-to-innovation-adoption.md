@@ -43,4 +43,5 @@ Interview-derived listing of teacher and contextual variables related to adoptio
 
 
 ## Related Claims
--
+
+- [Perceived power distance correlates with expert and authority roles, collaboration with facilitator and delegator roles, and competition correlates with all five teacher roles](cultural-environment-correlates-with-teacher-roles.md)

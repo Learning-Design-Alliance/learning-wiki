@@ -47,3 +47,4 @@ The review's synthesis of comparison studies, citing Burke-Smalley (2014) and Ro
 - [No evidence found that particular student groups are disadvantaged in oral versus written assessments](no-group-disadvantage-oral-assessments.md) — related
 - [Oral assessments can induce more anxiety than written ones, yet many students still prefer them](oral-assessments-anxiety-but-preferred.md) — related
 - False beginners read passages aloud significantly better than true beginners despite equal written-test scores — related
+- [Moving oral assessments online reduced required support staff hours from almost 8 days to 3 days](online-oral-assessments-reduced-staff-hours.md)

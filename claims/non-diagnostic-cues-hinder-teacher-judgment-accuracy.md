@@ -43,4 +43,5 @@ Multilevel regression in the same within-subjects experiment (N = 33 teachers) f
 
 
 ## Related Claims
--
+
+- [Teachers judging student performance mostly use performance cues and, to a lesser extent, student cues](teachers-mostly-use-performance-cues-judging-performance.md)

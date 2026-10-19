@@ -17,7 +17,7 @@ sources:
 # Use tasks without explicit feedback or rewards to study intrinsic reinforcement responses
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article recommends investigating intrinsic reinforcement using task paradigms that provide neither performance feedback nor explicit rewards. The authors selected the n-back task because "the n-back paradigm provides neither performance feedback nor explicit rewards, allowing investigation of intrinsic reinforcement responses outside of the context of a classic reward paradigm". This design isolates responses to correct performance itself rather than to externally delivered incentives.
@@ -41,6 +41,12 @@ The article recommends investigating intrinsic reinforcement using task paradigm
 
 ### Affordances
 - Intrinsic Reinforcement Signals Vs Cognitive Tasks
+
+## Claims
+
+- [Post-error slowing occurs in the 2-back condition despite absence of feedback](../claims/post-error-slowing-two-back-no-feedback.md) [+W]
+- [In youth performing an n-back task without feedback, bilateral ventral striatum activates more strongly to correct than incorrect responses](../claims/vs-correct-greater-than-incorrect-nback-youth.md) [+W]
+- [The VS correct-greater-than-incorrect response is present for both target and foil trials and is not a motor confound](../claims/vs-effect-present-targets-foils-not-motor.md) [+W]
 
 ## Related Strategies
 - 

@@ -43,4 +43,5 @@ Think-aloud protocols of two multistep word problems were scored with a systemat
 
 
 ## Related Claims
--
+
+- [The VisA instrument predicts word problem solving performance in grade 5, explaining 23 percent of variance](visa-instrument-predicts-word-problem-solving.md)

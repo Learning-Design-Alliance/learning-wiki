@@ -43,4 +43,6 @@ Bivariate correlation analysis of the 502-participant dataset (Table 3) showed L
 
 
 ## Related Claims
--
+
+- [Metacognitive strategies directly and positively predict writing performance in both L1 and L2 task-situated writing](metacognitive-strategies-predict-l1-l2-writing-performance.md)
+- [Metacognitive strategies predict L2 writing more strongly than L1 writing](metacognitive-strategies-stronger-predictor-l2-than-l1-writing.md)

@@ -38,6 +38,10 @@ Nunan proposes five key points for future classroom-oriented SLA research: more 
 
 ### Claims
 
+## Related Strategies
+
+- [Future AI-WTC research should use longitudinal designs, triangulated WTC measures, diverse samples, comparative tool research, pedagogically guided AI integration, and theory-driven models](ai-wtc-future-research-directions.md)
+
 ## Related Principles
 - 
 

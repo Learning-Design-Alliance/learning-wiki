@@ -46,7 +46,8 @@ Fair Textbooks: A Resource Guide is a U.S. Commission on Civil Rights clearingho
 - [33-page annotated resource listing for students and teachers](expressionism-realism-resource-materials-listing.md)
 
 ## Examples
--
+
+- [Combine resources across guide sections for the most fruitful results](../strategies/cross-section-resource-combination-strategy.md)
 
 ## Key Sources
 - Alspektor, Rose Ann, and Wirtenberg, Jeana. (1979). Fair Textbooks: A Resource Guide. U.S. Commission on Civil Rights, Clearinghouse Publication 61. https://eric.ed.gov/?id=ED183700

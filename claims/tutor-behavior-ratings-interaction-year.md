@@ -62,6 +62,8 @@ For relevance of contributions, the field experiment found both a main effect of
 
 
 ## Related Claims
+
 - [Peer tutors evaluated the group's functioning more extensively than staff tutors, and this behavior declined over curriculum years for both](peer-tutors-evaluate-group-functioning-more.md) — related
 - [Student tutors are rated as more cognitively congruent than staff tutors in problem-based tutorial groups](student-tutors-more-cognitively-congruent-than-staff.md) — related
 - [Prior field experiments found no achievement differences between staff- and student-tutored groups](no-achievement-difference-staff-versus-student-tutoring.md) — related
+- [Tutor behavior had a major impact on students' discussion behaviors, with dominant or passive tutors both failing to stimulate lively discussion](tutor-behavior-major-impact-discussion.md)

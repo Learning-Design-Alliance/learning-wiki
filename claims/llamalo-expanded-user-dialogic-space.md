@@ -44,4 +44,6 @@ Qualitative content analysis of ten researcher-led discussions with the fine-tun
 
 
 ## Related Claims
--
+
+- [LlamaLo exhibited bias and presented contested assertions as facts, notably in the Israeli-Palestinian conflict discussion](llamalo-bias-contested-assertions.md)
+- [LlamaLo added knowledge in almost every post, mostly correct, and most posts were internally coherent](llamalo-knowledge-addition-coherence.md)

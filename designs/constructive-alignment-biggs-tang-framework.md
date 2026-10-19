@@ -42,7 +42,8 @@ The study is underpinned by the theory of constructive alignment coined by Biggs
 - [Six Learning Outcomes Mathematics Methodology Ca](../claims/six-learning-outcomes-mathematics-methodology-ca.md) [+M]
 
 ## Related Designs
-- 
+
+- [Extension of Biggs' constructive alignment for embedding GenAI in existing curricula](constructive-alignment-genai-embedding-extension.md)
 
 ## Examples
 -

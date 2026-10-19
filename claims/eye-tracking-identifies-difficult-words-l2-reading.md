@@ -43,4 +43,6 @@ Study of 10 native Japanese speakers learning English who read 10 TOEIC passages
 
 
 ## Related Claims
--
+
+- [The Wordometer eye-tracking app estimates the number of words a person reads with an average error rate of 6.5 percent](wordometer-word-count-6-5-percent-error.md)
+- [In an initial eye-tracking study, time on action predicted self-explanation (16-second threshold) and gaze shifts were most reliable at detecting its absence](initial-study-time-and-gaze-predict-self-explanation.md)

@@ -43,4 +43,5 @@ Intercorrelation analysis of Zoo U subscales (Table 3) to check whether composit
 
 
 ## Related Claims
--
+
+- [Students rated Zoo U highly for engagement and likeability, with every usability area rated at least 3.8 on a four-point scale](zoo-u-high-student-engagement-likeability.md)

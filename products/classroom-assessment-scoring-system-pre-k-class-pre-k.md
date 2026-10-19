@@ -13,7 +13,7 @@ generated:
 # Classroom Assessment Scoring System Pre-K (CLASS Pre-K)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (2 design), `q2`–`q3` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 A standardized observational assessment developed by Teachstone that rates the quality of teacher–child interactions across Emotional Support, Classroom Organization, and Instructional Support domains in early-childhood classrooms.
@@ -23,6 +23,9 @@ A standardized observational assessment developed by Teachstone that rates the q
 - **CLASS Pre-K framework: three domains of teacher-child interaction quality comprising ten rated dimensions**: The Classroom Assessment Scoring System Pre-K is a standardized observational framework assessing classroom quality through teacher-child interactions. It comprises "three overarching domains derived from observed dimensions": Emotional Support (four dimensions including Positive Climate and Teacher Sensitivity), Classroom Organization (three dimensions including Behavior Management), and Instructional Support (three dimensions including Quality of Feedback). Dimensions are rated on a 7-point Likert scale from low to high quality, and domain scores are aggregated from dimension scores. In this study it served as the common framework against which human and AI ratings were compared. (Fong et al. (2026))
 
 ### Claims
+
+- [Preschool classrooms in the validation sample scored lowest on Instructional Support relative to Emotional Support and Classroom Organization](../claims/ece-sample-instructional-support-lowest-class-domain.md) [+W]
+- [Raters scored significantly higher than AI on Emotional Support and significantly lower than AI on Instructional Support, with no difference for Classroom Organization](../claims/raters-ai-mean-differences-class-domains.md) [+W]
 
 ## Related Products and Programmes
 -

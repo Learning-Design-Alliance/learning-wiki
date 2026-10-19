@@ -40,6 +40,10 @@ The proposed organization standards specify that "Teachers are organized into in
 ### Claims
 - 
 
+## Related Designs
+
+- [Organization Simulation for Interdisciplinary Learning](organization-simulation-for-interdisciplinary-learning.md)
+
 ## Related Patterns
 - 
 

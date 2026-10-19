@@ -43,7 +43,9 @@ Linguistic ethnographic microanalysis of a video-recorded PD episode where a tea
 
 
 ## Related Claims
+
 - [Acknowledging the emotion to prevent further discussing it recognizes the emotion but constrains exploration of the underlying pedagogical problem](acknowledging-emotion-prevents-exploration.md) — reports the opposite
 - [Quick transition from emotion to practice indirectly recognizes the emotion to a somewhat greater extent than ignoring it](quick-transition-emotion-to-practice-partial-recognition.md) — related
 - [Mitigating and normalizing the emotion recognizes it more than acknowledging-to-prevent but limits exploration to attributions that avoid critique of PD design](mitigating-normalizing-limited-exploration.md) — related
 - [The three strategies highest in both recognizing and exploring emotions were all identified in the same 20-minute emotional event](three-opening-strategies-same-emotional-event.md) — related
+- [LLM coders replicate many human discursive moves but lack questioning, adaptive responsiveness, and emotional expressiveness](claim-llms-replicate-discursive-moves-lack-questioning.md)

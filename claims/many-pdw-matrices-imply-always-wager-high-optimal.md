@@ -43,7 +43,9 @@ Theoretical analysis of payoff matrices, drawing on Clifford et al. (2008), appl
 
 
 ## Related Claims
+
 - [Most four-cell PDW payoff matrices fulfill the intuitive wagering-on-correctness properties](four-cell-matrices-fulfill-wagering-on-correctness-properties.md) — related
 - [No-loss gambling and gains-only designs avoid loss-aversion complications in PDW](no-loss-gambling-and-gains-only-designs-avoid-loss-aversion.md) — related
 - [Participants frequently deviate from optimal wagering strategies implied by payoff matrices](participants-deviate-from-optimal-wagering-strategies.md) — related
 - [In standard free-choice wagering schemes only the lowest and highest wagers are ever optimal](free-choice-only-extreme-wagers-optimal.md) — related
+- [Free-choice wager designs vary widely in wager categories and often match other instruments](free-choice-designs-wager-categories-and-instrument-matching.md)

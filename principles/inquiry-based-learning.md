@@ -191,6 +191,7 @@ An engaging investigation, an immediate conceptual gain, near transfer, far tran
 - [Guided Practice](guided-practice.md) — inquiry often works better when investigative moves are practiced with support before becoming independent.
 
 ## Examples
+
 - **Source-based investigation**: Learners pursue a question using multiple texts, data, or cases and justify their conclusion.
 - **Guided science or social inquiry**: Learners investigate a phenomenon or issue using structured prompts and staged evidence gathering.
 - **Problem-framing workshops**: Learners refine a broad topic into investigable questions before researching.
@@ -214,6 +215,10 @@ An engaging investigation, an immediate conceptual gain, near transfer, far tran
 - A six-cohort, 96-student undergraduate/graduate course pairing scientific-writing instruction with authentic research mentorship; roughly 39% of students who completed a paper listed an outside coauthor, and most coauthors (89%) were people outside the course, indicating the shared object connected students to real external research networks.
 - A Year 8 (ages 12-13) noise-pollution inquiry in which students measured bird-feeder visits in noisy versus quiet schoolyard locations, and — when results contradicted their hypothesis — were prompted to re-observe and explain the discrepancy (e.g., noting that pigeons, which eat more per visit, dominated the noisy-yard feeder).
 - An after-school "Sustainability Squad" (ages 12-14) food-decay and packaging investigation in which some students' data collection prompted them to revise their hypotheses multiple times over several weeks before settling on a testable question.
+- Chemistry learners using data and representations to infer a concept before solving related problems.
+- STEM lessons where model analysis leads into concept naming and then application.
+- Online inquiry activities with guided prompts and team roles.
+- [Nine-lesson phenomenon-driven sequence: introduce phenomenon, observe, question, experiment, share data, read, revise model, extend](../designs/phenomenon-driven-nine-lesson-literacy-science-sequence.md)
 
 ## Key Sources
 - Moon, J. A., & Brockway, D. (2019). Facilitating learning in an interactive science simulation: The effects of task segmentation guidance on adults' inquiry-based learning and cognitive load. *Journal of Research on Technology in Education, 51*(1), 77-100. [https://doi.org/10.1080/15391523.2019.1566038](https://doi.org/10.1080/15391523.2019.1566038)
@@ -244,6 +249,7 @@ An engaging investigation, an immediate conceptual gain, near transfer, far tran
 - Alfieri, L., Nokes-Malach, T. J., & Schunn, C. D. (2013). Learning through case comparisons: A meta-analytic review. *Educational Psychologist, 48*(2), 87–113. [doi:10.1080/00461520.2013.775712](https://doi.org/10.1080/00461520.2013.775712)
 - Kapon, S., & Schvartzer, M. (2024). Guided inquiry into a physics equation. *Cognition and Instruction, 42*(1), 159-206. [https://doi.org/10.1080/07370008.2023.2197232](https://doi.org/10.1080/07370008.2023.2197232)
 - Miller, E. A., & Li, T. (2026). Manufacturing authenticity as part of written PBL curriculum: Contrived versus spontaneous events. *Journal of the Learning Sciences, 35*(2), 319-366. [https://doi.org/10.1080/10508406.2025.2557896](https://doi.org/10.1080/10508406.2025.2557896)
+- Moog, R. S., & Spencer, J. N. (Eds.). (2008). *Process oriented guided inquiry learning (POGIL)*. ACS Symposium Series. American Chemical Society. [doi:10.1021/bk-2008-0994](https://doi.org/10.1021/bk-2008-0994)
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above. Old body kept verbatim.
 
@@ -858,7 +864,7 @@ The pattern is useful when the goal is to build conceptual understanding through
 
 ## Related Patterns
 - [Collaborative Inquiry](../principles/inquiry-based-learning.md)
-- [Process-Oriented Guided Inquiry Learning (POGIL)](../patterns/process-oriented-guided-inquiry-learning-pogil.md)
+- [Process-Oriented Guided Inquiry Learning (POGIL)](inquiry-based-learning.md)
 
 ## Examples
 - Science learners inferring relationships from data patterns.
@@ -1033,4 +1039,171 @@ Unit (a multi-lesson sequence spanning classroom time, field trips, and/or take-
 
 ## Key Sources
 - Sharples, M., Scanlon, E., Ainsworth, S., Anastopoulou, S., Collins, T., Crook, C., Jones, A., Kerawalla, L., Littleton, K., Mulholland, P., & O'Malley, C. (2015). Personal Inquiry: Orchestrating Science Investigations Within and Beyond the Classroom. *Journal of the Learning Sciences, 24*(2), 308-341. [https://doi.org/10.1080/10508406.2014.944642](https://doi.org/10.1080/10508406.2014.944642)
+-->
+
+<!-- merged 2026-10-19 from patterns/process-oriented-guided-inquiry-learning-pogil ("Process-Oriented Guided Inquiry Learning (POGIL)"), a narrower page folded into its canonical page (fragment step, two models agreeing or a third settling): its body as it stood. Its bullets this page lacked were added above.
+
+# Process-Oriented Guided Inquiry Learning (POGIL)
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 6 claims (4 for, 2 mixed) · 16 studies (5 quant-synthesis, 4 causal, 4 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 3 of 16 report an effect size · 2 claims rest on one study
+
+## Description
+POGIL is a team-based inquiry pattern in which learners work through carefully designed activities that move from exploration to concept invention to application. Rather than receiving a finished explanation first, learners examine a model, dataset, or representation, answer sequenced questions, infer the underlying concept, and then apply it in new situations. The "process-oriented" part emphasizes not only content learning but also process skills such as communication, teamwork, and self-management.
+
+The pattern is useful when instructors want inquiry without abandoning structure. It provides more guidance than open discovery and more learner reasoning than direct explanation-first teaching.
+
+## Implications
+
+### Context
+#### Requirements
+- **Carefully designed guided materials**: POGIL depends on activities that sequence attention and inference well.
+- **Team roles or norms**: Learners need structures that support collaborative responsibility.
+- **Facilitation rather than constant telling**: The instructor monitors, questions, and clarifies instead of front-loading all explanations.
+- **A model-to-concept-to-application flow**: Learners need to move beyond observation into generalization and use.
+- **Structured inquiry tasks**
+- **Small-group roles**
+- **Facilitation rather than direct telling**
+#### Constraints
+- **Design quality is critical**: Poor prompts or weak models can make the inquiry confusing.
+- **Some learners need more explicit support**: Even guided inquiry can overload novices if too much is implicit.
+- **Time demands**: POGIL often takes longer than lecture-based coverage.
+- **Role compliance can become superficial**: Team roles only help if they actually structure interaction.
+- **Requires good task design and group norms**
+#### Grain Size
+- Lesson
+- Unit
+
+### Target Goals
+- **Conceptual understanding through inquiry**: Learners infer principles from structured evidence.
+- **Process skill development**: Teamwork, communication, and self-management are built into the pattern.
+- **Application after invention**: Learners use the concept after constructing it.
+- Build conceptual understanding and process skills through guided inquiry.
+
+### Target Learners
+- **Learners in STEM and inquiry-rich courses**: Strong fit where models, data, or representations can anchor concept building.
+- **Groups ready for structured collaboration**: POGIL assumes learners can work interdependently with guidance.
+- **Learners who benefit from scaffolded inquiry**: Best when exploration is supported rather than fully open.
+- Learners working in collaborative inquiry settings.
+
+### Theory
+#### Supporting
+- Constructivist perspectives — learners build concepts actively from structured exploration.
+- Inquiry-oriented perspectives — understanding deepens through guided questioning and evidence use.
+- Cooperative learning perspectives — group roles and shared reasoning support content and process development.
+- [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
+- [Social Learning](../theories/sociocultural-theory.md)
+#### Contradicting / Qualifying
+- POGIL still needs enough guidance for novices; it is not a defense of minimal instruction.
+- Some straightforward procedural content may be more efficiently taught with direct demonstration first.
+
+### Claims
+#### Supporting
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M]
+- [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
+- [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [~M]
+#### Contradicting
+- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M]
+
+## Design
+
+### Sequence
+1. Present a model, representation, or dataset for learners to explore.
+2. Use sequenced questions to guide pattern noticing and interpretation.
+3. Have learners articulate the concept or principle they infer.
+4. Move into application tasks that test and extend the concept.
+5. Debrief both the content and the group's inquiry process.
+
+### Elements Used
+- [Scaffolded Inquiry](../elements/scaffolded-inquiry.md)
+- [Structured Questioning](../elements/structured-questioning.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Practice](../elements/practice.md)
+- [Guided Discovery](../elements/guided-discovery.md)
+- [Differentiated Team Roles](../elements/differentiated-team-roles.md)
+- [Peer Explanation](../elements/peer-explanation.md)
+
+### Affordances
+- [Inquiry-based Learning](../principles/inquiry-based-learning.md)
+- [Peer Discussion](../principles/peer-discussion.md)
+- [Guided Practice](../principles/guided-practice.md)
+- [Purposeful Reflection](../principles/reflection.md)
+
+### Personalization
+- Teams can have differentiated roles that support participation and accountability.
+- Instructors can vary the amount of structure in the prompts depending on learner readiness.
+- Application tasks can be tuned for different pacing or complexity levels.
+
+## The evidence by question
+
+- *Does adding guidance to inquiry improve what learners learn, and does the kind of guidance matter?* [Guidance during inquiry learning improves post-inquiry learning outcomes (d = 0.50)](../claims/guidance-improves-inquiry-learning-outcomes.md) [+M]
+- *Does inquiry-based teaching raise science achievement over the usual instruction?* [Inquiry Based Teaching Improves Science Achievement](../claims/inquiry-based-teaching-improves-science-achievement.md) [+S]
+
+## Related Patterns
+- [Guided Discovery Learning](../principles/inquiry-based-learning.md)
+
+## Examples
+- Chemistry learners using data and representations to infer a concept before solving related problems.
+- STEM lessons where model analysis leads into concept naming and then application.
+- Online inquiry activities with guided prompts and team roles.
+
+## Impact
+- Offers a middle path between lecture-first instruction and open inquiry.
+- Particularly useful when instructors want both conceptual reasoning and process-skill development.
+
+## Key Sources
+- Moog, R. S., & Spencer, J. N. (Eds.). (2008). *Process oriented guided inquiry learning (POGIL)*. ACS Symposium Series. American Chemical Society. [doi:10.1021/bk-2008-0994](https://doi.org/10.1021/bk-2008-0994)
+- Purkayastha, S., Guntu, M., Ravindran, R., & Surapaneni, A. K. (2019). Learning gains of process-oriented guided inquiry learning in an online course setting. *Proceedings of the European Conference on E-Learning*, 495-504. [doi:10.34190/eel.19.124](https://doi.org/10.34190/eel.19.124)
+- Moog, R. S., & Spencer, J. N. (Eds.). (2008). *Process oriented guided inquiry learning (POGIL)*. ACS Symposium Series. American Chemical Society. [doi:10.1021/bk-2008-0994](https://doi.org/10.1021/bk-2008-0994)
+
+<!- - merged 2026-10-02 from patterns/pogil ("POGIL"), a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# POGIL
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 1 claim (1 mixed) · 2 studies (1 quant-synthesis, 1 associational), `q2`–`q3` · 0 of 2 report an effect size
+
+## Description
+POGIL is the short-form canonical target for Process-Oriented Guided Inquiry Learning. It combines guided discovery with structured team roles and process skill development.
+
+## Implications
+
+### Context
+#### Requirements
+- **Structured inquiry tasks**
+- **Small-group roles**
+- **Facilitation rather than direct telling**
+#### Constraints
+- **Requires good task design and group norms**
+#### Grain Size
+- Lesson
+- Unit
+
+### Target Goals
+- Build conceptual understanding and process skills through guided inquiry.
+
+### Target Learners
+- Learners working in collaborative inquiry settings.
+
+### Theory
+#### Supporting
+- [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
+- [Social Learning](../theories/sociocultural-theory.md)
+
+### Claims
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]
+
+## Design
+
+### Elements Used
+- [Guided Discovery](../elements/guided-discovery.md)
+- [Differentiated Team Roles](../elements/differentiated-team-roles.md)
+- [Peer Explanation](../elements/peer-explanation.md)
+
+### Related Patterns
+- [Process-Oriented Guided Inquiry Learning (POGIL)](inquiry-based-learning.md)
+
+## Key Sources
+- Moog, R. S., & Spencer, J. N. (Eds.). (2008). *Process oriented guided inquiry learning (POGIL)*. ACS Symposium Series.
+- ->
 -->

@@ -43,4 +43,5 @@ The same MANOVA found school type significant with Pillai's V = 0.12; univariate
 
 
 ## Related Claims
--
+
+- [Both a VR application and a traditional lesson increased students' self-appraised knowledge about the Amazon rainforest and biodiversity](vr-and-traditional-lesson-increase-self-appraised-knowledge.md)

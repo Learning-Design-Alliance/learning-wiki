@@ -46,6 +46,7 @@ The second CRITICS component is a Teaching and Learning Sequence generator that 
 ## Related Designs
 
 - [CRITICS three-component ecosystem for cross-lingual scientific knowledge transfer](critics-three-component-ecosystem.md)
+- [Script mechanics as data-structure transformations between phases](script-mechanics-data-structure-transformations.md)
 
 ## Examples
 -

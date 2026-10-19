@@ -112,6 +112,7 @@ These models feed three uses that benefit learners directly: **automated feedbac
 - [Immediate Feedback](immediate-feedback.md)
 - [Predictive-model approach using school and child welfare agency data to flag near-term academic risk](../research-methods/early-warning-indicator-construction.md)
 - [Student-facing dashboard for online and distance education with selected features](student-facing-dashboard-online-distance-education.md)
+- [Early Detection System (EDS) built on standardized HStatG administrative student data](hstatg-administrative-data-eds.md)
 
 ## Examples
 - Purdue's Course Signals project — mined LMS, student-information-system, and gradebook data to give instructors near-real-time, color-coded risk indicators and suggested interventions, improving student help-seeking and retention when instructors acted on the signals

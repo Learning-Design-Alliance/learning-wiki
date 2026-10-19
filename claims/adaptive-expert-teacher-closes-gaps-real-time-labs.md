@@ -43,7 +43,9 @@ The editorial reports, from Ingulfsen et al.'s detailed interaction analysis of 
 
 
 ## Related Claims
+
 - [CSCL designers tend to leave gaps between the technical and social design of learning environments](cscl-designers-gaps-technical-social-design.md) — related
 - [Design features of the CSCL environment — procedural-only educational inscriptions on the website and the storyline of the 3D model — pulled interactions toward procedural problem solving](website-inscriptions-procedural-only.md) — related
 - [In a CSCL biology problem-solving session, procedural problem solving tended to dominate students' interactions, with conceptual knowledge construction present only where strictly necessary](procedural-dominance-cscl-biology.md) — related
 - [Students perceived online lab exercises as more effective when instructors were present online and used scaffolds and probes directing attention to key procedure aspects](online-labs-better-with-instructor-scaffolds.md) — related
+- [Cognitively oriented challenges dominated student help requests during computer-supported lab work, with 45.1% conceptual and 28.7% cognitive-regulation requests](help-requests-mostly-conceptual-cogreg.md)

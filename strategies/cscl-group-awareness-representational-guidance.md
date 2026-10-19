@@ -17,7 +17,7 @@ sources:
 # Design CSCL environments for group awareness and representational guidance to cut coordination load
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends that CSCL environments be designed to support group awareness (knowledge of how the group is functioning and how expertise is divided) and to stimulate students to explicate claims and arguments via representational guidance. It reasons this 'reduces unproductive transactive activities and, thus, their cognitive load', which in turn protects the freed working memory capacity for schema construction rather than non-learning communication.
@@ -39,8 +39,15 @@ The article recommends that CSCL environments be designed to support group aware
 ### Affordances
 - Collaborative Cognitive Load Principles Table
 
+## Claims
+
+- [Communication and coordination costs of transactive activities can annul the benefit of sharing cognitive load in a group](../claims/transactive-costs-annul-load-sharing-benefit.md) [+W]
+- [Unrecognised prior-knowledge asymmetry and absent prior group experience negatively affect learning in complex collaborative tasks](../claims/knowledge-asymmetry-prior-experience-harm-collaboration.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Providing Multiple Means of Representation](providing_multiple_means_of_representation.md)
+- [Design CSCL environments to remind learners to think as a group and scaffold cognitive group awareness](reminders-group-thinking-and-group-awareness-cscl.md)
 
 ## Examples
 -

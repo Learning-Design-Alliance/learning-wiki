@@ -37,7 +37,9 @@ The article recommends supplying a detailed, task-relevant rubric when prompting
 - generating high-quality, criterion-referenced feedback on argumentative writing
 
 ## Related Strategies
-- 
+
+- [Provide LLM graders with the full human rubric, accepted solutions, and common-mistake penalties in the prompt (rubric-enhanced prompting)](rubric-enhanced-llm-grading-prompt.md)
+- [Reserve LLM grading for short, well-structured tasks with explicit rubrics or exemplar answers, newer models, and stable API pipelines](reserve-llm-grading-for-structured-rubric-tasks.md)
 
 ## Examples
 -

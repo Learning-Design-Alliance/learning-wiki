@@ -17,7 +17,7 @@ sources:
 # Use an intermediate game-jam duration of about 6 hours, long enough for teams to pass through the first four development phases
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The authors opted for 6-hour events instead of the standard 48-hour format, arguing shorter events cannot support a quality collaborative and creative process. They state that with fewer than 6 h "a quality collaborative and creative process cannot take place", because teams must transit the first four phases to turn ideas into playable products, while participants experienced the short duration as part of the challenge.
@@ -38,8 +38,13 @@ The authors opted for 6-hour events instead of the standard 48-hour format, argu
 ### Target Learning Goals
 - creative problem-solving and collaboration under time constraints
 
+## Claims
+
+- [Individual and teamwork challenges (language barriers, personality, competition, skill screening, software, duration) can affect game jam learning processes](../claims/game-jam-challenges-4c-affected.md) [~W]
+
 ## Related Strategies
-- 
+
+- [Staff game jams with tutors who have pedagogical, technological, collaborative and creative competencies, plus volunteers for materials and technical support](game-jam-tutor-competencies-resources.md)
 
 ## Examples
 -

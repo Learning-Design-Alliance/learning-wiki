@@ -62,4 +62,7 @@ Two-step mediation (prompt → perceived relevance → relative processing time 
 
 
 ## Related Claims
--
+
+- [A separation prompt does not improve learning with seductive details, and higher integration avoidance predicts worse transfer, disfavouring the disruption explanation](separation-prompt-fails-disruption-disfavored.md)
+- [No seductive details effect on transfer was observed, and no definitive conclusions about comprehension effects can be drawn from the multiple-choice transfer data](no-transfer-effect-seductive-details.md)
+- [Extraneous cognitive load did not mediate the detrimental effect of seductive details in this online study](ecl-mediation-not-replicated-online.md)

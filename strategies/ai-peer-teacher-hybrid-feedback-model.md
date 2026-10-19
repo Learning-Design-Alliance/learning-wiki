@@ -52,6 +52,7 @@ The article proposes a staged hybrid feedback workflow for L2 writing instructio
 - [Revision Cycles](revision-cycles.md)
 - [Calibrate AI writing support by providing contextual feedback, dialogic scaffolding, and initiative matched to learner needs and task complexity](calibrate-agent-initiative-to-learner-needs.md)
 - [Implement AI-assisted report feedback through a four-stage phased pathway beginning with mature low-level tools](phased-four-stage-ai-feedback-implementation.md)
+- [Have students compare their peer-feedback revisions with AI-generated revisions to examine dialogic positioning](compare-peer-and-ai-revisions-dialogic-positioning.md)
 
 ## Examples
 -

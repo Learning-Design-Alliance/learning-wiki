@@ -13,7 +13,7 @@ generated:
 # Extended 36-trial Red-Blue Test
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A computer-based Stroop/Day-Night-adapted assessment for early primary school children that measures inhibitory control through 36 rule-reversal color-naming trials scored by accuracy.
@@ -24,8 +24,12 @@ A computer-based Stroop/Day-Night-adapted assessment for early primary school ch
 
 ### Claims
 
+- [Fall RRRP performance is significantly associated with independent measures of working memory, attention, and inhibitory control in third graders](../claims/rrrp-associated-with-self-regulation-measures.md) [+W]
+
 ## Related Products and Programmes
--
+
+- [Head-Toes-Knees-Shoulders (HTKS) task](head-toes-knees-shoulders-htks-task.md)
+- [Remembering Rules and Regulation Picture Task (RRRP)](remembering-rules-and-regulation-picture-task-rrrp.md)
 
 ## Key Sources
 - Chen Y, Wang Y, Wang S, Zhang M and Wu N. (2021). Self-Reported Sleep and Executive Function in Early Primary School Children. Front. Psychol. 12:793000. https://doi.org/10.3389/fpsyg.2021.793000

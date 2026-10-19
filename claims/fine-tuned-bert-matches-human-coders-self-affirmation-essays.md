@@ -44,6 +44,7 @@ Interrater reliability analysis on an out-of-sample comparison dataset of 134 do
 
 
 ## Related Claims
+
 - [The fine-tuned BERT model's classification performance is consistent across stereotype-threatened and non-threatened students and other demographic subgroups](bert-consistent-performance-across-student-subgroups.md) — related
 - The BERT model's errors are predominantly false positives, and in most disagreements with the original coder its predictions aligned with second-round human coding — related
 - [The fine-tuned BERT model generalizes to an external dataset collected by a different research team, maintaining almost perfect agreement with human coders](bert-generalizes-external-self-affirmation-dataset.md) — related
@@ -55,3 +56,4 @@ Interrater reliability analysis on an out-of-sample comparison dataset of 134 do
 - An independent human second coder reached moderate agreement (kappa = 0.395) with the AI-assisted primary coding on the five-category outcome — related
 - [GPT-4 achieved almost perfect inter-rater reliability with faculty after three iterations of rubric engineering on three of four medical school OEQ questions](gpt4-almost-perfect-irr-after-rubric-engineering.md) — a narrower finding that bears on this claim
 - [Transformer-based NLP models achieve automated essay scoring with correlations to human grading exceeding 0.85](bert-essay-scoring-correlation-085.md) — related
+- [Coder agreement ranged from 68.57% (identical) to 95% (category coding) across coding stages](sr-coding-interrater-agreement-rates.md)

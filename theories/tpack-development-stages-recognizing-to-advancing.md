@@ -50,6 +50,7 @@ Niess, Sadri and Lee (2007), building on Rogers' innovation-decision process, de
 ## Examples
 
 - [Four-course online TPACK professional development program (SED 520, 521, 522, 594)](../elements/four-course-online-tpack-program-element.md)
+- [Online knowledge-building trajectory built on two tools and two processes](../designs/online-knowledge-building-tools-and-processes-pattern.md)
 
 ## Key Sources
 - Niess, M. L., & Roschelle, J. (2018). Transforming Teachers' Knowledge for Teaching Mathematics with Technologies through Online Knowledge-Building Communities. Proceedings of the 40th annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education, Greenville, SC. https://www.pmena.org/proceedings/

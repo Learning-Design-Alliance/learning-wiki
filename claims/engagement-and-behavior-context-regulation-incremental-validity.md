@@ -43,4 +43,5 @@ Authors' interpretation of the Step 2 regression results, reporting "unique incr
 
 
 ## Related Claims
--
+
+- [A reduced set of non-cognitive factors alone explains 17–25% of the variance in university GPA across three years of a degree](noncognitive-factors-explain-17-25-percent-gpa-variance-three-years.md)

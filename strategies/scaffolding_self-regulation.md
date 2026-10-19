@@ -124,6 +124,7 @@ Self-regulatory skill is learnable: strategy instruction embedded in subject-mat
 - [Achievable Micro-Goals](achievable_micro-goals.md) — breaking tasks into manageable steps reduces the dysregulation that scaffolding must then manage
 - [Active Listening](active-listening.md) — the facilitator stance that makes co-regulation and debriefs effective
 - [Action-Oriented Feedback](action-oriented-feedback.md) — feedback on regulation attempts that names what to do next rather than judging
+- [Provide early-grades teachers professional development in non-reactive engagement with dysregulated children and emotionally supportive classroom practices](non-reactive-teacher-pd-for-dysregulated-children.md)
 
 ## Examples
 - **SRSD (Self-Regulated Strategy Development) writing instruction** — a well-validated curriculum model in which teachers model planning strategies for writing, students practice with graphic organizers and self-statements ("What do I do first?"), and supports fade as students internalize the process (see [Graham & Harris's SRSD materials](https://srsdresearch.org)).

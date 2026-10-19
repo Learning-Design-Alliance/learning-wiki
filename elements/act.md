@@ -58,7 +58,7 @@ generated:
 - [Decision Making](decision-making.md)
 
 ## Patterns That Use This Element
-- [Goal-Based Scenarios (GBS)](../patterns/goal-based-scenarios.md)
+- [Goal-Based Scenarios (GBS)](../patterns/anchored-instruction.md)
 - [Problem-Based Learning (PBL)](../patterns/problem-based-learning.md)
 
 ## Examples

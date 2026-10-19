@@ -37,7 +37,8 @@ The editors recommend that authors mature a paper through a sequence of lower-st
 - improving the quality and maturity of research papers through iterative peer feedback
 
 ## Related Strategies
-- 
+
+- [Authentic Audiences and Purposes](authentic_audiences_and_purposes.md)
 
 ## Examples
 -

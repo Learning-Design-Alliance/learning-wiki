@@ -43,4 +43,5 @@ The integrative review of 28 CT-defining manuscripts, coded by two authors indep
 
 
 ## Related Claims
--
+
+- [Systems thinking alone is insufficient for investigating complex systems with time delays and feedback, motivating the addition of computational thinking](st-alone-insufficient-complex-systems.md)

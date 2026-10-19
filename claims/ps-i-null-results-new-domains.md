@@ -81,6 +81,7 @@ The editorial reports, citing Ganaiem and Roll (2025), middle-school students as
 
 
 ## Related Claims
+
 - [In the Bayesian-reasoning problem-solving phase, most students generated only one solution attempt, far fewer than in the original variance study](few-solution-attempts-bayesian-problem-solving.md) — related
 - [No significant interaction between order of phases and type of instruction on conceptual knowledge in the Bayesian-reasoning replication](ps-i-instruction-interaction-null-bayesian.md) — a narrower finding that bears on this claim
 - [In a Bayesian-reasoning replication, problem-solving prior to instruction (PS-I) showed no significant advantage over instruction-first (I-PS) on conceptual knowledge](ps-i-no-effect-conceptual-bayesian-replication.md) — a narrower finding that bears on this claim
@@ -89,3 +90,4 @@ The editorial reports, citing Ganaiem and Roll (2025), middle-school students as
 - [Solution rates in the initial problem-solving phase moderate whether studies find beneficial PS-I effects](solution-rate-moderates-ps-i-benefits.md) — related
 - [Including typical student solutions in explicit instruction showed no significant effect on conceptual knowledge in the Bayesian-reasoning replication](typical-solutions-instruction-no-effect-bayesian.md) — a narrower finding that bears on this claim
 - [Neither instructional sequence produced significant far-transfer effects in either experiment](no-significant-far-transfer-effect-either-sequence.md) — a narrower finding that bears on this claim
+- [Primary school children improved execution of movement features but showed no improvement in javelin throwing distance across all conditions](features-improved-distance-did-not-primary-javelin.md)

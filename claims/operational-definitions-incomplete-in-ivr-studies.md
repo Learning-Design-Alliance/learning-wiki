@@ -43,4 +43,5 @@ Coding of Categories 1 and 2 across 50 comparisons in the systematic review. A c
 
 
 ## Related Claims
--
+
+- [IVR conditions included participatory activities in 50% of comparisons while conventional conditions did so in only 20%](ivr-conditions-more-likely-to-include-activities.md)

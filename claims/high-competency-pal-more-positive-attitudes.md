@@ -43,4 +43,5 @@ Univariate ANOVA from the 2x2 experiment; attitudes toward the PAL were measured
 
 
 ## Related Claims
--
+
+- [PALs expressing positive mood were perceived as more facilitating, engaging, and intelligent than negative-mood PALs](positive-mood-pal-better-perceived.md)

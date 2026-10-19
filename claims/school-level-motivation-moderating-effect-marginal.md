@@ -43,4 +43,7 @@ Mixed-effects moderator analysis for motivation with k = 15 studies; the school 
 
 
 ## Related Claims
--
+
+- [School level moderates cognitive effects of game-based learning in STEM: games are less effective for secondary than primary school students](school-level-moderates-game-cognitive-effects.md)
+- [Effects of game-based learning in STEM education vary substantially across studies, with prediction intervals spanning trivial-to-negative through very strong effects](games-stem-substantial-heterogeneity-prediction-intervals.md)
+- [Evidence of small-study effects exists for cognition and motivation, but trim-and-fill adjustment leaves the moderate motivating effect essentially unchanged](publication-bias-small-study-effects-games-stem.md)

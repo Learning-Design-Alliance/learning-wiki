@@ -163,9 +163,10 @@ Changed participation norms, changed understanding, changed practice and a membe
 - Online communities can function well when they include recurring tasks, visible artifacts, and norms for contribution rather than only informal chat
 - [Support the evolving instructor role with professional development beyond product training, articulated role expectations, and communities of practice](../strategies/instructor-role-evolution-support.md)
 - [Grow-your-own teacher pipelines and institutionalized peer-based professional learning to build a qualified newcomer-school workforce](../strategies/grow-own-teacher-pipeline-newcomer-schools.md)
-- [Ground coaching conversations in the work of children](../patterns/ground-conversations-in-childrens-work.md)
+- [Ground coaching conversations in the work of children](../patterns/professional-development.md)
 - [Take a listening tour of classrooms when beginning work in a new school](../strategies/listening-tour-classroom-observations.md)
 - [Incorporate a method for identifying areas of improvement into PLC models](../strategies/plc-method-identifying-improvement-areas.md)
+- [Structuring PLCs with clear purpose and collaborative-work frameworks (High-Leverage Team Actions)](../designs/structured-plcs-high-leverage-team-actions.md)
 
 ## Key Sources
 - Abedini, A., Abedin, B., & Zowghi, D. (2021). Adult learning in online communities of practice: A systematic review. *British Journal of Educational Technology, 52*(4), 1663-1694. [doi:10.1111/bjet.13120](https://doi.org/10.1111/bjet.13120)
@@ -273,7 +274,7 @@ The author argues that coaching relationships begin when coaches join teachers a
 
 ## Examples
 
-- [Ground coaching conversations in the work of children](../patterns/ground-conversations-in-childrens-work.md)
+- [Ground coaching conversations in the work of children](../patterns/professional-development.md)
 - [Take a listening tour of classrooms when beginning work in a new school](../strategies/listening-tour-classroom-observations.md)
 
 ## Key Sources

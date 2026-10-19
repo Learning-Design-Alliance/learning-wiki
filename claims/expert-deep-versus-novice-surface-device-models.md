@@ -43,4 +43,5 @@ The report summarizes a body of comparative studies of expert and novice technic
 
 
 ## Related Claims
--
+
+- [The report attributes to Clancey (1984) that GUIDON field-test students had difficulty understanding and remembering MYCIN's production rules because reasoning strategies and system knowledge were not represented](guidon-students-could-not-understand-mycin-rules.md)

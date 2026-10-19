@@ -1,5 +1,6 @@
 ---
 type: theory
+id: schmidt-noticing-hypothesis
 title: "Schmidt's noticing hypothesis"
 description: "Schmidt's claim that second language acquisition requires conscious noticing of features in the input, that learners who notice more learn more, and that noticing the gap between one's own output and the target is a route to change."
 canonical: true
@@ -7,12 +8,17 @@ status: review
 generated:
   by: claude/unspecified
   at: 2026-09-30
+sources:
+  - id: rafael-zaccaron-2019
+    resource: "http://dx.doi.org/10.15448/2178-3640.2019.2.32988"
+    title: "Rafael Zaccaron. (2019). Ideas for integrating meaningful immediate repetition tasks in the English as an additional language classroom: promoting fluency. BELT, 10(2). http://dx.doi.org/10.15448/2178-3640.2019.2.32988"
+    author: Rafael Zaccaron
 ---
 
 # Schmidt's noticing hypothesis
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 16 claims (8 for, 6 mixed, 2 against) · 16 studies (5 quant-synthesis, 4 review, 3 qualitative, 2 theoretical, 1 causal, 1 design), `q1`–`q3` · 1 of 16 report an effect size · 14 claims rest on one study
+> **Evidence** · 19 claims (11 for, 6 mixed, 2 against) · 17 studies (5 quant-synthesis, 4 review, 3 qualitative, 2 design, 2 theoretical, 1 causal), `q1`–`q3` · 1 of 17 report an effect size · 17 claims rest on one study
 
 <!-- Hub page (2026-09-30). The Description is compiled from the fetched articles that discuss this theory: eric-ed338037, eric-ej1155586, eric-ej930155, eric-ej1412014, eric-ej1361438, eric-ej1117239, eric-ed507438. The primary works in Key Sources were verified against Crossref but not read. -->
 
@@ -32,10 +38,12 @@ The articles also mark the hypothesis's weak points. Barnawi (eric-ej930155) not
 
 ### Target Learners
 - Second language learners in general. The fetched applications cover EFL college writers (eric-ej930155), German teenage learners of English (eric-ej1155586), primary-age EFL children receiving recasts (eric-ej1361438), and adult learners in the diary study Ellis reports.
+- additional language learners from beginner to upper-intermediate
 
 ### Target Learning Objectives
 - Grammatical and lexical accuracy, especially for forms that communication alone leaves unnoticed.
 - Vocabulary learned incidentally through reading.
+- noticing and improving language form (accuracy) alongside meaning-focused speaking
 
 ## Claims
 
@@ -52,6 +60,9 @@ The articles also mark the hypothesis's weak points. Barnawi (eric-ej930155) not
 - [Successes of form-focused manipulation of input in adult L2 are illusory with respect to linguistic competence, affecting only performance](../claims/form-focused-input-manipulation-illusory-for-competence.md) [-M]
 - [A 1999 conference paper reports, citing White (1991) and Schwartz and Gubala-Ryzak (1992), that explicit negative evidence on English adverb placement produced only superficial change in French learners](../claims/white-adverb-placement-negative-evidence-failed.md) [-M]
 - [Children's drawings suggested they noticed the robot's embedded integration elements and shifted attention from the robot to peer communication](../claims/children-drawings-notice-integration-elements.md) [+W]
+- [Attention Shift Meaning To Form Over Cycles](../claims/attention-shift-meaning-to-form-over-cycles.md) [+M]
+- [Lynch and Maclean's carousel task showed immediate repetition benefits in pronunciation, vocabulary and grammar](../claims/carousel-task-immediate-repetition-benefits.md) [+W]
+- [Immediate task repetition benefits oral performance, including fluency, self-correction and reduced anxiety](../claims/immediate-repetition-benefits-oral-performance.md) [+W]
 
 ## The evidence by question
 - *In second-language grammar, does explicit instruction about a form help more than leaving it to implicit exposure?* [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction, as reported in the reviewed synthesis literature](../claims/explicit-l2-grammar-instruction-superior-to-implicit.md) [+S]
@@ -79,6 +90,9 @@ The articles also mark the hypothesis's weak points. Barnawi (eric-ej930155) not
 - [For child beginner language learners, keep task complexity low or moderate so attention remains available for noticing recasts](../principles/cognitive-load-management.md)
 - [Modeling feedback: an original native-speaker text used as a comparison model](../elements/modeling-feedback-native-speaker-text.md)
 - [Pair form-focused instruction with prompts that push learners to self-repair rather than recasts](../strategies/pair-ffi-with-prompts-not-recasts.md)
+- [Anecdote task (my treasured possession): mingling retelling of a personal story across partner changes](../elements/anecdote-treasured-possession-task.md)
+- [Decision-making restaurant-choice task: pairs merge into larger groups across cycles while re-choosing a restaurant](../elements/decision-making-restaurant-task.md)
+- [Travel fair carousel task: pairs present a destination to rotating visitors across immediate repetition cycles](../elements/travel-fair-carousel-task.md)
 
 ## Key Sources
 - Schmidt, R. W. (1990). The role of consciousness in second language learning. *Applied Linguistics, 11*(2), 129–158. [doi:10.1093/applin/11.2.129](https://doi.org/10.1093/applin/11.2.129)
@@ -86,3 +100,47 @@ The articles also mark the hypothesis's weak points. Barnawi (eric-ej930155) not
 - Schmidt, R. (2001). Attention. In P. Robinson (Ed.), *Cognition and second language instruction* (pp. 3–32). Cambridge University Press. [doi:10.1017/CBO9781139524780.003](https://doi.org/10.1017/CBO9781139524780.003)
 - Schmidt, R., & Frota, S. (1986). Developing basic conversational ability in a second language: A case study of an adult learner of Portuguese. In R. Day (Ed.), *Talking to learn: Conversation in second language acquisition* (pp. 237–326). Newbury House.
 - Robinson, P. (1995). Attention, memory, and the "noticing" hypothesis. *Language Learning, 45*(2), 283–331. [doi:10.1111/j.1467-1770.1995.tb00441.x](https://doi.org/10.1111/j.1467-1770.1995.tb00441.x)
+- Rafael Zaccaron. (2019). Ideas for integrating meaningful immediate repetition tasks in the English as an additional language classroom: promoting fluency. BELT, 10(2). http://dx.doi.org/10.15448/2178-3640.2019.2.32988
+
+<!-- merged 2026-10-19 from principles/post-task-phase-focus-on-form ("Include a post-task phase that directs attention to form and showcases improved performance as part of every repetition task"), a narrower page folded into its canonical page (fragment step): its body as it stood. Its bullets this page lacked were added above.
+
+# Include a post-task phase that directs attention to form and showcases improved performance as part of every repetition task
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+
+## Description
+In the post-task phase the teacher directs focus to form, posing awareness questions about language forms learners struggled with, and it "can serve as an assessment tool" so it should be an inherent part of a task. Because learners sometimes do not notice their improved performance over cycles, the author writes down positive examples observed during performance and works with them on the board so learners can direct attention to form.
+
+## Design Implications
+
+### Context
+#### Requirements
+- The teacher observes performance and records positive examples of improved language to highlight during the post-task phase
+#### Constraints
+- The article frames this within task-based lessons where the task itself keeps attention mainly on meaning during performance
+
+### Target Learners
+- additional language learners from beginner to upper-intermediate
+
+### Target Learning Objectives
+- noticing and improving language form (accuracy) alongside meaning-focused speaking
+
+### Claims
+
+- [Attention Shift Meaning To Form Over Cycles](../claims/attention-shift-meaning-to-form-over-cycles.md) [+M]
+- [Lynch and Maclean's carousel task showed immediate repetition benefits in pronunciation, vocabulary and grammar](../claims/carousel-task-immediate-repetition-benefits.md) [+W]
+- [Immediate task repetition benefits oral performance, including fluency, self-correction and reduced anxiety](../claims/immediate-repetition-benefits-oral-performance.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Anecdote task (my treasured possession): mingling retelling of a personal story across partner changes](../elements/anecdote-treasured-possession-task.md)
+- [Decision-making restaurant-choice task: pairs merge into larger groups across cycles while re-choosing a restaurant](../elements/decision-making-restaurant-task.md)
+- [Travel fair carousel task: pairs present a destination to rotating visitors across immediate repetition cycles](../elements/travel-fair-carousel-task.md)
+
+## Key Sources
+- Rafael Zaccaron. (2019). Ideas for integrating meaningful immediate repetition tasks in the English as an additional language classroom: promoting fluency. BELT, 10(2). http://dx.doi.org/10.15448/2178-3640.2019.2.32988
+-->

@@ -52,7 +52,8 @@ Group processing is defined as a crucial element of cooperative learning in whic
 - 
 
 ## Examples
--
+
+- [Employ group processing regularly in collaborative and team-based education without subordinating it to content-based learning](../strategies/employ-group-processing-regularly-collaborative-education.md)
 
 ## Key Sources
 - Lachowsky, N. J., & Murray, J. (2021). Group Processing: Students Reflections on the Experience and Impact of Group Processing. Journal of Problem Based Learning in Higher Education, 9(2). https://doi.org/10.5278/ojs.jpblhe.v9i2.2883

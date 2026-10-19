@@ -25,7 +25,8 @@ A CCSSO collaboration with the Stanford Center for Assessment, Learning, and Equ
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Lenses on Literature](lenses-on-literature.md)
 
 ## Key Sources
 - Darling-Hammond, L. (2017). Developing and Measuring Higher Order Skills: Models for State Performance Assessment Systems. Council of Chief State School Officers. https://www.ccsso.org

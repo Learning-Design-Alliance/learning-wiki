@@ -38,7 +38,8 @@ The editorial recommends that future research address gaps in the developmental 
 - development of attention control and handling of task-irrelevant information
 
 ## Related Strategies
-- 
+
+- [Include attention regulation and control training in early childhood programs for children from lower socioeconomic backgrounds](attention-training-in-early-childhood-programs-lower-ses.md)
 
 ## Examples
 -

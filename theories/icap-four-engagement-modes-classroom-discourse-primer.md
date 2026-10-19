@@ -46,6 +46,7 @@ The primer introduces the ICAP framework as a way of categorizing how students e
 ## Examples
 
 - [Upgrade learning activities to a higher ICAP mode rather than aiming for perfect mode classification](../strategies/upgrade-activities-to-higher-icap-mode.md)
+- [ICAP-CG lesson-task engagement coding protocol](../research-methods/icap-cg-lesson-task-engagement-coding-protocol.md)
 
 ## Key Sources
 - Schank, P., Jenks, L., Barth, C., Crawford, C., Powers, K., & Fusco, J. (2025, May). Classroom Discourse. Digital Promise. https://doi.org/10.51388/20.500.12265/250

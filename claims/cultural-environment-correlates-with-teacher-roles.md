@@ -43,4 +43,7 @@ Correlational analysis (Table 7, Pearson correlations) across the combined Chine
 
 
 ## Related Claims
--
+
+- [Chinese university teachers stress the expert, authority and model teacher roles to a larger extent than Flemish teachers, with no group difference in facilitator or delegator roles](chinese-teachers-stress-expert-authority-model-roles-more.md)
+- [Teachers' adoption of online collaborative learning is associated with constructivist beliefs, facilitator/delegator roles, perceived need for innovation, and institutional conditions](teacher-and-contextual-variables-related-to-innovation-adoption.md)
+- [Student-centered philosophies correlate with personal, facilitator and delegator teaching styles](student-centered-philosophies-correlate-student-centered-styles.md)

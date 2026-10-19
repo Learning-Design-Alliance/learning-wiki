@@ -43,6 +43,8 @@ Descriptive analysis of a 12-question multiple-choice Canvas questionnaire admin
 
 
 ## Related Claims
+
 - [Familiarity with ChatGPT is positively correlated with frequency of academic use](chatgpt-familiarity-correlates-academic-use.md) — related
 - [Familiarity with ChatGPT among MSc computer science students is spread across levels, with about one-fifth not familiar at all](cs-students-chatgpt-familiarity-distribution.md) — related
 - [Students see obtaining explanations for their doubts as ChatGPT's most useful role in learning computer science](students-rate-explanations-as-chatgpt-most-useful-learning-role.md) — related
+- [African and Asian students did not differ significantly in their answers about ChatGPT](no-background-difference-in-chatgpt-opinions.md)

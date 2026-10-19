@@ -17,7 +17,7 @@ sources:
 # Scaffold the cognitive processes of interdisciplinary understanding during collaborative modeling
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The authors recommend that future work examine effective ways to structure students' interactions and scaffold the cognitive processes associated with interdisciplinary understanding as students figure out a phenomenon from diverse perspectives. They note that collaborative modeling involving multiple expertise "can also lead to conflict and misunderstanding due to different perspectives and non-overlapping expertise", and that integrating separate models while ensuring syntactical quality and shared understanding remains a challenge. The study's findings on time allocation across processes motivate targeting scaffolds at transforming knowledge and maintaining a critical stance.
@@ -36,6 +36,10 @@ The authors recommend that future work examine effective ways to structure stude
 ### Target Learning Goals
 - interdisciplinary discourse
 - merging disciplinary perspectives
+
+## Claims
+
+- [Groups' success in merging perspectives was related to the time they allocated to the interdisciplinary cognitive processes, especially transforming knowledge and critical stance](../claims/time-allocation-relates-to-merging-extent.md) [+W]
 
 ## Related Strategies
 - 

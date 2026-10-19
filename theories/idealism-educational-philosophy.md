@@ -40,7 +40,7 @@ For Idealists, teaching focuses on moral excellence that benefits society. Stude
 - [Pragmatism and Progressivism (Educational Philosophy)](pragmatism-and-progressivism-educational-philosophy.md) — a later tradition explicitly rejecting both Idealism's and Realism's assumption of a fixed, unchanging reality
 
 ## Examples
-- [Socratic Seminar](../patterns/socratic-seminar.md) — the idealist teaching method of dialogue aimed at bringing understanding to consciousness through structured questioning
+- [Socratic Seminar](../elements/socratic-seminar.md) — the idealist teaching method of dialogue aimed at bringing understanding to consciousness through structured questioning
 
 ## Key Sources
 - Arduini-Van Hoose, N. (2020). Teaching philosophy. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.

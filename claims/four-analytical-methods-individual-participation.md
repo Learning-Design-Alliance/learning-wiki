@@ -43,4 +43,6 @@ The review's RQ3 synthesis summarizes four analytical method types (descriptive 
 
 
 ## Related Claims
--
+
+- [Three big data methods—text classification, cluster analysis, and social network analysis—can each yield insights into learning in mass collaboration](three-big-data-methods-insights-mass-collaboration.md)
+- [Wikipedia clusters representing social and biomedical views on schizophrenia merged toward the integrative diathesis-stress model while the psychoanalytic cluster stayed isolated](schizophrenia-cluster-merger-diathesis-stress.md)

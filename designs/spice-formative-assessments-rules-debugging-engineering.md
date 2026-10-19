@@ -40,7 +40,9 @@ SPICE (Science Projects Integrating Computing and Engineering) is "a three-week 
 - 
 
 ## Related Designs
-- 
+
+- [Eight-week MI module sequence with assignments and compact assessment rubric](eight-week-mi-module-sequence-rubric.md)
+- [Luminous Science Transdisciplinary Curriculum](luminous-science-transdisciplinary-curriculum.md)
 
 ## Examples
 -

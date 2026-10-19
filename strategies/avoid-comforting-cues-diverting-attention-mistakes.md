@@ -40,7 +40,9 @@ Based on the finding that attention to mistakes is a crucial mechanism of post-e
 - Pe Attention Allocation Mindset Theory
 
 ## Related Strategies
-- 
+
+- [Behavioral Feedback for Correct and Incorrect Responses](behavioral-feedback-for-responses.md)
+- [Mistake-Friendly Classroom](mistake-friendly_classroom.md)
 
 ## Examples
 -

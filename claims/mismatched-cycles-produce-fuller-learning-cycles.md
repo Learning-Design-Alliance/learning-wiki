@@ -43,4 +43,6 @@ Cross-case comparison of the four analyzed encounters. In Case B (HCC- & HCW+) t
 
 
 ## Related Claims
--
+
+- [In encounters where both parties are predominantly expansive, early cycle actions such as questioning and modeling are typically absent and the focus is on implementing and consolidating](both-expansive-encounters-skip-early-cycle-actions.md)
+- [Clients shifted between defensive and expansive stances nearly twice as often as workers, and initiatives connected to physical actions were more effective than verbal hints at triggering shifts](stance-shifts-clients-outpace-workers-physical-actions-effective.md)

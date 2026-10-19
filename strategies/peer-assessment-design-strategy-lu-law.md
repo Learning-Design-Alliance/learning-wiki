@@ -17,7 +17,7 @@ sources:
 # Design peer assessment to encourage specific problem-identifying feedback, suggestions, and affective support rather than grades alone
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (3 for, 1 against) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article's implications for teachers designing peer assessment: ask students "to be specific in their feedback, particularly with regard to the problems in assessees' work, and to provide suggestions"; scaffold assessment processes, especially for weak students; encourage exchanging affective comments giving socio-emotional support; and have students explain why they assigned particular grades rather than simply assigning grades.
@@ -35,6 +35,13 @@ The article's implications for teachers designing peer assessment: ask students 
 
 ### Target Learning Goals
 - improved project performance through formative peer assessment
+
+## Claims
+
+- [Cognitive feedback benefits assessors rather than assessees, and weak students do not benefit from receiving more feedback](../claims/cognitive-feedback-benefits-assessors-not-assessees.md) [-W]
+- [Giving feedback that identifies problems in peers' work is a significant predictor of assessors' own project performance](../claims/giving-problem-identification-feedback-predicts-assessor-performance.md) [+W]
+- [Giving suggestions to peers is a significant predictor of assessors' own project performance](../claims/giving-suggestions-predicts-assessor-performance.md) [+W]
+- [Receiving positive affective feedback from peers is a significant predictor of assessees' project performance](../claims/receiving-positive-affective-feedback-predicts-assessee-performance.md) [+W]
 
 ## Related Strategies
 - 

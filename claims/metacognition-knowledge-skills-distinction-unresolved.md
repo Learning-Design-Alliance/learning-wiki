@@ -43,4 +43,6 @@ Editorial argument by the journal's editor that the interchangeable use of metac
 
 
 ## Related Claims
--
+
+- [The complex interaction between cognition and metacognition is hard to disentangle because the constructs rely on and influence each other and share processes](cognition-metacognition-interaction-dilemma.md)
+- [The field of metacognition lacks a unified definition, impeding theoretical integration across disciplines](metacognition-lacks-unified-definition.md)

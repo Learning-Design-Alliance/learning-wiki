@@ -43,4 +43,5 @@ Qualitative pilot study of discharge planning: one study staff member conducted 
 
 
 ## Related Claims
--
+
+- [Applying the adapted CTA framework in the discharge pilot uncovered previously unknown stakeholders and barriers](cta-application-revealed-hidden-process-knowledge.md)

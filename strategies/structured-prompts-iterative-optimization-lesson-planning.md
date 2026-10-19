@@ -37,7 +37,8 @@ The article proposes key methods for AI-assisted lesson planning, highlighting s
 - Efficient, high-quality lesson planning for STEAM art education
 
 ## Related Strategies
-- 
+
+- [Educators gamify learning materials or create learning games using generative AI with iterative, phased prompting](gamifying-learning-materials-with-generative-ai.md)
 
 ## Examples
 -

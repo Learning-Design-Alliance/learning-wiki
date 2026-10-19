@@ -43,4 +43,5 @@ Coding of the 36 think-aloud protocols showed labeling utterances (valuing text 
 
 
 ## Related Claims
--
+
+- [Linguistic selection reasons were uttered most regardless of the selection task, suggesting a default linguistic selection strategy](linguistic-default-selection-strategy.md)

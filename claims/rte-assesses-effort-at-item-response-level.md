@@ -43,6 +43,7 @@ The article's abstract reports, citing prior work, that Response Time Effort (RT
 
 
 ## Related Claims
+
 - [Computer-based testing's routine capture of item-level response times has driven increased interest in applications of response time to measuring ability and achievement](computer-based-testing-drives-response-time-interest.md) — related
 - [A general process for measuring item-level effort extends effort measurement to omitted and constructed responses](general-item-level-effort-process-expanded-item-types.md) — related
 - [RTE is limited to selected-response items that must be answered before advancing](rte-limited-to-answered-selected-response-items.md) — related
@@ -53,3 +54,4 @@ The article's abstract reports, citing prior work, that Response Time Effort (RT
 - Effort-moderated scoring yields more accurate achievement scores and better person fit than traditional MLE scoring when rapid guessing is present — related
 - An effort-guided CAT that holds the provisional achievement estimate constant after rapid guesses reduces standard errors and ameliorates severe item mis-targeting — related
 - [Responses used in effort-moderated scoring can sometimes reflect less-than-full, or partial, engagement, making E-M scores less trustworthy](em-scoring-responses-can-show-partial-engagement.md) — related
+- [The general effort-measurement process is illustrated with data from a large-scale assessment program](effort-process-illustrated-large-scale-assessment-data.md)

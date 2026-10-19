@@ -43,6 +43,8 @@ Hierarchical-resampling simulations from 46 confidence-database datasets tested 
 
 
 ## Related Claims
+
 - [HMeta-d's false positive rate depends on study design and prior specification: independent group priors inflate it, priors on the group difference fix it, and default priors for continuous predictors yield a rate below 5%](hmeta-d-false-positive-rate-prior-dependent.md) — related
 - [Summary-statistic measures of metacognitive accuracy (gamma, type 2 ROC, meta-d′, meta-da) maintain a false positive rate consistent with the nominal 5% alpha level in group comparisons](summary-statistics-metacognitive-accuracy-adequate-false-positive-rate.md) — related
 - [T-testing raw meta-d′/d′ or meta-da/da yields a false positive rate below 5%; log transformation or the Mann–Whitney U-test restores an adequate rate](meta-d-ratio-ttest-low-false-positive-rate.md) — related
+- [Regularization-based graphical modeling has key drawbacks, including difficulty obtaining valid parameter uncertainty and inflated false positive rates](regularization-drawbacks-uncertainty-false-positives.md)

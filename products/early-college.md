@@ -28,6 +28,7 @@ A whole-school dual-enrollment programme run through district-college partnershi
 
 - [Indiana College Core](indiana-college-core.md)
 - [OnRamps](onramps.md)
+- [Dual Enrollment Equity Pathway (DEEP) framework](dual-enrollment-equity-pathway-deep-framework.md)
 
 ## Key Sources
 - Johnson, Angela, and Diana Mercado-Garcia. (2020). The Effects of Early College Opportunities on English Learners. (EdWorkingPaper: 20-232). Annenberg Institute at Brown University. https://edworkingpapers.com/ai20-232

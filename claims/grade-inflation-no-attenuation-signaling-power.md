@@ -43,4 +43,6 @@ The article reports, citing Pattison, Grodsky, and Muller (2013), that analysis 
 
 
 ## Related Claims
--
+
+- [Contextualized high school GPA had a stronger relationship with college success than contextualized standardized test scores (Bastedo et al., attributed)](contextualized-gpa-stronger-than-contextualized-test-scores.md)
+- [On-track improvements were accompanied by across-the-board grade gains, not grade inflation from turning Fs into Ds](on-track-gains-not-driven-by-grade-inflation.md)

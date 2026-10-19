@@ -43,4 +43,5 @@ Study 1 repeated measures ANCOVA with within-subject factors time, subject-focus
 
 
 ## Related Claims
--
+
+- [After a dialogic-focused professional development intervention, mathematics teachers noticed student dialogue significantly more, in both attending (83 to 170 cases) and responding (24 to 71 cases)](pd-intervention-increases-teacher-dialogue-noticing.md)

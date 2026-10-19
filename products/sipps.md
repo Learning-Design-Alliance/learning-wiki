@@ -35,6 +35,7 @@ SIPPS (Systematic Instruction in Phonological Awareness, Phonics, and Sight Word
 ## Related Products and Programmes
 
 - [SSL](ssl.md)
+- [Superkids Reading Program](superkids-reading-program.md)
 
 ## Key Sources
 - SIPPS program description and outcomes review. (2022). https://www.evidenceforessa.org/

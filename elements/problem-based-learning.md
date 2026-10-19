@@ -56,7 +56,7 @@ Problem-based learning, as an element, refers to the use of an authentic or ill-
 
 ## Patterns That Use This Element
 - [Problem-Based Learning](../patterns/problem-based-learning.md)
-- [Goal-Based Scenarios](../patterns/goal-based-scenarios.md)
+- [Goal-Based Scenarios](../patterns/anchored-instruction.md)
 
 ## Examples
 - A case, challenge, or scenario that learners must investigate before formal explanation.

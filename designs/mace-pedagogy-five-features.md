@@ -43,7 +43,8 @@ The MACE pedagogy is an explanatory framework for integrated geometry and visual
 - [Mace No Gat Advantage](../claims/mace-no-gat-advantage.md) [~M]
 
 ## Related Designs
-- 
+
+- [CREATE: a six-strategy meta-creative pedagogy for fostering creative thinking](create-meta-creative-pedagogy.md)
 
 ## Examples
 -

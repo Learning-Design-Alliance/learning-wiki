@@ -61,4 +61,6 @@ Paired samples t test on the 2008 cohort's pretest-posttest scores showed "a sig
 
 
 ## Related Claims
--
+
+- [The study could not determine whether knowledge gains transferred to participants' classroom teaching](no-follow-through-classroom-transfer-unknown.md)
+- [Preservice special educators in the 2009 cohort showed significant pretest-to-posttest knowledge gains, with instruction replicated consistently across years](2009-cohort-significant-literacy-knowledge-gains.md)

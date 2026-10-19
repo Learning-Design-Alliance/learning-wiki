@@ -39,6 +39,7 @@ The review identifies the conditions under which agreement with human grades was
 ## Related Strategies
 
 - [Translate deductive coding rubrics into structured zero-shot prompts to compare LLM coding against human coding](zero-shot-prompt-codebook-translation-strategy.md)
+- [Include an explicit rubric in GenAI feedback prompts, even in Zero-shot conditions](include-explicit-rubric-in-genai-feedback-prompts.md)
 
 ## Examples
 -

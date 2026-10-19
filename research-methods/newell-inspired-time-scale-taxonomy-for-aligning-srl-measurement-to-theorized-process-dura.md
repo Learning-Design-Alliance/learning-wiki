@@ -24,7 +24,8 @@ Adapting Newell's bands taxonomy from cognitive science, the article proposes th
 ### Claims
 
 ## Related Research Methods
--
+
+- [Trace parser with action library and process library for measuring SRL from multi-channel data](trace-parser-with-action-library-and-process-library-for-measuring-srl-from-multi-channel.md)
 
 ## Key Sources
 - Ben-Eliyahu, A., & Bernacki, M. L. (2015). Addressing complexities in self-regulated learning: a focus on contextual factors, contingencies, and dynamic relations. Metacognition and Learning, 10, 1–13. https://doi.org/10.1007/s11409-015-9134-6

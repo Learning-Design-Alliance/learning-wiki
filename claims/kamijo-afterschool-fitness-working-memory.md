@@ -43,7 +43,10 @@ Nine-month daily afterschool physical activity program study by Kamijo et al. in
 
 
 ## Related Claims
+
 - [Cardiorespiratory fitness (VO2max) is the physical fitness measure most strongly correlated with cognitive functioning in adolescents](vo2max-best-correlated-cognition.md) — related
 - [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](classroom-physical-activity-improves-attention.md) — related
 - [Fitness associations with academic achievement are attenuated or disappear after adjustment for BMI and cardiorespiratory fitness, indicating inter-dependence](fitness-academic-associations-interdependent-bmi-crf.md) — related
 - [Field-based cardiorespiratory fitness is positively associated with writing and written expression skills in children with overweight/obesity](crf-associated-writing-skills-overweight-obese-children.md) — related
+- [Longitudinal physical activity programs have a positive effect on academic performance in preadolescent children (g = 0.26)](longitudinal-physical-activity-improves-academic-performance.md)
+- [Longitudinal physical activity programs show a positive effect on attention in preadolescent children (g = 0.90), based on a single study](longitudinal-physical-activity-improves-attention-single-study.md)

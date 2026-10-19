@@ -43,4 +43,6 @@ ANOVA on the decorrelated flexibility measure (fluency partialled out) in the sa
 
 
 ## Related Claims
--
+
+- [Fluency in the Alternative Uses Task was unaffected by stimulus condition and unrelated to selective attention](fluency-unaffected-by-stimulus-condition-and-attention.md)
+- [Selective attention moderated the effect of stimulus condition on children’s originality: better selective attention favoured the low stimulus environment, weaker selective attention the high stimulus environment](selective-attention-moderates-stimulus-effect-originality.md)

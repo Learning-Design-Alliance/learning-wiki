@@ -43,4 +43,6 @@ Repeated-measures MANOVA on CK, PK, and PCK pre–post knowledge tests in the th
 
 
 ## Related Claims
--
+
+- [Interaction volume during AI-supported practice sessions did not differ significantly across conditions, supporting comparability of practice exposure](practice-exposure-comparable-across-conditions.md)
+- [Relevance instructions and guiding questions both improve pre-service teachers' first-order knowledge integration in a reading- and writing-based learning setting with three domain-specific texts](prompts-improve-first-order-knowledge-integration.md)

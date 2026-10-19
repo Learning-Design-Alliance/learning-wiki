@@ -17,7 +17,7 @@ sources:
 # Ten shared goals at the ACE-VET interface where closer cooperation would have mutual benefit
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report identifies ten areas at the interface between the ACE sector and the national VET system, expressed as goals to which both sectors could commit, where "closer co-operation would have mutualbenefit". The goals include increasing the proportion of national VET funds accessible to registered ACE providers, increasing ACE providers' ability to compete in the open training market, reporting on cross-sectoral collaboration, achieving nationally consistent reporting approaches, reducing the scope of the AVETMISS collection, minimising negative impacts on General Adult Education, clarifying the relationship with Aboriginal education, monitoring labour market program changes, ensuring comprehensive ACE sector input, and reviewing the National Policy on ACE. Some goals are best pursued nationally, others at State and Territory level.
@@ -37,6 +37,10 @@ The report identifies ten areas at the interface between the ACE sector and the 
 ### Target Learning Goals
 - vocational education and training outcomes
 - access and equity in training participation
+
+## Claims
+
+- [Cross-sector education partnerships that overcome common challenges are characterized by shared goals, mutually reinforcing activities, and effective communication](../claims/cross-sector-partnership-success-characteristics.md) [+W]
 
 ## Related Strategies
 

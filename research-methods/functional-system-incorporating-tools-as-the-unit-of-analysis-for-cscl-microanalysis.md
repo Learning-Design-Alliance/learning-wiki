@@ -24,7 +24,8 @@ Arnseth and Krange argue, building on Vygotsky and Wertsch, that "the unit of an
 ### Claims
 
 ## Related Research Methods
--
+
+- [Theory-driven units of analysis for educational dialogue across multiple timescales](theory-driven-units-of-analysis-for-educational-dialogue-across-multiple-timescales.md)
 
 ## Key Sources
 - Sten Ludvigsen, Ulrike Cress, Nancy Law, Carolyn P. Rosé, & Gerry Stahl. (2016). Collaboration scripts and scaffolding. International Journal of Computer-Supported Collaborative Learning, 11, 381–385. https://doi.org/10.1007/s11412-016-9247-1

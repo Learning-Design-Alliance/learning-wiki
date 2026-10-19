@@ -41,7 +41,8 @@ The article recommends designing mobile language learning so that learning activ
 - [Tam Pcv Extension Mobile Learning](../theories/tam-pcv-extension-mobile-learning.md)
 
 ## Related Strategies
-- 
+
+- [Design mobile learning around the features students already use frequently, while recognising this is not a panacea](design-mobile-learning-around-frequent-features.md)
 
 ## Examples
 -

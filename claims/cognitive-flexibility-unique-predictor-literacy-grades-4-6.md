@@ -43,5 +43,7 @@ Two-step hierarchical regression with 203 sixth graders predicting teacher-assig
 
 
 ## Related Claims
+
 - [Executive function measures predict early mathematics achievement over and above reading ability and IQ](executive-functions-predict-early-math-over-iq.md) — related
 - [Snippet selection contributes to integration quality over and above reading fluency and reading comprehension](snippet-selection-predicts-integration-above-reading-skills.md) — a narrower finding that bears on this claim
+- [ASD shows a distinct executive dysfunction profile of impaired cognitive flexibility and planning with intact inhibitory control](asd-flexibility-deficit-intact-inhibition.md)

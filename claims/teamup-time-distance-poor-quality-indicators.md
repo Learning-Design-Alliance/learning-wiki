@@ -43,4 +43,6 @@ Regression analysis of team structure and quality factors on the three in-game p
 
 
 ## Related Claims
--
+
+- [Team psychological safety and team member exchange are not significantly correlated with TEAMUP in-game performance indicators](teamup-psych-safety-exchange-null.md)
+- [TEAMUP in-game performance varies widely across teams, with errors ranging from 2 to 37](teamup-performance-wide-distribution.md)

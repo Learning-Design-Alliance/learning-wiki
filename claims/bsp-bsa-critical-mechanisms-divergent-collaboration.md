@@ -43,4 +43,6 @@ The editorial reports the Tissenbaum, Berland and Lyons museum study's finding t
 
 
 ## Related Claims
--
+
+- [New Wikipedia knowledge emerges around pivotal articles: high-centrality articles within domains and high-betweenness boundary-spanning articles between domains](new-knowledge-at-pivotal-central-boundary-articles.md)
+- [Central Wikipedia articles are primarily edited by domain specialists while boundary-spanning articles are authored by generalists](specialists-edit-central-generalists-span-boundaries.md)

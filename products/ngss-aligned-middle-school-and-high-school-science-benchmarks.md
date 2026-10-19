@@ -28,6 +28,7 @@ Two publicly released synthetic benchmark datasets created by Schroeder et al. f
 ## Related Products and Programmes
 
 - [The Pedagogy Benchmark](the-pedagogy-benchmark.md)
+- [NCTE Transcript dataset](ncte-transcript-dataset.md)
 
 ## Key Sources
 - Schroeder, N. L., Ambarwati, Y. E., Zhang, Y., & Zhai, C. (2026). A Benchmark for LLM's Understanding of Middle School and High School Science. https://github.com/InviteInstitute/MS-NGSS-Aligned-Benchmark

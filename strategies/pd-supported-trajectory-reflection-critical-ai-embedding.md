@@ -53,6 +53,7 @@ The article recommends that professional development move beyond tool demonstrat
 - [Focus staff development on the judgement work of AI integration rather than tool training](staff-development-judgement-work-of-ai-integration.md)
 - [Institutional AI initiatives should incorporate discussion, reflection, and distributed discipline-specific support networks rather than centralized information provision](distributed-disciplinary-support-networks-for-ai-initiatives.md)
 - [Direct further research toward new teacher roles, learning pathways and graduate attributes focused on imagination, creativity and innovation](research-priorities-graduate-attributes-creativity.md)
+- [Integrate structured opportunities for critical engagement with AI into teacher education programs](structured-critical-ai-engagement-teacher-education.md)
 
 ## Examples
 -

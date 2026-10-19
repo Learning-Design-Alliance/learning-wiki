@@ -40,7 +40,8 @@ The article implements and tests an analytical approach to strategy training tha
 - [Analytical Strategy Training Improves Online Reading Performance](../claims/analytical-strategy-training-improves-online-reading-performance.md) [+M]
 
 ## Related Designs
-- 
+
+- [Teacher-led online reading strategy training program embedded in a digital literacy course](teacher-led-online-reading-strategy-training-program.md)
 
 ## Examples
 -

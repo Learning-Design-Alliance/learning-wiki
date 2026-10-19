@@ -43,4 +43,5 @@ Spring 2015 online teacher survey (distributed to 261 teachers, 74 percent respo
 
 
 ## Related Claims
--
+
+- [Teachers' access to and professional use of technology improved considerably from 2001 to 2003, but did not translate into proportionate increases in technology-rich student assignments](teacher-access-use-rose-assignments-modest.md)

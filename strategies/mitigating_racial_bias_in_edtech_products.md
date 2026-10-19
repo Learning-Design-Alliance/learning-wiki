@@ -77,6 +77,7 @@ Bias in educational AI is well documented: automated systems can encode racial d
 - [Calibrate coaching thresholds per L1 cohort and avoid penalizing identity-marking accent features](accent-fair-threshold-calibration.md)
 - [Audit educational LLM deployments for differential treatment before serving marginalized learners](audit-llm-tutors-for-paternalistic-bias.md)
 - [Design verification and mutual-evaluation assessments for fairness and feasibility: alternative response modes, equitable AI access, selective documentation, and planned workload](fair-feasible-ai-assessment-design-strategies.md)
+- [Validate EDM models across demographic subpopulations of students](validate-edm-models-across-demographic-subpopulations.md)
 
 ## Examples
 - **Gender Shades (Buolamwini & Gebru, 2018)** — the canonical demonstration that commercial facial analysis systems showed far higher error rates for darker-skinned women than lighter-skinned men; it established subgroup testing as standard practice and is directly relevant to face-based proctoring and identity tools in edtech.

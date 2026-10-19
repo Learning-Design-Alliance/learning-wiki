@@ -27,7 +27,8 @@ A Community College Research Center framework that organizes four equity-oriente
 - [Students who enrolled in dual enrollment and did not pass are about 6 percentage points more likely to enroll in college than comparable students who never took advanced coursework](../claims/unsuccessful-dual-enrollment-beats-no-advanced-coursework.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Early College](early-college.md)
 
 ## Key Sources
 - Terrell, J. H., Mathias, J., Blanchard, A., & Roldan-Rueda, D. (2026). The arc of dual enrollment: Access, struggle, and what makes success possible. WestEd. https://www.wested.org/

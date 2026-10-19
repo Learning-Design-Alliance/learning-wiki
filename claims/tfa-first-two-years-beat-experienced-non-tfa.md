@@ -43,6 +43,7 @@ The experimental study compares early-career TFA teachers with more experienced 
 
 
 ## Related Claims
+
 - [An elementary-school RCT found no statistically significant difference between TFA and non-TFA teachers in mathematics or reading achievement](clark-2015-elementary-tfa-indeterminate.md) — reports the opposite
 - [TFA teachers have positive effects on mathematics achievement for students in grades pre-K-12, based on six studies](tfa-positive-mathematics-achievement-effects.md) — a broader claim this one bears on
 - [TFA secondary math teachers increase student math achievement by 0.07 standard deviations over one school year relative to other math teachers in the same schools](tfa-math-teachers-raise-achievement-007-sd.md) — related
@@ -53,3 +54,4 @@ The experimental study compares early-career TFA teachers with more experienced 
 - [TFA shows a small positive effect on reading for early elementary students (PreK to grade 2) but not in math](tfa-small-positive-early-elementary-reading-not-math.md) — related
 - [TFA corps members hired in the first two years of the i3 scale-up were as effective as other teachers in the same high-poverty schools in teaching reading and math](tfa-i3-scale-up-teachers-as-effective-as-peers-high-poverty-schools.md) — related
 - [Under the i3 scale-up grant, TFA planned to grow its corps by 80 percent and aimed for a majority of its teachers to be rated highly effective by the 2014-2015 school year](tfa-i3-grant-growth-and-effectiveness-goals.md) — related
+- [First- and second-year teachers' students gain roughly 20 percent of a standard deviation less than students of more experienced teachers](novice-teacher-gains-lower-20-percent-sd.md)

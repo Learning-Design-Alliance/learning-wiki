@@ -43,4 +43,5 @@ From the same regression analysis of 189 participants (75.3% female); gender ent
 
 
 ## Related Claims
--
+
+- [Video game engagement is predicted by hours of play, playing with others, gender, and task orientation, with hours of play the strongest predictor](gaming-engagement-regression-predictors.md)

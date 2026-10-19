@@ -39,7 +39,9 @@ Across the LEAs, Design Teams emphasized event-planning details that make events
 - 
 
 ## Related Designs
-- 
+
+- [Black Male Teacher Fellowship Program](black-male-teacher-fellowship-program.md)
+- [Game jam resource kit: non-digital and digital materials, software, venue and devices for 4C-focused jams](game-jam-resource-kit.md)
 
 ## Examples
 -

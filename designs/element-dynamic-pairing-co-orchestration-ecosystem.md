@@ -47,6 +47,7 @@ The article describes a technology ecosystem for dynamic combinations of individ
 
 - [A three-stage design space for hybrid control in dynamic pairing: before, during, and after pairing up.](theory-three-stage-hybrid-control-design-space.md)
 - [Intelligent tutoring systems as three-model architectures operationalizing formative assessment](its-three-core-components-architecture.md)
+- [Intelligent tutoring system for fractions used in individual, collaborative, and combined learning conditions](fractions-its-collaborative-combined-conditions-element.md)
 
 ## Examples
 -

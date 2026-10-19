@@ -17,7 +17,7 @@ sources:
 # Screen for local dependence with simple methods (Q3 statistic or item-based versus testlet-based reliability comparison) before fitting a complex testlet model
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Because fitting the general polytomous testlet model is time-consuming, the report recommends first applying relatively simple methods to detect local dependence and measure the magnitude of the testlet effect. It states that "some relatively simple methods to detect local dependence and measure the magnitude of the testlet effect may be used before applying the model." For dichotomous items, Yen's Q3 statistic can be used; alternatively, one can compare item-based reliability with testlet-based reliability, the method used in this study, which the report notes "can be applied to both dichotomous and polytomous items."
@@ -35,6 +35,10 @@ Because fitting the general polytomous testlet model is time-consuming, the repo
 
 ### Target Learning Goals
 - Deciding whether local dependence modeling is warranted before investing in complex testlet model estimation
+
+## Claims
+
+- [In operational reading-test data, ignoring local dependence inflates reliability estimates, with passage-based alpha 2.3%-4.9% lower than item-based alpha across six test forms](../claims/real-data-reliability-overestimated-2-3-to-4-9-percent.md) [+W]
 
 ## Related Strategies
 - 

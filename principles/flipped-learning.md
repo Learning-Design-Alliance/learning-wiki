@@ -178,10 +178,13 @@ An end-of-course exam advantage, delayed retention, self-efficacy, preparation r
 - [Traditional Lecture / Reading / Midterm / Final Assessment](../patterns/traditional-lecture-based-instruction.md)
 
 ## Examples
+
 - Physics courses with short pre-class explanations followed by in-class problem solving.
 - Biology classes where learners watch or read background content before labs or discussions.
 - Professional training modules that move explanation into pre-work and reserve workshops for coached application.
 - Short pre-class videos followed by in-class coached application.
+- [Cross-device learning platform with Course, Gallery, and GenAI modules for flipped studio preparation](../designs/cross-device-flipped-genai-design-platform.md)
+- [Structure simulator sessions as short introductions followed by repeated task performance with teacher circulation and feedback.](../strategies/simulator-session-structure-intro-repetition-teacher-circulation.md)
 
 ### Illustrative
 

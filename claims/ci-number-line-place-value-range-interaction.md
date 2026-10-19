@@ -43,4 +43,7 @@ Paper-pencil number-to-position task (36 trials, 0–100 and 0–1000 ranges) an
 
 
 ## Related Claims
--
+
+- [Children with cochlear implants show an increased rate of dyscalculia indications on a standardized arithmetic test](ci-children-increased-dyscalculia-indications.md)
+- [The subtraction borrowing effect is more pronounced in children with cochlear implants than in hearing peers](ci-borrow-subtraction-specific-difficulty.md)
+- [Children with cochlear implants are generally slower than hearing peers in multiplication and subtraction but show comparable error profiles](ci-children-general-slowing-multiplication-subtraction.md)

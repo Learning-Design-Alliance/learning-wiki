@@ -43,4 +43,6 @@ In Experiment 1's drawing-contest selective social learning task, both informant
 
 
 ## Related Claims
--
+
+- [Area discrimination accuracy does not predict children's social judgments; age, not shared decision imprecision, accounts for the task correlations](area-accuracy-no-predictor-age-explains-correlations.md)
+- [Children do not reliably endorse the more accurate informant when no objective reference is available](endorse-judgments-at-chance-children.md)

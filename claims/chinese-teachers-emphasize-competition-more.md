@@ -43,4 +43,5 @@ Cultural Environment Survey (power distance, collaboration, competition subscale
 
 
 ## Related Claims
--
+
+- [Flemish faculty adopt e-learning and online collaborative learning at higher rates than Chinese faculty (about 95% vs 30% e-learning; 27% vs 8% online collaboration)](flemish-faculty-adopt-e-learning-more-than-chinese.md)

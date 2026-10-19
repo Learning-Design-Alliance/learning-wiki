@@ -32,7 +32,7 @@ Rhetorical strategies are deliberate moves learners use to persuade, frame, emph
 
 ### Affordances
 - [Rhetorical Skill Development](../principles/rhetorical-skill-development.md)
-- [Perspective-Taking](../principles/perspective-taking.md)
+- [Perspective-Taking](../principles/cognitive-flexibility.md)
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->

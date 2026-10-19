@@ -64,7 +64,8 @@ KIPP is a network of public charter schools operated by the KIPP Foundation and 
 - [KIPP Pre-K may provide an additional benefit for reading achievement above and beyond KIPP elementary school](../claims/kipp-prek-added-reading-benefit-beyond-elementary.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Internationals Network for Public Schools](internationals-network-for-public-schools.md)
 
 ## Key Sources
 - Philip M. Gleason, Christina Clark Tuttle, Brian Gill, Ira Nichols-Barrer, Bing-ru Teh. (2014). Do KIPP Schools Boost Student Achievement? Education Finance and Policy, vol. 9, no. 1. https://www.mathematica.org/publications/do-kipp-schools-boost-student-achievement

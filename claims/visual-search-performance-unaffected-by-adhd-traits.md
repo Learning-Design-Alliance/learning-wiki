@@ -43,4 +43,8 @@ Performance analysis in the same Bells Test study of 87 children: mean 30.1 bell
 
 
 ## Related Claims
--
+
+- [Children with higher ADHD rating-scale scores make longer transitions between consecutively retrieved items in a visual search task](higher-adhd-traits-longer-visual-search-transitions.md)
+- [Exploratory search behaviour in visual and semantic tasks is not correlated across children once ADHD score is controlled](no-cross-domain-correlation-exploratory-search.md)
+- [The exploration advantage in semantic search is interpreted as context-dependent, potentially beneficial in sparsely distributed target environments](exploration-bias-benefit-context-dependent.md)
+- [Higher ADHD scores increase the variability of semantic search paths via more long-distance jumps, but not mean semantic distance](higher-adhd-traits-more-semantic-jumps.md)

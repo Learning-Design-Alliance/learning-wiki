@@ -26,7 +26,8 @@ A 43-item, 7-point Likert self-report questionnaire developed by Teng and collea
 - [Metacognition is significantly and positively related to EFL students' academic writing performance (Model 1)](../claims/metacognition-positively-related-efl-academic-writing.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Multiple-Text Strategy Inventory (MTSI)](multiple-text-strategy-inventory-mtsi.md)
 
 ## Key Sources
 - Mark Feng Teng, Mei Yue. (2022). Metacognitive writing strategies, critical thinking skills, and academic writing performance: A structural equation modeling approach. Metacognition and Learning. https://doi.org/10.1007/s11409-022-09328-5

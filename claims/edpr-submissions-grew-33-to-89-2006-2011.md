@@ -43,4 +43,6 @@ The editor's report of journal operating statistics: "In 2011, we received 89 ma
 
 
 ## Related Claims
+
 - [The research-into-practice article category at Educational Psychology Review was retired in 2012 after being the most misunderstood category and source of most desk rejects](edpr-retires-research-into-practice-category.md) — related
+- [Editors observe GenAI has improved surface correctness of manuscripts and increased submissions, but this does not lead to better research quality](genai-surface-quality-submission-quantity-not-quality.md)

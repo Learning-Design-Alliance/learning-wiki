@@ -41,7 +41,8 @@ Students as Researchers is presented as a radical alternative to conventional st
 - [Student Consultation Embeds Unwitting Manipulation](../claims/student-consultation-embeds-unwitting-manipulation.md) [+W]
 
 ## Related Designs
-- 
+
+- [UK high school Students as Researchers partnership running since 1996](uk-high-school-students-as-researchers-since-1996.md)
 
 ## Examples
 -

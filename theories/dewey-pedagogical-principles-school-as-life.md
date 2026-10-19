@@ -38,7 +38,10 @@ The article presents a set of Deweyan pedagogical principles against which it ev
 ### Claims
 
 ## Related Theories
-- 
+
+- [Mead's social conception of education recognizing both the child and society](mead-social-conception-of-education.md)
+- [Pragmatism and Progressivism (Educational Philosophy)](pragmatism-and-progressivism-educational-philosophy.md)
+- [Dewey's moral deliberation as dramatic rehearsal of competing possible lines of action](dewey-moral-deliberation-dramatic-rehearsal.md)
 
 ## Examples
 -

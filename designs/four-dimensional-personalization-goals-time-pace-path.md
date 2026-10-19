@@ -40,7 +40,8 @@ The four-dimensional personalization framework structures personalized study pla
 - 
 
 ## Related Designs
-- 
+
+- [Dual tailoring: simultaneous individualization of readings along interest and comprehension-level dimensions within an AI-mediated workflow](dual-tailoring-ai-readings-framework.md)
 
 ## Examples
 -

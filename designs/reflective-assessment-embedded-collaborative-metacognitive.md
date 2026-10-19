@@ -47,7 +47,8 @@ Reflective assessment is a framework in which students reflect on criteria or le
 - [Discourse Improved During Reflective Assessment](../claims/discourse-improved-during-reflective-assessment.md) [+M]
 
 ## Related Designs
-- 
+
+- [A conceptual design framework for PST collaborative inquiry combining knowledge building principles with collaborative-analytics reflective assessment](collaborative-analytics-reflective-assessment-design-framework.md)
 
 ## Examples
 -

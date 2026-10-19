@@ -62,4 +62,10 @@ Review synthesis of the 26 studies assessing learning outcomes of collaborative 
 
 
 ## Related Claims
--
+
+- [In one reviewed study, students who first collaborate and then complete an activity individually in the VRL are more successful than students who complete an individual task first and then collaborate](collaborate-first-then-individual-more-successful-vrl.md)
+- [Group awareness tools showing peer presence, peer activities, or multiple artifacts are integrated in many educational VRLs, but performance and teacher-presence indicators are never standalone](group-awareness-tools-multimodal-vrls.md)
+- [Guidance tools supporting collaboration are relatively uncommon in educational VRLs, integrated in only 13 of 62 reviewed systems](guidance-tools-uncommon-vrls.md)
+- [Regulation tools for collaboration are very rare in educational VRLs, identified in only 8 laboratories, mostly supporting regulation by teachers](regulation-tools-very-rare-vrls.md)
+- [Synchronous communication is the most common collaboration support integrated in educational VRLs, and few labs offer none](synchronous-communication-most-common-in-vrls.md)
+- [Collaborative VRLs are predominantly STEM-focused, virtual, non co-located, synchronous, and 2D](vrl-collaboration-corpus-properties.md)

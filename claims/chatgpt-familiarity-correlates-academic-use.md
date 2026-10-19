@@ -43,7 +43,9 @@ Pearson correlation analysis of scaled answers from 430 students in the Discussi
 
 
 ## Related Claims
+
 - [Academic use of ChatGPT correlates most strongly with its use for language-related tasks](chatgpt-academic-use-correlates-language-use.md) — related
 - [A majority of surveyed MSc computer science students had never used ChatGPT for academic purposes](msc-cs-students-rarely-use-chatgpt-academically.md) — related
 - [ChatGPT use frequency and intention to use are strongly positively correlated](use-frequency-intention-correlated.md) — related
 - [Familiarity with ChatGPT among MSc computer science students is spread across levels, with about one-fifth not familiar at all](cs-students-chatgpt-familiarity-distribution.md) — related
+- [African and Asian students did not differ significantly in their answers about ChatGPT](no-background-difference-in-chatgpt-opinions.md)

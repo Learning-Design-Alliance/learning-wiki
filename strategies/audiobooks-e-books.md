@@ -61,9 +61,11 @@ Digital reading formats change how learners allocate attention between decoding 
 5. Monitor progress and reader attitudes; adjust format and scaffolding as word reading improves, fading audio support toward independent reading.
 
 ## Related Strategies
+
 - [Text-to-Speech Tools](text-to-speech-tools.md) — the feature-level counterpart embedded in most e-book platforms
 - [Independent Reading](independent-reading-time.md) — audiobooks expand what counts as accessible independent reading
 - [Vocabulary Instruction](explicit-vocabulary-instruction.md) — listening volume supplies the incidental encounters vocabulary growth depends on
+- [Use tablet computers in Response to Intervention for self-recorded reading, electronic graphic organizers, and electronic text notation](rti-tablet-reading-strategies-strategy.md)
 
 ## Related Elements
 - [Assigned Readings](../elements/assigned-readings.md) — the curricular frame that gives digital reading a purpose

@@ -43,4 +43,7 @@ Simple-slopes analysis of the Study 1 regression showed opposite directions by v
 
 
 ## Related Claims
--
+
+- [Recalling past confidence versus doubt validates or invalidates thoughts and shifts GRE performance accordingly](confidence-doubt-recall-gre-performance.md)
+- [Experimentally manipulated thought validation amplifies the performance impact of self-relevant thoughts on a geometric shapes task](thought-validation-manipulation-shapes-task-performance.md)
+- [Perceived thought validity mediates the effect of the confidence induction on performance](thought-validity-mediation-performance.md)

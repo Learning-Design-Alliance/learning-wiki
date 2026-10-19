@@ -41,6 +41,7 @@ An implementable activity sequence in which students first divide sets of object
 
 - [Introduce unit fractions through partitioning a single object among sharers](unit-fractions-by-partitioning-single-objects.md)
 - [Use varied equal-partitioning problems to develop fraction comparison and equivalence](varied-partitioning-problems-for-comparison-equivalence.md)
+- [Build on children's informal proportional understandings to prepare for ratio and proportion](early-proportional-thinking-for-ratio-preparation.md)
 
 ## Examples
 -

@@ -17,7 +17,7 @@ sources:
 # Improve UI consistency and network system before scaling VR classroom use
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The authors' forward-looking recommendation is to improve usability through enhancements to the UI and network system, and to develop a wider variety of learning materials based on the proposed system. This follows directly from the wide spread of SUS scores, which they attribute to UI consistency issues.
@@ -35,6 +35,10 @@ The authors' forward-looking recommendation is to improve usability through enha
 
 ### Target Learning Goals
 - immersive interactive lessons in a shared virtual space
+
+## Claims
+
+- [The system receives a good average usability rating (SUS 69.7, grade B) but with wide individual variation attributed to UI consistency issues](../claims/photon-fusion-sus-good-but-variable-usability.md) [+W]
 
 ## Related Strategies
 - 

@@ -43,4 +43,5 @@ Three-group randomized experiment with 88 undergraduate pre-service teachers; gr
 
 
 ## Related Claims
--
+
+- [Learners' mechanical ability and spatial ability were not significantly related to identification performance in the main study](spatial-mechanical-ability-null-relation.md)

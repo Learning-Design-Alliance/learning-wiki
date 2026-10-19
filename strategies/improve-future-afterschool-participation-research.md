@@ -17,7 +17,7 @@ sources:
 # Improve future research on afterschool participation by refining how participation is conceptualized, measured, and studied
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review closes by offering methodological guidance: it states that "several suggestions are offered to improve future research on the relationship between aspects of participation and developmental outcomes." Researchers studying afterschool programs should attend to how participation amount is defined and measured and to study design choices, since the review found these factors determine whether participation-outcome relationships appear. This strategy directs future studies toward better operationalization of participation rather than simple dose counts.
@@ -37,6 +37,10 @@ The review closes by offering methodological guidance: it states that "several s
 - academic outcomes
 - behavioral outcomes
 - socio-emotional developmental outcomes
+
+## Claims
+
+- [Some afterschool participation benefits emerged when high-level participants were compared to non-participants, but not when compared to other program participants](../claims/afterschool-high-vs-nonparticipants-benefits.md) [+W]
 
 ## Related Strategies
 - 

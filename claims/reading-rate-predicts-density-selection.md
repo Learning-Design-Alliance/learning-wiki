@@ -43,4 +43,6 @@ Stepwise regression of low-density selections on four pretask predictors (attitu
 
 
 ## Related Claims
--
+
+- [Reading comprehension strongly predicts achievement from high-density microtext, unlike other density conditions](reading-comprehension-predicts-high-density-learning.md)
+- [Students generally prefer low-density text, selecting it on about 65 percent of learner-control choices](students-prefer-low-density-text.md)

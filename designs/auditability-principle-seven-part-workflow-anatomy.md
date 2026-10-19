@@ -40,7 +40,8 @@ The article defines auditability as the discipline's defining principle: "a work
 - 
 
 ## Related Designs
-- 
+
+- [Instructional governance: the designed allocation of authority, agency, accountability, context, and evaluation visibility in AI-mediated teaching interactions](instructional-governance-design-construct.md)
 
 ## Examples
 -

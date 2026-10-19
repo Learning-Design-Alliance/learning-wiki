@@ -43,7 +43,8 @@ EDBL is a pedagogical approach grounded in problem-based learning and constructi
 - [Ai Lesson Plans Weakest In Engineering Skills](../claims/ai-lesson-plans-weakest-in-engineering-skills.md) [+M]
 
 ## Related Designs
-- 
+
+- [CREATE: a six-strategy meta-creative pedagogy for fostering creative thinking](create-meta-creative-pedagogy.md)
 
 ## Examples
 -

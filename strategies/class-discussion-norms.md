@@ -105,6 +105,7 @@ Discussion produces learning only when students actually reason with one another
 - [Explicitly frame a group AI agent's role and design introductory activities that encourage collaborative dialogue rather than system testing](frame-agent-role-and-design-dialogue-based-introductory-activities.md)
 - [Classroom Community Building](classroom-community-building.md) — the broader relational work norms contribute to
 - [Make success criteria visible to students through explicit explanations, think-alouds, and co-construction](explicit-explanations-think-alouds-co-create-success-criteria.md)
+- [Time educator intervention to the anger tipping point rather than suppressing anger from the outset](intervene-at-anger-tipping-point.md)
 
 ## Examples
 - **Accountable Talk sourcebook** (Institute for Learning, University of Pittsburgh) — provides norm sets, talk moves, and planning tools used across district-wide implementations: [https://ifl.pitt.edu](https://ifl.pitt.edu)

@@ -62,4 +62,6 @@ The editorial names this as one of the findings of the Vogler et al. study, whic
 
 
 ## Related Claims
--
+
+- [Collaborative writing develops through distinct phases, is non-linear and non-cumulative, with sharing of opinions emerging in the last phase](collaborative-writing-phases-nonlinear-opinion-sharing-last.md)
+- [All four A3C interaction types can contribute individually to learning and may exist in parallel during mass collaboration](a3c-interaction-types-parallel-learning.md)

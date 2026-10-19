@@ -43,4 +43,5 @@ The review reports, from van der Wilt et al. (2018b) (N = 570 children aged 3.99
 
 
 ## Related Claims
--
+
+- [Oral communicative competence relates to peer acceptance only for boys and not to peer rejection, indicating gender as a moderator](gender-moderates-competence-acceptance-relation.md)

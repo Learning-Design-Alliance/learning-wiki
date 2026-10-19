@@ -58,7 +58,8 @@ SEERNet is an Institute of Education Sciences-funded network that supports respo
 - [Wave 1's greatest challenge was achieving mutual knowledge and coherence among six independently selected projects while respecting their differences](../claims/seernet-wave1-coherence-challenge.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [IMPROV framework](improv-framework.md)
 
 ## Key Sources
 - Wei, X., Roschelle, J., Pautz Stephenson, S. & Wortman, A. (2025). Researching digital learning platforms: Foundations, methods, and policy recommendations. Digital Promise. https://doi.org/10.51388/20.500.12265/257

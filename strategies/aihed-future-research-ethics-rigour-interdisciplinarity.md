@@ -45,6 +45,7 @@ The review's forward-looking recommendation is that future AIHEd primary and sec
 
 - [Prioritize real-world testing of AI tools in university settings, environmental impact measurement, and integrated ethical-sustainability policies](test-ai-tools-real-university-settings-measure-impact.md)
 - [Prioritise equity-centred approaches, methodological diversity, contextual specificity, implementation science and interdisciplinary collaboration in GenAI research](equity-centred-genai-research-priorities.md)
+- [Future shared story reading research should extend to nonfiction texts, inclusive settings, and include practicality statements](shared-story-reading-future-research-directions.md)
 
 ## Examples
 -

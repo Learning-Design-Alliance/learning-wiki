@@ -43,4 +43,7 @@ Latent profile analysis of survey data from 191 German primary-school teachers (
 
 
 ## Related Claims
--
+
+- [Teachers' SRL competence profiles do not differ by gender, age, or teaching experience](srl-profiles-no-demographic-differences.md)
+- [Teachers' initial SRL competence profiles moderate training effectiveness: initially high-competence teachers benefit more from training](competence-profiles-moderate-srl-training-effect.md)
+- [High-competence-profile teachers outperform low-competence-profile teachers on SRL knowledge, beliefs, and self-efficacy, but not on self-reported situated SRL approaches](profile2-outperforms-profile1-competence-indicators.md)

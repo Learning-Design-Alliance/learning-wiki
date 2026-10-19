@@ -17,7 +17,7 @@ sources:
 # Use expressive writing before math situations to offload worry and protect working memory resources
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 2 studies (1 causal, 1 quant-synthesis), `q3`–`q4` · 2 of 2 report an effect size
 
 ## Description
 For the WM/affective-drop pathway, the authors recommend expressive writing — having learners write out negative affect and worry before exams and other math situations. They report that such writing "lowered ruminating behavior and thus mitigated the negative impact on WM resources which in turn had a positive influence on mathematical performance", citing prior intervention studies with promising results.
@@ -38,8 +38,16 @@ For the WM/affective-drop pathway, the authors recommend expressive writing — 
 - arithmetic and math test performance
 - reduced rumination during mathematical tasks
 
+## Claims
+
+- [Brief expressive writing before an exam can raise test-anxious students' scores, but across the wider literature its effect on test performance is negligible](../claims/expressive-writing-improves-exam-performance.md) [~M]
+
 ## Related Strategies
-- 
+
+- [Expressive Writing Before Assessment](expressive-writing-before-assessment.md)
+- [Expressive Outlets](expressive_outlets.md)
+- [Math Anxiety Reduction](math-anxiety-reduction.md)
+- [Test Anxiety Reduction](test-anxiety-reduction.md)
 
 ## Examples
 -

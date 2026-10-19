@@ -43,4 +43,7 @@ Part of the same frequency-count categorisation of 122 requests in the post-expe
 
 
 ## Related Claims
--
+
+- [Cognitively oriented challenges dominated student help requests during computer-supported lab work, with 45.1% conceptual and 28.7% cognitive-regulation requests](help-requests-mostly-conceptual-cogreg.md)
+- [Student chatbot queries were overwhelmingly task-oriented initial inquiries, dominated by definition requests and pasted assignment questions rather than iterative critique](initial-inquiry-dominates-chatbot-question-types.md)
+- [Procedural execution in data visualization declined significantly and more steeply than conceptual understanding over twelve months](procedural-visualization-execution-decays-faster.md)

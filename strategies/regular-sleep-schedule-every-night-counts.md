@@ -17,7 +17,7 @@ sources:
 # Maintain a regular sleep schedule for children so that every night counts for morning cognitive performance
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends that caregivers treat nightly sleep variability, not just average sleep behavior, as consequential for children's school-day cognition. Because single bad nights were associated with lower morning cognitive resources, the authors advise that "children might benefit from a regular sleep schedule to produce their best cognitive performance in the morning" and that caregivers observe how much time in bed an individual child needs and keep it as steady as possible.
@@ -36,8 +36,14 @@ The article recommends that caregivers treat nightly sleep variability, not just
 ### Target Learning Goals
 - maintaining daily working memory resources needed for school learning
 
+## Claims
+
+- [Previous night's sleep quality and time in bed predict children's morning working memory performance fluctuations](../claims/sleep-quality-time-in-bed-predict-morning-working-memory.md) [+W]
+- [Elementary school children show substantial day-to-day within-person fluctuations in sleep quality, time in bed, daytime tiredness, and working memory performance](../claims/children-daily-fluctuations-sleep-and-working-memory.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Nighttime Blue Light Reduction](nighttime_blue_light_reduction.md)
 
 ## Examples
 -

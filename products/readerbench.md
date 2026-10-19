@@ -13,7 +13,7 @@ generated:
 # ReaderBench
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 ReaderBench is a software environment developed by Mihai Dascalu and colleagues that uses cohesion and dialogical analysis to support tutors in evaluating collaboration in CSCL conversations.
@@ -23,6 +23,8 @@ ReaderBench is a software environment developed by Mihai Dascalu and colleagues 
 - **ReaderBench environment for automated evaluation of collaboration from cohesion and dialogism**: ReaderBench is the system the article introduces as implementing automated evaluation of collaboration based on cohesion and dialogism. Motivated by the growing use of CSCL, it addresses "the need for automated tools capable of supporting tutors in the time-consuming process of analyzing conversations", housing the two proposed collaboration-assessment models. (Mihai Dascalu et al. (2015))
 
 ### Claims
+
+- [Two computational models were proposed and validated for assessing collaboration in CSCL conversations](../claims/two-computational-models-collaboration-assessment-validated.md) [+W]
 
 ## Related Products and Programmes
 -

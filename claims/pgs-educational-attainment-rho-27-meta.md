@@ -43,4 +43,7 @@ Preregistered three-level multilevel meta-analysis (metafor rma.mv) of studies r
 
 
 ## Related Claims
--
+
+- [Polygenic scores show a meta-analytic association of ρ = 0.24 with educational achievement](pgs-educational-achievement-rho-24-meta.md)
+- [Polygenic score predictions of education strengthen as GWAS discovery sample sizes increase](pgs-prediction-strength-grows-gwas-sample-size.md)
+- [Polygenic score predictions are reduced in African American relative to European ancestry samples, significantly so only for educational attainment](pgs-predictions-reduced-african-american-samples.md)

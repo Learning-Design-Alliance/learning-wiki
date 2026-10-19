@@ -43,4 +43,5 @@ Two-way ANOVA (treatment/control by instructor) on retention index in the USMAPS
 
 
 ## Related Claims
--
+
+- [Study lead instructors did not differ from non-study-lead instructors in student retention performance](no-study-lead-bias-in-student-performance.md)

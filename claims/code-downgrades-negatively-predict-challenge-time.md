@@ -43,4 +43,6 @@ Correlation of the challenge-response measure with challenge time in the log-dat
 
 
 ## Related Claims
--
+
+- [In-game willingness to solve hard levels with complex code is positively associated with posttest coding knowledge, controlling for pretest](hards-solved-complex-predicts-posttest.md)
+- [Traditional challenge-navigation measures (level choice, replays, careful retries, hint reading, coding time) did not relate to learning outcomes](traditional-challenge-measures-not-related-to-learning.md)

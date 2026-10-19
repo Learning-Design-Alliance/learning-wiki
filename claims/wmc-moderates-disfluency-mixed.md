@@ -46,8 +46,10 @@ Narrative review of Lehmann et al. (2015), an aptitude-treatment-interaction stu
 - [Working Memory](../learner-variables/working-memory.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
 - [Disfluency increased study times without improving performance, suggesting time was spent deciphering text rather than processing contents more deeply](disfluency-study-time-decoding-not-deeper.md) — related
 - [Medium moderated disfluency effects on reasoning: disfluent text fostered calibration and performance on screen but not on paper](screen-paper-moderates-disfluency-reasoning.md) — related
 - [All 13 special-issue studies failed to show overall better performance due to disfluency](thirteen-studies-null-disfluency-performance.md) — related
 - [Prior knowledge and working memory capacity did not moderate the worked example effect](no-prior-knowledge-wmc-moderation-worked-examples.md) — related
 - [Evidence on working memory capacity as a moderator of the interleaving effect is mixed, but WM does not appear to be a major barrier to classroom use](working-memory-mixed-moderator-interleaving.md) — related
+- [The null effect of the disfluency × WMC interaction on transfer replicated the primary study's null finding, with both studies showing negative coefficients](transfer-null-interaction-replicated.md)

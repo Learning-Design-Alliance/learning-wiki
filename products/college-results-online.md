@@ -13,7 +13,7 @@ generated:
 # College Results Online
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 An Education Trust interactive web tool for examining and comparing four-year college graduation rates, including trends and outcomes for diverse student groups.
@@ -25,8 +25,11 @@ An Education Trust interactive web tool for examining and comparing four-year co
 
 ### Claims
 
+- [Chicago graduates who enrolled in the most popular colleges had lower adjusted graduation rates than similar Chicago students who enrolled elsewhere](../claims/popular-colleges-lower-graduation-rates-chicago-students.md) [+W]
+
 ## Related Products and Programmes
--
+
+- [Pell Grant Graduation Rate Database and Institution Profile tool](pell-grant-graduation-rate-database-and-institution-profile-tool.md)
 
 ## Key Sources
 - Mary Nguyen, Erin Ward Bibo, and Jennifer Engle. (2012). Advancing to Completion: Increasing degree attainment by improving graduation rates and closing gaps for African-American students. The Education Trust. https://www.edtrust.org

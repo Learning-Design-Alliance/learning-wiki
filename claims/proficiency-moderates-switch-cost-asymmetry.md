@@ -62,4 +62,6 @@ The review reports, citing Declerck, Thoma, et al. (2015c), that highly proficie
 
 
 ## Related Claims
--
+
+- [Higher Spanish proficiency in bilinguals is associated with less residual competitor inhibition](spanish-proficiency-associated-less-residual-inhibition.md)
+- [Switch costs and mixing costs are common empirical observations across language switching paradigms, except voluntary switching under certain circumstances](switch-and-mixing-costs-common-across-paradigms.md)

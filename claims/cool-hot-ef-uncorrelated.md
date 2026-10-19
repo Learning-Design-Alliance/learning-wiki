@@ -58,4 +58,6 @@ Same partial correlation analysis (Table 4). The article reports that none of th
 
 
 ## Related Claims
--
+
+- [Cool executive function measures show ascending age-related growth across adolescence, with a growth spurt around age 14–15](cool-ef-ascending-growth-adolescence.md)
+- [Hot executive function (CGT risk adjustment) shows a bell-shaped developmental curve, peaking at age 14 and declining thereafter](hot-ef-bell-shaped-development.md)

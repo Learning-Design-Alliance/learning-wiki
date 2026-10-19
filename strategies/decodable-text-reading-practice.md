@@ -91,6 +91,7 @@ Decodable practice closes the loop between phonics instruction and actual readin
 6. Fade controlled text as the learner's code knowledge grows, moving toward authentic trade books and rich read-alouds for vocabulary and knowledge building.
 
 ## Related Strategies
+
 - [Repeated reading for fluency](repeated-reading.md) — the fluency-building mechanism that makes decodable practice pay off
 - [Act It Out](act_it_out.md) — adds comprehension and engagement work on top of decoding practice
 - [Read-alouds](read-alouds.md) — the complementary channel for vocabulary and knowledge that controlled text cannot supply
@@ -99,6 +100,7 @@ Decodable practice closes the loop between phonics instruction and actual readin
 - Repeated reading of controlled text — builds fluency on the same word set
 - Explicit phonics instruction — the prerequisite; decodable text is its practice extension
 - Guided oral reading with feedback — the delivery format for most decodable-text sessions
+- [Apply phonics/word-study skills to reading connected text to build oral reading fluency in students with LD](apply-word-study-to-connected-text-strategy.md)
 
 ## Examples
 - **[Flyleaf Publishing](https://flyleafpublishing.com/)** — Decodable chapter books sequenced to a published phonics scope and sequence, with pre-teaching guides for irregular words.

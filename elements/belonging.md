@@ -116,6 +116,7 @@ Belonging uncertainty — doubt about whether one fits in a setting — dispropo
 - [Teacher-of-color affinity groups as the most common strategy for fostering belonging and retention](../strategies/teacher-of-color-affinity-groups-belonging.md)
 - [Support belonging in AP classes through AP teachers of color, near-peer mentors, culturally sustaining curricula, and targeted supports](../strategies/belonging-supports-advanced-coursework.md)
 - [Shared power: previously excluded students, families, and communities co-create and shape educational systems, policies, and practices](../patterns/shared-power-co-creation-of-educational-systems.md)
+- [Schools lacking ethnic diversity with small Latino representation should implement programs recognizing and empowering Latino culture and identity](../strategies/latino-culture-identity-programs-low-diversity-schools.md)
 
 ## Key Sources
 - Walton, G. M., & Cohen, G. L. (2011). A brief social-belonging intervention improves academic and health outcomes of minority students. *Science, 331*(6023), 1447–1451. [doi:10.1126/science.1198364](https://doi.org/10.1126/science.1198364)

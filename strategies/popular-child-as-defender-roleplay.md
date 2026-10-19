@@ -38,7 +38,8 @@ In the onlooker role-play week, teachers were advised that the defender role sho
 - Willingness to defend victimised peers and report bullying
 
 ## Related Strategies
-- 
+
+- [Coach confident defending behaviours through the Confident Behaviours Exercise](confident-behaviours-exercise-defending.md)
 
 ## Examples
 -

@@ -43,4 +43,6 @@ Theoretical argument in Section 3.2 of this conceptual paper. The five principle
 
 
 ## Related Claims
+
 - Participants simultaneously affirmed ChatGPT feedback as useful while rejecting it as final grader, treating feedback utility and evaluative authority as separate judgements — related
+- [Low-level feedback automation is appropriate only for sentence-level clarity; argumentative unclarity should trigger human review](sentence-level-clarity-automation-argumentative-human-review.md)

@@ -62,4 +62,8 @@ The report states this finding to explain why segregation is most often between 
 
 
 ## Related Claims
+
 - The authors infer the DC voucher program is likely reducing racial segregation in schooling, since 94% of voucher users are African American — related
+- [Charter school quality varies greatly, and virtual charters perform significantly worse, while charters often increase segregation and underrepresent students with disabilities](charter-variation-segregation-disabilities.md)
+- [Universal PreK school-based classrooms are about as diverse as first-grade classrooms, while means-tested and community-based classrooms are more segregated](universal-prek-classroom-diversity.md)
+- [2018–19 CPS ninth-graders were residentially segregated by race/ethnicity: one racial/ethnic group comprised over 50 percent of ninth-graders in 65 of 77 community areas](ninth-graders-segregated-across-community-areas.md)

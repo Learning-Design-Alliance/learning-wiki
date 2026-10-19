@@ -43,4 +43,8 @@ The abstract reports the process "is illustrated with data from a large-scale as
 
 
 ## Related Claims
--
+
+- [A general process for measuring item-level effort extends effort measurement to omitted and constructed responses](general-item-level-effort-process-expanded-item-types.md)
+- [RTE provides an assessment of test-taking effort down to the level of individual item responses](rte-assesses-effort-at-item-response-level.md)
+- [Detecting noneffortful responses requires setting response time thresholds that separate effortful from noneffortful responses](rt-thresholds-separate-noneffortful-responses.md)
+- [Prior threshold-method comparison studies typically used simulated or small-scale data, or non-CAT large-scale data with few items](prior-threshold-studies-limited-scale.md)

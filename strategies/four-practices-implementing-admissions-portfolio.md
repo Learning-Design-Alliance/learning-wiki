@@ -17,7 +17,7 @@ sources:
 # Four recommended practices for implementing an admissions portfolio system
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The report relays the 2022 Reimagining College Access tool's recommended practices for institutions implementing an admissions portfolio: know your "why" for requesting different or additional information; determine which artifacts to request in the most usable format; craft and refine a clear "ask" about expectations and intended use with supports for students; and conduct outreach to counselors, students, and families. The Ross case is presented as demonstrating how admission officers can put these practices into action.
@@ -37,6 +37,11 @@ The report relays the 2022 Reimagining College Access tool's recommended practic
 
 ### Target Learning Goals
 - Communicating portfolio expectations so applicants can demonstrate their strengths effectively
+
+## Claims
+
+- [The portfolio adds context to holistic review that readers say helps level the playing field for applicants from under-resourced high schools](../claims/portfolio-adds-equity-context-holistic-review.md) [+W]
+- [Requiring an admissions portfolio coincided with a large drop in BBA applications, consistent with filtering for intentional applicants, with volumes recovering after outreach](../claims/ross-portfolio-coincided-application-volume-drop.md) [~W]
 
 ## Related Strategies
 

@@ -17,7 +17,7 @@ sources:
 # Support learners in climbing the social and epistemic ladders together
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 2 studies (1 review, 1 qualitative), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 Generalizing from the super-notes study of cross-class knowledge building, the editorial conveys the authors' conclusion that "learning designs should support people in 'climbing the social and epistemic ladders together'." Super notes function as an epistemic boundary object that boosts the epistemic and social emergence of ideas, sustaining knowledge building through idea interaction across levels and spaces. The strategy is implementable by introducing a cross-community meta-space in which students formulate major questions and big ideas for sharing beyond their own class.
@@ -35,6 +35,12 @@ Generalizing from the super-notes study of cross-class knowledge building, the e
 
 ### Target Learning Goals
 - knowledge building and rise-above conceptualization
+
+## Claims
+
+- [Cross-class super notes in Knowledge Forum prompt rise-above syntheses and serve as an epistemic ladder supporting deeper understanding](../claims/super-notes-epistemic-ladder-cross-class-knowledge-building.md) [+W]
+- [Cross-classroom Super Talk built a multifaceted understanding of 'how people grow' that enriched discourse within each classroom](../claims/super-talk-multifaceted-understanding-cross-community.md) [+W]
+- [Fifth-graders in four classrooms generated high-quality super notes reflecting inquiry progress for cross-community sharing](../claims/fifth-graders-high-quality-super-notes-cross-classroom.md) [+W]
 
 ## Related Strategies
 - 

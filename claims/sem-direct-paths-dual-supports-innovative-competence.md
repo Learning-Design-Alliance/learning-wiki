@@ -43,7 +43,9 @@ Structural equation model (maximum likelihood estimation) on the 3003-teacher su
 
 
 ## Related Claims
+
 - [AI self-efficacy and self-regulated learning mediate the support–competence associations in opposite patterns for the two supports](dual-mediation-ai-efficacy-srl-opposite-patterns.md) — related
 - [School-based intelligent environment support shows an inverted U-shaped quantile pattern, stronger at lower-to-middle competence levels](intelligent-environment-support-inverted-u-quantile.md) — related
 - [Pre-service teachers' innovative competence is at a medium-to-high level, with innovation practice the lowest subdimension](preservice-innovative-competence-medium-high-practice-lowest.md) — related
 - [Perceived AIGC affordance enhances AIGC self-efficacy and directly predicts self-regulated learning in IEI undergraduates](aigc-affordance-boosts-self-efficacy-and-srl.md) — related
+- [A two-level structural equation model links approaches to teaching and approaches to studying to biology achievement in high school](two-level-sem-approaches-teaching-studying-biology-achievement.md)

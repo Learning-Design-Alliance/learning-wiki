@@ -43,4 +43,6 @@ Linear mixed-model analysis of ES trustworthiness ratings (0–10) from 72 under
 
 
 ## Related Claims
--
+
+- [References to document sources showed a significant sequence-type by position interaction, driven by first-position texts in the HT-LT sequence; the hypothesized increase in mixed sequences was only partly supported](ds-references-interaction-ht-lt.md)
+- [References to the embedded source did not differ by sequence type, ranging from 17.6% to 35% across conditions](es-references-null-sequence-type.md)

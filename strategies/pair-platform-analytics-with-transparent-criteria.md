@@ -45,6 +45,7 @@ The article recommends treating evaluation itself as a first-class research obje
 ## Related Strategies
 
 - [Equitable Assessment Rubrics](equitable_assessment_rubrics.md)
+- [Complement outcome measures with continuous process measures to assess social effects and enable adaptive pedagogical agents](process-measures-for-adaptive-pedagogical-agents.md)
 
 ## Examples
 -

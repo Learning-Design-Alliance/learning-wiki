@@ -43,4 +43,6 @@ Two-factor repeated-measures MANOVA on the London Bridge Task with N = 100 sixth
 
 
 ## Related Claims
--
+
+- [Students exposed to CREATE perceive their implementation of meta-creative processes to a greater extent than control students](create-higher-perceived-meta-creative-implementation.md)
+- [CREATE benefits transfer to a new task on all three creativity components: fluency, flexibility, and originality](create-transfer-effects-all-components.md)

@@ -62,6 +62,8 @@ Same ANOVA on accuracy: the Group x Trial Type interaction was significant, F(1,
 
 
 ## Related Claims
+
 - [Elevated ADHD traits are associated with weaker communicative perspective-taking in adolescents](adhd-traits-weaker-communicative-perspective-taking.md) — related
 - [Working memory accounts for the relation between ADHD traits and communicative perspective-taking](working-memory-accounts-adhd-perspective-taking-relation.md) — related
 - [Working memory capacity is significantly smaller in lower-SES than higher-SES adolescents](lower-ses-smaller-working-memory-capacity.md) — related
+- [Retrieval P3 discriminates Same from Different trials only in non-ADHD adolescents, indicating a failure of post-selection prioritization in ADHD](retrieval-p3-change-discrimination-only-non-adhd.md)

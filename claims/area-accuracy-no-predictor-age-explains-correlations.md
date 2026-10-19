@@ -43,4 +43,6 @@ Hierarchical regression in Experiment 3 entered age and area accuracy in step 1 
 
 
 ## Related Claims
--
+
+- [Children aged 6–7 reliably identify the contestant whose copied shapes are closer in size to a target, replicating magnitude-of-error selective social learning](children-detect-relative-error-magnitude-informants.md)
+- [Children do not reliably endorse the more accurate informant when no objective reference is available](endorse-judgments-at-chance-children.md)

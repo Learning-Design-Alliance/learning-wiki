@@ -17,7 +17,7 @@ sources:
 # Conversational pedagogical agent with AI-driven dialogue, lip-synchronised audio and conversation memory
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 against) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The agents studied were "animated characters represented in human form" that converse with learners via an artificial intelligence engine matching student comments to agent responses. Responses are delivered in both textual form and computer-generated lip-synchronised audio to accommodate learner preferences, and the agents can reuse prior information exchanged so as to appear to remember previous conversations. Students in the course used the agent voluntarily for assistance or support.
@@ -37,10 +37,13 @@ The agents studied were "animated characters represented in human form" that con
 - providing assistance and support for course learning
 
 ### Claims
-- 
+
+- [The talking head contributes little to AutoTutor's learning gains; the content of the conversation matters](../claims/autotutor-content-matters-not-talking-head.md) [-W]
 
 ## Related Designs
-- 
+
+- [Seven trialogue designs for two-agent conversations with a human learner, adaptively administered by learner knowledge](seven-trialogue-designs-two-agents.md)
+- [Phoenix: a voice-based, non-embodied LLM conversational peer agent for group learning](phoenix-voice-llm-peer-agent-group-learning.md)
 
 ## Examples
 -

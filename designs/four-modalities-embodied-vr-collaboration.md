@@ -17,7 +17,7 @@ sources:
 # Four modalities of embodied collaboration in shared VR environments
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (1 review, 1 qualitative), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The article integrates theories of embodied cognition with distributed and extended cognition to focus on four modalities for embodied collaboration in shared VR: actions on virtual objects, gesture, body movement, and speech. These modalities are the semiotic resources learners orchestrate simultaneously or in sequence to build shared geometric understanding. The framework treats the group, not the individual, as the interactional unit of analysis.
@@ -37,7 +37,9 @@ The article integrates theories of embodied cognition with distributed and exten
 - collaborative geometric reasoning and embodied mathematical knowledge construction
 
 ### Claims
-- 
+
+- [Virtual objects in shared VR environments can serve as effective media for collaborative knowledge building among in-service teachers manipulating geometric shapes](../claims/virtual-objects-shared-vr-collaborative-knowledge-building.md) [+W]
+- [Body movements and positions focusing on virtual objects, and shifts away from or around them, signal key interactional collaborative events in shared VR](../claims/body-movement-signals-collaborative-events-vr.md) [+W]
 
 ## Related Designs
 - 

@@ -43,4 +43,5 @@ Analysis of the Geometry96-97 dataset via LFA model discovery found a forward-vs
 
 
 ## Related Claims
--
+
+- [LFA-discovered cognitive models outperformed both original in-use and best hand-generated models in all eleven DataShop datasets](lfa-discovered-models-beat-hand-generated-eleven-datasets.md)

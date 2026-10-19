@@ -43,4 +43,6 @@ LGC model-fit comparison for the Yao group (Table 6): the linear model outperfor
 
 
 ## Related Claims
--
+
+- [For Han students, metacognitive knowledge followed a quadratic (accelerating) growth model while vocabulary breadth followed a linear growth model, and initially high vocabulary knowledge predicted faster later vocabulary growth](han-mck-quadratic-vk-linear-growth.md)
+- [Han students significantly outperformed Yao students in breadth of English vocabulary knowledge, with a significant time-by-group interaction in development patterns](han-outperform-yao-vk-breadth.md)

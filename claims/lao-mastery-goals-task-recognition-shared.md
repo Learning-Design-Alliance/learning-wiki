@@ -44,4 +44,5 @@ SEM Model 2 on 207 Lao teachers' self-reports found "Mastery goals were positive
 
 
 ## Related Claims
--
+
+- [The correlation between mastery and relational goals is unusually strong (r = .64) in the Lao sample compared with Western teacher samples](lao-strong-mastery-relational-goal-correlation.md)

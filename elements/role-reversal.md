@@ -48,7 +48,6 @@ Role reversal counteracts biased assimilation — the tendency to evaluate evide
 
 ### Affordances
 - [Cognitive Flexibility](../principles/cognitive-flexibility.md) — role reversal enacts this principle by forcing learners to reconstruct the same issue from multiple conceptual standpoints, supporting the multiple-representation knowledge structure that flexible transfer requires
-- [Perspective-Taking](../principles/perspective-taking.md) — arguing the opposing side operationalizes perspective-taking as a performance demand rather than a discussion prompt, producing stronger encoding of the other view's rationale
 - [Social Interdependence](../principles/social-interdependence.md) — in structured controversy formats, reversal converts opposition into a shared task (jointly reaching the best synthesis), harnessing cooperative goal structures
 - [Cognitive Disequilibrium](../principles/cognitive-disequilibrium.md) — articulating the opposing case creates the conceptual conflict that triggers knowledge restructuring rather than simple accumulation
 

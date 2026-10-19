@@ -17,7 +17,7 @@ sources:
 # Attach task-specific pedagogical system instructions to each training example
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Following the idea of pedagogical instruction following, each selected training example is associated with a task-specific system instruction that explicitly describes the desired response behavior, determined by the example's predefined task bucket. The pipeline uses 20 system-instruction templates covering behaviors such as reasoned problem solving, reading comprehension, diagnosis and correction, Socratic questioning, and tutoring dialogue. This design allows the same model to learn multiple pedagogical behaviors while making the desired behavior explicit in the input, separating example content from the response behavior it is intended to teach.
@@ -37,6 +37,10 @@ Following the idea of pedagogical instruction following, each selected training 
 - Scaffolded tutoring dialogue
 - Problem solving with justification
 - Diagnosis and correction of errors
+
+## Claims
+
+- [Education-oriented instruction tuning consistently improves curriculum grounding, K-12 problem solving, and pedagogical tutoring at every evaluated model scale](../claims/omniedu-tuning-improves-all-three-educational-capability-groups.md) [+W]
 
 ## Related Strategies
 - 

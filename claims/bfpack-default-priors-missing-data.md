@@ -43,6 +43,8 @@ Descriptive statement from the article's abstract enumerating the analyses BFpac
 
 
 ## Related Claims
+
 - [Linear regression outperformed equipercentile and mean-sigma equating for predicting ARM scores and was selected as the final linking model](linear-regression-selected-linking-model.md) — related
 - A linear regression on skill variables (n, dim, pc) predicts the minimum RSS value for BKT-BF training with high predictive ability — related
 - [BFpack provides both Bayesian exploratory and confirmatory hypothesis testing tools with equality and order constraints](bfpack-exploratory-confirmatory-testing-tools.md) — related
+- [Missing data in the analysis samples occurred largely at random](missing-data-largely-at-random-training-study.md)

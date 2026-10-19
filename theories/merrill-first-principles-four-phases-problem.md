@@ -48,7 +48,6 @@ The digest presents Merrill's (2002) First Principles of Instruction as the most
 ## Examples
 
 - [Merrill's First Principles of Instruction](../patterns/4cid-four-component-instructional-design.md)
-- [Demonstration, application, and integration corollaries of Merrill's framework](../patterns/merrill-demonstration-application-integration-corollaries.md)
 - [Problem-centered instruction with task-level engagement and problem progression](../principles/problem-based-learning.md)
 
 ## Key Sources

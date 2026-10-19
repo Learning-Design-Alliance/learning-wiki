@@ -50,3 +50,4 @@ Authors' interpretation from examining test papers: "a large majority of the DM 
 - [Polya Method students outscore Dahmus Method students on the equation criterion for verbal problems](polya-method-beats-dahmus-on-equation-criterion.md) — related
 - [Polya and Dahmus methods do not differ on the problem solution criterion](no-treatment-difference-problem-solution-criterion.md) — related
 - [Typical verbal achievement tests may underestimate students' subject-matter knowledge because of a mismatch between the test's symbolic form and students' symbolic encoding](verbal-achievement-tests-may-underestimate-via-symbolic-mismatch.md) — a broader claim this one bears on
+- [Ninth grade algebra students solve verbally presented problems better than symbolically presented problems](students-verbal-problems-easier-than-symbolic.md)

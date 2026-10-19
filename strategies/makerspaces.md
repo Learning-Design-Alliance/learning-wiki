@@ -68,6 +68,7 @@ Makerspaces enact constructionist claims that learning is deepest when learners 
 - [Design Challenges](design-challenges.md) — a structured prompt format that gives makerspace activity direction without prescribing solutions
 - [Peer Critique](peer-critique.md) — the feedback routine that turns individual making into collective learning
 - [Connect computational thinking to local maker and problem-solver heritage to teach it responsively to local culture](connect-ct-to-local-maker-heritage.md)
+- [Develop new pedagogical solutions to facilitate and collectively manage students' multimodal knowledge practices in makerspaces](pedagogical-solutions-multimodal-knowledge-practices.md)
 
 ## Examples
 - **[Maker Ed](https://makered.org)** — supports school and library makerspace programs with guidance on facilitation and equitable implementation.

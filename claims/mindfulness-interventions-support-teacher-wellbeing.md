@@ -62,4 +62,5 @@ The review reports two non-supportive mindfulness studies: "participants reporte
 
 
 ## Related Claims
--
+
+- [Professional development interventions showed mixed outcomes, with 14 of 20 studies supportive and 6 non-supportive](professional-development-interventions-mixed-outcomes.md)

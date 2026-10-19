@@ -43,4 +43,8 @@ The author's editorial assessment, based on eight years editing Metacognition an
 
 
 ## Related Claims
--
+
+- [The complex interaction between cognition and metacognition is hard to disentangle because the constructs rely on and influence each other and share processes](cognition-metacognition-interaction-dilemma.md)
+- [Distinguishing metacognitive knowledge from skills, and metacognition from self-regulated learning, is an unresolved field-wide issue](metacognition-knowledge-skills-distinction-unresolved.md)
+- [Whether metacognition is domain-general or domain-specific remains a major unresolved issue with implications for instruction and transfer](metacognition-domain-generality-specificity-open-issue.md)
+- [Metacognition assessment is shifting from self-report questionnaires toward process-oriented multimodal methods, which face validity and data-alignment challenges](process-oriented-metacognition-assessment-shift.md)

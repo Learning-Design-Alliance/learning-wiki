@@ -41,7 +41,9 @@ A reusable program-level design in which the clinical year is broken into 2-week
 - 
 
 ## Related Designs
-- 
+
+- [Residency clinical faculty site coordinator role](residency-site-coordinator-role.md)
+- [Sanger STaR integrated two-semester curriculum: eleven courses consolidated into two yearlong integrated courses, saving residents roughly $4,000](sanger-star-integrated-two-semester-curriculum.md)
 
 ## Examples
 -

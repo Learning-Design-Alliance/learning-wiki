@@ -73,9 +73,47 @@ The California framework organizes all K-12 social sciences programs around five
 
 ## Examples
 
-- [Grade-span structure of program goals with illustrative, non-sequential level objectives](../patterns/grade-span-illustrative-objectives-pattern.md)
+- [Grade-span structure of program goals with illustrative, non-sequential level objectives](social-sciences-education-framework-for-california-public-schools.md)
 - [Adopted instructional materials should reflect learning principles, pupil maturity, major cultures, varied teaching methods, and individual differences](../designs/materials-reflect-principles-of-learning.md)
 - [Use studies of human experience across world societies with an interdisciplinary focus through grade eight](../strategies/interdisciplinary-human-experience-studies-strategy.md)
+
+## Key Sources
+- Social Sciences Education Framework for California Public Schools, Kindergarten and Grades One through Twelve. (1975). California State Department of Education. https://eric.ed.gov/?id=ED120079
+-->
+
+<!-- merged 2026-10-19 from patterns/grade-span-illustrative-objectives-pattern ("Grade-span structure of program goals with illustrative, non-sequential level objectives"), a narrower page folded into its canonical page (fragment step): its body as it stood. Its bullets this page lacked were added above.
+
+# Grade-span structure of program goals with illustrative, non-sequential level objectives
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+The framework organizes objectives across four grade spans—K-3, 4-6, 7-8, and 9-12—stating program goals for the whole span and illustrative level objectives for each. It explains that 'Illustrative level objectives are presented for each of the grade spans. These objectives are not comprehensive as to objectives that might be specified for any particular program goal, nor are they sequential. They are, however, responsive to the changing maturity of students.' Districts are responsible for further delineation into behavioral objectives.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Further delineation of objectives into behavioral statements must be the responsibility of each school district
+#### Constraints
+- Objectives are illustrative, not comprehensive or sequential; grade spans were selected because they 'make possible reasonable instructional statements'
+
+### Target Learners
+- Students in kindergarten through grade three, grades four through six, grades seven and eight, and grades nine through twelve
+
+### Target Goals
+- Developmentally appropriate social sciences understandings and skills
+
+### Claims
+
+- [The framework's first Goal I program goal is helping students understand interdisciplinary concepts through studies of human experience, with the remaining goals implicit in the illustrative objectives](../claims/goal-i-program-goals-explication.md) [+W]
+
+## Related Patterns
+- 
+
+## Examples
+-
 
 ## Key Sources
 - Social Sciences Education Framework for California Public Schools, Kindergarten and Grades One through Twelve. (1975). California State Department of Education. https://eric.ed.gov/?id=ED120079

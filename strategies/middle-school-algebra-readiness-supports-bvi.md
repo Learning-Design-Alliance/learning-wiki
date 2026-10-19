@@ -17,7 +17,7 @@ sources:
 # Begin targeted math support for BVI students in middle school, focusing on algebra-predictive topics with systematic differentiated instruction and inclusive assessment
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The review recommends starting support for BVI students' propensity to lag in mathematics in middle school, because success in algebra is a predictor for future college and career success. Teachers must know students' ongoing needs and adapt in a timely manner, combining systematic differentiated instruction with inclusive assessments that meet every test taker at their zone of proximal development and use a growth point framework. The most predictive middle school topics named are expressions and equations, and properties of the natural number set as they operate in rational and integer number sets.
@@ -39,9 +39,12 @@ The review recommends starting support for BVI students' propensity to lag in ma
 
 ## Claims
 
+- [Math achievement of BVI students lags sighted peers and the gap widens with age](../claims/bvi-math-achievement-lags-and-gap-widens.md) [+W]
+- [BVI students face material and instructional barriers: late STEM materials, error-laden tactile worksheets, and variable teacher graphic descriptions](../claims/bvi-material-instructional-barriers.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Add a gestures-teaching world to enable differentiated starting points, and expand content beyond linear equations](fh2t-differentiation-and-content-expansion-strategy.md)
 
 ## Examples
 -

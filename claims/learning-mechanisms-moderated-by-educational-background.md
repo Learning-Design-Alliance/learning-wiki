@@ -62,4 +62,6 @@ Comparing STEM vs. non-STEM students within the expository condition, effect siz
 
 
 ## Related Claims
--
+
+- [Narrative and expository instruction produce no significant differences in recall or understanding of biological concepts](narrative-expository-no-recall-understanding-difference.md)
+- [Narrative instruction produces higher transfer performance than expository instruction in undergraduate biology learning](narrative-instruction-higher-transfer-biology.md)

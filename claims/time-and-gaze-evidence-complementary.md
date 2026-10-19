@@ -62,4 +62,6 @@ Similar evidence-withholding analysis for exploration nodes (Table 8): time-only
 
 
 ## Related Claims
--
+
+- [Adding eye-tracking evidence to ACE's student model significantly improves assessment of implicit self-explanation over a time-only model](eye-tracking-improves-implicit-se-assessment.md)
+- [More accurate assessment of self-explanation significantly improves the model's assessment of student learning through exploration](se-assessment-improves-exploration-assessment.md)

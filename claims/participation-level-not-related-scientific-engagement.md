@@ -43,4 +43,5 @@ A homophily analysis categorized participants by post totals into high, medium, 
 
 
 ## Related Claims
--
+
+- [Participation in non-scientific discussion was weakly negatively related to participation in scientific discussion (r = 0.14, p < 0.05)](negative-qap-scientific-non-scientific.md)

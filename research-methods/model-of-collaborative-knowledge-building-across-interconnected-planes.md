@@ -12,7 +12,7 @@ generated:
 # Model of collaborative knowledge building across interconnected planes
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Figure 3 presents "A model of collaborative knowledge building", adapted from Stahl 2006 Ch. 9, indicating typical processes on each primary plane and "possible paths of influence or connection, as events unfolding on the different planes interpenetrate each other". The boxes and arrows operationalize an infinitely complex matter for concrete analytic work. The article states the figure sketches constraints and flows of influence without claiming to explain or model them.
@@ -23,8 +23,12 @@ Figure 3 presents "A model of collaborative knowledge building", adapted from St
 
 ### Claims
 
+- [Small-group interaction generates and retains resources across all three planes](../claims/small-group-interaction-generates-shared-resources.md) [+W]
+- [Connections among the planes of learning lack theoretical and empirical analysis](../claims/plane-connections-lack-theory-and-data.md) [+W]
+
 ## Related Research Methods
--
+
+- [Three planes of learning in CSCL: individual, small-group, and community](three-planes-of-learning-in-cscl-individual-small-group-and-community.md)
 
 ## Key Sources
 - Stahl, G. (2012). Traversing planes of learning. Computer-Supported Collaborative Learning, 7, 467–473. https://doi.org/10.1007/s11412-012-9159-7

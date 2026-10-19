@@ -43,4 +43,5 @@ In a seven-day experience-sampling study, twelve visually impaired high school s
 
 
 ## Related Claims
--
+
+- [School interactions of students with visual impairments were dominated by receiving help, with few involving giving help](school-interactions-receiving-help-not-giving.md)

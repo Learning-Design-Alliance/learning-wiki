@@ -48,6 +48,7 @@ The article's procedure: students receive explicit genre instruction, draft inde
 - [Implement an AI-Peer-Teacher hybrid integrated feedback model staged across drafting, revision, and polishing phases](ai-peer-teacher-hybrid-feedback-model.md)
 - [Instructors integrating generative AI into writing-intensive courses should have students critically understand, access, prompt, vet and integrate AI-produced content](critical-ai-use-writing-intensive-stem-strategy.md)
 - [Provide timely automated feedback through an AI chatbot during EFL writing practice](ai-chatbot-feedback-writing-courses.md)
+- [Have students compare their peer-feedback revisions with AI-generated revisions to examine dialogic positioning](compare-peer-and-ai-revisions-dialogic-positioning.md)
 
 ## Examples
 -

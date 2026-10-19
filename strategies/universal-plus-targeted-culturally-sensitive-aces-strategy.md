@@ -17,7 +17,7 @@ sources:
 # Pair universal ACEs prevention with culturally sensitive targeted intervention, and incorporate ACEs conversations into well-child visits
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Because the study found ACEs are distributed widely across race/ethnicity and income rather than concentrated only in disadvantaged families, the authors recommend combining universal prevention with targeted intervention. They state that "ACEs conversations should be routinely incorporated into well-child visits to provide foundational knowledge of toxic stress and health and to share resilience-promoting resources with children and parents as early as possible", and that racial/ethnic differences "underscore the importance of prevention and intervention programs that are culturally sensitive". A two-generational, social-determinant-of-health and trauma framework is recommended for strengthening resilience.
@@ -39,6 +39,10 @@ Because the study found ACEs are distributed widely across race/ethnicity and in
 - recognizing and managing stress
 - building resilience
 - reducing health and achievement inequities
+
+## Claims
+
+- [ACE exposure is unevenly distributed: children below 400% FPL and Black and Hispanic children have higher prevalence of two or more ACEs](../claims/ace-prevalence-disparities-fpl-and-race.md) [+W]
 
 ## Related Strategies
 - 

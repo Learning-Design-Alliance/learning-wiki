@@ -24,7 +24,10 @@ The editorial describes the PISA framework (OECD 2017) as emphasizing "the relev
 ### Claims
 
 ## Related Research Methods
--
+
+- [Meier et al. rating schema for productive collaboration](meier-et-al-rating-schema-for-productive-collaboration.md)
+- [Divergent Collaborative Learning Mechanisms (DCLM) framework](divergent-collaborative-learning-mechanisms-dclm-framework.md)
+- [Situated-interaction analysis of CSCL processes](situated-interaction-analysis-of-cscl-processes.md)
 
 ## Key Sources
 - Sten Ludvigsen, Ulrike Cress, Nancy Law, Gerry Stahl, Carolyn P. Rosé. (2018). Multiple forms of regulation and coordination across levels in educational settings. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-018-9274-1

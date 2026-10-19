@@ -43,4 +43,7 @@ A scoping review synthesizing 16 task-unrelated and task-related neuroimaging st
 
 
 ## Related Claims
--
+
+- [Excessive smartphone use in adolescents is associated with reduced frontostriatal connectivity and greater cortisol-related withdrawal symptoms](excessive-smartphone-frontostriatal-cortisol.md)
+- [Adolescents with Internet addiction show structural and resting-state functional brain alterations, including reduced gray matter density, reduced white matter FA, and decreased connectivity in DMN and CEN](internet-addiction-adolescent-brain-alterations.md)
+- [Frequency of Internet use negatively predicts longitudinal change in gray and white matter volumes and in verbal IQ in early adolescents](internet-use-frequency-longitudinal-gray-matter-verbal-iq.md)

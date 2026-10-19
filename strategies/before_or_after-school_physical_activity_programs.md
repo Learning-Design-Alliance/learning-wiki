@@ -61,9 +61,11 @@ Physical activity is associated with modest improvements in attention, executive
 7. Evaluate participation, fitness, behavior, and (secondarily) academic indicators each term; adjust scheduling and outreach to close equity gaps.
 
 ## Related Strategies
+
 - [Classroom Physical Activity Breaks](classroom-physical-activity-breaks.md) — the in-class complement; acute movement during lessons targets the same attention mechanisms
 - [Active Recess](active-recess.md) — unstructured daytime movement that stacks with before/after programs
 - [Comprehensive School Physical Activity Programs](comprehensive-school-physical-activity-programs.md) — the framework that coordinates this strategy with PE and activity breaks
+- [Research and training programs should differentiate age periods, sporting disciplines, and compare physically active with cognitively active groups](future-research-differentiate-ages-disciplines-cognitively-active.md)
 
 ## Examples
 - **[BOKS](https://www.bokskids.org)** — a before-school physical activity program offering structured 12-week curricula of running, games, and skill work, active in thousands of schools across North America.

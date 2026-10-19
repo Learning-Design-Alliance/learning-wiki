@@ -1,7 +1,7 @@
 ---
 type: principle
 id: humanistic-radical-adult-education
-aliases: [ecologically-just-speculative-futurity-for-praxis, expand-ccp-sphere-of-concern-to-more-than-human]
+aliases: [ecologically-just-speculative-futurity-for-praxis, expand-ccp-sphere-of-concern-to-more-than-human, teach-rhetorics-not-rhetoric]
 title: Adopt humanistic and radical approaches so adult learners develop as individuals and can question social injustice
 description: "For adult learners, a course in which the educator hears and answers views unlike their own, brings social events in as material to question and leaves action to the learner is expected to strengthen learners' sense of voice, systemic accounts of social problems and readiness to act, but no claim in the wiki tests this, and the one controlled survey found more frequent discussion did not predict more critical reflection."
 canonical: true
@@ -18,12 +18,16 @@ sources:
     resource: "https://doi.org/10.31446/JCP.2025.1.07"
     title: "Rife, T. S. (2025). Critical Communication Pedagogy at the End of the World. Journal of Communication Pedagogy. https://doi.org/10.31446/JCP.2025.1.07"
     author: Rife, T. S
+  - id: cyphert-1996
+    resource: "https://eric.ed.gov/?id=ED403616"
+    title: "Cyphert, Dale. (1996). Taking the Helm in Critical Pedagogy: The Basic Speech Curriculum as an Operationalization of the Paradigm. https://eric.ed.gov/?id=ED403616"
+    author: Cyphert, Dale
 ---
 
 # Adopt humanistic and radical approaches so adult learners develop as individuals and can question social injustice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 14 claims (10 for, 4 mixed) · 10 studies (4 theoretical, 2 associational, 2 qualitative, 2 design), `q1`–`q3` · 1 of 10 report an effect size · 14 claims rest on one study
+> **Evidence** · 15 claims (11 for, 4 mixed) · 11 studies (5 theoretical, 2 associational, 2 qualitative, 2 design), `q1`–`q3` · 1 of 11 report an effect size · 15 claims rest on one study
 
 ## Conditional relationship
 
@@ -117,6 +121,7 @@ No claim in the wiki compares a humanistic or radical approach with the same con
 - [Renewable assignments such as student-created quiz questions transcend classroom boundaries and can ameliorate economic injustice](../claims/renewable-assignments-economic-justice.md) [+W]: a conceptual analysis of one class's question-writing assignment; bears on step 7 as argument only.
 - [Students who witnessed concern for community and current events at home, in the neighborhood or at school were more likely to be committed to civic participation](../claims/experiencing-civic-community-fosters-commitment.md) [+M]: the same Chicago survey; students who saw concern for community and current events around them were more committed to civic participation. Associational; the title's "fosters" is causal wording the design does not support.
 - [Conscientization, grounded in Freire's consciousness-raising, is argued to fit adventure therapy's experiential learning methodology as the first empowerment level](../claims/conscientization-fits-adventure-therapy.md) [+W]: an opinion paper linking Freire's problem-posing dialogue to adventure education; no data. Bears on the radical half's lineage, not on its effect.
+- [Basic speech textbooks have not incorporated contemporary rhetorical theory, remaining nearly unchanged across decades](../claims/basic-speech-texts-unchanged.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -140,6 +145,7 @@ Feeling heard, voicing a view, explaining a problem systemically, imagining an a
 - [Community-Based Learning](community-based-learning.md)
 - [Autonomy](autonomy.md)
 - [Reflection](reflection.md)
+- [The basic course should teach canonicity — how communities standardize and enforce discourse — rather than the canon itself](rhetorical-skill-development.md)
 
 ## Examples
 
@@ -147,10 +153,13 @@ Feeling heard, voicing a view, explaining a problem systemically, imagining an a
 - [Assign speculative theory-fiction writing to build students' capacity for ecologically just futurity](../strategies/speculative-theory-fiction-assignment.md)
 - [Task students with proposing a neologism and a golden spike placement to expose the rhetoricity of historicizing the Anthropocene](../strategies/golden-spike-neologism-assignment.md)
 - [Threading, Weaving, Patternmaking](../designs/threading-weaving-patternmaking.md) (an 8th-grade physics unit using critical speculative design; the design in one of the studies above)
+- [Producing Counter-texts](../strategies/producing_counter-texts.md)
+- [Multimodal Composition](../strategies/composition_projects-multimodal.md)
 
 ## Key Sources
 - Ellis, M. L. (2012). Using the Pragmatic Progressive Philosophy in Adult Education. https://eric.ed.gov/?id=ED536865
 - Rife, T. S. (2025). Critical Communication Pedagogy at the End of the World. Journal of Communication Pedagogy. https://doi.org/10.31446/JCP.2025.1.07
+- Cyphert, Dale. (1996). Taking the Helm in Critical Pedagogy: The Basic Speech Curriculum as an Operationalization of the Paradigm. https://eric.ed.gov/?id=ED403616
 
 <!-- deprecated 2026-10-15: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -297,4 +306,47 @@ This principle holds that critical communication pedagogy, alongside emancipatin
 
 ## Key Sources
 - Rife, T. S. (2025). Critical Communication Pedagogy at the End of the World. Journal of Communication Pedagogy. https://doi.org/10.31446/JCP.2025.1.07
+-->
+
+<!-- merged 2026-10-19 from principles/teach-rhetorics-not-rhetoric ("The basic course should teach rhetorics — multiple voices and how communities create public spheres — rather than a single rhetoric"), a narrower page folded into its canonical page (fragment step, two models agreeing or a third settling): its body as it stood. Its bullets this page lacked were added above.
+
+# The basic course should teach rhetorics — multiple voices and how communities create public spheres — rather than a single rhetoric
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+The fifth operationalization values a multiplicity of voices while developing a public language for critical democracy. The paper argues that "the course that teaches students to present themselves credibly, to develop a public ethos, and to tailor their words to the situation and audience is a course that silences every voice," because it relegates unformed ideas and the quest for consensus to private discourse. The course would instead address how a community can, does, and does not create a public sphere in which different voices can be heard, drawing on bell hooks's account of authentic listening.
+
+## Design Implications
+
+### Context
+#### Requirements
+- The value rests in developing a referent for a public language that provides students rhetorical tools for critical democracy and responsible citizenship, not simply allowing all voices to be heard
+#### Constraints
+- The paper notes there might not yet be an alternative model to offer undergraduates, who could be invited to join the search
+
+### Target Learners
+- undergraduates whose personal concerns and authentic voices are otherwise silenced
+
+### Target Learning Objectives
+- hearing honest expression including confusions, doubts, and anxieties
+- exploring authentic concerns in a public environment
+
+### Claims
+
+- [Critical Pedagogy As Rhetorical Education](../theories/critical-pedagogy-as-rhetorical-education.md) [+M]
+- [Basic speech textbooks have not incorporated contemporary rhetorical theory, remaining nearly unchanged across decades](../claims/basic-speech-texts-unchanged.md) [+W]
+
+## Related Principles
+
+- [The basic course should teach canonicity — how communities standardize and enforce discourse — rather than the canon itself](rhetorical-skill-development.md)
+
+## Examples
+
+- [Producing Counter-texts](../strategies/producing_counter-texts.md)
+- [Multimodal Composition](../strategies/composition_projects-multimodal.md)
+
+## Key Sources
+- Cyphert, Dale. (1996). Taking the Helm in Critical Pedagogy: The Basic Speech Curriculum as an Operationalization of the Paradigm. https://eric.ed.gov/?id=ED403616
 -->

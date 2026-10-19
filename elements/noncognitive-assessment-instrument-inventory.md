@@ -44,7 +44,8 @@ The review identifies that many instruments are available to postsecondary insti
 - 
 
 ## Examples
--
+
+- [Segmenting students by noncognitive attributes as a promising but unproven approach to improving postsecondary success](../strategies/segmentation-for-postsecondary-success-strategy.md)
 
 ## Key Sources
 - Ann E. Person, Scott E. Baumgartner, Kristin Hallgren, Betsy Santos. (2014). Measurement and Segmentation of College Students' Noncognitive Attributes: A Targeted Review. Oakland, CA: Mathematica Policy Research. https://www.mathematica.org/publications/measurement-and-segmentation-of-college-students-noncognitive-attributes-a-targeted-review

@@ -17,7 +17,7 @@ sources:
 # Integrate oracy and literacy in meaningful activities rather than treating the four modes as separate
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The brief recommends lessons in which students read, write, listen, and speak to deepen mathematical practices, integrating oracy and literacy instead of treating the modes as separate domains. It cites writing individually before discussing as one integration example, and describes the Reading in Four Voices task where segmented fable readings support collective drawing and distance–time graph coordination.
@@ -36,8 +36,13 @@ The brief recommends lessons in which students read, write, listen, and speak to
 ### Target Learning Goals
 - deepening mathematical practices through multimodal communication
 
+## Claims
+
+- [In the Reading in Four Voices task, students connected story values to a distance–time graph by engaging in both literacy and oracy](../claims/reading-four-voices-connects-story-and-graph.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Language Experience Approach](language_experience_approach.md)
 
 ## Examples
 -

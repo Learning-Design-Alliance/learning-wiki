@@ -17,7 +17,7 @@ sources:
 # Requirements session in which participants directly list and rate requirements for future technology
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The final FTW session has the whole group produce a set of requirements for each model, described to participants as "the set of instructions they would give to an engineer who would be willing to implement the model". Participants identify the two most important requirements per model and individually rate requirements on a scale between 1 and 5, with 5 having the most importance/appeal. This yields an explicit list of requirements directly from participants rather than designer interpretations.
@@ -38,6 +38,10 @@ The final FTW session has the whole group produce a set of requirements for each
 
 ### Affordances
 - [Future Technology Workshop Method](../research-methods/future-technology-workshop-ftw-method.md)
+
+## Claims
+
+- [Early FTW pilots produced only general non-functional requirements, prompting method modifications](../claims/ftw-pilots-general-requirements-led-to-modifications.md) [+W]
 
 ## Related Strategies
 - 

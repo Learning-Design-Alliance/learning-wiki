@@ -41,7 +41,8 @@ A long-running joint project in a UK high school in which students act as resear
 - 
 
 ## Related Designs
-- 
+
+- [Students as Researchers: a radical approach positioning students as agents of change rather than data sources](students-as-researchers-radical-approach.md)
 
 ## Examples
 -

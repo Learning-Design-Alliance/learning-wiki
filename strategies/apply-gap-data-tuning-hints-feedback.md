@@ -17,7 +17,7 @@ sources:
 # Apply GAP data in educational game design through difficulty tuning, hints, and feedback
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The chapter proposes three methods for using persistence detection to enhance learning in educational games. As the authors state, "Next, we discuss three potential methods to apply GAP data in educational game design: tuning gameplay difficulty, hints, and feedback." Difficulty tuning aims to keep players in the ZPD so they are challenged enough to exhibit persistence without excessive frustration; GAP can inform targeted hints by indicating the player's current state; and real-time GAP feedback could give players a new metric, like a badge or trophy, for self-regulating their persistence.
@@ -36,8 +36,13 @@ The chapter proposes three methods for using persistence detection to enhance le
 ### Target Learning Goals
 - persistence and physics learning in game-based environments
 
+## Claims
+
+- [The usefulness of the GAP depends on players being sufficiently challenged in the game](../claims/gap-usefulness-depends-on-challenge.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Use the solver as a hint engine for intelligent tutoring of spatial reasoning in puzzle games](solver-as-tutoring-hint-engine-spatial-games.md)
 
 ## Examples
 -

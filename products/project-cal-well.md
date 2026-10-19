@@ -44,6 +44,7 @@ Project Cal-Well is a California Department of Education initiative, funded thro
 
 - [Children and Youth Behavioral Health Initiative (CYBHI)](children-and-youth-behavioral-health-initiative-cybhi.md)
 - [MindMatters school-based mental health promotion programme](mindmatters-school-based-mental-health-promotion-programme.md)
+- [California Educator Effectiveness Block Grant](california-educator-effectiveness-block-grant.md)
 
 ## Key Sources
 - Project Cal-Well: Building Sustainable School-Based Mental Health Systems. (2024). WestEd. https://wested.org

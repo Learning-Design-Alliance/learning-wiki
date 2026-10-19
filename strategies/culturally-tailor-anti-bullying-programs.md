@@ -46,6 +46,7 @@ The authors recommend that anti-bullying programs be adapted to cultural differe
 ## Related Strategies
 
 - [Mount a new program of research on anti-bullying program effectiveness building on meta-analytic findings](new-research-program-on-anti-bullying-effectiveness.md)
+- [Develop customized anti-bullying intervention strategies according to the neurocognitive profile of students in each school](customized-interventions-student-neurocognitive-profiles.md)
 
 ## Examples
 -

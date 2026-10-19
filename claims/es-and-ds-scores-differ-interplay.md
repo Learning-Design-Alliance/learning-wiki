@@ -62,4 +62,5 @@ Same contrast for low-trust sources, reported in the Discussion. The article pri
 
 
 ## Related Claims
--
+
+- [References to the embedded source did not differ by sequence type, ranging from 17.6% to 35% across conditions](es-references-null-sequence-type.md)

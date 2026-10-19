@@ -62,4 +62,5 @@ Study 1 exploratory analyses of open-ended question codes (marginal, p = .06) an
 
 
 ## Related Claims
--
+
+- [Student-focused noticing marginally increased (Cohen's d = 0.43) while teacher-focused codes showed no change (d = 0.06)](blair2024-student-focused-increase-teacher-flat.md)

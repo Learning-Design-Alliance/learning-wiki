@@ -45,7 +45,8 @@ The TIP model is "a psychological perception model rather than a design-performa
 - [Technology Acceptance Moderates Vr Imagination Behavioral Intention](../claims/technology-acceptance-moderates-vr-imagination-behavioral-intention.md) [+M]
 
 ## Related Theories
-- 
+
+- [Three-hypothesis framework for the neural relationship between visual imagery and visual perception](three-hypotheses-imagery-perception-substrates.md)
 
 ## Examples
 

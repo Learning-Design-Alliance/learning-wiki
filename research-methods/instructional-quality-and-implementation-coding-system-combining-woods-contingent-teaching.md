@@ -26,7 +26,8 @@ A coding system the authors developed to measure explicit instruction and scaffo
 - [Feedback on domain information (partial and full feedback on how and why readers set purposes) was provided only to the high-gain teacher's high-change students](../claims/domain-feedback-key-ingredient-scaffolding.md) [+M]
 
 ## Related Research Methods
--
+
+- [Coding framework of metacognition intervention components and instructional methods](coding-framework-of-metacognition-intervention-components-and-instructional-methods.md)
 
 ## Key Sources
 - Fatima Zehra Allahverdi, Lynn Gelzheiser. (2025). Comparison of more effective and typical teachers' instructional quality and implementation of engaged reader processes. Instructional Science. https://doi.org/10.1007/s11251-025-09725-8

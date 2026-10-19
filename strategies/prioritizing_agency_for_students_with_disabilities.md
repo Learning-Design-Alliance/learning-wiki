@@ -76,6 +76,7 @@ Students who receive self-determination instruction show greater goal attainment
 - [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md) — a structured choice routine that builds the decision-making muscles agency requires
 - [Self-Regulated Learning](../theories/self-regulated-learning.md) — the goal-setting and self-monitoring cycle underlying student-directed learning
 - [Teach self-determination component elements through student-directed learning strategies and active student involvement in educational planning](student-directed-strategies-promote-self-determination.md)
+- [Teach problem-solving and study planning skills explicitly linked to language arts, science, and social studies standards](standards-linked-problem-solving-study-planning-instruction.md)
 
 ## Related Elements
 - [Accommodations](../elements/accommodations.md) — students who understand and select their own accommodations use them more consistently

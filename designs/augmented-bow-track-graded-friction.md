@@ -41,6 +41,7 @@ A speculative clip-on augmentation positioned between the bridge and fingerboard
 ## Related Designs
 
 - [Augmented bow hold aid with finger pressure force mapping](augmented-bow-hold-aid-force-mapping.md)
+- [Left-hand alignment wearable with personalized baseline and event-based haptic feedback](left-hand-alignment-wearable-haptic.md)
 
 ## Examples
 -

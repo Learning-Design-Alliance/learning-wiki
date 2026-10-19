@@ -62,4 +62,5 @@ The review reports, citing a rigorous meta-analysis (Sonuga-Barke et al., 2013),
 
 
 ## Related Claims
--
+
+- [A third systematic review concluded ADHD medication reduced symptoms and impairments but found limited and inconsistent evidence for long-term medication effects on social functioning, academic achievement, employment status, and psychiatric comorbidity](adhd-medication-limited-long-term-functional-effects.md)

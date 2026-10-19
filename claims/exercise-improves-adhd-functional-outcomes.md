@@ -43,4 +43,5 @@ Random-effects meta-analysis of studies on exercise effects on motor skills and 
 
 
 ## Related Claims
--
+
+- [Exercise effect sizes on ADHD functional outcomes are not related to exercise intensity, mean age of participants, or gender distribution](exercise-adhd-effects-unrelated-to-intensity-age-gender.md)

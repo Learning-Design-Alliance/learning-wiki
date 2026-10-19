@@ -41,7 +41,9 @@ The article proposes that two opposing processes operate during retrieval from s
 
 
 ## Related Theories
-- 
+
+- [Information Processing Theory](information-processing-theory.md)
+- [Elaborative Retrieval Account](elaborative-retrieval-account.md)
 
 ## Examples
 -

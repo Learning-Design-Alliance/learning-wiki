@@ -43,4 +43,7 @@ One of three cross-sectional studies (2,382 participants combined) in the review
 
 
 ## Related Claims
--
+
+- [Shorter sleep duration is associated with higher adiposity in children aged 0–4 years, though evidence quality is low](shorter-sleep-higher-adiposity-early-years.md)
+- [Shorter sleep duration is associated with more screen time in children aged 0–4 years (5 of 5 studies)](shorter-sleep-more-screen-time-early-years.md)
+- [Sleep duration shows no association with gross and fine motor skills in children aged 0–4 years](sleep-motor-development-null-early-years.md)

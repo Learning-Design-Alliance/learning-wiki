@@ -61,6 +61,8 @@ Cluster profiles from the discussion: cluster 1 (four senior professors) assigne
 
 
 ## Related Claims
+
 - Available resources received the highest AHP strength-of-influence priority (0.1753), marginally above institutional strategic orientation (0.1715) — related
 - Institutional strategic orientation received the highest overall SNAP priority (0.2072) among the seven enablers — related
 - [Seven enablers of LA-based educational interventions were identified and validated by an international expert panel](seven-enablers-la-based-educational-interventions.md) — related
+- [Experts rank Curriculum System and Content Design as the highest-priority dimension for AI certificate program evaluation, with Cross-Cultural Adaptability lowest](expert-priority-hierarchy-ai-certificate-dimensions.md)

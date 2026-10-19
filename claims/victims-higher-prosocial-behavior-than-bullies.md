@@ -41,4 +41,6 @@ Among the SDQ subscales, only prosocial behavior differentiated the groups (χ2 
 
 
 ## Related Claims
--
+
+- [Adolescents with self-disclosure or instrumental help-seeking preferences show higher adaptive coping and prosocial behaviors, and the self-disclosure group shows the lowest maladaptive coping and bullying, in ANOVA comparisons](anova-group-differences-conversation-preferences.md)
+- [Children who chose to comfort the victim reported higher self-efficacy and victim-help expectations than those who chose to confront the bully (descriptive, imbalanced groups)](remind-strategy-choice-descriptive-differences.md)

@@ -43,4 +43,5 @@ Interpretation of the visualized collaborative learning sequences (Figs. 5 and 6
 
 
 ## Related Claims
--
+
+- [Group A, who failed the learning task, devoted most dialogues to orientation and conceptualization and asked yes-no questions at the personal level, while group B, who succeeded, distributed dialogue across investigation and discussion](group-df-distribution-outcome-cscl-dst.md)

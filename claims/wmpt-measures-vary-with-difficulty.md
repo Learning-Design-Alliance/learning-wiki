@@ -62,4 +62,6 @@ Pearson correlation on the same sample found a small positive accuracy–confide
 
 
 ## Related Claims
+
 - [Absolute monitoring accuracy showed a mixed, inconsistent group-by-time interaction rather than a stable competitiveness difference](inconsistent-absolute-accuracy-competitiveness.md) — related
+- [Confidence on the WMPT predicts numeracy but not reading or spelling](confidence-predicts-numeracy-only.md)

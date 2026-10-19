@@ -58,4 +58,6 @@ The review states that the Guo et al. (2018) and Nie et al. (2022) RCTs showed b
 
 
 ## Related Claims
--
+
+- [In adolescents, prior music training was associated with faster test completion times but no executive function performance differences](music-training-adolescents-faster-completion-times.md)
+- [No significant group difference in working memory as measured by the Digit Span Backward subtest](no-group-difference-working-memory-dsb.md)

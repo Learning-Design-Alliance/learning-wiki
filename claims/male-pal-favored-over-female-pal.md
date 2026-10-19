@@ -43,4 +43,5 @@ The review reports, citing Kim and Baylor (2005a, 2005b) and Baylor and Kim (200
 
 
 ## Related Claims
--
+
+- [PALs expressing positive mood were perceived as more facilitating, engaging, and intelligent than negative-mood PALs](positive-mood-pal-better-perceived.md)

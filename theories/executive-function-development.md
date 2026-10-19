@@ -241,12 +241,15 @@ Executive function is closely tied to, but distinct from, adolescent risk-taking
 - [Skehan's limited attention capacity prediction as an account of task complexity effects on child L2 development](skehan-limited-attention-capacity-child-task-recasts.md)
 - [Attachment internal working models as cognitive schemes linking early relationships to flexibility and adjustment](internal-working-models-cognitive-scheme-framework.md)
 - [Learning-related behaviors as a mechanism linking executive function to mathematics achievement](learning-behaviors-mechanism-ef-math.md)
+- [Adolescence as a neurobiological 'reconstruction zone' — a sensitive period in which experiential input shapes executive function and social cognition](adolescent-brain-reconstruction-zone-sensitive-period.md)
 
 ## Examples
 
 - [Red Light, Purple Light: a preschool music-and-movement games program for self-regulation](../products/red-light-purple-light.md)
 - [Fueling Brains pre-kindergarten executive function program](../products/fueling-brains.md)
 - [Target communicative perspective-taking and working memory in interventions for adolescent social difficulties](../strategies/interventions-targeting-perspective-taking-and-working-memory.md)
+- [Extended 36-trial Red-Blue Test](../products/extended-36-trial-red-blue-test.md)
+- [Go/No-Go and Nebraska Barnyard inhibition and working-memory tasks](../products/gono-go-and-nebraska-barnyard-inhibition-and-working-memory-tasks.md)
 
 ## Key Sources
 - Fay-Stammbach, T., Hawes, D. J., & Meredith, P. (2014). Parenting influences on executive function in early childhood: A review. *Child Development Perspectives, 8*(4), 258-264.

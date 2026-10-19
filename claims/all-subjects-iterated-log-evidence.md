@@ -43,4 +43,7 @@ Log-file analysis of eight novice designers working five days on a simulator-spe
 
 
 ## Related Claims
--
+
+- [Novice designers produced acceptable training program designs with the MASTER-TPD method and accompanying support](novices-produce-acceptable-designs-with-tpd-support.md)
+- [Scheduled design cycles and peer review most successfully evoked iteration; the resources message and chat sessions were less successful](scheduled-cycles-and-peer-review-evoked-iteration-most.md)
+- [Subjects most often attributed their iteration to new insights or discovering that initial choices were not the best](subjects-attribute-iteration-to-new-insights.md)

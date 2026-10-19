@@ -71,10 +71,12 @@ Summarizing is effective because it forces generative processing: learners must 
 - [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) — "enhancing retention and transfer" event
 
 ## Examples
+
 - **[Reciprocal Teaching](https://www.readingrockets.org/topics/comprehension/articles/reciprocal-teaching-text-structure)** — Palincsar and Brown's routine trains small groups to alternate summarizing, questioning, clarifying, and predicting while reading; summarizing is the anchor strategy.
 - **[ Cornell Note-Taking System](https://cil.cornell.edu/learning-strategies/cornell-note-taking/)** — Learners divide notes into cues and a summary section, forcing a written summary within 24 hours of the lecture.
 - **[Retrieval-enhanced "brain dump" + summary](../strategies/exit-ticket.md)** — End-of-class routine: learners write everything they remember, then condense it into a three-sentence summary; the instructor reviews these as formative data.
 - **[Edpuzzle](https://edpuzzle.com)** — Embedded questions in video lessons can require learners to summarize a segment in their own words before proceeding.
+- [Assign end-of-unit letter-writing tasks summarizing science concepts for a chosen audience](../strategies/end-of-unit-letter-writing-task.md)
 
 ## Key Sources
 - Palincsar, A. S., & Brown, A. L. (1984). Reciprocal teaching of comprehension-fostering and comprehension-monitoring activities. *Cognition and Instruction, 1*(2), 117–175. [doi:10.1207/s1532690xci0102_1](https://doi.org/10.1207/s1532690xci0102_1)

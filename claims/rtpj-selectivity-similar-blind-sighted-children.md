@@ -43,4 +43,6 @@ Selectivity analysis in individual-subject and group-defined ToM ROIs comparing 
 
 
 ## Related Claims
--
+
+- [Blind children reason about visually sourced mental states similarly to sighted children](blind-children-similar-visual-experience-items.md)
+- [RTPJ selectivity correlates with behavioral ToM task performance across blind and sighted children combined](rtpj-selectivity-correlates-tom-behavior.md)

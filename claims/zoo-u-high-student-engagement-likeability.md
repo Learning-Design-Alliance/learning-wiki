@@ -62,4 +62,5 @@ Observer records and usage logs during the school computer-lab testing sessions.
 
 
 ## Related Claims
--
+
+- [Zoo U subscales are intercorrelated in patterns the authors attribute to real-world overlap among social skills competencies](zoo-u-subscale-intercorrelations-expected-overlap.md)

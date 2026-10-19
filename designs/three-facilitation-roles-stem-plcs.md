@@ -40,7 +40,8 @@ Drawing on research the synthesis cites, facilitators of STEM learning teams ful
 - 
 
 ## Related Designs
-- 
+
+- [Site coordinator role combining field supervision, coaching, seminar teaching, mentor training, and governance facilitation](site-coordinator-role-residency-element.md)
 
 ## Examples
 -

@@ -74,6 +74,7 @@ Reigeluth (2011) elaborates the roles that shift under this paradigm. **Teachers
 ## Related Theories
 
 - [Competency-based education measures learning rather than class time, letting students progress at a flexible pace upon demonstrating mastery](competency-based-education-flexible-pace-mastery.md)
+- [Education 4.0 paradigm](education-4-0-paradigm-review-account.md)
 
 ## Related Principles
 - [Scaffolding and Fading](../principles/scaffolding-and-fading.md) — differentiated instruction under this paradigm still relies on scaffolding calibrated to each learner's zone of proximal development
@@ -83,6 +84,8 @@ Reigeluth (2011) elaborates the roles that shift under this paradigm. **Teachers
 - The Chugach School District (Alaska) systemic transformation to individual learning plans, student assessment binders, and mastery-based graduation standards
 - An "inventory of attainments" progress model (similar to Scouting merit badges) where students move to the next topic upon mastery rather than waiting for the group
 - [Relax the time base of instruction: let students progress at their own pace toward mastery benchmarks](../strategies/relax-time-base-mastery-progression.md)
+- [Four-dimensional personalization framework for study planning: goals, time, pace, and path](../designs/four-dimensional-personalization-goals-time-pace-path.md)
+- [Aurora Institute's Seven Critical Elements of Instructional Practice](../products/aurora-institutes-seven-critical-elements-of-instructional-practice.md)
 
 ## Key Sources
 - Watson, S. L., & Reigeluth, C. M. (2008). The learner-centered paradigm of education. *Educational Technology, 54*(3), 42–48. Republished in R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/learnercentered_paradigm](https://edtechbooks.org/lidtfoundations/learnercentered_paradigm)

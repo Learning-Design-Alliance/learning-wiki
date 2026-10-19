@@ -71,7 +71,9 @@ Drawing on new materialist and posthumanist theory (Barad's concept of intra-act
 - [Cultural-Historical Activity Theory](cultural-historical-activity-theory.md) — both treat tools as culturally mediating, though this perspective foregrounds material agency and gendered histories specifically
 
 ## Examples
+
 - [Hands-on Learning](../elements/hands-on-learning.md) — this theory adds that *which* materials are used in a hands-on task is not an interchangeable implementation detail
+- [Two-hour classroom AI literacy workshop combining LLM concepts with agency-preserving regulation practice](../designs/two-hour-ai-literacy-regulation-workshop.md)
 
 ## Key Sources
 - Peppler, K., & Thompson, N. (2024). Tools and materials as non-neutral actors in STEAM education. *Journal of the Learning Sciences, 33*(4-5), 719-756. [https://doi.org/10.1080/10508406.2024.2380694](https://doi.org/10.1080/10508406.2024.2380694)

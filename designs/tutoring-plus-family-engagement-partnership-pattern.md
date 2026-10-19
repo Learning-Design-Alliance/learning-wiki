@@ -41,7 +41,9 @@ The program's design pattern combines a minimum tutoring dosage with structured 
 ### Claims
 
 ## Related Designs
-- 
+
+- [Push-in short-burst tutoring with personalized dosage](push-in-short-burst-personalized-tutoring.md)
+- [Embedded high-dosage tutoring pattern: small ratios, in-schedule sessions, and classroom-aligned sequencing](embedded-high-dosage-tutoring-pattern.md)
 
 ## Examples
 -

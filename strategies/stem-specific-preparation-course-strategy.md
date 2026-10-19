@@ -39,7 +39,9 @@ Because the gap traces to incoming preparedness and does not shrink on its own, 
 - strengthening incoming mathematics preparation and learning habits
 
 ## Related Strategies
-- 
+
+- [Four-part policy strategy for increasing student access to advanced mathematics and science courses](policy-strategies-advanced-course-access.md)
+- [Implement study-habit improvement programs for children before age 8 to support stable academic performance](study-habits-programs-before-age-8.md)
 
 ## Examples
 -

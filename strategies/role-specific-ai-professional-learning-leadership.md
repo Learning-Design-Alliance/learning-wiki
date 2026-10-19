@@ -54,6 +54,7 @@ The report's third use case illustrates Recommendation 3—investing 'in role-sp
 - [Share discipline-specific GenAI examples aligned with instructional needs to improve teacher adoption](discipline-specific-genai-examples-strategy.md)
 - [Provide teachers with adequate training and support for AI use, embedded in leadership-led professional development](teacher-training-support-strategy-ai-implementation.md)
 - [Teacher AI professional development should pair readiness-building with structured engagement with attribution and pedagogy](pd-pairs-readiness-with-attribution-engagement.md)
+- [Pair literacy accountability indicators with funded professional development and aligned mandates](pair-literacy-accountability-with-funded-pd.md)
 
 ## Examples
 -

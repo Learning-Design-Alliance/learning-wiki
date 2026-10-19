@@ -45,6 +45,7 @@ Before beginning the guide's chapters, teams complete a readiness assessment eva
 - [Write SMARTIE action-plan goals that are specific, measurable, ambitious, realistic, time-bound, inclusive, and equitable](smartie-goals-for-alignment-action-plans.md)
 - [Use the tools as facilitated conversation starters that produce artifacts, not as a checklist exercise](tools-as-conversation-starters-not-checklist.md)
 - [Seven equity strategies for local leaders, including listening first, strengths-based approaches, and co-design](seven-equity-strategies-listen-first-co-design.md)
+- [Conduct readiness checks and align systems to local student need before replication, expansion, or merger](readiness-check-before-replication-expansion.md)
 
 ## Examples
 -

@@ -43,4 +43,8 @@ Postintervention benchmark analysis of the WJ III Basic Reading Skills cluster (
 
 
 ## Related Claims
--
+
+- [A 13-week multicomponent small-group reading intervention did not produce significantly better word reading, comprehension, or fluency outcomes than typical remedial instruction for middle school students with severe reading difficulties](multicomponent-reading-intervention-null-effect-middle-school-severe-readers.md)
+- [Neither treatment nor typical-practice students with severe reading difficulties demonstrated significant standard-score growth over the 13-week study](no-significant-growth-severe-adolescent-readers-either-condition.md)
+- [English oral vocabulary scores correlated significantly with word identification and reading comprehension posttest scores in this severely struggling sample](english-oral-vocabulary-correlates-word-reading-comprehension.md)
+- [Teacher-rated social skills and problem behaviors correlated significantly with posttest decoding and spelling scores in severely struggling middle school readers](social-skills-behavior-correlate-decoding-spelling.md)

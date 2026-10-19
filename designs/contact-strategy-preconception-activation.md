@@ -17,7 +17,7 @@ sources:
 # The CONTACT strategy: continuous, computer-assisted activation of individual learners' conceptions to promote conceptual change
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The CONTACT strategy is an instructional approach premised on the idea that students need guidance to activate and correct their preconceptions in text processing. It is "characterised by continuous, computer-assisted activation of the conceptions of individual learners". The article situates it within conceptual-change instruction and demonstrates it with fifth- and sixth-graders studying physical geography texts, where it helped students construct more correct conceptions, though learners attended selectively to central concepts.
@@ -37,7 +37,9 @@ The CONTACT strategy is an instructional approach premised on the idea that stud
 - Conceptual change in text processing (domain: physical geography)
 
 ### Claims
-- 
+
+- [In an earlier study, students taught with the original CONTACT strategy focused mainly on the central concepts from the training texts, disregarding other information](../claims/original-contact-selective-attention-to-central-concepts.md) [+W]
+- [CONTACT-2's effectiveness did not depend on the degree of conceptual resemblance between test questions and the central concepts from the texts, nor on the moment of testing](../claims/contact-2-effectiveness-invariant-to-resemblance-and-testing-moment.md) [+W]
 
 ## Related Designs
 - 

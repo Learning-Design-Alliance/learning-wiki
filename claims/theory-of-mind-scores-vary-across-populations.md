@@ -41,4 +41,6 @@ Linear mixed model on Theory of Mind scores (0–5 scale) from 240 children. "Th
 
 
 ## Related Claims
+
 - [Across populations, children's positive emotional expressions selectively during collaboration predicted their Theory of Mind skills](affect-during-collaboration-predicts-theory-of-mind.md) — related
+- [Knowledge-test scores differed strongly between German school types, with academic-track students scoring highest](knowledge-test-school-type-differences.md)

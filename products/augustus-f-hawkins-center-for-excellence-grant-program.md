@@ -25,7 +25,8 @@ A competitive federal grant programme administered by the U.S. Department of Edu
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [America's Teacher Corps (ATC)](americas-teacher-corps-atc.md)
 
 ## Key Sources
 - The Education Trust. (2022). How States Can Use American Rescue Plan Funding and Federal Grants to Support Teacher Diversity. EdTrust.org. https://edtrust.org

@@ -62,6 +62,8 @@ Experiment 2 Group 2 (n = 51) received problems in decreasing-complexity order. 
 
 
 ## Related Claims
+
 - [Delayed ratings of affective variables (interest and motivation) do not differ from the average of immediate ratings, unlike cognitive load ratings](affective-ratings-immune-to-delayed-versus-immediate-difference.md) — related
 - [A single delayed cognitive load rating after a problem sequence is significantly higher than the average of immediate ratings for both mental effort and perceived difficulty (Experiment 1)](delayed-cognitive-load-ratings-higher-than-immediate-averages-exp1.md) — a narrower finding that bears on this claim
 - [Delayed cognitive load ratings are based mainly on the more complex problems in the series rather than on a recency effect](delayed-ratings-based-on-complex-problems.md) — related
+- [The predictive value of cognitive load ratings for problem performance was mixed: mental effort predicted performance in Experiment 1, perceived difficulty in Experiment 2, but never both at once](mixed-performance-prediction-effort-versus-difficulty.md)

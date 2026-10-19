@@ -62,4 +62,7 @@ The time-by-group interaction on VK breadth in the same ANOVA was highly signifi
 
 
 ## Related Claims
--
+
+- [For Han students, metacognitive knowledge followed a quadratic (accelerating) growth model while vocabulary breadth followed a linear growth model, and initially high vocabulary knowledge predicted faster later vocabulary growth](han-mck-quadratic-vk-linear-growth.md)
+- [Metacognitive knowledge scores increased cumulatively over time, and the time-by-ethnic-group interaction showed Han and Yao students followed different MCK development trends](mck-cumulative-growth-group-interaction.md)
+- [For Yao students, both metacognitive knowledge and vocabulary breadth were best described by linear growth models with significant intercepts and slopes](yao-linear-growth-mck-vk.md)

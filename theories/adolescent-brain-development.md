@@ -54,12 +54,16 @@ Executive functions — impulse control, cognitive flexibility, working memory, 
 - [Ventral striatum activation to correct responses peaks in mid-adolescence at approximately age 16](../claims/vs-activation-peaks-mid-adolescence.md) [~W]
 
 ## Related Theories
+
 - [Stages of Cognitive Development](stages-of-cognitive-development.md) — formal operational reasoning and adolescent risk-taking co-occur; the capacity for abstract, hypothetical reasoning does not by itself guarantee its consistent application under emotional or social pressure
 - [Self-Determination Theory](self-determination-theory.md) — adolescents' heightened sensitivity to social reward is relevant to how autonomy-supportive versus controlling instructional environments land differently at this age
+- [Adolescence as a neurobiological 'reconstruction zone' — a sensitive period in which experiential input shapes executive function and social cognition](adolescent-brain-reconstruction-zone-sensitive-period.md)
 
 ## Examples
 
 - [Target emotion regulation skills in middle and high school youth to close the gap between emotional and cognitive control systems](../strategies/target-emotion-regulation-skills-adolescents.md)
+- [Scaffold emotion regulation development in adolescence as a preventative target for psychopathology](../strategies/scaffold-adolescent-emotion-regulation-prevention.md)
+- [Design guidance lessons that give adolescents practice in planning, anticipating consequences, and regulating behavior, and avoid scare tactics and lecturing](../strategies/guidance-lessons-practice-executive-skills-not-scare-tactics.md)
 
 ## Key Sources
 - Steinberg, L. (2008). A social neuroscience perspective on adolescent risk-taking. *Developmental Review, 28*, 78-106.

@@ -45,4 +45,4 @@ The editorial reports individual-level findings from Scarborough et al.'s adult 
 ## Related Claims
 - [Adult learners who made an education gain in one year significantly differed from those who did not on dispositional or demographic variables (Mellard et al.)](education-gain-differed-on-dispositional-variables.md) — related
 - [Intervention completers had significantly lower pretest basic reading scores and were about six years older than non-completers and non-intervention adults](completers-lower-pretest-older.md) — related
-- [Neither group nor individual analyses revealed efficacy differences among three instructional programs for adult literacy learners (Scarborough et al.)](no-efficacy-differences-three-adult-reading-programs.md) — related
+- [Neither group nor individual analyses revealed efficacy differences among three instructional programs for adult literacy learners (Scarborough et al.)](no-significant-intervention-differences.md) — related

@@ -37,7 +37,8 @@ For settings where researchers have not yet settled on a model structure, the ar
 - Selecting and estimating an appropriate multidimensional IRT model for assessment data
 
 ## Related Strategies
-- 
+
+- [When test dimensionality is unclear, compare several candidate calibration models to empirically justify the chosen composite scoring model](compare-candidate-models-when-dimensionality-unclear.md)
 
 ## Examples
 -

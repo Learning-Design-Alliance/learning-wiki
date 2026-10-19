@@ -17,7 +17,7 @@ sources:
 # Redesign course projects around collaboration, open-ended problems, shared knowledge objects, technology mediation, and as-needed mentoring
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article reports five design principles used to redesign the course: collaborative projects involving social interaction replaced individual assignments; open-ended and complex problems requiring inquiry were introduced; shared knowledge objects were requested as part of envisioned solutions; technology mediation via an online collaboration application replaced a course management system; and interactive mentoring and supervision sessions on an as-needed basis replaced lectures. The participating teacher was involved in the re-design, and students were encouraged to organize and manage their own projects using skills from prior research courses.
@@ -39,8 +39,16 @@ The article reports five design principles used to redesign the course: collabor
 - engagement in collaborative knowledge production
 - addressing open-ended, ill-structured problems
 
+## Claims
+
+- [Groups performing generative epistemic actions more frequently produced higher-quality knowledge objects than a division-of-labor group](../claims/generative-epistemic-actions-higher-object-quality.md) [+W]
+- [Group interaction profiles differed: Groups D and E favored generative actions while Group B's interaction was predominantly regulative](../claims/group-interaction-type-profiles-differ.md) [+W]
+- [Productive interactions in long-term small-group collaboration take different forms, with discourse-based and object-oriented patterns the most relevant](../claims/productive-interactions-discourse-and-object-oriented-forms.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Pedagogical scenarios that organise learning around knowledge creation with shared objects](trialogical-pedagogical-scenarios.md)
+- [Use open-ended, modeling-focused collaborative tasks with embedded scaffolds to support group disciplinary engagement](open-modeling-tasks-scaffold-gde.md)
 
 ## Examples
 -

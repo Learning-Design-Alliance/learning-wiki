@@ -17,7 +17,7 @@ sources:
 # Researchers should adopt strategies to avoid or mitigate small biases when powering studies for small impacts
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper's second stated purpose is to "recommend strategies researchers can use to avoid or mitigate these biases" — the small biases that become consequential as studies are powered to detect smaller impacts. For RCTs this means achieving much lower missing-data rates or justifying that missing data are unrelated to outcomes; for RDDs it means weighing the larger sample costs of robust statistical methods against their protection against incorrect regression models.
@@ -35,6 +35,10 @@ The paper's second stated purpose is to "recommend strategies researchers can us
 
 ### Target Learning Goals
 - Designing education impact evaluations that avoid false inferences from small biases
+
+## Claims
+
+- [Robust RDD methods protect against model misspecification but require much larger sample sizes to detect small effects](../claims/rdd-robust-methods-need-larger-samples.md) [+W]
 
 ## Related Strategies
 - [Asymdystopia Small Biases False Inferences](../theories/asymdystopia-small-biases-false-inferences.md)

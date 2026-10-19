@@ -108,8 +108,10 @@ The canonical enumeration of the ten steps is in van Merriënboer and Kirschner'
 - [Successive Approximation Model](successive-approximation-model.md) — an alternative answer to the same complaint about waterfall design, iterating rather than restructuring the unit of design
 
 ## Examples
+
 - **Blended Android app development course** (Amsterdam University of Applied Sciences) — task classes from a single-screen dice app to multi-screen applications retrieving remote data, with modelling examples and completion tasks opening each class, and external documentation standing in for authored supportive information
 - **Health professions education**, the setting much of the model's implementation guidance is drawn from
+- [Five-month workplace-based PD program blueprint for teacher differentiation skills](../designs/pd-program-differentiation-blueprint.md)
 
 ## Key Sources
 - Frerejean, J., van Merriënboer, J. J. G., Kirschner, P. A., Roex, A., Aertgeerts, B., & Marcellis, M. *Designing Instruction for Complex Learning.* Ch. 24 in *Design for Learning*. EdTech Books. [https://edtechbooks.org/id/complex_learning](https://edtechbooks.org/id/complex_learning)

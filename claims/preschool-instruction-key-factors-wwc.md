@@ -44,4 +44,6 @@ The guide's Key Findings section lists the factors verbatim: "Intentional instru
 
 
 ## Related Claims
+
 - Communication, cooperation, and coordination were the most critical factors in successful CLASP programming — related
+- [A WWC expert panel distilled recent research into seven recommendations for preschool educators on preparing young children for school](wwc-seven-recommendations-preschool-school-readiness.md)

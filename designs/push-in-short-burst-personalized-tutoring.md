@@ -40,7 +40,9 @@ The program's instructional pattern places tutors inside the regular classroom r
 ### Claims
 
 ## Related Designs
-- 
+
+- [Embedded high-dosage tutoring pattern: small ratios, in-schedule sessions, and classroom-aligned sequencing](embedded-high-dosage-tutoring-pattern.md)
+- [School-community-family partnership pattern pairing tutoring dosage with regular family contact](tutoring-plus-family-engagement-partnership-pattern.md)
 
 ## Examples
 -

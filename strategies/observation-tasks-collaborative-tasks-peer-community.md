@@ -39,6 +39,7 @@ The article recommends three linked approaches for ELT trainer preparation. Firs
 ## Related Strategies
 
 - [Use a triadic guiding-question checklist to design and reflect on adult learning activities across preparation, performance and reflection](triadic-guiding-questions-design-adult-programs.md)
+- [Use technology-mediated learning to shift the trainer's role from knowledge provider to facilitator and foster reflection](technology-mediated-learning-for-teacher-reflection.md)
 
 ## Examples
 -

@@ -43,4 +43,7 @@ Second-hand finding narrated in the introduction: the article states "older adul
 
 
 ## Related Claims
+
 - [Learning Internet social media increased general self-efficacy, social interactions, and cognitive abilities among 60-95 year-old vulnerable adults (reported by cited prior work)](sns-use-benefits-older-vulnerable-adults-cited.md) — related
+- [Internet use among senior citizens was associated with a 30% reduction in depressive symptoms compared to non-users (reported by cited prior work)](internet-use-reduced-depression-seniors-cited.md)
+- [Estimated success at helping others learn Facebook decreases significantly as the hypothetical learner's age increases from 20 to 60](estimated-success-decreases-older-learners-facebook.md)

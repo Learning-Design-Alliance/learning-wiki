@@ -62,4 +62,6 @@ Model D growth model. After covariate adjustment, African American children had 
 
 
 ## Related Claims
+
 - [Household chaos predicts lower prekindergarten math and reading but faster growth in both](household-chaos-lower-level-faster-growth.md) — related
+- [African-American students' disproportionate retention was largely explained by lower prior test scores](retention-racial-disparity-explained-by-scores.md)

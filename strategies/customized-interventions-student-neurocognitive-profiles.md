@@ -40,7 +40,9 @@ The article recommends that neurocognitive assessment of bullying roles can info
 - Hot Cold Executive Functions Bullying Roles
 
 ## Related Strategies
-- 
+
+- [Tailor anti-bullying programs to cultural differences in how bullying manifests](culturally-tailor-anti-bullying-programs.md)
+- [Mount a new program of research on anti-bullying program effectiveness building on meta-analytic findings](new-research-program-on-anti-bullying-effectiveness.md)
 
 ## Examples
 -

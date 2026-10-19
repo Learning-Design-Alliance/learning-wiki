@@ -43,4 +43,6 @@ The article reports Experiment 2 with preschoolers (mean: 54 months), in which c
 
 
 ## Related Claims
--
+
+- [Given ambiguous evidence, preschoolers select informative interventions in their exploratory play (Experiment 1)](preschoolers-select-informative-interventions-ambiguous-evidence.md)
+- [Manipulating stimulus physical properties and base rates of candidate causes changes preschoolers' exploratory play](stimulus-and-baseraate-manipulations-shape-exploratory-play.md)

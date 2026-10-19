@@ -37,7 +37,8 @@ Recommendation 5 calls for frequent and varied opportunities to respond (OTR) du
 - Active engagement in learning activities
 
 ## Related Strategies
-- 
+
+- [Intensive Instruction/Active Engagement](intensive-instruction-active-engagement.md)
 
 ## Examples
 -

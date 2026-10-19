@@ -88,5 +88,7 @@ Processing speed (the LVN calls it speed of processing) is how quickly a learner
 
 ## Examples
 
+- [Teachers of all junior school subjects should attend to teaching methods and contents related to academic fluency](../strategies/attend-to-academic-fluency-teaching-junior-school.md)
+
 ## Key Sources
 - Digital Promise. *Learner Variability Navigator*: Speed of Processing (Adult Learner, Building Literacy 4-6, Building Literacy 7-12, Building Literacy PK-3, Building Math 3-6, Building Math 7-10, Building Math PK-2, Portrait of a Learner 4-8, Portrait of a Learner 9-12, Portrait of a Learner PK-3). [lvp.digitalpromiseglobal.org](https://lvp.digitalpromiseglobal.org/content-area/adult-learner/factors/speed-of-processing-adult-learner/summary). Licensed CC BY-NC 4.0.

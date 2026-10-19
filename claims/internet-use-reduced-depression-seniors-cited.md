@@ -43,4 +43,6 @@ Second-hand finding narrated in the discussion: the article states "Internet use
 
 
 ## Related Claims
+
 - [Learning Internet social media increased general self-efficacy, social interactions, and cognitive abilities among 60-95 year-old vulnerable adults (reported by cited prior work)](sns-use-benefits-older-vulnerable-adults-cited.md) — related
+- [Older adults required more time to learn SNS use, partially validating the age stereotype (reported by cited prior work)](older-adults-more-time-learning-sns-cited.md)

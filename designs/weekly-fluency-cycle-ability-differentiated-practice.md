@@ -44,7 +44,8 @@ The program organizes instruction as a five-day weekly cycle: "The first two day
 - [Fluency Formula Fluency Effects Differ By Initial Ability](../claims/fluency-formula-fluency-effects-differ-by-initial-ability.md) [~M]
 
 ## Related Designs
-- 
+
+- [Multicomponent middle school reading intervention: modified phonics program with ESL practices, vocabulary, fluency, and comprehension strategy instruction on a 2-day decoding/encoding cycle](multicomponent-esl-reading-intervention-2day-cycle.md)
 
 ## Examples
 -

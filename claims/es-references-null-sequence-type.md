@@ -43,4 +43,9 @@ Chi-square test of independence on ES references in essays (n = 76). The article
 
 
 ## Related Claims
--
+
+- [References to document sources showed a significant sequence-type by position interaction, driven by first-position texts in the HT-LT sequence; the hypothesized increase in mixed sequences was only partly supported](ds-references-interaction-ht-lt.md)
+- [Embedded-source and document-source trustworthiness scores differed, suggesting an interplay between layers rather than one-layered reflection](es-and-ds-scores-differ-interplay.md)
+- [After reading the first text, embedded-source trustworthiness evaluations did not vary between sequences](es-evaluation-no-sequence-difference-position-one.md)
+- [Embedded-source trustworthiness evaluations shift toward the trustworthiness of the most recent document source in mixed sequences](es-evaluation-shifts-mixed-sequences.md)
+- [Embedded-source trustworthiness evaluations do not change across positions when both document sources have similar trustworthiness](es-evaluation-stable-homogeneous-sequences.md)

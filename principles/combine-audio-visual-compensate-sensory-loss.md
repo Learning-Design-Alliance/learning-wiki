@@ -148,7 +148,7 @@ Speech comprehension in the room, use of new material, listening without print, 
 - [Universal Design for Learning](universal-design-for-learning.md) — the audit that finds a sensory demand outside the goal.
 - [Multimodal Instruction](multimodal-instruction.md) — choosing modes and providing an alternative mode where one is inaccessible.
 - [Text-to-Speech](text-to-speech.md) — speech added to print, the reverse route.
-- [Four strategies for older refugee language learners](four-strategies-older-refugee-language-learners.md) — other recommendations for older language learners.
+- [Four strategies for older refugee language learners](../designs/elderly-refugee-programs-beyond-language-learning.md) — other recommendations for older language learners.
 - [Contextualize abstract content for older learners](cultural-life-experiences-connections.md) — another recommendation for older learners.
 
 ## Examples
@@ -159,6 +159,8 @@ Speech comprehension in the room, use of new material, listening without print, 
 - [Multiple Ways to Perceive Information](../strategies/multiple_ways_to_perceive_information.md)
 - [Multisensory Encoding](../strategies/multisensory-encoding.md)
 - [Read Aloud with Highlighting](../strategies/read_aloud_with_highlighting.md)
+- [Five-stage spoken learning loop with supplementary visual affordances](../designs/five-stage-spoken-learning-loop.md)
+- [Use captioning to provide adaptable mobile messages across contexts, with font and placement guidelines](../strategies/captioning-guidelines-for-mlearning-messages.md)
 
 ## Key Sources
 - Schleppegrell, Mary. (1987). The Older Language Learner. ERIC Clearinghouse on Languages and Linguistics, Washington DC. https://eric.ed.gov/?id=ED287313

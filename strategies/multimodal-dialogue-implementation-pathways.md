@@ -17,7 +17,7 @@ sources:
 # Implementation pathways: educators teach prompting literacy, students describe visuals before asking for solutions, and platforms default to structured dialogue for image-containing problems
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article's discussion lays out three stakeholder-specific pathways for applying the intervention. Educators can "design curricula that leverage AI support where it is reliable" and teach prompting literacy such as "explicitly requesting step-by-step visual descriptions before problem-solving". Students can ask "describe what you see in this graph" before "solve this problem". For developers, "Integrating structured multimodal dialogue as a default interaction pattern for image-containing problems represents a low-cost, high-impact design intervention."
@@ -37,6 +37,10 @@ The article's discussion lays out three stakeholder-specific pathways for applyi
 
 ### Target Learning Goals
 - improving reliability of AI tutoring support on multimodal STEM content
+
+## Claims
+
+- [A three-step structured multimodal dialogue intervention corrected 82% of baseline errors and raised multimodal accuracy to 95%, with visual processing errors corrected at 100% but context misinterpretation errors resistant](../claims/structured-dialogue-corrects-82-percent-llm-errors.md) [+W]
 
 ## Related Strategies
 - 

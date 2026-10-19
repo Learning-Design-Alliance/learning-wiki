@@ -43,4 +43,9 @@ Regression results from the survey of 450 MMORPG players: in Table 2, gender (be
 
 
 ## Related Claims
--
+
+- [CA dimensions add only small explained variance beyond demographics and game play factors](ca-adds-small-variance-beyond-controls.md)
+- [Greater sense of control over one's character predicts pro-social gaming motivations](sense-of-control-predicts-prosocial-gaming.md)
+- [Video game skill and time spent playing are associated with gaming motivations](skill-and-hours-associated-with-gaming-motivations.md)
+- [Team structure factors (gender, age, game experience) markedly influence TEAMUP speed and distance but not avoidable mistakes](teamup-structure-drives-time-distance-not-errors.md)
+- [The link between children's affect index and their subsequent collaboration preferences varied with age, with the two proxies for social motivation becoming dissociated in older children](affect-preference-link-dissociates-with-age.md)

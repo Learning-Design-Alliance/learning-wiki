@@ -43,4 +43,5 @@ MANCOVA in a randomized 2×2 experiment with 181 student teachers, controlling p
 
 
 ## Related Claims
--
+
+- [Case comparison shifts student teachers' beliefs about operant conditioning toward more positive, regardless of experimental condition](case-comparison-shifts-beliefs-operant-conditioning.md)

@@ -79,3 +79,4 @@ The Key Findings section reports a temporal pattern in middle school impacts ove
 - [An earlier report of the national KIPP evaluation described strong positive achievement impacts in math and reading for 22 KIPP middle schools](kipp-first-report-positive-math-reading-impacts-22-schools.md) — related
 - [No detectable effects of KIPP Atlanta Collegiate High School on overall credential completion during the study period](kipp-atlanta-no-credential-completion-effect.md) — related
 - The KIPP lottery-based randomized controlled trial yielded treatment and control groups similar on observable and unobservable characteristics — related
+- [Recent evidence confirms teacher quality is a critical component of student achievement](teacher-quality-critical-to-student-achievement.md)

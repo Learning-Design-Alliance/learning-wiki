@@ -62,4 +62,9 @@ Chi-square analysis of third-grade educational placement (Table 10) for the 50 l
 
 
 ## Related Claims
--
+
+- [Naming speed, vocabulary, sentence imitation, problem behavior, and amount of intervention correctly classify most nonresponsive and always responsive students](discriminant-predictors-of-nonresponsiveness.md)
+- [Early literacy intervention reduced the proportion of nonresponders to 7.05% versus 25.35% among controls](intervention-reduces-nonresponder-rate.md)
+- [Nonresponsive students were in classrooms with lower-quality Ladders implementation and lower fall first-grade PALS fidelity](fidelity-associated-with-responsiveness.md)
+- [Always responsive students showed large effect-size advantages over nonresponsive students, with the largest effect sizes ranging from 0.58 to 1.72](nonresponders-large-effect-size-deficits.md)
+- [Nonresponsive students scored significantly lower than always responsive students on seven measures and higher on problem behavior](nonresponders-posthoc-pairwise-deficits.md)

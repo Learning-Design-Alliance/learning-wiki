@@ -55,8 +55,11 @@ Feedback is among the most powerful influences on achievement, but its effects a
 5. Follow up with an assignment or task that requires the learner to *apply* the feedback and monitor their own progress
 
 ## Related Strategies
+
 - [Action-Oriented Feedback](action-oriented-feedback.md) — the specific framing of feedback as a next step rather than a verdict
 - [Formative Assessment](../patterns/formative-assessment.md) — the system-level pattern this strategy enacts within tutoring and instruction
+- [Identify which suggested actions are beneficial at what time to inform scaffold design, and deliver scaffolds at natural breakpoints preceded by a notification.](identify-beneficial-actions-and-timing-for-scaffolds.md)
+- [Peer-delivered prompts in which students take over prompting, feedback, and assessment from an instructor](peer-to-peer-prompting-handover.md)
 
 ## Examples
 - A tutor acknowledges a tutee's successes, names the single most important error, and assigns follow-up problems that give immediate feedback on whether the correction stuck.

@@ -62,4 +62,7 @@ Stepwise regression found picture type (diagrams vs photographs) nonsignificant 
 
 
 ## Related Claims
--
+
+- [Fifth graders study videos significantly faster than content-equivalent illustrated texts during the initial pass](videos-studied-faster-than-illustrated-texts-fifth-graders.md)
+- [Faster initial-pass studying rate predicted better retention, delayed retention, and transfer and lower cognitive load, but the effect was mostly due to modality](faster-studying-rate-predicts-outcomes-and-load.md)
+- [Fifth graders review videos mostly linearly forward, whereas review of illustrated texts combines varied strategies](review-strategies-vary-by-modality.md)

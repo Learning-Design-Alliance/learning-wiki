@@ -40,6 +40,7 @@ The article recommends that open educators make their work more accessible to th
 
 - [Adapt DL2F to local context by aligning with the national curriculum, using authentic local materials, multilingual approaches, and pragmatic low-bandwidth technology integration](dl2f-philippine-contextual-adaptation-strategy.md)
 - [Consider Socio-Cultural Factors](consider_socio-cultural_factors.md)
+- [Design systems to accommodate low bandwidth limitations by using fewer graphics and media](low-bandwidth-design-fewer-graphics-media.md)
 
 ## Examples
 -

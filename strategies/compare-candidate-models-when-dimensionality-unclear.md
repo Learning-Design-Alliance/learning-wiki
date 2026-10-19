@@ -39,7 +39,9 @@ This strategy addresses practical testing situations where no clear a priori the
 ### Affordances
 
 ## Related Strategies
-- 
+
+- [Explore candidate models with limited-information estimation first, then estimate the structured model with the efficient EM algorithm](limited-information-then-efficient-em-sequential-procedure.md)
+- [Evaluate quantisation choices empirically on the target task and hardware rather than inheriting them from other studies](evaluate-quantisation-on-target-task.md)
 
 ## Examples
 -

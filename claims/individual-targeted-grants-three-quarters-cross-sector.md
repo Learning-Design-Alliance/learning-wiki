@@ -43,6 +43,8 @@ From the same 2014-2015 educator survey across seven grantee cities: "more than 
 
 
 ## Related Claims
+
 - [In schoolwide grant-activity cities, about half of surveyed educators collaborated with educators from the opposite sector](schoolwide-grant-half-collaborated-across-sector.md) — related
 - [Cross-sector collaboration is less widespread among school leaders than central office administrators but is particularly strong among participants in grant-funded intensive leadership training or principal residency programs](leadership-program-participants-show-strongest-cross-sector-collaboration.md) — related
 - [Teacher-level cross-sector collaboration remained low across grantee sites, in part because many collaborative activities targeted school leaders rather than teachers](teacher-level-collaboration-remained-low-activities-targeted-leaders.md) — related
+- [Most respondents found grant training useful, applied the information in their school, and shared it with others](grant-training-useful-applied-shared.md)

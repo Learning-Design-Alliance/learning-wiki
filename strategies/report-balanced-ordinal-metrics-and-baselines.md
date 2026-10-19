@@ -17,7 +17,7 @@ sources:
 # Report class-balanced ordinal metrics alongside sensor-free baselines and label distributions in engagement-sensing studies
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Because engagement labels skew toward engaged states, the article encourages engagement-sensing studies "to report both measures alongside label distributions, per-class results, and constant baselines": balanced 1-off accuracy and macro-MAE, each giving equal class weight. This prevents frequent ratings from dominating evaluation and makes a within-one score interpretable alongside error magnitude and a sensor-free reference such as the mode baseline.
@@ -36,6 +36,10 @@ Because engagement labels skew toward engaged states, the article encourages eng
 
 ### Target Learning Goals
 - valid evaluation of engagement prediction across unevenly distributed rating levels
+
+## Claims
+
+- [A head-confined multimodal configuration (EEG, eye tracking, forehead EDA) predicts held-out learners' five-level engagement ratings at 75.0% balanced 1-off accuracy, 12.0 points above the mode baseline](../claims/e3sense-head-confined-engagement-prediction.md) [+W]
 
 ## Related Strategies
 - 

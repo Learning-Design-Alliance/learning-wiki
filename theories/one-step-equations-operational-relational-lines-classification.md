@@ -45,6 +45,7 @@ The article proposes a framework that classifies one-step equations by counting 
 ## Examples
 
 - [Teach one-step equations in a hierarchical sequence: Type 1 without special features first, then Type 1 with special features, then Type 2 in the same order](../strategies/hierarchical-teaching-sequence-one-step-equations.md)
+- [A five-question research agenda for one-step equation learning and instruction](../strategies/one-step-equations-research-agenda.md)
 
 ## Key Sources
 - Ngu, B. (2014). The Complexity of One-Step Equations. In J. Anderson, M. Cavanagh & A. Prescott (Eds.), Curriculum in focus: Research guided practice (Proceedings of the 37th annual conference of the Mathematics Education Research Group of Australasia) pp. 501-508. Sydney: MERGA. https://eric.ed.gov/?id=ED572625

@@ -58,9 +58,11 @@ Video modeling draws on observational learning research: learners extract a symb
 5. Follow viewing immediately with [Practice](../elements/practice.md) and feedback; fade modeling as competence grows ([Fading](../elements/fading.md)).
 
 ## Related Strategies
+
 - [Think-Aloud Modeling](think-aloud-modeling.md) — the narration method that makes video modeling more than silent observation
 - [Use Worked Examples](worked-examples-first.md) — video modeling is the dynamic, often psychomotor counterpart of the worked example
 - [Video Based Reflection](../elements/video-based-reflection.md) — uses video of the learner's own performance for analysis rather than an expert model
+- [Video modeling examples with expert narration revealing covert cognitive processing](video-modeling-examples-expert-narration.md)
 
 ## Examples
 - **[JoVE](https://www.jove.com)** — peer-reviewed video journal demonstrating laboratory methods in science; each protocol video models technique step by step before students attempt it at the bench.

@@ -62,4 +62,6 @@ Step-wise linear regression entering pretest first, then the most strongly corre
 
 
 ## Related Claims
--
+
+- [Downgrading to simpler code after failure on personally hard levels is negatively associated with persistence on an unsolvable task](code-downgrades-negatively-predict-challenge-time.md)
+- [Relative-Hards Solved Complex, a log measure of using complex code on personally difficult levels, predicts time spent on an unsolvable challenge task](relative-hards-solved-complex-predicts-challenge-time.md)

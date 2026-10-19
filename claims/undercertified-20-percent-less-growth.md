@@ -41,6 +41,8 @@ From the same matched-pair study of 109 teacher pairs in five low-income Arizona
 
 
 ## Related Claims
+
 - [Students with alternatively certified teachers did no worse on achievement tests than students with traditionally certified teachers](alt-cert-teachers-no-worse-student-achievement.md) — reports the opposite
 - [Teachers who are not fully certified have higher turnover than fully certified teachers (20.1% vs. 14.7%), with a larger gap among early-career teachers](uncertified-teachers-higher-turnover.md) — related
 - [Alternatively certified teachers are 25% more likely to leave their schools and the profession, controlling for other factors](alternative-certification-25-percent-more-likely-to-leave.md) — related
+- [First- and second-year teachers' students gain roughly 20 percent of a standard deviation less than students of more experienced teachers](novice-teacher-gains-lower-20-percent-sd.md)

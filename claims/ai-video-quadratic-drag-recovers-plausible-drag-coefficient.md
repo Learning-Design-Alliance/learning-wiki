@@ -46,3 +46,4 @@ Parameter-interpretation analysis of Model 3 (quadratic drag) in the Results sec
 
 - [Kinematic trajectories extracted from AI-generated videos agree strongly with analytical resistive-force models, with coefficients of determination exceeding R² > 0.99 across three regimes](ai-generated-video-trajectories-fit-resistive-force-models.md) — a broader claim this one bears on
 - [The linear-drag AI video yields a fitted glycerin viscosity (≈ 0.234 Pa·s) consistent with an aqueous glycerin solution of about 85% by weight](ai-video-linear-drag-recovers-plausible-viscosity.md)
+- [The constant-friction AI video yields a fitted friction coefficient (µ ≈ 0.169) consistent with literature values for wood on smooth or waxed surfaces](ai-video-constant-friction-recovers-plausible-mu.md)

@@ -57,6 +57,7 @@ RPPs bring researchers and practitioners together to study problems of practice 
 - [Future RPP work should investigate which problems of practice suit the RPP framework, gather honest practitioner input, and consider the role of the whole RPP team](../strategies/rpp-future-directions-team-role-and-practitioner-input.md)
 - [Monthly check-ins and co-led collaborative learning events across partner institutions](../strategies/monthly-check-ins-and-co-led-learning-events.md)
 - [Engage teachers, families, and designers in participatory, iterative co-design of CT learning activities rather than adopting packaged solutions](../strategies/participatory-iterative-co-design-ct.md)
+- [CSUB Teacher Residency Consortium, a monthly professional learning community of residency coordinators](../designs/csub-residency-consortium-plc.md)
 
 ## Key Sources
 - Pautz Stephenson, S., Banks, R., & Pakhira D. (2022, December). Practitioners at the center: Catalyzing research on problems of practice in realistic settings. Digital Promise. https://doi.org/10.51388/20.500.12265/164

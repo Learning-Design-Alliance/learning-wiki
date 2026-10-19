@@ -43,4 +43,5 @@ Design-based study by Wake, Guribye and Wasson in a formal classroom, using vide
 
 
 ## Related Claims
--
+
+- [Children develop locative literacy through informal collaborative digital mapping with family members using Google Earth](locative-literacy-informal-collaborative-mapping.md)

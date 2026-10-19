@@ -43,4 +43,6 @@ Preliminary-phase email survey of three mathematics teacher educators (a profess
 
 
 ## Related Claims
--
+
+- [Pre-service teachers most frequently viewed integrating 21st-century teaching methods into mathematics lessons as the learning outcome to achieve](mpts-view-21st-century-methods-top-outcome.md)
+- [Redesigning a mathematics methodology module yielded six learning outcomes sequenced from lower to higher levels of understanding across six dimensions](six-learning-outcomes-mathematics-methodology-ca.md)

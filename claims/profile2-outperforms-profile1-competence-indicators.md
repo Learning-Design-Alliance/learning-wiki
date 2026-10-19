@@ -43,4 +43,6 @@ Further regression analyses on the study 1 sample compared the two latent profil
 
 
 ## Related Claims
--
+
+- [Teachers' SRL competence profiles do not differ by gender, age, or teaching experience](srl-profiles-no-demographic-differences.md)
+- [Latent profile analysis of primary teachers' SRL competence yields two quantitative profiles (low vs. high competence) rather than three qualitatively distinct situative, cognitive, or mixed profiles](two-srl-teacher-competence-profiles-low-high.md)

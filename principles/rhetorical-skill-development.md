@@ -1,7 +1,7 @@
 ---
 type: principle
 id: rhetorical-skill-development
-aliases: [teach-rhetorical-choices-not-tools, flexible-congruence-context-appropriateness, style-as-consequential-choice-not-prescription, teach-persuasive-standards-not-just-persuasive-skill, teach-canonicity-not-canon, teach-popular-culture-not-speech-making]
+aliases: [teach-rhetorical-choices-not-tools, flexible-congruence-context-appropriateness, style-as-consequential-choice-not-prescription, teach-persuasive-standards-not-just-persuasive-skill, teach-canonicity-not-canon, teach-popular-culture-not-speech-making, teach-civic-responsibility-not-proficiency]
 title: Rhetorical Skill Development
 description: "For a learner who presents ideas the same way to every reader, teaching rhetorical moves as choices made for a stated audience, purpose and situation, with explicit criteria for evidence and for answering the other side, practice across contrasting situations, process goals first and learners saying why a move works, is expected to produce better arguments and better-fitted texts or talk than teaching fixed forms or style rules; no claim here tests that comparison, though argument practice, writing strategy instruction, real audiences and peer feedback are each tested."
 canonical: true
@@ -27,7 +27,7 @@ sources:
 # Rhetorical Skill Development
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (13 for, 4 mixed) · 22 studies (7 causal, 6 quant-synthesis, 4 theoretical, 3 review, 1 associational, 1 qualitative), `q1`–`q4` · 5 of 22 report an effect size · 12 claims rest on one study
+> **Evidence** · 18 claims (14 for, 4 mixed) · 23 studies (7 causal, 6 quant-synthesis, 5 theoretical, 3 review, 1 associational, 1 qualitative), `q1`–`q4` · 5 of 23 report an effect size · 13 claims rest on one study
 
 ## Conditional relationship
 
@@ -139,6 +139,7 @@ Evidence the page cites or touches that is not part of the model above.
 - [Les LLMs utilisés comme juges d'évaluation scientifique présentent douze types de biais qui désavantagent les productions s'écartant des canons dominants](../claims/llm-as-a-judge-twelve-bias-types.md) [+W]
 - [Duplicating readers' experiences helps young writers revise descriptive writing to meet readers' informational needs](../claims/duplicating-reader-experiences-meets-informational-needs.md) [+W] — attached 2026-10-15 from Holliway et al. (2004), which proposed "Give young writers tasks that duplicate their readers' experiences to improve audience-aware revision".
 - [Reading-as-the-reader perspective-taking improves young writers' revision and new drafting of descriptive essays in both 5th and 9th grade](../claims/reading-as-the-reader-improves-revision-and-drafting.md) [+W] — attached 2026-10-15 from Holliway et al. (2004), which proposed "Give young writers tasks that duplicate their readers' experiences to improve audience-aware revision".
+- [Basic speech textbooks have not incorporated contemporary rhetorical theory, remaining nearly unchanged across decades](../claims/basic-speech-texts-unchanged.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -154,10 +155,9 @@ Argument quality on the taught task, adaptation to a new audience, use outside t
 
 ## Related Principles
 - [Epistemic Cognition](epistemic-cognition.md) — strong rhetoric depends on how claims are justified, not just how they sound
-- [Perspective-Taking](perspective-taking.md) — audience adaptation is one of the main rhetorical demands
+- [Perspective-Taking](cognitive-flexibility.md) — audience adaptation is one of the main rhetorical demands
 - [Debate](../patterns/debate.md) — debate often provides a high-pressure environment for developing rhetorical strategy and rebuttal
-- [The basic course should teach civic responsibility through the classroom as a microcosm of community, rather than individual communication proficiency](teach-civic-responsibility-not-proficiency.md)
-- [The basic course should teach rhetorics — multiple voices and how communities create public spheres — rather than a single rhetoric](teach-rhetorics-not-rhetoric.md)
+- [The basic course should teach rhetorics — multiple voices and how communities create public spheres — rather than a single rhetoric](humanistic-radical-adult-education.md)
 - [Authentic Audiences and Purposes](authentic-audiences-purposes.md) — owns the relationship between who the work is for and its quality; this page uses a real audience as one condition
 - [Process-Based Writing](process-based-writing.md) — planning, drafting, response and revision, which the drafting steps here assume
 - [Self-Monitoring](self-monitoring.md) — checks of one's own work against a criterion, used in revision
@@ -225,7 +225,7 @@ Rhetorical skill development matters when learning requires more than having ide
 ### Theory
 #### Supporting
 - [Epistemic Cognition](epistemic-cognition.md) — rhetorical quality depends on how claims are warranted and justified
-- [Perspective-Taking](perspective-taking.md) — effective rhetoric requires anticipating audience positions and responses
+- [Perspective-Taking](cognitive-flexibility.md) — effective rhetoric requires anticipating audience positions and responses
 - [Peer Learning](peer-learning.md) — rhetorical skill often develops through critique, rehearsal, and response from others
 
 #### Contradicting / Qualifying
@@ -244,12 +244,12 @@ Rhetorical skill development matters when learning requires more than having ide
 
 ## Related Principles
 - [Epistemic Cognition](epistemic-cognition.md) — strong rhetoric depends on how claims are justified, not just how they sound
-- [Perspective-Taking](perspective-taking.md) — audience adaptation is one of the main rhetorical demands
+- [Perspective-Taking](cognitive-flexibility.md) — audience adaptation is one of the main rhetorical demands
 - [Debate](../patterns/debate.md) — debate often provides a high-pressure environment for developing rhetorical strategy and rebuttal
 - [The basic course should teach canonicity — how communities standardize and enforce discourse — rather than the canon itself](rhetorical-skill-development.md)
-- [The basic course should teach civic responsibility through the classroom as a microcosm of community, rather than individual communication proficiency](teach-civic-responsibility-not-proficiency.md)
+- [The basic course should teach civic responsibility through the classroom as a microcosm of community, rather than individual communication proficiency](rhetorical-skill-development.md)
 - [The basic course should teach how audiences learn to be persuaded, not just persuasive technique](rhetorical-skill-development.md)
-- [The basic course should teach rhetorics — multiple voices and how communities create public spheres — rather than a single rhetoric](teach-rhetorics-not-rhetoric.md)
+- [The basic course should teach rhetorics — multiple voices and how communities create public spheres — rather than a single rhetoric](humanistic-radical-adult-education.md)
 - [The basic course should use popular culture, not speech making, as the text through which students discern a community's rhetorical rules](rhetorical-skill-development.md)
 
 ## Examples
@@ -301,9 +301,9 @@ The second operationalization situates students within their rhetorical location
 ## Related Principles
 
 - [The basic course should teach canonicity — how communities standardize and enforce discourse — rather than the canon itself](rhetorical-skill-development.md)
-- [The basic course should teach civic responsibility through the classroom as a microcosm of community, rather than individual communication proficiency](teach-civic-responsibility-not-proficiency.md)
+- [The basic course should teach civic responsibility through the classroom as a microcosm of community, rather than individual communication proficiency](rhetorical-skill-development.md)
 - [The basic course should teach how audiences learn to be persuaded, not just persuasive technique](rhetorical-skill-development.md)
-- [The basic course should teach rhetorics — multiple voices and how communities create public spheres — rather than a single rhetoric](teach-rhetorics-not-rhetoric.md)
+- [The basic course should teach rhetorics — multiple voices and how communities create public spheres — rather than a single rhetoric](humanistic-radical-adult-education.md)
 - [The basic course should use popular culture, not speech making, as the text through which students discern a community's rhetorical rules](rhetorical-skill-development.md)
 
 ## Examples
@@ -420,9 +420,9 @@ The first operationalization replaces instruction in the efficacy of persuasive 
 ## Related Principles
 
 - [The basic course should teach canonicity — how communities standardize and enforce discourse — rather than the canon itself](rhetorical-skill-development.md)
-- [The basic course should teach civic responsibility through the classroom as a microcosm of community, rather than individual communication proficiency](teach-civic-responsibility-not-proficiency.md)
+- [The basic course should teach civic responsibility through the classroom as a microcosm of community, rather than individual communication proficiency](rhetorical-skill-development.md)
 - [The basic course should teach students to make strategic rhetorical choices rather than use a fixed set of rhetorical tools](rhetorical-skill-development.md)
-- [The basic course should teach rhetorics — multiple voices and how communities create public spheres — rather than a single rhetoric](teach-rhetorics-not-rhetoric.md)
+- [The basic course should teach rhetorics — multiple voices and how communities create public spheres — rather than a single rhetoric](humanistic-radical-adult-education.md)
 
 ## Examples
 -
@@ -463,8 +463,8 @@ The third operationalization shifts from studying canonical exemplars to studyin
 ## Related Principles
 
 - [The basic course should teach how audiences learn to be persuaded, not just persuasive technique](rhetorical-skill-development.md)
-- [The basic course should teach civic responsibility through the classroom as a microcosm of community, rather than individual communication proficiency](teach-civic-responsibility-not-proficiency.md)
-- [The basic course should teach rhetorics — multiple voices and how communities create public spheres — rather than a single rhetoric](teach-rhetorics-not-rhetoric.md)
+- [The basic course should teach civic responsibility through the classroom as a microcosm of community, rather than individual communication proficiency](rhetorical-skill-development.md)
+- [The basic course should teach rhetorics — multiple voices and how communities create public spheres — rather than a single rhetoric](humanistic-radical-adult-education.md)
 - [The basic course should use popular culture, not speech making, as the text through which students discern a community's rhetorical rules](rhetorical-skill-development.md)
 
 ## Examples
@@ -505,8 +505,50 @@ The sixth operationalization treats the discourse of popular media as students' 
 ## Related Principles
 
 - [The basic course should teach canonicity — how communities standardize and enforce discourse — rather than the canon itself](rhetorical-skill-development.md)
-- [The basic course should teach civic responsibility through the classroom as a microcosm of community, rather than individual communication proficiency](teach-civic-responsibility-not-proficiency.md)
-- [The basic course should teach rhetorics — multiple voices and how communities create public spheres — rather than a single rhetoric](teach-rhetorics-not-rhetoric.md)
+- [The basic course should teach civic responsibility through the classroom as a microcosm of community, rather than individual communication proficiency](rhetorical-skill-development.md)
+- [The basic course should teach rhetorics — multiple voices and how communities create public spheres — rather than a single rhetoric](humanistic-radical-adult-education.md)
+
+## Examples
+-
+
+## Key Sources
+- Cyphert, Dale. (1996). Taking the Helm in Critical Pedagogy: The Basic Speech Curriculum as an Operationalization of the Paradigm. https://eric.ed.gov/?id=ED403616
+-->
+
+<!-- merged 2026-10-19 from principles/teach-civic-responsibility-not-proficiency ("The basic course should teach civic responsibility through the classroom as a microcosm of community, rather than individual communication proficiency"), a narrower page folded into its canonical page (fragment step, two models agreeing or a third settling): its body as it stood. Its bullets this page lacked were added above.
+
+# The basic course should teach civic responsibility through the classroom as a microcosm of community, rather than individual communication proficiency
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+The fourth operationalization treats rhetorical competence as communal and ethical rather than individual. The paper proposes that "a critical pedagogy might instead use the classroom as a microcosm of community, and treat rhetorical competence as a complex interaction of ethics, social norms, discourse rules, and individual voice." The class constitutes itself as an audience and community that sets its own standards of discourse; the real course content becomes the negotiation skills with which individual voices create a public sphere, with peer evaluations possibly taking the form of responsive essays.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Ethical instruction must provide a critical account of how individuals are constituted as human agents within moral and ethical discourse, not merely ground rules for moral outrage
+#### Constraints
+- Standard critique sheets would have little place in such an environment; even the model of the unitary public speech might be open to question
+
+### Target Learners
+- undergraduates in public speaking sections where ethical questions routinely arise
+
+### Target Learning Objectives
+- building ethical community through rhetoric
+- developing negotiation skills for creating a public sphere
+
+### Claims
+
+- [Critical Pedagogy As Rhetorical Education](../theories/critical-pedagogy-as-rhetorical-education.md) [+M]
+- [Basic speech textbooks have not incorporated contemporary rhetorical theory, remaining nearly unchanged across decades](../claims/basic-speech-texts-unchanged.md) [+W]
+
+## Related Principles
+
+- [The basic course should teach canonicity — how communities standardize and enforce discourse — rather than the canon itself](rhetorical-skill-development.md)
+- [The basic course should teach rhetorics — multiple voices and how communities create public spheres — rather than a single rhetoric](humanistic-radical-adult-education.md)
 
 ## Examples
 -

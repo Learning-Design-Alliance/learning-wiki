@@ -44,7 +44,7 @@ Through interviews and observations, Feiman-Nemser documented the strategies of 
 - 
 
 ## Related Elements
-- [Guided Practice Four Purposes](../patterns/guided-practice-four-purposes.md)
+- [Guided Practice Four Purposes](../patterns/professional-development.md)
 
 ## Examples
 -

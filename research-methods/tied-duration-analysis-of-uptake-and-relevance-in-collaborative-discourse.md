@@ -25,7 +25,8 @@ Tied duration is the total time an interaction process remains actively receivin
 - [Model-based clustering of tied durations identifies four weekly regulation patterns in PBL group discussions](../claims/four-weekly-regulation-patterns-pbl.md) [+M]
 
 ## Related Research Methods
--
+
+- [Temporal network analysis](temporal-network-analysis.md)
 
 ## Key Sources
 - Mohammed Saqr, Sonsoles López-Pernas, Tiina Törmänen. (2026). A temporal network approach to reveal the longitudinal dynamics of CSCL group regulation and productive collaboration. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09464-5

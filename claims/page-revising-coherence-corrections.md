@@ -62,4 +62,5 @@ Experiment 2 null result for lower-level revisions: surface and cohesion improve
 
 
 ## Related Claims
--
+
+- [Reading time did not differ between Page and Scroll, though Page readers tended to backtrack more](reading-time-null-backtracking-tendency.md)

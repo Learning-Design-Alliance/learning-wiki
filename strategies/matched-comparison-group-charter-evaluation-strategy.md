@@ -48,6 +48,7 @@ The report measures a charter school's impact by identifying a comparison group 
 
 - [Use a matched comparison group design with qualitative mechanism exploration to evaluate charter school impacts](matched-comparison-group-design-with-qualitative-mechanism-exploration.md)
 - [Estimate cumulative impacts of district-wide reforms by comparing achievement changes to similar students in similar geographic areas without the reforms](compare-to-similar-geographic-areas-for-cumulative-reform-impacts.md)
+- [Use community-area demographic descriptor data as an input to school planning and reform](use-community-demographic-data-for-school-planning.md)
 
 ## Examples
 -
