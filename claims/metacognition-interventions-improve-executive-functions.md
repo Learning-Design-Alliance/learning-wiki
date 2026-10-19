@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11409-024-09405-x"
     title: "Janina Eberhart, Franziska Ingendahl, Donna Bryce. (2024). Are metacognition interventions in young children effective? Evidence from a series of meta-analyses. Metacognition and Learning. https://doi.org/10.1007/s11409-024-09405-x"
     author: Janina Eberhart, Franziska Ingendahl, Donna Bryce
+    q: 4
+    i: "?"
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Metacognition interventions positively impact children's executive functions, a novel outcome in this literature
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · quant-synthesis `r?` · `q4`
 
 ## Subclaims
 `q4 i?` Metacognition interventions show a positive impact on executive function outcomes (inhibitory control, working memory updating, cognitive flexibility). [→ Janina Eberhart 2024](#janina-eberhart-2024)
@@ -26,7 +33,7 @@ sources:
 
 Janina Eberhart, Franziska Ingendahl, Donna Bryce. (2024). Are metacognition interventions in young children effective? Evidence from a series of meta-analyses. Metacognition and Learning. https://doi.org/10.1007/s11409-024-09405-x
 
-`q4 · i?`
+`q4 · i?` · `quant-synthesis · r?`
 
 Executive functions were coded as a distinct outcome construct (inhibitory control, updating of working memory, task switching/shifting/cognitive flexibility) in the meta-analysis of 67 studies. The article reports "a positive impact"; no effect size for this outcome is printed in the available text.
 

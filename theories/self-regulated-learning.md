@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 77 claims (47 for, 27 mixed, 3 against) · 75 studies (26 associational, 21 causal, 10 quant-synthesis, 6 review, 6 theoretical, 3 qualitative, 3 design), `q1`–`q4` · 23 of 75 report an effect size · 62 claims rest on one study
+> **Evidence** · 80 claims (48 for, 29 mixed, 3 against) · 78 studies (28 associational, 22 causal, 10 quant-synthesis, 6 review, 6 theoretical, 3 qualitative, 3 design), `q1`–`q4` · 23 of 78 report an effect size · 65 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -124,6 +124,9 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [For effective self-regulators, mastery goals have a large positive and performance-avoidance goals a small negative effect on metacognition](../claims/mastery-goals-large-positive-avoidance-negative-metacognition.md) [+W] — attached 2026-10-19 from Anneke Vrugt et al. (2008), which proposed "Two-pathway model of effective self-regulated learning: a metacognitive pathway and a strategy pathway"; tests this page's relationship.
 - [Metacognition positively affects the use of all four study strategies, with medium effects on metacognitive, deep cognitive and resource management strategies and a small effect on surface strategies](../claims/metacognition-positive-effect-four-strategies.md) [+W] — attached 2026-10-19 from Anneke Vrugt et al. (2008), which proposed "Two-pathway model of effective self-regulated learning: a metacognitive pathway and a strategy pathway"; tests this page's relationship.
 - [When SRL is measured at a coarse grain size (global self-regulation), students are relatively well able to report on their strategy use](../claims/coarse-grained-srl-self-reports-relatively-calibrated.md) [~M] — attached 2026-10-19 from Rovers et al. (2019), which proposed "Granularity as the organizing construct for comparing SRL measurement methods".
+- [The presence of motivational problems reduces reported strategies at the co- and shared-level but not at the self-level](../claims/motivational-problems-reduce-co-and-shared-level-strategies.md) [~W] — attached 2026-10-19 from Nadine Melzner · Markus Dresel · Ingo Kollar (2022), which proposed "Three social levels of regulation in collaborative learning (self, co, shared)".
+- [Effort regulation and student engagement were the most consistent predictors of learning strategy use and self-reported achievement](../claims/effort-regulation-engagement-consistent-predictors.md) [+W] — attached 2026-10-19 from Rebecca Hey · Mark McDaniel · Flaviu A. Hodis (2024), which proposed "Self-regulation factor framework predicting learning strategy use: eagerness, vigilance, MCSR, self-control, attention control, effort regulation, and engagement".
+- [In low challenge dyads the metacognitive activities are closely interconnected, whereas in high challenge dyads monitoring is disconnected from other metacognitive activities](../claims/metacognitive-connectivity-differs-by-challenge.md) [~W] — attached 2026-10-19 from Cindy Paans et al. (2019), which proposed "Socially shared regulation of learning (SSRL) and three types of regulation in collaborative settings".
 
 ## The evidence by question
 

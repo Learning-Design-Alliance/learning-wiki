@@ -16,6 +16,9 @@ sources:
 
 # Scaffold co-regulation with collaboration scripts or group awareness tools that elicit and display individual problems
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Because students reported comparatively few strategies at the co-level, the authors recommend scaffolding co-regulation of others' learning problems. Collaboration scripts or group awareness tools "might be designed in a way that elicits (especially comprehension-related) problems of each single member of a group", for example by prompting members to explain what they do not yet understand and by displaying this information to all group members. The goal is to overcome barriers such as not wanting to appear incompetent or exposing fellow members' problems.
 
@@ -34,7 +37,7 @@ Because students reported comparatively few strategies at the co-level, the auth
 - co-regulating fellow group members' motivational and comprehension-related problems during collaborative learning
 
 ### Affordances
-- [Social Levels Self Co Shared Regulation](../theories/social-levels-self-co-shared-regulation.md)
+- [Social Levels Self Co Shared Regulation](../theories/self-regulated-learning.md)
 
 ## Related Strategies
 - 

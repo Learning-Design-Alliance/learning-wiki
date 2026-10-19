@@ -15,19 +15,26 @@ sources:
     author: "Anja Prinz-Weiß & Elisa Röhm"
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
   - id: anja-prinz-weiß-elisa-röhm-2025-2
     resource: "https://doi.org/10.1007/s11409-025-09419-z"
     title: "Anja Prinz-Weiß & Elisa Röhm. (2025). To what extent can think sheets with or without reflection prompts support self-regulated learning from text? Metacognition and Learning. https://doi.org/10.1007/s11409-025-09419-z"
     author: "Anja Prinz-Weiß & Elisa Röhm"
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Misconceptions decreased over time in all three instructional methods, with no difference between methods
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
+
 ## Subclaims
-`q3 i3` Misconceptions significantly decreased from before studying to the comprehension test (η² = .28, a large effect). [→ Anja Prinz-Weiß & Elisa Röhm 2025](#anja-prinz-weiß-elisa-röhm-2025)
-`q3 i?` The interaction between instructional method and time of assessment was not significant, indicating similar reduction across methods. [→ Anja Prinz-Weiß & Elisa Röhm 2025 (2)](#anja-prinz-weiß-elisa-röhm-2025-2)
+`q3 i3` Misconceptions significantly decreased from before studying to the comprehension test (η² = .28, a large effect). [→ Anja Prinz-Weiß & Elisa Röhm 2025](#anja-prinz-wei-elisa-rohm-2025)
+`q3 i?` The interaction between instructional method and time of assessment was not significant, indicating similar reduction across methods. [→ Anja Prinz-Weiß & Elisa Röhm 2025 (2)](#anja-prinz-wei-elisa-rohm-2025-2)
 
 ## Evidence
 
@@ -35,7 +42,7 @@ sources:
 
 Anja Prinz-Weiß & Elisa Röhm. (2025). To what extent can think sheets with or without reflection prompts support self-regulated learning from text? Metacognition and Learning. https://doi.org/10.1007/s11409-025-09419-z
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 A mixed ANOVA with instructional method as between-subjects variable and time of misconceptions assessment as within-subject variable showed a significant main effect of time with "η2 = .28 (large effect)".
 
@@ -45,7 +52,7 @@ A mixed ANOVA with instructional method as between-subjects variable and time of
 
 Anja Prinz-Weiß & Elisa Röhm. (2025). To what extent can think sheets with or without reflection prompts support self-regulated learning from text? Metacognition and Learning. https://doi.org/10.1007/s11409-025-09419-z
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 The same mixed ANOVA showed "no significant interaction effect between instructional method and time of misconceptions assessment", which the authors read as misconceptions decreasing similarly with all three methods; the main effect of method itself failed to reach significance (p = .062).
 

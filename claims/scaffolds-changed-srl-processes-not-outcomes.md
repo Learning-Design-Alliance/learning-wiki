@@ -15,9 +15,14 @@ sources:
     author: Joep van der Graaf, Mladen Raković, Yizhou Fan, Lyn Lim, Shaveen Singh, Maria Bannert, Dragan Gašević, Inge Molenaar
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Personalized scaffolds increased frequencies of high cognition and monitoring relative to control, but learning outcomes did not differ between conditions.
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` The personalized condition showed more high cognition and monitoring than the control condition, but there was no effect on the temporal structure of the overall SRL process. [→ Joep van der Graaf 2023](#joep-van-der-graaf-2023)
@@ -29,7 +34,7 @@ sources:
 
 Joep van der Graaf, Mladen Raković, Yizhou Fan, Lyn Lim, Shaveen Singh, Maria Bannert, Dragan Gašević, Inge Molenaar. (2023). How to design and evaluate personalized scaffolds for self-regulated learning. Metacognition and Learning. https://doi.org/10.1007/s11409-023-09361-y
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 Summary of the previous analyses (Lim et al., 2023) re-analyzed in this study, reported at the start of the Results. The article reports that "Learning outcomes did not differ" while the personalized condition showed more high cognition and monitoring than control, with no effect on temporal structure of SRL.
 

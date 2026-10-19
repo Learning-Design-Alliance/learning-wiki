@@ -16,6 +16,9 @@ sources:
 
 # Redesign digital SRL skill training into video-based multimedia splitting content across audio and visual channels to raise completion rates and learning efficiency
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The authors resolved to simplify their three-module training after low completion rates limited benefits. "By adopting a multimedia approach, we aimed to sustain the didactic benefits of the training and make it more efficient and engaging by splitting our delivery of content across audio and visual channels of information." In Study 2, digital videos replaced textual content so learners could save time by viewing video rather than reading, and the authors examined whether the redesign produced higher completion rates and lower completion times.
 
@@ -35,7 +38,7 @@ The authors resolved to simplify their three-module training after low completio
 - Efficient acquisition of SRL skill knowledge at declarative, conceptual, and applied levels
 
 ### Affordances
-- [Skill Training Depth Of Knowledge Design Model](../theories/skill-training-depth-of-knowledge-design-model.md)
+- [Skill Training Depth Of Knowledge Design Model](../designs/skill-training-depth-of-knowledge-design-model.md)
 
 ## Related Strategies
 - 

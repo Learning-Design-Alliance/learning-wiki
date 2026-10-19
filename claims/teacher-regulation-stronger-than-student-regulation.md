@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11409-018-9187-4"
     title: "Jan A. A. Engelen, Gino Camp, Janneke van de Pol, Anique B. H. de Bruin. (2018). Teachers' monitoring of students' text comprehension: can students' keywords and summaries improve teachers' judgment accuracy? Metacognition and Learning 13:287–307. https://doi.org/10.1007/s11409-018-9187-4"
     author: Jan A. A. Engelen, Gino Camp, Janneke van de Pol, Anique B. H. de Bruin
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Teachers show stronger regulation than students: both select lower-JOL texts for restudy, but the JOL–restudy correlation is significantly stronger for teachers (Experiment 1).
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Teacher regulation grand mean was −.635 and student regulation −.379; the classroom-level difference was significant, t(26) = 3.227, p = .004. [→ Jan A. A. Engelen 2018](#jan-a-a-engelen-2018)
@@ -26,7 +33,7 @@ sources:
 
 Jan A. A. Engelen, Gino Camp, Janneke van de Pol, Anique B. H. de Bruin. (2018). Teachers' monitoring of students' text comprehension: can students' keywords and summaries improve teachers' judgment accuracy? Metacognition and Learning 13:287–307. https://doi.org/10.1007/s11409-018-9187-4
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Experiment 1 compared regulation (gamma between JOLs and restudy selections) aggregated at classroom level via independent-samples t-tests. Teachers' grand mean was −.635 and students' −.379; the difference was "significantly higher for teachers than for students", t(26) = 3.227, p = .004.
 

@@ -15,9 +15,14 @@ sources:
     author: Janneke van de Pol, Eleanor Rowan, Eva Janssen, Tamara van Gog
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Teachers' judgments of students' text comprehension are significantly more accurate when diagnostic performance cues are available than when only non-diagnostic student cues are available
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Judgment accuracy was significantly higher in the diagnostic-cues-only condition (B = -2.06, p < 0.001, R2 = 0.997) and the mixed-cues condition (B = -0.92, p < 0.001, R2 = 0.995) than in the non-diagnostic-cues-only condition. [→ Janneke van de Pol 2024](#janneke-van-de-pol-2024)
@@ -28,7 +33,7 @@ sources:
 
 Janneke van de Pol, Eleanor Rowan, Eva Janssen, Tamara van Gog. (2024). Effects of availability of diagnostic and non-diagnostic cues on the accuracy of teachers' judgments of students' text comprehension. Metacognition and Learning. https://doi.org/10.1007/s11409-024-09383-0
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Within-subjects experiment with 33 Dutch secondary teachers judging anonymous students' reading comprehension in a multilevel regression; the Results section reports "teachers' judgments were significantly more accurate" with diagnostic cues available, with the printed coefficients and R2 values.
 

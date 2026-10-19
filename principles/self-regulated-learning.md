@@ -35,7 +35,7 @@ sources:
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 74 claims (42 for, 29 mixed, 3 against) · 57 studies (21 causal, 10 review, 9 quant-synthesis, 7 associational, 7 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 18 of 57 report an effect size · 63 claims rest on one study
+> **Evidence** · 77 claims (45 for, 29 mixed, 3 against) · 60 studies (22 causal, 10 review, 9 quant-synthesis, 9 associational, 7 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 18 of 60 report an effect size · 66 claims rest on one study
 
 ## Conditional relationship
 
@@ -134,6 +134,9 @@ Claims read against the model above that do not bear on its relationship, steps 
 - [Teacher-directed instruction is negatively related to children's restudy effectiveness and self-monitoring accuracy](../claims/teacher-directed-instruction-negative-metacognition.md) [+W] — attached 2026-10-19 from Mariëtte H. van Loon (2021), which proposed "Support children's metacognition through the way instructions are given, not only their content"; tests this page's relationship.
 - [MITCA homework prescription improved environmental management relative to traditional homework in primary students](../claims/mitca-improves-environmental-management.md) [+W] — attached 2026-10-19 from Tania Vieites et al. (2024), which proposed "Prescribe homework following MITCA's premises to support students' self-regulatory skills"; tests this page's relationship.
 - [MITCA prevented the growth of self-regulatory deficits seen under traditional homework over twelve weeks](../claims/mitca-limits-self-regulatory-deficits.md) [+W] — attached 2026-10-19 from Tania Vieites et al. (2024), which proposed "Prescribe homework following MITCA's premises to support students' self-regulatory skills"; tests this page's relationship.
+- [Primary teachers who participated in the iSELF professional development program showed significantly higher explicit SRL strategy instruction at post-test than control teachers](../claims/iself-pdp-increases-explicit-srl-instruction.md) [+W] — attached 2026-10-19 from Patrick Sins et al. (2024), which proposed "Instruct SRL strategies explicitly and integrated within subject-matter teaching rather than in decontextualized study lessons".
+- [Metacognitive strategies directly and positively predict writing performance in both L1 and L2 task-situated writing](../claims/metacognitive-strategies-predict-l1-l2-writing-performance.md) [+W] — attached 2026-10-19 from Wandong Xu (2024), which proposed "Embed metacognitive strategy training in writing classrooms with explicit, practical guidance across task interpreting, planning, monitoring, and evaluating".
+- [Metacognitive regulation of interactive metadiscourse strategies significantly predicts L2 argumentative writing performance, explaining about 11.3% of variance](../claims/mrim-predicts-l2-argumentative-writing-performance.md) [+W] — attached 2026-10-19 from Chenghui Chen (2025), which proposed "Attend to monitoring of interactive metadiscourse during writing, since it is the strongest predictor of L2 argumentative writing performance"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

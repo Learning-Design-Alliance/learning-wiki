@@ -16,6 +16,9 @@ sources:
 
 # Lecturers should implement online practice tests with automatically generated individual corrective item feedback and encourage steady participation
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article's closing recommendation for educators is that "practice tests plus automatically generated individual corrective item feedback can be implemented easily via online tests" and that the results "should encourage lecturers to provide students with practice tests". Because participation rates showed many students test only late in the term, the authors add that "educators might need to encourage students to steadily practice-test their knowledge". Feedback should give the correctness of the answer and the correct solution, beyond pure true/false feedback.
 

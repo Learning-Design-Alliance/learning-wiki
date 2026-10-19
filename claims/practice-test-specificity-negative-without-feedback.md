@@ -15,15 +15,22 @@ sources:
     author: Nick Naujoks, Bettina Harder, Marion Händel
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: nick-naujoks-2022-2
     resource: "https://doi.org/10.1007/s11409-022-09295-x"
     title: "Nick Naujoks, Bettina Harder, Marion Händel. (2022). Testing pays off twice: Potentials of practice tests and feedback regarding exam performance and judgment accuracy. Metacognition and Learning. https://doi.org/10.1007/s11409-022-09295-x"
     author: Nick Naujoks, Bettina Harder, Marion Händel
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Without feedback, more practice-test participation predicts lower specificity (worse detection of incorrect answers); with corrective feedback this negative relation disappears
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In Study 1 (no feedback), students using more practice-testing opportunities showed lower specificity in the posttest (β = –.16*). [→ Nick Naujoks 2022](#nick-naujoks-2022)
@@ -35,7 +42,7 @@ sources:
 
 Nick Naujoks, Bettina Harder, Marion Händel. (2022). Testing pays off twice: Potentials of practice tests and feedback regarding exam performance and judgment accuracy. Metacognition and Learning. https://doi.org/10.1007/s11409-022-09295-x
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Hierarchical regression in Study 1 (N = 201, no feedback) predicting posttest specificity; Table 3 shows step 2 ΔR² = .02*, β = –.16*.
 
@@ -45,7 +52,7 @@ Hierarchical regression in Study 1 (N = 201, no feedback) predicting posttest sp
 
 Nick Naujoks, Bettina Harder, Marion Händel. (2022). Testing pays off twice: Potentials of practice tests and feedback regarding exam performance and judgment accuracy. Metacognition and Learning. https://doi.org/10.1007/s11409-022-09295-x
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Study 2 (n = 111, practice tests plus individual corrective feedback): the participation predictor for specificity was non-significant (β = –.05, ΔR² = .00 in Table 3); students taking more tests were not better at detecting incorrect items.
 

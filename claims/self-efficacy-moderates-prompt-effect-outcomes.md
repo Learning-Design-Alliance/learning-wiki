@@ -15,9 +15,14 @@ sources:
     author: "Nadja Gentner & Tina Seufert"
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Learners' perceived self-efficacy during learning moderated the effect of prompts on learning outcomes
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The condition × self-efficacy interaction significantly predicted learning outcomes, though the explained variance was low. [→ Nadja Gentner & Tina Seufert 2020](#nadja-gentner-tina-seufert-2020)
@@ -28,7 +33,7 @@ sources:
 
 Nadja Gentner & Tina Seufert. (2020). The Double-Edged Interactions of Prompts and Self-efficacy. Metacognition and Learning. https://doi.org/10.1007/s11409-020-09227-7
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Stepwise moderation analysis predicting learning outcomes from experimental condition, self-efficacy during learning, and their interaction, with prior knowledge as covariate. The significant interaction term showed "learners’self-reported perceived self-efficacy moder- ated the effect between learners’experimental condition and their learning outcomes"; no effect size beyond R2 = .15 was printed.
 

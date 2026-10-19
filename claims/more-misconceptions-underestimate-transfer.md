@@ -15,12 +15,17 @@ sources:
     author: "Anja Prinz-Weiß & Elisa Röhm"
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Students with more misconceptions before studying more strongly underestimated their transfer performance, regardless of instructional method
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3`
+
 ## Subclaims
-`q3 i?` A significant negative main effect of misconceptions on judgment accuracy of transfer emerged (b = -0.25, p = .022), with no effect of instructional method. [→ Anja Prinz-Weiß & Elisa Röhm 2025](#anja-prinz-weiß-elisa-röhm-2025)
+`q3 i?` A significant negative main effect of misconceptions on judgment accuracy of transfer emerged (b = -0.25, p = .022), with no effect of instructional method. [→ Anja Prinz-Weiß & Elisa Röhm 2025](#anja-prinz-wei-elisa-rohm-2025)
 
 ## Evidence
 
@@ -28,7 +33,7 @@ sources:
 
 Anja Prinz-Weiß & Elisa Röhm. (2025). To what extent can think sheets with or without reflection prompts support self-regulated learning from text? Metacognition and Learning. https://doi.org/10.1007/s11409-025-09419-z
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 In the regression on judgment accuracy of transfer, removing the interaction terms revealed "a significant negative main effect of number of misconceptions, b = -0.25"; the article interprets this as learners with more misconceptions more strongly underestimating their transfer performance. No effect size is printed.
 

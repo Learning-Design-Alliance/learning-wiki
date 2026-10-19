@@ -15,9 +15,14 @@ sources:
     author: Nick Naujoks, Bettina Harder, Marion Händel
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Within the feedback condition, students rated test taking and receiving feedback as equally useful for monitoring their performance
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In Study 2, paired-samples comparison found no difference between perceived usefulness of practice-test taking and of receiving feedback for monitoring. [→ Nick Naujoks 2022](#nick-naujoks-2022)
@@ -28,7 +33,7 @@ sources:
 
 Nick Naujoks, Bettina Harder, Marion Händel. (2022). Testing pays off twice: Potentials of practice tests and feedback regarding exam performance and judgment accuracy. Metacognition and Learning. https://doi.org/10.1007/s11409-022-09295-x
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Paired-samples t-test in Study 2 on the two five-item monitoring-usefulness scales (practice tests vs. feedback), restricted to students who reported saving the PDF file; no significant difference; equivalence was not tested.
 

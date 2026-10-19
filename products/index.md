@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1807 entries** · 0 stable · 1807 in review · 0 drafts
+**1811 entries** · 0 stable · 1811 in review · 0 drafts
 
 ---
 
@@ -36,6 +36,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [ADA](ada.md) - ADA is a GDPR-compliant, GPT-4-based domain-specific AI chatbot developed by Cilia Ricarda Rücker for Socratic mathematics support, curriculum-grounded retrieval, and calculation verification in secondary education.
 * [AdaPT](adapt.md) - AdaPT is a Vue.js and TypeScript NestJS web application developed by Yanjie Zhang and colleagues that structures existing lesson plans, analyzes student learning profiles, and supports teacher-in-the-loop adaptation for differentiated K–12 instruction.
 * [Adapted 15-item Internet Skills Scale](adapted-15-item-internet-skills-scale.md) - A culturally adapted self-report scale measuring operational, formal/navigation, and informational/evaluation Internet skills among Latin American college students.
+* [Adapted ATES low-inference observation instrument for coding explicit and implicit SRL instruction](adapted-ates-low-inference-observation-instrument-for-coding-explicit-and-implicit-srl-ins.md) - An adapted low-inference ATES classroom-observation instrument developed by Sins et al.
 * [AdaptED Stories](adapted-stories.md) - A practitioner-facing web application developed by the AdaptED Stories research team for authoring, personalizing, and delivering Social Stories to autistic children, with practitioner review, reading-session supports, and analytics.
 * [Adapted TPACK-21 questionnaire for GenAI-infused higher education instruction](adapted-tpack-21-questionnaire-for-genai-infused-higher-education-instruction.md) - A six-point faculty self-report questionnaire adapted from the Valtonen et al.
 * [Adaptive Cognitive Evaluation Classroom (ACE-C)](adaptive-cognitive-evaluation-classroom-ace-c.md) - A group-administered iPad battery developed by Gallen et al.
@@ -766,6 +767,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [IRLA](irla.md) - The Independent Reading Level Assessment (IRLA) is a reading assessment framework used as a potential screening tool within Response to Intervention.
 * [Is Your State Prioritizing Social, Emotional, and Academic Development? 50-state scan](is-your-state-prioritizing-social-emotional-and-academic-development-50-state-scan.md) - A 50-state policy-scan data resource released by Ed Trust in partnership with CASEL that compiles publicly available state policies so educators, advocates, and policymakers can compare support for students’ social, emotional, and academic development.
 * [ISD-Agent-Bench](isd-agent-bench.md) - ISD-Agent-Bench is a benchmark dataset and evaluation harness created by YoungHoon Jeon et al.
+* [iSELF professional development program](iself-professional-development-program.md) - iSELF is a professional-development programme developed for primary teachers that combines SRL theory training, lesson-planning support, coached lesson observation, and reflective feedback to promote explicit, integrated SRL instruction.
 * [ISLS webinar video collection for learning sciences and CSCL education](isls-webinar-video-collection-for-learning-sciences-and-cscl-education.md) - A freely available collection of approximately 50 recorded 90-minute webinars coordinated by the International Society of the Learning Sciences for use in learning-sciences and computer-supported collaborative-learning education.
 * [iSTART-2](istart-2.md) - iSTART-2 is a game-based intelligent tutoring system developed by researchers to provide high school students with self-explanation training and practice for reading comprehension.
 * [iSTART-ME](istart-me.md) - iSTART-ME is a game-based intelligent tutoring system developed by the iSTART research team to teach self-explanation and reading-comprehension strategies through demonstrations, coached practice, games, and motivational features.
@@ -1035,6 +1037,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Motivational Framework for Culturally Responsive Teaching (MFCRT)](motivational-framework-for-culturally-responsive-teaching-mfcrt.md) - A framework developed by Wlodkowski and Ginsberg for designing culturally responsive instruction through the motivational conditions of inclusion, attitude, meaning, and competence.
 * [MPathic-VR virtual human conversation simulation](mpathic-vr-virtual-human-conversation-simulation.md) - MPathic-VR is a computer-based virtual-human conversation simulation for healthcare learners, developed for practicing and assessing advanced intercultural and interprofessional communication skills.
 * [Mr. Vetro simulation framework](mr-vetro-simulation-framework.md) - A student-facing, Agentsheets-based collaborative cardiovascular-system simulation developed by Gerry Stahl and colleagues for K–12 students to explore physiological parameters and complex-system causality.
+* [MRIM scale](mrim-scale.md) - A 19-item, 6-point Likert self-report assessment developed by Chenghui Chen for measuring planning, monitoring, and evaluating of interactive metadiscourse strategies in L2 argumentative writing among first-year non-English major university EFL students.
 * [MSCEIT-YV Emotion Regulation Ability subtest](msceit-yv-emotion-regulation-ability-subtest.md) - A standardized youth assessment subtest that measures adolescents’ ability to judge the effectiveness of alternative actions for achieving emotion-regulation goals, developed as part of the Mayer, Salovey, and Caruso Emotional Intelligence Test—Youth Version.
 * [Multi-measure metacognition assessment paradigm combining MAI, confidence judgments, and trial-by-trial AUROC2](multi-measure-metacognition-assessment-paradigm-combining-mai-confidence-judgments-and-tri.md) - A study-developed assessment paradigm by Terneusen et al.
 * [Multi-Payer School-Linked Fee Schedule](multi-payer-school-linked-fee-schedule.md) - A California optional programme administered through Carelon that enables enrolled local educational agencies and designated school-linked providers to obtain reimbursement from commercial and Medi-Cal managed care plans for student mental health and substance use disorder services.
@@ -1047,6 +1050,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Multimodal mathematics item-response corpus: 970 item models, 4,848 items, 13.88 million responses](multimodal-mathematics-item-response-corpus-970-item-models-4848-items-1388-million-respon.md) - A corpus of multimodal multiple-choice mathematics items and 13.88 million student responses created by Christopher Ormerod et al.
 * [Multimodal OBE examination-answer dataset of 485 scanned submissions with criterion-level rubric marks](multimodal-obe-examination-answer-dataset-of-485-scanned-submissions-with-criterion-level.md) - A restricted research dataset created by Jahangir Alam SM et al.
 * [Multiple Episode Protocol Analysis (MEPA)](multiple-episode-protocol-analysis-mepa.md) - A computer program developed by Erkens et al.
+* [Multiple-Text Strategy Inventory (MTSI)](multiple-text-strategy-inventory-mtsi.md) - A 15-item questionnaire developed by Ivar Bråten and colleagues to assess undergraduates' self-reported accumulation and cross-text elaboration strategies immediately after reading multiple texts.
 * [MUSE: a 12-task benchmark of artistic image understanding for situated education](muse-a-12-task-benchmark-of-artistic-image-understanding-for-situated-education.md) - MUSE is a benchmark dataset developed by Luyao Zhu et al.
 * [MuTSE](mutse.md) - MuTSE is a web application developed by Rares-Alexandru Roșcan et al.
 * [My Math Academy](my-math-academy.md) - My Math Academy is a game-based adaptive mathematics learning platform for pre-K through grade 2, developed and operated by Age of Learning.

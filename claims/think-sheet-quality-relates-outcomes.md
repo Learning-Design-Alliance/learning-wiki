@@ -15,12 +15,17 @@ sources:
     author: "Anja Prinz-Weiß & Elisa Röhm"
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Completing the think sheet more accurately was associated with higher comprehension, transfer, and regulation decision adequacy
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3`
+
 ## Subclaims
-`q3 i?` The number of points achieved on the think sheet had significant positive main effects on comprehension, transfer, and regulation decision adequacy. [→ Anja Prinz-Weiß & Elisa Röhm 2025](#anja-prinz-weiß-elisa-röhm-2025)
+`q3 i?` The number of points achieved on the think sheet had significant positive main effects on comprehension, transfer, and regulation decision adequacy. [→ Anja Prinz-Weiß & Elisa Röhm 2025](#anja-prinz-wei-elisa-rohm-2025)
 
 ## Evidence
 
@@ -28,7 +33,7 @@ sources:
 
 Anja Prinz-Weiß & Elisa Röhm. (2025). To what extent can think sheets with or without reflection prompts support self-regulated learning from text? Metacognition and Learning. https://doi.org/10.1007/s11409-025-09419-z
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Moderation analyses with think-sheet points as predictor and instructional method (think-sheet vs. think-sheet-reflection) as moderator showed "significant positive main effects of the number of points" on all three outcomes; no interaction effects appeared. No effect sizes are printed.
 

@@ -15,15 +15,22 @@ sources:
     author: "Craig, K., Hale, D., Grainger, C., & Stewart, M. E."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
   - id: craig-2020-2
     resource: "https://doi.org/10.1007/s11409-020-09222-y"
     title: "Craig, K., Hale, D., Grainger, C., & Stewart, M. E. (2020). Evaluating metacognitive self-reports: systematic reviews of the value of self-report in metacognitive research. Metacognition and Learning, 15, 155-213. https://doi.org/10.1007/s11409-020-09222-y"
     author: "Craig, K., Hale, D., Grainger, C., & Stewart, M. E."
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # No single metacognitive self-report can be recommended as the industry standard; the COMEGAM-ro has the strongest statistical support but is unreplicated
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r2`–`r3` · `q2`–`q3`
 
 ## Subclaims
 `q3 i?` The systematic review concludes there is not a single self-report that can be recommended as the industry standard. [→ Craig 2020](#craig-2020)
@@ -35,7 +42,7 @@ sources:
 
 Craig, K., Hale, D., Grainger, C., & Stewart, M. E. (2020). Evaluating metacognitive self-reports: systematic reviews of the value of self-report in metacognitive research. Metacognition and Learning, 15, 155-213. https://doi.org/10.1007/s11409-020-09222-y
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Conclusion of the systematic review of 22 factor-structure studies: "there is not a single self-report that can be recommended as the industry standard (i.e. reliable and replicable)"; self-reports are best suited to evaluate two distinctive metacognitive factors.
 
@@ -45,7 +52,7 @@ Conclusion of the systematic review of 22 factor-structure studies: "there is no
 
 Craig, K., Hale, D., Grainger, C., & Stewart, M. E. (2020). Evaluating metacognitive self-reports: systematic reviews of the value of self-report in metacognitive research. Metacognition and Learning, 15, 155-213. https://doi.org/10.1007/s11409-020-09222-y
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Review's evaluation of Ning's (2017) bifactor model on the JrMAI version A: it "showed a bi-factor structure of general metacognition along with KOC and ROC to be the best fit," but information criteria make the advantage over the two-factor model questionable.
 

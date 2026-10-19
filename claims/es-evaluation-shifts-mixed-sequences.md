@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11409-025-09427-z"
     title: "Franco Londra, Magalí Martínez, Gaston Saux. (2025). Sources within sources: The dynamic influence of multiple documents trustworthiness when evaluating and using an embedded source. Metacognition and Learning. https://doi.org/10.1007/s11409-025-09427-z"
     author: Franco Londra, Magalí Martínez, Gaston Saux
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Embedded-source trustworthiness evaluations shift toward the trustworthiness of the most recent document source in mixed sequences
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In the HT-LT sequence, ES trustworthiness decreased on average 2.5 points from position 1 to position 2. [→ Franco Londra 2025](#franco-londra-2025)
@@ -26,7 +33,7 @@ sources:
 
 Franco Londra, Magalí Martínez, Gaston Saux. (2025). Sources within sources: The dynamic influence of multiple documents trustworthiness when evaluating and using an embedded source. Metacognition and Learning. https://doi.org/10.1007/s11409-025-09427-z
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Linear mixed-model analysis of ES ratings in the HT-LT mixed sequence (n = 72 analyzed). The article reports ES trustworthiness "decreased on average 2.5 points from position 1 (M = 5.05, SE = 0.68) to 2 (M = 2.53, SE = 0.68)"; no standardized effect size is printed.
 

@@ -1,15 +1,15 @@
 {
 "counts":{
 "claim":21996,
-"design":965,
+"design":972,
 "element":1066,
 "learner-variable":74,
 "method":38,
 "pattern":68,
 "principle":213,
 "process":18,
-"product":1807,
-"research-method":471,
+"product":1811,
+"research-method":473,
 "strategy":6255,
 "theory":1361
 },
@@ -199850,6 +199850,14 @@
 "type":"design"
 },
 {
+"description":"CREATE is an explicit, theory-grounded meta-creative pedagogy whose acronym names six strategies: comprehending the core problem and subproblems, reconstructing connections, exploring and experimenting, adding more id...",
+"id":"create-meta-creative-pedagogy",
+"path":"designs/create-meta-creative-pedagogy.md",
+"status":"review",
+"title":"CREATE: a six-strategy meta-creative pedagogy for fostering creative thinking",
+"type":"design"
+},
+{
 "description":"The framework specifies the AI tutor's pedagogy in advance as a library of 16 named protocols drawn from the retrieval-practice, productive-failure, and affect literatures, rather than a single general-purpose prompt.",
 "id":"crewscaler-16-protocol-ai-tutor-library",
 "path":"designs/crewscaler-16-protocol-ai-tutor-library.md",
@@ -200933,6 +200941,14 @@
 "type":"design"
 },
 {
+"description":"A multi-phase assessment paradigm for children's metacognitive monitoring and control.",
+"id":"film-cloze-confidence-withdrawal-metacognition-paradigm",
+"path":"designs/film-cloze-confidence-withdrawal-metacognition-paradigm.md",
+"status":"review",
+"title":"Film-plus-cloze metacognitive assessment paradigm with confidence judgments and answer withdrawal",
+"type":"design"
+},
+{
 "description":"The study's organizing framework is Fink's (2013) Integrated Course Design, which \\\"revolves around three primary components: Learning Goals, Teaching and Learning Activities, and Feedback and Assessment\\\".",
 "id":"fink-integrated-course-design-framework",
 "path":"designs/fink-integrated-course-design-framework.md",
@@ -201138,6 +201154,14 @@
 "path":"designs/fok-finding-and-practice-framework-element.md",
 "status":"review",
 "title":"Framework for finding students' funds of knowledge and categorising FoK/I-related teaching practices",
+"type":"design"
+},
+{
+"description":"The study's core instrument is a booklet of four case vignettes describing a study group preparing for an exam, arranged in a 2 × 2 within-subjects design: no problems (\\\"high knowledge and high learning motivation\\\"),...",
+"id":"four-case-vignettes-regulation-problems",
+"path":"designs/four-case-vignettes-regulation-problems.md",
+"status":"review",
+"title":"Four case vignettes systematically varying motivational and comprehension-related problems",
 "type":"design"
 },
 {
@@ -201917,6 +201941,14 @@
 "type":"design"
 },
 {
+"description":"The study trained 243 fifth-grade students from two German secondary schools across one full school year.",
+"id":"hybrid-non-hybrid-training-design-stebner-2022",
+"path":"designs/hybrid-non-hybrid-training-design-stebner-2022.md",
+"status":"review",
+"title":"Year-long hybrid versus non-hybrid metacognitive skill training design with strategy crossover",
+"type":"design"
+},
+{
 "description":"A deployed support platform for a large online internship programme that routes each raised query across four paths: an AI chatbot answering only from a curated FAQ corpus, a peer layer where any participant may answe...",
 "id":"hybrid-query-resolution-platform-internship-onboarding",
 "path":"designs/hybrid-query-resolution-platform-internship-onboarding.md",
@@ -202517,6 +202549,14 @@
 "path":"designs/linked-microsites-time-travel-journey.md",
 "status":"review",
 "title":"Eight linked microsites organizing a place-based MAR time-travel journey from the Ordovician period to the present day",
+"type":"design"
+},
+{
+"description":"A shape categorization task in which participants learn to sort 12 stimuli into two categories ('blickets' and 'daxes') defined by a disjunctive rule about inner and outer shape form or color.",
+"id":"little-mcdaniel-category-learning-paradigm",
+"path":"designs/little-mcdaniel-category-learning-paradigm.md",
+"status":"review",
+"title":"Little and McDaniel category learning paradigm distinguishing memorization from rule learning",
 "type":"design"
 },
 {
@@ -204411,6 +204451,14 @@
 "type":"design"
 },
 {
+"description":"The reading task comprised seven separate one-page texts about different aspects of climate change: a neutral textbook excerpt plus six texts with partly conflicting information on causes, consequences, and solutions...",
+"id":"seven-text-climate-change-reading-task",
+"path":"designs/seven-text-climate-change-reading-task.md",
+"status":"review",
+"title":"Seven-text climate change reading task with conflicting source documents",
+"type":"design"
+},
+{
 "description":"Trialogues involve a human interacting with two agents, typically a tutor agent and a student peer agent.",
 "id":"seven-trialogue-designs-two-agents",
 "path":"designs/seven-trialogue-designs-two-agents.md",
@@ -204576,6 +204624,14 @@
 "path":"designs/skill-targeted-explanation-styles-pragmatic-contingent.md",
 "status":"review",
 "title":"Skill-targeted explanation styles: pragmatic versus contingent LLM error-message rewrites",
+"type":"design"
+},
+{
+"description":"The article organizes its training design and analyses around models of learning-skill development, chiefly Hattie and Donoghue's (2016) framework and Efklides' (2011) MASRL model.",
+"id":"skill-training-depth-of-knowledge-design-model",
+"path":"designs/skill-training-depth-of-knowledge-design-model.md",
+"status":"review",
+"title":"Skill-training design model: introduce surface declarative knowledge, consolidate to conceptual understanding, then prepare transfer to applied settings",
 "type":"design"
 },
 {
@@ -219046,6 +219102,14 @@
 "type":"product"
 },
 {
+"description":"An adapted low-inference ATES classroom-observation instrument developed by Sins et al.",
+"id":"adapted-ates-low-inference-observation-instrument-for-coding-explicit-and-implicit-srl-ins",
+"path":"products/adapted-ates-low-inference-observation-instrument-for-coding-explicit-and-implicit-srl-ins.md",
+"status":"review",
+"title":"Adapted ATES low-inference observation instrument for coding explicit and implicit SRL instruction",
+"type":"product"
+},
+{
 "description":"A practitioner-facing web application developed by the AdaptED Stories research team for authoring, personalizing, and delivering Social Stories to autistic children, with practitioner review, reading-session supports, and analytics.",
 "id":"adapted-stories",
 "path":"products/adapted-stories.md",
@@ -224723,6 +224787,14 @@
 "type":"product"
 },
 {
+"description":"iSELF is a professional-development programme developed for primary teachers that combines SRL theory training, lesson-planning support, coached lesson observation, and reflective feedback to promote explicit, integrated SRL instruction.",
+"id":"iself-professional-development-program",
+"path":"products/iself-professional-development-program.md",
+"status":"review",
+"title":"iSELF professional development program",
+"type":"product"
+},
+{
 "description":"A freely available collection of approximately 50 recorded 90-minute webinars coordinated by the International Society of the Learning Sciences for use in learning-sciences and computer-supported collaborative-learning education.",
 "id":"isls-webinar-video-collection-for-learning-sciences-and-cscl-education",
 "path":"products/isls-webinar-video-collection-for-learning-sciences-and-cscl-education.md",
@@ -226782,6 +226854,14 @@
 "type":"product"
 },
 {
+"description":"A 19-item, 6-point Likert self-report assessment developed by Chenghui Chen for measuring planning, monitoring, and evaluating of interactive metadiscourse strategies in L2 argumentative writing among first-year non-English major university EFL students.",
+"id":"mrim-scale",
+"path":"products/mrim-scale.md",
+"status":"review",
+"title":"MRIM scale",
+"type":"product"
+},
+{
 "description":"A standardized youth assessment subtest that measures adolescents’ ability to judge the effectiveness of alternative actions for achieving emotion-regulation goals, developed as part of the Mayer, Salovey, and Caruso Emotional Intelligence Test—Youth Version.",
 "id":"msceit-yv-emotion-regulation-ability-subtest",
 "path":"products/msceit-yv-emotion-regulation-ability-subtest.md",
@@ -226875,6 +226955,14 @@
 "path":"products/multiple-episode-protocol-analysis-mepa.md",
 "status":"review",
 "title":"Multiple Episode Protocol Analysis (MEPA)",
+"type":"product"
+},
+{
+"description":"A 15-item questionnaire developed by Ivar Bråten and colleagues to assess undergraduates' self-reported accumulation and cross-text elaboration strategies immediately after reading multiple texts.",
+"id":"multiple-text-strategy-inventory-mtsi",
+"path":"products/multiple-text-strategy-inventory-mtsi.md",
+"status":"review",
+"title":"Multiple-Text Strategy Inventory (MTSI)",
 "type":"product"
 },
 {
@@ -233396,6 +233484,14 @@
 "type":"research-method"
 },
 {
+"description":"The article develops a fine-grained coding framework for metacognition interventions, distinguishing intervention focus (primary vs.",
+"id":"coding-framework-of-metacognition-intervention-components-and-instructional-methods",
+"path":"research-methods/coding-framework-of-metacognition-intervention-components-and-instructional-methods.md",
+"status":"review",
+"title":"Coding framework of metacognition intervention components and instructional methods",
+"type":"research-method"
+},
+{
 "description":"Elicitation (asking for evidence pertinent to the diagnosed pupil's scientific reasoning skills), sharing (sharing such evidence), and negotiation (negotiating how consistent or contradictory observations affect the joint diagnosis) were coded from screen recordings at the level of the individual, f",
 "id":"coding-scheme-for-collaborative-diagnostic-activities-across-11-scientific-reasoning-sub-s",
 "path":"research-methods/coding-scheme-for-collaborative-diagnostic-activities-across-11-scientific-reasoning-sub-s.md",
@@ -236460,6 +236556,14 @@
 "path":"research-methods/tool-supported-workflow-for-identifying-clustering-and-visualizing-common-modelling-mistak.md",
 "status":"review",
 "title":"Tool-supported workflow for identifying, clustering, and visualizing common modelling mistakes as bug fixing transformations",
+"type":"research-method"
+},
+{
+"description":"A trace-based measurement protocol that converts raw multi-channel trace data into SRL processes.",
+"id":"trace-parser-with-action-library-and-process-library-for-measuring-srl-from-multi-channel",
+"path":"research-methods/trace-parser-with-action-library-and-process-library-for-measuring-srl-from-multi-channel.md",
+"status":"review",
+"title":"Trace parser with action library and process library for measuring SRL from multi-channel data",
 "type":"research-method"
 },
 {
@@ -320840,6 +320944,7 @@
 "cpig-multi-stage-prompting-quality-filters":"cpig-multi-stage-prompting-quality-filters",
 "cps-high-school-performance-tiers":"cps-high-school-performance-tiers",
 "cra-four-activity-categories":"cra-four-activity-categories",
+"create-meta-creative-pedagogy":"create-meta-creative-pedagogy",
 "crewscaler-16-protocol-ai-tutor-library":"crewscaler-16-protocol-ai-tutor-library",
 "crewscaler-five-stage-ai-upskilling-pipeline":"crewscaler-five-stage-ai-upskilling-pipeline",
 "critics-three-component-ecosystem":"critics-three-component-ecosystem",
@@ -320975,6 +321080,7 @@
 "fiber-crafts-course-design-studio":"fiber-crafts-course-design-studio",
 "field-day-embedded-assessment-unit":"field-day-embedded-assessment-unit",
 "fifteen-week-game-based-program-thai-university":"fifteen-week-game-based-program-thai-university",
+"film-cloze-confidence-withdrawal-metacognition-paradigm":"film-cloze-confidence-withdrawal-metacognition-paradigm",
 "fink-integrated-course-design-framework":"fink-integrated-course-design-framework",
 "first-year-genai-learning-activities-business-curriculum":"first-year-genai-learning-activities-business-curriculum",
 "five-activity-metaconceptual-sequence":"five-activity-metaconceptual-sequence",
@@ -321001,6 +321107,7 @@
 "flipped-genai-studio-integration-framework":"flipped-genai-studio-integration-framework",
 "focus-on-freshmen-study":"focus-on-freshmen-study",
 "fok-finding-and-practice-framework-element":"fok-finding-and-practice-framework-element",
+"four-case-vignettes-regulation-problems":"four-case-vignettes-regulation-problems",
 "four-condition-communicative-task-treatment":"four-condition-communicative-task-treatment",
 "four-condition-computerized-l2-rule-training":"four-condition-computerized-l2-rule-training",
 "four-design-goals-process-visualization-teachers":"four-design-goals-process-visualization-teachers",
@@ -321098,6 +321205,7 @@
 "human-robot-storytelling-turn-protocol":"human-robot-storytelling-turn-protocol",
 "hybrid-grading-behavior-below-quality-above-threshold":"hybrid-grading-behavior-below-quality-above-threshold",
 "hybrid-micro-personalization-framework":"hybrid-micro-personalization-framework",
+"hybrid-non-hybrid-training-design-stebner-2022":"hybrid-non-hybrid-training-design-stebner-2022",
 "hybrid-query-resolution-platform-internship-onboarding":"hybrid-query-resolution-platform-internship-onboarding",
 "hypergamification-bidirectional-lms-game-integration":"hypergamification-bidirectional-lms-game-integration",
 "ibl-activity-design-principles-authenticity-collaboration-scaffolding":"ibl-activity-design-principles-authenticity-collaboration-scaffolding",
@@ -321173,6 +321281,7 @@
 "link-clinical-and-ei-records-framework":"link-clinical-and-ei-records-framework",
 "linked-classroom-home-caregiver-math-activities":"linked-classroom-home-caregiver-math-activities",
 "linked-microsites-time-travel-journey":"linked-microsites-time-travel-journey",
+"little-mcdaniel-category-learning-paradigm":"little-mcdaniel-category-learning-paradigm",
 "llm-admissions-featurization-pipeline":"llm-admissions-featurization-pipeline",
 "llm-assisted-hardware-debugging-protocol":"llm-assisted-hardware-debugging-protocol",
 "llm-attribution-with-proctored-retake-guardrail":"llm-attribution-with-proctored-retake-guardrail",
@@ -321409,6 +321518,7 @@
 "seven-co-created-cgpt-chatbots-pharmaceutical-science":"seven-co-created-cgpt-chatbots-pharmaceutical-science",
 "seven-levers-course-design-framework":"seven-levers-course-design-framework",
 "seven-step-cloud-innovation-sequence":"seven-step-cloud-innovation-sequence",
+"seven-text-climate-change-reading-task":"seven-text-climate-change-reading-task",
 "seven-trialogue-designs-two-agents":"seven-trialogue-designs-two-agents",
 "severe-disturbance-rigid-noisy-quiet-zoning":"severe-disturbance-rigid-noisy-quiet-zoning",
 "sf-dec-early-learning-for-all-network":"sf-dec-early-learning-for-all-network",
@@ -321430,6 +321540,7 @@
 "six-week-co-taught-literacy-unit":"six-week-co-taught-literacy-unit",
 "sixteen-measurement-activities-peer-interaction":"sixteen-measurement-activities-peer-interaction",
 "skill-targeted-explanation-styles-pragmatic-contingent":"skill-targeted-explanation-styles-pragmatic-contingent",
+"skill-training-depth-of-knowledge-design-model":"skill-training-depth-of-knowledge-design-model",
 "skin-lesion-group-annotation-activity":"skin-lesion-group-annotation-activity",
 "skyline-college-ece-lab-school-program":"skyline-college-ece-lab-school-program",
 "slo-thinking-through-components-matters-most":"slo-thinking-through-components-matters-most",
@@ -323460,6 +323571,7 @@
 "ada":"ada",
 "adapt":"adapt",
 "adapted-15-item-internet-skills-scale":"adapted-15-item-internet-skills-scale",
+"adapted-ates-low-inference-observation-instrument-for-coding-explicit-and-implicit-srl-ins":"adapted-ates-low-inference-observation-instrument-for-coding-explicit-and-implicit-srl-ins",
 "adapted-stories":"adapted-stories",
 "adapted-tpack-21-questionnaire-for-genai-infused-higher-education-instruction":"adapted-tpack-21-questionnaire-for-genai-infused-higher-education-instruction",
 "adaptive-cognitive-evaluation-classroom-ace-c":"adaptive-cognitive-evaluation-classroom-ace-c",
@@ -324181,6 +324293,7 @@
 "irla":"irla",
 "is-your-state-prioritizing-social-emotional-and-academic-development-50-state-scan":"is-your-state-prioritizing-social-emotional-and-academic-development-50-state-scan",
 "isd-agent-bench":"isd-agent-bench",
+"iself-professional-development-program":"iself-professional-development-program",
 "isls-webinar-video-collection-for-learning-sciences-and-cscl-education":"isls-webinar-video-collection-for-learning-sciences-and-cscl-education",
 "istart-2":"istart-2",
 "istart-me":"istart-me",
@@ -324440,6 +324553,7 @@
 "motivational-framework-for-culturally-responsive-teaching-mfcrt":"motivational-framework-for-culturally-responsive-teaching-mfcrt",
 "mpathic-vr-virtual-human-conversation-simulation":"mpathic-vr-virtual-human-conversation-simulation",
 "mr-vetro-simulation-framework":"mr-vetro-simulation-framework",
+"mrim-scale":"mrim-scale",
 "msceit-yv-emotion-regulation-ability-subtest":"msceit-yv-emotion-regulation-ability-subtest",
 "multi-measure-metacognition-assessment-paradigm-combining-mai-confidence-judgments-and-tri":"multi-measure-metacognition-assessment-paradigm-combining-mai-confidence-judgments-and-tri",
 "multi-payer-school-linked-fee-schedule":"multi-payer-school-linked-fee-schedule",
@@ -324452,6 +324566,7 @@
 "multimodal-mathematics-item-response-corpus-970-item-models-4848-items-1388-million-respon":"multimodal-mathematics-item-response-corpus-970-item-models-4848-items-1388-million-respon",
 "multimodal-obe-examination-answer-dataset-of-485-scanned-submissions-with-criterion-level":"multimodal-obe-examination-answer-dataset-of-485-scanned-submissions-with-criterion-level",
 "multiple-episode-protocol-analysis-mepa":"multiple-episode-protocol-analysis-mepa",
+"multiple-text-strategy-inventory-mtsi":"multiple-text-strategy-inventory-mtsi",
 "muse-a-12-task-benchmark-of-artistic-image-understanding-for-situated-education":"muse-a-12-task-benchmark-of-artistic-image-understanding-for-situated-education",
 "mutse":"mutse",
 "my-math-academy":"my-math-academy",
@@ -325278,6 +325393,7 @@
 "classical-test-theory":"classical-test-theory",
 "classical-test-theory-decision-consistency-estimation-methods":"classical-test-theory-decision-consistency-estimation-methods",
 "co-referencing-typology-and-coding-scheme-for-analyzing-collaborative-interaction-around-e":"co-referencing-typology-and-coding-scheme-for-analyzing-collaborative-interaction-around-e",
+"coding-framework-of-metacognition-intervention-components-and-instructional-methods":"coding-framework-of-metacognition-intervention-components-and-instructional-methods",
 "coding-scheme-for-collaborative-diagnostic-activities-across-11-scientific-reasoning-sub-s":"coding-scheme-for-collaborative-diagnostic-activities-across-11-scientific-reasoning-sub-s",
 "coding-scheme-for-observable-direction-integration-and-evaluation-in-studentai-interaction":"coding-scheme-for-observable-direction-integration-and-evaluation-in-studentai-interaction",
 "cognitive-diagnostic-profiling-cdp":"cognitive-diagnostic-profiling-cdp",
@@ -325678,6 +325794,7 @@
 "three-validation-targets-for-educational-simulation-behavioral-believability-educational-m":"three-validation-targets-for-educational-simulation-behavioral-believability-educational-m",
 "tied-duration-analysis-of-uptake-and-relevance-in-collaborative-discourse":"tied-duration-analysis-of-uptake-and-relevance-in-collaborative-discourse",
 "tool-supported-workflow-for-identifying-clustering-and-visualizing-common-modelling-mistak":"tool-supported-workflow-for-identifying-clustering-and-visualizing-common-modelling-mistak",
+"trace-parser-with-action-library-and-process-library-for-measuring-srl-from-multi-channel":"trace-parser-with-action-library-and-process-library-for-measuring-srl-from-multi-channel",
 "trace-transformer-for-academic-course-grade-estimation":"trace-transformer-for-academic-course-grade-estimation",
 "trajectory-based-early-indicator-framework-for-college-readiness-monitoring":"trajectory-based-early-indicator-framework-for-college-readiness-monitoring",
 "transactivity-coding-scheme-for-self-and-other-oriented-reasoning":"transactivity-coding-scheme-for-self-and-other-oriented-reasoning",

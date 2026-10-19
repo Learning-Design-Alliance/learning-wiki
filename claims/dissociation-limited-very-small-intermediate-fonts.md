@@ -12,10 +12,17 @@ sources:
   - id: chang-2022
     resource: "https://doi.org/10.1007/s11409-021-09287-3"
     title: "Chang, M., Brainerd, C.J. (2022). Association and dissociation between judgments of learning and memory: A Meta-analysis of the font size effect. Metacognition and Learning. https://doi.org/10.1007/s11409-021-09287-3"
-    author: Chang, M., Brainerd, C.J
+    author: Chang, M., Brainerd, C.J.
+    q: 3
+    i: "?"
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # JOL-memory dissociation occurs only when font size ranges between very small and intermediate
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · quant-synthesis `r?` · `q3`
 
 ## Subclaims
 `q3 i?` The JOL-memory dissociation is confined to comparisons spanning very small to intermediate font sizes. [→ Chang 2022](#chang-2022)
@@ -26,7 +33,7 @@ sources:
 
 Chang, M., Brainerd, C.J. (2022). Association and dissociation between judgments of learning and memory: A Meta-analysis of the font size effect. Metacognition and Learning. https://doi.org/10.1007/s11409-021-09287-3
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r?`
 
 Meta-regression moderator analysis across font-size ranges. The article reports that "JOL-memory dissociation only occurred when font size ranged between very small and intermediate", limiting the scope of the classic illusion.
 

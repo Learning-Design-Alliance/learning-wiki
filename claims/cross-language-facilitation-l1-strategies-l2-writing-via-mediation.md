@@ -15,9 +15,14 @@ sources:
     author: Wandong Xu, Xinhua Zhu
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # L1 writing metacognitive strategies facilitate L2 writing performance indirectly via L2 writing metacognitive strategies
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` L1 writing metacognitive strategies have no direct effect on L2 writing performance but a significant positive indirect effect mediated by L2 writing metacognitive strategies. [→ Wandong Xu 2024](#wandong-xu-2024)
@@ -28,7 +33,7 @@ sources:
 
 Wandong Xu, Xinhua Zhu. (2024). Examining metacognitive strategy use in L1 and L2 task-situated writing: effects, transferability, and cross-language facilitation. Metacognition and Learning. https://doi.org/10.1007/s11409-024-09387-w
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 SEM mediation analysis with bootstrapping found the direct path from L1 strategies to L2 writing performance non-significant (p = 0.205), while the "standardized indirect effect ... via the mediation of L2 writing metacognitive strategies was significantly positive (β = 0.255, Bootstrap CIs [0.177, 0.343], p < 0.001)".
 

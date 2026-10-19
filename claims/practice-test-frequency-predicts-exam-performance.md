@@ -15,15 +15,22 @@ sources:
     author: Nick Naujoks, Bettina Harder, Marion Händel
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: nick-naujoks-2022-2
     resource: "https://doi.org/10.1007/s11409-022-09295-x"
     title: "Nick Naujoks, Bettina Harder, Marion Händel. (2022). Testing pays off twice: Potentials of practice tests and feedback regarding exam performance and judgment accuracy. Metacognition and Learning. https://doi.org/10.1007/s11409-022-09295-x"
     author: Nick Naujoks, Bettina Harder, Marion Händel
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # In authentic undergraduate courses, taking more voluntary practice tests predicts higher final-exam performance, with and without corrective feedback
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In Study 1 (no feedback), controlling for prior knowledge, more practice tests taken was significantly related to a higher exam score (β = .27). [→ Nick Naujoks 2022](#nick-naujoks-2022)
@@ -35,7 +42,7 @@ sources:
 
 Nick Naujoks, Bettina Harder, Marion Händel. (2022). Testing pays off twice: Potentials of practice tests and feedback regarding exam performance and judgment accuracy. Metacognition and Learning. https://doi.org/10.1007/s11409-022-09295-x
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Hierarchical regression in Study 1 (N = 201 undergraduates, four voluntary online practice tests, no feedback) with pretest performance in step 1 and practice-test participation (0–4) in step 2; step 2 added ΔR² = .07*** with β = .27*** for exam performance.
 
@@ -45,7 +52,7 @@ Hierarchical regression in Study 1 (N = 201 undergraduates, four voluntary onlin
 
 Nick Naujoks, Bettina Harder, Marion Händel. (2022). Testing pays off twice: Potentials of practice tests and feedback regarding exam performance and judgment accuracy. Metacognition and Learning. https://doi.org/10.1007/s11409-022-09295-x
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Hierarchical regression in Study 2 (n = 111, practice tests plus immediate individual corrective feedback) replicated the performance effect; Table 3 shows step 2 ΔR² = .08** with β = .28** for practice-test participation.
 

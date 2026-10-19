@@ -15,9 +15,14 @@ sources:
     author: Joep van der Graaf, Mladen Raković, Yizhou Fan, Lyn Lim, Shaveen Singh, Maria Bannert, Dragan Gašević, Inge Molenaar
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Real-time detection of SRL processes can personalize scaffold content, with all five scaffolds personalized to some extent but to varying degrees (scaffolds 2 and 5 most, scaffold 3 least).
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A digital scaffolding system used real-time detection of SRL processes to personalize scaffold content, and all scaffolds were personalized to some extent. [→ Joep van der Graaf 2023](#joep-van-der-graaf-2023)
@@ -29,7 +34,7 @@ sources:
 
 Joep van der Graaf, Mladen Raković, Yizhou Fan, Lyn Lim, Shaveen Singh, Maria Bannert, Dragan Gašević, Inge Molenaar. (2023). How to design and evaluate personalized scaffolds for self-regulated learning. Metacognition and Learning. https://doi.org/10.1007/s11409-023-09361-y
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Descriptive frequency analysis of personalization with data from 18 participants in the personalized condition with complete scaffold usage data, counting how often each option was displayed or not displayed. The article reports that "all scaffolds were personalized to some extent" and that scaffold 3's options 2, 3, and 4 were displayed to all participants while scaffolds 2 and 5 had two options not displayed for almost all participants.
 

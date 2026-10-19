@@ -16,6 +16,9 @@ sources:
 
 # Use the MRIM scale as a diagnostic and pedagogical tool for teaching L2 argumentative writing
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The authors offer the MRIM scale as "a new tool for teaching and researching L2 writing". Teachers can use it to diagnose which metacognitive regulation strategies (planning, monitoring, or evaluating of interactive metadiscourse) individual students employ, and to raise learners' awareness of how to employ metadiscourse strategies before, during, and after writing. The authors speculate that as students become more aware of how to reflect on their writing, they will deploy these strategies to become more independent writers.
 

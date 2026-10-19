@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11409-023-09356-9"
     title: "Matthew L. Bernacki, Megan Claire Cogliano, Shelbi L. Kuhlmann, Jenifer Utz, Christy Strong, Jonathan C. Hilpert, Jeffrey A. Greene. (2023). Relations between undergraduates’ self-regulated learning skill mastery during digital training and biology performance. Metacognition and Learning. https://doi.org/10.1007/s11409-023-09356-9"
     author: Matthew L. Bernacki, Megan Claire Cogliano, Shelbi L. Kuhlmann, Jenifer Utz, Christy Strong, Jonathan C. Hilpert, Jeffrey A. Greene
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Skill-mastery predictions of biology exam performance were sustained in a redesigned video-based multimedia training prioritizing learning efficiency
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In Study 2 (n = 62), knowledge demonstrated during a redesigned video-based multimedia version of behavioral and environmental regulation training again predicted biology exam performance. [→ Matthew L. Bernacki 2023](#matthew-l-bernacki-2023)
@@ -26,7 +33,7 @@ sources:
 
 Matthew L. Bernacki, Megan Claire Cogliano, Shelbi L. Kuhlmann, Jenifer Utz, Christy Strong, Jonathan C. Hilpert, Jeffrey A. Greene. (2023). Relations between undergraduates’ self-regulated learning skill mastery during digital training and biology performance. Metacognition and Learning. https://doi.org/10.1007/s11409-023-09356-9
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Study 2 replicated Study 1 analyses with students who completed a multimedia redesign in which digital videos replaced textual content to save time. The article reports that "knowledge demonstrated during a redesigned video-based multimedia version of behavioral and environmental regulation again predicted biology exam performance."
 

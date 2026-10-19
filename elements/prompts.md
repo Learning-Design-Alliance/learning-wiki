@@ -13,7 +13,7 @@ generated:
 # Prompts
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 13 claims (8 for, 5 mixed) · 21 studies (10 causal, 5 quant-synthesis, 3 review, 2 associational, 1 theoretical), `q1`–`q4` · 5 of 21 report an effect size · 7 claims rest on one study
+> **Evidence** · 14 claims (8 for, 5 mixed, 1 against) · 22 studies (11 causal, 5 quant-synthesis, 3 review, 2 associational, 1 theoretical), `q1`–`q4` · 5 of 22 report an effect size · 8 claims rest on one study
 
 ## Description
 A prompt is a cue, question, or instruction embedded in a learning task that directs learner attention, elicits a response, or scaffolds a cognitive process at the moment it is needed. Prompts range from simple procedural reminders ("check your units") to elaborative questions ("why does this solution work?") to metacognitive self-questioning stems ("what strategy am I using, and is it working?").
@@ -60,6 +60,7 @@ Prompts work by triggering self-explanations and strategic processing that learn
 - [Collaborative prompt use mediated the regulated-AI group's advantage over the general-AI group in independent originality](../claims/collaborative-prompts-mediate-independent-originality.md) [+W]
 - [Prompting is a major source of AI-assisted cognitive effort: copying prompts reduces effort but not time, and verbose model responses can make AI-assisted completion slower than predicted](../claims/prompting-effort-and-verbose-response-costs.md) [~W]
 - [PCA metacognitive suggestions improve consensus reaching, task division and reciprocal interaction during collaboration](../claims/pca-suggestions-improve-consensus-and-task-division.md) [+M] — attached 2026-10-18 from Hayashi (2020), which proposed "PCA with five types of metacognitive suggestion delivered during dyadic explanation"; tests this page's relationship.
+- [Cognitive and metacognitive prompts did not increase self-reported online strategy use, the quality of strategies in learners' notes, or learning outcomes in hypermedia learning](../claims/prompts-no-effect-strategy-use-outcomes-hypermedia.md) [-W] — attached 2026-10-19 from Nadja Gentner et al. (2020), which proposed "Hypermedia environment on empirical research methods with six page-linked cognitive and metacognitive prompts"; tests this page's relationship.
 
 ## The evidence by question
 

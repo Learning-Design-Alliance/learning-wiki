@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11409-022-09304-z"
     title: "Yizhou Fan, Lyn Lim, Joep van der Graaf, Jonathan Kilgour, Mladen Raković, Johanna Moore, Inge Molenaar, Maria Bannert, Maria Bannert, Dragan Gašević. (2022). Improving the measurement of self-regulated learning using multi-channel data. Metacognition and Learning. https://doi.org/10.1007/s11409-022-09304-z"
     author: Yizhou Fan, Lyn Lim, Joep van der Graaf, Jonathan Kilgour, Mladen Raković, Johanna Moore, Inge Molenaar, Maria Bannert, Maria Bannert, Dragan Gašević
+    q: 2
+    i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Only with eye-tracking data does Monitoring appear as an intermediate process linking most other SRL processes in the process map
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Monitoring and its transitions were under-detected in Nav_only and Enhanced_log; with eye-tracking, Monitoring linked most other SRL processes across the whole session. [→ Yizhou Fan 2022](#yizhou-fan-2022)
@@ -26,7 +33,7 @@ sources:
 
 Yizhou Fan, Lyn Lim, Joep van der Graaf, Jonathan Kilgour, Mladen Raković, Johanna Moore, Inge Molenaar, Maria Bannert, Maria Bannert, Dragan Gašević. (2022). Improving the measurement of self-regulated learning using multi-channel data. Metacognition and Learning. https://doi.org/10.1007/s11409-022-09304-z
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Process mining (pMineR first-order Markov models) of SRL process maps for all 25 participants across the three channels. The article interprets this as learners monitoring their learning across the whole session.
 

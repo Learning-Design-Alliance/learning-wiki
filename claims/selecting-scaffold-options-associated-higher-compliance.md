@@ -15,9 +15,14 @@ sources:
     author: Joep van der Graaf, Mladen Raković, Yizhou Fan, Lyn Lim, Shaveen Singh, Maria Bannert, Dragan Gašević, Inge Molenaar
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Selecting a suggested option in the scaffold was associated with higher compliance for four out of twenty scaffold options in the generalized condition.
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Selecting a suggested option was associated with higher compliance for four scaffold options (scaffold 1 option 2, scaffold 2 option 3, scaffold 4 option 2, scaffold 5 option 3). [→ Joep van der Graaf 2023](#joep-van-der-graaf-2023)
@@ -28,7 +33,7 @@ sources:
 
 Joep van der Graaf, Mladen Raković, Yizhou Fan, Lyn Lim, Shaveen Singh, Maria Bannert, Dragan Gašević, Inge Molenaar. (2023). How to design and evaluate personalized scaffolds for self-regulated learning. Metacognition and Learning. https://doi.org/10.1007/s11409-023-09361-y
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Exploratory analysis of the generalized condition only, comparing compliance between students who selected versus did not select each suggested option. The article states the overall pattern was the same with "four exceptions indicat- ing higher compliance when selecting the option", identified by visual inspection of Fig. 7.
 

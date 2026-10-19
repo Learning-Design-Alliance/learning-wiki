@@ -16,6 +16,9 @@ sources:
 
 # Use multi-method, multi-timing measurement and subscale-level correlational analysis when evaluating metacognition
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article's methodological recommendations for metacognition research are drawn from the moderators it discusses. Researchers agree "a multi-method approach using both on-line and off-line tasks is required" to understand relationships between metacognitive components. For timing, some researchers suggest employing concurrent and retrospective task-specific measures for more reliable measurement. For analysis, it has been suggested that correlational analysis be carried out by corresponding subscales instead of overall scores, since different measures may evaluate different subcomponents.
 

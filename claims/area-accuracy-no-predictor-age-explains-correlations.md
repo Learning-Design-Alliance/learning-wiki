@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11409-021-09263-x"
     title: "Carolyn Baer, Puja Malik, & Darko Odic. (2021). Are children's judgments of another's accuracy linked to their metacognitive confidence judgments? Metacognition and Learning (2021) 16:485–516. https://doi.org/10.1007/s11409-021-09263-x"
     author: "Carolyn Baer, Puja Malik, & Darko Odic"
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Area discrimination accuracy does not predict children's social judgments; age, not shared decision imprecision, accounts for the task correlations
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In hierarchical regressions, area accuracy contributed nothing meaningful to Winner, Ask, or Endorse judgments, and age was the only significant predictor. [→ Carolyn Baer 2021](#carolyn-baer-2021)
@@ -26,7 +33,7 @@ sources:
 
 Carolyn Baer, Puja Malik, & Darko Odic. (2021). Are children's judgments of another's accuracy linked to their metacognitive confidence judgments? Metacognition and Learning (2021) 16:485–516. https://doi.org/10.1007/s11409-021-09263-x
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Hierarchical regression in Experiment 3 entered age and area accuracy in step 1 and confidence performance in step 2 for each selective social learning measure. Contrary to the SDT/Simulation prediction, area accuracy was not a meaningful predictor in any model (Table 4).
 

@@ -15,19 +15,26 @@ sources:
     author: "Anja Prinz-Weiß & Elisa Röhm"
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: anja-prinz-weiß-elisa-röhm-2025-2
     resource: "https://doi.org/10.1007/s11409-025-09419-z"
     title: "Anja Prinz-Weiß & Elisa Röhm. (2025). To what extent can think sheets with or without reflection prompts support self-regulated learning from text? Metacognition and Learning. https://doi.org/10.1007/s11409-025-09419-z"
     author: "Anja Prinz-Weiß & Elisa Röhm"
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Think sheets counteracted the positive effect of misconceptions on transfer in the control group, though the overall interaction only approached significance
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+
 ## Subclaims
-`q3 i?` The overall interaction between misconceptions and instructional method on transfer failed to reach significance (ΔR² = .06, p = .082). [→ Anja Prinz-Weiß & Elisa Röhm 2025](#anja-prinz-weiß-elisa-röhm-2025)
-`q3 i?` In the control group, misconceptions had a significant positive effect on transfer (b = 0.55, p = .021), and the think sheet/control interaction was significant (b = -0.61, p = .035), while the think-sheet-reflection interaction reached only p = .057. [→ Anja Prinz-Weiß & Elisa Röhm 2025 (2)](#anja-prinz-weiß-elisa-röhm-2025-2)
+`q3 i?` The overall interaction between misconceptions and instructional method on transfer failed to reach significance (ΔR² = .06, p = .082). [→ Anja Prinz-Weiß & Elisa Röhm 2025](#anja-prinz-wei-elisa-rohm-2025)
+`q3 i?` In the control group, misconceptions had a significant positive effect on transfer (b = 0.55, p = .021), and the think sheet/control interaction was significant (b = -0.61, p = .035), while the think-sheet-reflection interaction reached only p = .057. [→ Anja Prinz-Weiß & Elisa Röhm 2025 (2)](#anja-prinz-wei-elisa-rohm-2025-2)
 
 ## Evidence
 
@@ -35,7 +42,7 @@ sources:
 
 Anja Prinz-Weiß & Elisa Röhm. (2025). To what extent can think sheets with or without reflection prompts support self-regulated learning from text? Metacognition and Learning. https://doi.org/10.1007/s11409-025-09419-z
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Regression analysis on transfer in the three-group online experiment showed the overall interaction "failed to reach significance, Δ R2 = .06, F(2, 86) = 2.57, p = .082".
 
@@ -45,7 +52,7 @@ Regression analysis on transfer in the three-group online experiment showed the 
 
 Anja Prinz-Weiß & Elisa Röhm. (2025). To what extent can think sheets with or without reflection prompts support self-regulated learning from text? Metacognition and Learning. https://doi.org/10.1007/s11409-025-09419-z
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Conditional effects showed a significant positive misconception effect in the control group; per Table 6, the think sheet/control interaction was significant (b = -0.61, p = .035) and think sheet reflection/control reached p = .057, so evidence is mixed.
 

@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11409-021-09263-x"
     title: "Carolyn Baer, Puja Malik, & Darko Odic. (2021). Are children's judgments of another's accuracy linked to their metacognitive confidence judgments? Metacognition and Learning (2021) 16:485–516. https://doi.org/10.1007/s11409-021-09263-x"
     author: "Carolyn Baer, Puja Malik, & Darko Odic"
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Children aged 6–7 reliably identify the contestant whose copied shapes are closer in size to a target, replicating magnitude-of-error selective social learning
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In Experiment 1, children at ages 6 and 7 reliably chose the closer contestant as the Winner, though 4-year-olds did not. [→ Carolyn Baer 2021](#carolyn-baer-2021)
@@ -26,7 +33,7 @@ sources:
 
 Carolyn Baer, Puja Malik, & Darko Odic. (2021). Are children's judgments of another's accuracy linked to their metacognitive confidence judgments? Metacognition and Learning (2021) 16:485–516. https://doi.org/10.1007/s11409-021-09263-x
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 In Experiment 1's drawing-contest selective social learning task, both informants gave incorrect copies differing only in error magnitude (ratios of 1.2 vs. 2.0). Winner judgments replicated Einav and Robinson's (2010) magnitude-of-error paradigm despite using photographs and area rather than numerosity.
 

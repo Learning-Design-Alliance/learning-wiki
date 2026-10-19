@@ -15,9 +15,14 @@ sources:
     author: Nadine Melzner · Markus Dresel · Ingo Kollar
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The presence of motivational problems reduces reported strategies at the co- and shared-level but not at the self-level
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` When motivational problems are present, students report fewer strategies at the co-level (p = 0.018) and at the shared-level (p = 0.010) than when such problems are absent, with no significant difference at the self-level (p = 0.690). [→ Nadine Melzner · Markus Dresel · Ingo Kollar 2022](#nadine-melzner-markus-dresel-ingo-kollar-2022)
@@ -28,7 +33,7 @@ sources:
 
 Nadine Melzner · Markus Dresel · Ingo Kollar. (2022). Examining the regulation of motivational and comprehension-related problems during collaborative learning. Metacognition and Learning (2022) 17:813–836. https://doi.org/10.1007/s11409-022-09316-9
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Exploratory interaction of motivational problems × social level from the same 2 × 2 × 3 × 2 ANOVA (N = 278; Table 4 reports η2 = 0.012, p = .032). No effect size was printed for the individual pairwise level comparisons, so i is null.
 

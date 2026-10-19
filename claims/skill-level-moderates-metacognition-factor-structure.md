@@ -15,9 +15,14 @@ sources:
     author: "Craig, K., Hale, D., Grainger, C., & Stewart, M. E."
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Metacognitive skill level may moderate the factor structure of self-reported metacognition, with lower-scoring respondents showing a unidimensional structure
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In Ning's study, participants with lower self-reported metacognitive scores showed a unidimensional structure while higher scorers showed a two-factor KOC/ROC structure. [→ Craig 2020](#craig-2020)
@@ -28,7 +33,7 @@ sources:
 
 Craig, K., Hale, D., Grainger, C., & Stewart, M. E. (2020). Evaluating metacognitive self-reports: systematic reviews of the value of self-report in metacognitive research. Metacognition and Learning, 15, 155-213. https://doi.org/10.1007/s11409-020-09222-y
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 The review reports Ning's (2016) second study with the JrMAI, in which participants were divided into high and low scorers: weaker self-reported skills "revealed a unidimensional structure of metacognition" while higher scorers fit a two-factor structure aligned with KOC and ROC.
 

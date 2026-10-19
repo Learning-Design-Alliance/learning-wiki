@@ -12,10 +12,17 @@ sources:
   - id: scheibe-2022
     resource: "https://doi.org/10.1007/s11409-022-09300-3"
     title: "Scheibe, D. A., Fitzsimmons, C. J., Mielicki, M. K., Taber, J. M., Sidney, P. G., Coifman, K., & Thompson, C. A. (2022). Confidence in COVID problem solving: What factors predict adults’ item-level metacognitive judgments on health-related math problems before and after an educational intervention? Metacognition and Learning. https://doi.org/10.1007/s11409-022-09300-3"
-    author: "Scheibe, D. A., Fitzsimmons, C. J., Mielicki, M. K., Taber, J. M., Sidney, P. G., Coifman, K., & Thompson, C. A"
+    author: "Scheibe, D. A., Fitzsimmons, C. J., Mielicki, M. K., Taber, J. M., Sidney, P. G., Coifman, K., & Thompson, C. A."
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 3
 ---
 
 # Math self-efficacy (first four SNS items) was the only variable significantly predicting monitoring judgments on all four health math problems
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Higher math self-efficacy was associated with higher item-level monitoring judgments across all four problems, controlling for other predictors. [→ Scheibe 2022](#scheibe-2022)
@@ -26,7 +33,7 @@ sources:
 
 Scheibe, D. A., Fitzsimmons, C. J., Mielicki, M. K., Taber, J. M., Sidney, P. G., Coifman, K., & Thompson, C. A. (2022). Confidence in COVID problem solving: What factors predict adults’ item-level metacognitive judgments on health-related math problems before and after an educational intervention? Metacognition and Learning. https://doi.org/10.1007/s11409-022-09300-3
 
-`q3 · i?`
+`q3 · i?` · `causal · r3`
 
 Linear regressions predicting item-level monitoring judgments for each of the four problems in the secondary analysis of 1,177 adults. The SNS self-perceived math ability subscale was significant on all four problems, with "β’s ≥ 0.12, t’s ≥ 4.10, p’s < 0.001".
 

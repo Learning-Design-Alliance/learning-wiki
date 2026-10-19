@@ -15,9 +15,14 @@ sources:
     author: Joep van der Graaf, Mladen Raković, Yizhou Fan, Lyn Lim, Shaveen Singh, Maria Bannert, Dragan Gašević, Inge Molenaar
     q: 2
     i: 3
+    kind: design
+    rigour: 2
 ---
 
 # In the generalized condition, compliance with several suggested actions was associated with higher essay scores, with one exception: note-taking after the last scaffold was associated with lower essay scores.
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · design `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Students who executed scaffold 3 option 1 (review annotations) after the next scaffold showed higher essay scores than those who did not, d = 1.220. [→ Joep van der Graaf 2023](#joep-van-der-graaf-2023)
@@ -30,7 +35,7 @@ sources:
 
 Joep van der Graaf, Mladen Raković, Yizhou Fan, Lyn Lim, Shaveen Singh, Maria Bannert, Dragan Gašević, Inge Molenaar. (2023). How to design and evaluate personalized scaffolds for self-regulated learning. Metacognition and Learning. https://doi.org/10.1007/s11409-023-09361-y
 
-`q2 · i3`
+`q2 · i3` · `design · r2`
 
 Separate t-tests in the generalized condition comparing essay scores of compliers versus non-compliers per scaffold option, with alpha raised to 0.150 due to insufficient power for multiple comparisons. Six (near) significant effects were found, e.g., "t(6.98) = 2.82, p = .026, d = 1.220" for reviewing annotations, and a detrimental effect for note-taking after the last scaffold (d = 1.000).
 

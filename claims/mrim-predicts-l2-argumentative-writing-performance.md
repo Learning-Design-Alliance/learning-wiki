@@ -15,15 +15,22 @@ sources:
     author: Chenghui Chen, Lawrence Jun Zhang
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: chenghui-chen-2025-2
     resource: "https://doi.org/10.1007/s11409-025-09435-z"
     title: "Chenghui Chen, Lawrence Jun Zhang. (2025). Development and validation of a scale for metacognitive regulation of interactive metadiscourse strategies in L2 argumentative writing. Metacognition and Learning. https://doi.org/10.1007/s11409-025-09435-z"
     author: Chenghui Chen, Lawrence Jun Zhang
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Metacognitive regulation of interactive metadiscourse strategies significantly predicts L2 argumentative writing performance, explaining about 11.3% of variance
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The three MRIM strategies together significantly predict argumentative writing scores (F(3, 1074) = 45.793, p < .001, R2 = 0.113), with Cohen's f2 = 0.127. [→ Chenghui Chen 2025](#chenghui-chen-2025)
@@ -35,7 +42,7 @@ sources:
 
 Chenghui Chen, Lawrence Jun Zhang. (2025). Development and validation of a scale for metacognitive regulation of interactive metadiscourse strategies in L2 argumentative writing. Metacognition and Learning. https://doi.org/10.1007/s11409-025-09435-z
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Simultaneous multiple regression with Sample Two (N = 1078), testing predictive validity against a timed 150–200-word argumentative essay scored by two raters (interrater reliability 0.88). "The effect size (Cohen's ƒ2 = 0.127)" was characterized as close to a medium factor.
 
@@ -45,7 +52,7 @@ Simultaneous multiple regression with Sample Two (N = 1078), testing predictive 
 
 Chenghui Chen, Lawrence Jun Zhang. (2025). Development and validation of a scale for metacognitive regulation of interactive metadiscourse strategies in L2 argumentative writing. Metacognition and Learning. https://doi.org/10.1007/s11409-025-09435-z
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Per-predictor regression results against argumentative writing performance with the adjusted Bonferroni value at 0.017. All three strategies "can all yield a significant and positive prediction on the argumentative writing performance".
 

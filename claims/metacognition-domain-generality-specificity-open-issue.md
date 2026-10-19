@@ -15,9 +15,14 @@ sources:
     author: Roger Azevedo
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Whether metacognition is domain-general or domain-specific remains a major unresolved issue with implications for instruction and transfer
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Distinguishing domain-general from domain-specific metacognition is a major issue deserving priority, since general metacognition is expected to transfer whereas specific metacognition must be taught per task or domain. [→ Roger Azevedo 2020](#roger-azevedo-2020)
@@ -28,7 +33,7 @@ sources:
 
 Roger Azevedo. (2020). Reflections on the field of metacognition: issues, challenges, and opportunities. Metacognition and Learning. https://doi.org/10.1007/s11409-020-09231-x
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The editorial restates the position attributed to Veenman et al. (2006) on domain-generality versus domain-specificity and argues the issue deserves priority given twenty-first-century skills and workforce automation demands. This is the author's framing, not a new empirical test.
 

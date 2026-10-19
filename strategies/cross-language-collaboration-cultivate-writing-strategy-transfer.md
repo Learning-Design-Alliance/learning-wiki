@@ -16,6 +16,9 @@ sources:
 
 # Foster L1-L2 transfer of writing metacognitive regulation through cross-language collaboration between writing educators and balanced attention to all learner groups
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Given the demonstrated L1-L2 transfer of metacognitive regulation, the article recommends "cross-language collaborations such as joint talks and curriculum co-design between L1 and L2 writing educators and practitioners to promote the effective use of these strategies in writing". It further directs attention to "the importance of L1 writing metacognitive skills in shaping L2 writing development". Because moderation by L2 proficiency and major was not significant, teachers are advised to "devote balanced efforts to cultivate the cross-linguistic transfer abilities of these different groups of students".
 

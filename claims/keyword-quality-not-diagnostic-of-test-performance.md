@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11409-018-9187-4"
     title: "Jan A. A. Engelen, Gino Camp, Janneke van de Pol, Anique B. H. de Bruin. (2018). Teachers' monitoring of students' text comprehension: can students' keywords and summaries improve teachers' judgment accuracy? Metacognition and Learning 13:287–307. https://doi.org/10.1007/s11409-018-9187-4"
     author: Jan A. A. Engelen, Gino Camp, Janneke van de Pol, Anique B. H. de Bruin
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The quality of sixth-graders' keywords is not diagnostic of intra-individual variation in test performance (Experiment 1).
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` None of the keyword cue types (main idea, detail, incorrect, commission) significantly predicted test performance, including the number of main ideas. [→ Jan A. A. Engelen 2018](#jan-a-a-engelen-2018)
@@ -26,7 +33,7 @@ sources:
 
 Jan A. A. Engelen, Gino Camp, Janneke van de Pol, Anique B. H. de Bruin. (2018). Teachers' monitoring of students' text comprehension: can students' keywords and summaries improve teachers' judgment accuracy? Metacognition and Learning 13:287–307. https://doi.org/10.1007/s11409-018-9187-4
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Experiment 1 cue-diagnosticity analysis: keywords coded by rubric (main idea, detail, incorrect, commission; κ = .77) and gamma correlations with test performance computed per student. "None of the cues were diagnostic", yet students (.24) and teachers (.18) utilized the main-idea cue when judging.
 

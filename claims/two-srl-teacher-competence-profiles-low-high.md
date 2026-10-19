@@ -15,9 +15,14 @@ sources:
     author: Charlotte Dignath
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Latent profile analysis of primary teachers' SRL competence yields two quantitative profiles (low vs. high competence) rather than three qualitatively distinct situative, cognitive, or mixed profiles
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Latent profile analysis of 191 teachers' knowledge, beliefs, and self-efficacy regarding SRL promotion identified two profiles differing in level (low vs. high), not in qualitative pattern. [→ Charlotte Dignath 2021](#charlotte-dignath-2021)
@@ -28,7 +33,7 @@ sources:
 
 Charlotte Dignath. (2021). For unto every one that hath shall be given: teachers' competence profiles regarding the promotion of self-regulated learning moderate the effectiveness of short-term teacher training. Metacognition and Learning. https://doi.org/10.1007/s11409-021-09271-x
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Latent profile analysis of survey data from 191 German primary-school teachers (88.48% female) on knowledge, situative and cognitive beliefs, and self-efficacy for promoting SRL. "the latent profile analysis suggests two teacher profiles", with profile 1 (51%) low and profile 2 (48%) high on all four indicators; a two-class model was selected by BIC.
 

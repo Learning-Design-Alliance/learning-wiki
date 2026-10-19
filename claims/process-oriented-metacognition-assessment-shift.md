@@ -15,9 +15,14 @@ sources:
     author: Roger Azevedo
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Metacognition assessment is shifting from self-report questionnaires toward process-oriented multimodal methods, which face validity and data-alignment challenges
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` There has been a recent surge in research using process-oriented methods such as combining concurrent think-louds, log files, eye tracking, and screen recordings, though researchers continue to grapple with validity, reliability, missing data, and temporally aligning data. [→ Roger Azevedo 2020](#roger-azevedo-2020)
@@ -28,7 +33,7 @@ sources:
 
 Roger Azevedo. (2020). Reflections on the field of metacognition: issues, challenges, and opportunities. Metacognition and Learning. https://doi.org/10.1007/s11409-020-09231-x
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The editor's observational assessment of methodological trends over the last decade: while self-report questionnaires, interviews, and observations remain widely used, process-oriented multimodal methods are surging and transitioning from laboratory studies to classrooms, homes, workplaces, and advanced learning technologies. No quantitative trend data are printed.
 

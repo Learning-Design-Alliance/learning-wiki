@@ -15,9 +15,14 @@ sources:
     author: Patrick Sins, Renske de Leeuw, Jaap de Brouwer, Emmy Vrieling-Teunter
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Explicit instruction of SRL strategies is rare among primary teachers in both an iSELF-trained group and an untrained control group
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` In a quasi-experimental observation study of primary teachers, explicit SRL strategy instruction was rare in both the experimental and the control condition. [→ Patrick Sins 2024](#patrick-sins-2024)
@@ -28,7 +33,7 @@ sources:
 
 Patrick Sins, Renske de Leeuw, Jaap de Brouwer, Emmy Vrieling-Teunter. (2024). Promoting explicit instruction of strategies for self-regulated learning: evaluating a teacher professional development program in primary education. Metacognition and Learning. https://doi.org/10.1007/s11409-023-09368-5
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Quasi-experimental pre-test-post-test study in which lessons of 30 primary teachers were video-recorded and coded per minute with an adapted ATES instrument. The article reports that "in both conditions explicit SRL strategy instruction is rare". No effect size is printed for this descriptive finding.
 

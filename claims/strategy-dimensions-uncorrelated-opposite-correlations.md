@@ -15,12 +15,17 @@ sources:
     author: "Ivar Bråten & Helge I. Strømsø"
     q: 2
     i: 0
+    kind: associational
+    rigour: 2
 ---
 
 # Accumulation and cross-text elaboration are uncorrelated and show opposite-sign correlations with intertextual comprehension
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q2` · `i0` negligible
+
 ## Subclaims
-`q2 i0` The two strategy scales were essentially uncorrelated (r=.03), and accumulation correlated negatively (r=−.28, p=.011) while cross-text elaboration correlated positively (r=.25, p=.021) with intertextual comprehension. [→ Ivar Bråten & Helge I. Strømsø 2011](#ivar-bråten-helge-i-strømsø-2011)
+`q2 i0` The two strategy scales were essentially uncorrelated (r=.03), and accumulation correlated negatively (r=−.28, p=.011) while cross-text elaboration correlated positively (r=.25, p=.021) with intertextual comprehension. [→ Ivar Bråten & Helge I. Strømsø 2011](#ivar-braten-helge-i-strms-2011)
 
 ## Evidence
 
@@ -28,7 +33,7 @@ sources:
 
 Ivar Bråten & Helge I. Strømsø. (2011). Measuring strategic processing when students read multiple texts. Metacognition Learning 6:111–130. https://doi.org/10.1007/s11409-011-9075-7
 
-`q2 · i0`
+`q2 · i0` · `associational · r2`
 
 Zero-order correlations in the 71-student subsample (Table 3). The two strategy measures were themselves uncorrelated (r=.03); correlations with intratextual comprehension were lower and statistically non-significant (r=−.19 and r=.16).
 

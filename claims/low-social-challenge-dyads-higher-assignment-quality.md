@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11409-019-09204-9"
     title: "Cindy Paans & Erdem Onan & Inge Molenaar & Ludo Verhoeven & Eliane Segers. (2019). How social challenges affect children's regulation and assignment quality in hypermedia: a process mining study. Metacognition and Learning. https://doi.org/10.1007/s11409-019-09204-9"
     author: "Cindy Paans & Erdem Onan & Inge Molenaar & Ludo Verhoeven & Eliane Segers"
+    q: 3
+    i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Low social challenge dyads produce higher-quality written assignments than high social challenge dyads, controlling for prior knowledge
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Assignment quality was higher for low social challenge dyads than high social challenge dyads after controlling for mean dyadic prior knowledge. [→ Cindy Paans & Erdem Onan & Inge Molenaar & Ludo Verhoeven & Eliane Segers 2019](#cindy-paans-erdem-onan-inge-molenaar-ludo-verhoeven-eliane-segers-2019)
@@ -26,7 +33,7 @@ sources:
 
 Cindy Paans & Erdem Onan & Inge Molenaar & Ludo Verhoeven & Eliane Segers. (2019). How social challenges affect children's regulation and assignment quality in hypermedia: a process mining study. Metacognition and Learning. https://doi.org/10.1007/s11409-019-09204-9
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 ANCOVA on 30 same-sex dyads (18 low, 12 high challenge) from six Dutch schools, with mean dyadic prior knowledge as covariate. Low-challenge dyads scored higher ("M =2 1 . 1 7" vs "M =1 4 . 5 0"), F(1, 27) = 6.17, p = .019, η² = .186.
 

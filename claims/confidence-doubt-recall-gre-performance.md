@@ -15,15 +15,22 @@ sources:
     author: "Moreno, L., Briñol, P., & Petty, R. E."
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
   - id: moreno-2022-2
     resource: "https://doi.org/10.1007/s11409-021-09270-y"
     title: "Moreno, L., Briñol, P., & Petty, R. E. (2022). Metacognitive Confidence Can Increase but Also Decrease Performance in Academic Settings. Metacognition and Learning, 17, 139–165. https://doi.org/10.1007/s11409-021-09270-y"
     author: "Moreno, L., Briñol, P., & Petty, R. E."
     q: 3
     i: 1
+    kind: causal
+    rigour: 2
 ---
 
 # Recalling past confidence versus doubt validates or invalidates thoughts and shifts GRE performance accordingly
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i1`–`i2`
 
 ## Subclaims
 `q3 i2` In Study 3 (N = 304), the Thought Valence × Validity interaction on GRE performance was significant, F(1, 300) = 11.152, p = .001, ηp² = .036. [→ Moreno 2022](#moreno-2022)
@@ -35,7 +42,7 @@ sources:
 
 Moreno, L., Briñol, P., & Petty, R. E. (2022). Metacognitive Confidence Can Increase but Also Decrease Performance in Academic Settings. Metacognition and Learning, 17, 139–165. https://doi.org/10.1007/s11409-021-09270-y
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Study 3 randomly assigned 304 undergraduates to list positive or negative student-quality thoughts, then recall a past episode of confidence or doubt, before completing 30 GRE multiple-choice questions. The predicted interaction was significant with printed effect size ηρ2 = .036.
 
@@ -45,7 +52,7 @@ Study 3 randomly assigned 304 undergraduates to list positive or negative studen
 
 Moreno, L., Briñol, P., & Petty, R. E. (2022). Metacognitive Confidence Can Increase but Also Decrease Performance in Academic Settings. Metacognition and Learning, 17, 139–165. https://doi.org/10.1007/s11409-021-09270-y
 
-`q3 · i1`
+`q3 · i1` · `causal · r2`
 
 Within positive-thought participants in Study 3, validation produced higher GRE scores than invalidation (F(1, 300) = 6.963, p = .009, printed effect size ηρ2 = .023); the mirror effect for negative thoughts was also significant (F(1, 300) = 4.395, p = .037, ηρ2 = .014).
 

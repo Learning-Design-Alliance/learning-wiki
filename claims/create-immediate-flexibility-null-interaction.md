@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11409-025-09412-6"
     title: "Nurit Paz-Baruch, Guy Grovas, Zemira R. Mevarech. (2025). The effects of meta-creative pedagogy on elementary school students' creative thinking. Metacognition and Learning. https://doi.org/10.1007/s11409-025-09412-6"
     author: Nurit Paz-Baruch, Guy Grovas, Zemira R. Mevarech
+    q: 3
+    i: 0
+    kind: causal
+    rigour: 1
 ---
 
 # CREATE does not produce a significant immediate interaction effect on flexibility, though the experimental group improved pre-to-post
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q3` · `i0` negligible
 
 ## Subclaims
 `q3 i0` The Time × Intervention interaction on flexibility was not significant at immediate post-test, despite a significant pre-to-post improvement within the experimental group. [→ Nurit Paz-Baruch 2025](#nurit-paz-baruch-2025)
@@ -26,7 +33,7 @@ sources:
 
 Nurit Paz-Baruch, Guy Grovas, Zemira R. Mevarech. (2025). The effects of meta-creative pedagogy on elementary school students' creative thinking. Metacognition and Learning. https://doi.org/10.1007/s11409-025-09412-6
 
-`q3 · i0`
+`q3 · i0` · `causal · r1`
 
 Repeated-measures ANOVA on London Bridge Task flexibility (N = 100). The interaction was non-significant (ηp² = 0.02), yet Bonferroni-adjusted comparisons showed the experimental group "significantly improved their mean flexibility scores between pre- and post-interven-tion (p = .013)" while the control group remained stable.
 

@@ -15,9 +15,14 @@ sources:
     author: "Craig, K., Hale, D., Grainger, C., & Stewart, M. E."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Self-report subscales do not reliably assess distinct metacognitive subcomponents, with structures of two to nine components found across studies
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 
 ## Subclaims
 `q3 i?` The number of subcomponents recovered from self-report measures varied widely across measures and across repeated assessments of the same measure, so no conclusion can be made about assessing distinct subcomponents. [→ Craig 2020](#craig-2020)
@@ -28,7 +33,7 @@ sources:
 
 Craig, K., Hale, D., Grainger, C., & Stewart, M. E. (2020). Evaluating metacognitive self-reports: systematic reviews of the value of self-report in metacognitive research. Metacognition and Learning, 15, 155-213. https://doi.org/10.1007/s11409-020-09222-y
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Systematic review of 22 factor-structure studies. Component analysis "varied widely both across the measures as well as on repeated assessments of the same measure," with "Structures with two, three, four, five, six, eight, and nine components were found (see Table 1)" and no discernable pattern by age.
 

@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11409-024-09405-x"
     title: "Janina Eberhart, Franziska Ingendahl, Donna Bryce. (2024). Are metacognition interventions in young children effective? Evidence from a series of meta-analyses. Metacognition and Learning. https://doi.org/10.1007/s11409-024-09405-x"
     author: Janina Eberhart, Franziska Ingendahl, Donna Bryce
+    q: 4
+    i: 1
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Metacognition intervention effects persist at follow-up (g = 0.29) in young children
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i1` small
 
 ## Subclaims
 `q4 i1` Metacognition interventions show a smaller but still positive effect at longer-term follow-up assessment. [→ Janina Eberhart 2024](#janina-eberhart-2024)
@@ -26,7 +33,7 @@ sources:
 
 Janina Eberhart, Franziska Ingendahl, Donna Bryce. (2024). Are metacognition interventions in young children effective? Evidence from a series of meta-analyses. Metacognition and Learning. https://doi.org/10.1007/s11409-024-09405-x
 
-`q4 · i1`
+`q4 · i1` · `quant-synthesis · r?`
 
 Follow-up analyses within the same preregistered meta-analytic dataset of 67 studies. The article reports "at follow-up g = 0.29 (95% CI [0.17, 0.40])", a smaller effect than at post-test.
 

@@ -15,9 +15,14 @@ sources:
     author: "Craig, K., Hale, D., Grainger, C., & Stewart, M. E."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Self-report measures of metacognition support a two-factor structure separating metacognitive knowledge from metacognitive regulation
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Across 22 systematically reviewed factor-structure studies, 13 confirmed a two-factor structure of metacognition separating knowledge from regulation. [→ Craig 2020](#craig-2020)
@@ -28,7 +33,7 @@ sources:
 
 Craig, K., Hale, D., Grainger, C., & Stewart, M. E. (2020). Evaluating metacognitive self-reports: systematic reviews of the value of self-report in metacognitive research. Metacognition and Learning, 15, 155-213. https://doi.org/10.1007/s11409-020-09222-y
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Systematic review (PRISMA) of 22 articles spanning 1993-2018 evaluating factor structures of metacognition self-reports such as the MAI and JrMAI. The review reports that "13 studies confirmed a 2-factor structure of metacognition separating knowledge from regulation," counting studies that confirmed the two factors through factor analysis or theoretical reasoning.
 

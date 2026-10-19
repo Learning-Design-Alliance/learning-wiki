@@ -27,7 +27,7 @@ sources:
 # Personalization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 58 claims (28 for, 22 mixed, 3 against, 5 unmarked) · 63 studies (21 review, 17 causal, 8 qualitative, 7 theoretical, 4 associational, 3 quant-synthesis, 3 design), `q1`–`q4` · 6 of 63 report an effect size · 53 claims rest on one study
+> **Evidence** · 60 claims (29 for, 23 mixed, 3 against, 5 unmarked) · 64 studies (21 review, 18 causal, 8 qualitative, 7 theoretical, 4 associational, 3 quant-synthesis, 3 design), `q1`–`q4` · 6 of 64 report an effect size · 55 claims rest on one study
 
 ## Conditional relationship
 
@@ -151,6 +151,8 @@ Claims this page cited that were re-read against the model on 2026-10-15 and lef
 - [Student learning styles differ significantly by department, particularly on Concrete Experience and Abstract Conceptualization](../claims/student-learning-style-department-differences.md) [+W]
 - [Cultural and linguistic background influences measured learning and cognitive styles, and should be considered in style assessment](../claims/cultural-background-influences-learning-style-measurement.md) [~W]
 - [Model gender and observer gender do not affect learning outcomes or near transfer from video modeling examples](../claims/no-gender-effects-learning-transfer-video-modeling.md) [~W] — attached 2026-10-18 from Vincent Hoogerheide et al. (2016), which proposed "When designing video modeling examples for tasks stereotypically associated with males, create both a male and a female model version with identical content and let learners choose or allocate adaptively"; tests this page's relationship.
+- [Real-time detection of SRL processes can personalize scaffold content, with all five scaffolds personalized to some extent but to varying degrees (scaffolds 2 and 5 most, scaffold 3 least).](../claims/real-time-srl-detection-personalizes-scaffold-content-varying-degrees.md) [+W] — attached 2026-10-19 from Joep van der Graaf et al. (2023), which proposed "Personalize scaffolds based on learners' actual SRL processes detected in real time, removing options the learner has already executed.".
+- [Personalized scaffolds increased frequencies of high cognition and monitoring relative to control, but learning outcomes did not differ between conditions.](../claims/scaffolds-changed-srl-processes-not-outcomes.md) [~W] — attached 2026-10-19 from Joep van der Graaf et al. (2023), which proposed "Personalize scaffolds based on learners' actual SRL processes detected in real time, removing options the learner has already executed."; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

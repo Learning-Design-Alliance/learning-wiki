@@ -13,13 +13,24 @@ sources:
     resource: "https://doi.org/10.1007/s11409-025-09412-6"
     title: "Nurit Paz-Baruch, Guy Grovas, Zemira R. Mevarech. (2025). The effects of meta-creative pedagogy on elementary school students' creative thinking. Metacognition and Learning. https://doi.org/10.1007/s11409-025-09412-6"
     author: Nurit Paz-Baruch, Guy Grovas, Zemira R. Mevarech
+    q: 3
+    i: 3
+    kind: causal
+    rigour: 2
   - id: nurit-paz-baruch-2025-2
     resource: "https://doi.org/10.1007/s11409-025-09412-6"
     title: "Nurit Paz-Baruch, Guy Grovas, Zemira R. Mevarech. (2025). The effects of meta-creative pedagogy on elementary school students' creative thinking. Metacognition and Learning. https://doi.org/10.1007/s11409-025-09412-6"
     author: Nurit Paz-Baruch, Guy Grovas, Zemira R. Mevarech
+    q: 3
+    i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # CREATE benefits transfer to a new task on all three creativity components: fluency, flexibility, and originality
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` On the near-transfer Parliament Building Task, the experimental group scored significantly higher than the control group on fluency, flexibility, and total originality after adjusting for pre-intervention scores. [→ Nurit Paz-Baruch 2025](#nurit-paz-baruch-2025)
@@ -31,7 +42,7 @@ sources:
 
 Nurit Paz-Baruch, Guy Grovas, Zemira R. Mevarech. (2025). The effects of meta-creative pedagogy on elementary school students' creative thinking. Metacognition and Learning. https://doi.org/10.1007/s11409-025-09412-6
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 MANCOVA on the Parliament Building Task (N = 100), covarying pre-intervention scores; the omnibus transfer effect was F(3, 93) = 5.82, p = .001, ηp² = 0.16. Follow-up ANCOVAs showed the experimental group "scored significantly higher on the rarest originality score than the control group" (M = 1.47 vs 0.14).
 
@@ -41,7 +52,7 @@ MANCOVA on the Parliament Building Task (N = 100), covarying pre-intervention sc
 
 Nurit Paz-Baruch, Guy Grovas, Zemira R. Mevarech. (2025). The effects of meta-creative pedagogy on elementary school students' creative thinking. Metacognition and Learning. https://doi.org/10.1007/s11409-025-09412-6
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 ANCOVA on the transfer task's originality per response score, controlling for the pre-intervention score: F(1, 97) = 17.07, p < .001, ηp² = 0.15 (experimental M = 2.14, SD = 0.96; control M = 1.44, SD = 0.60). The rarest originality ANCOVA was F(1,97) = 14.41, p < .001, ηp² = 0.13.
 

@@ -12,10 +12,17 @@ sources:
   - id: krebs-2012
     resource: "https://doi.org/10.1007/s11409-011-9079-3"
     title: "Krebs, S.S., Roebers, C.M. (2012). The impact of retrieval processes, age, general achievement level, and test scoring scheme for children's metacognitive monitoring and controlling. Metacognition and Learning 7, 75–90. https://doi.org/10.1007/s11409-011-9079-3"
-    author: Krebs, S.S., Roebers, C.M
+    author: Krebs, S.S., Roebers, C.M.
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Older children (11/12-year-olds) outperform younger children (9/10-year-olds) when considering characteristics of on-going retrieval processes
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r?` · `q3`
 
 ## Subclaims
 `q3 i?` 11/12-year-olds outperformed 9/10-year-olds when considering characteristics of on-going retrieval processes. [→ Krebs 2012](#krebs-2012)
@@ -26,7 +33,7 @@ sources:
 
 Krebs, S.S., Roebers, C.M. (2012). The impact of retrieval processes, age, general achievement level, and test scoring scheme for children's metacognitive monitoring and controlling. Metacognition and Learning 7, 75–90. https://doi.org/10.1007/s11409-011-9079-3
 
-`q3 · i?`
+`q3 · i?` · `causal · r?`
 
 Age comparison within the same N = 150 experimental study: the article reports all children showed adequate metacognitive processes, "with 11/12- year-olds outperforming 9/10-year-olds when considering characteristics of on-going retrieval processes." No effect size is printed.
 

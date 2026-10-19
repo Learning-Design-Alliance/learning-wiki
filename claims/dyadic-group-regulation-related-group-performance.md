@@ -15,9 +15,14 @@ sources:
     author: Nadira Saab
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Regulation at the dyadic and/or group level is positively related to group performance in CSCL
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across the three special-issue studies, regulation at the dyadic and/or group level was positively related to group performance. [→ Nadira Saab 2012](#nadira-saab-2012)
@@ -28,7 +33,7 @@ sources:
 
 Nadira Saab. (2012). Team regulation, regulation of social activities or co-regulation: Different labels for effective regulation of learning in CSCL. Metacognition Learning. https://doi.org/10.1007/s11409-011-9085-5
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The editorial's synthesis of the three special-issue studies reports that all three investigated whether regulative activities affected performance and found "regulation at the dyadic and/or group level was positively related to group performance." No effect sizes are printed in the editorial.
 

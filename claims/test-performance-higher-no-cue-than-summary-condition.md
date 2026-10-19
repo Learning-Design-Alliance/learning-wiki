@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11409-018-9187-4"
     title: "Jan A. A. Engelen, Gino Camp, Janneke van de Pol, Anique B. H. de Bruin. (2018). Teachers' monitoring of students' text comprehension: can students' keywords and summaries improve teachers' judgment accuracy? Metacognition and Learning 13:287–307. https://doi.org/10.1007/s11409-018-9187-4"
     author: Jan A. A. Engelen, Gino Camp, Janneke van de Pol, Anique B. H. de Bruin
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Test performance differs by cue-prompt condition in Experiment 1, with higher scores in the no-cue condition than the summary condition.
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The effect of cue prompt on test performance was significant, F(2, 239) = 4.741, p = .010; Bonferroni-corrected post-hoc comparisons showed no-cue scores exceeded summary scores. [→ Jan A. A. Engelen 2018](#jan-a-a-engelen-2018)
@@ -26,7 +33,7 @@ sources:
 
 Jan A. A. Engelen, Gino Camp, Janneke van de Pol, Anique B. H. de Bruin. (2018). Teachers' monitoring of students' text comprehension: can students' keywords and summaries improve teachers' judgment accuracy? Metacognition and Learning 13:287–307. https://doi.org/10.1007/s11409-018-9187-4
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Experiment 1 comprehension analysis across 255 students: cue prompt significantly affected test scores, F(2, 239) = 4.741, p = .010; no-cue scores were "higher than in the summary condition", Mdiff = .364, SE = .119, p = .007. The authors call the effect small on the 0–5 scale.
 

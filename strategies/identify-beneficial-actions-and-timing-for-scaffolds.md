@@ -16,6 +16,9 @@ sources:
 
 # Identify which suggested actions are beneficial at what time to inform scaffold design, and deliver scaffolds at natural breakpoints preceded by a notification.
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article recommends analyzing which concrete suggested actions benefit learning outcomes and when they should be offered, because the effect of suggesting concrete actions "seems to depend on the action, the timing of the scaffold, and, thus, the task itself." To minimize interruption, scaffolds were triggered at natural breakpoints in the learning process (e.g., closing a tool, saving a note) after an unread envelope notification alerted learners that a scaffold was ready.
 

@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11409-025-09427-z"
     title: "Franco Londra, Magalí Martínez, Gaston Saux. (2025). Sources within sources: The dynamic influence of multiple documents trustworthiness when evaluating and using an embedded source. Metacognition and Learning. https://doi.org/10.1007/s11409-025-09427-z"
     author: Franco Londra, Magalí Martínez, Gaston Saux
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Embedded-source trustworthiness evaluations do not change across positions when both document sources have similar trustworthiness
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In homogeneous HT-HT and LT-LT sequences, ES trustworthiness evaluations did not change between the first and second document positions. [→ Franco Londra 2025](#franco-londra-2025)
@@ -26,7 +33,7 @@ sources:
 
 Franco Londra, Magalí Martínez, Gaston Saux. (2025). Sources within sources: The dynamic influence of multiple documents trustworthiness when evaluating and using an embedded source. Metacognition and Learning. https://doi.org/10.1007/s11409-025-09427-z
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Linear mixed-model analysis of ES trustworthiness ratings (0–10) from 72 undergraduates reading two texts in homogeneous sequences. The article reports no position effect: "ES evaluations did not change between Position within the sequence in the HT-HT and LT-LT sequences" with the printed t and p values.
 

@@ -15,9 +15,14 @@ sources:
     author: Nadira Saab
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Co-regulation led to shared understandings with effective patient management as a result (Lajoie and Lu)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In Lajoie and Lu's study of collaborative decision-making in simulated medical emergencies, co-regulation led to shared understandings with effective patient management as a result. [→ Nadira Saab 2012](#nadira-saab-2012)
@@ -28,7 +33,7 @@ sources:
 
 Nadira Saab. (2012). Team regulation, regulation of social activities or co-regulation: Different labels for effective regulation of learning in CSCL. Metacognition Learning. https://doi.org/10.1007/s11409-011-9085-5
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The editorial reports, attributing to Lajoie and Lu, that "co-regulation led to shared understandings with effective patient management as a result" in collaborative decision-making during simulated emergencies mimicking medical team decisions. No effect sizes are printed in the editorial.
 

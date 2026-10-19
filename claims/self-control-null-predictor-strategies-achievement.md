@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11409-024-09389-8"
     title: "Rebecca Hey · Mark McDaniel · Flaviu A. Hodis. (2024). How undergraduate students learn: uncovering interrelationships between factors that support self-regulated learning and strategy use. Metacognition and Learning. https://doi.org/10.1007/s11409-024-09389-8"
     author: Rebecca Hey · Mark McDaniel · Flaviu A. Hodis
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Self-control was not a significant predictor of any learning strategy or of self-reported achievement, and MCSR predicted only elaboration
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In the regression models, self-control was non-significant for all seven outcomes, and MCSR was significant only for elaboration and not for achievement. [→ Rebecca Hey · Mark McDaniel · Flaviu A. Hodis 2024](#rebecca-hey-mark-mcdaniel-flaviu-a-hodis-2024)
@@ -26,7 +33,7 @@ sources:
 
 Rebecca Hey · Mark McDaniel · Flaviu A. Hodis. (2024). How undergraduate students learn: uncovering interrelationships between factors that support self-regulated learning and strategy use. Metacognition and Learning. https://doi.org/10.1007/s11409-024-09389-8
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Multiple regression analysis (Table 5) of strategy use and achievement on four self-regulation factors in the NZ undergraduate survey; the article reports self-control non-significant throughout (e.g., elaboration Beta = .03, p = .75) and MCSR significant only for elaboration (Beta = .23, p = .01). No effect sizes printed; equivalence not tested.
 

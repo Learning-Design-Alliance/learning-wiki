@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11409-019-09204-9"
     title: "Cindy Paans & Erdem Onan & Inge Molenaar & Ludo Verhoeven & Eliane Segers. (2019). How social challenges affect children's regulation and assignment quality in hypermedia: a process mining study. Metacognition and Learning. https://doi.org/10.1007/s11409-019-09204-9"
     author: "Cindy Paans & Erdem Onan & Inge Molenaar & Ludo Verhoeven & Eliane Segers"
+    q: 3
+    i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Low and high social challenge dyads do not differ in the frequency of metacognitive activities
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Metacognitive activities did not differ in frequency between low and high challenge dyads, despite differences in assignment quality and cognition. [→ Cindy Paans & Erdem Onan & Inge Molenaar & Ludo Verhoeven & Eliane Segers 2019](#cindy-paans-erdem-onan-inge-molenaar-ludo-verhoeven-eliane-segers-2019)
@@ -26,7 +33,7 @@ sources:
 
 Cindy Paans & Erdem Onan & Inge Molenaar & Ludo Verhoeven & Eliane Segers. (2019). How social challenges affect children's regulation and assignment quality in hypermedia: a process mining study. Metacognition and Learning. https://doi.org/10.1007/s11409-019-09204-9
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Mann-Whitney U tests on relative frequencies of coded activities found no group difference for reading, supporting, or metacognitive activities (analysis, monitoring, evaluation). No effect size was printed for this null finding.
 

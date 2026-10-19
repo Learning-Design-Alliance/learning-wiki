@@ -13,13 +13,24 @@ sources:
     resource: "https://doi.org/10.1007/s11409-019-09204-9"
     title: "Cindy Paans & Erdem Onan & Inge Molenaar & Ludo Verhoeven & Eliane Segers. (2019). How social challenges affect children's regulation and assignment quality in hypermedia: a process mining study. Metacognition and Learning. https://doi.org/10.1007/s11409-019-09204-9"
     author: "Cindy Paans & Erdem Onan & Inge Molenaar & Ludo Verhoeven & Eliane Segers"
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 2
   - id: cindy-paans-erdem-onan-inge-molenaar-ludo-verhoeven-eliane-segers-2019-2
     resource: "https://doi.org/10.1007/s11409-019-09204-9"
     title: "Cindy Paans & Erdem Onan & Inge Molenaar & Ludo Verhoeven & Eliane Segers. (2019). How social challenges affect children's regulation and assignment quality in hypermedia: a process mining study. Metacognition and Learning. https://doi.org/10.1007/s11409-019-09204-9"
     author: "Cindy Paans & Erdem Onan & Inge Molenaar & Ludo Verhoeven & Eliane Segers"
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # High challenge dyads show an isolated bi-directional cycle between social challenge and off-task activities, while low challenge dyads' challenges feed into metacognitive activities
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In the high challenge process model, social challenge and off-task activities form an isolated process with a bi-directional pathway. [→ Cindy Paans & Erdem Onan & Inge Molenaar & Ludo Verhoeven & Eliane Segers 2019](#cindy-paans-erdem-onan-inge-molenaar-ludo-verhoeven-eliane-segers-2019)
@@ -31,7 +42,7 @@ sources:
 
 Cindy Paans & Erdem Onan & Inge Molenaar & Ludo Verhoeven & Eliane Segers. (2019). How social challenges affect children's regulation and assignment quality in hypermedia: a process mining study. Metacognition and Learning. https://doi.org/10.1007/s11409-019-09204-9
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Fuzzy Miner process model of the 12 high-challenge dyads' coded verbal interactions; the challenge–off-task cycle appeared as a process isolated from the main learning activities.
 
@@ -41,7 +52,7 @@ Fuzzy Miner process model of the 12 high-challenge dyads' coded verbal interacti
 
 Cindy Paans & Erdem Onan & Inge Molenaar & Ludo Verhoeven & Eliane Segers. (2019). How social challenges affect children's regulation and assignment quality in hypermedia: a process mining study. Metacognition and Learning. https://doi.org/10.1007/s11409-019-09204-9
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Fuzzy Miner process model of the 18 low-challenge dyads; although challenge was very infrequent there, it had high significance (0.726), which the authors attribute to routing significance.
 

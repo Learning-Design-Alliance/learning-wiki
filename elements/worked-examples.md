@@ -13,7 +13,7 @@ generated:
 # Worked Examples
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 16 claims (10 for, 6 mixed) · 25 studies (12 causal, 4 quant-synthesis, 4 review, 4 theoretical, 1 associational), `q1`–`q4` · 4 of 25 report an effect size · 7 claims rest on one study
+> **Evidence** · 17 claims (11 for, 6 mixed) · 26 studies (13 causal, 4 quant-synthesis, 4 review, 4 theoretical, 1 associational), `q1`–`q4` · 4 of 26 report an effect size · 8 claims rest on one study
 
 ## Description
 Worked examples are the element in which learners study complete or partial solutions before attempting similar problems independently.
@@ -50,6 +50,7 @@ Worked examples are the element in which learners study complete or partial solu
 - [Comparing cases side by side improves learning and transfer by a moderate average amount, though in one algebra study it raised procedural knowledge and flexibility but not conceptual knowledge](../claims/comparing-contrasting-cases-improves-learning.md) [+S]
 - [Variability of practice interacts with problem format: high variability aids learning from worked examples but harms learning from conventional problems](../claims/variability-effect-format-interaction.md) [~W]
 - [The position of faded worked solution steps did not influence learning outcomes in Experiment 1](../claims/faded-step-position-no-learning-outcome-effect.md) [~W]
+- [Adults randomly assigned to a worked-example educational intervention made higher post-intervention monitoring judgments on health math problems than control participants](../claims/worked-example-intervention-raised-monitoring-judgments.md) [+W] — attached 2026-10-19 from Scheibe et al. (2022), which proposed "Worked-example educational intervention with apple-orchard analogy for case-fatality-rate problems".
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

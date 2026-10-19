@@ -15,9 +15,14 @@ sources:
     author: Chenghui Chen, Lawrence Jun Zhang
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Monitoring of interactive metadiscourse has the strongest predictive power among the three MRIM strategies for L2 argumentative writing
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` MIM (β = 0.344) outperforms PIM (β = 0.115) and EIM (β = 0.179) in predicting L2 argumentative writing performance. [→ Chenghui Chen 2025](#chenghui-chen-2025)
@@ -28,7 +33,7 @@ sources:
 
 Chenghui Chen, Lawrence Jun Zhang. (2025). Development and validation of a scale for metacognitive regulation of interactive metadiscourse strategies in L2 argumentative writing. Metacognition and Learning. https://doi.org/10.1007/s11409-025-09435-z
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 From the multiple regression analysis with Sample Two (N = 1078), comparing standardized coefficients of the three MRIM subscales. MIM's β = 0.344 exceeds PIM's 0.115 and EIM's 0.179, all significant at the adjusted Bonferroni threshold.
 
