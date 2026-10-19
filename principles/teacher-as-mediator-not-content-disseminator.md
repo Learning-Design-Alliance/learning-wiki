@@ -8,7 +8,7 @@ canonical: true
 status: review
 generated:
   by: claude/unspecified
-  at: 2026-10-15
+  at: 2026-10-19
 sources:
   - id: mutlu-2019
     resource: "http://www.ijonte.org"
@@ -67,7 +67,7 @@ sources:
 # Educators should act as mediators and facilitators of learning rather than content disseminators
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 46 claims (30 for, 14 mixed, 2 against) · 42 studies (9 quant-synthesis, 9 review, 9 qualitative, 9 theoretical, 3 causal, 3 associational), `q1`–`q4` · 4 of 42 report an effect size · 41 claims rest on one study
+> **Evidence** · 46 claims (30 for, 15 mixed, 1 against) · 42 studies (9 quant-synthesis, 9 review, 9 qualitative, 9 theoretical, 3 causal, 3 associational), `q1`–`q4` · 4 of 42 report an effect size · 41 claims rest on one study
 
 ## Conditional relationship
 
@@ -180,28 +180,17 @@ Learners, settings and outcomes differ across these claims (STEM undergraduates,
 
 ## Further evidence, not yet read against this model
 
-Claims and theory pages the earlier page and its folded pages cited that are not used above. Each says what it is and how far it bears on this page.
+Claims and theory pages cited by the earlier page, its folded pages or later linking that are not used above. Each was read against the model on 2026-10-19; each says what it is and why it does not change the model. (Eleven claims listed here before that reading now sit in the model: the material-arrangement, mediation-responsiveness, input-sufficiency, Vygotskian, code-shifting, guidance-distribution and online-tutoring claims.)
 
 - [A 2010 narrative review reports that even very advanced L2 learners read more slowly than native speakers and miss subtle anaphoric interpretation distinctions](../claims/l2-skill-never-fully-native-like.md) [~W] — narrative review; bears on setting goals for advanced L2 learners, not on the teacher's role
+- [Elaborated coding was associated with higher reading scores among the observed children](../claims/elaborated-coding-higher-reading-scores.md) [+W] — from the same early-childhood study as the code-shifting claim, but it links children's talk to reading, not teacher mediation to either; listed in the study's framing model with no statistic printed
+- [Findings on teacher mediation patterns differ from the Gahagans' conclusion of no difference in teacher verbal mediation](../claims/findings-differ-from-gahagans-no-difference.md) [+W] — says teachers' mediating talk varies measurably between classrooms, which the observation section already assumes; no outcome attached
+- [Proportions of variance explained follow a curvilinear pattern across the six taxonomy levels](../claims/curvilinear-variance-pattern-across-taxonomy-levels.md) [+W] — (not about this page) a 1971 causal-model analysis of Bloom's taxonomy's hierarchy; nothing about the teacher's role
 
 **Theory pages, not claims** (they hold the rationale for steps 3 and 4; no marker, since a theory page carries no recorded evidence of its own):
 - [Mle Theory Human Mediator Cognitive Modifiability](../theories/mle-theory-human-mediator-cognitive-modifiability.md)
 - [Piaget Three Types Of Knowledge](../theories/piaget-three-types-of-knowledge.md)
 - [Piaget Four Factors Stage Progression](../theories/piaget-four-factors-stage-progression.md)
-- [Material arrangement of artifacts (strips centered and ordered by length, worksheets held close) affords and stabilizes the initial pattern of activity; later decentralization enables new patterns](../claims/material-arrangement-affords-stability.md) [+M]
-- [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](../claims/comprehensible-input-insufficient-grammar-acquisition.md) [~W]
-- [Informal evidence that adults do not automatically process input to develop competence reopens the role of grammar instruction (as reported by the bibliography, citing Terrell)](../claims/input-processing-insufficient-for-adult-competence-terrell.md) [-W]
-- [Scmc Da Mediation Reveals Microgenetic Development](../claims/scmc-da-mediation-reveals-microgenetic-development.md) [+M]
-- [Learners at the same proficiency level differ in responsiveness to mediation, with Sarah needing less explicit help than Dena](../claims/learners-differ-in-mediation-responsiveness.md) [+W]
-- [Learners placed at the same CEFR level by DIALANG differ in their ZPDs, which DIALANG's non-dynamic feedback does not capture](../claims/dialang-cefr-levels-miss-zpd-differences.md) [+W]
-- [Children, unlike animals, can imitate actions beyond their independent capabilities and profit from instruction](../claims/children-imitate-beyond-independent-capability.md) [+W]
-- [In pretend play the child behaves beyond her average age and daily behaviour](../claims/pretend-play-child-head-taller.md) [+W]
-- [More children who could shift codes were found in the classroom of the highest mediating teacher](../claims/code-shifting-highest-mediating-teacher.md) [+W]
-- [Elaborated coding was associated with higher reading scores among the observed children](../claims/elaborated-coding-higher-reading-scores.md) [+W]
-- [Findings on teacher mediation patterns differ from the Gahagans' conclusion of no difference in teacher verbal mediation](../claims/findings-differ-from-gahagans-no-difference.md) [+W]
-- [Proportions of variance explained follow a curvilinear pattern across the six taxonomy levels](../claims/curvilinear-variance-pattern-across-taxonomy-levels.md) [+W]
-- [Teacher guidance distribution tracked perceived willingness to collaborate, not group outcome level or prior science competence](../claims/guidance-follows-willingness-not-outcome.md) [~W] — attached 2026-10-18 from Tarja Pietarinen · Tuire Palonen · Marja Vauras (2021), which proposed "Provide stronger socio-emotional support to low-confident collaborative inquiry groups".
-- [Both teachers remained peripherally active and concentrated their contributions on tutoring, with the experienced teacher also acting as a learner on an equal basis](../claims/peripheral-teacher-tutoring-contributions.md) [+W] — attached 2026-10-18 from de Laat et al. (2007), which proposed "Experienced online tutor's facilitation pattern: emergent group learning with subtle peripheral scaffolding".
 
 ## Objective and learner-valued goal
 
@@ -251,12 +240,17 @@ Reported engagement, end-of-unit understanding, exam performance, delayed retent
 - DeCiccio, Albert C. (1988). Social Constructionism and Collaborative Learning: Recommendations for Teaching Writing. Paper presented at the Annual Meeting of the Conference on College Composition and Communication. https://eric.ed.gov/?id=ED294201
 - Qiong Jia. (2010). A Brief Study on the Implication of Constructivism Teaching Theory on Classroom Teaching Reform in Basic Education. International Education Studies, 3(2). https://www.ccsenet.org/ies
 - Warr, M. & West, R. E. (2020). Bridging Academic Disciplines with Interdisciplinary Project-based Learning: Challenges and Opportunities. The Interdisciplinary Journal of Problem-based Learning. https://doi.org/10.14434/ijpbl.v14i1.28590
-- Bill VanPatten. (2010). The Two Faces of SLA: Mental Representation and Skill. International Journal of English Studies, 10(1), 1-18. https://www.um.es/ijes
+- Bill VanPatten. (2010). The Two Faces of SLA: Mental Representation and Skill. International Journal of English Studies, 10(1), 1-18. https://doi.org/10.6018/ijes/2010/1/113951
 - Grouping for Instruction in Teaching Science (ERIC Digest). (1989). ERIC Digest. https://eric.ed.gov
 - Young-Scholten, M. (1999). Focus on Form and Linguistic Competence: Why Krashen Is Still Right about Acquisition. Paper presented at AAAL, Stamford. https://eric.ed.gov/?id=ED432919
 - Ebadi, S. (2016). Exploring DIALANG's Diagnostic Feedback in Online L2 Dynamic Assessment. Teaching English with Technology, 16(1), 41-58. https://eric.ed.gov/?id=EJ1135925
 - Seng, Seok-Hoon. (1997). Zone of Proximal Development and the World of the Child. https://eric.ed.gov/?id=ED416957
 - Stecher, Judith S. (1976). A Description of Teacher Verbal Mediation and of Children's Verbal Coding in Selected Early Childhood Classrooms. https://eric.ed.gov/?id=ED126733
+- Pietarinen, T., Palonen, T., & Vauras, M. (2021). Guidance in computer-supported collaborative inquiry learning: Capturing aspects of affect and teacher support in science classrooms. International Journal of Computer-Supported Collaborative Learning, 16, 261–287. https://doi.org/10.1007/s11412-021-09347-5
+- de Laat, M., Lally, V., Lipponen, L., & Simons, R.-J. (2007). Online teaching in networked learning communities: A multi-method approach to studying the role of the teacher. Instructional Science, 35(3), 257–286. https://doi.org/10.1007/s11251-006-9007-0
+- Frank, B. W. (2009). Multiple Conceptual Coherences in the Speed Tutorial: Micro-processes of Local Stability. https://eric.ed.gov
+- Ellis, Rod. (1991). The Interaction Hypothesis: A Critical Evaluation. ERIC Document ED 338 037. https://eric.ed.gov/?id=ED338037
+- Kotapish, Carl E. (1993). The Place of Grammar in the ESL/EFL Classroom: An Annotated Bibliography. https://eric.ed.gov/?id=ED376699
 
 <!-- deprecated 2026-10-14: superseded by the conditional model above. The previous body, kept verbatim.
 
