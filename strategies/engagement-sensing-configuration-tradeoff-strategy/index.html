@@ -27,7 +27,7 @@
 <h1 id="choose-sensing-configurations-by-target-metric-and-deployment-burden-favoring-compact-five-stream-or-chest-ecg-setups-for-lightweight-deployments">Choose sensing configurations by target metric and deployment burden, favoring compact five-stream or chest-ECG setups for lightweight deployments<a class="headerlink" href="#choose-sensing-configurations-by-target-metric-and-deployment-burden-favoring-compact-five-stream-or-chest-ecg-setups-for-lightweight-deployments" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Strategy</strong> · <a href="../">All strategies</a>
-<strong>Evidence</strong> · no claims cited</p>
+<strong>Evidence</strong> · 3 claims (3 for) · 2 studies (1 review, 1 design), <code>q2</code> · 0 of 2 report an effect size · 3 claims rest on one study</p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>The article recommends treating sensing configuration as a design decision balancing predictive value against practical burden. It reports that "the preferred configuration depends on the performance metric and the practical cost of its sensors", with a five-stream setup (EEG, EDA, eSense IMU, HR, Ring Temperature) achieving the highest Within-1 and binary accuracy and chest ECG alone achieving the highest binary Macro-F1, so lighter deployments can drop streams without uniform loss.</p>
@@ -48,6 +48,12 @@
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
 <ul>
 <li>fine-grained estimation of attention difficulty under practical wearable deployment constraints</li>
+</ul>
+<h2 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../../claims/sensor-stream-performance-non-monotonic/">Predictive performance of sensor configurations does not change monotonically with the number of sensing streams; preferred configuration depends on target metric and sensing cost</a> [+W]</li>
+<li><a href="../../claims/chest-ecg-strongest-cardiac-engagement-signal/">Chest-worn ECG provides the strongest cardiac-sensing performance for attention-difficulty prediction, and fusing all cardiac streams does not improve upon chest ECG alone</a> [+W]</li>
+<li><a href="../../claims/more-modalities-not-always-better-mental-state-detection/">Combining more modalities does not always improve detection of learner mental states</a> [+W]</li>
 </ul>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>

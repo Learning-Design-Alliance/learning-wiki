@@ -27,7 +27,7 @@
 <h1 id="constrain-an-llm-to-inquiry-only-questioning-via-negative-system-prompt-constraints-plus-strict-json-schemas">Constrain an LLM to inquiry-only questioning via negative system-prompt constraints plus strict JSON schemas<a class="headerlink" href="#constrain-an-llm-to-inquiry-only-questioning-via-negative-system-prompt-constraints-plus-strict-json-schemas" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Strategy</strong> · <a href="../">All strategies</a>
-<strong>Evidence</strong> · no claims cited</p>
+<strong>Evidence</strong> · 1 claim (1 for) · 1 study (1 design), <code>q2</code> · 0 of 1 report an effect size · 1 claim rests on one study</p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>The article's constraint methodology combines three mechanisms: system prompts with explicit negative constraints ("Do NOT rewrite the student's text", "Avoid yes/no questions"), a specified internal reasoning protocol the model executes without outputting (argument segmentation, issue detection, epistemic state classification, trigger prioritization), and OpenAI Structured Outputs with strict: true so the model is constrained at decode time to emit only conformant JSON. Returned excerpts are verified as exact substrings of the essay and silently dropped otherwise, so hallucinated quotations cannot drive contextual highlighting.</p>
@@ -49,6 +49,10 @@
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
 <ul>
 <li>inquiry-based feedback on argument structure</li>
+</ul>
+<h2 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../../claims/structured-outputs-eliminate-parse-failure-class/">Schema-constrained Structured Outputs eliminated parse failures: every /challenge and /unlock call returned a valid, fully-typed object during development testing</a> [+W]</li>
 </ul>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>

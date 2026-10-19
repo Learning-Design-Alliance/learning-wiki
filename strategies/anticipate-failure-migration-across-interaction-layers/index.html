@@ -27,7 +27,7 @@
 <h1 id="treat-added-output-structure-in-ai-problem-solving-systems-as-a-tradeoff-anticipating-failure-migration-across-interaction-layers">Treat added output structure in AI problem solving systems as a tradeoff, anticipating failure migration across interaction layers<a class="headerlink" href="#treat-added-output-structure-in-ai-problem-solving-systems-as-a-tradeoff-anticipating-failure-migration-across-interaction-layers" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Strategy</strong> · <a href="../">All strategies</a>
-<strong>Evidence</strong> · no claims cited</p>
+<strong>Evidence</strong> · 3 claims (3 for) · 1 study (1 causal), <code>q2</code> · 0 of 1 report an effect size · 3 claims rest on one study</p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>For designers of AI-assisted problem solving systems, the article recommends that adding structure to model outputs, such as constrained executable reasoning, "should be understood as a tradeoff rather than an unambiguous improvement". Constraints can increase transparency and debuggability but introduce new points of breakdown at the protocol, execution, and mathematical layers. Designers should anticipate how failures migrate across representation layers rather than assuming they will disappear, treating LLMs as components within socio-technical systems.</p>
@@ -49,6 +49,12 @@
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
 <ul>
 <li>reliable operation of AI-assisted problem solving under executable output contracts</li>
+</ul>
+<h2 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../../claims/executable-reasoning-failure-redistribution-layers/">Code-augmented interaction redistributes failures into protocol, execution, and mathematical layers, with Gemini 2.5 Pro failing mostly through protocol violations</a> [+W]</li>
+<li><a href="../../claims/code-augmented-latency-cost-increases/">Code-augmented interaction consistently increases median and tail latency, and costs per correct answer typically increase, with Gemini 2.5 Pro a notable outlier</a> [+W]</li>
+<li><a href="../../claims/representation-gaps-model-specific-code-amplification/">Representation gaps are nontrivial for all models, and code-based interaction can amplify representational specialization rather than stabilizing performance</a> [+W]</li>
 </ul>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>

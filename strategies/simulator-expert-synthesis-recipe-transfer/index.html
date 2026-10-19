@@ -27,7 +27,7 @@
 <h1 id="apply-the-simulator-guided-expert-synthesis-recipe-wherever-training-time-simulators-exist-but-deployment-time-interaction-must-be-planned-in-advance">Apply the simulator-guided expert synthesis recipe wherever training-time simulators exist but deployment-time interaction must be planned in advance<a class="headerlink" href="#apply-the-simulator-guided-expert-synthesis-recipe-wherever-training-time-simulators-exist-but-deployment-time-interaction-must-be-planned-in-advance" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Strategy</strong> · <a href="../">All strategies</a>
-<strong>Evidence</strong> · no claims cited</p>
+<strong>Evidence</strong> · 3 claims (3 for) · 1 study (1 design), <code>q2</code> · 0 of 1 report an effect size · 3 claims rest on one study</p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>The article proposes a generalizable recipe, stating "It requires three ingredients: (i) a simulator that can be queried during training, (ii) a combinatorial sequence decision problem with sparse terminal reward, and (iii) instance-specific near-optimal sequences that human demonstrations cannot supply." The central pattern is expensive or privileged search during training, with a deployed policy that acts without simulator rollouts or counterfactual intermediate feedback. The article names candidate domains including personalized tutoring across curricula, treatment-sequence recommendation with patient simulators, content-layout planning with user-response simulators, and cyber-security attack-path or defense-strategy planning rehearsed inside a cyber-twin replica.</p>
@@ -52,6 +52,12 @@
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
 <ul>
 <li>planning complete ordered sequences that maximize a terminal outcome without runtime simulator access</li>
+</ul>
+<h2 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../../claims/evol-robust-to-stochastic-response-models/">EVOL variants remain the strongest methods under stochastic response models, weakening the hypothesis that evolutionary search exploits deterministic threshold discontinuities</a> [+W]</li>
+<li><a href="../../claims/expert-quality-over-imitation-objective/">Final LPR performance is governed by the quality of evolutionary experts rather than by the particular imitation objective</a> [+W]</li>
+<li><a href="../../claims/random-experts-collapse-lpr-performance/">Replacing evolutionary experts with random-path experts collapses performance, and greedy 1-step lookahead reaches only +0.155 EP on ASSIST15 L=10</a> [+W]</li>
 </ul>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
