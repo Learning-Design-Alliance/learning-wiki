@@ -10,14 +10,16 @@ generated:
 evidence_strength: weak
 sources:
   - id: mccardle-2015
-    title: "McCardle, L. (2015). Self-regulated learning in and across sport and academic domains [Doctoral dissertation, University of Victoria]."
+    resource: "https://doi.org/10.1007/s11409-014-9132-0"
+    title: "McCardle, L. (2015). Self-regulated learning in and across sport and academic domains [Doctoral dissertation, University of Victoria]. [doi:10.1007/s11409-014-9132-0](https://doi.org/10.1007/s11409-014-9132-0)"
     author: McCardle, L.
     q: 2
     i: "?"
     kind: review
     rigour: "?"
   - id: mccardle-2015-2
-    title: "McCardle, L. (2015). Self-regulated learning in and across sport and academic domains [Doctoral dissertation, University of Victoria]."
+    resource: "https://doi.org/10.1007/s11409-014-9132-0"
+    title: "McCardle, L. (2015). Self-regulated learning in and across sport and academic domains [Doctoral dissertation, University of Victoria]. [doi:10.1007/s11409-014-9132-0](https://doi.org/10.1007/s11409-014-9132-0)"
     author: McCardle, L.
     q: 2
     i: "?"
@@ -38,7 +40,7 @@ sources:
 
 ### McCardle 2015
 
-McCardle, L. (2015). Self-regulated learning in and across sport and academic domains [Doctoral dissertation, University of Victoria].
+McCardle, L. (2015). Self-regulated learning in and across sport and academic domains [Doctoral dissertation, University of Victoria]. [doi:10.1007/s11409-014-9132-0](https://doi.org/10.1007/s11409-014-9132-0)
 
 `q2 · i?` · `review · r?`
 
@@ -48,7 +50,7 @@ The dissertation's synthesis of background literature reports NCAA data showing 
 
 ### McCardle 2015 (2)
 
-McCardle, L. (2015). Self-regulated learning in and across sport and academic domains [Doctoral dissertation, University of Victoria].
+McCardle, L. (2015). Self-regulated learning in and across sport and academic domains [Doctoral dissertation, University of Victoria]. [doi:10.1007/s11409-014-9132-0](https://doi.org/10.1007/s11409-014-9132-0)
 
 `q2 · i?` · `associational · r?`
 
