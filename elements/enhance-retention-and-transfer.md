@@ -13,7 +13,7 @@ generated:
 # Enhance retention and transfer
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (8 for, 2 mixed) · 19 studies (6 quant-synthesis, 5 causal, 4 review, 2 theoretical, 1 associational, 1 qualitative), `q2`–`q4` · 8 of 19 report an effect size · 5 claims rest on one study
+> **Evidence** · 11 claims (9 for, 2 mixed) · 20 studies (6 quant-synthesis, 5 causal, 5 review, 2 theoretical, 1 associational, 1 qualitative), `q2`–`q4` · 8 of 20 report an effect size · 6 claims rest on one study
 
 ## Description
 "Enhance retention and transfer" is the culminating phase of instruction (Gagné's final event; Merrill's Integration principle) in which learners consolidate what they have learned and apply it to novel contexts. Rather than ending a lesson at recall, this element deliberately designs activities — reflection, extension problems, far-transfer tasks — that require learners to restructure and redeploy knowledge beyond the conditions in which it was acquired.
@@ -57,6 +57,7 @@ Transfer does not happen spontaneously; it must be prompted by tasks that differ
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Adult learners perceive AI as supporting consolidation-phase comparison, knowledge reorganization, and transfer](../claims/ai-supports-consolidation-comparison-reorganization-transfer.md) [+W]
 - [Written explanation skills learned in the Unit 1 intervention transferred to a different mathematical concept (functions)](../claims/explanation-skill-transfer-across-concepts.md) [+M]
+- [Explicit transfer instructions, in which trainees discuss how trained strategies could apply to a new task, produced reliable transfer of imagery and sentence-generation training to unpracticed text learning in older adults](../claims/explicit-transfer-instructions-enable-strategy-transfer.md) [+W]
 
 ## The evidence by question
 

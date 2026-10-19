@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (13 for, 11 mixed, 1 against) · 36 studies (14 causal, 10 review, 8 quant-synthesis, 2 associational, 1 design, 1 theoretical), `q1`–`q4` · 8 of 36 report an effect size · 17 claims rest on one study
+> **Evidence** · 26 claims (13 for, 12 mixed, 1 against) · 37 studies (14 causal, 11 review, 8 quant-synthesis, 2 associational, 1 design, 1 theoretical), `q1`–`q4` · 8 of 37 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 
@@ -190,6 +190,7 @@ The expectation should weaken if controlled comparisons of the same practice wit
 - [Four reviewed CAs explicitly integrate pedagogical theories, including the Vygotskian perspective, the 4C/ID model, scaffolding, and gamification](../claims/four-cas-integrate-pedagogical-theories.md) [+W] — (not about this page) a scoping review noting that one programming chatbot used gamification elements; no outcome for them.
 - [Gaming the system is significantly negatively correlated with test performance in the digital learning game](../claims/gaming-negative-correlation-test-performance.md) [-W]
 - [GBL and gamified approaches show comparable rates of quantifiable learning gains and affective outcomes in robotics education](../claims/comparable-outcomes-gbl-versus-gamified-robotics.md) [~W]
+- [Extrinsic incentives have mixed results on effort and achievement, working better when immediate and larger](../claims/extrinsic-incentives-mixed-results-effort-achievement.md) [~W]
 
 ## Related Principles
 - [Autonomy](autonomy.md) — gamification works when it expands meaningful choice, not when it controls learners through rewards

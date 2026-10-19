@@ -50,7 +50,7 @@ sources:
 # Contiguity Principle (Spatial and Temporal)
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 29 claims (16 for, 13 mixed) · 21 studies (6 causal, 6 review, 5 quant-synthesis, 2 associational, 1 design, 1 theoretical), `q1`–`q4` · 7 of 21 report an effect size · 24 claims rest on one study
+> **Evidence** · 30 claims (16 for, 14 mixed) · 22 studies (6 causal, 6 review, 5 quant-synthesis, 2 associational, 2 design, 1 theoretical), `q1`–`q4` · 7 of 22 report an effect size · 25 claims rest on one study
 
 ## Conditional relationship
 
@@ -171,6 +171,7 @@ The expectation should weaken if new comparisons with novice learners on complex
 - [Time to first fixation of referred-to picture elements during interpretation phases is shorter with an LDI integrated than an LDI separated audio structure](../claims/ldi-integrated-faster-first-fixation.md) [+W]
 - [The effects of LDI structure on recall and recognition of linkages are fully mediated by fixation times on the referred-to picture elements](../claims/fixation-times-fully-mediate-ldi-linkage-memory.md) [+W]
 - [Fewer than half of textbook images requiring comparison have an optimal spatial layout (direct placement) for structural alignment](../claims/fewer-than-half-images-direct-placement.md) [+W]
+- [The pipeline feasibly produces coherent, synchronized educational videos from textbook queries, integrating retrieval, image generation, animation, and speech](../claims/feasible-synchronized-video-generation-from-textbook-queries.md) [~W]
 
 ## Related Principles
 - [Modality Principle](modality.md)

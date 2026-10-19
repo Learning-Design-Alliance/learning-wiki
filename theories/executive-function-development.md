@@ -12,7 +12,7 @@ generated:
 # Executive Function Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 83 claims (45 for, 36 mixed, 2 against) · 59 studies (38 associational, 9 review, 6 causal, 5 quant-synthesis, 1 theoretical), `q1`–`q4` · 24 of 59 report an effect size · 78 claims rest on one study
+> **Evidence** · 125 claims (61 for, 62 mixed, 2 against) · 77 studies (48 associational, 11 causal, 10 review, 7 quant-synthesis, 1 theoretical), `q1`–`q4` · 31 of 77 report an effect size · 119 claims rest on one study
 
 ## Description
 Executive functions are the self-regulatory processes that let a person inhibit an impulsive response, flexibly shift between tasks or perspectives, hold and manipulate information in mind, and organize behavior toward a goal rather than react automatically to the immediate situation. They emerge gradually starting in early childhood and continue developing through adolescence, driven both by brain maturation — particularly of the prefrontal cortex, which matures later than most other brain regions — and by experience (Fay-Stammbach, Hawes, & Meredith, 2014).
@@ -124,6 +124,48 @@ Executive function is closely tied to, but distinct from, adolescent risk-taking
 - [Disabled readers show working memory deficits at every age on the blocked listening span task](../claims/disabled-readers-lower-listening-span-all-ages.md) [~W]
 - [An apparent switching advantage in dyslexia (lower switching reaction-time cost) disappears after controlling for processing speed](../claims/dyslexia-switching-advantage-disappears-speed-control.md) [~W]
 - [Children show initially reduced DLPFC activation relative to adults for REL-1 and REL-2 trials, but sustained DLPFC activation for REL-1 problems in the later trial phase](../claims/dlpfc-immature-activation-children-rel1.md) [~W]
+- [The set of executive-function and intelligence predictors of academic achievement differs across Grades 2, 4, and 6, with EF contributions appearing cumulative as students get older](../claims/ef-predictors-of-achievement-differ-across-grades.md) [~W]
+- [Executive function increases with age between 11–12 and 15–16, but knowledge attribution assumptions do not](../claims/ef-increases-with-age-kas-does-not.md) [+W]
+- [Emotion regulation and cognitive control discrepancy on emotional go/no-go decreases with age](../claims/emotion-cognitive-control-discrepancy-decreases-age.md) [+W]
+- [The developmental precedence of EF over ToM persists from 4 to 5 years of age](../claims/ef-precedence-persists-4-to-5.md) [~W]
+- [Executive function at 48 months moderates the preschool-to-kindergarten development of math ability on the ECLS-K Math battery but not the Applied Problems subtest](../claims/ef-moderates-preschool-kindergarten-ecls-k-math.md) [~W]
+- [Latent EC at age 3 does not predict mathematics achievement, but EC at ages 3.75, 4.5, and 5.25 shows independent prospective links with mathematics](../claims/ec-predicts-math-from-3-75-onward.md) [~W]
+- [Preschool executive function positively predicts kindergarten math on both measures, while teacher–child relationship quality shows only a trend-level main effect on ECLS-K Math and none on Applied Problems](../claims/ef-main-effect-teacher-relationship-main-effect-kindergarten-math.md) [+W]
+- [Executive-function brain circuitry takes more than twenty years to fully mature, leaving school-age youth with underdeveloped long-run decision systems](../claims/executive-function-maturation-over-twenty-years.md) [+W]
+- [Executive function measures predict early mathematics achievement over and above reading ability and IQ](../claims/executive-functions-predict-early-math-over-iq.md) [+W]
+- [Executive task accuracy and processing speed improve dramatically with age across the preschool period, with no cohort effect from repeated testing](../claims/executive-performance-improves-with-age-no-cohort-effect.md) [+W]
+- [Girls show early EF and ToM advantages, but the EF advantage diminishes with age while the ToM advantage persists](../claims/gender-advantage-ef-diminishes-tom-persists.md) [~W]
+- [Cyberball exclusion reduces n-back verbal working memory accuracy in young adolescent girls but not in mid-adolescents or adults](../claims/exclusion-reduces-nback-accuracy-young-adolescent-girls.md) [~W]
+- [Early interference suppression, but not response inhibition, correlates with emergent literacy measures in both 4–5- and 5–6-year-old subsamples](../claims/fish-task-correlates-emergent-literacy-circle-does-not.md) [~W]
+- [Cognitive flexibility's unique contribution to academic marks emerges only once EF components become differentiated, around Grades 4–6](../claims/flexibility-contribution-emerges-with-ef-differentiation.md) [~W]
+- [Feedback on post-switch sorting improves preschoolers' DCCS performance and transfers to a novel DCCS version](../claims/feedback-improves-preschool-dccs.md) [+W]
+- [Higher inhibition and working-memory scores predict better overall Shape School accuracy at some ages, independent of trial type](../claims/gng-nb-main-effects-overall-accuracy.md) [+W]
+- [Actively withholding the hands from the reward predicts success on delay-of-gratification tasks in two- and three-year-olds](../claims/hands-withholding-predicts-toddler-delay-success.md) [+W]
+- [Incongruent dot comparison trials are less accurate and slower than congruent trials, consistent with an added inhibition step](../claims/incongruent-dot-trials-slower-less-accurate.md) [~W]
+- [Inhibition accuracy is marginally correlated with verbal WM but not visuospatial WM in kindergarten children](../claims/inhibition-accuracy-verbal-wm-not-visuospatial.md) [~W]
+- [Dot comparison performance no longer predicts mathematics achievement once inhibition skill is accounted for, but inhibition explains variance over and above dot comparison](../claims/inhibition-accounts-for-dot-comparison-math-link.md) [~W]
+- [Response inhibition shows small to moderate associations with listening comprehension (r = .16 to .42), based on only two studies](../claims/inhibition-listening-comprehension-small-moderate.md) [~W]
+- [Hot EF (CGT risk adjustment) uniquely predicts parent-rated emotional problems, while no cool EF test does](../claims/hot-ef-predicts-emotional-problems.md) [~W]
+- [Inhibition shows moderate to large associations with reading comprehension in most studies, but the association depends on the inhibition task used](../claims/inhibition-reading-comprehension-task-dependent.md) [~W]
+- [Inhibition explains the largest amount of variance in age-related differences in affective theory of mind](../claims/inhibition-explains-largest-variance-affective-tom.md) [~W]
+- [Performance on inhibitory control measures improves with age, with some tasks reaching performance plateaus beginning around 4 years of age](../claims/inhibitory-control-performance-improves-plateaus-age-4.md) [+W]
+- [Inhibition accuracy in the Hearts and Flowers incongruent block is positively correlated with fluid intelligence in kindergarten children](../claims/inhibition-accuracy-correlates-fluid-intelligence-kindergarten.md) [+W]
+- [Task-demand clusters differ in useful age ranges, with perceptual inhibition developing earliest and motivational inhibition latest](../claims/inhibitory-control-task-demands-developmental-ordering.md) [+W]
+- [Between groups, the intervention showed a moderate inhibitory-control advantage at 4 weeks (p = .052) and a large advantage at 4 months (η2 = .135), with a significant main effect of time for both groups](../claims/inhibitory-control-between-group-advantage-4-months.md) [~W]
+- [The Shape Stroop, Bear/Dragon, and Tower tasks showed a pronounced drop in average performance from about 25 to 30 months of age, possibly reflecting systematic missingness rather than declining ability](../claims/inhibitory-tasks-performance-drop-25-30-months.md) [~W]
+- [Response inhibition shows a small negative association with reading fluency (r = −.15) in a single study](../claims/inhibition-reading-fluency-small-negative.md) [~W]
+- [Inhibitory control showed insignificant correlations with reading and early mathematics except kindergarten word problems](../claims/inhibitory-control-null-correlations-reading-math.md) [~W]
+- [Associations between inhibition and word reading are task-dependent, ranging from negligible to large (r = .59)](../claims/inhibition-word-reading-task-dependent.md) [~W]
+- [Interference suppression assessed at 28–36 months is the only significant predictor of early orthographic knowledge at 4–6 years in the full regression model](../claims/interference-suppression-predicts-early-orthographic-knowledge.md) [+W]
+- [Working memory capacity is significantly smaller in lower-SES than higher-SES adolescents](../claims/lower-ses-smaller-working-memory-capacity.md) [~W]
+- [Internet-addicted adolescents show deficient response inhibition, failing to recruit the frontal-basal ganglia pathway engaged by controls](../claims/internet-addiction-deficient-response-inhibition.md) [~W]
+- [Low working memory span individuals are more affected by Stroop task lapses and report more task-related mind-wandering](../claims/low-span-staying-on-task-deficits.md) [~W]
+- [Children with low initial effortful control showed rising trajectories to above the mean only when their mothers were consistently contingent](../claims/low-effortful-control-trajectories-contingent-mothers.md) [+W]
+- [About 20% of children (later developers) make few self-regulation gains in preschool and lag peers by six months to a year and a half](../claims/later-developers-few-preschool-gains.md) [~W]
+- [Longitudinal physical activity programs have a positive effect on executive functions in preadolescent children (g = 0.24)](../claims/longitudinal-physical-activity-improves-executive-functions.md) [+W]
+- [Children with lower pre-test executive function and social cognition skills improve more, while attendance, teacher involvement, age and school year do not predict gains](../claims/lower-pretest-skills-greater-gains-moderators-null.md) [~M]
+- [Instructions to maintain feelings of disgust do not disrupt working memory performance in either age group](../claims/maintaining-disgust-no-performance-cost.md) [~W]
+- [MAKQ strategy knowledge, but not the self-perception scales, converges with behavioural inhibitory control on the Go-No-Go task](../claims/makq-strategy-knowledge-inhibitory-control.md) [+W]
 
 ## Related Theories
 

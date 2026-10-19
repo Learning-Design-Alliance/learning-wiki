@@ -12,7 +12,7 @@ generated:
 # Critical Thinking
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 17 claims (12 for, 3 mixed, 2 against) · 17 studies (4 causal, 4 review, 4 associational, 2 qualitative, 2 design, 1 quant-synthesis), `q1`–`q3` · 5 of 17 report an effect size · 17 claims rest on one study
+> **Evidence** · 18 claims (13 for, 3 mixed, 2 against) · 17 studies (4 causal, 4 review, 4 associational, 2 qualitative, 2 design, 1 quant-synthesis), `q1`–`q3` · 5 of 17 report an effect size · 18 claims rest on one study
 
 ## Description
 Critical thinking requires both a skill (analyzing the reliability and validity of information) and a disposition to actually apply that skill, in principle across any realm of knowledge, not only a single subject or topic (Halpern, 2003; Williams, Oliver, & Stockade, 2004). A critical thinker is not simply someone with a negative or fault-finding attitude; rather, the critical thinker asks key questions, evaluates evidence for ideas, reasons about problems logically and objectively, and expresses ideas and conclusions clearly and precisely — and can carry these habits of mind across more than one domain of life or knowledge.
@@ -57,6 +57,7 @@ Second, who should be taught critical thinking. Surveys have found that teachers
 - [Students' AI workflows shifted toward guided, step-by-step use and more sophisticated prompting and critical evaluation over the semester](../claims/ai-workflows-shifted-toward-guided-use.md) [+W]
 - [ChatGPT-enhanced instruction improved Knowing, Applying and Reasoning sub-skills significantly, each with a large printed effect size](../claims/chatgpt-gains-knowing-applying-reasoning-subskills.md) [+W]
 - [Critical thinking skills can be significantly developed in early primary (grades 1-4), a level where evidence was scarce](../claims/critical-thinking-developable-early-primary.md) [+W]
+- [GenAI use is positively associated with self-reported critical-thinking disposition among business students only in the adjusted structural model, with a near-zero zero-order correlation](../claims/genai-use-adjusted-positive-ct-disposition.md) [+W]
 
 ## The evidence by question
 - *Does teaching critical thinking explicitly, rather than expecting it to emerge from other activities, improve learners' critical thinking, and does it transfer beyond the subject it was taught in?* [Direct CT instruction combined with modeling, coaching, and discussion yields more consistent CT improvement than implicit teaching strategies](../claims/direct-ct-instruction-outperforms-implicit-strategies.md) [+M]

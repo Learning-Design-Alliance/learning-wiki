@@ -19,7 +19,7 @@ sources:
 # Cognitive Styles
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 22 claims (2 for, 15 mixed, 5 against) · 14 studies (6 review, 4 causal, 3 theoretical, 1 associational), `q1`–`q3` · 4 of 14 report an effect size · 20 claims rest on one study
+> **Evidence** · 23 claims (2 for, 16 mixed, 5 against) · 15 studies (6 review, 5 causal, 3 theoretical, 1 associational), `q1`–`q3` · 4 of 15 report an effect size · 21 claims rest on one study
 
 ## Conditional relationship
 
@@ -138,6 +138,10 @@ For example, a field-dependent-seeming secondary student may want to do well in 
 The expectation against matching should weaken if a study using the crossover design, with learners classified by field dependence or reflectivity and randomly assigned to matched or mismatched tasks, found that matched learners learned more on a common measure. The "build the missing approach" proposal should be dropped or narrowed if supported practice in the less-used approach produced no better task performance than ordinary practice, or if gains appeared only while the frame or check was present. If style measures turned out to be mostly ability or language measures for a given population, the observation step should rely on task attempts alone. Do not protect the model by calling every failure "the habit is too fixed" after the fact.
 
 Matching, building an approach, compensating with a job aid, and a change in the measured style are separate claims. The present evidence establishes none of the session counts, timings or fading points above.
+
+## Claims
+
+- [Interactions between learner characteristics and dialogue format for learning outcomes showed only trends toward significance, not significant effects](../claims/learning-outcome-interactions-trend-only.md) [~W]
 
 ## Related Principles
 - [Effective teaching requires compatibility among teaching style, learning style, content emphasis, and educational environment](personalization.md)

@@ -13,7 +13,7 @@ generated:
 # Visual Imagery
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 12 claims (7 for, 4 mixed, 1 against) · 22 studies (12 causal, 7 review, 2 quant-synthesis, 1 theoretical), `q1`–`q4` · 3 of 22 report an effect size · 8 claims rest on one study
+> **Evidence** · 14 claims (8 for, 4 mixed, 2 against) · 23 studies (12 causal, 8 review, 2 quant-synthesis, 1 theoretical), `q1`–`q4` · 3 of 23 report an effect size · 10 claims rest on one study
 
 ## Description
 Visual imagery is the deliberate formation of mental pictures to represent verbal or abstract content — scenes, spatial layouts, processes, or relationships. As an instructional element, it either prompts learners to generate their own images or supplies carefully chosen visuals that learners connect to the material, engaging both verbal and pictorial processing channels.
@@ -59,6 +59,8 @@ Imagery-based encoding improves recall and comprehension because information sto
 - [Congruent pictures paired with text facilitate reading comprehension better than text alone or pictures alone](../claims/congruent-pictures-with-text-facilitate-comprehension.md) [+W]
 - [In Chun and Plass's CyberBuch studies, the text + picture annotation group significantly outperformed text-definition and text + video groups on a vocabulary test](../claims/chun-plass-text-picture-outperformed-text-video.md) [+W]
 - [Subjects given image instructions include more nondiagnostic features in their drawings of concepts than subjects given discriminate instructions](../claims/drawings-image-group-more-nondiagnostic-features.md) [-W]
+- [Explicit transfer instructions, in which trainees discuss how trained strategies could apply to a new task, produced reliable transfer of imagery and sentence-generation training to unpracticed text learning in older adults](../claims/explicit-transfer-instructions-enable-strategy-transfer.md) [+W]
+- [Imagery instructions yield more isolated concepts than discriminating-feature instructions, as shown by greater influence of nondiagnostic features on categorization accuracy](../claims/image-instructions-isolated-concepts-nondiagnostic-features.md) [-W]
 
 ## The evidence by question
 

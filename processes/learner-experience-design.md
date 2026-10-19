@@ -14,7 +14,7 @@ grain_size: course
 # Learner Experience Design (LXD)
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 12 claims (6 for, 5 mixed, 1 against) · 19 studies (8 causal, 4 design, 3 quant-synthesis, 2 review, 2 theoretical), `q1`–`q4` · 4 of 19 report an effect size · 8 claims rest on one study
+> **Evidence** · 14 claims (8 for, 5 mixed, 1 against) · 21 studies (9 causal, 5 design, 3 quant-synthesis, 2 review, 2 theoretical), `q1`–`q4` · 4 of 21 report an effect size · 10 claims rest on one study
 
 ## Description
 Learner Experience Design imports the methods of user-centred design — user research, personas and scenarios, prototyping, usability testing, heuristic evaluation — into instructional design, and makes one substantive claim while doing it: **usability is not polish applied after the instruction, it is part of the instruction.**
@@ -72,6 +72,8 @@ LXD inherits the empathize-and-test moves from [Design Thinking](design-thinking
 - [Several teachers found the eBooks not user friendly, citing issues with images covering the text.](../claims/hero-elementary-ebooks-not-user-friendly-images-covering-text.md) [-W]
 - [Usability testing with educators and developers identified chatbot strengths for independent challenge-solving but limited feedback for low-participation learners](../claims/usability-test-strengths-and-limits.md) [~W]
 - [Qualitative analysis confirms the agent can identify confusing lesson content and provide actionable feedback for designers](../claims/agent-identifies-confusing-content-actionable-feedback.md) [+W]
+- [Providing a learner profile shifts an LLM's selected instructional strategies from content-focused to learner-centered](../claims/learner-profile-shifts-llm-instructional-strategy-selection.md) [+W]
+- [In directional manual testing, reward hardening halved unusable interactive pages (25%→10%) and eliminated page-entry failures (2/24→0/30)](../claims/human-evaluation-interactivity-hardening.md) [+W]
 
 #### Supporting
 - [Cognitive Load Reduction Improves Learning](../claims/cognitive-load-reduction-improves-learning.md) [+S] — the mechanism the whole argument rests on

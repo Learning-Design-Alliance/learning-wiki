@@ -14,7 +14,7 @@ grain_size: course
 # AI Tutoring
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 263 claims (130 for, 88 mixed, 45 against) · 186 studies (63 causal, 40 review, 22 design, 22 theoretical, 18 quant-synthesis, 11 qualitative, 10 associational), `q1`–`q4` · 39 of 186 report an effect size · 249 claims rest on one study
+> **Evidence** · 293 claims (142 for, 105 mixed, 46 against) · 203 studies (73 causal, 42 review, 24 theoretical, 23 design, 19 quant-synthesis, 11 associational, 11 qualitative), `q1`–`q4` · 43 of 203 report an effect size · 279 claims rest on one study
 
 ## Description and scope
 
@@ -271,6 +271,36 @@ This pattern is scoped to the tutor's moves within tasks and the handoff to peop
 - [Open ChatGPT support increases college students' final decision confidence relative to independent decision-making, and reflection attenuates the boost](../claims/chatgpt-support-increases-final-confidence.md) [~W]
 - [Adaptive multi-turn interactions substantially amplify LLM vulnerabilities to conventional safety risks in educational contexts](../claims/dynamic-multi-turn-amplifies-conventional-risks.md) [~W]
 - [DTR (Deep-Thinking Ratio) does not predict tutoring quality despite predicting math accuracy](../claims/dtr-does-not-predict-tutoring-quality.md) [~W]
+- [Adding student-emotion information to LLM tutor prompting produces more desirable pedagogical qualities across most evaluated dimensions, with larger models benefiting most](../claims/emotion-aware-prompting-improves-pedagogical-quality.md) [+W]
+- [Responsiveness and helpfulness trade off: always-answer adapters score lowest on helpfulness while withholding adapters score highest](../claims/educlaw-bench-responsiveness-helpfulness-tradeoff.md) [~W]
+- [In a real programming course, students with an eliciting LLM agent on a learning dashboard wrote more reflection messages than students with a telling agent](../claims/elicit-agent-more-reflection-messages-lad.md) [+W]
+- [The association between early reliance and negative impact strengthens as evaluation literacy increases](../claims/early-reliance-evaluation-literacy-interaction.md) [~W]
+- [Engage-to-Unlock participants incorporated less verbatim AI-response text into final essays than Standard Chatbot participants](../claims/engage-to-unlock-lower-ai-text-coverage.md) [+W]
+- [Exploratory, non-significant pattern suggests students with stronger learner profiles may show larger AI-assisted exam gains](../claims/exploratory-profile-interaction-ai-gains.md) [~W]
+- [Exam environment critically moderates GenAI learning effects: significant large gains when GenAI is permitted during assessment (g = 0.76) versus non-significant slightly negative effects when it is not (g = -0.06).](../claims/exam-environment-moderates-genai-learning-effects.md) [~W]
+- [Providing explanations widens the human–AI gap in perceived fairness, with a larger fairness improvement in the teacher condition](../claims/explanations-widen-fairness-gap.md) [~W]
+- [Providing all students with instant personalised guidance at the same time is a challenge for flipped learning that ChatGPT-FLGA was designed to address](../claims/flipped-learning-personalised-guidance-gap.md) [+W]
+- [Full reasoning traces impaired task performance relative to both answer-only and summary-trace conditions in AI-assisted LSAT reasoning](../claims/full-traces-impair-ai-assisted-reasoning-performance.md) [-W]
+- [Feedback source (human tutor vs GPT-4) had no significant effect on ENL students' posttest writing scores](../claims/feedback-source-no-posttest-effect-enl.md) [~W]
+- [Final-test score distributions concentrated differently by group: the ChatGPT class peaked at interval 79-83 (32.26% of students) while the control class peaked at 56-61 (25.81%)](../claims/frequency-distribution-experimental-79-83-control-56-61.md) [+W]
+- [An automated agent responding to detected gaming-the-system reduced gaming by half and improved gaming students' learning](../claims/gaming-agent-reduced-gaming-improved-learning.md) [+W]
+- [Six AI tutors individually matched human tutoring, with Gemma 4 31B equivalent at 918× lower cost per percentage point of learning gain](../claims/gemma-4-31b-equivalent-human-tutoring-918x-cheaper.md) [+W]
+- [Under blind conditions, students rated GenAI feedback more positively than tutor-generated feedback, with a statistically significant difference only on Genuineness favouring GenAI](../claims/genai-feedback-rated-higher-genuineness-blind.md) [~M]
+- [GenAI access reduces perceived difficulty of the assisted reasoning task](../claims/genai-reduces-perceived-task-difficulty.md) [~W]
+- [AI-generated (GPT-4) feedback produced no greater linguistic progress than human tutor feedback among ENL students over six weeks](../claims/gpt4-feedback-no-superior-linguistic-progress-enl.md) [~W]
+- [Gradient-based GRPO alignment of a 7B model outperforms prompt engineering on scaffolding effectiveness (0.633 vs 0.400) despite the smaller backbone](../claims/grpo-parameter-training-beats-prompt-engineering-socratic.md) [+W]
+- [Hint Factory MDP-generated hints gave correct next-step hints over 80% of the time and a pilot showed students solved more logic proofs with hints](../claims/hint-factory-mdp-hints-effective.md) [+W]
+- [Intelligent Novice error-correction tutoring produced better delayed transfer and immediate isomorphic performance than the Expert tutor in spreadsheet learning](../claims/intelligent-novice-error-correction-better-transfer.md) [~W]
+- [Students who preferred human tutor feedback cited face-to-face interaction, engagement, follow-up questions, and speaking practice](../claims/human-feedback-preference-face-to-face-reasons.md) [~W]
+- [Against no-treatment controls, ITS produce a large statistically significant effect (g = 1.23) under a random-effects model](../claims/its-versus-no-treatment-controls-g-1-23.md) [+W]
+- [Interpretable, well-specified AI mechanisms tend to produce clearer learning benefits than technically sophisticated but pedagogically underspecified ones](../claims/interpretable-ai-mechanisms-clearer-benefits.md) [+W]
+- [The prompting intervention did not reduce general propagation of user errors into AI advice](../claims/intervention-did-not-reduce-error-propagation.md) [~W]
+- [Learners selectively filtered and adopted AI-generated feedback while maintaining pedagogical agency](../claims/learners-selectively-filter-ai-feedback-agency.md) [~W]
+- [LLM use for seeking additional explanations does not significantly impact final grades](../claims/llm-explanations-no-significant-grade-impact.md) [~W]
+- [The same learner context supplied to an AI tutor produces qualitatively different, persona-aligned explanations of the same problem](../claims/learner-context-personalizes-ai-tutor-explanations.md) [+W]
+- [Llama Guard models misclassify subtle, context-dependent unsafe education prompts (e.g., exam-answer and cheating requests) as safe](../claims/llama-guard-failure-cases-subtle-education-risks.md) [~W]
+- [Longitudinal studies of trust and reliance in AI advice examine whether users rely appropriately over time but not whether independent reasoning capacity is maintained](../claims/longitudinal-trust-studies-omit-skill-outcomes.md) [~W]
+- [A combination of LSA, frequency-weighted word overlap, and regular expressions is AutoTutor's best semantic matcher; syntactic parsers proved not useful](../claims/lsa-word-overlap-regex-best-semantic-matcher.md) [~W]
 
 ## Related Patterns
 

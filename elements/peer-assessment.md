@@ -18,7 +18,7 @@ sources:
 # Peer Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 11 claims (9 for, 2 mixed) · 12 studies (4 associational, 3 causal, 3 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 4 of 12 report an effect size · 8 claims rest on one study
+> **Evidence** · 12 claims (9 for, 3 mixed) · 13 studies (5 associational, 3 causal, 3 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 4 of 13 report an effect size · 9 claims rest on one study
 
 ## Description
 Peer assessment is the element in which learners evaluate the work or reasoning of peers against shared criteria. It is useful when the goal is both better feedback for the work and stronger learner judgment about quality.
@@ -52,6 +52,7 @@ Peer assessment is the element in which learners evaluate the work or reasoning 
 - [Cognitive feedback benefits assessors rather than assessees, and weak students do not benefit from receiving more feedback](../claims/cognitive-feedback-benefits-assessors-not-assessees.md) [~W]
 - [Giving feedback that identifies problems in peers' work is a significant predictor of assessors' own project performance](../claims/giving-problem-identification-feedback-predicts-assessor-performance.md) [+W]
 - [Giving suggestions to peers is a significant predictor of assessors' own project performance](../claims/giving-suggestions-predicts-assessor-performance.md) [+W]
+- [Students rated peers' work from their own country 3.6% higher than work from elsewhere](../claims/in-group-favoritism-peer-grading-country.md) [~W]
 
 ## The evidence by question
 

@@ -17,7 +17,7 @@ sources:
 # Design service scholarships that cover a substantial portion of preparation costs, with stable multiyear funding and linked data systems
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report's policy recommendations for service scholarship programs: benchmark funding so the grant "covers a substantial portion of candidates' preparation costs"; ensure stable, multiyear funding and consistent administration so preparation programs can promote and implement the program; support implementation in the field including timely disbursement and engagement of local education agencies in hiring; apply lessons learned to new supports such as student teaching stipends; and strengthen data collection through inter-agency data sharing.
@@ -37,6 +37,10 @@ The report's policy recommendations for service scholarship programs: benchmark 
 
 ### Target Learning Goals
 - Strengthening the educator pipeline by recruiting, preparing, and retaining fully prepared teachers in high-need schools and subjects
+
+## Claims
+
+- [Golden State Teacher Grant recipients reported the scholarship made teaching financially feasible and led them to plan longer stays in high-need schools](../claims/gstg-made-teaching-financially-feasible.md) [+W]
 
 ## Related Strategies
 

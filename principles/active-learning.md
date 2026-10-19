@@ -63,7 +63,7 @@ sources:
 # Active Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 38 claims (16 for, 21 mixed, 1 against) · 36 studies (10 causal, 7 associational, 6 quant-synthesis, 5 review, 4 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 5 of 36 report an effect size · 31 claims rest on one study
+> **Evidence** · 40 claims (18 for, 21 mixed, 1 against) · 38 studies (11 causal, 8 associational, 6 quant-synthesis, 5 review, 4 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 5 of 38 report an effect size · 33 claims rest on one study
 
 ## Conditional relationship
 
@@ -169,6 +169,8 @@ A course-end exam advantage, a narrowed achievement gap, durable retention, tran
 
 Every claim this page cites is in the model above or under Further evidence (re-read 2026-10-19).
 - [Student self-determination was infrequent and more common during Active, Constructive, and Interactive tasks than Passive tasks](../claims/student-self-determination-rare-higher-in-active-tasks.md) [~W]
+- [Predominantly lecture-based courses are associated with less engagement, while class discussion and group work time are associated with more](../claims/lecture-decreases-discussion-groupwork-increase-engagement.md) [+W]
+- [The authors conclude that students in Just-in-Time Teaching courses better understand Newton's Third Law after instruction than students in traditional lecture courses](../claims/jitt-better-newtons-third-law-understanding.md) [+W]
 
 ## Related Principles
 - [Guided Practice](guided-practice.md)

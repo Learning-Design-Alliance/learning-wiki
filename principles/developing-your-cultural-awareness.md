@@ -26,7 +26,7 @@ sources:
 # Developing Your Cultural Awareness
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 20 claims (12 for, 8 mixed) · 25 studies (8 causal, 7 review, 3 quant-synthesis, 3 associational, 3 qualitative, 1 theoretical), `q1`–`q4` · 1 of 25 report an effect size · 15 claims rest on one study
+> **Evidence** · 21 claims (13 for, 8 mixed) · 26 studies (8 causal, 8 review, 3 quant-synthesis, 3 associational, 3 qualitative, 1 theoretical), `q1`–`q4` · 1 of 26 report an effect size · 16 claims rest on one study
 
 ## Conditional relationship
 
@@ -147,6 +147,7 @@ A changed scenario response, a changed tally, a changed learner experience and a
 - [Racial differences in suspension rates reflect policies and adult biases, not differences in behavior](../claims/suspension-disparities-reflect-policies-and-adult-biases.md) [+W]
 - [Simply inserting a name indicating Turkish-origin background produced less favorable judgments of otherwise identical student descriptions](../claims/name-activates-ethnic-stereotyping-judgments.md) [+W]
 - [White teachers' deficit thinking about Black students produces a negative campus racial climate and unfriendly teacher-student relationships](../claims/deficit-thinking-negative-climate-relationships.md) [+W]
+- [Equity-oriented leadership preparation through applied and reflective learning can deepen aspiring principals' understanding of bias and equitable practices](../claims/equity-oriented-principal-preparation.md) [+W]
 
 ## Related Principles
 

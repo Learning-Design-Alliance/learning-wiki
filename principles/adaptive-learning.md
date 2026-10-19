@@ -35,7 +35,7 @@ sources:
 # Adaptive Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 57 claims (30 for, 23 mixed, 4 against) · 57 studies (22 causal, 14 review, 7 design, 6 quant-synthesis, 4 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 10 of 57 report an effect size · 50 claims rest on one study
+> **Evidence** · 58 claims (30 for, 24 mixed, 4 against) · 58 studies (22 causal, 14 review, 7 design, 6 quant-synthesis, 5 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 10 of 58 report an effect size · 51 claims rest on one study
 
 ## Conditional relationship
 
@@ -176,6 +176,7 @@ Within-system performance, aligned achievement, standardised achievement, delaye
 - [Adult education programs used product-generated learner data minimally, mostly tracking usage time rather than diagnosing struggles](../claims/adult-ed-minimal-learner-data-use.md) [-W]
 - [The DRL policy produced a significantly different scaffolding distribution than Control and BKT, favoring Guided examples (60%) and avoiding Buggy examples (4%)](../claims/drl-policy-favors-guided-examples-distribution.md) [+W]
 - [In a classroom study of the G4L system, the Bayesian knowledge propagation algorithm demonstrated the highest knowledge gains, and log-data analysis revealed significant differences in self-regulated learning patterns between learners](../claims/bn-highest-knowledge-gains-g4l.md) [~W]
+- [Individualized Knowledge Tracing parameters fit student data significantly better and change mastery-learning practice decisions for many students](../claims/individualized-kt-parameters-change-practice-decisions.md) [~W]
 
 ## Related Principles
 - [Cognitive Load Management](cognitive-load-management.md) — adaptation is the primary mechanism for keeping intrinsic load matched to learner expertise over time

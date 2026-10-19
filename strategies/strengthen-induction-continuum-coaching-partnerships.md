@@ -17,7 +17,7 @@ sources:
 # Strengthen administrator induction by integrating it into a continuum of supports, mandating coach training and consistent coaching intervals, building program–district partnerships, and using CalAPA results to inform coaching
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report's policy recommendations aim to tighten induction's connection to other professional learning. It recommends districts "integrate induction more clearly into a continuum of supports for new administrators," that the CTC ensure "all coaches are trained and all participants receive consistent coaching" (e.g., every 2 weeks to meet the 40-hour minimum), that non-district programs pursue program–district partnerships to reflect local priorities, and that programs use California Administrator Performance Assessment results to inform individual induction plans so they are "based on identified rather than perceived needs." It also recommends the CTC publicize program structures and costs, tailor programming to administrator roles, and bolster funding so costs are not shouldered by participants and coaches.
@@ -41,6 +41,10 @@ The report's policy recommendations aim to tighten induction's connection to oth
 
 ### Affordances
 - [California Job Embedded Administrator Induction Model](../products/californias-job-embedded-administrator-induction-model.md)
+
+## Claims
+
+- [Induction program administration, structures, and funding vary widely across California, with advertised costs from $0 to $10,000 and no dedicated state funding](../claims/induction-program-variation-and-funding-challenges.md) [~W]
 
 ## Related Strategies
 

@@ -17,7 +17,7 @@ sources:
 # Informational (error-estimation) account of self-controlled feedback benefits
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 9 claims (5 for, 4 mixed) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 9 claims rest on one study
+> **Evidence** · 10 claims (6 for, 4 mixed) · 2 studies (2 causal), `q3` · 1 of 2 report an effect size · 10 claims rest on one study
 
 ## Description
 The article contrasts two explanations for why self-controlled knowledge of results (KR) aids motor learning. The motivational explanation says self-control "satisfies the basic psychological needs of autonomy and competence"; the information processing perspective says benefits are driven by "performance-dependent KR strategies". The authors conclude that error estimation, available when the KR decision follows the movement, is the more critical mechanism.
@@ -49,6 +49,7 @@ The article contrasts two explanations for why self-controlled knowledge of resu
 - [On a motor transfer test, self-controlled knowledge-of-results groups estimated their outcomes more accurately than yoked groups, and among self-controlled groups Self-After and Self-Both were more accurate than Self-Before.](../claims/self-controlled-kr-groups-estimate-transfer-outcomes-more-accurately-than-yoked.md) [+W]
 - [Learners allowed to make a knowledge-of-results decision before a trial and revise it after (Self-Both) mostly kept their original choice but sometimes changed it after seeing their own performance.](../claims/learners-given-two-kr-decisions-mostly-keep-their-first-choice.md) [~W]
 - [During motor practice with knowledge of results, all groups reduced absolute error across blocks, and groups whose KR decision fell after the trial were more accurate during practice than groups whose decision fell before it, independent of choice.](../claims/motor-practice-accuracy-improves-across-blocks-and-favors-after-decision-groups.md) [~W]
+- [Learners' self-assessments of response correctness are imperfect, with asymmetric error rates for incorrect and correct responses](../claims/imperfect-correctness-self-assessment.md) [+W]
 
 ## Related Theories
 - [Self Determination Theory](self-determination-theory.md)

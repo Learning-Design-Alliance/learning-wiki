@@ -79,7 +79,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 86 claims (34 for, 45 mixed, 7 against) · 61 studies (17 causal, 14 review, 12 quant-synthesis, 9 qualitative, 5 theoretical, 3 design, 1 associational), `q1`–`q4` · 15 of 61 report an effect size · 81 claims rest on one study
+> **Evidence** · 87 claims (34 for, 46 mixed, 7 against) · 62 studies (17 causal, 14 review, 12 quant-synthesis, 9 qualitative, 5 theoretical, 4 design, 1 associational), `q1`–`q4` · 15 of 62 report an effect size · 82 claims rest on one study
 
 ## Conditional relationship
 
@@ -277,6 +277,7 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [In a rule-based simulation game with narrow scope and high distance, facilitator interventions were predominantly first- and second-order and participant learning was mainly first- and second-order](../claims/rule-based-sg-yields-first-second-order-learning.md) [~W]
 - [Virtual labs showed a limitation in helping students transfer what they learned from teacher demonstration to new inquiry contexts](../claims/virtual-lab-transfer-from-demonstration-limited.md) [-W]
 - [The advantage of simulation games shrinks or reverses when the comparison group learns via active instructional methods](../claims/active-comparison-instruction-reverses-simulation-game-advantage.md) [~M]
+- [Students treated the genAI avatar as a sophisticated question base rather than a virtual patient, using predominantly closed-ended, efficiency-focused questioning](../claims/genai-avatar-treated-as-question-base.md) [~W]
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md) — simulations provide structured experiences that later reflection can interpret.

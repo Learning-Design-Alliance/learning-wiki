@@ -13,7 +13,7 @@ generated:
 # Integration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (7 for, 1 mixed, 1 against) · 16 studies (5 review, 3 causal, 3 quant-synthesis, 3 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 2 of 16 report an effect size · 5 claims rest on one study
+> **Evidence** · 10 claims (7 for, 2 mixed, 1 against) · 17 studies (5 review, 4 causal, 3 quant-synthesis, 3 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 3 of 17 report an effect size · 6 claims rest on one study
 
 ## Description
 Integration is the phase in which learners consolidate new knowledge by connecting it to what they already know, to their personal and professional experience, and to situations where they will apply it in the future. It is the fourth of [Merrill's First Principles](../patterns/4cid-four-component-instructional-design.md): learning is promoted when learners integrate the new knowledge into their everyday world through reflection, discussion, and public demonstration.
@@ -58,6 +58,7 @@ Integration activities convert learning from an isolated instructional event int
 - [Educators rarely facilitated connections between playlist activities or to students' lives; introductions and debriefings focused on logistics rather than science content](../claims/educators-rarely-facilitated-connections-between-playlists.md) [-W]
 - [Students' postings of personal experiences in discussion forums support, rather than undermine, knowledge building](../claims/personal-experiences-support-knowledge-building.md) [+W]
 - [Internalizing wiki information can yield emergent knowledge that was in neither the person's prior knowledge nor the wiki](../claims/emergent-knowledge-from-internalization.md) [~W]
+- [Greater time and effort invested in the task correlate with better integration and smaller calibration error](../claims/engagement-correlates-integration-calibration.md) [~W]
 
 ## The evidence by question
 - *Do specific, guided prompts produce better reflection and learning than generic or free reflection?* [Reflective Practice Improves Outcomes When Structured](../claims/reflective-practice-improves-outcomes-when-structured.md) [+S]

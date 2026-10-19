@@ -33,7 +33,7 @@ sources:
 # Cognitive Load Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 66 claims (42 for, 16 mixed, 8 against) · 57 studies (26 causal, 11 review, 10 quant-synthesis, 9 theoretical, 1 design), `q1`–`q4` · 11 of 57 report an effect size · 56 claims rest on one study
+> **Evidence** · 74 claims (44 for, 22 mixed, 8 against) · 61 studies (29 causal, 12 review, 10 quant-synthesis, 9 theoretical, 1 design), `q1`–`q4` · 11 of 61 report an effect size · 64 claims rest on one study
 
 ## Description
 Cognitive Load Theory (CLT) proposes that learning is constrained by the limited capacity of working memory. When the total cognitive demand of a learning task exceeds that capacity, learning breaks down — not because the learner lacks ability, but because the instructional design has exhausted the resources available for processing. The theory distinguishes three sources of load and argues that effective instruction reduces unnecessary load to free capacity for the mental work that actually builds schema.
@@ -134,6 +134,14 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - [The definitions of cognitive load used in cognitive load theory are not fully equivalent](../claims/cognitive-load-definitions-not-equivalent.md) [~W]
 - [A dual intrinsic/extraneous load framework is sufficient, non-redundant, and makes the boundaries of cognitive load theory transparent](../claims/dual-intrinsic-extraneous-framework-sufficient.md) [~W]
 - [Dual-task (secondary-task) measures offer concurrent cognitive load assessment but are rarely used](../claims/dual-task-concurrent-load-measurement.md) [~W]
+- [Element interactivity underlies extraneous cognitive load as well as intrinsic cognitive load](../claims/element-interactivity-underlies-extraneous-load.md) [~W]
+- [Germane cognitive load was added to the cognitive load framework on theoretical grounds rather than because of empirical results requiring the concept](../claims/germane-load-added-on-theoretical-not-empirical-grounds.md) [~W]
+- [Germane cognitive load can be defined in terms of intrinsic cognitive load, associating it with element interactivity](../claims/germane-load-defined-via-intrinsic-load.md) [+W]
+- [Learning with erroneous examples often imposed higher cognitive load than correct examples or problem-solving](../claims/errex-higher-cognitive-load.md) [~W]
+- [Extraneous cognitive load did not mediate the detrimental effect of seductive details in this online study](../claims/ecl-mediation-not-replicated-online.md) [~W]
+- [Both effects are claimed to rely on equivalent changes in element interactivity, with the changes induced by different factors](../claims/equivalent-element-interactivity-changes-both-effects.md) [~W]
+- [Self-reported intrinsic and germane cognitive load correlate positively among college students solving algebra problems](../claims/intrinsic-and-germane-cognitive-load-correlate-positively-in-algebra.md) [~W]
+- [Working memory load degrades discrimination accuracy and slows responses in youth](../claims/load-degrades-discrimination-and-slows-responses.md) [+W]
 
 ## The evidence by question
 

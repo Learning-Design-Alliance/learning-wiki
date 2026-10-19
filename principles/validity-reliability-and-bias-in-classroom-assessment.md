@@ -35,7 +35,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 185 claims (81 for, 90 mixed, 14 against) · 144 studies (50 associational, 37 design, 19 review, 19 theoretical, 14 causal, 3 qualitative, 2 quant-synthesis), `q1`–`q3` · 12 of 144 report an effect size · 179 claims rest on one study
+> **Evidence** · 204 claims (88 for, 102 mixed, 14 against) · 158 studies (55 associational, 42 design, 21 review, 19 theoretical, 16 causal, 3 qualitative, 2 quant-synthesis), `q1`–`q3` · 13 of 158 report an effect size · 198 claims rest on one study
 
 ## Conditional relationship
 
@@ -283,6 +283,25 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [Six closed-model configurations grade at or below the human inter-grader floor of 2.61/35 on the CV exam, with the best reaching MAE 1.64](../claims/closed-llm-graders-below-human-floor.md) [+W]
 - [AI-text detectors misclassify authentic TOEFL essays by non-native English speakers at a mean false-positive rate of 61.3% across seven detectors, far more often than native-speaker essays](../claims/detector-61-3-percent-false-positives-non-native-toefl.md) [+W]
 - [The eight Barkley Current Behavior Scale items chosen for DESR show high internal consistency](../claims/desr-eight-item-scale-high-internal-consistency.md) [+W]
+- [Higher item noise, shared items among conceptually nested energy LOs, and smallest sample size explain the EMCS energy LOs' low classification accuracy](../claims/energy-lo-low-accuracy-sources.md) [~W]
+- [GenAI models' grades differ significantly across models, with GPTo1 grading more leniently than Llama2, Mistral7B and Cohere](../claims/genai-grade-differences-wilcoxon.md) [~W]
+- [Freshman-year GPA alone correctly predicts about 80 percent of on-time high school graduates](../claims/freshman-gpa-predicts-80-percent-ontime-graduation.md) [~W]
+- [Higher-scoring students tend to be more reliable graders (except the very best), and students are least biased when grading peers with similar scores](../claims/grader-grade-relates-to-grading-reliability.md) [~W]
+- [Giving students feedback about their grading bias increased their subsequent grading accuracy](../claims/grading-bias-feedback-increases-accuracy.md) [+W]
+- [Among students with the same ACT scores (21-23), college graduation rates are 77 percent for those with a high school GPA of 3.5 or higher versus 40 percent for those with a GPA of 2.0-2.4](../claims/gpa-outpredicts-act-college-graduation.md) [+W]
+- [Subscales of the adapted Internet Skills Scale show acceptable internal consistency, lowest for the Operational subscale](../claims/internet-skills-scale-reliability-omega.md) [~W]
+- [HTKS scores show validity evidence for first graders, associating with teacher-rated social skills and problem behavior](../claims/htks-validity-first-graders.md) [+W]
+- [Stealth assessment facets show good internal consistency (Cronbach's alpha = 0.76) while MicroDYN reliabilities were low in this middle-school sample](../claims/internal-consistency-stealth-versus-microdyn.md) [+W]
+- [The overall Kindergarten Readiness Assessment score predicts grade 3 achievement about as well as combinations of its subscores](../claims/kra-overall-score-predicts-grade3-as-well-as-subscores.md) [~W]
+- [Administering the Kindergarten Readiness Assessment to a subset of students per classroom greatly reduces precision of schools' K-3 growth estimates](../claims/kra-subset-administration-greatly-reduces-growth-precision.md) [~W]
+- [LLM-generated assessment conversations may reveal more information than intended and present scoring challenges compared with pre-structured conversations](../claims/llm-cba-information-leakage-scoring-challenge.md) [~W]
+- [Systematic underestimation of human scores is the dominant bias trend across LLM essay scoring, with some models also compressing scores into a narrow range](../claims/llm-essay-scoring-systematic-underestimation.md) [~W]
+- [LLM agreement with human examiners is limited in fast mode and improves in reasoning or thinking modes](../claims/llm-fast-mode-limited-thinking-mode-better-agreement.md) [~W]
+- [Intuition ratings are unaffected by RAPM item difficulty, indicating stable strategy across items](../claims/intuition-unaffected-rapm-difficulty.md) [~W]
+- [LLM-as-a-Judge scores correlate with blinded human expert judgments, more strongly for Medical Narrative Generation than Story Direction](../claims/llm-judge-correlates-human-experts-medgame.md) [+W]
+- [The majority of published RCR education evaluations use measures without reported validation evidence](../claims/majority-rcr-evaluations-unvalidated-measures.md) [+W]
+- [The MAKQ dimensions show acceptable internal consistency across both studies (alphas 0.77-0.93)](../claims/makq-reliability-alphas.md) [+W]
+- [Logistic regression can identify the ELP score at which students have a probability of 0.5 of being proficient on the academic content assessment, as a candidate English-proficient standard](../claims/logistic-regression-half-probability-criterion.md) [~W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

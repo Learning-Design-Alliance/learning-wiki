@@ -22,7 +22,7 @@ sources:
 # Pairing Non-examples with Examples
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 13 claims (7 for, 6 mixed) · 20 studies (9 causal, 5 review, 3 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 2 of 20 report an effect size · 8 claims rest on one study
+> **Evidence** · 14 claims (8 for, 6 mixed) · 20 studies (9 causal, 5 review, 3 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 2 of 20 report an effect size · 9 claims rest on one study
 
 ## Conditional relationship
 
@@ -132,6 +132,10 @@ The designer's objective is usually that the learner classifies new cases correc
 The expectation should weaken if studies comparing example–non-example pairs with correct examples alone, with comparable learners and new-case outcomes, show no advantage for category concepts or outside mathematics, or if a gain on the immediate test disappears at a delay. If comparison keeps raising procedural knowledge without conceptual knowledge, the model should promise better method choice, not better explanation. If learners with no prior knowledge do as well with pairs as with correct examples alone, drop the anchor-first step. If confidence ratings before a pair make no difference to correction, drop step 5. Do not protect the model by calling each failure "a poorly matched non-example" after the fact; record the pair used before the result is known.
 
 Classification of labelled pairs, classification of new unlabelled cases, explanation of the deciding feature, delayed retention and use in the learner's own setting are separate claims. The present evidence sets no number of pairs and no move-on threshold.
+
+## Claims
+
+- [In the acquisition of negative knowledge, erroneous examples outperformed correct examples](../claims/errex-negative-knowledge-advantage.md) [+W]
 
 ## Related Principles
 - [Error Analysis](error-analysis.md) — pairing examples with non-examples is one concrete way to analyze and correct misconceptions.

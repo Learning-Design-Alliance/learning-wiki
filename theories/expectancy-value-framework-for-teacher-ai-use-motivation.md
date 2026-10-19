@@ -17,7 +17,7 @@ sources:
 # Expectancy-Value Framework for Teachers' Motivation to Use AI Applications
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 7 claims (7 for) · 3 studies (2 associational, 1 theoretical), `q1`–`q2` · 0 of 3 report an effect size · 7 claims rest on one study
+> **Evidence** · 8 claims (7 for, 1 against) · 4 studies (2 associational, 1 qualitative, 1 theoretical), `q1`–`q2` · 0 of 4 report an effect size · 8 claims rest on one study
 
 ## Description
 A theoretical application of Expectancy-Value Theory to why teachers do or do not adopt AI applications in education. The paper holds that "teachers' motivation to use AI technologies in the classroom is shaped by their beliefs about how successfully they can use these technologies (expectancy)" and by their perceptions of the technologies' significance (value), with value split into attainment, utility, intrinsic/interest value, and cost.
@@ -46,6 +46,7 @@ A theoretical application of Expectancy-Value Theory to why teachers do or do no
 - [Teacher Perceived Cost Reduces Motivation To Use Ai](../claims/teacher-perceived-cost-reduces-motivation-to-use-ai.md) [+W]
 - [Teacher confidence fully mediates the relationship between institutional support and attitudes toward AI adoption](../claims/confidence-fully-mediate-support-attitude-relationship.md) [+W]
 - [Teacher confidence strongly predicts favorable attitudes toward AI adoption, while the direct effect of support on attitudes is not significant](../claims/confidence-predicts-ai-attitudes-support-direct-effect-null.md) [+W]
+- [Educators report affective costs of AI-related grading, including derealisation, exhaustion, and burnout](../claims/educator-affective-toll-ai-grading.md) [-W]
 
 ## The evidence by question
 - *Do teachers who are more confident they can use AI well (expectancy) hold more favourable attitudes towards it and use it more?* [Teachers' expectancy beliefs about successfully using AI applications shape their motivation to use them (theoretical argument).](../claims/teacher-expectancy-beliefs-shape-motivation-to-use-ai.md) [+W]

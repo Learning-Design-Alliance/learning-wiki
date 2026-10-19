@@ -71,7 +71,7 @@ sources:
 # Spaced Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 45 claims (26 for, 18 mixed, 1 unmarked) · 37 studies (21 causal, 8 review, 7 quant-synthesis, 1 theoretical), `q1`–`q4` · 11 of 37 report an effect size · 38 claims rest on one study
+> **Evidence** · 50 claims (26 for, 22 mixed, 1 against, 1 unmarked) · 39 studies (22 causal, 8 quant-synthesis, 8 review, 1 theoretical), `q1`–`q4` · 11 of 39 report an effect size · 43 claims rest on one study
 
 ## Description
 
@@ -460,6 +460,11 @@ The article concludes that AI-generated podcasts are best positioned as a 'mobil
 - [The retention benefit of spaced recall quizzes holds regardless of instructor teaching experience](../claims/spaced-recall-effective-regardless-instructor-experience.md) [+W]
 - [The dropout schedule was particularly effective for initially incorrect items, an advantage not attributable to initial ISI length or item difficulty in Experiment 2](../claims/dropout-benefits-initially-incorrect-items.md) [~W]
 - [With incidental orienting tasks that eliminate structural encoding, distributed presentations produce better free recall than massed presentations](../claims/contextual-spacing-effect-survives-orienting-tasks.md) [+W]
+- [Grade level and repetition spacing interact significantly in children's free recall](../claims/grade-by-spacing-interaction-free-recall.md) [~W]
+- [The authors' findings add to evidence that expanding-interval schedules are not more effective than fixed-interval schedules of practice](../claims/expanding-not-better-than-fixed-interval.md) [~W]
+- [Recall of between-lists repeated words matched two-independent-representations predictions at short retention intervals but exceeded independence after long retention intervals](../claims/independence-to-nonindependence-between-lists-recall.md) [~W]
+- [When the orienting task prevented interitem associations, the within-list lag effect was attenuated after long retention intervals and this attenuation was not a floor effect](../claims/lag-effect-eliminated-long-retention-no-associations.md) [~W]
+- [The interleaving benefit is not caused by spacing, and the benefit extends to delayed tests](../claims/interleaving-not-spacing-persists-over-delay.md) [-W]
 
 ## Key Sources
 

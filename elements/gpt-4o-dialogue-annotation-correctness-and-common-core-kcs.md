@@ -18,7 +18,7 @@ sources:
 # GPT-4o Automated Dialogue Annotation with Recursive Common Core Tagging
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (4 for, 2 mixed) · 4 studies (3 design, 1 causal), `q2` · 0 of 4 report an effect size · 6 claims rest on one study
+> **Evidence** · 8 claims (5 for, 3 mixed) · 6 studies (5 design, 1 causal), `q2` · 0 of 6 report an effect size · 8 claims rest on one study
 
 ## Description
 The article annotates each student turn with correctness and KC labels using GPT-4o via simple, zero-shot chain-of-thought prompting, instructing it to summarize turns before labeling. "For KC annotation, we adapt the recursive tagging algorithm from [34], which tags math word problems with Common Core math standards": the model selects domains, then clusters, then turn-level standards from the Achieve the Core coherence map. The two tasks are run separately because "doing so leads to improved accuracy compared to combining them".
@@ -50,6 +50,8 @@ The article annotates each student turn with correctness and KC labels using GPT
 - [Prompting with category information or few-shot examples yields limited improvement in distribution alignment, with zero-shot closest for most models](../claims/prompting-strategies-limited-alignment-gain.md) [+W]
 - [Chain-of-Thought prompting improves KC planning for Qwen models but its effect varies by model and educational stage](../claims/cot-effect-varies-model-stage-kc-planning.md) [~W]
 - [CLARA annotations align with blinded educator judgments, with 0.81 pairwise agreement and highest-rated educational interpretability](../claims/clara-educator-agreement-interpretability.md) [~W]
+- [Given sufficient prompt context, GPT-4 describes student errors in a College Algebra ITS with 87.8% accuracy](../claims/gpt4-diagnoses-its-errors-87-8-accuracy.md) [+W]
+- [The framework is robust to 15% ASR transcription noise and retains 99.6% of its ICS under zero-shot cross-domain transfer to EdNet-Math](../claims/framework-robust-asr-noise-cross-domain-transfer.md) [~W]
 
 ## The evidence by question
 - *Can a large language model label whether students' responses are correct, and which skills they show, accurately enough to stand in for human annotators?* [GPT-4o's final-turn correctness labeling on CoMTA is only slightly less accurate than expert human annotators, which the authors read as close to human-level performance on a challenging task.](../claims/gpt-4o-final-turn-correctness-labeling-is-close-to-human-level.md) [+M]

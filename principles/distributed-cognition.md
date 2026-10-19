@@ -13,7 +13,7 @@ generated:
 # Distributed Cognition
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 41 claims (22 for, 19 mixed) · 38 studies (10 theoretical, 8 causal, 8 review, 6 qualitative, 3 design, 2 associational, 1 quant-synthesis), `q1`–`q4` · 4 of 38 report an effect size · 36 claims rest on one study
+> **Evidence** · 45 claims (24 for, 21 mixed) · 41 studies (12 theoretical, 9 review, 8 causal, 6 qualitative, 3 design, 2 associational, 1 quant-synthesis), `q1`–`q4` · 5 of 41 report an effect size · 40 claims rest on one study
 
 ## Conditional relationship
 
@@ -157,6 +157,10 @@ Claims the earlier page cited, each now placed above (in the model, the evidence
 - [Presentation technologies such as paper posters and PowerPoint mediate the sharing of ways of seeing in design studio critique sessions](../claims/presentation-technologies-mediate-ways-of-seeing.md) [+W]
 - [In the learning phase, group experience and information distribution each produce significant multivariate effects on performance, mental effort, and efficiency, without interacting](../claims/zambrano-2019-learning-phase-manova-main-effects.md) [+W]
 - [Collaborative learning distributes cognitive load across multiple working memories, aiding learning of high-load tasks](../claims/collaborative-learning-collective-working-memory-advantage.md) [+W]
+- [Two people discussing perceptual decisions can outperform the better individual, via weighted confidence sharing](../claims/group-advantage-joint-perceptual-decision-discussion.md) [+W]
+- [Externalizing knowledge into a wiki can itself produce individual learning through deeper processing](../claims/externalization-produces-individual-learning.md) [~W]
+- [Joint attention is a group phenomenon not reducible to either individual's mental representations](../claims/joint-attention-group-phenomenon.md) [+W]
+- [The number of items groups placed in their representations was negatively correlated with the average quality of those items.](../claims/item-quantity-quality-tradeoff-representations.md) [~W]
 
 ## Related Principles
 - [Social Learning](../theories/sociocultural-theory.md) — distributed cognition often depends on learning through interaction with others

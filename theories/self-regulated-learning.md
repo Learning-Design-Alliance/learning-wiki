@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 142 claims (71 for, 65 mixed, 6 against) · 119 studies (44 associational, 35 causal, 11 review, 10 quant-synthesis, 7 theoretical, 6 qualitative, 6 design), `q1`–`q4` · 32 of 119 report an effect size · 127 claims rest on one study
+> **Evidence** · 150 claims (77 for, 67 mixed, 6 against) · 125 studies (46 associational, 37 causal, 12 review, 11 quant-synthesis, 7 theoretical, 6 qualitative, 6 design), `q1`–`q4` · 32 of 125 report an effect size · 135 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -189,6 +189,14 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [AI applications contributed to STEM students' higher-order thinking, including problem-solving, computational thinking, and self-regulated learning](../claims/ai-stem-higher-order-thinking-effects.md) [+W]
 - [Students engaged deeply with LLM feedback, with coded evidence of reflection, rebuttal, and acceptance in the large majority of responses](../claims/deep-engagement-llm-feedback-reflection-rebuttal-acceptance.md) [+W]
 - [University students who choose e-textbooks report greater use of cognitive strategies than students who choose print textbooks](../claims/e-textbook-choice-higher-cognitive-strategy-use.md) [+W]
+- [Empirical studies support Zimmerman's SRL models, including expert-novice differences and phase-training effects](../claims/empirical-support-zimmerman-srl-models.md) [+W]
+- [Interviewees attributed writing improvement to explicit instruction, scaffolding and collaborative learning, and self-regulated writing, though some felt uncomfortable in pair work](../claims/gbsri-interview-attributions-and-pair-work-discomfort.md) [+W]
+- [Some interventions brought more improvements in self-regulation measures of those with lower baseline scores, offering promise for resource-constrained settings.](../claims/greater-sr-gains-for-lower-baseline-scores.md) [+W]
+- [The robotics task prompted longer group-level regulation of emotion–motivation than the conceptual physics task](../claims/emotion-motivation-regulation-longer-robotics.md) [~W]
+- [Exploratory learning is expected to raise metacognitive activity, which in turn increases strategic knowledge and adaptive transfer](../claims/exploratory-learning-metacognition-adaptive-transfer-pathway.md) [+W]
+- [Low-prior-knowledge students struggle to deploy key self-regulatory processes during learning](../claims/low-prior-knowledge-students-struggle-self-regulation.md) [+W]
+- [There is a lack of consensus regarding student-, intervention-, and setting-level variables supporting self-monitoring use in schools](../claims/lack-of-consensus-sm-variables.md) [~W]
+- [L1 writing metacognitive strategies transfer to L2 writing, invariant across L2 proficiency and academic major groups](../claims/l1-l2-transfer-of-writing-metacognitive-strategies-invariant.md) [+W]
 
 ## The evidence by question
 

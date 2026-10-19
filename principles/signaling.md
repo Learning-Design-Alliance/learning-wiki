@@ -66,7 +66,7 @@ sources:
 # Signaling Principle
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 27 claims (10 for, 15 mixed, 1 against, 1 unmarked) · 19 studies (9 causal, 5 review, 4 quant-synthesis, 1 theoretical), `q1`–`q4` · 7 of 19 report an effect size · 23 claims rest on one study
+> **Evidence** · 28 claims (11 for, 15 mixed, 1 against, 1 unmarked) · 20 studies (9 causal, 6 review, 4 quant-synthesis, 1 theoretical), `q1`–`q4` · 7 of 20 report an effect size · 24 claims rest on one study
 
 ## Conditional relationship
 
@@ -188,6 +188,7 @@ The expectation should weaken if comparisons with comparable novice learners, ho
 ## Claims
 
 - [In 5-year-olds the transparent-cue benefit appears only with finger tracking, producing a significant Cue × Tracking interaction](../claims/cue-tracking-interaction-5yo-recall.md) [~W]
+- [Expert revisers' improvements are inconsistent across texts, with only signaling-structure strategies reliably corresponding to improved retention](../claims/expert-revisers-strategies-inconsistent-signaling-works.md) [+W]
 
 ## Related Principles
 - [Modality Principle](modality.md)

@@ -17,7 +17,7 @@ sources:
 # ICAP theory: a taxonomy of four cognitive engagement modes with a hierarchical learning prediction
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 14 claims (8 for, 6 mixed) · 7 studies (3 associational, 2 design, 2 theoretical), `q1`–`q3` · 2 of 7 report an effect size · 13 claims rest on one study
+> **Evidence** · 15 claims (9 for, 6 mixed) · 7 studies (3 associational, 2 design, 2 theoretical), `q1`–`q3` · 2 of 7 report an effect size · 14 claims rest on one study
 
 ## Description
 ICAP defines four modes of cognitive engagement — Interactive, Constructive, Active, and Passive — operationally differentiated by students' overt behaviors and products. The article states that "ICAP encompasses three components: a taxonomy of four engagement modes and the operational definition of each mode, a metric that can define the degree of engagement based on the cognitive processes corresponding to the four behavioral modes, and a hypothesis that can predict the hierarchical levels of student learning as a function of the mode of engagement." Each mode is mapped to underlying knowledge-change processes (storing, activating, linking, inferring), and the modes are hierarchically ordered so that Interactive subsumes Constructive, which subsumes Active, which subsumes Passive.
@@ -56,6 +56,7 @@ ICAP defines four modes of cognitive engagement — Interactive, Constructive, A
 - [ENA reveals different utterance co-occurrence structures by age: older adults show a stronger active–interactive connection while younger adults' constructive–interactive connection is not statistically confirmed](../claims/ena-network-structure-age-differences-icap.md) [~M] — attached 2026-10-18 from Shigen Shimojo (2025), which proposed "ICAP framework as a theory of four hierarchical engagement modes applied to CSCL".
 - [No age difference in the strength of active–constructive connections in collaborative discourse networks](../claims/no-age-difference-active-constructive-connection.md) [~W]
 - [Constructive behaviors are defined by generating outputs containing new ideas that go beyond the information given](../claims/constructive-generates-beyond-information-given.md) [+W]
+- [The ICAP hypothesis predicts that learning increases as engagement moves from passive to active to constructive to interactive (I>C>A>P)](../claims/icap-hypothesis-learning-increases-i-cap.md) [+W]
 
 ## The evidence by question
 - *Which kind of activity: manipulating material, generating beyond it, or building on a partner's ideas?* [Constructive learning beats active and passive learning](../claims/constructive-learning-beats-active-passive.md) [+M]

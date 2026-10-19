@@ -13,7 +13,7 @@ generated:
 # Bullying Prevention and Intervention
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 28 claims (22 for, 6 mixed) · 17 studies (6 causal, 5 review, 3 associational, 2 design, 1 theoretical), `q1`–`q3` · 3 of 17 report an effect size · 28 claims rest on one study
+> **Evidence** · 29 claims (23 for, 6 mixed) · 17 studies (6 causal, 5 review, 3 associational, 2 design, 1 theoretical), `q1`–`q3` · 3 of 17 report an effect size · 29 claims rest on one study
 
 ## Conditional relationship
 
@@ -131,6 +131,7 @@ Bullying rated by teachers, bullying reported by students, fear of bullying, bys
 - [The effects of attending a bullying-reducing school on graduation are larger for students with a history of victimization](../claims/bullying-reduction-effects-larger-for-prior-victimized-students.md) [+W]
 - [A two-year quasi-experimental study in Hong Kong found full-implementation restorative whole-school approach students reported significantly less bullying and larger empathy and self-esteem gains than control students](../claims/rwsa-hong-kong-less-bullying-empathy-gains.md) [+W]
 - [School-based cyberbullying prevention has the largest review base, with clear findings replicated across multiple reviews](../claims/cyberbullying-prevention-reviews-effective-content.md) [+W]
+- [By the end of the study all learner focus groups understood bullying as repeated aggression and reported being confident defenders](../claims/learners-learned-definition-and-defending.md) [+W]
 
 ## Related Principles
 - [Character Education](character-education.md) — schoolwide relationship-focused, non-punitive climate is a preventive foundation bullying-specific intervention builds on

@@ -12,7 +12,7 @@ generated:
 # Critical Pedagogy
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (2 theoretical), `q1` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Social reconstructionism was founded as a response to the atrocities of World War II and the Holocaust, aiming at social reform that would help prepare students to build a better world by instilling democratic values. Critical pedagogy emerged from that foundation.
@@ -40,6 +40,7 @@ Critical pedagogy de-centers the traditional teacher-centered classroom. Curricu
 ## Claims
 
 - [Conscientization, grounded in Freire's consciousness-raising, is argued to fit adventure therapy's experiential learning methodology as the first empowerment level](../claims/conscientization-fits-adventure-therapy.md) [+W]
+- [GenAI/LLM language ability, democratization potential, and semantic-sensor functions can serve the emancipatory vision without ever-increasing model complexity](../claims/genai-properties-serve-flourishing-vision.md) [~W]
 
 ## Related Theories
 

@@ -27,7 +27,7 @@ sources:
 # Scaffolding
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 60 claims (18 for, 33 mixed, 9 against) · 44 studies (23 causal, 6 review, 5 quant-synthesis, 4 theoretical, 3 design, 2 associational, 1 qualitative), `q1`–`q4` · 13 of 44 report an effect size · 54 claims rest on one study
+> **Evidence** · 61 claims (18 for, 34 mixed, 9 against) · 45 studies (23 causal, 7 review, 5 quant-synthesis, 4 theoretical, 3 design, 2 associational, 1 qualitative), `q1`–`q4` · 13 of 45 report an effect size · 55 claims rest on one study
 
 ## Conditional relationship
 
@@ -155,6 +155,7 @@ Assisted performance, unassisted immediate performance, delayed retention, trans
 - [AI-assisted performance during skill-building does not transfer to subsequent unassisted performance](../claims/ai-assisted-performance-no-unassisted-transfer.md) [-W]
 - [Combining domain-general and domain-specific scaffolds yields the highest effect, and domain-general scaffolds outperform domain-specific ones](../claims/domain-general-scaffolds-outperform-domain-specific.md) [~M]
 - [Drawing provided no benefit for lower-order recognition knowledge, and the local support condition scored significantly lower than control](../claims/drawing-no-recognition-benefit-local-worse.md) [-W]
+- [Cognitive and metacognitive prompts in learning journals helped early in a term but became detrimental by its end; adaptive fading-out mitigated this](../claims/expertise-reversal-writing-journal-prompts-fading.md) [~W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md)

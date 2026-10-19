@@ -13,7 +13,7 @@ generated:
 # Resource Evaluation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 14 claims (9 for, 4 mixed, 1 against) · 21 studies (11 causal, 3 quant-synthesis, 3 review, 2 qualitative, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 21 report an effect size · 10 claims rest on one study
+> **Evidence** · 17 claims (9 for, 7 mixed, 1 against) · 22 studies (11 causal, 3 quant-synthesis, 3 review, 2 qualitative, 2 theoretical, 1 associational), `q1`–`q4` · 2 of 22 report an effect size · 13 claims rest on one study
 
 ## Description
 Resource evaluation asks learners to judge the credibility, accuracy, and relevance of information sources before using them. Rather than treating evaluation as a checklist delivered by the instructor, learners apply criteria themselves — comparing sources, probing authorship and evidence, and justifying their judgments — which builds transferable information literacy.
@@ -64,6 +64,9 @@ Resource evaluation works when learners actively apply criteria to real, contras
 - [High school students used Google page rank as a first-order heuristic for relevance](../claims/google-page-rank-first-order-relevance-heuristic.md) [+W]
 - [Embedded-source trustworthiness evaluations do not change across positions when both document sources have similar trustworthiness](../claims/es-evaluation-stable-homogeneous-sequences.md) [~W]
 - [Online reading for academic purposes is a complex activity involving analysing task requirements, assessing information needs, accessing relevant contents, and evaluating relevance and reliability of information.](../claims/online-reading-academic-multicomponent-activity.md) [+W]
+- [Embedded-source trustworthiness evaluations shift toward the trustworthiness of the most recent document source in mixed sequences](../claims/es-evaluation-shifts-mixed-sequences.md) [~W]
+- [Review-attributed evidence: fabricated model-generated references clustered in disciplinary journals in a student verification exercise](../claims/fabricated-references-cluster-disciplinary-journals.md) [~W]
+- [Embedded-source and document-source trustworthiness scores differed, suggesting an interplay between layers rather than one-layered reflection](../claims/es-and-ds-scores-differ-interplay.md) [~W]
 
 ## The evidence by question
 - *Does teaching learners how to check a source improve their judgments of unfamiliar sources, and how much can one session do?* [Civic Online Reasoning Instruction Improves Evaluation](../claims/civic-online-reasoning-instruction-improves-evaluation.md) [+S]

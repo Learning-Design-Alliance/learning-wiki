@@ -13,7 +13,7 @@ generated:
 # Elaboration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 25 claims (12 for, 8 mixed, 5 against) · 30 studies (18 causal, 6 quant-synthesis, 3 review, 3 associational), `q2`–`q4` · 11 of 30 report an effect size · 19 claims rest on one study
+> **Evidence** · 30 claims (14 for, 10 mixed, 6 against) · 32 studies (19 causal, 6 quant-synthesis, 4 associational, 3 review), `q2`–`q4` · 12 of 32 report an effect size · 24 claims rest on one study
 
 ## Description
 Elaboration is the process of expanding on new information by relating it to what one already knows — generating explanations, examples, analogies, or "why" and "how" questions. As an instructional element, it means designing prompts and activities that require learners to produce these connections rather than passively rereading material. Elaboration deepens encoding by integrating new content into existing knowledge structures, making it more retrievable and more transferable.
@@ -70,6 +70,11 @@ Elaboration improves retention and comprehension because deeper processing at en
 - [Accumulation and cross-text elaboration are uncorrelated and show opposite-sign correlations with intertextual comprehension](../claims/strategy-dimensions-uncorrelated-opposite-correlations.md) [~W]
 - [Prompted and control groups show no significant differences in separative elaborations within domains or in additions](../claims/no-prompt-effect-within-domain-elaborations-additions.md) [-W]
 - [Older adults produce fewer internal details than younger adults during elaboration across both experiments](../claims/aging-fewer-internal-details-elaboration.md) [~W]
+- [Self-explanation-based and inquiry learning elicit more elaborative processes specifically, across all three elaborative subcategories](../claims/generation-approaches-elicit-more-elaborative-processes.md) [+W]
+- [Correctness of generated and classified examples during learning correlates selectively with posttest task performance](../claims/example-correctness-correlations-posttest.md) [~W]
+- [Instruction followed by either self-generated or provided illustrative examples outperformed instruction only on knowledge retention and transfer in student teachers](../claims/examples-after-instruction-beat-instruction-only-retention-transfer.md) [+W]
+- [Elaboration was not correlated with goal attainment in MOOCs](../claims/elaboration-not-correlated-goal-attainment.md) [-W]
+- [Generation and elaboration specificity correlate for autobiographical memory but not for problem solving in both age groups](../claims/generation-elaboration-correlation-memory-only.md) [~W]
 
 ## The evidence by question
 

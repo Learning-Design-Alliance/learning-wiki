@@ -22,7 +22,7 @@ sources:
 # Self-Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 34 claims (10 for, 15 mixed, 9 against) · 29 studies (18 causal, 5 associational, 3 quant-synthesis, 1 review, 1 qualitative, 1 theoretical), `q2`–`q4` · 11 of 29 report an effect size · 32 claims rest on one study
+> **Evidence** · 41 claims (11 for, 20 mixed, 10 against) · 33 studies (18 causal, 7 associational, 3 quant-synthesis, 2 review, 2 theoretical, 1 qualitative), `q2`–`q4` · 11 of 33 report an effect size · 38 claims rest on one study
 
 ## Description
 Self-assessment is the element in which learners judge their own work, understanding, or progress against explicit criteria. It is useful when the goal is not only better immediate performance, but stronger self-monitoring and more accurate judgments about what to improve next.
@@ -84,6 +84,13 @@ Self-assessment is the element in which learners judge their own work, understan
 - [Learners accurately judge that twice-presented items are more likely to be recalled than once-presented items](../claims/accurate-jol-repetition-benefit.md) [+W]
 - [The Bias Index significantly predicts all four WIAT-II achievement measures, with over-confidence associated with lower achievement](../claims/bias-index-predicts-achievement.md) [~W]
 - [Student teachers' self-assessed preparedness did not predict first-year effectiveness (r = 0.03), while mentor teachers' ratings of student teachers did (r = 0.24)](../claims/cps-early-indicators-mentor-ratings-predict-first-year-effectiveness.md) [-W]
+- [Explicit metacognition has severely limited access to underlying cognitive processes, and metacognitive reports can be inaccurate](../claims/explicit-metacognition-limited-access-inaccurate-reports.md) [-W]
+- [Students' difficulty rankings of equation types partly mismatch their measured performance, though metacognitive accuracy improves with age](../claims/equation-difficulty-self-ranks-mismatch-performance.md) [~W]
+- [JoL–mastery accuracy trajectories over the five weeks rose in the elicit condition, declined in the none condition, and were mixed in the tell condition](../claims/jol-accuracy-trajectories-by-condition.md) [~W]
+- [Higher-achieving students tend to be more accurate but more underconfident in calibration than lower-achieving students](../claims/higher-achievers-more-accurate-underconfident-calibration.md) [~W]
+- [Group settings and guidelines each promoted calibration accuracy and achievement in a high school biology factorial experiment](../claims/group-settings-and-guidelines-promote-calibration.md) [+W]
+- [Hard-easy effect: students are more accurate but underconfident on easy items and less accurate but overconfident on difficult items](../claims/hard-easy-effect-calibration.md) [~W]
+- [Incentives significantly improved calibration accuracy only among lower-achieving students in a college-course quasi-experiment](../claims/incentives-improve-calibration-lower-achievers.md) [~W]
 
 ## The evidence by question
 

@@ -13,7 +13,7 @@ generated:
 # Peer Collaboration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 33 claims (14 for, 18 mixed, 1 against) · 34 studies (8 causal, 8 qualitative, 6 associational, 6 theoretical, 4 quant-synthesis, 2 review), `q1`–`q4` · 4 of 34 report an effect size · 31 claims rest on one study
+> **Evidence** · 44 claims (16 for, 27 mixed, 1 against) · 42 studies (9 causal, 9 associational, 9 qualitative, 6 theoretical, 5 review, 4 quant-synthesis), `q1`–`q4` · 4 of 42 report an effect size · 42 claims rest on one study
 
 ## Description
 Peer collaboration places two or more learners in joint work on a shared task, requiring them to explain, question, negotiate, and build on each other's thinking. It functions as a social engine for learning: the value comes not from proximity but from the elaboration, conflict, and mutual regulation that genuine joint work provokes.
@@ -83,6 +83,17 @@ Collaboration supports learning when it forces learners to articulate reasoning 
 - [Collaborative inquiry learners obtain significantly higher post-test overall scores than individual learners](../claims/collaborative-inquiry-outperforms-individual-overall.md) [+W]
 - [In CLL, teachers perceive a trust erosion cycle, AI dominance in groups, collaborative hollowing, and a counselor's dilemma](../claims/cll-four-ethical-tensions.md) [-W]
 - [Homogeneous CS-major groups reported higher CPSE in collaborative programming than homogeneous non-CS and heterogeneous groups, with no significant difference between the latter two](../claims/cpse-cs-major-groups-higher-collaborative.md) [~W]
+- [All student groups benefited equally in inquiry skills improvement after Web-based collaborative inquiry, with no significant effects of gender, achievement level, or academic track](../claims/equal-inquiry-skills-gains-all-groups.md) [+W]
+- [In a 2x2 experiment on jigsaw dyads, the implicit gaze awareness tool affected dialogue processes much more than the explicit pedagogical conversational agent, which compensated when gaze awareness was absent](../claims/gaze-awareness-tool-more-effective-than-explicit-agent-jigsaw-dyads.md) [~W]
+- [Low social challenge dyads produce higher-quality written assignments than high social challenge dyads, controlling for prior knowledge](../claims/low-social-challenge-dyads-higher-assignment-quality.md) [~W]
+- [Pairs rapidly develop shared verbal confidence scales, and faster development predicts greater group advantage](../claims/linguistic-coordination-confidence-vocabularies.md) [+W]
+- [Symmetry of partner models does not rule out a contribution of individual modelling abilities to mutual modelling quality](../claims/individual-abilities-still-contribute-to-mutual-models.md) [~W]
+- [Dyads collaborating via flexible written paper media exhibit invariant communicative practices across media, participants and topics](../claims/invariant-communicative-practices-artifact-mediated-collaboration.md) [~W]
+- [The study examined how LLMs affected group dynamics, idea generation, consensus building, and overall productivity in team-based projects](../claims/llm-effects-on-group-dynamics-idea-generation-consensus-productivity.md) [~W]
+- [Information discussion and regulation of task-related activities did not significantly predict group performance](../claims/information-discussion-task-regulation-no-performance-effect.md) [~W]
+- [Visualizing group awareness information strongly impacts dyads' joint regulation of the collaborative process](../claims/group-awareness-visualization-impacts-joint-regulation.md) [~W]
+- [MR of less successful outcome groups focused more on low-level cognitive activity in Finnish high school and Australian veterinary contexts](../claims/low-focus-mr-less-successful-two-contexts.md) [~W]
+- [Group performance can be predicted with advanced machine-learning techniques, and collaboration synergy depends on skill diversity, equal workload distribution and high interaction concurrency](../claims/machine-learning-predicts-group-performance-synergy.md) [~W]
 
 ## The evidence by question
 

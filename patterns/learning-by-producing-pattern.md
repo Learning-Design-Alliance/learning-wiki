@@ -30,7 +30,7 @@ sources:
 # Learning by Producing (multimedia production as learning)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 19 claims (12 for, 7 mixed) · 30 studies (9 causal, 9 quant-synthesis, 4 design, 3 theoretical, 2 review, 2 qualitative, 1 associational), `q1`–`q4` · 10 of 30 report an effect size · 11 claims rest on one study
+> **Evidence** · 20 claims (12 for, 8 mixed) · 31 studies (10 causal, 9 quant-synthesis, 4 design, 3 theoretical, 2 review, 2 qualitative, 1 associational), `q1`–`q4` · 10 of 31 report an effect size · 12 claims rest on one study
 
 ## Description and scope
 
@@ -151,6 +151,7 @@ This pattern is scoped to units in which a team or individual makes a media prod
 
 - [Digital literacy means understanding how to use tools while digital fluency means creating something new with them](../claims/digital-literacy-versus-digital-fluency-distinction.md) [+W]
 - [Pedagogy and production dimensions associated most strongly with global quality (Spearman ρ = 0.68 and 0.66), while content was relatively independent (ρ = 0.46)](../claims/bespoke-pedagogy-production-correlate-with-global-quality.md) [~W]
+- [Blinded panel ratings of design presentations did not differ significantly between GenARch and Control teams](../claims/genarch-panel-presentation-no-significant-difference.md) [~W]
 
 ## Related Patterns
 

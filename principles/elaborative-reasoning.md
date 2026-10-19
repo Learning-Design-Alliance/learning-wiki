@@ -35,7 +35,7 @@ sources:
 # Elaborative Reasoning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 40 claims (20 for, 16 mixed, 4 against) · 32 studies (18 causal, 7 quant-synthesis, 3 review, 3 associational, 1 qualitative), `q2`–`q4` · 12 of 32 report an effect size · 35 claims rest on one study
+> **Evidence** · 42 claims (21 for, 17 mixed, 4 against) · 34 studies (20 causal, 7 quant-synthesis, 3 review, 3 associational, 1 qualitative), `q2`–`q4` · 13 of 34 report an effect size · 37 claims rest on one study
 
 ## Conditional relationship
 
@@ -177,6 +177,8 @@ Immediate recall, delayed recall, explanation and transfer are separate claims; 
 - [Prompted and control groups show no significant differences in separative elaborations within domains or in additions](../claims/no-prompt-effect-within-domain-elaborations-additions.md) [-W]
 - [Quality of self-generated examples correlated with knowledge transfer and perceived learning control but not with knowledge retention](../claims/example-quality-correlates-transfer-control.md) [~W]
 - [Accumulation and cross-text elaboration are uncorrelated and show opposite-sign correlations with intertextual comprehension](../claims/strategy-dimensions-uncorrelated-opposite-correlations.md) [~W]
+- [Self-explanation-based and inquiry learning elicit more elaborative processes specifically, across all three elaborative subcategories](../claims/generation-approaches-elicit-more-elaborative-processes.md) [+W]
+- [Correctness of generated and classified examples during learning correlates selectively with posttest task performance](../claims/example-correctness-correlations-posttest.md) [~W]
 
 ## Related Principles
 

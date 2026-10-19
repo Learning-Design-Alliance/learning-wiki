@@ -13,7 +13,7 @@ generated:
 # Reinforcement
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (1 mixed, 1 against) · 4 studies (1 causal, 1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 1 of 4 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (3 mixed, 1 against) · 6 studies (2 causal, 2 review, 1 quant-synthesis, 1 theoretical), `q1`–`q4` · 1 of 6 report an effect size · 3 claims rest on one study
 
 ## Description
 Reinforcement is the contingent delivery of a consequence following a target behavior, making that behavior more likely to recur. Rooted in operant conditioning [Behaviorism](../theories/behaviorism.md), it encompasses positive reinforcement (adding a desirable outcome — points, praise, privileges), negative reinforcement (removing an undesirable condition), and the scheduling of these consequences (continuous vs. intermittent). In learning design, reinforcement overlaps with but is distinct from [Feedback](feedback.md): reinforcement strengthens behavior; feedback supplies information about performance quality.
@@ -54,6 +54,8 @@ Reinforcement reliably increases the frequency and persistence of the behaviors 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [An effort-based reward did not significantly reduce answer offloading or improve unaided performance](../claims/effort-based-reward-no-effect-offloading-or-unaided-performance.md) [-W]
+- [Extrinsic incentives have mixed results on effort and achievement, working better when immediate and larger](../claims/extrinsic-incentives-mixed-results-effort-achievement.md) [~W]
+- [High reinforcement improves STM and WM performance in both ADHD subtypes but not in controls](../claims/high-reinforcement-improves-stm-wm-adhd.md) [~W]
 
 ## Related Elements
 - [Feedback](feedback.md) — informational counterpart; reinforcement changes probability, feedback changes understanding, and the two are most powerful combined

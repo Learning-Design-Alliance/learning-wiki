@@ -64,7 +64,7 @@ sources:
 # Coherence Principle
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 28 claims (10 for, 18 mixed) · 33 studies (16 causal, 5 quant-synthesis, 5 review, 3 theoretical, 2 associational, 1 qualitative, 1 design), `q1`–`q4` · 8 of 33 report an effect size · 21 claims rest on one study
+> **Evidence** · 30 claims (12 for, 18 mixed) · 33 studies (16 causal, 5 quant-synthesis, 5 review, 3 theoretical, 2 associational, 1 qualitative, 1 design), `q1`–`q4` · 9 of 33 report an effect size · 23 claims rest on one study
 
 ## Conditional relationship
 
@@ -177,6 +177,8 @@ The expectation should weaken if independent comparisons with comparable learner
 ## Claims
 
 - [Related decorative pictures do not enhance transfer performance in either experiment (null results for correctness and metacognitive monitoring)](../claims/related-decorative-pictures-no-transfer-effect.md) [+W]
+- [Extraneous cognitive load did not mediate the detrimental effect of seductive details in this online study](../claims/ecl-mediation-not-replicated-online.md) [+W]
+- [Low-WMC readers recall fewer correct causes when text contains seductive illustrations compared with nonillustrated text](../claims/low-wmc-seductive-essay-detriment.md) [+W]
 
 ## Related Principles
 - [Modality Principle](modality.md)

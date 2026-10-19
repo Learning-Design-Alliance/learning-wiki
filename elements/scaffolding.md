@@ -13,7 +13,7 @@ generated:
 # Scaffolding
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (1 for, 1 against) · 2 studies (1 causal, 1 associational), `q3` · 1 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 3 studies (2 causal, 1 associational), `q3` · 1 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 Scaffolding is the element in which support is added temporarily so learners can perform tasks they could not yet complete independently.
@@ -38,6 +38,7 @@ Scaffolding is the element in which support is added temporarily so learners can
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [The scaffolding intervention unintentionally increased small groups' independent working time, roughly doubling it from premeasurement to postmeasurement](../claims/scaffolding-intervention-increases-independent-working-time.md) [+W]
+- [Complete and faded double-content examples did not differentially affect student teachers' professional vision](../claims/fading-no-differential-effect-pvcm.md) [~W]
 
 ## Related Elements
 - [Fading](fading.md)

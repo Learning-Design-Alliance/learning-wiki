@@ -12,7 +12,7 @@ generated:
 # Maslow's Hierarchy of Needs
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Abraham Maslow proposed that human motivation is organized into a hierarchy of five need levels, in ascending order of "prepotency": **physiological** needs (food, water, sleep — "the most pre-potent of all needs"), **safety** (structure, order, security, freedom from danger and chaos), **love/belonging** (friends, family, group identification, intimate relationship), **esteem** (both strength/achievement/confidence and earned respect/recognition from others — Maslow is explicit that esteem "must come from earned respect and not from fame or social status"), and **self-actualization** (growth and self-improvement, which Maslow described as rare). Maslow also discussed a **desire to know and understand** as a separate cognitive drive, prepotent in itself (the desire to know precedes the desire to understand), but he treated it as distinct from, not a sixth member of, the core five-level hierarchy.
@@ -39,6 +39,8 @@ Maslow himself catalogued several **exceptions to the standard order**: some peo
 A tired and hungry student will find it difficult to focus on learning — physiological needs must be substantially met before cognitive/learning needs can be productively addressed. Students must feel emotionally and physically safe and accepted in the classroom to progress toward their potential; a teacher should visibly show students they are valued and respected. Students with low self-esteem will not progress academically at an optimal rate until their self-esteem is strengthened. Maslow (1971, p. 195) framed the goal of a humanistic educational approach as producing people who "would be stronger, healthier, and would take their own lives into their hands to a greater extent," actively shaping the society they live in rather than simply being shaped by it.
 
 ## Claims
+
+- [Students at the Melbourne Islamic schools describe the school as a safe haven whose religious security supports their learning](../claims/islamic-school-safe-haven-supports-learning.md) [+W]
 
 ## Related Theories
 

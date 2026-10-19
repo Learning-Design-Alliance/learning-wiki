@@ -12,7 +12,7 @@ generated:
 # Adolescent Brain Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (3 for, 3 mixed) · 6 studies (2 causal, 2 review, 2 associational), `q2`–`q3` · 2 of 6 report an effect size · 6 claims rest on one study
+> **Evidence** · 10 claims (7 for, 3 mixed) · 9 studies (4 review, 3 associational, 2 causal), `q2`–`q3` · 2 of 9 report an effect size · 10 claims rest on one study
 
 ## Description
 The adolescent brain undergoes substantial restructuring between roughly ages 10 and 25, and the *sequence* of that restructuring — not just its extent — has direct implications for how adolescents learn, take risks, and regulate emotion. The **limbic system**, which governs reward-seeking and emotional response, matures years ahead of the **prefrontal cortex**, which governs executive functions such as impulse control, planning, emotion regulation, and sustained attention. Steinberg (2008) describes this as "a powerful engine before the braking system is in place" — adolescents have an adult-level capacity for reward-seeking and emotional intensity well before they have an adult-level capacity to regulate it.
@@ -44,6 +44,10 @@ Executive functions — impulse control, cognitive flexibility, working memory, 
 - [Adults show greater left inferior lateral PFC activation than adolescents during relational integration](../claims/adults-greater-left-inferior-pfc-relational-activation.md) [~W]
 - [Adolescents show disproportionately greater false alarms on happy no-go trials with heightened ventral striatum activity](../claims/adolescent-happy-nogo-false-alarm-ventral-striatum.md) [+W]
 - [Cool executive function measures show ascending age-related growth across adolescence, with a growth spurt around age 14–15](../claims/cool-ef-ascending-growth-adolescence.md) [+W]
+- [Executive function increases with age between 11–12 and 15–16, but knowledge attribution assumptions do not](../claims/ef-increases-with-age-kas-does-not.md) [+W]
+- [Emotion regulation and cognitive control discrepancy on emotional go/no-go decreases with age](../claims/emotion-cognitive-control-discrepancy-decreases-age.md) [+W]
+- [Executive-function brain circuitry takes more than twenty years to fully mature, leaving school-age youth with underdeveloped long-run decision systems](../claims/executive-function-maturation-over-twenty-years.md) [+W]
+- [Viewing Instagram pictures with many Likes recruits the reward network and reduces cognitive-control activation in adolescents](../claims/instagram-likes-recruit-adolescent-reward-network.md) [+W]
 
 ## Related Theories
 - [Stages of Cognitive Development](stages-of-cognitive-development.md) — formal operational reasoning and adolescent risk-taking co-occur; the capacity for abstract, hypothetical reasoning does not by itself guarantee its consistent application under emotional or social pressure

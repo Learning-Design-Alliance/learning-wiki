@@ -22,7 +22,7 @@ sources:
 # Supportive information
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Supportive information provides the cognitive strategies, mental models, and conceptual frameworks necessary for tackling complex tasks. It makes explicit the domain knowledge and reasoning patterns required to navigate ill-defined problems, functioning as a bridge between prior knowledge and the demands of authentic application.
@@ -59,7 +59,7 @@ Supportive information reduces extraneous cognitive load by externalizing the "w
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [The report attributes to expert-novice comparisons that experts relate symptoms to inoperative system functions while novices focus on physically proximal components](../claims/expert-deep-versus-novice-surface-device-models.md) [+W]
 
 ## Related Elements
 

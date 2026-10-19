@@ -23,7 +23,7 @@ sources:
 # Use computer tools that let students explore hypotheses and solutions faster so they can test many ideas without frustration
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 18 claims (10 for, 8 mixed) · 12 studies (3 causal, 3 review, 2 quant-synthesis, 2 qualitative, 2 design), `q1`–`q4` · 4 of 12 report an effect size · 17 claims rest on one study
+> **Evidence** · 19 claims (10 for, 9 mixed) · 13 studies (3 causal, 3 review, 2 quant-synthesis, 2 qualitative, 2 design, 1 associational), `q1`–`q4` · 4 of 13 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 
@@ -158,6 +158,7 @@ Speed of the test cycle, number of cycles, guidance, immediate understanding, de
 ## Claims
 
 - [Task design relates to emphases within the cognitive elements: the technology-enhanced task elicited more task exploration, while the physical-objects task elicited more coordination](../claims/task-design-shifts-task-exploration-versus-coordination.md) [+W]
+- [Exploration behavior is associated with the most complex and most varied conceptual models, with statistically significant differences across behavior types](../claims/exploration-associated-with-model-complexity-variety.md) [~W]
 
 ## Related Principles
 - [Inquiry-Based Learning](inquiry-based-learning.md) — the general relationship of investigating with guidance; this page is its tool layer.

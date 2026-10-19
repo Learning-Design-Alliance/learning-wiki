@@ -18,7 +18,7 @@ sources:
 # Free-Choice Learning Environment Design
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 15 claims (5 for, 9 mixed, 1 against) · 17 studies (4 review, 4 theoretical, 3 causal, 3 qualitative, 2 quant-synthesis, 1 design), `q1`–`q4` · 2 of 17 report an effect size · 13 claims rest on one study
+> **Evidence** · 16 claims (6 for, 9 mixed, 1 against) · 18 studies (5 review, 4 theoretical, 3 causal, 3 qualitative, 2 quant-synthesis, 1 design), `q1`–`q4` · 2 of 18 report an effect size · 14 claims rest on one study
 
 ## Conditional relationship
 
@@ -136,6 +136,10 @@ For example, the two sixth graders in the FUSE case valued making a game other p
 The expectation should weaken if comparisons of free-choice environments with structured ones, on comparable learners, show no difference in return visits or self-extended work, or show that responsive feedback lengthens visits without improving what learners can explain at a delay. If rewards for taking part turn out not to reduce later voluntary engagement in museums or studios (rather than laboratories), step 3 becomes a preference. If wide-open choice works as well for novices as narrowed choice, the low-confidence row should go. If responsive exhibits of the kind in the one controlled study fail on content other than structural stability, step 4 is a topic-specific design. Do not protect the model by calling every short visit a design failure or every long one engagement.
 
 Dwell time, voluntary return, self-extended projects, explained understanding at the visit, delayed understanding and test scores are separate claims. The present evidence sets no dose for a studio block, no number of challenges and no threshold for moving up a level.
+
+## Claims
+
+- [Grades themselves, regardless of formula, detrimentally affect creative thinking, long-term retention, interest in learning, and preference for challenging tasks](../claims/grades-detrimental-creative-thinking-retention.md) [+W]
 
 ## Related Principles
 - [Learner Choice](autonomy.md) — a related but distinct concept: bounded choice offered inside an otherwise fixed course, versus free-choice design's assumption of no externally imposed curriculum at all

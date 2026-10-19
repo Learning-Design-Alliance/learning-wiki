@@ -18,7 +18,7 @@ sources:
 # Compensate for age-related sensory impairments by combining audio input with visual presentation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (8 for, 9 mixed) · 12 studies (5 review, 3 quant-synthesis, 2 causal, 2 theoretical), `q1`–`q3` · 3 of 12 report an effect size · 15 claims rest on one study
+> **Evidence** · 18 claims (9 for, 9 mixed) · 13 studies (5 review, 3 quant-synthesis, 2 causal, 2 theoretical, 1 associational), `q1`–`q3` · 3 of 13 report an effect size · 16 claims rest on one study
 
 ## Conditional relationship
 
@@ -138,6 +138,10 @@ The designer's objective is usually that the learner takes in and can use the ne
 The expectation should weaken if studies with older learners, or with learners who have a hearing loss, find that adding the written form to speech does not improve comprehension over speech alone in a typical room, or that captions draw attention from the speaker's face and lower understanding of a live conversation. If lighting and noise fixes make no difference to these learners' comprehension, they are comfort measures, not learning measures. If written support kept across a course leaves learners less able to follow speech without it at the end, the fading arc should start sooner. Do not protect the model by calling every failure "not enough support"; check the room and the learner's report before adding more.
 
 Speech comprehension in the room, use of new material, listening without print, and use in the setting the learner cares about are separate outcomes, and nothing here establishes a print size, a segment length or a criterion for reducing support.
+
+## Claims
+
+- [K-DTVP-2 visual perception scores decline significantly with age in Korean adults, dropping significantly from the 50s compared to the 20s](../claims/k-dtvp2-score-declines-with-aging-from-50s.md) [+W]
 
 ## Related Principles
 - [Redundancy](redundancy.md) — when presenting the same words twice helps or hurts; this page applies its no-picture case to learners who miss part of one channel.

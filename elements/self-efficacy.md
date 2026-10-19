@@ -13,7 +13,7 @@ generated:
 # Self Efficacy
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 39 claims (22 for, 15 mixed, 1 against, 1 unmarked) · 37 studies (16 associational, 9 review, 8 causal, 2 quant-synthesis, 2 design), `q1`–`q4` · 10 of 37 report an effect size · 35 claims rest on one study
+> **Evidence** · 45 claims (26 for, 17 mixed, 1 against, 1 unmarked) · 41 studies (17 associational, 11 review, 8 causal, 2 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 11 of 41 report an effect size · 41 claims rest on one study
 
 ## Description
 Self efficacy is a learner's belief in their capability to succeed at a specific task or domain, not a general sense of self-worth. It functions as a proximal driver of learning: learners with higher efficacy set more ambitious goals, persist longer through difficulty, and recover faster from failure [Bandura, 1997]. Because it is domain-specific and malleable, it is a design target rather than a fixed learner trait.
@@ -87,6 +87,12 @@ Instructional design shapes self efficacy primarily through the four sources Ban
 - [Reported teacher self-efficacy for teaching autistic children differs across countries, with relatively high levels in Ireland and the opposite conclusion for German teachers](../claims/country-differences-teacher-self-efficacy-autistic-children.md) [~W]
 - [Cognitive modeling raised division skill more than didactic instruction while both raised self-efficacy equally, with self-efficacy mediating treatment effects](../claims/cognitive-modeling-versus-didactic-instruction-division.md) [~W]
 - [Computer self-efficacy significantly mediates the effect of computer anxiety on perceived ease of use of an LMS](../claims/cse-mediates-anxiety-peu-lms.md) [+W]
+- [Formative assessment shows gains in student self-efficacy and motivation and particular benefits for disadvantaged and low-achieving students](../claims/formative-assessment-self-efficacy-low-achievers.md) [+W]
+- [Descriptive patterns link infrequently reported experiences to initial self-efficacy: teaching others and no impact were reported by higher self-efficacy students, consulting a teacher by lower](../claims/infrequent-experiences-descriptive-self-efficacy-patterns.md) [~W]
+- [Creating and leading professional learning for colleagues increases teacher leaders' sense of professional efficacy](../claims/leading-colleague-learning-builds-teacher-efficacy.md) [+W]
+- [Higher initial self-efficacy increased the odds of students reporting that accomplishing the problems increased their self-efficacy](../claims/higher-initial-self-efficacy-predicts-accomplishing-it.md) [~W]
+- [Lower initial self-efficacy significantly increased the odds of students reporting that getting help from peers increased their self-efficacy](../claims/lower-initial-self-efficacy-predicts-peer-help.md) [+W]
+- [Individual factors supportive of adolescent creativity include openness to experience, intrinsic motivation, creative self-efficacy, and external attributions for adversity](../claims/individual-supportive-factors-adolescent-creativity.md) [+W]
 
 ## The evidence by question
 

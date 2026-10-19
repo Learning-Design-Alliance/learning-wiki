@@ -17,7 +17,7 @@ sources:
 # Use an unweighted GPA of 3.0 as a college readiness benchmark signaling a high probability of four-year college graduation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 5 studies (4 associational, 1 review), `q2`–`q3` · 0 of 5 report an effect size · 5 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 5 studies (4 associational, 1 review), `q2`–`q3` · 0 of 5 report an effect size · 6 claims rest on one study
 
 ## Description
 The article recommends that high schools and districts treat an unweighted GPA of 3.0 as a validated readiness standard: "a cutoff that gave students a 50 percent or greater likelihood of graduating from a four-year college within six years" in the authors' Chicago analysis. GPA is emphasized because it captures non-cognitive skills like work effort, predicts graduation, and avoids the graduation-versus-college-access trade-off created by raising exit-exam standards.
@@ -44,6 +44,7 @@ The article recommends that high schools and districts treat an unweighted GPA o
 - [For four-year (rather than six-year) graduation, ACT scores are slightly predictive but their coefficient is one-sixth the HSGPA coefficient](../claims/act-weakly-predicts-four-year-graduation.md) [+W]
 - [Contextualized high school GPA had a stronger relationship with college success than contextualized standardized test scores (Bastedo et al., attributed)](../claims/contextualized-gpa-stronger-than-contextualized-test-scores.md) [+W]
 - [High school GPA is the strongest predictor of college admission, persistence, and graduation, more than ACT or SAT scores](../claims/hs-gpa-strongest-college-predictor.md) [+W]
+- [Increasing high school GPA by 0.4 points has a larger impact on four-year college graduation than increasing ACT by 2 points for CPS students of all academic qualifications](../claims/gpa-increase-outperforms-act-for-college-graduation.md) [+W]
 
 ## Related Strategies
 

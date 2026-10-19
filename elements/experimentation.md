@@ -13,7 +13,7 @@ generated:
 # Experimentation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (5 for, 2 mixed, 2 against) · 20 studies (9 quant-synthesis, 6 causal, 2 review, 2 theoretical, 1 associational), `q1`–`q4` · 8 of 20 report an effect size · 3 claims rest on one study
+> **Evidence** · 11 claims (6 for, 3 mixed, 2 against) · 21 studies (9 quant-synthesis, 7 causal, 2 review, 2 theoretical, 1 associational), `q1`–`q4` · 8 of 21 report an effect size · 5 claims rest on one study
 
 ## Description
 Experimentation asks learners to pose a question or prediction, systematically vary conditions, observe outcomes, and revise their understanding based on evidence. It functions as both a learning activity and a model of scientific reasoning: the learner generates a hypothesis, gathers data, and confronts discrepancies between expectation and result.
@@ -55,6 +55,8 @@ Experimentation supports learning by making learners active generators and teste
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [CVS skill is the strongest predictor of performing valid (unconfounded) experiments in simulation-based inquiry](../claims/cvs-predicts-proportion-valid-experiments.md) [~W]
 - [Children's confidence in experimental conclusions increased after training and was higher for unconfounded than confounded experiments, with no training-condition differences](../claims/confidence-increases-unconfounded-experiments.md) [~W]
+- [Students' experiment-evaluation strategies shifted toward correct CVS after instruction, though 23% still used incorrect strategies](../claims/evaluation-strategies-shift-to-cvs.md) [+W]
+- [Individual children in both training conditions were equally likely to become good experimenters or nonlearners after CVS training](../claims/good-experimenter-classification-equal-conditions.md) [~W]
 
 ## The evidence by question
 - *Does adding guidance to inquiry improve what learners learn, and does the kind of guidance matter?* [Guidance during inquiry learning improves post-inquiry learning outcomes (d = 0.50)](../claims/guidance-improves-inquiry-learning-outcomes.md) [+M]

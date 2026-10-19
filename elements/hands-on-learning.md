@@ -13,7 +13,7 @@ generated:
 # Hands-on Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (7 for, 1 mixed) · 8 studies (3 causal, 2 design, 1 quant-synthesis, 1 review, 1 associational), `q1`–`q4` · 2 of 8 report an effect size · 8 claims rest on one study
+> **Evidence** · 9 claims (7 for, 2 mixed) · 8 studies (3 causal, 2 design, 1 quant-synthesis, 1 review, 1 associational), `q1`–`q4` · 2 of 8 report an effect size · 9 claims rest on one study
 
 ## Description
 Hands-on learning is the element in which learners manipulate materials, tools, or environments directly while applying ideas in practice. It is useful when understanding depends on doing, making, testing, or experiencing rather than only discussing.
@@ -47,6 +47,7 @@ Hands-on learning is the element in which learners manipulate materials, tools, 
 - [Teachers found Hero Elementary playlist hands-on activities easy to implement because materials were supplied and prepped.](../claims/hero-elementary-hands-on-activities-easy-implementation-prepped-materials.md) [+W]
 - [Mathematics teacher educators foregrounded engagement-oriented activities such as hands-on problem-solving and group work as key teaching-and-learning activities](../claims/teacher-educators-foreground-engagement-tlas.md) [+W]
 - [Hands-on engagement with an AIDA beta significantly improved students' attitudes toward it, with a large effect size](../claims/aida-hands-on-use-improves-attitudes.md) [+W]
+- [Embodied and cognitive hands-on rely on different feedback sources and are not educationally equivalent](../claims/hands-on-forms-different-feedback-sources.md) [~W]
 
 ## The evidence by question
 - *Does a concrete stage help at all over abstract symbols alone?* [Manipulatives Improve Math Learning](../claims/manipulatives-improve-math-learning.md) [+M]

@@ -43,7 +43,7 @@ sources:
 # Game-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (13 for, 12 mixed) · 31 studies (11 quant-synthesis, 8 causal, 6 review, 3 theoretical, 2 associational, 1 design), `q1`–`q4` · 11 of 31 report an effect size · 19 claims rest on one study
+> **Evidence** · 29 claims (14 for, 15 mixed) · 34 studies (12 quant-synthesis, 8 causal, 7 review, 3 associational, 3 theoretical, 1 design), `q1`–`q4` · 12 of 34 report an effect size · 23 claims rest on one study
 
 ## Conditional relationship
 
@@ -155,6 +155,10 @@ A gain in the game, a gain on an aligned outside test, delayed retention, transf
 - [Digital game-based learning supports long-term retention of second-language vocabulary](../claims/dgbl-long-term-vocabulary-retention.md) [+W]
 - [Specific game features scaffold scientific thinking in ways the authors claim are non-existent in most inquiry-based learning environments](../claims/ar-game-features-scaffold-argumentation.md) [~W]
 - [Number of cell-cycle starts and cell-cycle destroys in Progenitor X were negatively correlated with pre-post learning gains, while total cycle starts across the game were not](../claims/cell-cycle-starts-destroys-negative-correlation.md) [~W]
+- [Game-based learning in primary and early secondary STEM education shows moderate positive effects on cognition, motivation, and behaviour compared to traditional classrooms](../claims/games-stem-moderate-positive-effects-cognition-motivation-behaviour.md) [+W]
+- [Entertainment value of simulation games did not moderate learning relative to comparison instruction](../claims/entertainment-value-does-not-moderate-simulation-game-learning.md) [~W]
+- [Simulation games were the most-used game type for educational assessment (N = 7, 33%), followed by immersive (N = 6, 29%) and video games (N = 5, 24%)](../claims/gba-game-types-simulation-most-used.md) [~W]
+- [Game mechanics difficulty positively predicts persistence in Physics Playground problems](../claims/gm-difficulty-positively-predicts-persistence.md) [~W]
 
 ## Related Principles
 - [Simulations & Immersive Virtual Environments](simulations-immersive-virtual-environments.md) — simulations overlap with game-based learning when the experience models a system learners must navigate.

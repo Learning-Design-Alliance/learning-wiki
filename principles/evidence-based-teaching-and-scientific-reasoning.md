@@ -23,7 +23,7 @@ sources:
 # Evidence-Based Teaching and Scientific Reasoning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (9 for, 6 mixed, 2 against) · 17 studies (5 associational, 4 review, 3 causal, 2 theoretical, 1 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 0 of 17 report an effect size · 15 claims rest on one study
+> **Evidence** · 19 claims (10 for, 7 mixed, 2 against) · 19 studies (5 review, 5 associational, 4 causal, 2 theoretical, 1 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 0 of 19 report an effect size · 17 claims rest on one study
 
 ## Conditional relationship
 
@@ -165,6 +165,11 @@ For example, a primary teacher may want to keep a phonics game their class loves
 The expectation should weaken if schools or teachers who choose approaches by rigorous comparisons, with comparable learners and aligned outcomes, show no better results over several years than those who choose by experience and peer recommendation, as elementary reading did in the reform evaluation. It should change shape if local trials run by teachers turn out too small or too short to tell approaches apart, in which case the default should route decisions to pooled trials across schools rather than to single classrooms. If teachers taught to read research choose differently but their learners do no better, the professional-learning arc serves epistemic goals only. Do not protect the model by calling every failure "the evidence was not rigorous enough" after the fact.
 
 Choosing on evidence, the quality of the evidence chosen on, the outcome for learners and the horizon are separate claims. The present evidence establishes no threshold of evidence that should be required before adoption and no minimum size for a local trial.
+
+## Claims
+
+- [Lay forecasters predicted that practicing alone would produce more learning than practicing with AI, contrary to the experimental results](../claims/forecasters-predicted-ai-practice-would-harm-learning.md) [+W]
+- [Rigorous investigation of GenAI's actual educational and cognitive effects remains limited despite increasing integration into learning environments](../claims/genai-pedagogical-effects-investigation-limited.md) [~W]
 
 ## Related Principles
 - [Educational Psychology as Both Art and Science](../theories/educational-psychology-as-art-and-science.md)

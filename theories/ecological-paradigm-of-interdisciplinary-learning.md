@@ -17,7 +17,7 @@ sources:
 # Ecological Paradigm of Interdisciplinary Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 8 claims (6 for, 2 mixed) · 8 studies (3 qualitative, 2 causal, 2 review, 1 theoretical), `q1`–`q2` · 1 of 8 report an effect size · 8 claims rest on one study
+> **Evidence** · 9 claims (7 for, 2 mixed) · 9 studies (3 qualitative, 2 causal, 2 review, 2 theoretical), `q1`–`q2` · 1 of 9 report an effect size · 9 claims rest on one study
 
 ## Description
 The ecological paradigm contrasts with the field's dominant **cognitivist paradigm** of interdisciplinary learning (IDL) research, in which success is measured by an individual's cognitive integration of disciplinary insights (groundedness, integration, reflectiveness — Boix Mansilla & Duraisingh's three dimensions). The ecological paradigm instead studies IDL as a **group-level, socio-material process**: learners are treated as agents who interact with peers, artifacts, communities, institutions, and — depending on the activity — the natural environment, and success is measured by the interdisciplinary *practices* a group develops (epistemic practices, identity development, authentic research productivity), not only by what settles in an individual mind afterward.
@@ -51,6 +51,7 @@ This paradigm organizes design guidance around three recurring dilemmas, each wi
 - [Analyses of the CSCL literature show statistical measures at the individual unit of analysis dominate published CSCL research despite calls for group-level analysis](../claims/individual-unit-analysis-dominates-cscl-methods.md) [~W]
 - [The editorial reports that successful collaborative making teams resolved coordination challenges through intertwined social-discursive and materially mediated processes](../claims/making-team-success-coordination-entanglement.md) [+W]
 - [Patterns of emergent leadership differed across disciplinary content areas, with some students leading in math but not history](../claims/leadership-patterns-vary-across-content-areas.md) [+W]
+- [Group engagement can be operationalized as a differentiated, evolving, multi-faceted construct at the group unit of analysis](../claims/group-engagement-multifaceted-group-level.md) [+W]
 
 ## The evidence by question
 

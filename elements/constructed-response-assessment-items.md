@@ -13,7 +13,7 @@ generated:
 # Constructed-Response Assessment Items
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 26 claims (9 for, 15 mixed, 2 against) · 22 studies (8 design, 6 associational, 3 causal, 3 review, 1 qualitative, 1 theoretical), `q1`–`q3` · 5 of 22 report an effect size · 26 claims rest on one study
+> **Evidence** · 37 claims (12 for, 23 mixed, 2 against) · 29 studies (11 design, 8 associational, 5 causal, 3 review, 1 qualitative, 1 theoretical), `q1`–`q3` · 5 of 29 report an effect size · 37 claims rest on one study
 
 ## Description
 Constructed-response items ask students to recall information and produce their own answer rather than recognize a provided one, which reduces guessing compared with [selected-response items](selected-response-assessment-items.md). Two major kinds are used: **completion/short-answer** items (answerable in a word, phrase, number, or symbol — the same underlying format whether phrased as a statement to complete or a question to answer) and **extended-response** items (answers ranging from a paragraph to several pages, often called essay questions when they run long).
@@ -70,6 +70,17 @@ The central disadvantage of extended-response items is unreliable scoring: diffe
 - [AEEGS and human raters produced nearly equivalent, low mean scores (5.94 vs 5.97 of 20), with AEEGS slightly higher](../claims/aeegs-human-mean-scores-equivalent-low.md) [~W]
 - [Six closed-model configurations grade at or below the human inter-grader floor of 2.61/35 on the CV exam, with the best reaching MAE 1.64](../claims/closed-llm-graders-below-human-floor.md) [+W]
 - [A construction-focused correctness rubric underperformed behavior-focused and undefined prompts for LLM scoring of code explanations](../claims/construction-rubric-underperformed-llm-scoring.md) [+W]
+- [Sentence embedding models reach only moderate agreement and need human supervision for open-ended grading](../claims/embedding-models-moderate-agreement-need-supervision.md) [+W]
+- [Equivalence failures under human evaluators were confined to five assignment-by-question-type cells, four of them on code questions](../claims/five-cells-exceeded-equivalence-margin.md) [~W]
+- [Grading time shows a sweet spot: students grading around 20 minutes (time z-score near -0.25) have significantly lower residual standard deviations than slow graders, while snap graders are unreliable and inflate grades](../claims/grading-time-sweet-spot-twenty-minutes.md) [~W]
+- [Human scoring and feedback for HDR takes about 11 minutes 30 seconds per learner, while GPT-based scoring and feedback is nearly instant](../claims/hdr-human-scoring-time-burden.md) [+W]
+- [Hint-based prompts raise ChatGPT scoring agreement with human experts to 98–100%, while no-hint prompts are unstable (Q2 precision 0.42)](../claims/hint-prompts-raise-llm-scoring-agreement.md) [+W]
+- [Human evaluators' prioritization of essential features was significantly better for low-quality essays than for average- and high-scoring essays](../claims/human-prioritization-varies-by-essay-quality.md) [~W]
+- [Systematic underestimation of human scores is the dominant bias trend across LLM essay scoring, with some models also compressing scores into a narrow range](../claims/llm-essay-scoring-systematic-underestimation.md) [~W]
+- [LLM agreement with human examiners is limited in fast mode and improves in reasoning or thinking modes](../claims/llm-fast-mode-limited-thinking-mode-better-agreement.md) [~W]
+- [A short strict-grader preamble knocks 14 of 17 open-weights LLM graders out of the graded band on a computer-vision exam, with three stopping grading outright](../claims/llm-grader-strict-persona-collapse.md) [~M]
+- [Machine–machine agreement exceeds human–machine agreement but remains below human–human agreement](../claims/machine-machine-above-human-machine-below-human-human.md) [~W]
+- [A multi-armed bandit controller achieves scoring accuracy comparable to exhaustive grid search while reducing LLM calls by 78.4% and token consumption by 72.8%](../claims/mab-prompt-selection-reduces-aes-costs.md) [~W]
 
 ## The evidence by question
 - *Which practice format: short answer, multiple choice, or matching the final test?* [Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference](../claims/short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed.md) [~M]

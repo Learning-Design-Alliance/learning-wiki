@@ -13,7 +13,7 @@ generated:
 # Provide Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 20 claims (9 for, 9 mixed, 1 against, 1 unmarked) · 26 studies (7 quant-synthesis, 6 review, 5 causal, 3 qualitative, 2 associational, 2 design, 1 theoretical), `q2`–`q4` · 6 of 26 report an effect size · 14 claims rest on one study
+> **Evidence** · 22 claims (10 for, 10 mixed, 1 against, 1 unmarked) · 28 studies (8 quant-synthesis, 7 review, 5 causal, 3 qualitative, 2 associational, 2 design, 1 theoretical), `q2`–`q4` · 6 of 28 report an effect size · 16 claims rest on one study
 
 ## Description
 Providing feedback gives learners information about the gap between their current and desired performance, so they can correct errors and refine understanding. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? (Hattie & Timperley, 2007). It functions as the corrective loop that makes [Practice](practice.md) productive rather than merely repetitive.
@@ -66,6 +66,8 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Students need clear guidance so they are not overwhelmed by Ecree's feedback, which may be most useful for advanced writers](../claims/students-need-guidance-ecree-feedback-advanced-writers.md) [~W]
 - [A trusting, supportive teacher-student relationship emerged as a prominent motivator for acting on feedback, especially for Information Seekers with Low Emotional Strain](../claims/teacher-relationship-motivates-feedback-action.md) [~W]
 - [Students who preferred AI feedback cited clarity, understandability, consistency, specificity, and 24/7 availability](../claims/ai-feedback-preference-clarity-availability-reasons.md) [+W]
+- [Feedback direction moderates effects: student-to-student feedback is most effective (d = 0.85), teacher-to-student d = 0.47, student-to-teacher d = 0.35](../claims/feedback-direction-moderator-student-student-highest.md) [~W]
+- [Learners prefer receiving corrective feedback more than teachers feel they should provide it](../claims/learners-prefer-cf-more-than-teachers-provide.md) [+W]
 
 ## The evidence by question
 - *What should the feedback after a check say, and who or what should give it?* [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](../claims/feedback-improves-learning.md) [+S]

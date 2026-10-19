@@ -21,7 +21,7 @@ sources:
 # Traditional Lecture-Based Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 21 claims (1 for, 14 mixed, 6 against) · 30 studies (9 review, 6 causal, 6 theoretical, 4 quant-synthesis, 4 qualitative, 1 design), `q1`–`q4` · 4 of 30 report an effect size · 15 claims rest on one study
+> **Evidence** · 24 claims (2 for, 14 mixed, 8 against) · 33 studies (10 review, 7 causal, 6 theoretical, 4 quant-synthesis, 4 qualitative, 1 associational, 1 design), `q1`–`q4` · 4 of 33 report an effect size · 18 claims rest on one study
 
 ## Description and scope
 
@@ -140,6 +140,12 @@ Record: **objectives and the kind each is (information, thought, attitude, skill
 [Lectures](../elements/lectures.md), [note-taking](../elements/note-taking.md), [demonstration](../elements/demonstration.md), [class discussion](../elements/class-discussion.md), [practice](../elements/practice.md), [practice testing](../elements/practice-testing.md), [feedback](../elements/feedback.md), [summarization and synthesis](../elements/summarization-and-synthesis.md) and [assessment](../elements/assessment.md). Principles the pattern draws on: [Active Learning](../principles/active-learning.md), [Direct Instruction](../principles/direct-instruction.md), [Chunking](../principles/chunking.md), [Note-taking](../principles/note-taking.md) and [Retrieval Practice](../principles/retrieval-practice.md).
 
 This pattern is scoped to courses where a lecturer's explanation to a whole group carries the information objectives. Objectives about thinking, attitudes and skills need other configurations ([Peer Instruction](peer-instruction.md), [Team-Based Learning](team-based-learning.md), [Flipped Classroom](../principles/flipped-learning.md), [Just-in-Time Teaching](../principles/responsive-teaching.md), [Direct Instruction](direct-instruction.md) for guided practice). Whether a segmented lecture with checks does better than the same lecture without them, for which learners and at what horizon, is not tested by any claim in this wiki; the segment lengths, thresholds and lecture shares above are proposals to observe.
+
+## Claims
+
+- [Objective feedback is neither necessary nor sufficient for the group advantage; discussion is the critical factor](../claims/feedback-not-needed-for-group-advantage.md) [+W]
+- [The authors conclude that students in Just-in-Time Teaching courses better understand Newton's Third Law after instruction than students in traditional lecture courses](../claims/jitt-better-newtons-third-law-understanding.md) [-W]
+- [Predominantly lecture-based courses are associated with less engagement, while class discussion and group work time are associated with more](../claims/lecture-decreases-discussion-groupwork-increase-engagement.md) [-W]
 
 ## Related Patterns
 - [Direct Instruction](direct-instruction.md) — the explain, model, guided-practice and hand-over policy; a lecture segment is its explanation step delivered to a large group

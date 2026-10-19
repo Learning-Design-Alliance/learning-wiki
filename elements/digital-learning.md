@@ -13,7 +13,7 @@ generated:
 # Digital Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (2 for, 3 mixed, 1 against) · 6 studies (2 causal, 2 qualitative, 1 associational, 1 theoretical), `q1`–`q3` · 0 of 6 report an effect size · 6 claims rest on one study
+> **Evidence** · 8 claims (3 for, 4 mixed, 1 against) · 8 studies (3 causal, 2 qualitative, 1 associational, 1 design, 1 theoretical), `q1`–`q3` · 1 of 8 report an effect size · 8 claims rest on one study
 
 ## Description
 Digital learning is the element in which instruction, resources, or interaction are mediated through digital tools, platforms, or networks. It is useful when learners need flexible access, interactive media, or non-linear exploration.
@@ -42,6 +42,8 @@ Digital learning is the element in which instruction, resources, or interaction 
 - [Computer-mediated (videoconferencing) collaboration leads learners to use a wider range of knowledge resources than face-to-face collaboration](../claims/videoconferencing-wider-range-of-resources.md) [~W]
 - [Skill-mastery predictions of biology exam performance were sustained in a redesigned video-based multimedia training prioritizing learning efficiency](../claims/multimedia-redesign-sustains-skill-mastery-predictions.md) [~W]
 - [Digital network mapping tools support students in critically selecting and reviewing online data on socio-scientific controversies](../claims/gephi-mapping-supports-critical-data-review.md) [+W]
+- [Graduate students can effectively develop interactive educational online software modules as a curriculum component of an advanced science course](../claims/graduate-students-develop-interactive-modules-as-course-project.md) [+W]
+- [The Hero Elementary playlist intervention showed no statistically significant effect on K-2 students' science knowledge (effect size 0.10, p ~ 0.38)](../claims/hero-elementary-playlists-no-significant-science-knowledge-effect.md) [~W]
 
 ## Related Elements
 

@@ -17,7 +17,7 @@ sources:
 # Belonging
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 15 claims (13 for, 2 mixed) · 19 studies (4 review, 4 qualitative, 3 causal, 3 theoretical, 2 quant-synthesis, 2 associational, 1 design), `q1`–`q4` · 2 of 19 report an effect size · 12 claims rest on one study
+> **Evidence** · 22 claims (16 for, 6 mixed) · 20 studies (5 review, 4 qualitative, 3 causal, 3 theoretical, 2 quant-synthesis, 2 associational, 1 design), `q1`–`q4` · 2 of 20 report an effect size · 19 claims rest on one study
 
 ## Description
 Belonging is a learner's subjective sense of being a valued member of a learning community — accepted by peers and instructors, and confident that they fit there. It is not an activity but a psychological state that instructional designs can foster or undermine. Because belonging shapes persistence, engagement, and interpretation of difficulty, it functions as a motivational foundation on which other elements depend.
@@ -73,6 +73,13 @@ Belonging uncertainty — doubt about whether one fits in a setting — dispropo
 - [Girls' lower sense of belonging mediates the relation between gender-interest stereotypes and their lower interest in computer science, with the opposite mediation for boys](../claims/belonging-mediation-gender-interest-stereotypes.md) [+W]
 - [School belonging and GPA were modestly positively correlated among Latino sixth graders (r = .20)](../claims/belonging-gpa-correlation-latino-sixth-graders.md) [+W]
 - [Collectivism is not significantly linked to students' sense of belonging at school](../claims/collectivism-not-linked-sobas.md) [~W]
+- [Students in more egalitarian cultures often have higher sense of belonging at school than students in more hierarchical cultures](../claims/egalitarian-cultures-higher-sobas.md) [~W]
+- [Female STEM majors report significantly lower sense of belonging than male majors](../claims/female-majors-report-less-belonging-than-male-majors.md) [~W]
+- [Oral communicative competence relates to peer acceptance only for boys and not to peer rejection, indicating gender as a moderator](../claims/gender-moderates-competence-acceptance-relation.md) [~W]
+- [Representation in the sub-discipline relates to belonging: women of color in pSTEM report belonging less frequently than white men](../claims/field-representation-relates-to-womens-belonging.md) [+W]
+- [Among Latino sixth graders, increases in same-ethnic representation from elementary to middle school are associated with higher school belonging and GPA, qualified by school ethnic diversity](../claims/latino-representation-change-belonging-gpa-main-effect.md) [+W]
+- [Latino girls reported higher belonging and achievement than boys, and Latino subgroup and parent-education differences emerged in the sixth grade](../claims/latino-gender-subgroup-covariate-differences.md) [~W]
+- [Women of color are the least likely, and white men the most likely, to report a sense of belonging in STEM majors](../claims/intersectional-belonging-women-of-color-lowest-white-men-highest.md) [+W]
 
 ## The evidence by question
 - *Do brief interventions that address belonging uncertainty improve achievement and persistence, and for whom?* [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+S]
