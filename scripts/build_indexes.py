@@ -324,7 +324,7 @@ def build_root_index(counts: dict) -> str:
         "follow the markdown links in each page to traverse the graph, and use `grep` for targeted search.",
         "",
         "**As a human**: browse the folder indexes above, or open the "
-        "[docs site](https://learning-design-alliance.github.io/learning-wiki/). "
+        "[docs site](https://wiki.learningdesignalliance.org/). "
         "Evidence tags (**[+S]**, **[+M]**, **[~M]**, **[-W]**) indicate claim support strength. "
         "Pages marked `status: draft` are stubs or unreviewed; `review` pages have content that needs an expert's check.",
         "",

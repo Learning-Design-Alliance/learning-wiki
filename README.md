@@ -2,7 +2,7 @@
 
 A persistent, LLM-maintained knowledge base for learning design — research-backed principles, instructional elements, reusable patterns, designs that apply them, teaching strategies, design processes and methods, theories, learner variables, and empirical claims, cross-linked and evidence-tagged.
 
-**Browse online:** [learning-design-alliance.github.io/learning-wiki](https://learning-design-alliance.github.io/learning-wiki/)
+**Browse online:** [wiki.learningdesignalliance.org](https://wiki.learningdesignalliance.org/)
 
 **Format:** This wiki is an [Open Knowledge Format (OKF) v0.2](https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md) bundle — plain markdown with YAML frontmatter and standard markdown cross-links, readable and diffable without any special tooling.
 
