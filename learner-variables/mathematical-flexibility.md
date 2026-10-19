@@ -3,6 +3,7 @@ type: learner-variable
 id: mathematical-flexibility
 title: Mathematical Flexibility
 description: "A learner's ability to hold and move between several representations of numbers and several strategies, choosing the one that suits the problem."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

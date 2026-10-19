@@ -3,6 +3,7 @@ type: learner-variable
 id: age-and-developmental-stage
 title: Age and Developmental Stage
 description: "A learner's age, grade level or stage of development, from early childhood to adulthood, as it bears on what instruction suits them."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

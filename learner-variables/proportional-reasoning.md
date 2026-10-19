@@ -3,6 +3,7 @@ type: learner-variable
 id: proportional-reasoning
 title: Proportional Reasoning
 description: "A learner's understanding of ratios and the relationships between them, as expressed in fractions, percentages and rates."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

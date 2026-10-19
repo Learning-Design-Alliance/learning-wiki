@@ -3,6 +3,7 @@ type: learner-variable
 id: self-efficacy
 title: Self-Efficacy
 description: "A learner's belief in their own ability to carry out the actions needed to succeed at a particular task or in a particular subject."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

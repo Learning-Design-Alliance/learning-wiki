@@ -3,6 +3,7 @@ type: learner-variable
 id: measurement
 title: Measurement
 description: "A learner's understanding of measuring: picking out an attribute such as length, area or time and quantifying it by comparison with a unit of the same kind."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

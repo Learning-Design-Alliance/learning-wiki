@@ -2,6 +2,7 @@
 type: theory
 title: "Zone of Proximal Development as learners' responsiveness to culturally appropriate mediation"
 description: "In this interview's account, the ZPD is what the instrumental method becomes when brought into school: education delivers \"appropriate forms of cultural mediation\" and observes whether and how students integrate them..."
+canonical: true
 status: review
 generated:
   by: "process:wiki-ingest"

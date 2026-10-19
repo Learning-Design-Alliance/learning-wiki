@@ -3,6 +3,7 @@ type: learner-variable
 id: race-and-ethnicity
 title: Race and Ethnicity
 description: "A learner's racial or ethnic group as recorded in research and administrative data, used to describe gaps in opportunity and outcomes and to test whether an instructional effect differs across groups."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

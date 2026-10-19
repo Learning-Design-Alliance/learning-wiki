@@ -3,6 +3,7 @@ type: learner-variable
 id: creativity
 title: Creativity
 description: "A learner's ability to generate novel and useful ideas, usually measured as divergent thinking: the fluency, flexibility, originality and elaboration of ideas produced for an open-ended problem."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

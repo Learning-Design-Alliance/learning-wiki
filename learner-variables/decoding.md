@@ -3,6 +3,7 @@ type: learner-variable
 id: decoding
 title: Decoding
 description: "A learner's ability to turn written words into spoken words and meanings, by applying letter-sound knowledge to unfamiliar words and by recognising familiar words at sight."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

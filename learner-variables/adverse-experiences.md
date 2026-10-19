@@ -3,6 +3,7 @@ type: learner-variable
 id: adverse-experiences
 title: Adverse Experiences
 description: "Events that can cause trauma, such as abuse, neglect, witnessing violence or instability at home, and the chronic stress they leave behind."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

@@ -3,6 +3,7 @@ type: learner-variable
 id: socioeconomic-status
 title: Socioeconomic Status
 description: A learner's family income, wealth, parental education and occupation, and the resources and constraints that come with them.
+canonical: true
 status: review
 generated:
   by: claude/unspecified

@@ -40,6 +40,7 @@ jobs:
           python3 scripts/build_reverse_index.py --check
           python3 scripts/build_wiki_index.py --check
           python3 scripts/build_evidence_report.py --check
+          python3 scripts/build_situation_index.py --check
           python3 scripts/build_indexes.py --check
 
       # The curated tier with mkdocs, the long tail with build_longtail.py, and the

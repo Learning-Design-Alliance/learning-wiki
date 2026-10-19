@@ -3,6 +3,7 @@ type: learner-variable
 id: academic-self-concept
 title: Academic Self-Concept
 description: "A learner's perception of their own ability in an academic domain, such as how good they think they are at mathematics or at reading."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

@@ -3,6 +3,7 @@ type: learner-variable
 id: critical-thinking
 title: Critical Thinking
 description: "A learner's ability and disposition to evaluate information and arguments, weigh evidence and perspectives, and reason to a judgement or decision."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

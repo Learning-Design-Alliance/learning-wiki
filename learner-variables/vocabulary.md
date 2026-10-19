@@ -3,6 +3,7 @@ type: learner-variable
 id: vocabulary
 title: Vocabulary
 description: "The words a learner knows and can use, receptively and expressively, including the academic and subject-specific words that school texts depend on."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

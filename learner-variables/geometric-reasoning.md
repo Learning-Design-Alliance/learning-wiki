@@ -3,6 +3,7 @@ type: learner-variable
 id: geometric-reasoning
 title: Geometric Reasoning
 description: "A learner's ability to define, analyse and argue about shapes and spatial relationships, up to writing formal geometric proofs."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

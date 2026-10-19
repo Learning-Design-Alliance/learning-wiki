@@ -3,6 +3,7 @@ type: learner-variable
 id: algebraic-thinking
 title: Algebraic Thinking
 description: "A learner's ability to generalise, represent, justify and reason about mathematical structures and relationships, from patterns in arithmetic to equations and functions."
+canonical: true
 status: review
 generated:
   by: claude/unspecified
