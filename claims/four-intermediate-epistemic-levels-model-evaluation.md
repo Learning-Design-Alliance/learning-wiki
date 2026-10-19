@@ -45,3 +45,4 @@ In the qualitative middle-out coding of the 188 students' responses, "four new a
 ## Related Claims
 - [Among students choosing multiplist and evaluatist assumptions, 11th-grade students were more likely than eighth-grade students to justify their views with pragmatic and evidential criteria of knowing](older-students-pragmatic-evidential-criteria-justification.md) — related
 - [Eighth- and 11th-grade students do not differ statistically significantly in their choice of epistemic assumptions about model evaluation, although a higher percentage of 11th graders chose the evaluatist assumption](grade-levels-no-significant-difference-model-evaluation-assumptions.md) — related
+- [Participants with evaluativist epistemic beliefs are more likely to write two-sided reports than those with absolutist or multiplist epistemic beliefs](evaluativist-beliefs-two-sided-reports.md) — related

@@ -35370,5 +35370,257 @@
  "worked-examples\tvideo modeling examples\tpretest before studying the videos": {
   "label": "worked examples vs pretesting",
   "treatment_is_a": true
+ },
+ "active-learning\tConstructive and Interactive lesson tasks\tPassive, Active, or Active/Collaborative tasks": {
+  "label": "Constructive/interactive engagement vs passive/active engagement",
+  "treatment_is_a": true
+ },
+ "active-learning\tPassive and Active engagement modes\tConstructive and Interactive engagement modes": {
+  "label": "Constructive/interactive engagement vs passive/active engagement",
+  "treatment_is_a": false
+ },
+ "active-learning\texample plus teacher-guided classroom discussion and individual reflection prompts\texample concept map only": {
+  "label": "Teacher-guided discussion plus individual reflection vs concept mapping only",
+  "treatment_is_a": true
+ },
+ "active-learning\texample plus teacher-guided classroom discussion and individual reflection prompts\texample concept map plus individual reflection prompts": {
+  "label": "Teacher-guided discussion plus individual reflection vs concept mapping plus individual reflection",
+  "treatment_is_a": true
+ },
+ "active-learning\texample plus teacher-guided classroom discussion and individual reflection prompts\tno support control": {
+  "label": "Teacher-guided discussion plus individual reflection vs no-support control",
+  "treatment_is_a": true
+ },
+ "active-learning\texpert example plus teacher-guided classroom discussion and individual prompts\tall other conditions": {
+  "label": "Expert example plus teacher-guided discussion and individual reflection vs other conditions",
+  "treatment_is_a": true
+ },
+ "active-learning\texpert example, teacher-guided classroom discussion, and individual reflection prompts\texpert example and individual reflection prompts": {
+  "label": "Teacher-guided discussion plus individual reflection vs individual reflection only, with an expert example",
+  "treatment_is_a": true
+ },
+ "active-learning\texpert example, teacher-guided classroom discussion, and individual reflection prompts\texpert example only": {
+  "label": "Expert example plus teacher-guided discussion and individual reflection vs expert example only",
+  "treatment_is_a": true
+ },
+ "active-learning\texpert example, teacher-guided classroom discussion, and individual reflection prompts\tno support beyond concept mapping": {
+  "label": "Expert example plus teacher-guided discussion and individual reflection vs concept mapping only",
+  "treatment_is_a": true
+ },
+ "active-learning\tteacher-guided classroom discussion followed by individual reflection prompts\tindividual reflection prompts": {
+  "label": "Teacher-guided discussion followed by individual reflection vs individual reflection only",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tActive tasks\tPassive tasks": {
+  "label": "Active tasks vs passive tasks",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tConstructive tasks\tPassive tasks": {
+  "label": "Constructive tasks vs passive tasks",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tInteractive tasks\tPassive tasks": {
+  "label": "Interactive tasks vs passive tasks",
+  "treatment_is_a": true
+ },
+ "autonomy-support\ttasks offering opportunities for students to determine aspects of learning\ttasks offering no such opportunities": {
+  "label": "Autonomy-supportive tasks vs autonomy-controlling tasks",
+  "treatment_is_a": true
+ },
+ "case-comparison\tcombined expert-and-student concept map\tself-generated concept mapping without the combined map": {
+  "label": "combined expert-and-student concept map vs self-generated concept map",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tRIDE effective-communication instruction\tno intervention control": {
+  "label": "explicit instruction vs no intervention",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tRIDE rules instruction\tControl condition with no intervention": {
+  "label": "explicit instruction vs no intervention",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tRIDE rules instruction\tcontrol instruction unrelated to the experiment": {
+  "label": "explicit instruction vs unrelated instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit strategy instances targeting cognitive capabilities\texplicit strategy instances targeting other capabilities": {
+  "label": "cognitive-targeted strategy instruction vs other-targeted strategy instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit strategy instances that were domain-specific\tother promotion types that tended to be domain-general": {
+  "label": "domain-specific strategy instruction vs domain-general strategy instruction",
+  "treatment_is_a": true
+ },
+ "feedback-type\tmonitoring feedback\tactive control without feedback": {
+  "label": "monitoring feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tperformance feedback\tactive control without feedback": {
+  "label": "performance feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "media-design\tdisfluent font on screen\tfluent font on screen": {
+  "label": "disfluent vs fluent presentation",
+  "treatment_is_a": true
+ },
+ "media-design\tdisfluent versus fluent presentation within subjects\tfluent versus disfluent presentation between subjects": {
+  "label": "within-subjects vs between-subjects design",
+  "treatment_is_a": true
+ },
+ "media-design\tunrelated word pairs in disfluent fonts\tunrelated word pairs in fluent fonts": {
+  "label": "disfluent vs fluent presentation",
+  "treatment_is_a": true
+ },
+ "media-design\tword pairs in disfluent fonts\tword pairs in fluent fonts": {
+  "label": "disfluent vs fluent presentation",
+  "treatment_is_a": true
+ },
+ "practice-amount\trepeated grade estimates across the school year\tearlier grade estimates": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\trepeated grade-estimation practice over the school year\tearlier grade estimates": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "prompts\tGrade comparison support\tPractice-only": {
+  "label": "Grade comparison support vs practice-only",
+  "treatment_is_a": true
+ },
+ "prompts\tJOLs with complete words\trestudy": {
+  "label": "Complete-word JOLs vs restudy",
+  "treatment_is_a": true
+ },
+ "prompts\tJOLs with complete words\trestudy of prior list words": {
+  "label": "Complete-word JOLs vs restudy of prior-list words",
+  "treatment_is_a": true
+ },
+ "prompts\tJOLs with word stems\tJOLs with complete words": {
+  "label": "Complete-word JOLs vs word-stem JOLs",
+  "treatment_is_a": false
+ },
+ "prompts\tJOLs with word stems\tovert retrieval practice": {
+  "label": "Word-stem JOLs vs overt retrieval practice",
+  "treatment_is_a": true
+ },
+ "prompts\tJOLs with word stems\trestudy": {
+  "label": "Word-stem JOLs vs restudy",
+  "treatment_is_a": true
+ },
+ "prompts\tJOLs with word stems\trestudy of prior list words": {
+  "label": "Word-stem JOLs vs restudy of prior-list words",
+  "treatment_is_a": true
+ },
+ "prompts\tReflection support\tGrade comparison": {
+  "label": "Reflection support vs grade comparison",
+  "treatment_is_a": true
+ },
+ "prompts\tReflection support\tGrade comparison support": {
+  "label": "Reflection support vs grade comparison support",
+  "treatment_is_a": true
+ },
+ "prompts\tReflection support\tPractice-only": {
+  "label": "Reflection support vs practice-only",
+  "treatment_is_a": true
+ },
+ "prompts\tconfidence ratings after each task item\tno confidence ratings": {
+  "label": "Confidence ratings after each task item vs no confidence ratings",
+  "treatment_is_a": true
+ },
+ "prompts\tconfidence ratings during the task\tno confidence ratings": {
+  "label": "Confidence ratings during the task vs no confidence ratings",
+  "treatment_is_a": true
+ },
+ "prompts\tconfidence ratings during the timed Latin Square Task\tno confidence ratings; blank screen delay": {
+  "label": "Confidence ratings during the timed Latin Square Task vs blank-screen delay",
+  "treatment_is_a": true
+ },
+ "prompts\tearlier lists, e.g. List 1\tlater lists, e.g. List 4": {
+  "label": "Earlier lists vs later lists",
+  "treatment_is_a": true
+ },
+ "prompts\texpert example plus individual reflection prompts\tno support control": {
+  "label": "Expert example plus individual reflection prompts vs no-support control",
+  "treatment_is_a": true
+ },
+ "prompts\tfrequent prompt use\tless frequent prompt use": {
+  "label": "Frequent prompt use vs less frequent prompt use",
+  "treatment_is_a": true
+ },
+ "prompts\tpre-structured diagram with self-assessment cues\tempty diagram": {
+  "label": "Pre-structured diagram with self-assessment cues vs empty diagram",
+  "treatment_is_a": true
+ },
+ "prompts\treflection support after receiving grades\tPractice-only group receiving grades": {
+  "label": "Reflection support after receiving grades vs practice-only after receiving grades",
+  "treatment_is_a": true
+ },
+ "prompts\trestudy\tword-stem JOLs": {
+  "label": "Word-stem JOLs vs restudy",
+  "treatment_is_a": false
+ },
+ "prompts\tword-stem JOLs\trestudy": {
+  "label": "Word-stem JOLs vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\trestudy\tretrieval practice": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": false
+ },
+ "retrieval-practice\tretrieval practice\trestudy": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tretrieval practice with word stems\trestudy": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tretrieval practice with word-stem cues\trestudy": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tretrieval practice with word-stem cues\trestudy of prior list words": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "scaffolding\tpersonalized scaffolds\tno scaffolds": {
+  "label": "personalized scaffolds vs no scaffolds",
+  "treatment_is_a": true
+ },
+ "scaffolding\tpersonalized scaffolds\tnon-personalized scaffolds": {
+  "label": "personalized scaffolds vs non-personalized scaffolds",
+  "treatment_is_a": true
+ },
+ "scaffolding\tpre-structured diagram\tempty diagram": {
+  "label": "pre-structured diagram vs empty diagram",
+  "treatment_is_a": true
+ },
+ "scaffolding\tpre-structured diagram with self-assessment cues\tempty diagram": {
+  "label": "pre-structured diagram with self-assessment cues vs empty diagram",
+  "treatment_is_a": true
+ },
+ "scaffolding\trule-triggered pedagogical agents\tagents available but not triggered": {
+  "label": "rule-triggered pedagogical agents vs available but not triggered",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation leader\tteam member": {
+  "label": "simulation leader vs team member",
+  "treatment_is_a": true
+ },
+ "test-format\t2AFC testing\tfree-response testing": {
+  "label": "free-response vs multiple-choice",
+  "treatment_is_a": false
+ },
+ "test-format\tfree-response testing\t2AFC testing": {
+  "label": "free-response vs multiple-choice",
+  "treatment_is_a": true
+ },
+ "test-format\tmultiple-choice (2AFC) testing\tfree-response testing": {
+  "label": "free-response vs multiple-choice",
+  "treatment_is_a": false
+ },
+ "test-format\tmultiple-choice testing\tfree-response testing": {
+  "label": "free-response vs multiple-choice",
+  "treatment_is_a": false
  }
 }

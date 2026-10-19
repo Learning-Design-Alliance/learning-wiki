@@ -8,32 +8,32 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 21,273 |
-| Evidence entries | 25,359 |
-| Distinct studies | 5,793 |
-| Claims resting on one study | 20,762 (98%) |
+| Claims | 21,642 |
+| Evidence entries | 25,806 |
+| Distinct studies | 5,858 |
+| Claims resting on one study | 21,131 (98%) |
 | Claims with no coded evidence | 2 |
-| Studies reporting an effect size | 1,278 of 5,793 (22%) |
+| Studies reporting an effect size | 1,312 of 5,858 (22%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 71 | 723 | 253 | 356 | 1,403 |
-| quant-synthesis | 64 | 117 | 38 | 118 | 337 |
-| review | 92 | 373 | 104 | 124 | 693 |
-| associational | 63 | 853 | 346 | 261 | 1,523 |
-| qualitative | 123 | 316 | 68 | 88 | 595 |
-| design | 57 | 529 | 131 | 32 | 749 |
-| theoretical | 99 | 288 | 50 | 56 | 493 |
+| causal | 73 | 743 | 256 | 356 | 1,428 |
+| quant-synthesis | 64 | 118 | 38 | 118 | 338 |
+| review | 92 | 381 | 104 | 124 | 701 |
+| associational | 64 | 871 | 353 | 262 | 1,550 |
+| qualitative | 123 | 317 | 68 | 88 | 596 |
+| design | 57 | 531 | 131 | 32 | 751 |
+| theoretical | 99 | 289 | 50 | 56 | 494 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 727 (13%) | 3,406 (59%) | 1,538 (27%) | 122 (2%) |
+| 728 (12%) | 3,438 (59%) | 1,570 (27%) | 122 (2%) |
 
-**Studies per claim:** 0: 2, 1: 20,762, 2: 427, 3: 66, 4 or more: 16.
+**Studies per claim:** 0: 2, 1: 21,131, 2: 427, 3: 66, 4 or more: 16.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -87,7 +87,7 @@ The claims the rest of the wiki cites most, beside what they rest on. A claim ci
 | [Automatic word recognition frees resources for comprehension](claims/automatic-word-recognition-frees-resources-for-comprehension.md) | 170 pages | 2 | q1–q2 | 0 of 2 |
 | [Fading support promotes the transfer of responsibility from instructor to learner.](claims/fading-support-promotes-transfer-of-responsibility.md) | 170 pages | 2 | q3 | 0 of 2 |
 | [Advance organizers aided learning in a 1980 meta-analysis, but activating prior topic …](claims/activation-improves-learning.md) | 151 pages | 3 | q3 | 1 of 3 |
-| [Learners invest more effort in tasks they perceive as interesting, personally important, …](claims/task-value-increases-motivation-and-engagement.md) | 126 pages | 2 | q2–q3 | 0 of 2 |
+| [Learners invest more effort in tasks they perceive as interesting, personally important, …](claims/task-value-increases-motivation-and-engagement.md) | 127 pages | 2 | q2–q3 | 0 of 2 |
 | [Process goals lead to better skill acquisition for novices than outcome goals.](claims/process-goals-outperform-outcome-goals-for-novices.md) | 107 pages | 2 | q3 | 0 of 2 |
 | [Worked-example guidance becomes less effective as learner expertise increases.](claims/worked-examples-less-effective-with-expertise.md) | 98 pages | 2 | q3 | 0 of 2 |
 | [In one 37-student classroom experiment, recall and retention differ across media …](claims/media-combinations-affect-recall-and-retention.md) | 90 pages | 1 | q3 | 0 of 1 |
@@ -102,7 +102,7 @@ Of the 39 claims cited from 50 or more pages, **6 rest on one study or none**: [
 
 Claims cited as support on some pages and as counter-evidence on others (`[+]` and `[-]` markers on the same claim). The disagreement is in how pages use the claim, which is often the point: a boundary condition cited against a strategy it limits. It is still where a reader should look twice.
 
-316 claims are cited both ways.
+319 claims are cited both ways.
 
 | Claim | For | Mixed | Against | Studies |
 |---|---|---|---|---|
@@ -136,14 +136,14 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | [principles](principles/index.md) | 213 | 208 | 22.5 | 0 |
 | [elements](elements/index.md) | 1,066 | 762 | 2 | 0 |
 | [patterns](patterns/index.md) | 68 | 64 | 25 | 0 |
-| [strategies](strategies/index.md) | 6,208 | 2,745 | 5 | 0 |
+| [strategies](strategies/index.md) | 6,231 | 2,757 | 5 | 0 |
 | [processes](processes/index.md) | 18 | 15 | 6 | 0 |
 | [methods](methods/index.md) | 38 | 21 | 1 | 0 |
 | [theories](theories/index.md) | 1,361 | 890 | 1 | 0 |
 | [learner-variables](learner-variables/index.md) | 74 | 74 | 38.5 | 0 |
-| [designs](designs/index.md) | 960 | 577 | 1 | 1 |
-| [products](products/index.md) | 1,791 | 1,189 | 1 | 0 |
-| [research-methods](research-methods/index.md) | 456 | 402 | 1 | 0 |
+| [designs](designs/index.md) | 963 | 578 | 1 | 1 |
+| [products](products/index.md) | 1,801 | 1,194 | 1 | 0 |
+| [research-methods](research-methods/index.md) | 469 | 411 | 1 | 0 |
 
 ## Toward pooled estimates
 

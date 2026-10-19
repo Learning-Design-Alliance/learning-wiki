@@ -46,3 +46,4 @@ Review synthesis of behavioral and neural retro-cue studies in delayed-response 
 - [Selective attention facilitates working memory retrieval, and selecting from WM resembles visual search](attention-facilitates-wm-retrieval.md) — related
 - [rTMS of right IFJ causally reduces top-down modulation during encoding and working memory accuracy](rtms-ifj-causal-top-down-modulation-wm.md) — related
 - [Early (within ~100 ms) attentional modulation during encoding predicts subsequent working memory accuracy](early-encoding-modulation-predicts-wm-accuracy.md) — related
+- [Pop-up cues contributed only modestly to note taking, triggering note taking in under 4% of instances](cues-low-note-taking-response.md) — related

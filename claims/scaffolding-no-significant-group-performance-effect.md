@@ -43,4 +43,4 @@ Planned comparisons in a randomized experiment with 52 triads (16 control, 33 sc
 
 
 ## Related Claims
--
+- [During collaborative learning, low and high cognition have remarkably long lasting (6 lags) positive effects on themselves, planning induces low cognition which sparks high cognition, and scaffolding does not alter these sequences](statistical-discourse-analysis-regulation-cognition-sequences.md) — related

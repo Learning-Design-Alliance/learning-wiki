@@ -41,6 +41,7 @@ The article's practitioner notes recommend that educators "should not assume tha
 
 - [Provide explicit teaching of SRL methods as structured guidance for regulating learning in online and blended settings](explicit-teaching-srl-methods-online-blended.md)
 - [Accommodate Varying Technology Experience](accommodate_varying_technology_experience.md)
+- [Regulate regulative tool use: guide students to the supports that match their task activity](regulate-regulative-tool-use.md)
 
 ## Examples
 -

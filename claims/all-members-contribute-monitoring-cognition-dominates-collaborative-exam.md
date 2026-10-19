@@ -62,4 +62,6 @@ Group-level case analysis showed per-member monitoring frequencies varied widely
 
 
 ## Related Claims
--
+- [Increased physiological arousal and higher physiological synchrony relate to more monitoring with negative valence](arousal-synchrony-negative-valence-monitoring.md) — related
+- [During collaborative exam work, monitoring of cognition is the most common monitoring target, followed by monitoring of behavior, with monitoring of motivation or emotion scarce](monitoring-cognition-most-common-target-collaborative-exam.md) — possibly the same claim (merge candidate)
+- [Groups reacted to the large majority of monitoring events, but negative-valence monitoring of motivation or emotion received the lowest reaction rate](negative-motivation-emotion-monitoring-lowest-reaction-rate.md) — related

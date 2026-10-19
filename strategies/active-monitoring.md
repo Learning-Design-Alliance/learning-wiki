@@ -57,8 +57,10 @@ Monitoring quality predicts learning outcomes largely because unmonitored learne
 5. **Fade the prompts.** Shift from embedded prompts to learner-initiated monitoring as the habit internalizes.
 
 ## Related Strategies
+
 - [3-2-1 Reflection](3-2-1_reflection.md) — a lightweight structured routine that externalizes monitoring at the end of a learning episode
 - [Self-Explanation](../elements/self-explanation.md) — generating explanations is both a monitoring probe and a corrective action
+- [Interpolate metacognitive judgments or covert retrieval attempts during extended study sessions](interpolate-jols-covert-retrieval-during-study.md)
 
 ## Examples
 - **Calibrated quizzes in LMS courses**: learners predict their score before an ungraded quiz in Canvas, then compare prediction to actual results, building judgment accuracy across a semester.

@@ -53,3 +53,4 @@ Retrospective matched-sample analysis of first-year college math students, match
 - [SAT scores underpredict the academic performance of high school girls, who average lower scores than boys despite higher grades](sat-underpredicts-girls-performance.md) — related
 - [Women admitted to MIT with lower SAT math scores perform as well as men in freshman math classes](mit-lower-sat-math-scores-equal-performance.md) — related
 - [Boys received more process praise and scored higher in 4th grade math than girls in this sample](gender-differences-process-praise-and-fourth-grade-math.md) — related
+- [Gender differences in global performance judgments follow domain stereotypes: men higher in mathematics, women higher in reading, with no gender differences in bias](gender-stereotyped-performance-judgments-adults.md) — related

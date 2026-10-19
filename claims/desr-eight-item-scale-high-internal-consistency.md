@@ -46,3 +46,4 @@ Psychometric analysis of the eight self-report DESR items across the combined AD
 - [The post-study survey instrument showed high internal consistency (alpha = 0.90)](cyberagents-survey-alpha-090.md) — related
 - [TAILS dimensions show high internal consistency, with Cronbach's alpha values above 0.90](tails-high-internal-consistency.md) — related
 - [A high Cronbach's alpha across items measuring distinct knowledge aspects indicates the test is not working as intended](high-alpha-indicates-domain-knowledge-test-failure.md) — related
+- [The MAKQ dimensions show acceptable internal consistency across both studies (alphas 0.77-0.93)](makq-reliability-alphas.md) — related

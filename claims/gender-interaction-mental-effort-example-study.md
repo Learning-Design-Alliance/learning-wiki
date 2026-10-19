@@ -81,4 +81,4 @@ Follow-up comparison within the male-model condition: female students (M = 3.11)
 
 
 ## Related Claims
--
+- [Expert example standards increase subjective task difficulty and mental effort during example evaluation](expert-standards-increase-difficulty-effort.md) — related

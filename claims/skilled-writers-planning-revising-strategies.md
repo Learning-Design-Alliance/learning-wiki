@@ -51,3 +51,4 @@ Interview findings on revising strategies of the nine skilled EFL writers, who c
 - Skilled EFL writers possess declarative knowledge that topic familiarity influences how much and how well they can write about a topic. — related
 - Organization and task analysis were the most difficult problems in New York state writing competency testing — related
 - [Struggling adult writers show limited planning and revision in their writing process, similar to younger writers](struggling-adult-writers-limited-planning-revision.md) — related
+- [SRL writing-stage clusters differed in production and revision but not in pausing](srl-writing-clusters-production-revision.md) — related

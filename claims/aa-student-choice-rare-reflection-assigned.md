@@ -49,3 +49,4 @@ Review coding of student agency across the 37 studies. It reports 'only eight st
 - [Choice in retention programs is linked to retention gains, but autonomy is rarely a tested variable](choice-autonomy-rarely-tested-in-retention-programs.md) — related
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
+- [Student self-determination was infrequent and more common during Active, Constructive, and Interactive tasks than Passive tasks](student-self-determination-rare-higher-in-active-tasks.md) — related

@@ -88,3 +88,4 @@ Narrative review reporting cited evidence that over-reliance on generative AI "m
 - [Faster rate of learning may be negatively related to long-term retention (efficiency-effectiveness trade-off)](learning-rate-retention-tradeoff.md) — related
 - [Risk aversion plays a significant role in teachers' GenAI adoption decisions](risk-aversion-significant-in-genai-adoption.md) — related
 - [Effective AI use increases AI over-reliance, which negatively affects sustainable learning performance](effective-ai-use-increases-over-reliance-harming-learning.md) — related
+- [Rule-triggered pedagogical agents increased SRL activities and learning outcomes relative to untriggered agents](rule-triggered-pedagogical-agents-srl.md) — related

@@ -70,3 +70,4 @@ Stability check splitting the sample into two equal subsamples and repeating k-m
 - [General AI literacy is not significantly related to in-service science educators' AI use or to their age, gender, or years of service](ai-literacy-unrelated-to-ai-use-and-demographics.md) — related
 - [Latent Class Analysis identifies six provisional manager typologies with heterogeneous readiness and barrier profiles](six-provisional-manager-typologies-lca.md) — related
 - [Cluster analysis identifies two antagonistic student profiles differing in level of technology-supported self-regulated learning](two-srl-technology-profiles-high-and-low.md) — related
+- [Cluster analysis across both studies identifies three meta-attention knowledge profiles, including an overconfident group with a self-knowledge/strategy mismatch](makq-three-meta-attention-profiles.md) — related

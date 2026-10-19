@@ -50,3 +50,4 @@ Cluster analysis of 400 artworks using HCPC (PCA, Ward's linkage, k-means refine
 - [Exploratory K-means clustering identifies four heterogeneous student AI-user profiles differing in experience, competence, usefulness, trust, and control, but the solution's optimality and stability are not established](exploratory-four-cluster-student-ai-profiles.md) — related
 - [Four distinct LLM learner profiles emerge from latent class analysis of learning contexts, tasks, and devices](four-llm-learner-profiles-lca.md) — related
 - [A two-dimensional profiling method based on initial artifact quality and criterion-aligned revision categorizes student groups into four analytic profiles in an AI-supported RQ/hypothesis revision activity](four-artifact-revision-profiles-ai-supported-inquiry.md) — related
+- [Three learning profiles emerge among university students: organized-deep, unorganized-deep, and dissonant](three-learning-profiles-kmeans.md) — related

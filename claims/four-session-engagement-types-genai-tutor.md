@@ -48,3 +48,4 @@ Clustering analysis of 113,255 conversation sessions using ten engineered featur
 - [Students at highly selective institutions show more deep and routine-learning engagement and less exam-driven engagement with a GenAI Tutor](selectivity-engagement-quality-differences.md) — related
 - [STEM students adopt the GenAI Tutor less and use it differently than non-STEM students, with more shallow and routine-learning engagement](stem-nonstem-engagement-differences.md) — related
 - [K-means clustering of K–8 students' platform trace data yields seven distinct engagement profiles](seven-engagement-profiles-k8-elearning.md) — related
+- [Three learning profiles emerge among university students: organized-deep, unorganized-deep, and dissonant](three-learning-profiles-kmeans.md) — related

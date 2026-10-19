@@ -43,4 +43,4 @@ Cluster analysis of 48 teams reduced to 32 (children aged 9 to 12) in the JUSThi
 
 
 ## Related Claims
--
+- [Three learning profiles emerge among university students: organized-deep, unorganized-deep, and dissonant](three-learning-profiles-kmeans.md) — related

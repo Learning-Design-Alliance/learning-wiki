@@ -62,4 +62,4 @@ Between-subject experiment (N = 36) on Earth's time zones, reusing data from Seu
 
 
 ## Related Claims
--
+- [Medium moderated disfluency effects on reasoning: disfluent text fostered calibration and performance on screen but not on paper](screen-paper-moderates-disfluency-reasoning.md) — related

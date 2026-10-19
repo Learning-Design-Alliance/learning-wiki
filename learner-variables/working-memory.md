@@ -12,7 +12,7 @@ generated:
 # Working Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 66 claims (42 show a difference, 14 mixed, 8 no difference, 2 unmarked) · 57 studies (16 causal, 16 associational, 13 review, 7 quant-synthesis, 3 qualitative, 2 theoretical), `q1`–`q4` · 10 of 57 report an effect size · 61 claims rest on one study
+> **Evidence** · 67 claims (42 show a difference, 15 mixed, 8 no difference, 2 unmarked) · 58 studies (16 causal, 16 associational, 14 review, 7 quant-synthesis, 3 qualitative, 2 theoretical), `q1`–`q4` · 10 of 58 report an effect size · 62 claims rest on one study
 
 ## Description
 How much a learner can hold and manipulate at once. It is the best-evidenced dimension here and the most directly actionable: it converts into element counts per screen, whether two sources must be read together, and whether a problem is given whole or as a worked example. Capacity is near-fixed, but *effective* capacity is not — prior knowledge supplies the schemas that let several items be held as one, which is why the same screen overloads a novice and not an expert [~S].
@@ -108,6 +108,7 @@ How much a learner can hold and manipulate at once. It is the best-evidenced dim
 - [No difference in extraneous cognitive load between modality conditions in VR, contrary to the modality principle](../claims/vr-modality-no-extraneous-load-difference.md) [-M] — instruction changes it
 - [No difference in intrinsic cognitive load between visual-only and audio-visual text conditions in VR](../claims/vr-modality-no-intrinsic-load-difference.md) [-M] — instruction changes it
 - [Visual-only text produces higher germane cognitive load than audio-visual text in VR](../claims/vr-visual-only-higher-germane-load.md) [+M] — instruction changes it
+- [Working memory capacity moderated disfluency effects in one study but not another](../claims/wmc-moderates-disfluency-mixed.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 

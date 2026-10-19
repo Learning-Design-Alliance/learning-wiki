@@ -1,0 +1,49 @@
+---
+type: claim
+title: Providing a rubric reduces bias in self-assessment, moving judgments closer to expert ratings
+description: Providing a rubric reduces bias in self-assessment, moving judgments closer to expert ratings
+id: rubrics-reduce-self-assessment-bias
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-18
+evidence_strength: moderate
+sources:
+  - id: rebecca-krebs-2022
+    resource: "https://doi.org/10.1007/s11409-022-09302-1"
+    title: "Rebecca Krebs, Björn Rothstein, Julian Roelle. (2022). Rubrics enhance accuracy and reduce cognitive load in self-assessment. Metacognition and Learning. https://doi.org/10.1007/s11409-022-09302-1"
+    author: Rebecca Krebs, Björn Rothstein, Julian Roelle
+    q: 3
+    i: 2
+    kind: causal
+    rigour: 2
+---
+
+# Providing a rubric reduces bias in self-assessment, moving judgments closer to expert ratings
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+
+## Subclaims
+`q3 i2` Both groups were underconfident, but the rubric group's bias scores were closer to zero than the control group's (d = 0.52). [→ Rebecca Krebs 2022](#rebecca-krebs-2022)
+
+## Evidence
+
+### Rebecca Krebs 2022
+
+Rebecca Krebs, Björn Rothstein, Julian Roelle. (2022). Rubrics enhance accuracy and reduce cognitive load in self-assessment. Metacognition and Learning. https://doi.org/10.1007/s11409-022-09302-1
+
+`q3 · i2` · `causal · r2`
+
+Same randomized experiment (N = 93) measuring signed difference between student and expert ratings. "the rubric group's bias scores were closer to zero", d = 0.52, p = 0.008 (one-sided).
+
+> "Both groups showed underconfidence, but the rubric group's assessments were less biased than the control group's assessments, that is, the rubric group's bias scores were closer to zero, t(90) = 2.46, p = 0.008 (one-sided), d = 0.52."
+
+## Discussion
+
+
+## Related Claims
+- [Providing a rubric reduces perceived difficulty of self-assessment but not invested mental effort](rubrics-reduce-perceived-difficulty-not-mental-effort.md) — related
+- [Providing expert example standards enhances absolute judgment accuracy in evaluating self-generated examples](expert-example-standards-enhance-absolute-accuracy.md) — related
+- [In Experiment 1, the feedback intervention reduced pre-task signed metacognitive bias (underconfidence) but the group difference did not persist at post-task](feedback-reduces-pretask-metacognitive-bias.md) — related
+- [In Experiment 2, signed metacognitive bias scores showed no significant group effect or linear trend, failing to replicate the Experiment 1 signed-bias finding](exp2-signed-metacognitive-bias-not-replicated.md) — related

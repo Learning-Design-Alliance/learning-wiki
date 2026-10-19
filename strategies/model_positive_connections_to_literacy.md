@@ -58,9 +58,11 @@ The strategy works through social modeling: when a credible, valued adult visibl
 5. Connect students to texts they contribute toward — use the shared list to guide recommendations, independent reading, and [class discussion](../elements/class-discussion.md).
 
 ## Related Strategies
+
 - [Read-Alouds](read-alouds.md) — a live demonstration of fluent, joyful reading that pairs naturally with teacher book talks
 - [Independent Reading Time](independent-reading-time.md) — the practice context where modeled enthusiasm becomes personal reading behavior
 - [Classroom Library Curation](classroom-library-curation.md) — the infrastructure that makes shared recommendations actionable
+- [Nurture the perceived value of creativity through joyful practice, task relevance, varied tasks, and enthusiastic teacher modeling](nurture-perceived-value-of-creativity-strategies.md)
 
 ## Examples
 - A middle-school teacher maintains a "Ms. Rivera Is Reading" whiteboard updated weekly with the book she is currently reading and one honest sentence about it, alongside a student-run recommendation shelf; students add sticky-note reviews and borrow from both sources.

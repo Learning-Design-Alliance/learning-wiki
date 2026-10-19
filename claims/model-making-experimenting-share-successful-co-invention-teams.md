@@ -44,3 +44,4 @@ Quantitative analysis of coded video data (Table 3) from the five teams' session
 
 ## Related Claims
 - [Embodied design practices of sketching, experimenting, and model making co-occurred with the application of product design, computer engineering, and science practices and advanced the teams' epistemic objects](claim-embodied-practices-cooccurred-maker-practices.md) — related
+- [Process models of successful students come closer to self-regulated learning theory expectations than those of unsuccessful students, who do not evaluate their learning](process-mining-successful-unsuccessful-srl-models.md) — related

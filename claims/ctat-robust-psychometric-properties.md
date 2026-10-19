@@ -71,3 +71,4 @@ IRT item-parameter analysis of the main-study data using the 3PL1p model. Mean d
 - [TAILS dimensions show high internal consistency, with Cronbach's alpha values above 0.90](tails-high-internal-consistency.md) — related
 - [The post-interaction reflection instrument showed satisfactory internal consistency (Cronbach's α = .863)](ai-reflection-instrument-alpha-863.md) — related
 - [A high Cronbach's alpha across items measuring distinct knowledge aspects indicates the test is not working as intended](high-alpha-indicates-domain-knowledge-test-failure.md) — related
+- [The MAKQ dimensions show acceptable internal consistency across both studies (alphas 0.77-0.93)](makq-reliability-alphas.md) — related

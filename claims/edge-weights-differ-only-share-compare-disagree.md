@@ -43,4 +43,4 @@ T/ONA edge-weight comparison between task networks at a 5% significance level. T
 
 
 ## Related Claims
--
+- [Learning patterns in ill-structured tasks are less strategic than in well-structured tasks, and on-track students apply learning strategies in later phases than off-track students](ill-structured-tasks-less-strategic-patterns.md) — related

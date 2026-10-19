@@ -12,7 +12,7 @@ generated:
 # Personality Traits
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 16 claims (7 show a difference, 3 mixed, 4 no difference, 2 unmarked) · 9 studies (4 associational, 3 review, 2 causal), `q2`–`q3` · 3 of 9 report an effect size · 16 claims rest on one study
+> **Evidence** · 18 claims (8 show a difference, 4 mixed, 4 no difference, 2 unmarked) · 10 studies (5 associational, 3 review, 2 causal), `q2`–`q3` · 4 of 10 report an effect size · 18 claims rest on one study
 
 ## Description
 Personality traits are relatively stable individual differences, most often measured on the Big Five dimensions. For learning, conscientiousness (being organised, persistent and self-controlled) is the trait most consistently associated with achievement, and openness (curiosity, breadth of interests) the second; agreeableness, extraversion and neuroticism show little association. Traits correlate with other variables here, such as [self-regulation](self-regulation.md) and [need for cognition](need-for-cognition.md).
@@ -50,6 +50,8 @@ Personality traits are relatively stable individual differences, most often meas
 - [Openness protects against well-being decline only when emotional stability is average or high](../claims/openness-protects-only-with-emotional-stability.md) [~M] — learners who differ on it differ in outcomes
 - [Openness to experience predicts creativity but not fluid intelligence, and further reduces the residual intelligence–creativity correlation to a trend.](../claims/openness-predicts-creativity-not-gf.md) [~M] — learners who differ on it differ in outcomes
 - [Openness to experience predicts creative metaphor quality, and controlling for personality reduces Gc's creative-metaphor effect to zero](../claims/openness-predicts-creative-metaphor.md) [+W] — learners who differ on it differ in outcomes
+- [Big Five personality factors show few consistent effects on metacognitive judgments in domain-specific tests](../claims/big-five-few-consistent-effects-on-judgments.md) [~W] — learners who differ on it differ in outcomes
+- [Motivational and personality variables relate more strongly to global than to local postdicted judgments](../claims/global-judgments-more-trait-driven-than-local.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

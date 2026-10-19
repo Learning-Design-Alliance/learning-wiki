@@ -64,10 +64,12 @@ Metacognitive awareness — knowledge of one's own thinking — is trainable, an
 6. Close the loop: require learners to translate each evaluation into a concrete plan for the next task ([Action Planning](action_planning.md))
 
 ## Related Strategies
+
 - [Activities for student self-reflection](activities_for_student_self-reflection.md) — the broader family of reflection activities this strategy instantiates
 - [Achievable micro-goals](achievable_micro-goals.md) — journaling prompts often ask learners to set and track these
 - [Action planning](action_planning.md) — the planning-phase output of a reflective journal
 - [Check-ins](../principles/check-ins.md) — brief, frequent monitoring moments that complement longer reflective entries
+- [Support metacognitive awareness by providing time and place for reflection, regulation-practice tasks, and profile-sensitive support](profile-sensitive-metacognitive-support-strategy.md)
 
 ## Examples
 - **[Exam wrappers](exam-wrappers.md)** (Carnegie Mellon Eberly Center, https://www.cmu.edu/teaching/designteach/teach/examwrappers.html) — post-exam forms asking what students predicted, how they studied, and what they will change next time

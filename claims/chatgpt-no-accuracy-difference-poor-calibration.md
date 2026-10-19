@@ -66,3 +66,4 @@ Exploratory examination of the correlation matrix in Table 3 from the same exper
 - [ChatGPT use improves the quality, elaboration, and originality of university students' solutions to a complex ill-defined problem-solving task](chatgpt-improves-quality-elaboration-originality-pit.md) — related
 - [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md) — related
 - [Free ChatGPT use boosts originality on the assisted creative task but the advantage disappears when assistance is removed](chatgpt-free-use-originality-gains-vanish-unassisted.md) — related
+- [Providing a rubric during self-assessment improves the absolute accuracy of high school students' self-assessments of written scientific abstracts](rubrics-improve-absolute-self-assessment-accuracy.md) — reports the opposite

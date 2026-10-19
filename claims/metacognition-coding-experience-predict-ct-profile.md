@@ -55,3 +55,4 @@ Linear discriminant analysis (Box's M = 4.747, p = .593, equal covariance assump
 - [Metacognitive strategies, effort regulation, and coping with problems significantly predict Japanese EFL learners' proficiency](three-srl-strategy-factors-predict-efl-proficiency.md) — related
 - [Prior coding experience correlates positively with digital literacy and coding comfort and negatively with perceived task difficulty](coding-experience-correlates-ct-skills.md) — related
 - [Prior programming experience significantly predicted Promptly task performance and prompting self-efficacy](prior-experience-predicts-prompting-outcomes.md) — related
+- [Metacognition is significantly and positively associated with EFL students' critical thinking skills (Model 2)](metacognition-positively-associated-critical-thinking.md) — related

@@ -85,3 +85,4 @@ Phase 2 group comparison for Group D, proportional difference 24.6% less. The ar
 - [Trace data can capture the temporal progress of regulation as learners engage in learning tasks over time](trace-data-capture-temporal-regulation.md) — a broader claim this one bears on
 - [Epistemic network analysis provides a better account of temporal patterns between socio-cognitive events than coding-and-counting](ena-outperforms-coding-and-counting-temporality.md) — related
 - [Task design relates to emphases within the cognitive elements: the technology-enhanced task elicited more task exploration, while the physical-objects task elicited more coordination](task-design-shifts-task-exploration-versus-coordination.md) — related
+- [Groups' progress during collaboration falls into four data-driven categories differing in sequence frequencies and the regulation phases groups return to](four-categories-group-progress-monitoring-sequences.md) — related

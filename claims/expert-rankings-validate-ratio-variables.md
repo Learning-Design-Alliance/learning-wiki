@@ -43,4 +43,4 @@ Validation exercise in which five transcripts varying in Elaborated, Reasoned an
 
 
 ## Related Claims
--
+- [Group-level physiological state transitions in heart rate are positively correlated with on-track sequences during collaboration](physiological-state-transitions-correlate-on-track-sequences.md) — related

@@ -46,3 +46,4 @@ Within-subject user study with 30 participants (aged 15-55) using MathBuddy in E
 - [Text-based emotional expression in student responses showed no statistically significant differences between Emotion ON and OFF conditions](no-textual-emotion-difference-emotion-on.md) — related
 - [MathBuddy's multimodal emotion aggregation matched participant-reviewed emotions at 60% overall accuracy, with sharply reduced recall for the Neutral class](multimodal-emotion-aggregation-60-percent-accuracy.md) — related
 - [Learners showed reliable pre–post changes in facial, vocal, and lexical expressive signals after sustained system use](prepost-changes-expressive-emotion-signals.md) — related
+- [Simulation feedback predicts sadness and neutral facial expressions and metacognitive judgement, but not perceived task difficulty](feedback-predicts-facial-expressions-and-judgement.md) — related

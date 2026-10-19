@@ -71,3 +71,5 @@ Meta-analysis of 54 experimental/quasi-experimental studies (k=141 effect sizes)
 - [In two online comparisons, a rubric changed what peer reviewers commented on (one study) and helped peer raters place writing in quality tiers, most for complex criteria (the other); the first study says the rubric restrained reflective thinking](rubrics-improve-peer-feedback-quality.md) — related
 - [Peer and self-assessment both show significant effects on academic performance with no significant difference between their impacts](peer-self-assessment-improve-performance-equally.md) — related
 - [The Trainer is expected to make peer comments more specific, criterion-referenced, and evidence-based](trainer-expected-improve-comment-quality.md) — related
+- [The benefits of rubrics on self-assessment accuracy do not depend on the inferential level of the assessment criteria](rubric-benefits-independent-of-inferential-level.md) — related
+- [Providing a rubric does not significantly improve relative accuracy of self-assessment across criteria](rubrics-no-effect-relative-accuracy.md) — related

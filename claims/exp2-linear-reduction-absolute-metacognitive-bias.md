@@ -49,3 +49,4 @@ Pre-registered four-group Experiment 2 (N = 416) with additive intervention comp
 - [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md) — the general claim this finding bears on, with the studies behind it
 - [In Experiment 2, making metacognitive predictions alone did not improve calibration, performance feedback was sufficient, and explicit metacognitive feedback added no significant benefit](prediction-alone-ineffective-performance-feedback-sufficient.md) — related
 - [In Experiment 2, signed metacognitive bias scores showed no significant group effect or linear trend, failing to replicate the Experiment 1 signed-bias finding](exp2-signed-metacognitive-bias-not-replicated.md) — related
+- [Overconfidence (bias) decreased from pretest to posttest across all groups including control, with no group differences](bias-decreased-across-groups-no-feedback-effect.md) — related

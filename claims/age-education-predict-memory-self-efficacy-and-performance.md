@@ -69,3 +69,5 @@ Final SEM path predicting the latent memory factor (free and cued recall loading
 - [High-performance feedback increases self-efficacy more than low-performance feedback, with comparable effects across younger and older adults](high-performance-feedback-increases-self-efficacy-across-age-groups.md) — related
 - [Older adults restudy easy and medium items more than younger adults, and lower memory self-efficacy correlates with avoiding difficult items](older-adults-restudy-easy-items-self-efficacy.md) — related
 - [Dispositional learning goals positively predict memory self-efficacy in younger and older adults](learning-goals-predict-higher-memory-self-efficacy.md) — related
+- [Older age groups report lower global performance judgments of their mathematical competence, controlling for education](age-lower-math-performance-judgment-adults.md) — related
+- [Older age groups report lower global performance judgments of their reading competence, controlling for education](age-lower-reading-performance-judgment-adults.md) — related

@@ -12,7 +12,7 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 147 claims (99 show a difference, 29 mixed, 17 no difference, 2 unmarked) · 103 studies (29 associational, 26 causal, 20 review, 10 quant-synthesis, 9 theoretical, 6 qualitative, 3 design), `q1`–`q4` · 22 of 103 report an effect size · 139 claims rest on one study
+> **Evidence** · 157 claims (106 show a difference, 31 mixed, 18 no difference, 2 unmarked) · 111 studies (32 associational, 30 causal, 21 review, 10 quant-synthesis, 9 theoretical, 6 qualitative, 3 design), `q1`–`q4` · 23 of 111 report an effect size · 149 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
@@ -195,6 +195,16 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [Target strategy use did not vary by instructional support condition for any of the three fraction comparison tasks](../claims/target-strategy-use-did-not-vary-by-condition.md) [-M] — instruction changes it
 - [Video review scaffolds self-regulated learning, and hands-on activity groups show greater self-regulation than virtual simulation groups](../claims/video-review-scaffolds-self-regulated-learning.md) [+M] — instruction changes it
 - [Constantly high complexity lowers reported intrinsic cognitive load and metacognitive strategy use compared with gradually increasing complexity](../claims/high-complexity-lowers-icl-and-metacognitive-strategy-use.md) [+M] — instruction changes it
+- [All metacognitive strategy factors and critical thinking subfactors were significantly and positively correlated with each other and with academic writing](../claims/metacognition-critical-thinking-writing-correlations.md) [+M] — learners who differ on it differ in outcomes
+- [Better metacognitive monitoring and control at the start of the year predict lower boredom and anxiety about English at year's end](../claims/early-metacognition-predicts-later-negative-emotions.md) [+M] — learners who differ on it differ in outcomes
+- [In a self-regulated solving phase, S JOSs predicted solving success and AS and NS JOSs predicted effort regulation](../claims/exp3-s-jos-predictive-self-regulated-solving.md) [+M] — learners who differ on it differ in outcomes
+- [Metacognition is significantly and positively associated with EFL students' critical thinking skills (Model 2)](../claims/metacognition-positively-associated-critical-thinking.md) [+M] — learners who differ on it differ in outcomes
+- [Metacognition is significantly and positively related to EFL students' academic writing performance (Model 1)](../claims/metacognition-positively-related-efl-academic-writing.md) [+M] — learners who differ on it differ in outcomes
+- [Metacognitive judgement positively predicts perceived individual performance in CPS, which mediates perceived group performance](../claims/metacognitive-judgement-predicts-perceived-cps-performance.md) [+M] — learners who differ on it differ in outcomes
+- [Pre-structured diagrams improved metacomprehension accuracy while self-assessment cues showed no differences](../claims/diagramming-metacomprehension-accuracy-cues-null.md) [~M] — instruction changes it
+- [Time pressure weakens monitoring-based self-regulation of study time: gamma correlations between judgments of learning and study time are stronger in the untimed than the timed condition](../claims/time-pressure-weakens-self-regulated-study-time-allocation.md) [~M] — learners who differ on it differ in outcomes
+- [Adding diagram self-assessment to diagram completion does not increase diagnostic cue utilization or metacomprehension accuracy beyond diagramming alone](../claims/self-assessment-scaffold-no-added-benefit.md) [-M] — instruction changes it
+- [Monitoring accuracy predicts comprehension-based regulation accuracy, and cue availability also has an indirect effect on regulation accuracy via monitoring accuracy](../claims/monitoring-accuracy-predicts-regulation-accuracy-indirect-effect.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's self-regulation predict achievement, and how strongly?* [Self Regulated Learning Predicts Achievement](../claims/self-regulated-learning-predicts-achievement.md) [+S]

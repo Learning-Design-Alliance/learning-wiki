@@ -62,4 +62,4 @@ Post-test performance in the time-zones study (N = 36), a 17-question test worth
 
 
 ## Related Claims
--
+- [Medium moderated disfluency effects on reasoning: disfluent text fostered calibration and performance on screen but not on paper](screen-paper-moderates-disfluency-reasoning.md) — related

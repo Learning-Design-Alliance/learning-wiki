@@ -88,3 +88,4 @@ The review reports a set of studies (e.g., Siegler & Chen 2008 on water displace
 - [Students who collected more peers' ideas wrote poorer explanations, while generating own redundant ideas related to better explanations](idea-collection-direction-matuk-linn.md) — related
 - [Self-explanation prompts in an instructional video do not improve retention or comprehension when learning time is controlled](self-explanation-prompts-no-learning-benefit-controlled-time.md) — related
 - [Correct exemplars supported greater detection and correction of errors and omissions in explanations than a list of steps focused on structural aspects](correct-exemplars-beat-defining-features-for-error-detection.md) — related
+- [Frequent use of reflective prompts related to better strategic problem-solving and conceptual understanding](reflective-prompts-frequency-problem-solving.md) — related

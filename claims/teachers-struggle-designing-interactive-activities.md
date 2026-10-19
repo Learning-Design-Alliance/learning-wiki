@@ -50,3 +50,4 @@ Across the 5-year project, teachers' translation of ICAP was assessed by pre/pos
 - Included AI literacy activities spanned all four ICAP modes, with passive modes in nine studies, active in five, constructive in seven, and interactive in eight — related
 - [Engagement mode is orthogonal to instructional task: any task can be engaged at any of the four modes](engagement-mode-orthogonal-to-instructional-task.md) — related
 - [The ICAP hypothesis predicts that learning increases as engagement moves from passive to active to constructive to interactive (I>C>A>P)](icap-hypothesis-learning-increases-i-cap.md) — related
+- [In observed Australian secondary classrooms, only a minority of lesson tasks stimulated Constructive or Interactive engagement](paucity-constructive-interactive-lesson-tasks.md) — related

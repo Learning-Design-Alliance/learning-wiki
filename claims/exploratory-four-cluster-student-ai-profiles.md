@@ -65,3 +65,6 @@ Exploratory K-means clustering among students only (n = 961, nine features, fixe
 - [A two-dimensional profiling method based on initial artifact quality and criterion-aligned revision categorizes student groups into four analytic profiles in an AI-supported RQ/hypothesis revision activity](four-artifact-revision-profiles-ai-supported-inquiry.md) — related
 - [Cluster analysis identifies two antagonistic student profiles differing in level of technology-supported self-regulated learning](two-srl-technology-profiles-high-and-low.md) — related
 - [A cluster of highly active learners driving the learning communities included equally many low-hierarchy as high-hierarchy members](active-driver-cluster-includes-low-hierarchy-leaders.md) — related
+- [SRL writing-stage clusters differed in production and revision but not in pausing](srl-writing-clusters-production-revision.md) — related
+- [Three learning profiles emerge among university students: organized-deep, unorganized-deep, and dissonant](three-learning-profiles-kmeans.md) — related
+- [Cluster analysis across both studies identifies three meta-attention knowledge profiles, including an overconfident group with a self-knowledge/strategy mismatch](makq-three-meta-attention-profiles.md) — related

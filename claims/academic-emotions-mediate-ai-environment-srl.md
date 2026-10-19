@@ -66,3 +66,4 @@ The structural model retained a significant direct path after including the thre
 - [AI literacy moderates the pathways from perceived AI-adaptive environments to academic emotions, attenuating negative emotional effects among students with higher AI literacy](ai-literacy-moderates-emotion-pathways.md) — related
 - [Perceived AI-adaptive learning environments are negatively associated with college students' self-regulated learning in a three-wave longitudinal survey](ai-adaptive-environment-negative-srl-longitudinal.md) — related
 - [Negative emotional associations of AI-adaptive environments are pronounced among students with low AI literacy but substantially attenuated among those with high AI literacy](simple-slopes-ai-literacy-low-high.md) — related
+- [Boredom is the only achievement emotion predicting English vocabulary growth in primary school L2 learners; enjoyment and anxiety show no significant effect](boredom-predicts-l2-vocabulary-growth.md) — related

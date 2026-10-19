@@ -65,3 +65,5 @@ Phi computed as a partial correlation controlling for discrimination response ti
 - [Children aged 5 to 8 show metacognitive sensitivity in a nonverbal wagering task, betting more on correct than incorrect discriminations](young-children-metacognitive-wagering-task.md) — related
 - [Metacognitive sensitivity increases with age between 5 and 8 years, similarly across number and emotion domains](metacognitive-sensitivity-increases-age-5-to-8.md) — related
 - [Numerical metacognition, but not emotion metacognition, predicts children's standardized mathematics achievement](numerical-metacognition-predicts-math-achievement.md) — related
+- [Performance-resolution correlation is significant in 2AFC but much smaller and mostly non-significant in free-response testing](resolution-performance-correlation-2afc-not-free-response.md) — related
+- [Young children maintain correct responses more easily than they withdraw incorrect responses on an L2 vocabulary task](withdrawal-harder-than-maintenance-l2-metacognitive-control.md) — related

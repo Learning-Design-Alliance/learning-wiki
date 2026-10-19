@@ -35,7 +35,7 @@ sources:
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 70 claims (38 for, 29 mixed, 3 against) · 55 studies (20 causal, 10 review, 9 quant-synthesis, 7 theoretical, 6 associational, 2 design, 1 qualitative), `q1`–`q4` · 16 of 55 report an effect size · 59 claims rest on one study
+> **Evidence** · 72 claims (40 for, 29 mixed, 3 against) · 56 studies (20 causal, 10 review, 9 quant-synthesis, 7 associational, 7 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 17 of 56 report an effect size · 61 claims rest on one study
 
 ## Conditional relationship
 
@@ -130,6 +130,8 @@ Claims read against the model above that do not bear on its relationship, steps 
 - [With a scripted collaboration designed to elicit metacognition, deep-level metacognitive regulation stays rare and students mostly accept rather than co-construct or share regulation](../claims/deep-level-shared-regulation-rare-despite-script.md) [~W] — attached 2026-10-18 from Lenka Schnaubert · Freydis Vogel (2022), which proposed "Balance script-imposed self-regulation demands by integrating regulation activities into collaboration script scaffolds".
 - [Both general and personalized SRL interventions increased students' participation in chat-based collaborative activities compared to control](../claims/srl-interventions-increased-chat-activity-participation.md) [+W] — attached 2026-10-18 from Psathas et al. (2023), which proposed "Deliver even low-effort, general weekly SRL interventions in MOOCs to scaffold participation, retention, and learning".
 - [Both SRL intervention modes produced higher course exit quiz scores than control in a programming MOOC](../claims/srl-interventions-raised-exit-quiz-scores-mooc.md) [+M] — attached 2026-10-18 from Psathas et al. (2023), which proposed "Deliver even low-effort, general weekly SRL interventions in MOOCs to scaffold participation, retention, and learning"; tests this page's relationship.
+- [Child-centered instruction positively predicts children's self-monitoring accuracy and, for second graders, restudy effectiveness](../claims/child-centered-instruction-predicts-metacognition.md) [+M] — attached 2026-10-19 from Mariëtte H. van Loon (2021), which proposed "Support children's metacognition through the way instructions are given, not only their content"; tests this page's relationship.
+- [Teacher-directed instruction is negatively related to children's restudy effectiveness and self-monitoring accuracy](../claims/teacher-directed-instruction-negative-metacognition.md) [+W] — attached 2026-10-19 from Mariëtte H. van Loon (2021), which proposed "Support children's metacognition through the way instructions are given, not only their content"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

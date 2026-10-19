@@ -48,3 +48,4 @@ In Experiment 1, conditions did not differ in mean performance on any of the tes
 - [Rereading significantly improves metacomprehension monitoring accuracy relative to reading once (Experiment 1)](rereading-improves-metacomprehension-accuracy.md) — related
 - [Working memory capacity predicts monitoring accuracy after a single reading but not after rereading, independently of comprehension ability (Experiment 2)](wmc-by-rereading-interaction.md) — related
 - [Questioning-with-training produced higher posttest scores than read-reread study (Experiment 2)](questioning-with-training-beats-rereading.md) — related
+- [Diagramming conditions show no significant differences from control in regulation measures or reading comprehension test scores for causal relations](diagramming-no-effect-regulation-test-scores.md) — related

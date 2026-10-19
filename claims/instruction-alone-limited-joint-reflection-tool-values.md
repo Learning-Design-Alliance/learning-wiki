@@ -52,3 +52,4 @@ The editorial describes the Eshuis et al. study of vocational students across th
 - [Instruction-only vocational students matched control on all univariate communication variables, showing no significant differences between the two conditions in this study](instruction-alone-no-effect-on-collaborative-behavior.md) — possibly the same claim (merge candidate)
 - [Students in all three conditions learned significantly from the CSCL environment, with significant pretest-to-posttest gains in each condition](all-conditions-learned-from-cscl-environment.md) — related
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — a broader claim this one bears on
+- [Individually processed reflection prompts alone were insufficient to foster knowledge acquisition in secondary vocational students](individual-reflection-prompts-insufficient-vocational-students.md) — related

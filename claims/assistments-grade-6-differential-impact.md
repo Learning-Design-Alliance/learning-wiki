@@ -50,3 +50,4 @@ Grade-level subgroup analysis of the quasi-experimental sample (predominantly 7t
 - Across two studies (650 students), Math 180 shows positive impacts on mathematics achievement supporting a Moderate evidence rating with average effect size +0.26 — related
 - [A lottery-based randomized controlled trial at Lied replicated the positive, statistically significant impact on 6th graders' mathematics achievement found by the QED](lied-rct-replicates-math-impact.md) — related
 - [Schools using the ASSISTment formative assessment platform significantly outperformed matched schools on the state mathematics test](assistment-schools-outperformed-matched-schools.md) — a broader claim this one bears on
+- [The homework management–homework behavior link is stronger for grades 7–8 than for grades 5–6](homework-management-behavior-link-stronger-older-grades.md) — related

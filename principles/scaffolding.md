@@ -27,7 +27,7 @@ sources:
 # Scaffolding
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 41 claims (18 for, 20 mixed, 3 against) · 31 studies (15 causal, 5 review, 4 quant-synthesis, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 7 of 31 report an effect size · 35 claims rest on one study
+> **Evidence** · 42 claims (18 for, 20 mixed, 4 against) · 32 studies (16 causal, 5 review, 4 quant-synthesis, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 8 of 32 report an effect size · 36 claims rest on one study
 
 ## Conditional relationship
 
@@ -115,6 +115,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Groups' distribution of the four problem-solving processes deviated less from the ideal distribution (lower Gini coefficients) on scaffolded than non-scaffolded tasks](../claims/scaffolds-lower-gini-cps-process-distribution.md) [+W] — attached 2026-10-18 from Parks et al. (2026), which proposed "Include hard scaffolds in the design of ill-structured tasks for collaborative problem solving in higher education STEM classrooms"; tests this page's relationship.
 - [Groups' final solution scores were significantly higher on the scaffolded task than the non-scaffolded task](../claims/scaffolds-higher-final-solution-scores.md) [+W] — attached 2026-10-18 from Parks et al. (2026), which proposed "Include hard scaffolds in the design of ill-structured tasks for collaborative problem solving in higher education STEM classrooms"; tests this page's relationship.
 - [Neither the external collaboration script nor the reflection scaffold increased the quality of interaction in the subsequent (testing-phase) collaboration](../claims/no-script-or-reflection-effect-on-interaction-quality.md) [~W] — attached 2026-10-18 from Sebastian Strauß et al. (2025), which proposed "Determine how to support collaboration by comparing supports along the CSCL support dimensions goal, timing, target, and directivity"; tests this page's relationship.
+- [Empty-PC dyads built significantly better domain models than full-PC dyads, an effect concentrated among lower-achieving dyads](../claims/empty-pc-better-domain-models.md) [-W] — attached 2026-10-19 from Sarah Manlove et al. (2007), which proposed "Link regulative support closely to domain support so scaffolds for different purposes work in tandem"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

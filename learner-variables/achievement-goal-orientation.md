@@ -12,7 +12,7 @@ generated:
 # Achievement Goal Orientation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 27 claims (13 show a difference, 7 mixed, 5 no difference, 2 unmarked) · 18 studies (9 associational, 4 causal, 3 review, 2 theoretical), `q2`–`q3` · 7 of 18 report an effect size · 25 claims rest on one study
+> **Evidence** · 31 claims (15 show a difference, 9 mixed, 5 no difference, 2 unmarked) · 19 studies (10 associational, 4 causal, 3 review, 2 theoretical), `q2`–`q3` · 8 of 19 report an effect size · 29 claims rest on one study
 
 ## Description
 Achievement goal theory distinguishes mastery goals (developing competence and understanding) from performance goals (showing competence relative to others), each with an approach form (seeking success) and an avoidance form (avoiding failure or looking incompetent). Goals are measured by self-report and are shaped by classroom goal structures: how tasks, evaluation and recognition are organised. Mastery-approach goals generally go with persistence and deeper processing, performance-avoidance goals with anxiety and lower achievement. It is one part of [motivation](motivation.md).
@@ -61,6 +61,10 @@ Achievement goal theory distinguishes mastery goals (developing competence and u
 - [Self-efficacy moderates the mediating role of SRL between school belonging and mastery, with the strongest mediation for low-efficacy students](../claims/moderated-mediation-belonging-srl-efficacy.md) [~W] — instruction changes it
 - [SRL partially mediates the positive relations of both academic value and school belonging to mastery orientation among African American and Latino adolescents](../claims/srl-partially-mediates-identity-mastery.md) [+W] — instruction changes it
 - [Most motivational and self-regulation measures did not differ by competitive preference, though overall interest in educational psychology declined over the semester](../claims/no-competitiveness-differences-motivation-measures.md) [-M] — learners who differ on it differ in outcomes
+- [Achievement goal profiles did not differ significantly in argumentative writing achievement, but did differ in narrative writing achievement](../claims/profile-differences-narrative-not-argumentative-achievement.md) [~W] — learners who differ on it differ in outcomes
+- [The four achievement goal profiles differ significantly in all four dimensions of writing self-efficacy](../claims/goal-profiles-differ-writing-self-efficacy.md) [+M] — learners who differ on it differ in outcomes
+- [The four achievement goal profiles differ significantly in use of motivation regulation strategies (interest enhancement, motivational self-talk, emotional control)](../claims/goal-profiles-differ-motivation-regulation.md) [+M] — learners who differ on it differ in outcomes
+- [The predictive effects of writing self-efficacy and motivation regulation strategies on writing achievement vary across achievement goal profiles and writing genre](../claims/profile-varying-predictive-effects-writing-achievement.md) [~W] — an instructional effect differs with it
 
 ## Related Learner Variables
 

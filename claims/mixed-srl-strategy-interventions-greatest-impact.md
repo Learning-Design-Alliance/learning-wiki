@@ -50,3 +50,5 @@ Subgroup frequency analysis of the 15 included studies (Table 2) showing the dis
 - [Self-regulated learning interventions have a moderate effect (0.65) on learning outcomes in online and blended environments](srl-interventions-moderate-effect-online-blended.md) — related
 - [AI's direct impact on SRL concentrates on metacognitive and cognitive aspects while motivation remains underexplored](ai-srl-impact-metacognitive-cognitive-motivation-underexplored.md) — related
 - [SRL training effects vary by outcome category, largest for metacognitive strategies (g = .40) and smallest for cognitive strategies (g = .32)](srl-training-effects-by-outcome-category.md) — related
+- [Most direct SRL promotion targeted cognitive capabilities and rarely mentioned the benefit of strategy use](cognitive-capability-dominance-benefit-rarely-mentioned.md) — related
+- [Direct SRL promotion in observed classrooms was dominated by implicit strategy instruction, metacognitive support, and metacognitive reflection, with explicit strategy instruction rare](implicit-strategy-instruction-dominates-direct-srl-promotion.md) — related

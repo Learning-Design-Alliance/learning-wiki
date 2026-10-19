@@ -68,3 +68,5 @@ Cross-sectional study of adults ages 18 to 81 who studied related and unrelated 
 - [Training metacognitive self-regulation (self-testing plus selective restudy) produced greater paired-associate learning improvements in older adults than traditional encoding-strategy training when study was self-paced](metacognitive-selfregulation-training-beats-strategy-training.md) — related
 - [Reflective judgment scores increased consistently with age and educational level](reflective-judgment-increases-age-education.md) — related
 - [Judgments of learning add no new self-assessment information beyond performance estimates for single tasks](jols-redundant-with-performance-estimates.md) — related
+- [Judgments of learning are higher for easy than difficult items at all ages and increase with age, confirming the difficulty manipulation aligned with subjective difficulty](jol-difficulty-and-age-effects.md) — related
+- [JOL magnitudes decline across successive lists in both JOL groups, reflecting learners' belief that recall decreases with continued new learning](jol-magnitudes-decline-across-lists.md) — related

@@ -12,7 +12,7 @@ generated:
 # Writing Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 81 claims (57 show a difference, 13 mixed, 11 no difference) · 55 studies (21 causal, 18 associational, 6 review, 4 quant-synthesis, 3 design, 3 theoretical), `q1`–`q4` · 17 of 55 report an effect size · 76 claims rest on one study
+> **Evidence** · 83 claims (57 show a difference, 15 mixed, 11 no difference) · 56 studies (21 causal, 19 associational, 6 review, 4 quant-synthesis, 3 design, 3 theoretical), `q1`–`q4` · 18 of 56 report an effect size · 78 claims rest on one study
 
 ## Description
 Writing skills run from the foundational to the compositional. At the foundation are the motor skills of handwriting, knowledge of letters and print, spelling, punctuation, capitalisation and writing speed. Composition is the expression of ideas in writing: setting goals for a piece, deciding on content and structure, and shaping it for an audience and purpose. Genre knowledge is knowing the elements, vocabulary and order a narrative, persuasive or informative text calls for, and argumentative reasoning is the ability to make and support a claim with evidence and judge other people's arguments. The Learner Variability Navigator covers these as five factors across early childhood, the primary and secondary grades and adult learning.
@@ -118,6 +118,8 @@ They are assessed with curriculum-based measures (copying, dictation, spelling, 
 - [Only in the 5th-grade group were moderate positive correlations found, between visual-motor integration and motor coordination (r = 0.748) and between visual perception and dysgraphia classification (r = 0.643)](../claims/grade5-correlations-vmi-mc-vp-dysgraphia.md) [~M] — instruction changes it
 - [Students' writing and storytelling developed substantially, with the majority group publishing 23 school-level stories in Cycle 1 and 38 in Cycle 2 before a school cap limited publications](../claims/tprs-mtss-storytelling-publication-growth.md) [+W] — instruction changes it
 - [First-to-third-person perspective shifting, causal inference making, and gesture use correlate positively with explanatory and transfer scores, while information retrieval and handwriting correlate negatively](../claims/embodied-strategies-correlate-explanatory-transfer-scores.md) [+W] — learners who differ on it differ in outcomes
+- [Achievement goal profiles did not differ significantly in argumentative writing achievement, but did differ in narrative writing achievement](../claims/profile-differences-narrative-not-argumentative-achievement.md) [~M] — learners who differ on it differ in outcomes
+- [The predictive effects of writing self-efficacy and motivation regulation strategies on writing achievement vary across achievement goal profiles and writing genre](../claims/profile-varying-predictive-effects-writing-achievement.md) [~M] — an instructional effect differs with it
 
 ## Measures
 - **Wechsler Individual Achievement Test (Third Edition)** (Breaux & Frey, 2010): This multi-battery test can be used in a variety of settings to measure ability and screen for potential learning disabilities. There are extensive written expression sub-tests to analyze Composition abilities.

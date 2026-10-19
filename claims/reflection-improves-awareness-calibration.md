@@ -79,3 +79,4 @@ Directional signed-discrepancy analysis in the two AI-assisted conditions: "beha
 - [Open ChatGPT support increases college students' final decision confidence relative to independent decision-making, and reflection attenuates the boost](chatgpt-support-increases-final-confidence.md) — related
 - [ChatGPT recommendation accuracy was comparable between the open-support and reflection conditions, ruling out unequal exposure to erroneous advice](comparable-chatgpt-recommendation-accuracy.md) — related
 - [A brief metacognitive reflection prompt reduces acceptance of incorrect AI advice compared with open ChatGPT support alone](reflection-reduces-incorrect-ai-advice-acceptance.md) — related
+- [Teachers' self-assessed reflection skill exceeds their externally assessed reflection level, with only a low correlation between the two](teacher-reflection-self-external-assessment-gap.md) — related

@@ -77,6 +77,8 @@ The theory is explicitly integrative — it is often used as the organizing fram
 
 ## Examples
 
+- [Nurture the perceived value of creativity through joyful practice, task relevance, varied tasks, and enthusiastic teacher modeling](../strategies/nurture-perceived-value-of-creativity-strategies.md)
+
 ## Key Sources
 - Wigfield, A., & Eccles, J. S. (2000). Expectancy-value theory of achievement motivation. *Contemporary Educational Psychology, 25*, 68–81.
 - Wigfield, A., & Eccles, J. (1992). The development of achievement task values: A theoretical analysis. *Developmental Review, 12*, 265–310.
