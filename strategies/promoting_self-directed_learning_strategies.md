@@ -73,6 +73,7 @@ Self-directed learning is not discovery learning: the strategies that make indep
 - [Formative Self-Assessment](formative-self-assessment.md) — builds the evaluative judgment self-directed learners need
 - [Train learners in sycophancy-specific critical prompting strategies that remove personal assumptions, request critical evaluation, and ask for supporting evidence](sycophancy-specific-critical-prompting-strategies.md)
 - [Provide opportunities for independent practice with repeated cycles of use and structured reflection to strengthen regulatory skills over time](independent-practice-cycles-for-ai-regulation.md)
+- [Support metacognitive awareness by providing time and place for reflection, regulation-practice tasks, and profile-sensitive support](profile-sensitive-metacognitive-support-strategy.md)
 
 ## Related Elements
 - [Think-Aloud](../elements/think-aloud.md) — how teachers make self-regulatory decisions visible

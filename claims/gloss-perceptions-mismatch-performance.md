@@ -50,3 +50,4 @@ Descriptive questionnaire (24 items, in Chinese) administered to all subjects af
 - [Learners showed positive attitudes toward receiving SMS vocabulary messages, and instant messaging raised intercultural awareness](sms-positive-attitudes-intercultural-awareness.md) — related
 - [Adolescent EFL learners perceive cartoon-based pictorial elucidation as helpful for accurate vocabulary use and engagement](students-perceive-cartoons-helpful-vocabulary-accuracy.md) — related
 - [A multiple-choice gloss format (L1 + L2) produced significantly higher vocabulary posttest scores than a single-gloss format in Nagata's Japanese study](multiple-choice-gloss-beats-single-gloss-nagata.md) — related
+- [Questionnaire data may capture learners' perceptions rather than the strategies they actually performed](questionnaires-measure-perception-not-performed-strategies.md) — a broader claim this one bears on

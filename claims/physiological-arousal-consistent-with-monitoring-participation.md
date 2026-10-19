@@ -43,4 +43,4 @@ The review reports, citing Malmberg et al. (2019), a study aligning individuals'
 
 
 ## Related Claims
--
+- [Increased physiological arousal relates to less monitoring with neutral valence](arousal-negative-predictor-neutral-valence.md) — related

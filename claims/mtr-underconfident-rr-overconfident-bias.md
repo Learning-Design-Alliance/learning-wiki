@@ -87,3 +87,4 @@ Post-hoc contrast of bias on the one-week delayed test: the single-reading group
 - [Multiple text reading shows more stable retention than rereading: non-significantly higher one-week scores and a smaller decline from one day to one week](mtr-stable-retention-smaller-decline.md) — related
 - [Delaying judgments of learning after study markedly reduces, but does not eliminate, the foresight bias](delayed-jols-reduce-foresight-bias.md) — related
 - [Anchoring-and-adjustment explains the underconfidence-with-practice effect, with JOLs anchored between 30 and 50% correct recall](anchoring-explains-underconfidence-with-practice.md) — related
+- [JOL magnitudes decline across successive lists in both JOL groups, reflecting learners' belief that recall decreases with continued new learning](jol-magnitudes-decline-across-lists.md) — related

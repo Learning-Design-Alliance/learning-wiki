@@ -44,6 +44,7 @@ Because regulation of cognition developed more slowly than knowledge under exper
 - [Teach Self Regulation Strategies](teach-self-regulation-strategies.md)
 - [Place GenAI entry after the learner's initial task attempt rather than before it](genai-entry-after-attempt-in-srl-cycle.md)
 - [Use structured reflection tables, learning journals, prompt variation, adversarial queries, and peer debate to cultivate AI intuition](reflection-tables-journals-debates-cultivate-ai-intuition.md)
+- [Support metacognitive awareness by providing time and place for reflection, regulation-practice tasks, and profile-sensitive support](profile-sensitive-metacognitive-support-strategy.md)
 
 ## Examples
 -

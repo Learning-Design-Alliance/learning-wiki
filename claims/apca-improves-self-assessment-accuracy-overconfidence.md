@@ -70,3 +70,4 @@ Descriptive statistics across the four groups (Table 1) show the APCA group's lo
 - [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) — a broader claim this one bears on
 - [A theoretical article, citing two simulation studies, reports that novice clinical learners overestimated their performance and that their confidence exceeded their accuracy](novice-metacognitive-calibration-deficits.md) — related
 - [Most preservice teachers were overconfident in the completeness of their fraction comparison explanations at both first draft and revision](pst-overconfidence-fraction-explanation-calibration.md) — related
+- [Learners are substantially overconfident when evaluating the quality of their self-generated examples](overconfidence-evaluating-self-generated-examples.md) — related

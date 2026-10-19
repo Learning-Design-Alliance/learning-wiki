@@ -1,0 +1,50 @@
+---
+type: claim
+title: Individually processed reflection prompts alone were insufficient to foster knowledge acquisition in secondary vocational students
+description: Individually processed reflection prompts alone were insufficient to foster knowledge acquisition in secondary vocational students
+id: individual-reflection-prompts-insufficient-vocational-students
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-18
+evidence_strength: moderate
+sources:
+  - id: elise-h-eshuis-2022
+    resource: "https://doi.org/10.1007/s11409-022-09299-7"
+    title: "Elise H. Eshuis, Judith ter Vrugte, Ton de Jong. (2022). Supporting reflection to improve learning from self-generated concept maps. Metacognition and Learning. https://doi.org/10.1007/s11409-022-09299-7"
+    author: Elise H. Eshuis, Judith ter Vrugte, Ton de Jong
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 1
+---
+
+# Individually processed reflection prompts alone were insufficient to foster knowledge acquisition in secondary vocational students
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q3`
+
+## Subclaims
+`q3 i?` The example + prompts condition did not show significantly higher learning gains than the control condition. [→ Elise H. Eshuis 2022](#elise-h-eshuis-2022)
+
+## Evidence
+
+### Elise H. Eshuis 2022
+
+Elise H. Eshuis, Judith ter Vrugte, Ton de Jong. (2022). Supporting reflection to improve learning from self-generated concept maps. Metacognition and Learning. https://doi.org/10.1007/s11409-022-09299-7
+
+`q3 · i?` · `causal · r1`
+
+Post-hoc comparisons in the four-condition quasi-experiment (N = 144) showed no significant learning-gain advantage for the example + prompts condition over control; the authors report this contrast with the discussion condition in the discussion section.
+
+> "the results of the current study demonstrated that individual processing of reflection prompts was not sufficient to foster knowledge acquisition, but that reflection prompts do have added value when combined with a teacher-guided classroom discussion in which students jointly reflect and discuss"
+
+## Discussion
+
+
+## Related Claims
+- [Teacher-guided classroom discussion before reflection prompts yields higher learning gains than all other support conditions, especially on application-level items](classroom-discussion-before-prompts-higher-concept-map-learning-gains.md) — related
+- [Merely adding an expert example concept map does not add to the value of students creating their own concept maps for this population](expert-example-alone-no-learning-gain-concept-mapping.md) — related
+- [Vocational students who received collaboration instruction plus an online joint-reflection tool showed significantly higher domain-knowledge learning gains than control students, while instruction alone did not differ from control](instruction-with-reflection-tool-improves-vocational-knowledge-gains.md) — related
+- [Instruction about collaboration rules alone has limited utility; explicit scaffolding via joint reflection tools during collaboration adds unique value](instruction-alone-limited-joint-reflection-tool-values.md) — related
+- [Instruction-only vocational students matched control on all univariate communication variables, showing no significant differences between the two conditions in this study](instruction-alone-no-effect-on-collaborative-behavior.md) — related

@@ -45,3 +45,4 @@ Keystroke-log analysis across the two web-based deployments (Breached! and Touch
 ## Related Claims
 - [Student DP performance differed significantly across the three course deployments, with the paper-based DT3 exam scoring lowest, likely due to administration mode](dp-performance-varies-by-administration-mode.md) — related
 - [Attitudes toward AI improved after direct experience, and satisfaction was predicted by within-turn production fluency rather than linguistic uptake](satisfaction-predicted-by-production-fluency-not-uptake.md) — related
+- [SRL writing-stage clusters differed in production and revision but not in pausing](srl-writing-clusters-production-revision.md) — related

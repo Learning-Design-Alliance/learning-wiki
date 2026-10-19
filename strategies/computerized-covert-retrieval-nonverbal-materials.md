@@ -47,6 +47,7 @@ The authors recommend replacing standard practice in which "a learner [tries] to
 ## Related Strategies
 
 - [Graphic Organizers for Retrieval Practice](graphic_organizers_for_retrieval_practice.md)
+- [Interpolate metacognitive judgments or covert retrieval attempts during extended study sessions](interpolate-jols-covert-retrieval-during-study.md)
 
 ## Examples
 -

@@ -48,3 +48,5 @@ Pre-registered Experiment 1 (N = 164) comparing signed metacognitive bias betwee
 ## Related Claims
 - [In Experiment 2, signed metacognitive bias scores showed no significant group effect or linear trend, failing to replicate the Experiment 1 signed-bias finding](exp2-signed-metacognitive-bias-not-replicated.md) — related
 - [In Experiment 1, the feedback group showed significantly lower absolute (unsigned) metacognitive bias than the no-feedback group at both pre-task and post-task](feedback-reduces-absolute-metacognitive-bias-exp1.md) — related
+- [Bias scores did not improve over the school year, but school year level mattered: year 1 students became less overconfident while year 3 students improved their underconfidence](bias-no-change-year-level-effects.md) — related
+- [Providing a rubric reduces bias in self-assessment, moving judgments closer to expert ratings](rubrics-reduce-self-assessment-bias.md) — related

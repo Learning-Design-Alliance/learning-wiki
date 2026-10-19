@@ -43,4 +43,4 @@ The review attributes to Salomon (1984) that "Learners invest more mental ef- fo
 
 
 ## Related Claims
--
+- [Expert example standards increase subjective task difficulty and mental effort during example evaluation](expert-standards-increase-difficulty-effort.md) — a narrower finding that bears on this claim

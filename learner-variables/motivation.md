@@ -12,7 +12,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 180 claims (125 show a difference, 34 mixed, 19 no difference, 2 unmarked) · 145 studies (49 associational, 41 causal, 21 review, 10 qualitative, 10 theoretical, 8 quant-synthesis, 6 design), `q1`–`q4` · 34 of 145 report an effect size · 168 claims rest on one study
+> **Evidence** · 184 claims (129 show a difference, 34 mixed, 19 no difference, 2 unmarked) · 146 studies (50 associational, 41 causal, 21 review, 10 qualitative, 10 theoretical, 8 quant-synthesis, 6 design), `q1`–`q4` · 34 of 146 report an effect size · 172 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -229,6 +229,10 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Academic self-efficacy was not significantly associated with final test performance](../claims/self-efficacy-no-direct-path-final-test.md) [-M] — learners who differ on it differ in outcomes
 - [Co-teaching does not differ from solo teaching in the development of students' mathematics self-concept and interest](../claims/co-teaching-no-motivation-development-benefit.md) [-M] — instruction changes it
 - [Students' perception of science instruction as interesting is positively associated with their emotional engagement in science](../claims/interesting-science-instruction-associated-emotional-engagement.md) [+M] — learners who differ on it differ in outcomes
+- [Creative performance weakly predicts metacognitive judgments, with perceived difficulty and task interest serving as additional cues](../claims/performance-difficulty-interest-cues-judgments.md) [+W] — learners who differ on it differ in outcomes
+- [Perceived difficulty and task interest in Task 1 indirectly inform expectancy beliefs for Task 2](../claims/difficulty-interest-cues-subsequent-expectancy.md) [+W] — learners who differ on it differ in outcomes
+- [Perceived value of creativity informs judgments and expectancies primarily indirectly through task-specific variables, especially task interest](../claims/value-of-creativity-indirect-through-interest.md) [+W] — learners who differ on it differ in outcomes
+- [Task interest remains stable across consecutive creativity tasks, driven directly by prior interest rather than mediated task experience](../claims/task-interest-stable-across-creativity-tasks.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

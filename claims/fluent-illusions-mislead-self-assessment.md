@@ -171,3 +171,5 @@ Participants studied words printed in different font sizes for a free-recall tes
 - [An early-semester presentation on fluency and feeling of learning improved students' attitudes toward active learning](early-fluency-intervention-improved-attitudes.md) — related
 - [Generating examples produces overconfident judgments of learning, especially for principles and procedures](example-generation-overconfidence-judgment-bias.md) — related
 - [Students lack metacognitive awareness of the benefits of errorful learning: the three learning groups did not differ in perceived competence, judgments of learning, or rated method effectiveness even after tests](no-metacognitive-awareness-of-errorful-learning-benefits.md) — related
+- [Disfluency increased study times without improving performance, suggesting time was spent deciphering text rather than processing contents more deeply](disfluency-study-time-decoding-not-deeper.md) — related
+- [Making JOLs is not a neutral act: metacognitive ratings reactively affect subsequent learning, so experiments need judgment-free conditions](jol-reactivity-requires-judgment-free-control-condition.md) — related

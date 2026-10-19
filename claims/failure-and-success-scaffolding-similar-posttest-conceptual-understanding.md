@@ -49,3 +49,4 @@ Classroom intervention study (N = 221) comparing explicit failure-driven versus 
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — a broader claim this one bears on
 - [Guidance during initial problem solving does not translate into better learning from subsequent instruction](initial-guidance-does-not-improve-learning-from-instruction.md) — related
 - [Differential scaffold benefits were more salient for the more difficult learning concept](scaffold-benefits-more-salient-for-difficult-concept.md) — related
+- [Metacognitive and strategic scaffold-use subgroups solved more problems correctly than moderate and low-use subgroups](scaffold-use-subgroups-problem-solving.md) — related

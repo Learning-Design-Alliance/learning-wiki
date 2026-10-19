@@ -58,8 +58,10 @@ Emphasizing value works because motivation depends on learners both expecting su
 5. Align grading with the message: use revision, mastery-based scoring, or [Formative Assessment](../patterns/formative-assessment.md) so grades reward learning, not just performance
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — connecting new material to existing knowledge also builds perceived relevance
 - [Check-Ins](../principles/check-ins.md) — ongoing monitoring of learner motivation and self-perception
+- [Nurture the perceived value of creativity through joyful practice, task relevance, varied tasks, and enthusiastic teacher modeling](nurture-perceived-value-of-creativity-strategies.md)
 
 ## Examples
 - **Utility-value essays in science courses** — Hulleman & Harackiewicz (2009) had high school science students write briefly about how course topics related to their lives; students with low success expectations showed higher interest and better grades [+S]

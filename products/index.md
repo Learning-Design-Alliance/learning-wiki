@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1791 entries** · 0 stable · 1791 in review · 0 drafts
+**1797 entries** · 0 stable · 1797 in review · 0 drafts
 
 ---
 
@@ -44,6 +44,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Adult ADHD Self-Report Scale (ASRS v1.1)](adult-adhd-self-report-scale-asrs-v11.md) - The World Health Organization Adult ADHD Self-Report Scale (ASRS v1.1) is a six-item self-report screening assessment for probable adult ADHD symptoms.
 * [Adult Promise initiative](adult-promise-initiative.md) - A Lumina Foundation multiyear state-grant program launched in 2017 to engage and support adults ages 25 to 64 in postsecondary education, with Mathematica serving as its learning and evaluation partner from 2017 to 2021.
 * [Adventure therapy outcome meta-analytic dataset and coding manual](adventure-therapy-outcome-meta-analytic-dataset-and-coding-manual.md) - A meta-analytic dataset and coding manual assembled by Daniel J.
+* [AEQ-ES adapted to English as L2 for primary school children](aeq-es-adapted-to-english-as-l2-for-primary-school-children.md) - A 32-item, face-supported Likert questionnaire adapted from the Achievement Emotion Questionnaire–Elementary School to measure primary pupils’ enjoyment, anxiety, and boredom when learning English as a second language.
 * [Agent4Edu](agent4edu.md) - Agent4Edu is an LLM-based personalized learning simulator developed by Luis Marquez-Carpintero et al.
 * [AgenticMath](agenticmath.md) - A Liu et al.
 * [AgenticMathQA](agenticmathqa.md) - AgenticMathQA is a curated 30K, 60K, or 90K mathematical problem-solution dataset released by Liu et al.
@@ -343,6 +344,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Critical Thinking Disposition Scale and Philosophy Preference Assessment Scale](critical-thinking-disposition-scale-and-philosophy-preference-assessment-scale.md) - A paired set of Likert-type instruments comprising the Ricketts and Rudd Critical Thinking Disposition Scale, adapted into Turkish by Demircioglu, and the Cetin, Ilhan, and Arslan Philosophy Preference Assessment Scale, used to measure critical-thinking dispositions and traditional versus contempora
 * [CRITICS](critics.md) - CRITICS is a project-developed suite including an LLM-based scientific document translation system that preserves domain terminology, notation, and document structure for multilingual science education.
 * [Critsly](critsly.md) - Critsly is a shared visual workspace for higher-education design critique, developed and reported by Nizam Kadir, combining artefact boards, critique history, guided reflection, persona lenses, and AI-generated feedback.
+* [Cromley and Azevedo multiple-choice strategy-use measure](cromley-and-azevedo-multiple-choice-strategy-use-measure.md) - A domain-general and domain-specific assessment developed by Cromley and Azevedo that measures readers’ accurate enactment of reading-comprehension strategies through objectively scored multiple-choice items.
 * [Cross-dataset Bloom classification benchmark corpus of five datasets totaling 4,179 questions](cross-dataset-bloom-classification-benchmark-corpus-of-five-datasets-totaling-4179-questio.md) - A benchmark corpus assembled by Abdolali Faraji et al.
 * [CS50-Duck](cs50-duck.md) - CS50-Duck is a subject-matter conversational agent developed for and deployed in Harvard's CS50 programming course through the CS50 platform and Visual Studio Code.
 * [CS50-Forum external validation set of 150 public course-oriented programming questions](cs50-forum-external-validation-set-of-150-public-course-oriented-programming-questions.md) - A dataset created by S.
@@ -974,6 +976,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Mathematics Diagnostic Testing Project (MDTP)](mathematics-diagnostic-testing-project-mdtp.md) - MDTP is a mathematics diagnostic assessment project that provides topic-level mastery information for students and educators, including online results used to inform algebra placement decisions.
 * [Mathematics-Related Beliefs Questionnaire](mathematics-related-beliefs-questionnaire.md) - The MRBQ is a 58-item, six-point Likert-scale questionnaire developed by Op ’t Eynde and colleagues to measure students’ beliefs about mathematics, themselves as mathematics learners, and their classroom social context.
 * [MATHia](mathia.md) - MATHia is Carnegie Learning's adaptive mathematics intelligent tutoring system that analyzes students' step-by-step problem solving and provides personalized instruction and feedback toward mastery.
+* [MAWSQ: Metacognitive Academic Writing Strategies Questionnaire](mawsq-metacognitive-academic-writing-strategies-questionnaire.md) - A 43-item, 7-point Likert self-report questionnaire developed by Teng and colleagues to assess EFL university students' metacognitive knowledge and regulation strategies in academic writing.
 * [MCD-v2](mcd-v2.md) - MCD-v2 is a computerized adaptive cognitive diagnostic test developed by Vy Le et al.
 * [McKinney-Vento Act](mckinney-vento-act.md) - A U.S.
 * [MDTP Algebra Readiness test](mdtp-algebra-readiness-test.md) - A 45-item multiple-choice mathematics diagnostic assessment developed by the Mathematics Diagnostic Testing Project to measure students' algebra readiness across seven topic areas.
@@ -1388,6 +1391,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [RoboBuddy](robobuddy.md) - RoboBuddy is a browser-based teacher interface and locally deployable LLM-robot system developed by Tozadore et al.
 * [Rocky Mountain Prep Family Advocacy Support Team (FAST)](rocky-mountain-prep-family-advocacy-support-team-fast.md) - Rocky Mountain Prep's Family Advocacy Support Team (FAST) is a referral-based family-support programme providing emergency basic-needs assistance and connections to longer-term resources for students' families.
 * [RP-Observe observation tool](rp-observe-observation-tool.md) - RP-Observe is a Rutgers University-developed school observation tool for assessing restorative-justice implementation and outcomes.
+* [RSAT](rsat.md) - RSAT is a computer-based online assessment developed by Gonny Schellings and colleagues to measure readers’ comprehension and spontaneous reading-strategy use during sentence-by-sentence reading.
 * [Rubric-aligned concept-annotated grading benchmarks (REC-CBM)](rubric-aligned-concept-annotated-grading-benchmarks-rec-cbm.md) - REC-CBM is a research dataset release that adds rubric-aligned, expert-validated concept annotations to the Mohler, ASAP 2.0, and MOCHA open-ended response-grading benchmarks for interpretable automated grading research.
 * [RULER](ruler.md) - RULER is a social-emotional learning programme developed and run by the Yale Center for Emotional Intelligence that teaches recognizing, understanding, labeling, expressing, and regulating emotions.
 
@@ -1580,6 +1584,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### T {: #letter-t }
 
+* [T-SQsrl paired teacher and student SRL questionnaires](t-sqsrl-paired-teacher-and-student-srl-questionnaires.md) - A paired teacher-and-student questionnaire instrument developed by Avivit Arvatz and colleagues to assess self-regulated-learning subprocesses and reflection through self-report and triangulated open-ended responses.
 * [T3 Turnaround Teacher Teams](t3-turnaround-teacher-teams.md) - T3 Turnaround Teacher Teams is a Teach Plus and Boston Public Schools school-turnaround programme that places trained teacher leaders and coaches in low-performing schools to support shared leadership, data use, and collaborative planning.
 * [TACTCorpus and TACTBench](tactcorpus-and-tactbench.md) - Dongjie Yang et al.'s released corpus, diagnostic benchmark, annotations, and model weights support reproducible research on pedagogically adaptive next-turn generation for one-to-one ESL tutoring.
 * [TACTutor](tactutor.md) - TACTutor is an open 4B language model for adaptive English-as-a-second-language tutoring, developed by Dongjie Yang and colleagues through supervised fine-tuning and taxonomy-grounded reinforcement learning.
@@ -1781,6 +1786,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Waterford Early Reading Program™](waterford-early-reading-program.md) - Waterford Early Reading Program™ is a software-based K–2 reading curriculum developed and provided by Waterford.org, combining individualized computer sessions with literacy activities, multimedia content, and teacher management tools.
 * [Waterford Upstart](waterford-upstart.md) - Waterford Upstart is Waterford.org's home-based early-learning programme that uses Waterford Early Learning software to provide adaptive reading, mathematics, and science instruction to young children.
 * [Waterproof](waterproof.md) - Waterproof is an educational AI tool developed by Portegies et al.
+* [Watson–Glaser Critical Thinking Appraisal (W-GCTA)](watsonglaser-critical-thinking-appraisal-w-gcta.md) - A paper-and-pencil standardized assessment developed by Watson and Glaser that measures critical-thinking subskills including inference, assumption recognition, deduction, interpretation, and argument evaluation.
 * [Way2Work Maryland](way2work-maryland.md) - A U.S.
 * [Web-based GAI chatbot with instructor-facing learning analytics dashboard](web-based-gai-chatbot-with-instructor-facing-learning-analytics-dashboard.md) - A login-based web application built with OpenAI's Assistants API that provides course-specific Socratic tutoring and instructors with dashboards for analyzing student conversations and engagement.
 * [Web-based multiplication practice program dataset of 469 multidigit problems](web-based-multiplication-practice-program-dataset-of-469-multidigit-problems.md) - A large-scale corpus of primary-school children's logged solutions to 469 multidigit multiplication problems collected through a web-based practice program and used for item-difficulty analysis.

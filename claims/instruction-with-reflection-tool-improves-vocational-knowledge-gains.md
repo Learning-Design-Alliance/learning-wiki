@@ -45,3 +45,4 @@ In a pretest-intervention-posttest study of secondary vocational students, an AN
 ## Related Claims
 - [Instruction about collaboration rules alone has limited utility; explicit scaffolding via joint reflection tools during collaboration adds unique value](instruction-alone-limited-joint-reflection-tool-values.md) — possibly the same claim (merge candidate)
 - [Learners who reflected collaboratively on their prior collaboration gained more knowledge about effective collaboration than learners guided by an external collaboration script or unsupported learners](reflection-scaffold-beats-script-collaboration-knowledge.md) — related
+- [Individually processed reflection prompts alone were insufficient to foster knowledge acquisition in secondary vocational students](individual-reflection-prompts-insufficient-vocational-students.md) — related

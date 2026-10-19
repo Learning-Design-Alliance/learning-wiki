@@ -63,3 +63,5 @@ Dependent-samples comparison of correlations on the same 32 tasks: the mental-ef
 
 ## Related Claims
 - [The three instruction items intercorrelate strongly enough to form an internally consistent scale, yet achievement is positively associated with two items and negatively with the third, so their common variance does not represent instructional quality](intercorrelated-items-common-variance-not-quality.md) — related
+- [Expert example standards increase subjective task difficulty and mental effort during example evaluation](expert-standards-increase-difficulty-effort.md) — related
+- [Providing a rubric reduces perceived difficulty of self-assessment but not invested mental effort](rubrics-reduce-perceived-difficulty-not-mental-effort.md) — related

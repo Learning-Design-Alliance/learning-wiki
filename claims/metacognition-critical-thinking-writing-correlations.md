@@ -1,0 +1,52 @@
+---
+type: claim
+title: All metacognitive strategy factors and critical thinking subfactors were significantly and positively correlated with each other and with academic writing
+description: All metacognitive strategy factors and critical thinking subfactors were significantly and positively correlated with each other and with academic writing
+id: metacognition-critical-thinking-writing-correlations
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-18
+evidence_strength: moderate
+sources:
+  - id: mark-feng-teng-2022
+    resource: "https://doi.org/10.1007/s11409-022-09328-5"
+    title: "Mark Feng Teng, Mei Yue. (2022). Metacognitive writing strategies, critical thinking skills, and academic writing performance: A structural equation modeling approach. Metacognition and Learning. https://doi.org/10.1007/s11409-022-09328-5"
+    author: Mark Feng Teng, Mei Yue
+    q: 3
+    i: "?"
+    kind: associational
+    rigour: 2
+---
+
+# All metacognitive strategy factors and critical thinking subfactors were significantly and positively correlated with each other and with academic writing
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q3`
+
+## Subclaims
+`q3 i?` All factors were significantly and positively correlated at the 0.001 level, including the eight metacognition subcategories, the five critical thinking subfactors, and academic writing. [→ Mark Feng Teng 2022](#mark-feng-teng-2022)
+
+## Evidence
+
+### Mark Feng Teng 2022
+
+Mark Feng Teng, Mei Yue. (2022). Metacognitive writing strategies, critical thinking skills, and academic writing performance: A structural equation modeling approach. Metacognition and Learning. https://doi.org/10.1007/s11409-022-09328-5
+
+`q3 · i?` · `associational · r2`
+
+Pearson correlation analysis (Table 3) of MAWSQ, W-GCTA, and writing test scores in the university EFL sample. The article reports all factors "significantly and positively correlated at the level of 0.001"; printed coefficients ranged roughly from .432 to .683 across the matrix.
+
+> "As shown in Table 3, all factors were significantly and positively correlated at the level of 0.001. Thus, the eight sub-categories of metacognition were significantly and positively correlated with each other and with academic writing and various components of critical thinking."
+
+## Discussion
+
+
+## Learner Variables
+- [Critical Thinking](../learner-variables/critical-thinking.md) — predictor: learners who differ on it differ in outcomes
+- [Metacognition](../learner-variables/metacognition.md) — predictor: learners who differ on it differ in outcomes
+- [Self-Regulation](../learner-variables/self-regulation.md) — predictor: learners who differ on it differ in outcomes
+
+## Related Claims
+- [Metacognition is significantly and positively related to EFL students' academic writing performance (Model 1)](metacognition-positively-related-efl-academic-writing.md) — a narrower finding that bears on this claim
+- [Metacognition is significantly and positively associated with EFL students' critical thinking skills (Model 2)](metacognition-positively-associated-critical-thinking.md) — a narrower finding that bears on this claim

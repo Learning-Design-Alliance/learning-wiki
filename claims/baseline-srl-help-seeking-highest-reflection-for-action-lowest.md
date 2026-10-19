@@ -45,3 +45,6 @@ Pre-intervention self-report analysis of SQsrl data from Adam's cohort (49 of 70
 ## Related Claims
 - [Visual-motor integration was the lowest-scoring ability and motor coordination the best-performing ability in every grade group](vmi-lowest-mc-highest-all-groups.md) — related
 - [Teachers' SRL&T module scores improved modestly over the year, with Adam improving more (three to six points) than Ben (five to six)](srlt-module-scores-improvement-adam-ben.md) — related
+- [Students self-report help-seeking as their strongest SRL skill and reflection for action as their weakest](students-help-seeking-strong-reflection-for-action-weak.md) — possibly the same claim (merge candidate)
+- [Teachers' and students' SRL profiles differ more than they are alike, sharing only insufficient reflection practice](teacher-student-srl-profiles-differ-except-reflection.md) — a broader claim this one bears on
+- [Teachers' self-reported SRL shows self-efficacy as the highest-practiced skill and help-seeking and goal-setting as the lowest](teachers-srl-self-efficacy-high-help-seeking-low.md) — related

@@ -41,6 +41,7 @@ The paper recommends concrete teacher actions to operationalise the cyclical mod
 - [Self Monitoring Strategies](self-monitoring-strategies.md)
 - [Self Regulated Learning Instruction](self-regulated-learning-instruction.md)
 - [Learning Dashboards](learning-dashboards.md)
+- [Support metacognitive awareness by providing time and place for reflection, regulation-practice tasks, and profile-sensitive support](profile-sensitive-metacognitive-support-strategy.md)
 
 ## Examples
 -

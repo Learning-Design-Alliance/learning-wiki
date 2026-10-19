@@ -74,3 +74,4 @@ The review compiles zero-order correlations from published meta-analyses (each w
 - [Kindergarten predictors correlate robustly with grade 1 math outcomes, weakest for computation](predictor-outcome-correlations-weakest-computation.md) — a narrower finding that bears on this claim
 - [Social competence is positively and externalizing problems negatively prospectively related to academic achievement](social-competence-positive-externalizing-negative-achievement.md) — related
 - [Changes in mathematics self-concept and interest are independent of prior achievement and do not predict later achievement](motivation-changes-independent-of-achievement.md) — a narrower finding that bears on this claim
+- [Off-line self-report instruments show low concurrent validity with on-line measures and do not predict learning outcomes very well](offline-self-reports-low-concurrent-validity-veenman.md) — related

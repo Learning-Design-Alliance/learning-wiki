@@ -42,6 +42,7 @@ Based on the finding that students' interactions were request-dominated with nea
 ## Related Strategies
 
 - [Scaffold question formulation and active help-seeking in AI-supported tutoring systems](scaffold-question-formulation-ai-help-seeking.md)
+- [Use the special issue's design-process questions to shape new SRL scaffolds](srl-scaffold-design-process-questions.md)
 
 ## Examples
 -

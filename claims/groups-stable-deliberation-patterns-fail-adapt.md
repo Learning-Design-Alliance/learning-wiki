@@ -44,3 +44,4 @@ Figure 9 analysis of sequence distribution across triggering phases showed most 
 
 ## Related Claims
 - [Two distinct group deliberation patterns emerge in response to regulation triggers: the Plan and Implementation Approach (PIA) and the Trials and Failure Approach (TFA)](pia-tfa-deliberation-patterns-ssrl.md) — related
+- [Groups' progress during collaboration falls into four data-driven categories differing in sequence frequencies and the regulation phases groups return to](four-categories-group-progress-monitoring-sequences.md) — related

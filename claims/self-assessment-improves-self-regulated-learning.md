@@ -112,3 +112,4 @@ Four random-effects meta-analyses (Hedges & Olkin method) pooled 19 experimental
 - [LLMs can deliver scalable, personalized, interactive feedback almost instantly, reducing dependency on teacher availability and supporting self-regulated learning in large courses](llms-scalable-personalized-feedback-large-courses.md) — related
 - Correlations with self-regulation tend to be larger for course grades than for standardized test scores in several coded studies — related
 - [Self-monitoring intervention effects rest on four key components: selecting a target behavior, defining it, self-assessment, and self-recording](self-monitoring-four-key-components.md) — related
+- [Teachers' self-assessed reflection skill exceeds their externally assessed reflection level, with only a low correlation between the two](teacher-reflection-self-external-assessment-gap.md) — related

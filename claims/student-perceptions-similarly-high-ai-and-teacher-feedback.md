@@ -46,3 +46,4 @@ Student perceptions were assessed through a validated questionnaire (N = 200) in
 - [Practicing with AI did not create an illusion of mastery: participants reported learning and skill levels similar to other conditions](no-illusion-of-mastery-from-ai-practice.md) — related
 - [No significant difference in perceived learning across the three modes (p = .845), despite the unrestricted mode's nearly double objective learning delta](no-perceived-learning-difference-across-modes.md) — related
 - [Project performance improved significantly from pre- to post-feedback across all three feedback conditions with no significant differences between feedback sources](ai-teacher-feedback-equal-project-performance-gains.md) — related
+- [Questionnaire data may capture learners' perceptions rather than the strategies they actually performed](questionnaires-measure-perception-not-performed-strategies.md) — related

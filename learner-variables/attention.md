@@ -12,7 +12,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 94 claims (65 show a difference, 19 mixed, 10 no difference) · 73 studies (19 associational, 17 causal, 15 review, 10 quant-synthesis, 5 qualitative, 5 design, 2 theoretical), `q1`–`q4` · 12 of 73 report an effect size · 89 claims rest on one study
+> **Evidence** · 96 claims (67 show a difference, 19 mixed, 10 no difference) · 74 studies (19 associational, 18 causal, 15 review, 10 quant-synthesis, 5 qualitative, 5 design, 2 theoretical), `q1`–`q4` · 13 of 74 report an effect size · 91 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -131,6 +131,8 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [Unmedicated children with ADHD score higher than controls on TTCT-Figurative Originality](../claims/adhd-children-higher-ttct-originality.md) [+M] — learners who differ on it differ in outcomes
 - [NGI did not appear to divert students from learning objectives; attention momentarily shifted but quickly returned to gameplay](../claims/ngi-not-distracting-attention-returns.md) [-M] — instruction changes it
 - [Student engagement increased across all performance levels over three DBR cycles, with low-performing students moving from 7–10 teacher prompts per lesson to 95–100% sustained attention by Cycle 3](../claims/tprs-mtss-engagement-gains-all-performance-levels.md) [+W] — instruction changes it
+- [In Experiment 1, participants were objectively less distracted by masked speech than by pure speech in serial recall, although both types caused significant distraction relative to quiet](../claims/exp1-objective-less-distracted-by-masked-speech.md) [+W] — instruction changes it
+- [In Experiment 2 with speech babble masking, participants again predicted masked speech to be more distracting than pure speech while being objectively less distracted by it, replicating Experiment 1](../claims/exp2-conceptual-replication-with-speech-babble.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does making material more interesting with details that do not carry the target cost learning?* [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [+S]

@@ -50,3 +50,4 @@ Randomized experiment with 88 university students (29 control, 29 drawing-from-s
 - [Spatial thinking and generative activity reduced monitoring error while higher interest increased it](spatial-generative-reduce-error-interest-increases.md) — related
 - [Sketching during reading yielded the most accurate comprehension monitoring, with significantly less absolute error than photograph, no-image, and animation conditions](sketching-most-accurate-monitoring-absolute-error.md) — related
 - [Drawing quality predicted JOLs to a similar extent in both drawing conditions, contrary to the expectation that scaffolds would strengthen this cue use](drawing-quality-predicts-jols-similarly-both-conditions.md) — related
+- [Making JOLs is not a neutral act: metacognitive ratings reactively affect subsequent learning, so experiments need judgment-free conditions](jol-reactivity-requires-judgment-free-control-condition.md) — related

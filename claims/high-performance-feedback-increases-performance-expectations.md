@@ -50,3 +50,5 @@ Hierarchical regression (Model 2) predicting performance expectations in the sam
 - [High-performance feedback increases self-efficacy more than low-performance feedback, with comparable effects across younger and older adults](high-performance-feedback-increases-self-efficacy-across-age-groups.md) — related
 - [Problem solving accuracy showed age-related declines but no significant main effect of feedback; a marginal Age × Feedback interaction reflected age differences only within the high-PFB group](problem-solving-accuracy-age-declines-no-feedback-effect.md) — related
 - [Fake social-comparative feedback combined with fictional malleability information successfully induces large changes in self-efficacy beliefs](fake-feedback-induces-self-efficacy-changes.md) — related
+- [Older age groups report lower global performance judgments of their mathematical competence, controlling for education](age-lower-math-performance-judgment-adults.md) — related
+- [Older age groups report lower global performance judgments of their reading competence, controlling for education](age-lower-reading-performance-judgment-adults.md) — related

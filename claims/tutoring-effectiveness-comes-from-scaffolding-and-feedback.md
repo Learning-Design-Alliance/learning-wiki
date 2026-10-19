@@ -120,3 +120,4 @@ A review of experiments comparing human tutoring, several classes of computer tu
 - [The effectiveness of some types of peer tutoring is already well established but under-disseminated to practitioners](peer-tutoring-effectiveness-known-but-undisseminated.md) — a broader claim this one bears on
 - [Learning benefits of Cognitive Tutor interactivity are supported to varying extents by a growing body of experimental studies](cognitive-tutor-interactivity-benefits-varying-extents.md) — related
 - [Teacher and researcher coaches both used a cognitive apprenticeship approach but differed in scaffolding style](bioworld-coaching-styles-cognitive-apprenticeship.md) — related
+- [Students who discussed the prompts answered them more often and gave more domain-related answers, and domain-relatedness predicted learning gain](domain-related-prompt-answers-predict-learning-gain.md) — related

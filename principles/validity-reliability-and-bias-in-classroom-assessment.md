@@ -35,7 +35,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 159 claims (70 for, 76 mixed, 13 against) · 123 studies (41 associational, 30 design, 18 review, 17 theoretical, 12 causal, 3 qualitative, 2 quant-synthesis), `q1`–`q3` · 8 of 123 report an effect size · 154 claims rest on one study
+> **Evidence** · 160 claims (71 for, 76 mixed, 13 against) · 124 studies (41 associational, 30 design, 18 review, 18 theoretical, 12 causal, 3 qualitative, 2 quant-synthesis), `q1`–`q3` · 8 of 124 report an effect size · 155 claims rest on one study
 
 ## Conditional relationship
 
@@ -174,6 +174,7 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [In JEU SERAI, questionnaire-like in-game items (diary ordering, mini game ranking, narrative questionnaires) correlated best with RIASEC questionnaire results, while other item types correlated poorly](../claims/jeu-serai-item-type-correlation-quality-ranking.md) [+W] — attached 2026-10-16 from Guardiola et al. (2015), which proposed "A profiling game's psychological model must be scientifically validated and must match the profiling intention"; tests this page's relationship.
 - [Enterprising-type items in JEU SERAI did not work correctly, attributed to panel underrepresentation and weak action-verb rationalization](../claims/jeu-serai-enterprising-items-failed.md) [~W] — attached 2026-10-16 from Guardiola et al. (2015), which proposed "Mini-game structure to prevent gameplay optimization from masking psychological preferences".
 - [Questionnaire measures of curiosity are difficult to use validly with young children](../claims/questionnaire-measures-poor-fit-young-children.md) [+W] — attached 2026-10-17 from Jirout et al. (2011), which proposed "Use behavioral rather than questionnaire measures to assess young children's curiosity"; tests this page's relationship.
+- [Questionnaire data may capture learners' perceptions rather than the strategies they actually performed](../claims/questionnaires-measure-perception-not-performed-strategies.md) [+W] — attached 2026-10-19 from Gonny Schellings et al. (2011), which proposed "Tailor self-report instruments to particular tasks or contexts, since broad-brush general measures strain validity".
 
 ## Objective and learner-valued goal
 

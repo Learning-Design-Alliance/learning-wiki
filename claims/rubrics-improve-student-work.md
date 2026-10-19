@@ -121,3 +121,5 @@ Two further open questions for the evidence base: (1) durability — most rubric
 - [Students are typically passive users of assessment rubrics in authentic assessment designs](aa-students-passive-users-of-rubrics.md) — related
 - [Exemplar-based calibration is expected to align student ratings with expert ratings at the criterion level](trainer-calibration-expected-align-rater-judgments.md) — related
 - [Writing to the teacher led students to treat writing as evaluation and reproduce transmitted content rather than construct their own knowledge](teacher-audience-promotes-evaluation-not-construction.md) — related
+- [The benefits of rubrics on self-assessment accuracy do not depend on the inferential level of the assessment criteria](rubric-benefits-independent-of-inferential-level.md) — related
+- [Providing a rubric during self-assessment improves the absolute accuracy of high school students' self-assessments of written scientific abstracts](rubrics-improve-absolute-self-assessment-accuracy.md) — related

@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 76 claims (52 show a difference, 16 mixed, 8 no difference) · 59 studies (24 causal, 9 associational, 8 theoretical, 7 qualitative, 6 review, 3 quant-synthesis, 2 design), `q1`–`q4` · 18 of 59 report an effect size · 75 claims rest on one study
+> **Evidence** · 88 claims (61 show a difference, 18 mixed, 9 no difference) · 66 studies (27 causal, 12 associational, 8 theoretical, 7 review, 7 qualitative, 3 quant-synthesis, 2 design), `q1`–`q4` · 20 of 66 report an effect size · 87 claims rest on one study
 
 ## Description
 Metacognition is knowing about and managing one's own cognition. It has two sides: knowledge (what a learner knows about how they learn, what they do and do not understand, and which strategies suit a task) and regulation (planning an approach, monitoring progress and comprehension, and adjusting when it is not working). It is usually measured by self-report inventories of strategy awareness, by parent and teacher rating scales, and by comparing a learner's confidence judgements with their actual performance (calibration).
@@ -117,6 +117,18 @@ It overlaps heavily with [self-regulation](self-regulation.md), of which monitor
 - [Students lack metacognitive awareness of the benefits of errorful learning: the three learning groups did not differ in perceived competence, judgments of learning, or rated method effectiveness even after tests](../claims/no-metacognitive-awareness-of-errorful-learning-benefits.md) [-M] — instruction changes it
 - [Constantly high complexity lowers reported intrinsic cognitive load and metacognitive strategy use compared with gradually increasing complexity](../claims/high-complexity-lowers-icl-and-metacognitive-strategy-use.md) [+M] — instruction changes it
 - [Intrinsic cognitive load is a strong predictor of metacognitive strategy use](../claims/icl-predicts-metacognitive-strategy-use.md) [+M] — instruction changes it
+- [All metacognitive strategy factors and critical thinking subfactors were significantly and positively correlated with each other and with academic writing](../claims/metacognition-critical-thinking-writing-correlations.md) [+M] — learners who differ on it differ in outcomes
+- [Both metacognitive awareness dimensions correlate positively with deep approach and organized studying and negatively with an unreflective approach](../claims/metacognitive-awareness-correlates-approaches-learning.md) [+M] — learners who differ on it differ in outcomes
+- [Learners request additional information mainly on items where their (adjusted) confidence is low, indicating confidence-based metacognitive regulation](../claims/confidence-based-information-requests.md) [+M] — learners who differ on it differ in outcomes
+- [Metacognition is significantly and positively associated with EFL students' critical thinking skills (Model 2)](../claims/metacognition-positively-associated-critical-thinking.md) [+M] — learners who differ on it differ in outcomes
+- [Metacognition is significantly and positively related to EFL students' academic writing performance (Model 1)](../claims/metacognition-positively-related-efl-academic-writing.md) [+M] — learners who differ on it differ in outcomes
+- [Metacognitive judgement positively predicts perceived individual performance in CPS, which mediates perceived group performance](../claims/metacognitive-judgement-predicts-perceived-cps-performance.md) [+M] — learners who differ on it differ in outcomes
+- [Pre-structured diagrams improved metacomprehension accuracy while self-assessment cues showed no differences](../claims/diagramming-metacomprehension-accuracy-cues-null.md) [~M] — instruction changes it
+- [Simulation feedback predicts sadness and neutral facial expressions and metacognitive judgement, but not perceived task difficulty](../claims/feedback-predicts-facial-expressions-and-judgement.md) [+M] — instruction changes it
+- [Students in the Reflection condition became more confident in their grade estimates over the school year, unlike students in the Practice and Grade comparison conditions](../claims/reflection-condition-increased-second-order-judgements.md) [+M] — instruction changes it
+- [The level of reflection support (practice-only, grade comparison, or reflection prompts) did not differentially affect the improvement of secondary students' calibration accuracy over time](../claims/reflection-support-no-differential-calibration-gain.md) [-M] — instruction changes it
+- [Time pressure weakens monitoring-based self-regulation of study time: gamma correlations between judgments of learning and study time are stronger in the untimed than the timed condition](../claims/time-pressure-weakens-self-regulated-study-time-allocation.md) [~M] — learners who differ on it differ in outcomes
+- [Trait metacognitive awareness positively predicts perceived group performance while perceived task difficulty negatively predicts it](../claims/mai-and-task-difficulty-predict-perceived-group-performance.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Behavior Rating Inventory of Executive Function (BRIEF)** (Gioia et al., 2000): parent and teacher questionnaires whose metacognition index covers ages 5 to 18.

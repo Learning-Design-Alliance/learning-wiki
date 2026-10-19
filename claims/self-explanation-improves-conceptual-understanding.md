@@ -226,3 +226,4 @@ The effectiveness of self-explanation can be limited by a learner's prior knowle
 - [Students who collected more peers' ideas wrote poorer explanations, while generating own redundant ideas related to better explanations](idea-collection-direction-matuk-linn.md) — related
 - [Self-explaining worked examples improve declarative knowledge of CDR strategies more than solving problems](worked-examples-improve-cdr-declarative-knowledge.md) — a narrower finding that bears on this claim
 - [Closed-book self-explanation prompts show no added value on delayed posttest performance, even with prior active processing of instructional explanations](closed-book-no-delayed-posttest-added-value.md) — a narrower finding that bears on this claim
+- [Frequent use of reflective prompts related to better strategic problem-solving and conceptual understanding](reflective-prompts-frequency-problem-solving.md) — a narrower finding that bears on this claim

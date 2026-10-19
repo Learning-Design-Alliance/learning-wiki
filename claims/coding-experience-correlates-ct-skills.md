@@ -52,3 +52,4 @@ Correlational analysis of survey and behavioural variables among 128 pre-service
 - [Proficient learners report lower perceived task difficulty than Novice learners on the CT task](proficient-lower-perceived-difficulty.md) — related
 - [Latent profile analysis of pre-service teachers' CT skills identifies three profiles (Novice, Developing, Proficient), revealing heterogeneous, non-linear skill acquisition](three-ct-profiles-preservice-teachers-lpa.md) — related
 - [Student perceptions of LLM influence on collaboration and creativity do not differ significantly by digital familiarity, AI comfort, or prior AI use](no-perception-differences-by-digital-familiarity-ai-comfort-prior-use.md) — related
+- [Simulation feedback predicts sadness and neutral facial expressions and metacognitive judgement, but not perceived task difficulty](feedback-predicts-facial-expressions-and-judgement.md) — related

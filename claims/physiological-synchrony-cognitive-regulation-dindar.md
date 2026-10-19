@@ -43,4 +43,4 @@ Narrative review reporting Dindar et al. (2019): "Dindar et al. (2019), for exam
 
 
 ## Related Claims
--
+- [Real collaborative groups show higher physiological synchrony than randomly matched false groups on %REC, %DET, and ADL](real-groups-higher-synchrony-than-false-groups.md) — related

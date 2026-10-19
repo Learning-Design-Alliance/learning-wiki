@@ -70,3 +70,4 @@ The chapter reports Whiffen and Karpicke (2017), where both conditions reexperie
 - [Retrieval Failure Reduces Benefit](retrieval-failure-reduces-benefit.md) — the general claim this finding bears on, with the studies behind it
 - [Retrieval practice enhances final-test recollection of contextual details and speeds final retrieval, as shown by list discrimination, response time, and cumulative recall measures](retrieval-practice-enhances-final-context-memory-and-memory-search-efficiency.md) — related
 - [Retrieval practice disrupted within-list order reconstruction of eight-item word lists, just as generation did](retrieval-practice-disrupts-within-list-order-reconstruction.md) — related
+- [On the final cumulative test, JOLs with word stems and retrieval practice improve List-5 recall over restudy, while restudy shows a List-1 advantage](final-cumulative-test-list-dependent-testing-effects.md) — a narrower finding that bears on this claim

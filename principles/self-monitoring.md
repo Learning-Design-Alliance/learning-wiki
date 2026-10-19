@@ -30,7 +30,7 @@ sources:
 # Self-monitoring
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 12 claims (5 for, 5 mixed, 2 against) · 20 studies (7 quant-synthesis, 6 causal, 3 review, 3 theoretical, 1 associational), `q1`–`q4` · 5 of 20 report an effect size · 3 claims rest on one study
+> **Evidence** · 13 claims (6 for, 5 mixed, 2 against) · 21 studies (7 causal, 7 quant-synthesis, 3 review, 3 theoretical, 1 associational), `q1`–`q4` · 5 of 21 report an effect size · 4 claims rest on one study
 
 ## Conditional relationship
 
@@ -127,6 +127,7 @@ None of these measures whether a self-monitoring habit persists after prompts ar
 ## Further evidence, not yet read against this model
 
 - [Fluent Illusions Mislead Self Assessment](../claims/fluent-illusions-mislead-self-assessment.md) [-M]: carries the same two evidence entries (Carpenter et al. 2013; Rhodes & Castel 2008) as [Judgments of learning are often inaccurate](../claims/fluent-illusions-mislead-self-assessment.md) [-M], which is cited in the model above; a likely duplicate. Its own entries do not support the "misdirects further study" half of its title.
+- [Providing grade estimates after each exam improved secondary students' calibration accuracy over a school year, regardless of the level of reflection support](../claims/grade-estimates-improve-calibration-secondary.md) [+W] — attached 2026-10-19 from Nederhand et al. (2020), which proposed "Ask students for grade estimates after each exam as an easy-to-implement way to improve calibration accuracy in secondary education"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

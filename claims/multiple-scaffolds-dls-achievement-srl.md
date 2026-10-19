@@ -66,3 +66,4 @@ The review reports the subgroup contrast within Lin and Yang (2021): the scaffol
 - [Guiding analytics for learners can improve mathematics achievement, retention, learning strategies, and reduce math anxiety](guiding-analytics-improves-achievement-and-strategies.md) — related
 - [Learning paths used for SRL improved accuracy and performance without increasing effort, and tutoring-system benefits required sustained practice](learning-paths-srl-accuracy-without-effort.md) — related
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — a broader claim this one bears on
+- [Personalized SRL scaffolds showed higher compliance than no and non-personalized scaffolds, linked to better essay scores](personalized-scaffolds-compliance-essay-scores.md) — related
