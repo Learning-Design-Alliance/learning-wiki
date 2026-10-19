@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: seeskin-2018
-    resource: "https://doi.org/10.3102/1438529"
-    title: "Seeskin, A., Nagaoka, J., & Mahaffie, S. (2018). Hidden risk: Changes in GPA across the transition to high school. Chicago, IL: University of Chicago Consortium on School Research. https://consortium.uchicago.edu/publications/hidden-risk-changes-gpa-across-transition-high-school [doi:10.3102/1438529](https://doi.org/10.3102/1438529)"
+    resource: "https://consortium.uchicago.edu/publications/hidden-risk-changes-gpa-across-transition-high-school"
+    title: "Seeskin, A., Nagaoka, J., & Mahaffie, S. (2018). Hidden risk: Changes in GPA across the transition to high school. Chicago, IL: University of Chicago Consortium on School Research. https://consortium.uchicago.edu/publications/hidden-risk-changes-gpa-across-transition-high-school"
     author: "Seeskin, A., Nagaoka, J., & Mahaffie, S."
     q: 2
     i: "?"
@@ -40,7 +40,7 @@ sources:
 
 ### Seeskin 2018
 
-Seeskin, A., Nagaoka, J., & Mahaffie, S. (2018). Hidden risk: Changes in GPA across the transition to high school. Chicago, IL: University of Chicago Consortium on School Research. https://consortium.uchicago.edu/publications/hidden-risk-changes-gpa-across-transition-high-school [doi:10.3102/1438529](https://doi.org/10.3102/1438529)
+Seeskin, A., Nagaoka, J., & Mahaffie, S. (2018). Hidden risk: Changes in GPA across the transition to high school. Chicago, IL: University of Chicago Consortium on School Research. https://consortium.uchicago.edu/publications/hidden-risk-changes-gpa-across-transition-high-school
 
 `q2 · i?` · `associational · r?`
 

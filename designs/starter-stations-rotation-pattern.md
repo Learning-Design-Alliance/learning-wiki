@@ -10,7 +10,7 @@ generated:
 sources:
   - id: morzinski-2010
     resource: "https://arxiv.org/abs/1009.3297"
-    title: "Morzinski, K. M., Crockett, C. J., and Crossfield, I. J. (2010). Digital image exploration at Maui Community College. ASP Conference Series. https://arxiv.org/abs/1009.3297"
+    title: "Morzinski, K. M., Crockett, C. J., and Crossfield, I. J. (2010). Digital image exploration at Maui Community College. ASP Conference Series. https://arxiv.org/abs/1009.3297 [doi:10.48550/arxiv.1009.3297](https://doi.org/10.48550/arxiv.1009.3297)"
     author: Morzinski, K. M., Crockett, C. J., and Crossfield, I. J
 ---
 
@@ -50,4 +50,4 @@ A lesson-level pattern in which students rotate in parallel through brief intera
 -
 
 ## Key Sources
-- Morzinski, K. M., Crockett, C. J., and Crossfield, I. J. (2010). Digital image exploration at Maui Community College. ASP Conference Series. https://arxiv.org/abs/1009.3297
+- Morzinski, K. M., Crockett, C. J., and Crossfield, I. J. (2010). Digital image exploration at Maui Community College. ASP Conference Series. https://arxiv.org/abs/1009.3297 [doi:10.48550/arxiv.1009.3297](https://doi.org/10.48550/arxiv.1009.3297)

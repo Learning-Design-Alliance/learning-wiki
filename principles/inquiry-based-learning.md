@@ -32,7 +32,7 @@ sources:
     author: Brew, A
   - id: morzinski-2010
     resource: "https://arxiv.org/abs/1009.3297"
-    title: "Morzinski, K. M., Crockett, C. J., and Crossfield, I. J. (2010). Digital image exploration at Maui Community College. ASP Conference Series. https://arxiv.org/abs/1009.3297"
+    title: "Morzinski, K. M., Crockett, C. J., and Crossfield, I. J. (2010). Digital image exploration at Maui Community College. ASP Conference Series. https://arxiv.org/abs/1009.3297 [doi:10.48550/arxiv.1009.3297](https://doi.org/10.48550/arxiv.1009.3297)"
     author: Morzinski, K. M., Crockett, C. J., and Crossfield, I. J
   - id: alfieri-2011
     resource: "https://doi.org/10.1037/a0021017"
@@ -229,7 +229,7 @@ An engaging investigation, an immediate conceptual gain, near transfer, far tran
 - Scardamalia, M., & Bereiter, C. (2006). Knowledge building: Theory, pedagogy, and technology. In R. K. Sawyer (Ed.), *The Cambridge handbook of the learning sciences* (pp. 97-115). Cambridge University Press. [doi:10.1017/cbo9780511816833.008](https://doi.org/10.1017/cbo9780511816833.008)
 - Hmelo-Silver, C. E., Duncan, R. G., & Chinn, C. A. (2007). Scaffolding and achievement in problem-based and inquiry learning: A response to Kirschner, Sweller, and Clark (2006). *Educational Psychologist, 42*(2), 99-107. [https://doi.org/10.1080/00461520701263368](https://doi.org/10.1080/00461520701263368)
 - Brew, A. (2013). Understanding the scope of undergraduate research: A framework for curricular and pedagogical decision-making. *Higher Education, 66*(5), 603-618. [https://doi.org/10.1007/s10734-013-9624-x](https://doi.org/10.1007/s10734-013-9624-x)
-- Morzinski, K. M., Crockett, C. J., and Crossfield, I. J. (2010). Digital image exploration at Maui Community College. ASP Conference Series. https://arxiv.org/abs/1009.3297
+- Morzinski, K. M., Crockett, C. J., and Crossfield, I. J. (2010). Digital image exploration at Maui Community College. ASP Conference Series. https://arxiv.org/abs/1009.3297 [doi:10.48550/arxiv.1009.3297](https://doi.org/10.48550/arxiv.1009.3297)
 - Bybee, R. W., Taylor, J. A., Gardner, A., Van Scotter, P., Powell, J. C., Westbrook, A., & Landes, N. (2006). *The BSCS 5E instructional model: Origins and effectiveness*. BSCS.
 - Furtak, E. M., Seidel, T., Iverson, H., & Briggs, D. C. (2012). Experimental and quasi-experimental studies of inquiry-based science teaching: A meta-analysis. *Review of Educational Research, 82*(3), 300–329. [doi:10.3102/0034654312457206](https://doi.org/10.3102/0034654312457206)
 - Minner, D. D., Levy, A. J., & Century, J. (2010). Inquiry-based science instruction—what is it and does it matter? Results from a research synthesis years 1984 to 2002. *Journal of Research in Science Teaching, 47*(4), 474–496. [doi:10.1002/tea.20347](https://doi.org/10.1002/tea.20347)
@@ -580,7 +580,7 @@ The article frames its inquiry design with two stated keys: "Keys to inquiry are
 - [Use jigsaw-style sharing so every student is responsible for all the material](../strategies/jigsaw-sharing-inquiry-posters.md)
 
 ## Key Sources
-- Morzinski, K. M., Crockett, C. J., and Crossfield, I. J. (2010). Digital image exploration at Maui Community College. ASP Conference Series. https://arxiv.org/abs/1009.3297
+- Morzinski, K. M., Crockett, C. J., and Crossfield, I. J. (2010). Digital image exploration at Maui Community College. ASP Conference Series. https://arxiv.org/abs/1009.3297 [doi:10.48550/arxiv.1009.3297](https://doi.org/10.48550/arxiv.1009.3297)
 -->
 
 <!-- merged 2026-10-15 from patterns/5e-learning-cycle ("5E Learning Cycle"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.

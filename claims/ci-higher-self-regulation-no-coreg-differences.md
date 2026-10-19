@@ -9,9 +9,9 @@ generated:
   at: 2026-10-10
 evidence_strength: moderate
 sources:
-  - id: zhanxin-hao-2025
+  - id: zhanxin-hao-2026
     resource: "https://doi.org/10.48550/arxiv.2603.21288"
-    title: "Zhanxin Hao, Xiaobo Liu, Jiaxin Fan, Yun Long, Jifan Yu, Wenli Chen, Yu Zhang. (2025). Unpacking Interaction Profiles and Strategies in Human-AI Collaborative Problem Solving: A Cognitive Distribution and Regulation Perspective. https://arxiv.org/abs/2603.21288 [doi:10.48550/arxiv.2603.21288](https://doi.org/10.48550/arxiv.2603.21288)"
+    title: "Zhanxin Hao, Xiaobo Liu, Jiaxin Fan, Yun Long, Jifan Yu, Wenli Chen, Yu Zhang. (2026). Unpacking Interaction Profiles and Strategies in Human-AI Collaborative Problem Solving: A Cognitive Distribution and Regulation Perspective. https://arxiv.org/abs/2603.21288 [doi:10.48550/arxiv.2603.21288](https://doi.org/10.48550/arxiv.2603.21288)"
     author: Zhanxin Hao, Xiaobo Liu, Jiaxin Fan, Yun Long, Jifan Yu, Wenli Chen, Yu Zhang
     q: 2
     i: "?"
@@ -25,13 +25,13 @@ sources:
 > **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
-`q2 i?` The CI group reported significantly higher self-regulation strategy use than the DR group (H = 7.06, p = .029). [→ Zhanxin Hao 2025](#zhanxin-hao-2025)
+`q2 i?` The CI group reported significantly higher self-regulation strategy use than the DR group (H = 7.06, p = .029). [→ Zhanxin Hao 2026](#zhanxin-hao-2026)
 
 ## Evidence
 
-### Zhanxin Hao 2025
+### Zhanxin Hao 2026
 
-Zhanxin Hao, Xiaobo Liu, Jiaxin Fan, Yun Long, Jifan Yu, Wenli Chen, Yu Zhang. (2025). Unpacking Interaction Profiles and Strategies in Human-AI Collaborative Problem Solving: A Cognitive Distribution and Regulation Perspective. https://arxiv.org/abs/2603.21288 [doi:10.48550/arxiv.2603.21288](https://doi.org/10.48550/arxiv.2603.21288)
+Zhanxin Hao, Xiaobo Liu, Jiaxin Fan, Yun Long, Jifan Yu, Wenli Chen, Yu Zhang. (2026). Unpacking Interaction Profiles and Strategies in Human-AI Collaborative Problem Solving: A Cognitive Distribution and Regulation Perspective. https://arxiv.org/abs/2603.21288 [doi:10.48550/arxiv.2603.21288](https://doi.org/10.48550/arxiv.2603.21288)
 
 `q2 · i?` · `associational · r1`
 

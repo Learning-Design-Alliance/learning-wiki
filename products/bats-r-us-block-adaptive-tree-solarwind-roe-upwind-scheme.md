@@ -9,9 +9,9 @@ generated:
   by: "process:sweep-kinds"
   at: 2026-10-10
 sources:
-  - id: crumley-2015
+  - id: crumley-2007
     resource: "https://arxiv.org/abs/0706.1985"
-    title: "Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985"
+    title: "Crumley, Palczewski, and Kaster. (2007). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985"
     author: Crumley, Palczewski, and Kaster
 ---
 
@@ -25,7 +25,7 @@ A three-dimensional global magnetohydrodynamics simulation code developed by the
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
-- **BATS-R-US global MHD simulations run through NASA's Community Coordinated Modeling Center as a public undergraduate lab resource**: BATS-R-US (Block-Adaptive-Tree-Solarwind-Roe-Upwind-Scheme) solves the 3D magnetohydrodynamics equations in finite volume form using Roe's Approximate Riemann Solver on an adaptive grid. Students run it on NASA supercomputers at the CCMC, where simulation runs can be requested by the public and results explored and visualized through a standard web browser. The authors note the CCMC resources allow access to powerful simulations without local supercomputer hardware or installing and maintaining simulation codes, and that thorough documentation makes explaining run requests relatively easy. (Crumley et al. (2015))
+- **BATS-R-US global MHD simulations run through NASA's Community Coordinated Modeling Center as a public undergraduate lab resource**: BATS-R-US (Block-Adaptive-Tree-Solarwind-Roe-Upwind-Scheme) solves the 3D magnetohydrodynamics equations in finite volume form using Roe's Approximate Riemann Solver on an adaptive grid. Students run it on NASA supercomputers at the CCMC, where simulation runs can be requested by the public and results explored and visualized through a standard web browser. The authors note the CCMC resources allow access to powerful simulations without local supercomputer hardware or installing and maintaining simulation codes, and that thorough documentation makes explaining run requests relatively easy. (Crumley et al. (2007))
 
 ### Claims
 - [Students achieve reasonable agreement between their magnetopause-crossing findings and model predictions, gaining exposure to the tools and techniques of space physics](../claims/magnetopause-lab-reasonable-agreement-with-model-predictions.md) [+W]
@@ -36,7 +36,7 @@ A three-dimensional global magnetohydrodynamics simulation code developed by the
 -
 
 ## Key Sources
-- Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985. [doi:10.48550/arxiv.0706.1985](https://doi.org/10.48550/arxiv.0706.1985)
+- Crumley, Palczewski, and Kaster. (2007). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985. [doi:10.48550/arxiv.0706.1985](https://doi.org/10.48550/arxiv.0706.1985)
 
 <!-- merged 2026-10-10 from elements/bats-r-us-ccmc-public-simulation-resource ("BATS-R-US global MHD simulations run through NASA's Community Coordinated Modeling Center as a public undergraduate lab resource"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 
@@ -75,5 +75,5 @@ BATS-R-US (Block-Adaptive-Tree-Solarwind-Roe-Upwind-Scheme) solves the 3D magnet
 -
 
 ## Key Sources
-- Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985. [doi:10.48550/arxiv.0706.1985](https://doi.org/10.48550/arxiv.0706.1985)
+- Crumley, Palczewski, and Kaster. (2007). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985. [doi:10.48550/arxiv.0706.1985](https://doi.org/10.48550/arxiv.0706.1985)
 -->

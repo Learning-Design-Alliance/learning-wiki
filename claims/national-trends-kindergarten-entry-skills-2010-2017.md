@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: kuhfeld-2019
-    resource: "https://doi.org/10.3102/0013189x20931078"
-    title: "Kuhfeld, M., Soland, J., Pitts, C., & Burchinal, M. (2019). Trends in children's academic skills at school entry: 2010 to 2017. NWEA Research. https://www.nwea.org/research/publication/trends-in-childrens-academic-skills-at-school-entry-2010-2017/ [doi:10.3102/0013189x20931078](https://doi.org/10.3102/0013189x20931078)"
+    resource: "https://www.nwea.org/research/publication/trends-in-childrens-academic-skills-at-school-entry-2010-2017/"
+    title: "Kuhfeld, M., Soland, J., Pitts, C., & Burchinal, M. (2019). Trends in children's academic skills at school entry: 2010 to 2017. NWEA Research. https://www.nwea.org/research/publication/trends-in-childrens-academic-skills-at-school-entry-2010-2017/"
     author: "Kuhfeld, M., Soland, J., Pitts, C., & Burchinal, M."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Kuhfeld 2019
 
-Kuhfeld, M., Soland, J., Pitts, C., & Burchinal, M. (2019). Trends in children's academic skills at school entry: 2010 to 2017. NWEA Research. https://www.nwea.org/research/publication/trends-in-childrens-academic-skills-at-school-entry-2010-2017/ [doi:10.3102/0013189x20931078](https://doi.org/10.3102/0013189x20931078)
+Kuhfeld, M., Soland, J., Pitts, C., & Burchinal, M. (2019). Trends in children's academic skills at school entry: 2010 to 2017. NWEA Research. https://www.nwea.org/research/publication/trends-in-childrens-academic-skills-at-school-entry-2010-2017/
 
 `q2 · i?` · `associational · r?`
 

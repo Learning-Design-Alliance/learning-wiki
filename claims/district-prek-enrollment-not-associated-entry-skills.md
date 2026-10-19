@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: kuhfeld-2019
-    resource: "https://doi.org/10.3102/0013189x20931078"
-    title: "Kuhfeld, Megan, Soland, James, Pitts, Christine, & Burchinal, Margaret. (2019). Trends in Children's Academic Skills at School Entry: 2010 to 2017. EdWorkingPaper No. 19-137, Annenberg Institute at Brown University. http://www.edworkingpapers.com/ai19-137 [doi:10.3102/0013189x20931078](https://doi.org/10.3102/0013189x20931078)"
+    resource: "http://www.edworkingpapers.com/ai19-137"
+    title: "Kuhfeld, Megan, Soland, James, Pitts, Christine, & Burchinal, Margaret. (2019). Trends in Children's Academic Skills at School Entry: 2010 to 2017. EdWorkingPaper No. 19-137, Annenberg Institute at Brown University. http://www.edworkingpapers.com/ai19-137"
     author: "Kuhfeld, Megan, Soland, James, Pitts, Christine, & Burchinal, Margaret"
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Kuhfeld 2019
 
-Kuhfeld, Megan, Soland, James, Pitts, Christine, & Burchinal, Margaret. (2019). Trends in Children's Academic Skills at School Entry: 2010 to 2017. EdWorkingPaper No. 19-137, Annenberg Institute at Brown University. http://www.edworkingpapers.com/ai19-137 [doi:10.3102/0013189x20931078](https://doi.org/10.3102/0013189x20931078)
+Kuhfeld, Megan, Soland, James, Pitts, Christine, & Burchinal, Margaret. (2019). Trends in Children's Academic Skills at School Entry: 2010 to 2017. EdWorkingPaper No. 19-137, Annenberg Institute at Brown University. http://www.edworkingpapers.com/ai19-137
 
 `q2 · i?` · `associational · r3`
 

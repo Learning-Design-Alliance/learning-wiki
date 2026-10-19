@@ -10,7 +10,7 @@ generated:
 sources:
   - id: stark-2026
     resource: "https://askludia.com/en"
-    title: "Stark, B., & Rostan, J. (2026). LUDIA: A design and evidence statement (Version 1.0). Ask LUDIA. https://askludia.com/en"
+    title: "Stark, B., & Rostan, J. (2026). LUDIA: A design and evidence statement (Version 1.0). Ask LUDIA. https://askludia.com/en [doi:10.35542/osf.io/3nmgp_v1](https://doi.org/10.35542/osf.io/3nmgp_v1)"
     author: "Stark, B., & Rostan, J"
 ---
 
@@ -43,4 +43,4 @@ The Four T's is the authors' published four-step routine for engaging with LUDIA
 -
 
 ## Key Sources
-- Stark, B., & Rostan, J. (2026). LUDIA: A design and evidence statement (Version 1.0). Ask LUDIA. https://askludia.com/en
+- Stark, B., & Rostan, J. (2026). LUDIA: A design and evidence statement (Version 1.0). Ask LUDIA. https://askludia.com/en [doi:10.35542/osf.io/3nmgp_v1](https://doi.org/10.35542/osf.io/3nmgp_v1)

@@ -11,7 +11,7 @@ evidence_strength: weak
 sources:
   - id: mcgloin-2009
     resource: "https://doi.org/10.53761/1.6.2.4"
-    title: "McGloin, C., Marshall, A. & Adams, M. (2009). Leading the Way: Indigenous Knowledge and Collaboration at an Indigenous Centre. Journal of University Teaching and Learning Practice. https://ro.uow.edu.au/jutlp/ [doi:10.53761/1.6.2.4](https://doi.org/10.53761/1.6.2.4)"
+    title: "McGloin, C., Marshall, A. & Adams, M. (2009). Leading the Way: Indigenous knowledge and collaboration at the Woolyungah Indigenous Centre. Journal of University Teaching and Learning Practice, 6(2), 38–53. https://ro.uow.edu.au/jutlp/ [doi:10.53761/1.6.2.4](https://doi.org/10.53761/1.6.2.4)"
     author: "McGloin, C., Marshall, A. & Adams, M."
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### McGloin 2009
 
-McGloin, C., Marshall, A. & Adams, M. (2009). Leading the Way: Indigenous Knowledge and Collaboration at an Indigenous Centre. Journal of University Teaching and Learning Practice. https://ro.uow.edu.au/jutlp/ [doi:10.53761/1.6.2.4](https://doi.org/10.53761/1.6.2.4)
+McGloin, C., Marshall, A. & Adams, M. (2009). Leading the Way: Indigenous knowledge and collaboration at the Woolyungah Indigenous Centre. Journal of University Teaching and Learning Practice, 6(2), 38–53. https://ro.uow.edu.au/jutlp/ [doi:10.53761/1.6.2.4](https://doi.org/10.53761/1.6.2.4)
 
 `q2 · i?` · `qualitative · r1`
 

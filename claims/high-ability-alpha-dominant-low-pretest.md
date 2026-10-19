@@ -9,9 +9,9 @@ generated:
   at: 2026-09-25
 evidence_strength: weak
 sources:
-  - id: lei-bao-2006
+  - id: lei-bao-2007
     resource: "https://doi.org/10.48550/arxiv.0710.1375"
-    title: "Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/0710.1375 [doi:10.48550/arxiv.0710.1375](https://doi.org/10.48550/arxiv.0710.1375)"
+    title: "Lei Bao. (2007). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/0710.1375 [doi:10.48550/arxiv.0710.1375](https://doi.org/10.48550/arxiv.0710.1375)"
     author: Lei Bao
     q: 2
     i: 1
@@ -25,13 +25,13 @@ sources:
 > **Evidence** · 1 study · theoretical `r3` · `q2` · `i1` small
 
 ## Subclaims
-`q2 i?` Honor students' change-score data show a more linear relation indicating dominant α-process even at low pretest scores, and Coletta et al. found Harvard students (r = 0.04) differed from average-university students (r = 0.15~0.33). [→ Lei Bao 2006](#lei-bao-2006)
+`q2 i?` Honor students' change-score data show a more linear relation indicating dominant α-process even at low pretest scores, and Coletta et al. found Harvard students (r = 0.04) differed from average-university students (r = 0.15~0.33). [→ Lei Bao 2007](#lei-bao-2007)
 
 ## Evidence
 
-### Lei Bao 2006
+### Lei Bao 2007
 
-Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/0710.1375 [doi:10.48550/arxiv.0710.1375](https://doi.org/10.48550/arxiv.0710.1375)
+Lei Bao. (2007). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/0710.1375 [doi:10.48550/arxiv.0710.1375](https://doi.org/10.48550/arxiv.0710.1375)
 
 `q2 · i1` · `theoretical · r3`
 

@@ -74,5 +74,5 @@ Counting Collections converts abstract number concepts into [hands-on activity](
 - Carpenter, T. P., Fennema, E., Franke, M. L., Levi, L., & Empson, S. B. (2015). *Children's mathematics: Cognitively Guided Instruction* (2nd ed.). Heinemann.
 - Gelman, R., & Gallistel, C. R. (1978). *The child's understanding of number*. Harvard University Press.
 - Fuson, K. C. (1988). *Children's counting and concepts of number*. Springer. [doi:10.1007/978-1-4612-3754-9](https://doi.org/10.1007/978-1-4612-3754-9)
-- Clements, D. H., & Sarama, J. (2021). *Learning and teaching early math: The learning trajectories approach* (3rd ed.). Routledge. [doi:10.4324/9780203520574](https://doi.org/10.4324/9780203520574)
+- Clements, D. H., & Sarama, J. (2020). *Learning and teaching early math: The learning trajectories approach* (3rd ed.). Routledge. [doi:10.4324/9781003083528](https://doi.org/10.4324/9781003083528)
 - Richardson, K. (1999). *Developing number concepts: Counting, comparing, and pattern*. Dale Seymour Publications.

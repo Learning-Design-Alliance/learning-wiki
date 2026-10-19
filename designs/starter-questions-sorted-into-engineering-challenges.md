@@ -10,7 +10,7 @@ generated:
 sources:
   - id: morzinski-2010
     resource: "https://arxiv.org/abs/1009.3296"
-    title: "Morzinski, K., Azucena, O., Downs, C., Favaloro, T., Park, J., & U, V. (2010). Circuit Design: An inquiry lab activity at Maui Community College. ASP Conference Series. https://arxiv.org/abs/1009.3296"
+    title: "Morzinski, K., Azucena, O., Downs, C., Favaloro, T., Park, J., & U, V. (2010). Circuit Design: An inquiry lab activity at Maui Community College. ASP Conference Series. https://arxiv.org/abs/1009.3296 [doi:10.48550/arxiv.1009.3296](https://doi.org/10.48550/arxiv.1009.3296)"
     author: "Morzinski, K., Azucena, O., Downs, C., Favaloro, T., Park, J., & U, V"
 ---
 
@@ -48,4 +48,4 @@ In this inquiry pattern, learners first explore phenomena during Starters and wr
 -
 
 ## Key Sources
-- Morzinski, K., Azucena, O., Downs, C., Favaloro, T., Park, J., & U, V. (2010). Circuit Design: An inquiry lab activity at Maui Community College. ASP Conference Series. https://arxiv.org/abs/1009.3296
+- Morzinski, K., Azucena, O., Downs, C., Favaloro, T., Park, J., & U, V. (2010). Circuit Design: An inquiry lab activity at Maui Community College. ASP Conference Series. https://arxiv.org/abs/1009.3296 [doi:10.48550/arxiv.1009.3296](https://doi.org/10.48550/arxiv.1009.3296)

@@ -8,9 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 sources:
-  - id: zhanxin-hao-2025
+  - id: zhanxin-hao-2026
     resource: "https://arxiv.org/abs/2603.21288"
-    title: "Zhanxin Hao, Xiaobo Liu, Jiaxin Fan, Yun Long, Jifan Yu, Wenli Chen, Yu Zhang. (2025). Unpacking Interaction Profiles and Strategies in Human-AI Collaborative Problem Solving: A Cognitive Distribution and Regulation Perspective. https://arxiv.org/abs/2603.21288"
+    title: "Zhanxin Hao, Xiaobo Liu, Jiaxin Fan, Yun Long, Jifan Yu, Wenli Chen, Yu Zhang. (2026). Unpacking Interaction Profiles and Strategies in Human-AI Collaborative Problem Solving: A Cognitive Distribution and Regulation Perspective. https://arxiv.org/abs/2603.21288"
     author: Zhanxin Hao, Xiaobo Liu, Jiaxin Fan, Yun Long, Jifan Yu, Wenli Chen, Yu Zhang
 ---
 
@@ -59,4 +59,4 @@ Based on the tension between system efficiency and regulatory engagement, the ar
 -
 
 ## Key Sources
-- Zhanxin Hao, Xiaobo Liu, Jiaxin Fan, Yun Long, Jifan Yu, Wenli Chen, Yu Zhang. (2025). Unpacking Interaction Profiles and Strategies in Human-AI Collaborative Problem Solving: A Cognitive Distribution and Regulation Perspective. https://arxiv.org/abs/2603.21288
+- Zhanxin Hao, Xiaobo Liu, Jiaxin Fan, Yun Long, Jifan Yu, Wenli Chen, Yu Zhang. (2026). Unpacking Interaction Profiles and Strategies in Human-AI Collaborative Problem Solving: A Cognitive Distribution and Regulation Perspective. https://arxiv.org/abs/2603.21288

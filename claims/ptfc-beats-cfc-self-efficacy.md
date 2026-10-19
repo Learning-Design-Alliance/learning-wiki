@@ -48,7 +48,7 @@ Same nonequivalent-groups pretest-posttest experiment; ANCOVA on posttest self-e
 
 - [Proximal goals and ability attributional feedback for early learning raise self-efficacy more than distant goals and effort feedback, by a review's report of earlier studies](proximal-goals-feedback-peer-models-build-learning-efficacy.md) — the general claim this finding bears on, with the studies behind it
 - [In one flipped calculus study, teaching method (peer-teaching versus conventional flipped classroom) and prior achievement level interact on self-efficacy](method-achievement-interaction-self-efficacy.md) — related
-- [Prior achievement level did not significantly affect self-efficacy overall in either flipped classroom method](prior-achievement-null-self-efficacy.md) — related
+- [In one flipped calculus study, prior achievement level had no significant main effect on self-efficacy, although it interacted with teaching method](prior-achievement-null-self-efficacy.md) — related
 - [Peer-teaching flipped classroom students show higher calculus conceptual understanding than conventional flipped classroom students after controlling for pretest](ptfc-beats-cfc-conceptual-understanding.md) — related
 - [PTFC and CFC differ on general and future self-efficacy dimensions but not on grade-anxiety, in-class, or assignment dimensions](self-efficacy-dimension-differences-ptfc-cfc.md) — related
 - [Self-efficacy correlates positively with conceptual understanding in both flipped classroom methods](self-efficacy-correlates-conceptual-understanding.md) — related

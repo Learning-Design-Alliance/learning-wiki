@@ -29,4 +29,4 @@ The article formalizes a methodology for preparing psychological interventions t
 -
 
 ## Key Sources
-- Yeager, David S., Romero, Carissa, Paunesku, Dave, Hulleman, Christopher S., Schneider, Barbara, Hinojosa, Cintia, Lee, Hae Yeon, O'Brien, Joseph, Flint, Kate, Roberts, Alice, Trott, Jill, Greene, Daniel, Walton, Gregory M., & Dweck, Carol S. (2016). Using Design Thinking to Improve Psychological Interventions: The Case of the Growth Mindset During the Transition to High School. Journal of Educational Psychology. https://doi.org/10.1037/edu0000098
+- Yeager, D. S., Romero, C., Paunesku, D., Hulleman, C. S., Schneider, B., Hinojosa, C., Lee, H. Y., O'Brien, J., Flint, K., Roberts, A., Trott, J., Greene, D., Walton, G. M., & Dweck, C. S. (2016). Using Design Thinking to Improve Psychological Interventions: The Case of the Growth Mindset During the Transition to High School. *Journal of Educational Psychology, 108*(3), 374–391. https://doi.org/10.1037/edu0000098

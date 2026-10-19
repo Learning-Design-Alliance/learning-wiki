@@ -48,7 +48,7 @@ Randomized two-group experiment (72 undergraduate or graduate students) with the
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | Shen 2006 | q3 · causal · r2 | i? | this claim; [Adult players who studied worked examples scored significantly higher on a game-based prob](worked-examples-improve-problem-solving-strategy-retention-in-a-puzzle-game.md) (supports); [Adult players who studied worked examples scored significantly higher on a game-based prob](worked-examples-improve-problem-solving-strategy-transfer-in-a-puzzle-game.md) (supports); [Worked-example gains in a puzzle game remained small relative to expert performance, with ](worked-example-gains-in-a-puzzle-game-remain-small-relative-to-expert-knowledge-maps.md) (qualifies) |
-| [Roschelle 2017](https://doi.org/10.1007/978-3-319-66610-5_69) | q2 · review · r? | i? | [A 2017 cyberlearning community report states that students learn more from games when brid](bridging-activities-connect-game-learning-to-instruction.md) (supports) |
+| [Roschelle 2017](https://digitalpromise.dspacedirect.org/items/dafbe585-c0f8-4693-bde8-a6d847a58aad) | q2 · review · r? | i? | [A 2017 cyberlearning community report states that students learn more from games when brid](bridging-activities-connect-game-learning-to-instruction.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion

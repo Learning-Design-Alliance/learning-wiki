@@ -9,7 +9,7 @@ generated:
 sources:
   - id: mcgloin-2009
     resource: "https://ro.uow.edu.au/jutlp/"
-    title: "McGloin, C., Marshall, A. & Adams, M. (2009). Leading the Way: Indigenous Knowledge and Collaboration at an Indigenous Centre. Journal of University Teaching and Learning Practice. https://ro.uow.edu.au/jutlp/"
+    title: "McGloin, C., Marshall, A. & Adams, M. (2009). Leading the Way: Indigenous knowledge and collaboration at the Woolyungah Indigenous Centre. Journal of University Teaching and Learning Practice, 6(2), 38–53. https://ro.uow.edu.au/jutlp/ [doi:10.53761/1.6.2.4](https://doi.org/10.53761/1.6.2.4)"
     author: "McGloin, C., Marshall, A. & Adams, M"
 ---
 
@@ -48,4 +48,4 @@ The paper frames its pedagogy using Foucault's account of how institutions sanct
 - [Indigenous–non-Indigenous academic collaboration grounded in trust, collegiality and un-learning of Western epistemic authority](../strategies/indigenous-non-indigenous-collaborative-pedagogy.md)
 
 ## Key Sources
-- McGloin, C., Marshall, A. & Adams, M. (2009). Leading the Way: Indigenous Knowledge and Collaboration at an Indigenous Centre. Journal of University Teaching and Learning Practice. https://ro.uow.edu.au/jutlp/
+- McGloin, C., Marshall, A. & Adams, M. (2009). Leading the Way: Indigenous knowledge and collaboration at the Woolyungah Indigenous Centre. Journal of University Teaching and Learning Practice, 6(2), 38–53. https://ro.uow.edu.au/jutlp/ [doi:10.53761/1.6.2.4](https://doi.org/10.53761/1.6.2.4)

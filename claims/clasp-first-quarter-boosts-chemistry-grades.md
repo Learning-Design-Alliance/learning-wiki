@@ -9,9 +9,9 @@ generated:
   at: 2026-09-26
 evidence_strength: moderate
 sources:
-  - id: potter-2018
+  - id: potter-2012
     resource: "https://doi.org/10.48550/arxiv.1205.6970"
-    title: "Potter, W., Webb, D., West, E., Paul, C., Bowen, M., Weiss, B., Coleman, L., & De Leone, C. (2018). Sixteen years of Collaborative Learning through Active Sense-making in Physics (CLASP) at UC Davis. https://arxiv.org/abs/1205.6970 [doi:10.48550/arxiv.1205.6970](https://doi.org/10.48550/arxiv.1205.6970)"
+    title: "Potter, W., Webb, D., West, E., Paul, C., Bowen, M., Weiss, B., Coleman, L., & De Leone, C. (2012). Sixteen years of Collaborative Learning through Active Sense-making in Physics (CLASP) at UC Davis. https://arxiv.org/abs/1205.6970 [doi:10.48550/arxiv.1205.6970](https://doi.org/10.48550/arxiv.1205.6970)"
     author: "Potter, W., Webb, D., West, E., Paul, C., Bowen, M., Weiss, B., Coleman, L., & De Leone, C."
     q: 2
     i: 2
@@ -25,13 +25,13 @@ sources:
 > **Evidence** · 1 study · causal `r1` · `q2` · `i2` medium
 
 ## Subclaims
-`q2 i?` In an NSF-supported study with a control group starting chemistry first, students taking CLASP first quarter showed grade increases of 0.59, 0.62, and 0.43 grade-points over the course average in the three chemistry quarters (p < 0.001, p < 0.001, p < 0.03), while the control group's marginal advantage was not significant. [→ Potter 2018](#potter-2018)
+`q2 i?` In an NSF-supported study with a control group starting chemistry first, students taking CLASP first quarter showed grade increases of 0.59, 0.62, and 0.43 grade-points over the course average in the three chemistry quarters (p < 0.001, p < 0.001, p < 0.03), while the control group's marginal advantage was not significant. [→ Potter 2012](#potter-2012)
 
 ## Evidence
 
-### Potter 2018
+### Potter 2012
 
-Potter, W., Webb, D., West, E., Paul, C., Bowen, M., Weiss, B., Coleman, L., & De Leone, C. (2018). Sixteen years of Collaborative Learning through Active Sense-making in Physics (CLASP) at UC Davis. https://arxiv.org/abs/1205.6970 [doi:10.48550/arxiv.1205.6970](https://doi.org/10.48550/arxiv.1205.6970)
+Potter, W., Webb, D., West, E., Paul, C., Bowen, M., Weiss, B., Coleman, L., & De Leone, C. (2012). Sixteen years of Collaborative Learning through Active Sense-making in Physics (CLASP) at UC Davis. https://arxiv.org/abs/1205.6970 [doi:10.48550/arxiv.1205.6970](https://doi.org/10.48550/arxiv.1205.6970)
 
 `q2 · i2` · `causal · r1`
 

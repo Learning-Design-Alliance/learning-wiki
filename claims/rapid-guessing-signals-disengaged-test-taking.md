@@ -9,9 +9,9 @@ generated:
   at: 2026-10-09
 evidence_strength: moderate
 sources:
-  - id: steven-wise-2018
+  - id: steven-wise-2019
     resource: "https://doi.org/10.1080/08957347.2019.1577248"
-    title: "Steven Wise, Megan Kuhfeld, James Soland. (2018). The effects of effort monitoring with proctor notification on test-taking engagement, test performance, and validity. Applied Measurement in Education, 32(2), 183-192. https://www.nwea.org/research/publication/the-effects-of-effort-monitoring-with-proctor-notification-on-test-taking-engagement-test-performance-and-validity/ [doi:10.1080/08957347.2019.1577248](https://doi.org/10.1080/08957347.2019.1577248)"
+    title: "Steven Wise, Megan Kuhfeld, James Soland. (2019). The effects of effort monitoring with proctor notification on test-taking engagement, test performance, and validity. Applied Measurement in Education, 32(2), 183-192. https://www.nwea.org/research/publication/the-effects-of-effort-monitoring-with-proctor-notification-on-test-taking-engagement-test-performance-and-validity/ [doi:10.1080/08957347.2019.1577248](https://doi.org/10.1080/08957347.2019.1577248)"
     author: Steven Wise, Megan Kuhfeld, James Soland
     q: 2
     i: "?"
@@ -25,13 +25,13 @@ sources:
 > **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
-`q2 i?` When computer-based tests are used, disengagement can be detected through occurrences of rapid-guessing behavior. [→ Steven Wise 2018](#steven-wise-2018)
+`q2 i?` When computer-based tests are used, disengagement can be detected through occurrences of rapid-guessing behavior. [→ Steven Wise 2019](#steven-wise-2019)
 
 ## Evidence
 
-### Steven Wise 2018
+### Steven Wise 2019
 
-Steven Wise, Megan Kuhfeld, James Soland. (2018). The effects of effort monitoring with proctor notification on test-taking engagement, test performance, and validity. Applied Measurement in Education, 32(2), 183-192. https://www.nwea.org/research/publication/the-effects-of-effort-monitoring-with-proctor-notification-on-test-taking-engagement-test-performance-and-validity/ [doi:10.1080/08957347.2019.1577248](https://doi.org/10.1080/08957347.2019.1577248)
+Steven Wise, Megan Kuhfeld, James Soland. (2019). The effects of effort monitoring with proctor notification on test-taking engagement, test performance, and validity. Applied Measurement in Education, 32(2), 183-192. https://www.nwea.org/research/publication/the-effects-of-effort-monitoring-with-proctor-notification-on-test-taking-engagement-test-performance-and-validity/ [doi:10.1080/08957347.2019.1577248](https://doi.org/10.1080/08957347.2019.1577248)
 
 `q2 · i?` · `causal · r?`
 

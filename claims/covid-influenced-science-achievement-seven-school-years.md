@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: kowalski-2024
-    resource: "https://doi.org/10.3102/2194138"
-    title: "Kowalski, S., Peters, S. J., Kuhfeld, M., Robinson, G., & Lewis, K. (2024). COVID's impact on science achievement: Trends from 2019 through 2024. NWEA Research. https://www.nwea.org/research/publication/covids-impact-on-science-achievement-trends-from-2019-through-2024/ [doi:10.3102/2194138](https://doi.org/10.3102/2194138)"
+    resource: "https://www.nwea.org/research/publication/covids-impact-on-science-achievement-trends-from-2019-through-2024/"
+    title: "Kowalski, S., Peters, S. J., Kuhfeld, M., Robinson, G., & Lewis, K. (2024). COVID's impact on science achievement: Trends from 2019 through 2024. NWEA Research. https://www.nwea.org/research/publication/covids-impact-on-science-achievement-trends-from-2019-through-2024/"
     author: "Kowalski, S., Peters, S. J., Kuhfeld, M., Robinson, G., & Lewis, K."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Kowalski 2024
 
-Kowalski, S., Peters, S. J., Kuhfeld, M., Robinson, G., & Lewis, K. (2024). COVID's impact on science achievement: Trends from 2019 through 2024. NWEA Research. https://www.nwea.org/research/publication/covids-impact-on-science-achievement-trends-from-2019-through-2024/ [doi:10.3102/2194138](https://doi.org/10.3102/2194138)
+Kowalski, S., Peters, S. J., Kuhfeld, M., Robinson, G., & Lewis, K. (2024). COVID's impact on science achievement: Trends from 2019 through 2024. NWEA Research. https://www.nwea.org/research/publication/covids-impact-on-science-achievement-trends-from-2019-through-2024/
 
 `q2 · i?` · `associational · r?`
 

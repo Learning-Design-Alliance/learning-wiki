@@ -16,7 +16,7 @@ sources:
     author: Stokamer, S
   - id: mcgloin-2009
     resource: "https://ro.uow.edu.au/jutlp/"
-    title: "McGloin, C., Marshall, A. & Adams, M. (2009). Leading the Way: Indigenous Knowledge and Collaboration at an Indigenous Centre. Journal of University Teaching and Learning Practice. https://ro.uow.edu.au/jutlp/"
+    title: "McGloin, C., Marshall, A. & Adams, M. (2009). Leading the Way: Indigenous knowledge and collaboration at the Woolyungah Indigenous Centre. Journal of University Teaching and Learning Practice, 6(2), 38–53. https://ro.uow.edu.au/jutlp/ [doi:10.53761/1.6.2.4](https://doi.org/10.53761/1.6.2.4)"
     author: "McGloin, C., Marshall, A. & Adams, M"
   - id: addison-2025
     resource: "https://openjournals.uga.edu/jheoe"
@@ -161,7 +161,7 @@ Civic attitudes, self-reported self-efficacy, the quality of reflection, content
 - Bringle, R. G., & Hatcher, J. A. (1995). A service-learning curriculum for faculty. *Michigan Journal of Community Service Learning, 2*(1), 112-122.
 - Engeström, R., & Käyhkö, L. (2021). A critical search for the learning object across school and out-of-school contexts: A case of entrepreneurship education. *Journal of the Learning Sciences, 30*(3), 401-432. [https://doi.org/10.1080/10508406.2021.1908296](https://doi.org/10.1080/10508406.2021.1908296)
 - Stokamer, S. (2013). Pedagogical Catalysts of Civic Competence: The Development of a Critical Epistemological Model for Community-Based Learning. Journal of Higher Education Outreach and Engagement, 17(1). https://www.proquest.com/docview/3468983
-- McGloin, C., Marshall, A. & Adams, M. (2009). Leading the Way: Indigenous Knowledge and Collaboration at an Indigenous Centre. Journal of University Teaching and Learning Practice. https://ro.uow.edu.au/jutlp/
+- McGloin, C., Marshall, A. & Adams, M. (2009). Leading the Way: Indigenous knowledge and collaboration at the Woolyungah Indigenous Centre. Journal of University Teaching and Learning Practice, 6(2), 38–53. https://ro.uow.edu.au/jutlp/ [doi:10.53761/1.6.2.4](https://doi.org/10.53761/1.6.2.4)
 - Addison, J., Mangnus, E., Cunanan, D. J., Downward, G. S., de Jong, L., van de Kamp, J., Llamas, C. A., Guinto, R. R., & Browne, J. L. (2025). Advancing Societally Engaged and International Planetary Health Education: Innovations, Lessons, and Recommendations for Educators. Journal of Higher Education Outreach and Engagement, 29(2). https://openjournals.uga.edu/jheoe
 - Warren-Gordon, K., Hudson, K., & Scott, F. (2019). Voices of Partnerships Within the Critical Service-Learning Framework. Journal of Community Engagement and Higher Education, 12(2). https://portal.issn.org/resource/ISSN/1934-5283
 
@@ -293,7 +293,7 @@ The paper argues that Indigenous knowledge should be incorporated into curricula
 - [Teach AI/AN students through place-based content, culturally familiar interaction patterns, and culturally harmonious assessment integrated with the CCSS](../strategies/place-based-culturally-harmonious-ccss-instruction.md)
 
 ## Key Sources
-- McGloin, C., Marshall, A. & Adams, M. (2009). Leading the Way: Indigenous Knowledge and Collaboration at an Indigenous Centre. Journal of University Teaching and Learning Practice. https://ro.uow.edu.au/jutlp/
+- McGloin, C., Marshall, A. & Adams, M. (2009). Leading the Way: Indigenous knowledge and collaboration at the Woolyungah Indigenous Centre. Journal of University Teaching and Learning Practice, 6(2), 38–53. https://ro.uow.edu.au/jutlp/ [doi:10.53761/1.6.2.4](https://doi.org/10.53761/1.6.2.4)
 -->
 
 <!-- merged 2026-10-15 from principles/reciprocal-bidirectional-knowledge-exchange-international-courses ("Prioritize reciprocal bidirectional knowledge exchange so both parties from different cultural backgrounds contribute and learn equally in international courses"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.

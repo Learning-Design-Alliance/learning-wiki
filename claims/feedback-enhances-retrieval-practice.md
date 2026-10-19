@@ -57,7 +57,7 @@ This review pooled classroom studies that compared quizzing with restudying and 
 <!-- merged 2026-10-13 from corrective-feedback-boosts-classroom-testing-effect: that page's entry for this study, which differed from the one above, kept verbatim.
 ### Yang 2020
 
-Yang, C., Luo, L., Vadillo, M. A., Yu, R., & Shanks, D. R. (2020). Testing (Quizzing) Boosts Classroom Learning: A Systematic and Meta-Analytic Review. Psychological Bulletin. https://doi.org/10.1037/bul0000309
+Yang, C., Luo, L., Vadillo, M. A., Yu, R., & Shanks, D. R. (2021). Testing (Quizzing) Boosts Classroom Learning: A Systematic and Meta-Analytic Review. Psychological Bulletin. https://doi.org/10.1037/bul0000309
 
 `q4 · i2` · `quant-synthesis · r?`
 

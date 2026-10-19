@@ -9,8 +9,8 @@ generated:
   at: 2026-10-16
 sources:
   - id: denton-2008
-    resource: "https://doi.org/10.1111/j.1540-5826.2008.00264.x"
-    title: "Denton, C. A., Wexler, J., Vaughn, S., & Bryan, D. (2008). Intervention Provided to Linguistically Diverse Middle School Students with Severe Reading Difficulties. Learning Disabilities Research & Practice, 23(2), 79–89. https://doi.org/10.1111/j.1540-5826.2008.00264.x"
+    resource: "https://doi.org/10.1111/j.1540-5826.2008.00266.x"
+    title: "Denton, C. A., Wexler, J., Vaughn, S., & Bryan, D. (2008). Intervention Provided to Linguistically Diverse Middle School Students with Severe Reading Difficulties. Learning Disabilities Research & Practice, 23(2), 79–89. https://doi.org/10.1111/j.1540-5826.2008.00266.x"
     author: "Denton, C. A., Wexler, J., Vaughn, S., & Bryan, D"
 ---
 
@@ -55,4 +55,4 @@ A research intervention delivered in small groups of two to four students in dai
 -
 
 ## Key Sources
-- Denton, C. A., Wexler, J., Vaughn, S., & Bryan, D. (2008). Intervention Provided to Linguistically Diverse Middle School Students with Severe Reading Difficulties. Learning Disabilities Research & Practice, 23(2), 79–89. https://doi.org/10.1111/j.1540-5826.2008.00264.x
+- Denton, C. A., Wexler, J., Vaughn, S., & Bryan, D. (2008). Intervention Provided to Linguistically Diverse Middle School Students with Severe Reading Difficulties. Learning Disabilities Research & Practice, 23(2), 79–89. https://doi.org/10.1111/j.1540-5826.2008.00266.x

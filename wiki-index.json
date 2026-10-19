@@ -141324,12 +141324,12 @@
 "type":"claim"
 },
 {
-"description":"Prior achievement level did not significantly affect self-efficacy overall in either flipped classroom method",
+"description":"In one flipped calculus study, prior achievement level had no significant main effect on self-efficacy, although it interacted with teaching method",
 "evidence_strength":"moderate",
 "id":"prior-achievement-null-self-efficacy",
 "path":"claims/prior-achievement-null-self-efficacy.md",
 "status":"review",
-"title":"Prior achievement level did not significantly affect self-efficacy overall in either flipped classroom method",
+"title":"In one flipped calculus study, prior achievement level had no significant main effect on self-efficacy, although it interacted with teaching method",
 "type":"claim"
 },
 {

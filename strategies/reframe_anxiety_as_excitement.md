@@ -70,5 +70,5 @@ Arousal reappraisal works because it targets appraisal, not arousal itself: perf
 ## Key Sources
 - Brooks, A. W. (2014). Get excited: Reappraising pre-performance anxiety as excitement. *Journal of Experimental Psychology: General, 143*(3), 1144–1158. [doi:10.1037/a0035325](https://doi.org/10.1037/a0035325)
 - Jamieson, J. P., Mendes, W. B., Blackstock, E., & Schmader, T. (2010). Turning the knots in your stomach into bows: Reappraising arousal improves performance on the GRE. *Journal of Experimental Social Psychology, 46*(1), 208–212. [doi:10.1016/j.jesp.2009.08.015](https://doi.org/10.1016/j.jesp.2009.08.015)
-- Hembree, R. (1990). The nature, effects, and relief of mathematics anxiety. *Journal for Research in Mathematics Education, 21*(1), 33–46. [doi:10.2307/749455](https://doi.org/10.2307/749455)
+- Hembree, R. (1990). The nature, effects, and relief of mathematics anxiety. *Journal for Research in Mathematics Education, 21*(1), 33–46. [doi:10.5951/jresematheduc.21.1.0033](https://doi.org/10.5951/jresematheduc.21.1.0033)
 - Ramirez, G., & Beilock, S. L. (2011). Writing about testing worries boosts exam performance in the classroom. *Science, 331*(6014), 211–213. [doi:10.1126/science.1199427](https://doi.org/10.1126/science.1199427)

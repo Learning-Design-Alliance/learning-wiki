@@ -9,17 +9,17 @@ generated:
   at: 2026-10-08
 evidence_strength: moderate
 sources:
-  - id: jennie-y-jiang-2015
+  - id: jennie-y-jiang-2014
     resource: "https://www.cps.edu/Pages/reachstudents.aspx"
-    title: "Jennie Y. Jiang, Susan E. Sporte, Stuart Luppescu. (2015). Analytic Memo: Evaluation Data from the First Year of REACH. Consortium on Chicago School Research. https://www.cps.edu/Pages/reachstudents.aspx"
+    title: "Jennie Y. Jiang, Susan E. Sporte, Stuart Luppescu. (2014). Analytic Memo: Evaluation Data from the First Year of REACH. Consortium on Chicago School Research. https://www.cps.edu/Pages/reachstudents.aspx"
     author: Jennie Y. Jiang, Susan E. Sporte, Stuart Luppescu
     q: 2
     i: "?"
     kind: associational
     rigour: 2
-  - id: jennie-y-jiang-2015-2
+  - id: jennie-y-jiang-2014-2
     resource: "https://www.cps.edu/Pages/reachstudents.aspx"
-    title: "Jennie Y. Jiang, Susan E. Sporte, Stuart Luppescu. (2015). Analytic Memo: Evaluation Data from the First Year of REACH. Consortium on Chicago School Research. https://www.cps.edu/Pages/reachstudents.aspx"
+    title: "Jennie Y. Jiang, Susan E. Sporte, Stuart Luppescu. (2014). Analytic Memo: Evaluation Data from the First Year of REACH. Consortium on Chicago School Research. https://www.cps.edu/Pages/reachstudents.aspx"
     author: Jennie Y. Jiang, Susan E. Sporte, Stuart Luppescu
     q: 2
     i: "?"
@@ -33,14 +33,14 @@ sources:
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
-`q2 i?` The adjusted correlation between composite observation scores and combined individual value-added is 0.349; math and reading individually correlate at 0.28 and 0.29. [→ Jennie Y. Jiang 2015](#jennie-y-jiang-2015)
-`q2 i?` Performance tasks and school-wide value-added are only weakly associated with observation scores, with correlations of 0.108 and 0.119. [→ Jennie Y. Jiang 2015 (2)](#jennie-y-jiang-2015-2)
+`q2 i?` The adjusted correlation between composite observation scores and combined individual value-added is 0.349; math and reading individually correlate at 0.28 and 0.29. [→ Jennie Y. Jiang 2014](#jennie-y-jiang-2014)
+`q2 i?` Performance tasks and school-wide value-added are only weakly associated with observation scores, with correlations of 0.108 and 0.119. [→ Jennie Y. Jiang 2014 (2)](#jennie-y-jiang-2014-2)
 
 ## Evidence
 
-### Jennie Y. Jiang 2015
+### Jennie Y. Jiang 2014
 
-Jennie Y. Jiang, Susan E. Sporte, Stuart Luppescu. (2015). Analytic Memo: Evaluation Data from the First Year of REACH. Consortium on Chicago School Research. https://www.cps.edu/Pages/reachstudents.aspx
+Jennie Y. Jiang, Susan E. Sporte, Stuart Luppescu. (2014). Analytic Memo: Evaluation Data from the First Year of REACH. Consortium on Chicago School Research. https://www.cps.edu/Pages/reachstudents.aspx
 
 `q2 · i?` · `associational · r2`
 
@@ -48,9 +48,9 @@ Correlational analysis of 2012-13 REACH data (Table 1), disattenuated for measur
 
 > "the association between observations and the combined individual value-added displays the strongest association, with an adjusted correlation of 0.349. Individual math and reading value-added are correlated at 0.28 and 0.29."
 
-### Jennie Y. Jiang 2015 (2)
+### Jennie Y. Jiang 2014 (2)
 
-Jennie Y. Jiang, Susan E. Sporte, Stuart Luppescu. (2015). Analytic Memo: Evaluation Data from the First Year of REACH. Consortium on Chicago School Research. https://www.cps.edu/Pages/reachstudents.aspx
+Jennie Y. Jiang, Susan E. Sporte, Stuart Luppescu. (2014). Analytic Memo: Evaluation Data from the First Year of REACH. Consortium on Chicago School Research. https://www.cps.edu/Pages/reachstudents.aspx
 
 `q2 · i?` · `associational · r2`
 

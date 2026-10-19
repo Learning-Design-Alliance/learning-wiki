@@ -9,9 +9,9 @@ generated:
   at: 2026-09-26
 evidence_strength: moderate
 sources:
-  - id: kaygısız-2018
+  - id: kaygısız-2020
     resource: "https://doi.org/10.33828/sei.v31.i1.12"
-    title: "Kaygısız, G.M., Uygun, N., & Uçar, F.M. (2018). The Relationship between the Levels of Self-efficacy Beliefs of Pre-service Teachers and their Levels of Determining Suitable Taxonomy, Strategy, and Method-technique for Science Objectives. Science Education International 31(1), 117-126. https://doi.org/10.33828/sei.v31.i1.12"
+    title: "Kaygısız, G.M., Uygun, N., & Uçar, F.M. (2020). The Relationship between the Levels of Self-efficacy Beliefs of Pre-service Teachers and their Levels of Determining Suitable Taxonomy, Strategy, and Method-technique for Science Objectives. Science Education International 31(1), 117-126. https://doi.org/10.33828/sei.v31.i1.12"
     author: "Kaygısız, G.M., Uygun, N., & Uçar, F.M."
     q: 2
     i: "?"
@@ -25,13 +25,13 @@ sources:
 > **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
-`q2 i?` Senior pre-service teachers scored significantly higher than juniors in determining taxonomy (t = −2.58, p < 0.05) and determining method-technique (t = 2.13, p < 0.05), while self-efficacy, outcome expectancy, total TSMTDF, and strategy scores showed no significant grade-level difference. [→ Kaygısız 2018](#kaygsz-2018)
+`q2 i?` Senior pre-service teachers scored significantly higher than juniors in determining taxonomy (t = −2.58, p < 0.05) and determining method-technique (t = 2.13, p < 0.05), while self-efficacy, outcome expectancy, total TSMTDF, and strategy scores showed no significant grade-level difference. [→ Kaygısız 2020](#kaygsz-2020)
 
 ## Evidence
 
-### Kaygısız 2018
+### Kaygısız 2020
 
-Kaygısız, G.M., Uygun, N., & Uçar, F.M. (2018). The Relationship between the Levels of Self-efficacy Beliefs of Pre-service Teachers and their Levels of Determining Suitable Taxonomy, Strategy, and Method-technique for Science Objectives. Science Education International 31(1), 117-126. https://doi.org/10.33828/sei.v31.i1.12
+Kaygısız, G.M., Uygun, N., & Uçar, F.M. (2020). The Relationship between the Levels of Self-efficacy Beliefs of Pre-service Teachers and their Levels of Determining Suitable Taxonomy, Strategy, and Method-technique for Science Objectives. Science Education International 31(1), 117-126. https://doi.org/10.33828/sei.v31.i1.12
 
 `q2 · i?` · `associational · r1`
 

@@ -11,7 +11,7 @@ evidence_strength: moderate
 sources:
   - id: means-2020
     resource: "https://doi.org/10.51388/20.500.12265/102"
-    title: "Means, B., & Neisler, J. (2020). Unmasking Inequality: STEM Course Experiences During the COVID-19 Pandemic. Digital Promise Global. https://digitalpromise.dspacedirect.org/items/c978880f-6afe-4778-9df2-dac931a9c471 [doi:10.51388/20.500.12265/102](https://doi.org/10.51388/20.500.12265/102)"
+    title: "Means, B., & Neisler, J. (2020). Unmasking Inequality: STEM Course Experience During the COVID-19 Pandemic. Digital Promise Global. https://digitalpromise.dspacedirect.org/items/c978880f-6afe-4778-9df2-dac931a9c471 [doi:10.51388/20.500.12265/102](https://doi.org/10.51388/20.500.12265/102)"
     author: "Means, B., & Neisler, J."
     q: 2
     i: "?"
@@ -19,7 +19,7 @@ sources:
     rigour: 2
   - id: means-2020-2
     resource: "https://digitalpromise.dspacedirect.org/items/c978880f-6afe-4778-9df2-dac931a9c471"
-    title: "Means, B., & Neisler, J. (2020). Unmasking Inequality: STEM Course Experiences During the COVID-19 Pandemic. Digital Promise Global. https://digitalpromise.dspacedirect.org/items/c978880f-6afe-4778-9df2-dac931a9c471"
+    title: "Means, B., & Neisler, J. (2020). Unmasking Inequality: STEM Course Experience During the COVID-19 Pandemic. Digital Promise Global. https://digitalpromise.dspacedirect.org/items/c978880f-6afe-4778-9df2-dac931a9c471 [doi:10.51388/20.500.12265/102](https://doi.org/10.51388/20.500.12265/102)"
     author: "Means, B., & Neisler, J."
     q: 2
     i: "?"
@@ -40,7 +40,7 @@ sources:
 
 ### Means 2020
 
-Means, B., & Neisler, J. (2020). Unmasking Inequality: STEM Course Experiences During the COVID-19 Pandemic. Digital Promise Global. https://digitalpromise.dspacedirect.org/items/c978880f-6afe-4778-9df2-dac931a9c471 [doi:10.51388/20.500.12265/102](https://doi.org/10.51388/20.500.12265/102)
+Means, B., & Neisler, J. (2020). Unmasking Inequality: STEM Course Experience During the COVID-19 Pandemic. Digital Promise Global. https://digitalpromise.dspacedirect.org/items/c978880f-6afe-4778-9df2-dac931a9c471 [doi:10.51388/20.500.12265/102](https://doi.org/10.51388/20.500.12265/102)
 
 `q2 · i?` · `associational · r2`
 
@@ -50,7 +50,7 @@ Structured-response survey items on problems continuing STEM courses online; mot
 
 ### Means 2020 (2)
 
-Means, B., & Neisler, J. (2020). Unmasking Inequality: STEM Course Experiences During the COVID-19 Pandemic. Digital Promise Global. https://digitalpromise.dspacedirect.org/items/c978880f-6afe-4778-9df2-dac931a9c471
+Means, B., & Neisler, J. (2020). Unmasking Inequality: STEM Course Experience During the COVID-19 Pandemic. Digital Promise Global. https://digitalpromise.dspacedirect.org/items/c978880f-6afe-4778-9df2-dac931a9c471 [doi:10.51388/20.500.12265/102](https://doi.org/10.51388/20.500.12265/102)
 
 `q2 · i?` · `associational · r2`
 

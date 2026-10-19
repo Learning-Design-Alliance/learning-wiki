@@ -8,9 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 sources:
-  - id: crumley-2015
+  - id: crumley-2007
     resource: "https://arxiv.org/abs/0706.1985"
-    title: "Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985"
+    title: "Crumley, Palczewski, and Kaster. (2007). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985"
     author: Crumley, Palczewski, and Kaster
 ---
 
@@ -47,4 +47,4 @@ In this lab pattern, students must determine the magnetopause location in simula
 -
 
 ## Key Sources
-- Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985. [doi:10.48550/arxiv.0706.1985](https://doi.org/10.48550/arxiv.0706.1985)
+- Crumley, Palczewski, and Kaster. (2007). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985. [doi:10.48550/arxiv.0706.1985](https://doi.org/10.48550/arxiv.0706.1985)

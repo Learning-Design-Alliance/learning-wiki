@@ -11,7 +11,7 @@ evidence_strength: weak
 sources:
   - id: spilerman-1970
     resource: "https://eric.ed.gov/?id=ED133396"
-    title: "Spilerman, Seymour. (1970). Raising Academic Motivation in Lower Class Adolescents: A Convergence of Two Research Traditions. Discussion Papers 75-70. Institute for Research on Poverty, University of Wisconsin. [ERIC ED133396](https://eric.ed.gov/?id=ED133396). [doi:10.2307/2111965](https://doi.org/10.2307/2111965)"
+    title: "Spilerman, Seymour. (1970). Raising Academic Motivation in Lower Class Adolescents: A Convergence of Two Research Traditions. Discussion Papers 75-70. Institute for Research on Poverty, University of Wisconsin. [ERIC ED133396](https://eric.ed.gov/?id=ED133396)."
     author: Spilerman, Seymour
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Spilerman 1970
 
-Spilerman, Seymour. (1970). Raising Academic Motivation in Lower Class Adolescents: A Convergence of Two Research Traditions. Discussion Papers 75-70. Institute for Research on Poverty, University of Wisconsin. [ERIC ED133396](https://eric.ed.gov/?id=ED133396). [doi:10.2307/2111965](https://doi.org/10.2307/2111965)
+Spilerman, Seymour. (1970). Raising Academic Motivation in Lower Class Adolescents: A Convergence of Two Research Traditions. Discussion Papers 75-70. Institute for Research on Poverty, University of Wisconsin. [ERIC ED133396](https://eric.ed.gov/?id=ED133396).
 
 `q2 · i?` · `review · r1`
 
@@ -46,7 +46,7 @@ Discussion paper (read in its ERIC full text) arguing for peer-group reward stru
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| [Spilerman 1970](https://doi.org/10.2307/2111965) | q2 · review · r1 | i? | this claim |
+| [Spilerman 1970](https://eric.ed.gov/?id=ED133396) | q2 · review · r1 | i? | this claim |
 | Qais Faryadi 2007 | q1 · review · r1 | i? | [A non-peer-reviewed web essay asserts, citing an earlier source second-hand, that behavior](behaviorist-reinforcement-effective-positive-behavior.md) (supports) |
 | Knight 1985 | q2 · theoretical · r2 | i? | [Positive reinforcement and praise correlate positively with learning while criticism corre](praise-positive-criticism-negative-learning.md) (supports) |
 | [Kluger 1996](https://doi.org/10.1037/0033-2909.119.2.254) | q2 · quant-synthesis · r2 | i3 | [In time-series field studies of behavior modification, all 17 quasi-d feedback effects wer](fi-time-series-field-studies-all-positive.md) (supports) |

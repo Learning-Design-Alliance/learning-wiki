@@ -20,7 +20,7 @@ sources:
     rigour: "?"
   - id: latimier-et-al-2020
     resource: "https://doi.org/10.1007/s10648-020-09572-8"
-    title: "Latimier, A., Peyre, H., & Ramus, F. (2020). A Meta-Analytic Review of the Benefit of Spacing out Retrieval Practice Episodes on Retention. *Educational Psychology Review, 33*(3), 959–987. [doi:10.1007/s10648-020-09572-8](https://doi.org/10.1007/s10648-020-09572-8)"
+    title: "Latimier, A., Peyre, H., & Ramus, F. (2021). A Meta-Analytic Review of the Benefit of Spacing out Retrieval Practice Episodes on Retention. *Educational Psychology Review, 33*(3), 959–987. [doi:10.1007/s10648-020-09572-8](https://doi.org/10.1007/s10648-020-09572-8)"
     author: "Latimier, A., Peyre, H., & Ramus, F."
     q: 4
     i: 2
@@ -66,7 +66,7 @@ A systematic review and meta-analysis of the testing effect in real classrooms r
 
 ### Latimier et al. 2020
 
-Latimier, A., Peyre, H., & Ramus, F. (2020). A Meta-Analytic Review of the Benefit of Spacing out Retrieval Practice Episodes on Retention. *Educational Psychology Review, 33*(3), 959–987. [doi:10.1007/s10648-020-09572-8](https://doi.org/10.1007/s10648-020-09572-8)
+Latimier, A., Peyre, H., & Ramus, F. (2021). A Meta-Analytic Review of the Benefit of Spacing out Retrieval Practice Episodes on Retention. *Educational Psychology Review, 33*(3), 959–987. [doi:10.1007/s10648-020-09572-8](https://doi.org/10.1007/s10648-020-09572-8)
 
 `q4 · meta-analysis (robust variance estimation)` · `i2 · medium-to-large effect, g=0.74` · `n=29 studies (39 + 54 effect sizes)` · `quant-synthesis · r?`
 

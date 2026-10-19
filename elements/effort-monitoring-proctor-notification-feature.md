@@ -8,9 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 sources:
-  - id: steven-wise-2018
+  - id: steven-wise-2019
     resource: "https://www.nwea.org/research/publication/the-effects-of-effort-monitoring-with-proctor-notification-on-test-taking-engagement-test-performance-and-validity/"
-    title: "Steven Wise, Megan Kuhfeld, James Soland. (2018). The effects of effort monitoring with proctor notification on test-taking engagement, test performance, and validity. Applied Measurement in Education, 32(2), 183-192. https://www.nwea.org/research/publication/the-effects-of-effort-monitoring-with-proctor-notification-on-test-taking-engagement-test-performance-and-validity/"
+    title: "Steven Wise, Megan Kuhfeld, James Soland. (2019). The effects of effort monitoring with proctor notification on test-taking engagement, test performance, and validity. Applied Measurement in Education, 32(2), 183-192. https://www.nwea.org/research/publication/the-effects-of-effort-monitoring-with-proctor-notification-on-test-taking-engagement-test-performance-and-validity/"
     author: Steven Wise, Megan Kuhfeld, James Soland
 ---
 
@@ -56,4 +56,4 @@ A computer-based testing feature that detects rapid guessing as it occurs and no
 - [Proctor Intervention for Rapid Guessing](../strategies/proctor_intervention_for_rapid_guessing.md)
 
 ## Key Sources
-- Steven Wise, Megan Kuhfeld, James Soland. (2018). The effects of effort monitoring with proctor notification on test-taking engagement, test performance, and validity. Applied Measurement in Education, 32(2), 183-192. https://www.nwea.org/research/publication/the-effects-of-effort-monitoring-with-proctor-notification-on-test-taking-engagement-test-performance-and-validity/
+- Steven Wise, Megan Kuhfeld, James Soland. (2019). The effects of effort monitoring with proctor notification on test-taking engagement, test performance, and validity. Applied Measurement in Education, 32(2), 183-192. https://www.nwea.org/research/publication/the-effects-of-effort-monitoring-with-proctor-notification-on-test-taking-engagement-test-performance-and-validity/

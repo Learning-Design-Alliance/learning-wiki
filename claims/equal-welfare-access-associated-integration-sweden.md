@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: covington-2024
-    resource: "https://doi.org/10.33422/ijhep.v6i4.1084"
-    title: "Covington, K. C. D. (2024). Examining the learner perspective in US immigrant adults: Socioeconomic status and the mission to successfully integrate. Doctoral study. https://eric.ed.gov/?id=ED660747 [doi:10.33422/ijhep.v6i4.1084](https://doi.org/10.33422/ijhep.v6i4.1084)"
+    resource: "https://eric.ed.gov/?id=ED660747"
+    title: "Covington, K. C. D. (2024). Examining the learner perspective in US immigrant adults: Socioeconomic status and the mission to successfully integrate. Doctoral study. https://eric.ed.gov/?id=ED660747"
     author: Covington, K. C. D.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Covington 2024
 
-Covington, K. C. D. (2024). Examining the learner perspective in US immigrant adults: Socioeconomic status and the mission to successfully integrate. Doctoral study. https://eric.ed.gov/?id=ED660747 [doi:10.33422/ijhep.v6i4.1084](https://doi.org/10.33422/ijhep.v6i4.1084)
+Covington, K. C. D. (2024). Examining the learner perspective in US immigrant adults: Socioeconomic status and the mission to successfully integrate. Doctoral study. https://eric.ed.gov/?id=ED660747
 
 `q2 · i?` · `associational · r1`
 

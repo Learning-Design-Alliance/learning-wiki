@@ -98,7 +98,7 @@ The CRAAP Test gives learners a concrete, structured procedure for a judgment ta
 - Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading less and learning more when evaluating digital information. *Teachers College Record, 121*(11), 1–40. [doi:10.1177/016146811912101102](https://doi.org/10.1177/016146811912101102)
 - Breakstone, J., Smith, M., Wineburg, S., Wilson, A., Kirschner, P., & Chen, D. (2018). Students evaluate news sources, but not as well as we'd hoped. *Teachers College Record, 120*(14), 1–24.
 - McGrew, S., Breakstone, J., Ortega, T., Smith, M., & Wineburg, S. (2018). Can students evaluate online sources? Learning from assessments of civic online reasoning. *Theory &amp; Research in Social Education, 46*(2), 165-193. [doi:10.1080/00933104.2017.1416320](https://doi.org/10.1080/00933104.2017.1416320)
-- Breakstone, J., Smith, M., Ortega-Wollberg, L., Wineburg, S., Donenfeld, J., & Ziv, M. (2021). Students' civic online reasoning: A national portrait. *Educational Researcher, 50*(8), 505-515. [doi:10.3102/0013189x211017495](https://doi.org/10.3102/0013189x211017495)
+- Breakstone, J., Smith, M., Wineburg, S., Rapaport, A., Carle, J., Garland, M., & Saavedra, A. (2021). Students' civic online reasoning: A national portrait. *Educational Researcher, 50*(8), 505-515. [doi:10.3102/0013189x211017495](https://doi.org/10.3102/0013189x211017495)
 - Meola, M. (2004). Chucking the checklist: A contextual approach to teaching undergraduates web-site evaluation. *portal: Libraries and the Academy, 4*(3), 331–344. [doi:10.1353/pla.2004.0055](https://doi.org/10.1353/pla.2004.0055)
 - Caulfield, M. (2017). *Web literacy for student fact-checkers... and other people who care about facts.* Pressbooks. [webliteracy.pressbooks.com](https://webliteracy.pressbooks.com)
 
@@ -168,7 +168,7 @@ Checklists like CRAAP reduce the working-memory and expertise demands of source 
 ## Key Sources
 - Blakeslee, S. (2004). The CRAAP test. *LOEX Quarterly, 31*(3).
 - Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading less and learning more when evaluating digital information. *Teachers College Record, 121*(11), 1–40. [doi:10.1177/016146811912101102](https://doi.org/10.1177/016146811912101102)
-- Breakstone, J., Smith, M., Ortega-Wollberg, L., Wineburg, S., Donenfeld, J., & Ziv, M. (2021). Students' civic online reasoning: A national portrait. *Educational Researcher, 50*(8), 505-515. [doi:10.3102/0013189x211017495](https://doi.org/10.3102/0013189x211017495)
+- Breakstone, J., Smith, M., Wineburg, S., Rapaport, A., Carle, J., Garland, M., & Saavedra, A. (2021). Students' civic online reasoning: A national portrait. *Educational Researcher, 50*(8), 505-515. [doi:10.3102/0013189x211017495](https://doi.org/10.3102/0013189x211017495)
 - Meola, M. (2004). Chucking the checklist: A contextual approach to teaching undergraduates web-site evaluation. *portal: Libraries and the Academy, 4*(3), 331–344. [doi:10.1353/pla.2004.0055](https://doi.org/10.1353/pla.2004.0055)
 - Caulfield, M. (2017). *Web literacy for student fact-checkers... and other people who care about facts.* Pressbooks. [webliteracy.pressbooks.com](https://webliteracy.pressbooks.com)
 -->

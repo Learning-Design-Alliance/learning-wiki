@@ -9,17 +9,17 @@ generated:
   at: 2026-09-25
 evidence_strength: weak
 sources:
-  - id: crumley-2015
+  - id: crumley-2007
     resource: "https://doi.org/10.48550/arxiv.0706.1985"
-    title: "Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985 [doi:10.48550/arxiv.0706.1985](https://doi.org/10.48550/arxiv.0706.1985)"
+    title: "Crumley, Palczewski, and Kaster. (2007). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985 [doi:10.48550/arxiv.0706.1985](https://doi.org/10.48550/arxiv.0706.1985)"
     author: Crumley, Palczewski, and Kaster
     q: 2
     i: "?"
     kind: design
     rigour: 2
-  - id: crumley-2015-2
+  - id: crumley-2007-2
     resource: "https://doi.org/10.48550/arxiv.0706.1985"
-    title: "Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985. [doi:10.48550/arxiv.0706.1985](https://doi.org/10.48550/arxiv.0706.1985)"
+    title: "Crumley, Palczewski, and Kaster. (2007). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985. [doi:10.48550/arxiv.0706.1985](https://doi.org/10.48550/arxiv.0706.1985)"
     author: Crumley, Palczewski, and Kaster
     q: 2
     i: "?"
@@ -33,14 +33,14 @@ sources:
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
-`q2 i?` Having solar wind parameters vary linearly with time leads to poor results because changes take time to propagate through the magnetosphere. [→ Crumley 2015](#crumley-2015)
-`q2 i?` Holding conditions constant for multiple time steps so the magnetopause reaches equilibrium, using a stair-step pattern, has led to much better results. [→ Crumley 2015 (2)](#crumley-2015-2)
+`q2 i?` Having solar wind parameters vary linearly with time leads to poor results because changes take time to propagate through the magnetosphere. [→ Crumley 2007](#crumley-2007)
+`q2 i?` Holding conditions constant for multiple time steps so the magnetopause reaches equilibrium, using a stair-step pattern, has led to much better results. [→ Crumley 2007 (2)](#crumley-2007-2)
 
 ## Evidence
 
-### Crumley 2015
+### Crumley 2007
 
-Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985 [doi:10.48550/arxiv.0706.1985](https://doi.org/10.48550/arxiv.0706.1985)
+Crumley, Palczewski, and Kaster. (2007). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985 [doi:10.48550/arxiv.0706.1985](https://doi.org/10.48550/arxiv.0706.1985)
 
 `q2 · i? · the article prints no effect size for this finding` · `design · r2`
 
@@ -48,9 +48,9 @@ Instructor-reported outcome from the lab-development section describing early ve
 
 > "The obvious option of having the solar wind parameters vary linearly with time leads to poor results because it takes time for changes in the solar wind conditions to propagate throughout the magnetosphere."
 
-### Crumley 2015 (2)
+### Crumley 2007 (2)
 
-Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985. [doi:10.48550/arxiv.0706.1985](https://doi.org/10.48550/arxiv.0706.1985)
+Crumley, Palczewski, and Kaster. (2007). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985. [doi:10.48550/arxiv.0706.1985](https://doi.org/10.48550/arxiv.0706.1985)
 
 `q2 · i? · the article prints no effect size for this finding` · `design · r2`
 

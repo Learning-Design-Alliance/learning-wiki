@@ -59,7 +59,7 @@ Nonequivalent-groups pretest-posttest experiment with two intact freshman calcul
 - [Peer-teaching flipped classroom students show higher calculus self-efficacy than conventional flipped classroom students after controlling for pretest](ptfc-beats-cfc-self-efficacy.md) — related
 - [PTFC and CFC differ on general and future self-efficacy dimensions but not on grade-anxiety, in-class, or assignment dimensions](self-efficacy-dimension-differences-ptfc-cfc.md) — related
 - [Self-efficacy correlates positively with conceptual understanding in both flipped classroom methods](self-efficacy-correlates-conceptual-understanding.md) — related
-- [Prior achievement level did not significantly affect self-efficacy overall in either flipped classroom method](prior-achievement-null-self-efficacy.md) — related
+- [In one flipped calculus study, prior achievement level had no significant main effect on self-efficacy, although it interacted with teaching method](prior-achievement-null-self-efficacy.md) — related
 - [Senior high school majors' background affects calculus conceptual understanding and self-efficacy, with no method-by-major interaction](majors-background-affects-outcomes.md) — related
 - [In one flipped calculus study, teaching method (peer-teaching versus conventional flipped classroom) and prior achievement level interact on self-efficacy](method-achievement-interaction-self-efficacy.md) — related
 - [Students exposed to AI-generated responses achieved higher performance in solving quadratic equations than those taught through conventional teaching methods](ai-generated-responses-higher-quadratic-achievement.md) — related

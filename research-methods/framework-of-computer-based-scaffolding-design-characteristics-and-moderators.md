@@ -31,4 +31,4 @@ The article organizes computer-based scaffolding research along several coded di
 
 ## Key Sources
 - Belland, B. R., Walker, A. E., Kim, N. J., & Lefler, M. (2017). Synthesizing Results From Empirical Research on Computer-Based Scaffolding in STEM Education: A Meta-Analysis. Review of Educational Research, 87(2), 309-344. https://doi.org/10.3102/0034654316670999
-- Sijmkens, E., De Cock, M., & De Laet, T. (2024). Scaffolding Students' Use of Metacognitive Activities Using Discipline- and Topic-Specific Reflective Prompts. https://doi.org/10.1007/978-3-031-72353-1_2
+- Sijmkens, E., De Cock, M., & De Laet, T. (2023). Scaffolding Students' Use of Metacognitive Activities Using Discipline- and Topic-Specific Reflective Prompts. *Metacognition and Learning, 18*(3), 811–843. https://doi.org/10.1007/s11409-023-09363-w

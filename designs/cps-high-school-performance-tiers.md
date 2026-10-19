@@ -10,7 +10,7 @@ generated:
 sources:
   - id: allensworth-2016
     resource: "https://consortium.uchicago.edu/publications"
-    title: "Allensworth, E., Moore, P., Sartain, L., & de la Torre, M. (2016). The Educational Benefits of Attending Higher-Performing Schools: Evidence from Chicago High Schools. University of Chicago Consortium on School Research. https://consortium.uchicago.edu/publications"
+    title: "Allensworth, E., Moore, P., Sartain, L., & de la Torre, M. (2017). The Educational Benefits of Attending Higher Performing Schools: Evidence From Chicago High Schools. *Educational Evaluation and Policy Analysis, 39*(2), 175–197. https://consortium.uchicago.edu/publications"
     author: "Allensworth, E., Moore, P., Sartain, L., & de la Torre, M"
 ---
 
@@ -46,4 +46,4 @@ The research groups Chicago high schools into four performance tiers using gradu
 -
 
 ## Key Sources
-- Allensworth, E., Moore, P., Sartain, L., & de la Torre, M. (2016). The Educational Benefits of Attending Higher-Performing Schools: Evidence from Chicago High Schools. University of Chicago Consortium on School Research. https://consortium.uchicago.edu/publications. [doi:10.3102/0162373716672039](https://doi.org/10.3102/0162373716672039)
+- Allensworth, E., Moore, P., Sartain, L., & de la Torre, M. (2017). The Educational Benefits of Attending Higher Performing Schools: Evidence From Chicago High Schools. *Educational Evaluation and Policy Analysis, 39*(2), 175–197. https://consortium.uchicago.edu/publications. [doi:10.3102/0162373716672039](https://doi.org/10.3102/0162373716672039)

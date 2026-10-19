@@ -11,7 +11,7 @@ evidence_strength: moderate
 sources:
   - id: allensworth-2019
     resource: "https://doi.org/10.3102/0013189x20902110"
-    title: "Allensworth, E. M., & Clark, K. (2019). High School GPAs and ACT Scores as Predictors of College Completion: Examining Assumptions about Consistency across High Schools. University of Chicago. https://consortium.uchicago.edu/publications/high-school-gpas-and-act-scores-as-predictors-of-college-completion [doi:10.3102/0013189x20902110](https://doi.org/10.3102/0013189x20902110)"
+    title: "Allensworth, E. M., & Clark, K. (2020). High School GPAs and ACT Scores as Predictors of College Completion: Examining Assumptions about Consistency across High Schools. *Educational Researcher, 49*(3), 198–211. https://consortium.uchicago.edu/publications/high-school-gpas-and-act-scores-as-predictors-of-college-completion [doi:10.3102/0013189x20902110](https://doi.org/10.3102/0013189x20902110)"
     author: "Allensworth, E. M., & Clark, K."
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Allensworth 2019
 
-Allensworth, E. M., & Clark, K. (2019). High School GPAs and ACT Scores as Predictors of College Completion: Examining Assumptions about Consistency across High Schools. University of Chicago. https://consortium.uchicago.edu/publications/high-school-gpas-and-act-scores-as-predictors-of-college-completion [doi:10.3102/0013189x20902110](https://doi.org/10.3102/0013189x20902110)
+Allensworth, E. M., & Clark, K. (2020). High School GPAs and ACT Scores as Predictors of College Completion: Examining Assumptions about Consistency across High Schools. *Educational Researcher, 49*(3), 198–211. https://consortium.uchicago.edu/publications/high-school-gpas-and-act-scores-as-predictors-of-college-completion [doi:10.3102/0013189x20902110](https://doi.org/10.3102/0013189x20902110)
 
 `q3 · i?` · `associational · r3`
 
