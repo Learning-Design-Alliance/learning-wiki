@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Use inference-time selection with a small interpretable index as a pedagogical alignment lever between full RL retraining and greedy decoding - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-favicon.png">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lda-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script>try{var s=new URL("../../"||".",location).pathname,p=JSON.parse(localStorage.getItem(s+".__palette"));if(p&&p.color){for(var k of ["scheme","primary","accent"])if(p.color[k])document.body.setAttribute("data-md-color-"+k,p.color[k])}}catch(e){}</script>
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../strategies/">Strategies</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Strategy">
+<h1 id="use-inference-time-selection-with-a-small-interpretable-index-as-a-pedagogical-alignment-lever-between-full-rl-retraining-and-greedy-decoding">Use inference-time selection with a small interpretable index as a pedagogical alignment lever between full RL retraining and greedy decoding<a class="headerlink" href="#use-inference-time-selection-with-a-small-interpretable-index-as-a-pedagogical-alignment-lever-between-full-rl-retraining-and-greedy-decoding" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a>
+<strong>Evidence</strong> · 1 claim (1 for) · 1 study (1 causal), <code>q2</code> · 0 of 1 report an effect size · 1 claim rests on one study</p>
+</blockquote>
+<h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
+<p>For practitioners, the article recommends keeping the model frozen and selecting among N stochastic candidate responses with an interpretable index rather than retraining: "a useful pedagogical alignment lever sits between full RL retraining and unprincipled greedy decoding: inference-time selection with a tiny interpretable index retains the base model’s mathematical depth and exposes four interpretable weights for behavioural tuning". TEI@N generates N candidates, scores each with regex features plus a one-pass DTR forward hook, and returns the best-scoring response at cost linear in conversation length.</p>
+<h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
+<h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
+<ul>
+<li>A frozen reasoning LLM exposing explicit thinking traces; N stochastic candidate generations per turn</li>
+</ul>
+<h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
+<ul>
+<li>The selector helps most when the candidate pool is diverse and the base distribution is well-balanced; full RL alignment is described as a sharper but more dangerous instrument</li>
+</ul>
+<h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
+<ul>
+<li>students tutored by LLM math tutors</li>
+</ul>
+<h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
+<ul>
+<li>improving learning outcomes of LLM tutoring without retraining the model</li>
+</ul>
+<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Tutoring Effectiveness Index Tei</li>
+</ul>
+<h2 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../../claims/tei4-selects-deliberation-rich-candidates/">TEI@4 selection shifts thinking-trace mass toward deeper deliberation, raising Schoenfeld Explore share by +10.8pp without changing the model</a> [+M]</li>
+</ul>
+<h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
+<ul>
+<li></li>
+</ul>
+<h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
+<p>-</p>
+<h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Shim Jaechang and Unggi Lee. 2026. The Tutoring Effectiveness Index: Predicting LLM Math Tutor Quality from Four Conversation Signals. In Proceedings of The 35th ACM International Conference on Information and Knowledge Management (CIKM '26). https://arxiv.org/abs/2605.30666</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>strategy</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>inference-time-selection-alignment-lever</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Use inference-time selection with a small interpretable index as a pedagogical alignment lever between full RL retraining and greedy decoding</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>For practitioners, the article recommends keeping the model frozen and selecting among N stochastic candidate responses with an interpretable index rather than retraining: "a useful pedagogical alignment lever sits be...</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-11</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>1 — <code>shim-jaechang-and-unggi-lee</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+<footer class="lt-footer"><span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> Copyright &copy; Learning Design Alliance — content licensed CC BY-SA 4.0</footer>
+</body>
+</html>

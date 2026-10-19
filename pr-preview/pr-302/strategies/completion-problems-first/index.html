@@ -1,0 +1,240 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Completion Problems First - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-favicon.png">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lda-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script>try{var s=new URL("../../"||".",location).pathname,p=JSON.parse(localStorage.getItem(s+".__palette"));if(p&&p.color){for(var k of ["scheme","primary","accent"])if(p.color[k])document.body.setAttribute("data-md-color-"+k,p.color[k])}}catch(e){}</script>
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../strategies/">Strategies</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Strategy">
+<h1 id="completion-problems-first">Completion Problems First<a class="headerlink" href="#completion-problems-first" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a>
+<strong>Evidence</strong> · 8 claims (4 for, 1 mixed, 2 against, 1 unmarked) · 12 studies (6 causal, 2 quant-synthesis, 2 review, 2 theoretical), <code>q1</code>–<code>q4</code> · 1 of 12 report an effect size · 2 claims rest on one study</p>
+</blockquote>
+<h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
+<p>Completion problems first is a sequencing strategy in which learners' earliest practice tasks are partially completed — some steps or solution states are given, and learners fill in the remainder. It operationalizes the <em>completion strategy</em> (van Merriënboer) as a bridge between studying full <a href="../../principles/worked-examples/">worked examples</a> and solving problems unaided, implementing a smooth <a href="../../elements/fading/">fading</a> of guidance rather than an abrupt transition.</p>
+<h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Completion problems reduce the unguided search that makes early problem solving inefficient for novices, while requiring more generative processing than passive example study <a href="../../claims/worked-examples-reduce-novice-search/">Worked examples reduce unnecessary search for novices.</a> [+M]. Because learners must actively complete steps, the strategy avoids the shallow encoding and illusion of understanding that full-example study alone can produce <a href="../../claims/worked-examples-with-practice-improve-transfer/">Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer</a> [+S]. The design task is choosing <em>which</em> steps to omit: omit steps that isolate the goal-rule or decision being taught, and fade progressively as performance improves.</p>
+<h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
+<h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
+<ul>
+<li>A set of high-quality worked examples establishing the full solution procedure first</li>
+<li>A task sequence that fades support: full example → completion problem (most steps given) → completion problem (few steps given) → full problem (<a href="../../elements/fading/">Fading</a>)</li>
+<li>Deliberate selection of which steps to blank — typically the steps carrying the learning goal, not arbitrary gaps</li>
+<li>Feedback or a correct model answer so learners can check their completions</li>
+<li>A set of high-quality worked solutions to draw the completed portion from</li>
+<li>A task sequence in which the completed portion shrinks (and learner-supplied portion grows) as competence develops (<a href="../../claims/fading-support-promotes-transfer-of-responsibility/">Fading</a>)</li>
+<li>Clear marking of which steps are given and which the learner must supply, so learners do not waste effort parsing the interface rather than the content</li>
+<li>Feedback or a correct final solution available for self-checking after completion</li>
+</ul>
+<h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
+<ul>
+<li>If too many steps are omitted too early, learners revert to inefficient search strategies and cognitive overload <a href="../../claims/cognitive-overload-degrades-learning/">Cognitive overload degrades learning.</a> [-M]</li>
+<li>Blank steps that are trivial (e.g., routine arithmetic) add workload without promoting schema construction [~M]</li>
+<li>For learners with substantial prior knowledge, completion scaffolds become redundant and slow performance <a href="../../claims/worked-examples-less-effective-with-expertise/">Worked-example guidance becomes less effective as learner expertise increases.</a> [~M]</li>
+<li>Without a model answer to compare against, learners may consolidate incorrect completions [-M]</li>
+<li>For learners with high prior knowledge, the provided portion is redundant and adds extraneous load rather than reducing it <a href="../../claims/expertise-reversal-effect/">Guidance becomes less effective — and can reverse in benefit — as expertise grows.</a> [-M]</li>
+<li>Poorly aligned given/learner portions (e.g., giving the conceptually hard steps and asking for mechanical ones) undermine the intended scaffolding</li>
+<li>In ill-structured domains with no canonical solution path, a "partial solution" may mislead learners about the nature of the task</li>
+</ul>
+<h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
+<ul>
+<li><strong>Backward fading:</strong> remove the last steps first (learners finish solutions), then earlier steps — common in mathematics tutoring</li>
+<li><strong>Forward fading:</strong> remove early steps first, forcing learners to plan before executing</li>
+<li><strong>Completion within worked-example pairs:</strong> alternate example study with an isomorphic completion problem (example–problem pairs)</li>
+<li><strong>Programmatic fading:</strong> in adaptive systems such as <a href="https://www.assistments.org">ASSISTments</a> or <a href="https://www.squirrelai.com">Squirrel AI</a>, the number of given steps adjusts to learner performance</li>
+<li><strong>Forward fading</strong>: start with a full worked example, then completion problems with decreasing support, then full problems — the classic sequence [Renkl &amp; Atkinson, 2003]</li>
+<li><strong>Backward fading</strong>: begin with completion problems where only the final step is missing, then fade earlier steps in; some evidence suggests fading later steps first benefits learners with weaker prior knowledge [~M]</li>
+<li><strong>Alternation</strong>: interleave worked examples and isomorphic problems one-to-one rather than using completion problems as the intermediate form</li>
+<li><strong>Error-based variants</strong>: the given portion contains a deliberate error the learner must find and fix <a href="../../claims/erroneous-examples-build-conceptual-knowledge/">Erroneous examples can build conceptual knowledge by prompting learners to explain and correct flawed solutions.</a> [+W]</li>
+</ul>
+<h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Novices who lack the schemas to benefit from unguided problem solving <a href="../../claims/worked-examples-reduce-novice-search/">Worked examples reduce unnecessary search for novices.</a> [+M]</li>
+<li>Learners who have studied worked examples but are not yet ready for independent problems</li>
+<li>Less appropriate for advanced learners, who perform better solving problems directly <a href="../../claims/worked-examples-less-effective-with-expertise/">Worked-example guidance becomes less effective as learner expertise increases.</a> [~M]</li>
+<li>Novices in a structured domain (algebra, programming, physics, statistics) who would otherwise flounder in unguided search <a href="../../claims/worked-example-problem-sequences/">Example–problem sequences reduce cognitive load for novices.</a> [+M]</li>
+<li>Intermediate learners transitioning from example study to independent problem solving</li>
+</ul>
+<h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Procedural skill acquisition in well-structured domains (algebra, programming, statistics)</li>
+<li>Schema construction for recurring problem types</li>
+<li>Bridging toward transfer: faded completion supports application to novel variants <a href="../../claims/worked-examples-with-practice-improve-transfer/">Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer</a> [+S]</li>
+<li>Procedural skill acquisition: executing the steps of a well-defined solution method</li>
+<li>Schema construction: internalizing the structure of a problem type so full solutions are no longer needed</li>
+<li>Self-explanation and monitoring: noticing what the given steps accomplish and why the remaining steps follow</li>
+</ul>
+<h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
+<ol>
+<li>Present a fully worked example with reasoning made visible (<a href="../../elements/think-aloud/">Think-Aloud</a> or annotated steps).</li>
+<li>Assign a completion problem on an isomorphic task with the goal-critical steps blanked; provide the completed example alongside for reference (<a href="../../principles/worked-examples/">Worked Examples</a>).</li>
+<li>Fade: progressively blank more steps across successive tasks (<a href="../../elements/fading/">Fading</a>), monitoring accuracy (<a href="../../elements/check-in/">Check-In</a>).</li>
+<li>Transition to full problem solving once completion accuracy is high, with feedback on each attempt (<a href="../../elements/practice/">Practice</a>, <a href="../../elements/assessment/">Assessment</a>).</li>
+</ol>
+<h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../worked-examples-first/">Worked examples first</a> — the preceding phase; completion problems assume example study has occurred</li>
+<li><a href="../faded-guidance/">Faded guidance</a> — the general principle this strategy instantiates in problem sequences</li>
+<li><a href="../../elements/example-problem-pairs/">Example-problem pairs</a> — an alternating variant with similar rationale</li>
+<li><a href="../fade-ai-support-require-justification/">Design AI educational systems that fade support and require learner justification to preserve independent problem solving</a></li>
+<li><a href="../problem-based-learning/">Problem-Based Learning</a> — the contrast case: minimal guidance, appropriate only after schemas are established</li>
+<li><a href="../scaffolded-practice-sequences/">Scaffolded Practice</a> — completion problems are a form of scaffolded practice with the scaffold defined by solution completeness</li>
+</ul>
+<h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
+<ul>
+<li><strong>van Merriënboer's 4C/ID task sequences</strong> — complex-skill curricula (e.g., technical training) begin each task class with completion tasks and fade to conventional tasks (<a href="../../patterns/4cid-four-component-instructional-design/">Four-Component Instructional Design</a>)</li>
+<li><strong><a href="https://www.khanacademy.org">Khan Academy</a></strong> — hint sequences effectively function as on-demand completion problems, revealing solution steps one at a time</li>
+<li><strong>Renkl &amp; Atkinson's fading studies</strong> — algebra tutoring sequences that faded worked examples into completion problems and then full problems, improving near transfer</li>
+<li><strong>van Merriënboer's programming curriculum (LOGO and Pascal studies)</strong> — learners completed partially written programs rather than writing programs from scratch, producing better learning with less invested effort than generation from scratch.</li>
+<li><strong>Khan Academy (https://www.khanacademy.org)</strong> — its exercise hint system progressively reveals solution steps; a learner who takes the first hint is effectively working a completion problem.</li>
+<li><strong>Codecademy (https://www.codecademy.com)</strong> — early exercises provide scaffolded code with TODO gaps the learner fills, fading toward free-form projects.</li>
+<li><strong>Math Academy (https://www.mathacademy.com)</strong> — diagnostic-prescribed problem sequences that move from heavily supported items to independent problems as mastery evidence accumulates.</li>
+</ul>
+<h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>van Merriënboer, J. J. G. (1990). Strategies for programming instruction in high school: Program completion vs. program generation. <em>Journal of Educational Computing Research, 6</em>(3), 265–285. <a href="https://doi.org/10.2190/NW2X-L8GK-M8PP-1L7N">doi:10.2190/NW2X-L8GK-M8PP-1L7N</a></li>
+<li>Renkl, A., Atkinson, R. K., &amp; Große, C. S. (2004). How fading worked solution steps works — a cognitive load perspective. <em>Instructional Science, 32</em>(1–2), 59–82. <a href="https://doi.org/10.1023/b:truc.0000021815.74806.f6">doi:10.1023/b:truc.0000021815.74806.f6</a></li>
+<li>van Merriënboer, J. J. G., &amp; Kirschner, P. A. (2018). <em>Ten steps to complex learning</em> (3rd ed.). Routledge.</li>
+<li>Sweller, J., van Merriënboer, J. J. G., &amp; Paas, F. (2019). Cognitive architecture and instructional design: 20 years later. <em>Educational Psychology Review, 31</em>(2), 261–292. <a href="https://doi.org/10.1007/s10648-019-09465-5">doi:10.1007/s10648-019-09465-5</a></li>
+<li>Paas, F., &amp; van Merriënboer, J. J. G. (1994). Variability of worked examples and transfer of geometrical problem-solving skills: A cognitive-load approach. <em>Journal of Educational Psychology, 86</em>(1), 122–133. <a href="https://doi.org/10.1037/0022-0663.86.1.122">doi:10.1037/0022-0663.86.1.122</a></li>
+<li>Renkl, A., &amp; Atkinson, R. K. (2003). Structuring the transition from example study to problem solving in cognitive skill acquisition: A cognitive load perspective. <em>Educational Psychologist, 38</em>(1), 15-22. <a href="https://doi.org/10.1207/s15326985ep3801_3">doi:10.1207/s15326985ep3801_3</a></li>
+</ul>
+<!-- merged 2026-10-13 from strategies/completion-problems ("Completion Problems"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Completion Problems
+
+> **Strategy** · [All strategies](../)
+> **Evidence** · 6 claims (4 for, 1 against, 1 unmarked) · 12 studies (5 causal, 2 quant-synthesis, 2 review, 2 theoretical, 1 associational), `q1`–`q4` · 1 of 12 report an effect size · 1 claim rests on one study
+
+## Description
+A completion problem (also called a completion strategy or fade-in problem) presents learners with a task that is partially solved — the initial steps are provided, and the learner must supply the remainder. It sits between a full [worked example](../../principles/worked-examples/) and an unsolved problem, operationalizing the "completion strategy" from early cognitive load research [van Merriënboer, 1990]. As expertise grows, the proportion completed by the learner increases until they solve problems independently.
+
+## Design Implications
+
+Completion problems reduce the unguided search that overwhelms novices while still requiring generative processing — the learner must actually execute part of the solution rather than merely study one [Example–problem sequences reduce cognitive load for novices.](../../claims/worked-example-problem-sequences/) [+M]. This makes them more effective than worked examples alone at producing transferable skill, because the completion requirement combats the passive "illusion of understanding" that pure example study can induce [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../../claims/worked-examples-with-practice-improve-transfer/) [+S]. The design decision is the *completion ratio*: how much is given versus left to the learner, and how that ratio shifts across a task sequence.
+
+### Context
+#### Requirements
+- A set of high-quality worked solutions to draw the completed portion from
+- A task sequence in which the completed portion shrinks (and learner-supplied portion grows) as competence develops ([Fading](../../claims/fading-support-promotes-transfer-of-responsibility/))
+- Clear marking of which steps are given and which the learner must supply, so learners do not waste effort parsing the interface rather than the content
+- Feedback or a correct final solution available for self-checking after completion
+
+#### Constraints
+- For learners with high prior knowledge, the provided portion is redundant and adds extraneous load rather than reducing it [Guidance becomes less effective — and can reverse in benefit — as expertise grows.](../../claims/expertise-reversal-effect/) [-M]
+- If the completed portion is too large for too long, learners engage in shallow copy-and-continue behavior instead of reasoning [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../../claims/worked-examples-with-practice-improve-transfer/) [-M]
+- Poorly aligned given/learner portions (e.g., giving the conceptually hard steps and asking for mechanical ones) undermine the intended scaffolding
+- In ill-structured domains with no canonical solution path, a "partial solution" may mislead learners about the nature of the task
+
+#### Implementation Variability
+- **Forward fading**: start with a full worked example, then completion problems with decreasing support, then full problems — the classic sequence [Renkl & Atkinson, 2003]
+- **Backward fading**: begin with completion problems where only the final step is missing, then fade earlier steps in; some evidence suggests fading later steps first benefits learners with weaker prior knowledge [~M]
+- **Alternation**: interleave worked examples and isomorphic problems one-to-one rather than using completion problems as the intermediate form
+- **Error-based variants**: the given portion contains a deliberate error the learner must find and fix [Erroneous examples can build conceptual knowledge by prompting learners to explain and correct flawed solutions.](../../claims/erroneous-examples-build-conceptual-knowledge/) [+W]
+
+### Target Learners
+- Novices in a structured domain (algebra, programming, physics, statistics) who would otherwise flounder in unguided search [Example–problem sequences reduce cognitive load for novices.](../../claims/worked-example-problem-sequences/) [+M]
+- Intermediate learners transitioning from example study to independent problem solving
+- Not recommended as the default for experts, who benefit more from problem solving with minimal support [Guidance becomes less effective — and can reverse in benefit — as expertise grows.](../../claims/expertise-reversal-effect/) [-M]
+
+### Target Learning Goals
+- Procedural skill acquisition: executing the steps of a well-defined solution method
+- Schema construction: internalizing the structure of a problem type so full solutions are no longer needed
+- Self-explanation and monitoring: noticing what the given steps accomplish and why the remaining steps follow
+
+### Instructions
+1. Select or author a fully worked solution to a representative task, with each step justified ([Worked Examples](../../principles/worked-examples/)).
+2. Delete the final step(s) and ask learners to complete them, providing the solution for self-checking.
+3. Sequence subsequent tasks so the learner-supplied portion grows — fade support progressively rather than jumping from full examples to unsolved problems [Fading support promotes transfer of responsibility.](../../claims/fading-support-promotes-transfer-of-responsibility/) [+M].
+4. Prompt learners to self-explain the given steps, not just continue them [Self-explanation prompts improve learning from worked examples.](../../claims/self-explanation-improves-conceptual-understanding/) [+M].
+5. Monitor performance and adjust the fading schedule; move to independent problems once completion is consistently accurate.
+
+## Related Strategies
+
+- [Worked Examples](../worked-examples-first/) — the fully-solved endpoint of the fading continuum; completion problems are the bridge out of them
+- [Problem-Based Learning](../problem-based-learning/) — the contrast case: minimal guidance, appropriate only after schemas are established
+- [Scaffolded Practice](../scaffolded-practice-sequences/) — completion problems are a form of scaffolded practice with the scaffold defined by solution completeness
+- [Design AI educational systems that fade support and require learner justification to preserve independent problem solving](../fade-ai-support-require-justification/)
+
+## Examples
+- **van Merriënboer's programming curriculum (LOGO and Pascal studies)** — learners completed partially written programs rather than writing programs from scratch, producing better learning with less invested effort than generation from scratch.
+- **Khan Academy (https://www.khanacademy.org)** — its exercise hint system progressively reveals solution steps; a learner who takes the first hint is effectively working a completion problem.
+- **Codecademy (https://www.codecademy.com)** — early exercises provide scaffolded code with TODO gaps the learner fills, fading toward free-form projects.
+- **Math Academy (https://www.mathacademy.com)** — diagnostic-prescribed problem sequences that move from heavily supported items to independent problems as mastery evidence accumulates.
+
+## Key Sources
+- van Merriënboer, J. J. G. (1990). Strategies for programming instruction in high school: Program completion vs. program generation. *Journal of Educational Computing Research, 6*(3), 265–285.
+- Paas, F., & van Merriënboer, J. J. G. (1994). Variability of worked examples and transfer of geometrical problem-solving skills: A cognitive-load approach. *Journal of Educational Psychology, 86*(1), 122–133. [doi:10.1037/0022-0663.86.1.122](https://doi.org/10.1037/0022-0663.86.1.122)
+- Renkl, A., & Atkinson, R. K. (2003). Structuring the transition from example study to problem solving in cognitive skill acquisition: A cognitive load perspective. *Educational Psychologist, 38*(1), 15-22. [doi:10.1207/s15326985ep3801_3](https://doi.org/10.1207/s15326985ep3801_3)
+- Sweller, J., van Merriënboer, J. J. G., & Paas, F. (2019). Cognitive architecture and instructional design: 20 years later. *Educational Psychology Review, 31*(2), 261–292. [doi:10.1007/s10648-019-09465-5](https://doi.org/10.1007/s10648-019-09465-5)
+-->
+
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>strategy</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>completion-problems-first</code></td>
+</tr>
+<tr>
+<td><code>aliases</code></td>
+<td><code>completion-problems</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Completion Problems First</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>Learners begin with partially completed problems (completion problems) before moving to full problem solving, bridging worked examples and independent practice.</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>claude/unspecified</code> on <code>2026-08-30</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+<footer class="lt-footer"><span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> Copyright &copy; Learning Design Alliance — content licensed CC BY-SA 4.0</footer>
+</body>
+</html>
