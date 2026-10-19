@@ -35,7 +35,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 180 claims (77 for, 89 mixed, 14 against) · 138 studies (49 associational, 34 design, 19 theoretical, 18 review, 13 causal, 3 qualitative, 2 quant-synthesis), `q1`–`q3` · 11 of 138 report an effect size · 175 claims rest on one study
+> **Evidence** · 185 claims (81 for, 90 mixed, 14 against) · 144 studies (50 associational, 37 design, 19 review, 19 theoretical, 14 causal, 3 qualitative, 2 quant-synthesis), `q1`–`q3` · 12 of 144 report an effect size · 179 claims rest on one study
 
 ## Conditional relationship
 
@@ -278,6 +278,11 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [The Who Has More task showed moderate test-retest reliability (r = .46) in preschoolers, and the authors call for more stable ANS measures for this age](../claims/ans-task-moderate-test-retest-reliability-preschoolers.md) [~W]
 - [An LLM-based analogy judge validated against expert judgments shows moderate-to-strong agreement and screens most generated analogies as meeting baseline adequacy](../claims/anvil-llm-judge-analogy-screening.md) [~W]
 - [Almost all middle and high school academic indicators demonstrated similar predictive strength across student groups, with exceptions for science and English language arts proficiency in middle school and science proficiency and community service learning enrollment in high school](../claims/academic-indicator-predictive-strength-similar.md) [~W]
+- [CMS shows acceptable test-retest reliability and internal consistency](../claims/cms-reliability-icc-alpha.md) [+M]
+- [Classification accuracy met or exceeded benchmarks for 19 of 22 LO-assessment combinations, with three EMCS energy LOs below the acceptable range](../claims/classification-accuracy-22-lo-combinations.md) [~W]
+- [Six closed-model configurations grade at or below the human inter-grader floor of 2.61/35 on the CV exam, with the best reaching MAE 1.64](../claims/closed-llm-graders-below-human-floor.md) [+W]
+- [AI-text detectors misclassify authentic TOEFL essays by non-native English speakers at a mean false-positive rate of 61.3% across seven detectors, far more often than native-speaker essays](../claims/detector-61-3-percent-false-positives-non-native-toefl.md) [+W]
+- [The eight Barkley Current Behavior Scale items chosen for DESR show high internal consistency](../claims/desr-eight-item-scale-high-internal-consistency.md) [+W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

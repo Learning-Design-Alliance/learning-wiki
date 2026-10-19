@@ -26,7 +26,7 @@ sources:
 # Error Analysis
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 14 claims (11 for, 3 mixed) · 22 studies (8 causal, 5 theoretical, 4 quant-synthesis, 2 review, 2 associational, 1 qualitative), `q1`–`q4` · 5 of 22 report an effect size · 9 claims rest on one study
+> **Evidence** · 16 claims (12 for, 3 mixed, 1 against) · 23 studies (9 causal, 5 theoretical, 4 quant-synthesis, 2 review, 2 associational, 1 qualitative), `q1`–`q4` · 5 of 23 report an effect size · 11 claims rest on one study
 
 ## Conditional relationship
 
@@ -134,6 +134,8 @@ Correct procedures, conceptual understanding, recall of a correction and comfort
 ## Claims
 
 - [Student errors on underestimated fraction items reflect systematic misconception patterns rather than random error](../claims/fraction-errors-systematic-misconception-patterns.md) [+W]
+- [The delayed erroneous-examples advantage replicated at one school but was not statistically significant at the other](../claims/delayed-advantage-mixed-across-schools.md) [+W]
+- [Children's ability to discriminate between correct and incorrect answers did not change over training regardless of group](../claims/discrimination-unchanged-after-training.md) [-W]
 
 ## Related Principles
 - [Explaining Their Thinking](cognitive-activation.md) — self-explanation is the mechanism by which error analysis works.

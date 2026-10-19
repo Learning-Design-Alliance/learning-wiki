@@ -13,7 +13,7 @@ generated:
 # Technology Integration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 41 claims (18 for, 19 mixed, 4 against) · 42 studies (10 associational, 8 qualitative, 6 causal, 6 design, 5 review, 4 theoretical, 3 quant-synthesis), `q1`–`q4` · 5 of 42 report an effect size · 39 claims rest on one study
+> **Evidence** · 48 claims (20 for, 24 mixed, 4 against) · 48 studies (10 associational, 9 qualitative, 8 causal, 7 design, 6 review, 5 theoretical, 3 quant-synthesis), `q1`–`q4` · 5 of 48 report an effect size · 46 claims rest on one study
 
 ## Description
 Technology integration is the element in which digital tools are used in direct service of learning goals, feedback, access, or collaboration.
@@ -66,6 +66,13 @@ Technology integration is the element in which digital tools are used in direct 
 - [Undergraduate business students strongly support integrating GenAI knowledge and application into higher education curricula](../claims/business-students-support-genai-curriculum-integration.md) [~W]
 - [Concerns about accuracy, reliability, academic integrity, and potential negative effects on cognitive and social development were consistently highlighted across many included studies.](../claims/chatgpt-concerns-accuracy-integrity-development.md) [-W]
 - [ChatGPT-assisted students scored substantially higher on the coding assessment than No AI students (89% vs 69%)](../claims/chatgpt-assisted-higher-coding-performance.md) [+W]
+- [ChatGPT's intuitive interface and instant feedback can either support learning or enable superficial task completion depending on integration](../claims/chatgpt-support-or-superficial-completion.md) [~W]
+- [Teachers rated ChatGPT as effective for interdisciplinary integration, with 61% giving ratings of 4 or above](../claims/chatgpt-supports-interdisciplinary-integration-ratings.md) [~W]
+- [Teachers with constructivist beliefs are more likely to integrate educational AI-based tools than teachers with transmissive orientations (reported from a South Korean teacher study)](../claims/constructivist-beliefs-predict-ai-integration.md) [+W]
+- [ChatGPT use in STEAM IBL is reported to improve teaching efficiency, student engagement, and flexible instructional design](../claims/chatgpt-steam-ibl-teaching-process-advantages.md) [+W]
+- [Critical AI literacy emerged as both a learning-design goal and a condition of teachers' professional mediation](../claims/critical-ai-literacy-dimension.md) [~W]
+- [Access to expert-verified AI study materials is associated with a 2.34-mark difference-in-differences advantage on a 50-mark examination component, reflecting protection from a decline rather than a rise](../claims/did-2-34-mark-advantage-verified-ai-materials.md) [~W]
+- [Students raise privacy concerns about classroom speech data while teachers initially interpret CoBi as a performance-monitoring device](../claims/cobi-privacy-and-performance-monitoring-concerns.md) [~W]
 
 ## The evidence by question
 - *Does building AI tools into instruction raise achievement over teaching the same content without them, and in which settings?* [AI-supported instruction has a moderate positive effect on student achievement in STEM education (g = 0.670 under a random effects model)](../claims/ai-instruction-stem-moderate-positive-effect.md) [+M]

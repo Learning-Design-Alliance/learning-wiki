@@ -13,7 +13,7 @@ generated:
 # Information Literacy
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (3 for, 3 mixed, 2 against) · 9 studies (4 causal, 1 review, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q3` · 1 of 9 report an effect size · 7 claims rest on one study
+> **Evidence** · 9 claims (3 for, 4 mixed, 2 against) · 10 studies (4 causal, 2 qualitative, 1 review, 1 associational, 1 design, 1 theoretical), `q1`–`q3` · 1 of 10 report an effect size · 8 claims rest on one study
 
 ## Description
 Information literacy is the element in which learners identify information needs, locate sources, evaluate credibility, and use information responsibly. It is useful when tasks require judgment about evidence rather than mere retrieval.
@@ -44,6 +44,7 @@ Information literacy is the element in which learners identify information needs
 - [Students exhibited high trust in GenAI but limited critical evaluation of its outputs](../claims/high-trust-limited-critical-evaluation-genai.md) [-W]
 - [Of 178 reference sources produced by AI dialogue systems, 69 lacked a DOI and 28 could not be found via Google search and had no existing DOI](../claims/ai-confabulated-references-178-sample.md) [+W]
 - [ChatGPT biased information access toward solution-oriented artifacts over principle-oriented information](../claims/chatgpt-artifact-over-principle-bias.md) [-W]
+- [Critical AI literacy emerged as both a learning-design goal and a condition of teachers' professional mediation](../claims/critical-ai-literacy-dimension.md) [~W]
 
 ## The evidence by question
 - *Does teaching learners how to check a source improve their judgments of unfamiliar sources, and how much can one session do?* [Civic Online Reasoning Instruction Improves Evaluation](../claims/civic-online-reasoning-instruction-improves-evaluation.md) [+S]

@@ -27,7 +27,7 @@ sources:
 # Personalization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 61 claims (25 for, 27 mixed, 4 against, 5 unmarked) · 65 studies (21 review, 18 causal, 8 qualitative, 7 theoretical, 4 associational, 4 design, 3 quant-synthesis), `q1`–`q4` · 6 of 65 report an effect size · 56 claims rest on one study
+> **Evidence** · 63 claims (25 for, 28 mixed, 5 against, 5 unmarked) · 67 studies (23 review, 18 causal, 8 qualitative, 7 theoretical, 4 associational, 4 design, 3 quant-synthesis), `q1`–`q4` · 7 of 67 report an effect size · 58 claims rest on one study
 
 ## Conditional relationship
 
@@ -171,6 +171,8 @@ Engagement, immediate achievement on an aligned test, time saved, delayed retent
 ## Claims
 
 - [Industry-targeted videos scored only slightly higher on personalization depth than generic-audience videos (0.32 points; modeled increment 0.25, p = 0.11), an effect not resolved under reviewer clustering](../claims/bespoke-industry-personalization-increment-small-nonsignificant.md) [~W]
+- [ChatGPT-generated synthesis claims benefits for personalized tutoring, automated essay grading, language translation, interactive learning, and adaptive learning, citing supporting studies](../claims/chatgpt-education-benefits-taxonomy.md) [~W]
+- [Cook et al. (2009) found no support for sensing/intuitive style-by-sequence interaction in medical education](../claims/cook-medical-education-no-style-interaction.md) [-W]
 
 ## Related Principles
 - [Adaptive Learning](adaptive-learning.md) — the system-driven end of the personalization spectrum, where algorithms adjust difficulty and sequencing

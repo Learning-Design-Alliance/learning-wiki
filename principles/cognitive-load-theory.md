@@ -31,7 +31,7 @@ sources:
 # Cognitive Load Theory
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 44 claims (14 for, 29 mixed, 1 against) · 47 studies (23 causal, 11 review, 6 quant-synthesis, 6 theoretical, 1 qualitative), `q1`–`q4` · 8 of 47 report an effect size · 34 claims rest on one study
+> **Evidence** · 47 claims (16 for, 29 mixed, 2 against) · 49 studies (23 causal, 12 review, 7 theoretical, 6 quant-synthesis, 1 qualitative), `q1`–`q4` · 8 of 49 report an effect size · 37 claims rest on one study
 
 ## Conditional relationship
 
@@ -129,6 +129,9 @@ A learning-phase efficiency gain, immediate performance, near transfer, delayed 
 - [Task difficulty strongly determined task performance: boredom conditions scored highest and overload conditions lowest in both ICL studies](../claims/difficulty-determines-task-performance-boredom-highest.md) [+W]
 - [Drawing support increased rather than decreased perceived difficulty, indicating cognitive overload](../claims/drawing-support-increased-perceived-difficulty.md) [-W]
 - [Low information density reduces mental effort and increases efficiency during the collaborative learning phase](../claims/zambrano-2019-low-density-lower-effort-learning.md) [+W]
+- [The article analyzes the consequences of explaining the various cognitive load effects in terms of element interactivity](../claims/cognitive-load-effects-reexplained-via-element-interactivity.md) [+W]
+- [Cognitive Load Theory lacks a motivational focus, which becomes problematic when interpreting interventions that foster effortful learning strategies](../claims/clt-motivation-gap.md) [-W]
+- [Cognitive load in concurrent storage-processing tasks has a negative linear effect on memory span](../claims/cognitive-load-negative-linear-span-effect.md) [+W]
 
 ## Related Principles
 - [Scaffolding](scaffolding.md)

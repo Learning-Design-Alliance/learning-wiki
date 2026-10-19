@@ -12,7 +12,7 @@ generated:
 # Ellsworth's Framework of Educational Change
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (2 for, 3 mixed) · 4 studies (1 causal, 1 review, 1 associational, 1 qualitative), `q1`–`q2` · 0 of 4 report an effect size · 5 claims rest on one study
+> **Evidence** · 6 claims (3 for, 3 mixed) · 4 studies (1 causal, 1 review, 1 associational, 1 qualitative), `q1`–`q2` · 0 of 4 report an effect size · 6 claims rest on one study
 
 ## Description
 Ellsworth surveys the research on educational change and groups it into a small set of perspectives, or "models", each represented by one author or group. Following Rogers's observation that change is a special case of communication, Ellsworth arranges them into one framework. A **change agent** wishes to communicate an **innovation** to an **intended adopter**. This is done through a **change process**, which opens a channel through the **change environment**. The environment also contains **resistance**, which can disrupt the process or distort how the innovation appears to the adopter. Each model addresses one part of that picture:
@@ -52,6 +52,7 @@ Its concluding argument is systemic. A single innovation foreign to the rest of 
 - [One student's resistance to GenAI was entangled with neurodiversity, a biological conception of authentic effortful learning, and anxieties about rapid technological change](../claims/genai-resistance-entangled-neurodiversity-authenticity.md) [~W]
 - [Innovation attributes catalyse both intention to use and actual adoption of AI-enabled systems](../claims/innovation-attributes-drive-intention-and-adoption.md) [~W]
 - [Student dyads given planning software enacted changed practices not intended by designers or facilitators](../claims/planning-software-enactment-practices-changed-unintended.md) [~W]
+- [Students at the same university interpreted and responded to GenAI policy in markedly different ways, from embracing adoption to principled resistance](../claims/divergent-student-responses-genai-policy.md) [+W]
 
 ## The evidence by question
 

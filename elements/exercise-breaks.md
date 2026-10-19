@@ -13,7 +13,7 @@ generated:
 # Exercise Breaks
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (6 for, 3 mixed) · 9 studies (4 quant-synthesis, 3 review, 1 causal, 1 qualitative), `q1`–`q3` · 4 of 9 report an effect size · 7 claims rest on one study
+> **Evidence** · 10 claims (6 for, 4 mixed) · 10 studies (4 quant-synthesis, 3 review, 2 causal, 1 qualitative), `q1`–`q3` · 4 of 10 report an effect size · 8 claims rest on one study
 
 ## Description
 Exercise breaks are brief (typically 4–20 minute) episodes of moderate-to-vigorous physical activity — movement games, stretching, jumping, or walking — inserted between instructional segments. They function as attention-restoration and consolidation opportunities rather than as fitness interventions, though regular classroom physical activity also contributes to health outcomes.
@@ -59,6 +59,7 @@ Short aerobic activity reliably improves subsequent attention and on-task behavi
 - [Classroom-based physical activity interventions improve attention and/or on-task behavior in most reviewed studies of schoolchildren aged 4–18](../claims/cbpa-improves-attention-on-task-schoolchildren.md) [+W]
 - [In two reviewed studies, CB-PA improvements in attention measures were moderated by other variables such as cognitive engagement and timing](../claims/cbpa-effects-moderated-cognitive-engagement-timing.md) [~W]
 - [CB-PA interventions show no significant improvement in attention or on-task behavior in two of the twenty reviewed studies](../claims/cbpa-null-results-two-studies.md) [~W]
+- [A single bout of closed-skill exercise improves short-term memory performance only in older primary-school children (9–10 years), not in 7–8-year-olds.](../claims/closed-skill-exercise-improves-stm-older-children-only.md) [~W]
 
 ## Related Elements
 - [Attention](attention.md) — the resource exercise breaks restore; schedule breaks against attentional demand, not the clock alone

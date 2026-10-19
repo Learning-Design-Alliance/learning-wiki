@@ -13,7 +13,7 @@ generated:
 # Learning Management Systems
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (1 for, 1 mixed, 2 against) · 4 studies (2 theoretical, 1 associational, 1 qualitative), `q1`–`q3` · 0 of 4 report an effect size · 4 claims rest on one study
+> **Evidence** · 6 claims (1 for, 3 mixed, 2 against) · 5 studies (2 associational, 2 theoretical, 1 qualitative), `q1`–`q3` · 0 of 5 report an effect size · 6 claims rest on one study
 
 ## Description
 Learning management systems are the element in which course organization, materials, communication, and tracking are coordinated through an LMS.
@@ -27,6 +27,8 @@ Learning management systems are the element in which course organization, materi
 - [AI agent activity in an LMS is indistinguishable from normal student activity, defeating detection and proctoring](../claims/ai-agent-activity-indistinguishable-from-students.md) [-W]
 - [LMS activity contributes only modestly to explained variance in exam grades, and gender-by-LMS interactions add no explained variance in any course](../claims/lms-activity-no-gap-reduction.md) [-W]
 - [AI agents can now navigate and complete tasks within learning management systems](../claims/ai-agents-navigate-and-complete-lms-tasks.md) [~W]
+- [Computer anxiety negatively affects students' perceived ease of use of a learning management system](../claims/computer-anxiety-negative-effect-lms-peu.md) [~W]
+- [Computer self-efficacy significantly mediates the effect of computer anxiety on perceived ease of use of an LMS](../claims/cse-mediates-anxiety-peu-lms.md) [~W]
 
 ## Related Elements
 - [Resource Hubs](resource-hubs.md)

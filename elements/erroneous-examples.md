@@ -18,7 +18,7 @@ sources:
 # Erroneous Examples
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies (1 causal, 1 quant-synthesis), `q3` · 0 of 2 report an effect size
+> **Evidence** · 2 claims (2 for) · 3 studies (2 causal, 1 quant-synthesis), `q3` · 0 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 Erroneous examples are worked examples that intentionally contain a mistake for learners to identify, explain, and correct. They are useful when the design goal is to make misconceptions visible and strengthen conceptual discrimination, not just demonstrate a correct procedure.
@@ -48,6 +48,7 @@ Erroneous examples are worked examples that intentionally contain a mistake for 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Erroneous examples improve conceptual understanding by forcing comparison with correct models.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+S]
+- [The delayed erroneous-examples advantage replicated at one school but was not statistically significant at the other](../claims/delayed-advantage-mixed-across-schools.md) [+W]
 
 ## Related Elements
 - [Worked Examples](worked-examples.md)

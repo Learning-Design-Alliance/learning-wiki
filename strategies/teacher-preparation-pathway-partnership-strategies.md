@@ -17,7 +17,7 @@ sources:
 # Districts respond to shortages with teacher preparation and pathway strategies, especially partnerships coordinating student teaching and residency placements
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Almost all shortage districts (93%) report adopting one or more preparation/pathway strategies: 72% work with teacher preparation programs to coordinate student teacher or residency placements, 62% to communicate hiring needs, 56% develop teacher leadership roles, and smaller shares build paraprofessional, high school career, and volunteer pathways ("sometimes referred to as Grow Your Own teacher preparation models").
@@ -35,6 +35,10 @@ Almost all shortage districts (93%) report adopting one or more preparation/path
 
 ### Target Learning Goals
 - Access to fully credentialed teachers in all subjects and grades
+
+## Claims
+
+- [Student teachers hired by their field-placement school had higher first-year evaluation ratings than those hired elsewhere in CPS](../claims/cps-student-teachers-hired-in-placement-school-higher-first-year-ratings.md) [+W]
 
 ## Related Strategies
 

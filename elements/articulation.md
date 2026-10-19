@@ -13,7 +13,7 @@ generated:
 # Articulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 8 studies (2 causal, 2 quant-synthesis, 2 associational, 2 qualitative), `q2`–`q4` · 2 of 8 report an effect size · 4 claims rest on one study
+> **Evidence** · 6 claims (3 for, 2 mixed, 1 against) · 9 studies (3 qualitative, 2 causal, 2 quant-synthesis, 2 associational), `q1`–`q4` · 2 of 9 report an effect size · 5 claims rest on one study
 
 ## Description
 Articulation asks learners to verbalize their thought processes, reasoning, and problem-solving strategies as they work — explaining what they are doing, why, and how they know. It functions as both a learning mechanism (verbalization forces organization of knowledge) and an assessment mechanism (instructors can diagnose reasoning errors that silent work conceals). In [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md), articulation is the phase that follows modeling and coaching: learners make their own thinking visible just as the expert made theirs visible during demonstration.
@@ -58,6 +58,7 @@ Articulation strengthens metacognition and conceptual clarity because converting
 - [Task instruction significantly affected verbalized local-level selection reasons, with the linguistic task yielding more matching verbalizations than the other two tasks](../claims/local-task-level-significant-task-verbalization-match.md) [~W]
 - [Verbal interaction in a PBL tutorial group shows only part of the underlying cognitive and metacognitive processes](../claims/pbl-verbal-interaction-tip-of-iceberg.md) [-W]
 - [The think-aloud measure predicts word problem solving performance, explaining 33 percent of variance](../claims/think-aloud-measure-predicts-problem-solving.md) [+W]
+- [Oral and explanation-based evaluation of AI-leveraged projects is complicated because students may break down on counterfactual questions even when they did the work](../claims/counterfactual-breakdown-complicates-oral-evaluation.md) [~W]
 
 ## Related Elements
 - [Self-Explanation](self-explanation.md) — the private, prompted form of articulation; articulation adds a social or diagnostic audience

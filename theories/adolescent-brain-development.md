@@ -12,7 +12,7 @@ generated:
 # Adolescent Brain Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (2 for, 3 mixed) · 5 studies (2 causal, 2 review, 1 associational), `q2`–`q3` · 1 of 5 report an effect size · 5 claims rest on one study
+> **Evidence** · 6 claims (3 for, 3 mixed) · 6 studies (2 causal, 2 review, 2 associational), `q2`–`q3` · 2 of 6 report an effect size · 6 claims rest on one study
 
 ## Description
 The adolescent brain undergoes substantial restructuring between roughly ages 10 and 25, and the *sequence* of that restructuring — not just its extent — has direct implications for how adolescents learn, take risks, and regulate emotion. The **limbic system**, which governs reward-seeking and emotional response, matures years ahead of the **prefrontal cortex**, which governs executive functions such as impulse control, planning, emotion regulation, and sustained attention. Steinberg (2008) describes this as "a powerful engine before the braking system is in place" — adolescents have an adult-level capacity for reward-seeking and emotional intensity well before they have an adult-level capacity to regulate it.
@@ -43,6 +43,7 @@ Executive functions — impulse control, cognitive flexibility, working memory, 
 - [Adults show larger left IFG/MFG condition effects (AU relative to baseline) than adolescents, indicating adolescents do not yet recruit left lateral PFC at an adult level for creative thinking](../claims/adolescents-immature-left-lateral-pfc-recruitment.md) [~W]
 - [Adults show greater left inferior lateral PFC activation than adolescents during relational integration](../claims/adults-greater-left-inferior-pfc-relational-activation.md) [~W]
 - [Adolescents show disproportionately greater false alarms on happy no-go trials with heightened ventral striatum activity](../claims/adolescent-happy-nogo-false-alarm-ventral-striatum.md) [+W]
+- [Cool executive function measures show ascending age-related growth across adolescence, with a growth spurt around age 14–15](../claims/cool-ef-ascending-growth-adolescence.md) [+W]
 
 ## Related Theories
 - [Stages of Cognitive Development](stages-of-cognitive-development.md) — formal operational reasoning and adolescent risk-taking co-occur; the capacity for abstract, hypothetical reasoning does not by itself guarantee its consistent application under emotional or social pressure

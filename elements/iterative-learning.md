@@ -13,7 +13,7 @@ generated:
 # Iterative Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 12 claims (9 for, 2 mixed, 1 against) · 12 studies (3 causal, 3 design, 2 quant-synthesis, 2 review, 2 qualitative), `q1`–`q4` · 3 of 12 report an effect size · 11 claims rest on one study
+> **Evidence** · 13 claims (9 for, 3 mixed, 1 against) · 13 studies (3 causal, 3 design, 2 quant-synthesis, 2 review, 2 qualitative, 1 associational), `q1`–`q4` · 4 of 13 report an effect size · 12 claims rest on one study
 
 ## Description
 Iterative learning is the element in which learners improve through repeated cycles of attempt, feedback, revision, and retry. It is useful when quality emerges through refinement rather than one-shot performance.
@@ -49,6 +49,7 @@ Iterative learning is the element in which learners improve through repeated cyc
 - [Most models struggle to engage with a student's prior debugging attempts even when the iteration history is provided](../claims/models-struggle-acknowledging-debugging-progression.md) [-W]
 - [AI-supported design iteration consists of generation, selection, evaluation, and revision rather than one-off generation](../claims/ai-iteration-generation-selection-evaluation-revision.md) [+W]
 - [Problem decomposition, artifact creation, data practices, and testing/debugging appear in all 28 reviewed CT manuscripts, while iterative refinement appears in 17](../claims/ct-aspect-coverage-across-ct-literature.md) [~W]
+- [Sufficient clinical feedback predicts TPA passing for preservice candidates but not for internship candidates](../claims/clinical-feedback-predicts-tpa-passing-preservice-only.md) [~W]
 
 ## The evidence by question
 

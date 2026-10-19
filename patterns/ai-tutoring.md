@@ -14,7 +14,7 @@ grain_size: course
 # AI Tutoring
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 256 claims (126 for, 85 mixed, 45 against) · 183 studies (62 causal, 39 review, 22 theoretical, 21 design, 18 quant-synthesis, 11 qualitative, 10 associational), `q1`–`q4` · 36 of 183 report an effect size · 242 claims rest on one study
+> **Evidence** · 263 claims (130 for, 88 mixed, 45 against) · 186 studies (63 causal, 40 review, 22 design, 22 theoretical, 18 quant-synthesis, 11 qualitative, 10 associational), `q1`–`q4` · 39 of 186 report an effect size · 249 claims rest on one study
 
 ## Description and scope
 
@@ -264,6 +264,13 @@ This pattern is scoped to the tutor's moves within tasks and the handoff to peop
 - [Ambient consumer AI use in the holdout did not close the structured-tutor gap](../claims/ambient-consumer-ai-did-not-close-tutor-gap.md) [+W]
 - [Boundary conditions on verification and reliance include prior knowledge, learner characteristics, task stakes, verifiability, costs, accountability, AI system configuration, and multidimensional AI literacy](../claims/boundary-conditions-verification-reliance-genai.md) [~W]
 - [AI chatbots provide students detailed feedback, step-by-step homework solutions, and self-quizzing support](../claims/chatbot-homework-study-assistance.md) [+W]
+- [Students teaching the ChatGPT agent passed the online judge with fewer code submission attempts than control students](../claims/chatgpt-teachable-agent-fewer-submission-attempts.md) [+W]
+- [ChatGPT-generated synthesis claims benefits for personalized tutoring, automated essay grading, language translation, interactive learning, and adaptive learning, citing supporting studies](../claims/chatgpt-education-benefits-taxonomy.md) [+W]
+- [Teaching a ChatGPT agent yields significantly higher code clearness and readability scores than learning from online videos, but not higher code correctness](../claims/chatgpt-teachable-agent-code-clearness-readability.md) [+W]
+- [Post-test mean learning outcomes were 81.81 in the ChatGPT class versus 70.45 in the conventional class](../claims/chatgpt-experimental-mean-81-81-vs-control-70-45.md) [+W]
+- [Open ChatGPT support increases college students' final decision confidence relative to independent decision-making, and reflection attenuates the boost](../claims/chatgpt-support-increases-final-confidence.md) [~W]
+- [Adaptive multi-turn interactions substantially amplify LLM vulnerabilities to conventional safety risks in educational contexts](../claims/dynamic-multi-turn-amplifies-conventional-risks.md) [~W]
+- [DTR (Deep-Thinking Ratio) does not predict tutoring quality despite predicting math accuracy](../claims/dtr-does-not-predict-tutoring-quality.md) [~W]
 
 ## Related Patterns
 

@@ -13,7 +13,7 @@ generated:
 # Modeling
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 11 claims (6 for, 5 mixed) · 11 studies (6 causal, 3 review, 1 associational, 1 theoretical), `q1`–`q3` · 2 of 11 report an effect size · 8 claims rest on one study
+> **Evidence** · 12 claims (7 for, 5 mixed) · 12 studies (6 causal, 4 review, 1 associational, 1 theoretical), `q1`–`q3` · 2 of 12 report an effect size · 9 claims rest on one study
 
 ## Description
 Modeling is the instructional element in which an instructor, expert, or advanced peer demonstrates expert thinking and behavior — making both the actions and the reasoning behind them visible. It functions as the observational entry point to skill acquisition: learners study a competent performance, including its decision points and self-monitoring, before producing their own attempts.
@@ -61,6 +61,7 @@ Modeling provides structured exposure to expert-level reasoning, reducing the un
 - [Studying a video modeling example produces large pretest-to-posttest gains in learning and near transfer of probability calculation for novice secondary students, regardless of model or observer gender](../claims/video-modeling-examples-large-gains-probability-novices.md) [+W]
 - [Adding theory annotations to a video model yields no additional skill benefit over the same unannotated model](../claims/theory-annotation-no-extra-skill-benefit.md) [~W]
 - [Judgment-of-learning accuracy after video modeling examples does not differ by model or observer gender, and students of both genders predict their performance accurately](../claims/jol-accuracy-unaffected-by-gender-video-modeling.md) [~W]
+- [Cognitive modeling raised division skill more than didactic instruction while both raised self-efficacy equally, with self-efficacy mediating treatment effects](../claims/cognitive-modeling-versus-didactic-instruction-division.md) [+W]
 
 ## The evidence by question
 - *Should modelling come before the learner's first attempts?* [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S]

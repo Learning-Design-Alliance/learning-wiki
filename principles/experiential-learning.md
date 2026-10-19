@@ -27,7 +27,7 @@ sources:
 # Experiential Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 22 claims (14 for, 8 mixed) · 33 studies (10 causal, 8 quant-synthesis, 5 qualitative, 4 review, 4 theoretical, 1 associational, 1 design), `q1`–`q4` · 6 of 33 report an effect size · 16 claims rest on one study
+> **Evidence** · 23 claims (14 for, 9 mixed) · 34 studies (10 causal, 8 quant-synthesis, 5 qualitative, 4 review, 4 theoretical, 2 associational, 1 design), `q1`–`q4` · 7 of 34 report an effect size · 17 claims rest on one study
 
 ## Conditional relationship
 
@@ -146,6 +146,7 @@ An engaging experience, an immediate skill gain, an explanation, near transfer, 
 - [Claremont residents develop lesson planning skill through 5 weeks of iterative revision with instructor feedback before clinical placements](../claims/iterative-lesson-planning-before-clinical-placement.md) [~W]
 - [Conscientization, grounded in Freire's consciousness-raising, is argued to fit adventure therapy's experiential learning methodology as the first empowerment level](../claims/conscientization-fits-adventure-therapy.md) [~W]
 - [Microgenetic analysis showed the reflection condition diverged from the control condition in Weakening-Other usage only after reflective activities were introduced](../claims/microgenetic-divergence-weakening-other-after-reflection.md) [~W]
+- [Sufficient clinical feedback predicts TPA passing for preservice candidates but not for internship candidates](../claims/clinical-feedback-predicts-tpa-passing-preservice-only.md) [~W]
 
 ## Related Principles
 - [Debriefing](debriefing.md) — a core mechanism for making experience educative

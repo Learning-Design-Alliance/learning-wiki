@@ -13,7 +13,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 150 claims (72 for, 65 mixed, 13 against) · 121 studies (45 causal, 19 quant-synthesis, 19 review, 13 associational, 11 qualitative, 9 design, 5 theoretical), `q1`–`q4` · 31 of 121 report an effect size · 129 claims rest on one study
+> **Evidence** · 151 claims (72 for, 66 mixed, 13 against) · 122 studies (45 causal, 19 quant-synthesis, 19 review, 14 associational, 11 qualitative, 9 design, 5 theoretical), `q1`–`q4` · 31 of 122 report an effect size · 130 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? (Hattie & Timperley, 2007). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -199,6 +199,7 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Students who preferred AI feedback cited clarity, understandability, consistency, specificity, and 24/7 availability](../claims/ai-feedback-preference-clarity-availability-reasons.md) [+W]
 - [Anonymous asynchronous online peer review of writing: lower-skill students sometimes felt inferior yet increased determination, while better writers felt they learned less](../claims/anonymous-online-peer-review-differential-responses.md) [~W]
 - [Acceptance rates increase with writing progress, with the L2-over-L1 advantage widening in later stages](../claims/acceptance-increases-with-writing-progress.md) [~W]
+- [The study compared feedback-uptake relationships across two immersion settings totaling 18.3 hr of French and 14.8 hr of Japanese classroom interaction](../claims/comparative-feedback-analysis-french-japanese-immersion-hours.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

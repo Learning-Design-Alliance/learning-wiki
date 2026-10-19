@@ -39,7 +39,7 @@ sources:
 # Cognitive Load Management
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 44 claims (20 for, 22 mixed, 2 against) · 44 studies (20 causal, 10 review, 8 quant-synthesis, 5 theoretical, 1 design), `q1`–`q4` · 16 of 44 report an effect size · 36 claims rest on one study
+> **Evidence** · 46 claims (21 for, 23 mixed, 2 against) · 45 studies (20 causal, 11 review, 8 quant-synthesis, 5 theoretical, 1 design), `q1`–`q4` · 16 of 45 report an effect size · 38 claims rest on one study
 
 ## Conditional relationship
 
@@ -142,6 +142,8 @@ A learning-phase efficiency gain, immediate performance, near transfer, delayed 
 - [The efficiency advantage of prior collaborative experience emerges under high information density but not under low information density](../claims/zambrano-2019-efficiency-advantage-only-high-density.md) [~W]
 - [Expert example standards increase subjective task difficulty and mental effort during example evaluation](../claims/expert-standards-increase-difficulty-effort.md) [~W]
 - [Low information density reduces mental effort and increases efficiency during the collaborative learning phase](../claims/zambrano-2019-low-density-lower-effort-learning.md) [+W]
+- [Collaborative learning distributes cognitive load across multiple working memories, aiding learning of high-load tasks](../claims/collaborative-learning-collective-working-memory-advantage.md) [+W]
+- [Disfluency does not automatically elicit effortful processing; test expectancy improves retention and transfer while disfluency has no effect](../claims/disfluency-no-effect-test-expectancy.md) [~W]
 
 ## Related Principles
 - [Segmenting Principle](segmenting.md)

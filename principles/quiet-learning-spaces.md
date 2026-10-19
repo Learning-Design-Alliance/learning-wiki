@@ -30,7 +30,7 @@ sources:
 # Quiet Learning Spaces
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (10 for, 7 mixed) · 28 studies (10 causal, 5 quant-synthesis, 5 review, 5 associational, 3 theoretical), `q2`–`q4` · 6 of 28 report an effect size · 10 claims rest on one study
+> **Evidence** · 19 claims (12 for, 7 mixed) · 31 studies (10 causal, 8 review, 5 quant-synthesis, 5 associational, 3 theoretical), `q2`–`q4` · 6 of 31 report an effect size · 11 claims rest on one study
 
 ## Conditional relationship
 
@@ -151,6 +151,8 @@ Claims this page cited before it was rewritten, and neighbouring claims found wh
 ## Claims
 
 - [Students with visible notifications check their phones more frequently in class than students with hidden notifications](../claims/notification-revealed-higher-phone-use-frequency.md) [+W]
+- [Children are more susceptible than adults to the effects of environmental noise on cognitive performance](../claims/children-more-susceptible-to-noise-than-adults.md) [+W]
+- [Chronic aircraft noise exposure is associated with lower reading comprehension in children, with a linear exposure–effect relationship](../claims/chronic-aircraft-noise-lower-reading-comprehension.md) [+M]
 
 ## Related Principles
 - [Instructor Accessibility](instructor-accessibility.md) — accessible learning conditions include environmental supports, not just interpersonal support.

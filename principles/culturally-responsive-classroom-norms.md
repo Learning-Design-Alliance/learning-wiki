@@ -19,7 +19,7 @@ sources:
 # Culturally Responsive Classroom Norms
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 19 claims (13 for, 5 mixed, 1 against) · 25 studies (7 causal, 7 quant-synthesis, 6 review, 2 qualitative, 2 theoretical, 1 associational), `q1`–`q4` · 6 of 25 report an effect size · 11 claims rest on one study
+> **Evidence** · 20 claims (13 for, 6 mixed, 1 against) · 26 studies (7 causal, 7 quant-synthesis, 6 review, 2 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 6 of 26 report an effect size · 12 claims rest on one study
 
 ## Conditional relationship
 
@@ -145,6 +145,7 @@ Response quality during questioning, accuracy of the teacher's judgement, partic
 - [Teachers of AI/AN students use collaborative response formats such as white boards and choral response rather than direct individual questioning, as culturally appropriate alternatives](../claims/collaborative-response-formats-ai-an-classrooms.md) [+W]
 - [Both learners perceived they were expected to talk more in American university English classes than in Japanese university classes](../claims/us-classes-expected-more-talk-than-japanese.md) [~W]
 - [Teachers give disinvited students less wait time than invited students when they cannot answer questions](../claims/wait-time-invited-disinvited-students.md) [-W]
+- [Chinese teachers emphasize competition among students more than Flemish teachers, while perceived power distance and collaboration are similar across the two groups](../claims/chinese-teachers-emphasize-competition-more.md) [~W]
 
 ## Related Principles
 - [Social Interdependence](social-interdependence.md) — cooperative-learning structures directly serve students whose cultural background favors an interdependent self-concept

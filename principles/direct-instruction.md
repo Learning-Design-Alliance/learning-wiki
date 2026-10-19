@@ -19,7 +19,7 @@ sources:
 # Direct Instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (12 for, 13 mixed) · 32 studies (11 quant-synthesis, 9 causal, 5 review, 5 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 7 of 32 report an effect size · 17 claims rest on one study
+> **Evidence** · 26 claims (13 for, 13 mixed) · 33 studies (11 quant-synthesis, 9 causal, 5 review, 5 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 7 of 33 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 
@@ -110,6 +110,7 @@ Immediate procedural performance, conceptual understanding, transfer, delayed re
 - [The TBI advantage over SBI is larger under open-ended tasks than under structured tasks](../claims/tbi-advantage-larger-under-oet-interaction.md) [~W]
 - [Unguided or minimally guided instructional approaches are popular and intuitively appealing but ignore human cognitive architecture and the empirical evidence](../claims/minimally-guided-approaches-ignore-cognitive-architecture.md) [+W]
 - [Feedback effectiveness varied by content recency: guidance-heavy feedback performed less consistently on newer material released after the model's knowledge cutoff](../claims/content-recency-moderates-feedback-effectiveness.md) [~W]
+- [Do-it-yourself digital learning alone can exacerbate digital inequalities because learners hit a wall requiring direct guided instruction](../claims/diy-digital-learning-hits-wall.md) [+W]
 
 ## Related Principles
 - [Modeling](modeling.md) — direct instruction depends on visible demonstration, not verbal explanation alone

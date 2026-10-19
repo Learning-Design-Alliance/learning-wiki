@@ -13,7 +13,7 @@ generated:
 # Metacognitive Reflection
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (1 for, 3 mixed) · 4 studies (1 causal, 1 review, 1 associational, 1 qualitative), `q2`–`q3` · 1 of 4 report an effect size · 4 claims rest on one study
+> **Evidence** · 5 claims (1 for, 4 mixed) · 5 studies (2 associational, 1 causal, 1 review, 1 qualitative), `q2`–`q3` · 2 of 5 report an effect size · 5 claims rest on one study
 
 ## Description
 Metacognitive reflection is the element in which learners examine how they thought, what strategies they used, where they were confused, and what they should do next. It is useful when the goal is to make reflection more explicitly about thinking and strategy, not just about feelings or outcomes.
@@ -40,6 +40,7 @@ Metacognitive reflection is the element in which learners examine how they thoug
 - [The indirect effect of GenAI use on critical thinking via feedback literacy is conditional on reflective thinking, strengthening as reflectivity rises](../claims/moderated-mediation-indirect-effect-conditional-reflective-thinking.md) [~W]
 - [Adolescents who engaged in reflective activities alongside dialogic argumentation showed greater gains in using evidence to weaken the opposing position than peers who only argued](../claims/reflection-boosts-weakening-other-argument-skill.md) [+W] — attached 2026-10-19 from Iordanou (2022), which proposed "Reflection sheets prompting reflection on one's own dialog transcript during argumentation"; tests this page's relationship.
 - [Reflection increased in the adaptable and non-adaptable script conditions, but only the adaptable script had positive effects on monitoring, supporting overall positive effects on self-regulation](../claims/adaptable-script-monitoring-self-regulation-effects.md) [~W]
+- [Five- and six-year-olds describe changing thoughts more often than changing goals as a metacognitive strategy](../claims/children-change-thoughts-more-than-goals.md) [~W]
 
 ## Related Elements
 - [Reflection Activities](reflection-activities.md)

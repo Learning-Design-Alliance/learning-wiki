@@ -17,7 +17,7 @@ sources:
 # The five essential supports framework: five mutually reinforcing organizational dimensions that enable or inhibit improvement in classroom practices
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 24 claims (23 for, 1 against) · 17 studies (7 associational, 4 qualitative, 2 review, 2 design, 1 causal, 1 theoretical), `q2`–`q3` · 0 of 17 report an effect size · 23 claims rest on one study
+> **Evidence** · 25 claims (24 for, 1 against) · 18 studies (7 associational, 5 qualitative, 2 review, 2 design, 1 causal, 1 theoretical), `q2`–`q3` · 0 of 18 report an effect size · 24 claims rest on one study
 
 ## Description
 The five essential supports framework specifies five school- or center-level organizational subsystems—effective leaders, collaborative teachers, involved families, supportive environment, and ambitious instruction—that operate in strong cooperation to enable or inhibit improvement in classroom practices. The article states that "when one of the essential supports is strengthened, it buttresses the development of the other supports," and that school leadership is theorized to be the catalyst that strengthens the other four. The authors adapt this framework, originally developed for elementary schools by Bryk et al. (2010), to early education settings with revised definitions such as "Effective Instructional Leaders."
@@ -61,6 +61,7 @@ The five essential supports framework specifies five school- or center-level org
 - [Within schools, principal leadership shows a negative direct relationship with classroom academic demands net of mediating factors](../claims/within-school-direct-negative-leadership-academic-demand.md) [-W]
 - [Principal turnover is associated with lower student achievement, worse climate, and higher teacher attrition, with effects lasting up to 5 years](../claims/principal-turnover-harms-achievement-climate-retention.md) [+W]
 - [Teachers reporting higher leadership effectiveness and supports have lower predicted turnover (9.0% vs. 18.7% for low-leadership teachers)](../claims/school-leadership-associated-with-lower-turnover.md) [+W]
+- [English/language arts classes in high-performing CHSRI schools required high academic demand, with high-level skill activities in 21 of 23 observed classes](../claims/chsri-classes-high-academic-demand.md) [+W]
 
 ## The evidence by question
 

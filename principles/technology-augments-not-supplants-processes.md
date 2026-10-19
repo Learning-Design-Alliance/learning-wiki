@@ -31,7 +31,7 @@ sources:
 # Technology should augment, not supplant, learning processes in student-centered environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 141 claims (89 for, 42 mixed, 10 against) · 113 studies (27 qualitative, 26 theoretical, 22 review, 18 causal, 12 design, 8 associational), `q1`–`q4` · 7 of 113 report an effect size · 137 claims rest on one study
+> **Evidence** · 142 claims (89 for, 43 mixed, 10 against) · 113 studies (27 qualitative, 26 theoretical, 22 review, 18 causal, 12 design, 8 associational), `q1`–`q4` · 7 of 113 report an effect size · 138 claims rest on one study
 
 ## Conditional relationship
 
@@ -268,6 +268,7 @@ Assisted performance, unaided immediate performance, delayed retention, transfer
 - [The article reports observational patterns that AI assistance can improve short-term performance while reducing cognitive engagement and independent capability](../claims/ai-assistance-performance-without-internalization.md) [+W]
 - [When AI assistance is withdrawn, student performance tends to decline, revealing a lack of internalized learning strategies](../claims/ai-assistance-withdrawal-performance-decline.md) [~W]
 - [AI support can improve task performance while weakening users' metacognitive accuracy and leaving their own reasoning unimproved](../claims/ai-performance-metacognition-dissociation.md) [-W]
+- [AI-assisted ideation was conditionally acceptable when researchers retained decision-making authority, but problematic when it displaced conceptual labour](../claims/conditional-ideation-dialogic-aid-vs-outsourcing.md) [~W]
 
 ## Related Principles
 

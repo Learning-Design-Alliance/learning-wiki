@@ -30,7 +30,7 @@ sources:
 # Explicit Instruction: Computer Basics
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (11 for, 6 mixed) · 25 studies (10 causal, 6 review, 3 quant-synthesis, 3 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 1 of 25 report an effect size · 11 claims rest on one study
+> **Evidence** · 18 claims (12 for, 6 mixed) · 26 studies (10 causal, 6 review, 3 quant-synthesis, 3 theoretical, 2 qualitative, 1 associational, 1 design), `q1`–`q4` · 1 of 26 report an effect size · 12 claims rest on one study
 
 ## Conditional relationship
 
@@ -148,6 +148,10 @@ Claims about digital skills read for this page and not used in the model, with h
 The expectation should weaken if comparisons of explicit instruction with guided exploration or with self-paced tutorials, on matched adult novices and their own devices, show no difference in unaided performance at a delay, or show that a gain at the end of the course is gone a month later at home. If learners taught by demonstration and practice cope worse with unfamiliar screens than learners who explored with support, the late sessions should open earlier to untaught tasks. If small-group or peer-supported practice matches one-to-one help, the one-to-one preference is a cost, not a requirement. If older adults do as well with the same pace as younger learners, drop the pacing changes for them. Do not protect the model by calling every failure "too fast" or "not enough practice" after the fact.
 
 Doing a routine with the tutor beside them, doing it unaided at the end of a session, doing it at home weeks later, doing the learner's own task, and coping with a new screen are separate claims. The present evidence establishes none of them for computer basics; it establishes no number of sessions, no routine size and no hand-over criterion.
+
+## Claims
+
+- [Do-it-yourself digital learning alone can exacerbate digital inequalities because learners hit a wall requiring direct guided instruction](../claims/diy-digital-learning-hits-wall.md) [+W]
 
 ## Related Principles
 - [Clear Structure & Presentation](clear-structure.md) — digital-skills instruction benefits from visible step structure and stable conventions

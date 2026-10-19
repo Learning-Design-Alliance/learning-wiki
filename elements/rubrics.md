@@ -14,7 +14,7 @@ generated:
 # Rubrics
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 15 claims (9 for, 4 mixed, 2 against) · 16 studies (6 causal, 4 associational, 3 review, 2 quant-synthesis, 1 design), `q2`–`q3` · 4 of 16 report an effect size · 12 claims rest on one study
+> **Evidence** · 16 claims (10 for, 4 mixed, 2 against) · 17 studies (7 causal, 4 associational, 3 review, 2 quant-synthesis, 1 design), `q2`–`q3` · 4 of 17 report an effect size · 13 claims rest on one study
 
 ## Description
 Rubrics are the element in which criteria and performance levels are made explicit to guide quality work and evaluation.
@@ -45,6 +45,7 @@ Rubrics are the element in which criteria and performance levels are made explic
 - [Providing a rubric during self-assessment improves the absolute accuracy of high school students' self-assessments of written scientific abstracts](../claims/rubrics-improve-absolute-self-assessment-accuracy.md) [+W]
 - [Across rubric dimensions, content scored highest (A = 4.03) while production scored lowest (D = 3.41), driven by synthetic voice quality (D1 = 3.16)](../claims/bespoke-content-strongest-production-weakest-voice.md) [+W]
 - [Authorship scores were highly concentrated near the maximum of the rubric scale](../claims/authorship-ceiling-concentration.md) [-W]
+- [Combining the revised rubric with rationale-first evaluation yields the highest human–machine alignment, with dimension-specific gains](../claims/combined-rubric-rationale-highest-alignment.md) [+W]
 
 ## The evidence by question
 - *Does giving learners the criteria, and having them apply them to their own or peers' work, improve the work?* [Self-assessing against a rubric improved the quality of student work in two non-randomised studies, one of which also found more stress and performance-avoidance](../claims/rubrics-improve-student-work.md) [+M]

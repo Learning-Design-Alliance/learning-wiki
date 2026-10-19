@@ -35,7 +35,7 @@ sources:
 # Graphic Organizers
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 28 claims (14 for, 12 mixed, 2 against) · 39 studies (18 causal, 8 quant-synthesis, 7 review, 3 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 10 of 39 report an effect size · 17 claims rest on one study
+> **Evidence** · 29 claims (14 for, 13 mixed, 2 against) · 39 studies (18 causal, 8 quant-synthesis, 7 review, 3 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 10 of 39 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 
@@ -156,6 +156,7 @@ A filled-in organizer, immediate comprehension, delayed retention, transfer and 
 - [Merely adding an expert example concept map does not add to the value of students creating their own concept maps for this population](../claims/expert-example-alone-no-learning-gain-concept-mapping.md) [~W]
 - [Weak initial organization enables experimentation with alternative graphical organizing principles](../claims/weak-organization-enables-principle-experimentation.md) [~W]
 - [Triads with access to each other's concept maps were more efficient in collaborative problem solving](../claims/shared-concept-maps-improve-triad-efficiency.md) [~W]
+- [Cooperative concept mapping produces better meaningful learning than individualistic concept mapping](../claims/cooperative-concept-mapping-better-than-individual.md) [~W]
 
 ## Related Principles
 - [Creating Visual Representations](dual-coding.md) — graphic organizers are one concrete form of visual externalization.

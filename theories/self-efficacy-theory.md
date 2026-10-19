@@ -12,7 +12,7 @@ generated:
 # Self-Efficacy Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 43 claims (32 for, 10 mixed, 1 against) · 37 studies (18 associational, 9 causal, 8 review, 1 design, 1 theoretical), `q1`–`q3` · 7 of 37 report an effect size · 42 claims rest on one study
+> **Evidence** · 49 claims (35 for, 13 mixed, 1 against) · 40 studies (19 associational, 10 review, 9 causal, 1 design, 1 theoretical), `q1`–`q3` · 7 of 40 report an effect size · 48 claims rest on one study
 
 ## Description
 Self-efficacy is "people's beliefs in their ability to perform a course of action required to achieve a specific task" (Bandura, 1977). The theory's central claim is specificity: self-efficacy is not a general trait like self-confidence or self-concept, and it is not the same as documented ability. A learner's self-efficacy for "correctly subtracting fractions" is a distinct belief from their self-efficacy for "writing a persuasive essay," even though both might contribute to a broader (and much less predictive) sense of being "good at school" (Seifert & Sutton, 2018). Because self-efficacy beliefs are self-constructed rather than measured, they can diverge from true capability in either direction; the most functional level is at or slightly above actual capacity (Bandura, 1997).
@@ -90,6 +90,12 @@ High self-efficacy for a task produces three effects, each with an upside and a 
 - [Belonging, task relevance, and individual mindset together predict classroom self-efficacy, with belonging the strongest predictor](../claims/belonging-task-relevance-mindset-predict-self-efficacy.md) [~W]
 - [Boys rate their mathematics ability under challenge significantly higher than girls at every level of observed mathematics ability, including the highest (p < 0.001)](../claims/boys-higher-math-ability-beliefs-under-challenge-same-observed-ability.md) [+W]
 - [ChatGPT use boosts university students' self-efficacy for task resolution without improving actual performance](../claims/chatgpt-boosts-self-efficacy-not-performance.md) [~W]
+- [Coping versus mastery model benefits depend on task difficulty and observers' prior success](../claims/coping-versus-mastery-models-task-difficulty.md) [~W]
+- [Cognitive modeling raised division skill more than didactic instruction while both raised self-efficacy equally, with self-efficacy mediating treatment effects](../claims/cognitive-modeling-versus-didactic-instruction-division.md) [~W]
+- [Creative Inquiry course produced a significant increase in participants' creative self-efficacy](../claims/creative-inquiry-course-creative-self-efficacy-increase.md) [+W]
+- [Reported teacher self-efficacy for teaching autistic children differs across countries, with relatively high levels in Ireland and the opposite conclusion for German teachers](../claims/country-differences-teacher-self-efficacy-autistic-children.md) [~W]
+- [Computer self-efficacy significantly mediates the effect of computer anxiety on perceived ease of use of an LMS](../claims/cse-mediates-anxiety-peu-lms.md) [+W]
+- [CSE partially mediates anxiety's effect on PEU: the direct ANX–PEU path remains significant but weaker](../claims/cse-partial-mediation-anx-peu-weakened.md) [+W]
 
 ## The evidence by question
 

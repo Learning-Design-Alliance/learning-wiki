@@ -13,7 +13,7 @@ generated:
 # Distributed Cognition
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 40 claims (21 for, 19 mixed) · 37 studies (10 theoretical, 8 causal, 7 review, 6 qualitative, 3 design, 2 associational, 1 quant-synthesis), `q1`–`q4` · 4 of 37 report an effect size · 35 claims rest on one study
+> **Evidence** · 41 claims (22 for, 19 mixed) · 38 studies (10 theoretical, 8 causal, 8 review, 6 qualitative, 3 design, 2 associational, 1 quant-synthesis), `q1`–`q4` · 4 of 38 report an effect size · 36 claims rest on one study
 
 ## Conditional relationship
 
@@ -156,6 +156,7 @@ Claims the earlier page cited, each now placed above (in the model, the evidence
 - [Collaborative dynamic-geometry problem solving relies on coordinating math-content and social/collaborative resources](../claims/oner-coordinated-math-social-resources.md) [~W]
 - [Presentation technologies such as paper posters and PowerPoint mediate the sharing of ways of seeing in design studio critique sessions](../claims/presentation-technologies-mediate-ways-of-seeing.md) [+W]
 - [In the learning phase, group experience and information distribution each produce significant multivariate effects on performance, mental effort, and efficiency, without interacting](../claims/zambrano-2019-learning-phase-manova-main-effects.md) [+W]
+- [Collaborative learning distributes cognitive load across multiple working memories, aiding learning of high-load tasks](../claims/collaborative-learning-collective-working-memory-advantage.md) [+W]
 
 ## Related Principles
 - [Social Learning](../theories/sociocultural-theory.md) — distributed cognition often depends on learning through interaction with others

@@ -13,7 +13,7 @@ generated:
 # Collaborative Problem-Solving
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 32 claims (14 for, 17 mixed, 1 against) · 30 studies (7 causal, 6 theoretical, 4 quant-synthesis, 4 review, 4 associational, 3 qualitative, 2 design), `q1`–`q4` · 3 of 30 report an effect size · 30 claims rest on one study
+> **Evidence** · 35 claims (15 for, 19 mixed, 1 against) · 32 studies (7 causal, 6 theoretical, 5 quant-synthesis, 5 associational, 4 review, 3 qualitative, 2 design), `q1`–`q4` · 4 of 32 report an effect size · 33 claims rest on one study
 
 ## Description
 Collaborative problem-solving (CPS) places a small group of learners around a problem that no single member can solve alone, requiring them to pool knowledge, divide cognitive labor, negotiate approaches, and converge on a shared solution. It functions simultaneously as a content-learning activity and as practice in the social-cognitive skills — perspective-taking, task regulation, and joint reasoning — that the OECD treats as a distinct competency domain.
@@ -83,6 +83,9 @@ CPS improves learning when the group's discussion forces learners to externalize
 - [Qualitative cases show three distinct interaction qualities: chains of individual autonomous actions, synchronized coordinated actions, and contemplative reflective group interaction](../claims/qualitative-cases-interaction-quality-variation.md) [~W]
 - [Contributions to socially shared metacognitive regulation were significantly higher in higher performing groups than in lower performing groups (reported finding)](../claims/ssmr-contributions-higher-vs-lower-performing-groups.md) [+W]
 - [Awareness visualizations of shared task perception improved reported strategy success and equalized expected effectiveness of planning and teamwork strategies](../claims/awareness-visualization-shared-task-perception.md) [~W]
+- [Collaborative problem-solving improves attitudinal tendency (ES = 1.17) more than cognitive skills (ES = 0.70)](../claims/cps-attitudinal-tendency-stronger-than-cognitive-skills.md) [+W]
+- [Group-level cognitive regulation occurs significantly more in the conceptual physics task than in the robotics task](../claims/cognitive-regulation-more-in-physics-task.md) [~W]
+- [Prior research on small-group collaboration covers middle to late childhood, with a dearth of research on adolescence and early adulthood and inconclusive suggestions about age-related change](../claims/dearth-research-older-collaborators.md) [~W]
 
 ## The evidence by question
 

@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 18 claims (11 for, 7 mixed) · 19 studies (4 review, 4 associational, 4 theoretical, 2 causal, 2 qualitative, 2 design, 1 quant-synthesis), `q1`–`q3` · 2 of 19 report an effect size · 17 claims rest on one study
+> **Evidence** · 19 claims (12 for, 7 mixed) · 20 studies (5 review, 4 associational, 4 theoretical, 2 causal, 2 qualitative, 2 design, 1 quant-synthesis), `q1`–`q3` · 2 of 20 report an effect size · 18 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -53,6 +53,7 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [AIDA-supported participants spent on average twice as long in the course platform as controls, but the difference in usage time was not statistically significant](../claims/aida-usage-time-doubled-not-significant.md) [~W]
 - [AI technological support is positively associated with innovative competence at all quantiles, with stronger associations at medium-to-high competence levels](../claims/ai-technological-support-rising-quantile-pattern.md) [+W]
 - [Academic use of ChatGPT correlates most strongly with its use for language-related tasks](../claims/chatgpt-academic-use-correlates-language-use.md) [+W]
+- [ChatGPT use in STEAM IBL is reported to improve teaching efficiency, student engagement, and flexible instructional design](../claims/chatgpt-steam-ibl-teaching-process-advantages.md) [+W]
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]

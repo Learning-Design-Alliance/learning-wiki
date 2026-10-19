@@ -19,7 +19,7 @@ sources:
 # Concept Map
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 12 claims (3 for, 8 mixed, 1 against) · 14 studies (6 causal, 2 quant-synthesis, 2 review, 2 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 5 of 14 report an effect size · 8 claims rest on one study
+> **Evidence** · 13 claims (3 for, 9 mixed, 1 against) · 15 studies (7 causal, 2 quant-synthesis, 2 review, 2 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 5 of 15 report an effect size · 9 claims rest on one study
 
 ## Description
 A concept map is a diagram in which concepts appear as nodes and labeled links express the relationships between them, forming a propositional structure ("concept — linking word — concept"). It functions both as a learning activity (learners construct maps) and as an assessment or advance organizer (instructors provide or score maps). Concept maps make knowledge structure — not just knowledge items — visible and revisable.
@@ -72,6 +72,7 @@ Concept mapping supports meaningful learning by forcing learners to identify rel
 - [Summary writing produced no significant comprehension improvement and the most disputational talk, and did not significantly differ from completing a map in learning outcomes](../claims/summary-task-weaker-outcomes-and-disputational-talk.md) [~W]
 - [High cognitive activities were positively associated with essay quality but not with concept maps](../claims/high-cognition-essay-not-concept-maps.md) [~W]
 - [Weak initial organization enables experimentation with alternative graphical organizing principles](../claims/weak-organization-enables-principle-experimentation.md) [~W]
+- [Cooperative concept mapping produces better meaningful learning than individualistic concept mapping](../claims/cooperative-concept-mapping-better-than-individual.md) [~W]
 
 ## The evidence by question
 - *Does having learners build an organization of the content as a concept map help, and against what comparison?* [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](../claims/concept-mapping-improves-learning.md) [+S]

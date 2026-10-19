@@ -13,7 +13,7 @@ generated:
 # Cooperative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 23 claims (8 for, 15 mixed) · 24 studies (10 quant-synthesis, 9 causal, 3 review, 2 design), `q2`–`q4` · 10 of 24 report an effect size · 16 claims rest on one study
+> **Evidence** · 26 claims (9 for, 17 mixed) · 26 studies (11 quant-synthesis, 10 causal, 3 review, 2 design), `q2`–`q4` · 11 of 26 report an effect size · 19 claims rest on one study
 
 ## Conditional relationship
 
@@ -94,6 +94,9 @@ Immediate group performance, individual achievement at the end of a unit, delaye
 
 - [Off-task activity was more common in the larger six-to-seven-member teams than in the compact teams](../claims/off-task-more-common-in-larger-making-teams.md) [~W]
 - [Scripting shifted student effort toward grounding discussions and away from group-issue discussions](../claims/script-shifts-effort-toward-grounding.md) [~W]
+- [Cooperative learning reduced disparities between students' critical thinking scores, with lower performers gaining most](../claims/cooperative-learning-reduces-score-disparities.md) [+W]
+- [Cooperative learning arrangements predict larger SRL training effects for cognitive and metacognitive strategies](../claims/cooperative-learning-moderates-srl-training-effects.md) [~W]
+- [Cooperative learning gains were large for observation and interpretation but small for analysis in 4th graders](../claims/cooperative-learning-skill-specific-ct-gains.md) [~W]
 
 ## Related Principles
 

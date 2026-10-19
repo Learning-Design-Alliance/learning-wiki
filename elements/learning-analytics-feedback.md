@@ -13,7 +13,7 @@ generated:
 # Learning Analytics-Driven Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 40 claims (15 for, 16 mixed, 9 against) · 35 studies (10 review, 8 associational, 7 theoretical, 4 causal, 3 qualitative, 3 design), `q1`–`q3` · 3 of 35 report an effect size · 38 claims rest on one study
+> **Evidence** · 43 claims (15 for, 19 mixed, 9 against) · 38 studies (11 associational, 10 review, 7 theoretical, 4 causal, 3 qualitative, 3 design), `q1`–`q3` · 3 of 38 report an effect size · 40 claims rest on one study
 
 ## Description
 In face-to-face instruction, a teacher can visually notice disengagement or confusion; a distance instructor cannot, and many learners fail to recognize their own need for help or fail to seek it even when it is available (Baker & Inventado, 2016). Educational data mining (EDM) and learning analytics (LA) address this by mining the large amounts of interaction data online and distance courses generate — content-management, discussion-forum, gradebook, and clickstream data — to build models that predict which learners are at risk and to surface feedback that would otherwise depend on an instructor noticing in person.
@@ -86,6 +86,9 @@ These models feed three uses that benefit learners directly: **automated feedbac
 - [Teachers reported the highest confidence in their situational awareness in the alerting & guiding dashboard condition](../claims/teacher-confidence-highest-with-guiding-dashboard.md) [+W]
 - [Sequential patterns of online PBL interactions predict final grades with higher explanatory power than interaction frequencies](../claims/sequence-patterns-beat-frequencies-pbl-grades.md) [~W]
 - [Machine perception and learning depend on large, unbiased training data](../claims/ai-big-ideas-data-and-knowledge-dependence.md) [~W]
+- [Dialogue act features raise regression R² but do not significantly improve outcome prediction over a prior-performance baseline](../claims/da-features-not-significant-over-baseline.md) [~W]
+- [Decision tree classifiers trained on slide interaction features predict end-of-module outcomes with high accuracy across four K-12 programming courses](../claims/dt-slide-interaction-features-predict-module-outcomes.md) [~W]
+- [Recovery-related behavioral features add only a small, unstable held-out Macro-F1 gain for final-success prediction in DTA logs (0.725 to 0.743), with negligible average window-sensitivity differences](../claims/dta-recovery-features-small-unstable-gain.md) [~W]
 
 ## The evidence by question
 

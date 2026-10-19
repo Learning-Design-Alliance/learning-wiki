@@ -13,7 +13,7 @@ generated:
 # Constructed-Response Assessment Items
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 24 claims (7 for, 15 mixed, 2 against) · 20 studies (7 design, 6 associational, 3 review, 2 causal, 1 qualitative, 1 theoretical), `q1`–`q3` · 4 of 20 report an effect size · 24 claims rest on one study
+> **Evidence** · 26 claims (9 for, 15 mixed, 2 against) · 22 studies (8 design, 6 associational, 3 causal, 3 review, 1 qualitative, 1 theoretical), `q1`–`q3` · 5 of 22 report an effect size · 26 claims rest on one study
 
 ## Description
 Constructed-response items ask students to recall information and produce their own answer rather than recognize a provided one, which reduces guessing compared with [selected-response items](selected-response-assessment-items.md). Two major kinds are used: **completion/short-answer** items (answerable in a word, phrase, number, or symbol — the same underlying format whether phrased as a statement to complete or a question to answer) and **extended-response** items (answers ranging from a paragraph to several pages, often called essay questions when they run long).
@@ -68,6 +68,8 @@ The central disadvantage of extended-response items is unreliable scoring: diffe
 - [Automated essay scoring can achieve high agreement with human raters but faces calibration constraints](../claims/aes-high-agreement-calibration-constraint.md) [~W]
 - [Transformer-based NLP models achieve automated essay scoring with correlations to human grading exceeding 0.85](../claims/bert-essay-scoring-correlation-085.md) [+W]
 - [AEEGS and human raters produced nearly equivalent, low mean scores (5.94 vs 5.97 of 20), with AEEGS slightly higher](../claims/aeegs-human-mean-scores-equivalent-low.md) [~W]
+- [Six closed-model configurations grade at or below the human inter-grader floor of 2.61/35 on the CV exam, with the best reaching MAE 1.64](../claims/closed-llm-graders-below-human-floor.md) [+W]
+- [A construction-focused correctness rubric underperformed behavior-focused and undefined prompts for LLM scoring of code explanations](../claims/construction-rubric-underperformed-llm-scoring.md) [+W]
 
 ## The evidence by question
 - *Which practice format: short answer, multiple choice, or matching the final test?* [Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference](../claims/short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed.md) [~M]

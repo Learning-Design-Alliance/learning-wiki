@@ -27,7 +27,7 @@ sources:
 # Digital Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 62 claims (30 for, 29 mixed, 3 against) · 70 studies (18 causal, 16 review, 11 quant-synthesis, 11 theoretical, 6 associational, 5 qualitative, 3 design), `q1`–`q4` · 11 of 70 report an effect size · 53 claims rest on one study
+> **Evidence** · 63 claims (30 for, 30 mixed, 3 against) · 71 studies (18 causal, 16 review, 12 quant-synthesis, 11 theoretical, 6 associational, 5 qualitative, 3 design), `q1`–`q4` · 12 of 71 report an effect size · 54 claims rest on one study
 
 ## Conditional relationship
 
@@ -187,6 +187,7 @@ Access, use, assisted success, unaided immediate performance, delayed retention 
 - [Sharing a projected display with multiple mice produced significant collaborative-learning gains for a whole classroom](../claims/multiple-mice-shared-display-collaborative-gains.md) [~W]
 - [Pre-service teachers who received NLP-based adaptive feedback were better able to justify their diagnoses than those who received static feedback (reported from Sailer et al.)](../claims/adaptive-feedback-improves-diagnosis-justification.md) [+W]
 - [Emerging empirical studies report positive associations between generative AI use and international-student adaptation](../claims/ai-use-positive-adaptation-associations.md) [~W]
+- [Effect sizes were larger in studies where online and face-to-face conditions differed in curriculum materials and instructional approach (+0.42) than where curriculum and instruction were nearly identical (+0.20; Q = 5.40, p < .05).](../claims/curriculum-equivalence-moderates-effect-size.md) [~W]
 
 ## Related Principles
 - [Flipped Learning](flipped-learning.md) — digital delivery often makes pre-class access and replayable initial exposure possible

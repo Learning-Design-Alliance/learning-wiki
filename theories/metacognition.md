@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 291 claims (147 for, 129 mixed, 15 against) · 153 studies (85 causal, 32 associational, 10 review, 9 qualitative, 9 theoretical, 5 quant-synthesis, 3 design), `q1`–`q4` · 56 of 153 report an effect size · 287 claims rest on one study
+> **Evidence** · 299 claims (151 for, 133 mixed, 15 against) · 159 studies (86 causal, 36 associational, 10 review, 9 qualitative, 9 theoretical, 6 quant-synthesis, 3 design), `q1`–`q4` · 58 of 159 report an effect size · 294 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -333,6 +333,14 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Metacognitive ability was not correlated with task difficulty or perceptual sensitivity (d′)](../claims/aroc-uncorrelated-with-difficulty-and-dprime.md) [~W]
 - [The Bias Index significantly predicts all four WIAT-II achievement measures, with over-confidence associated with lower achievement](../claims/bias-index-predicts-achievement.md) [~W]
 - [Anchoring-and-adjustment explains the underconfidence-with-practice effect, with JOLs anchored between 30 and 50% correct recall](../claims/anchoring-explains-underconfidence-with-practice.md) [+W]
+- [Metacognitive ability improves across adolescence, with a logarithmic age trajectory](../claims/cms-age-effect-metacognition.md) [+M]
+- [Group-level cognitive regulation occurs significantly more in the conceptual physics task than in the robotics task](../claims/cognitive-regulation-more-in-physics-task.md) [~W]
+- [CMS metacognition correlates with AQ-J-50 social skills and total scores, but self-judgment accuracy does not](../claims/cms-criterion-validity-aq.md) [+W]
+- [More complex (versus simple) math performance measures are associated with larger metacognition–math effect sizes](../claims/complex-math-measures-larger-effects.md) [~W]
+- [Confidence ratings shift toward higher confidence across adolescence and decline in adulthood (Broc)](../claims/confidence-bias-rises-in-adolescence-declines-adulthood.md) [+W]
+- [Children show marginal overconfidence in numerical judgments and underconfidence in emotion judgments](../claims/confidence-bias-domain-number-emotion.md) [~W]
+- [The age-related decline in perceptual metacognitive efficiency reflects both rising d′ and falling meta-d′](../claims/d-prime-increase-meta-d-prime-decrease-drive-efficiency-decline.md) [~W]
+- [Perceptual and memory metacognitive efficiencies are positively correlated across individuals, though weakened after outlier removal](../claims/cross-domain-metacognitive-efficiency-correlation.md) [+W]
 
 ## The evidence by question
 

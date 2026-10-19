@@ -12,7 +12,7 @@ generated:
 # Sociocultural Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 22 claims (17 for, 4 mixed, 1 against) · 26 studies (8 review, 5 quant-synthesis, 4 qualitative, 3 causal, 3 associational, 3 theoretical), `q1`–`q4` · 3 of 26 report an effect size · 18 claims rest on one study
+> **Evidence** · 24 claims (19 for, 4 mixed, 1 against) · 28 studies (9 review, 5 quant-synthesis, 4 qualitative, 4 theoretical, 3 causal, 3 associational), `q1`–`q4` · 3 of 28 report an effect size · 20 claims rest on one study
 
 ## Description
 Sociocultural theory originates in the work of Russian psychologist Lev Vygotsky (1924–1934) and holds that human development and higher-order thinking originate in social, historical, and cultural interaction rather than inside an isolated individual mind. Vygotsky summarized this as a developmental law: "Every function in the child's cultural development appears twice: first, on the social level, and later, on the individual level; first between people (interpsychological) and then inside the child (intrapsychological)" (Vygotsky, 1978, p. 57). Development is a transformation of participation in shared social activity, not a transmission of discrete facts or skills (Polly et al., 2018).
@@ -84,6 +84,8 @@ A related developmental mechanism is **private speech**: children's habit of tal
 - [A wiki with a thinking-together approach can provide a dialogic space in which students co-construct shared understanding](../claims/wiki-dialogic-space-co-construction.md) [+W]
 - [Teacher guidance plays a significant mediating role in collaborative-learning classroom outcomes](../claims/teacher-guidance-mediation-cscl.md) [+W]
 - [Co-regulation led to shared understandings with effective patient management as a result (Lajoie and Lu)](../claims/co-regulation-shared-understanding-patient-management.md) [+W]
+- [Sharing perceptual experiences through discussion improves individual performance beyond mere task practice](../claims/discussion-improves-individual-perception.md) [+W]
+- [Collaborative technologies support learning by enabling learners to share and exchange both ideas and their own digital products](../claims/collaborative-technologies-enable-sharing-ideas-and-digital-products.md) [+W]
 
 ## The evidence by question
 - *Does support during an attempt improve later learning compared with attempting unsupported, and for which learners, contexts and outcomes?* [Scaffolding improves learning](../claims/scaffolding-improves-learning.md) [+S]

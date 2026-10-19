@@ -17,7 +17,7 @@ sources:
 # Information Processing Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 53 claims (31 for, 22 mixed) · 41 studies (15 causal, 13 associational, 7 review, 3 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 8 of 41 report an effect size · 51 claims rest on one study
+> **Evidence** · 62 claims (34 for, 28 mixed) · 45 studies (15 causal, 15 associational, 9 review, 3 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 10 of 45 report an effect size · 60 claims rest on one study
 
 ## Description
 Information Processing Theory treats learning as the movement and transformation of information through attention, working memory, encoding, storage, and retrieval. In broad terms, the theory asks what learners notice, how much they can actively process at once, how they organize new information, and how it becomes retrievable later.
@@ -116,6 +116,15 @@ Information processing models are often criticized as overly linear and serial, 
 - [Blocked-format span declines after age 20 but mixed-format span does not, implicating proactive interference in aging declines](../claims/blocked-decline-mixed-no-decline-aging-span.md) [~W]
 - [Bilingual children show a flatter pattern of attended-speech encoding across conditions, driven by weaker encoding in low- or no-interference conditions](../claims/bilingual-flatter-attended-encoding-pattern.md) [~W]
 - [A model of kindergarten writing development including an attention factor fits better than a model with only language and literacy factors](../claims/attention-factor-improves-model-fit.md) [+W]
+- [A common attentional component is needed for feature binding, running digit span, and visual short-term memory tasks, while phonological storage is separate](../claims/common-attentional-component-binding-running-span-visual-stm.md) [~W]
+- [Children shift from counting to memory-based retrieval strategies in single-digit addition over a 1.2-year interval in middle childhood](../claims/counting-to-retrieval-shift-longitudinal-childhood.md) [+W]
+- [Children with developmental dyscalculia show impaired visuo-spatial short-term and working memory relative to matched controls](../claims/dd-visuospatial-stm-wm-impairment.md) [+W]
+- [Working memory capacity increases with age independently of knowledge, encoding speed, and articulation](../claims/developmental-capacity-gain-primary.md) [~W]
+- [Congenitally blind adults show higher verbal backwards digit span than sighted controls](../claims/congenitally-blind-higher-backwards-digit-span.md) [~W]
+- [Early (within ~100 ms) attentional modulation during encoding predicts subsequent working memory accuracy](../claims/early-encoding-modulation-predicts-wm-accuracy.md) [+W]
+- [Digit span running loaded on the focus of attention factor rather than the phonological factor, supporting Cowan's claim that running span performance reflects attentional capacity](../claims/digit-span-running-loads-focus-of-attention.md) [~W]
+- [Disabled readers show working memory deficits at every age on the blocked listening span task](../claims/disabled-readers-lower-listening-span-all-ages.md) [~W]
+- [Developmental differences in selective attention are related to neural systems for deploying attention and managing response conflict, while deployed selective attention acts through similar neural mechanisms across ages](../claims/developmental-selective-attention-deployment-mechanisms.md) [~W]
 
 ## The evidence by question
 - *How large should a unit be, and does grouping static material help?* [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S]

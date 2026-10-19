@@ -13,7 +13,7 @@ generated:
 # Peer Collaboration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 30 claims (13 for, 17 mixed) · 31 studies (7 qualitative, 6 causal, 6 associational, 6 theoretical, 4 quant-synthesis, 2 review), `q1`–`q4` · 4 of 31 report an effect size · 28 claims rest on one study
+> **Evidence** · 33 claims (14 for, 18 mixed, 1 against) · 34 studies (8 causal, 8 qualitative, 6 associational, 6 theoretical, 4 quant-synthesis, 2 review), `q1`–`q4` · 4 of 34 report an effect size · 31 claims rest on one study
 
 ## Description
 Peer collaboration places two or more learners in joint work on a shared task, requiring them to explain, question, negotiate, and build on each other's thinking. It functions as a social engine for learning: the value comes not from proximity but from the elaboration, conflict, and mutual regulation that genuine joint work provokes.
@@ -80,6 +80,9 @@ Collaboration supports learning when it forces learners to articulate reasoning 
 - [High challenge dyads show an isolated bi-directional cycle between social challenge and off-task activities, while low challenge dyads' challenges feed into metacognitive activities](../claims/challenge-off-task-vicious-cycle-high-challenge.md) [~W]
 - [Specific teamwork challenges hinder development of mutual trust and shared mental models in a hackathon CSCL setting](../claims/challenges-hinder-mutual-trust-shared-mental-models.md) [~W]
 - [Much bodily-material coordination in touchscreen collaboration occurs in the space off the screen](../claims/bodily-material-interaction-off-screen.md) [~W]
+- [Collaborative inquiry learners obtain significantly higher post-test overall scores than individual learners](../claims/collaborative-inquiry-outperforms-individual-overall.md) [+W]
+- [In CLL, teachers perceive a trust erosion cycle, AI dominance in groups, collaborative hollowing, and a counselor's dilemma](../claims/cll-four-ethical-tensions.md) [-W]
+- [Homogeneous CS-major groups reported higher CPSE in collaborative programming than homogeneous non-CS and heterogeneous groups, with no significant difference between the latter two](../claims/cpse-cs-major-groups-higher-collaborative.md) [~W]
 
 ## The evidence by question
 

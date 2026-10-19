@@ -12,7 +12,7 @@ generated:
 # Play and Cognitive Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (4 for, 2 mixed) · 5 studies (2 review, 1 causal, 1 associational, 1 qualitative), `q1`–`q3` · 1 of 5 report an effect size · 6 claims rest on one study
+> **Evidence** · 8 claims (5 for, 3 mixed) · 7 studies (2 causal, 2 review, 2 associational, 1 qualitative), `q1`–`q3` · 1 of 7 report an effect size · 8 claims rest on one study
 
 ## Description
 Play is self-directed, individually constructed, imaginative activity, distinct from product-focused work, that serves cognitive skill development, social-emotional learning, and identity exploration. Piaget identified types of play that track a child's cognitive maturation; Smilansky added an intermediate category; Vygotsky offered a complementary account of *why* pretend play matters developmentally, independent of Piaget's stage framework.
@@ -52,6 +52,8 @@ Vygotsky treated pretend play as central to development in its own right: it let
 - [Musical play intervention significantly increased children's metacognitive knowledge of strategies at interview](../claims/musical-play-intervention-metacognitive-knowledge-of-strategies-gains.md) [~W]
 - [Musical play intervention significantly increased children's metacognitive knowledge at interview compared with controls](../claims/musical-play-intervention-metacognitive-knowledge-interview-gains.md) [+W]
 - [Anger in collaborative gameplay can drive students to link game mechanics to real-world phenomena to defend their strategies](../claims/anger-drives-real-world-game-linking.md) [~W]
+- [DIBELS subtests show significant negative relationships with peer-play difficulties and weaker links to social-behavioral than cognitive measures](../claims/dibels-discriminant-social-behavioral-validity.md) [~W]
+- [Children structure their play to reduce uncertainty and deconfound causal variables](../claims/children-play-deconfound-causal-variables.md) [+W]
 
 ## Related Theories
 

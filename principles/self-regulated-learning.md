@@ -35,7 +35,7 @@ sources:
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 106 claims (52 for, 48 mixed, 6 against) · 79 studies (27 causal, 16 review, 14 associational, 10 quant-synthesis, 8 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 21 of 79 report an effect size · 95 claims rest on one study
+> **Evidence** · 108 claims (52 for, 50 mixed, 6 against) · 80 studies (27 causal, 16 review, 14 associational, 11 quant-synthesis, 8 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 21 of 80 report an effect size · 97 claims rest on one study
 
 ## Conditional relationship
 
@@ -198,6 +198,8 @@ Gains in strategy knowledge, self-reported regulation, self-efficacy, study time
 - [In Experiment 2, actual regulation of adaptable heuristic worked examples showed no significant correlation with self-regulation skills or MAS outcomes](../claims/work-example-adaptation-no-significant-correlations.md) [~W]
 - [Adaptive help seeking is a self-regulatory behavioral strategy, distinct from dependent help seeking](../claims/adaptive-versus-dependent-help-seeking.md) [+W]
 - [AI supporting SRL aims at end outcomes beyond SRL itself, most frequently improved academic performance](../claims/ai-srl-end-outcomes-academic-performance-most-frequent.md) [~W]
+- [Cooperative learning arrangements predict larger SRL training effects for cognitive and metacognitive strategies](../claims/cooperative-learning-moderates-srl-training-effects.md) [~W]
+- [L1 writing metacognitive strategies facilitate L2 writing performance indirectly via L2 writing metacognitive strategies](../claims/cross-language-facilitation-l1-strategies-l2-writing-via-mediation.md) [~W]
 
 ## Related Principles
 - [Goal Setting & Monitoring](goal-setting-monitoring.md)

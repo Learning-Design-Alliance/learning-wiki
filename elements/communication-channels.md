@@ -13,7 +13,7 @@ generated:
 # Communication Channels
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 11 claims (5 for, 6 mixed) · 6 studies (2 qualitative, 2 theoretical, 1 quant-synthesis, 1 associational), `q1`–`q3` · 0 of 6 report an effect size · 11 claims rest on one study
+> **Evidence** · 12 claims (5 for, 7 mixed) · 6 studies (3 qualitative, 2 theoretical, 1 quant-synthesis), `q1`–`q3` · 0 of 6 report an effect size · 12 claims rest on one study
 
 ## Description
 Communication channels are the element in which learners use designated tools or spaces to coordinate, discuss, ask questions, and share updates during a learning activity. They are useful when collaboration depends on reliable communication pathways.
@@ -46,6 +46,7 @@ Communication channels are the element in which learners use designated tools or
 - [Collaborative problem framing unfolds as sequential comment-and-edit organization across Stack Overflow's dual-space design of distinct question and commenting spaces](../claims/dual-space-comment-edit-sequential-organization.md) [~W]
 - [Mass participation formats in online communities depend on the tools used (Danmaku versus discussion board)](../claims/mass-participation-depends-on-tools.md) [~W]
 - [All discussion-board contributors sent significantly more text per person than all danmaku contributors in every shared category](../claims/board-contributors-more-text-per-person.md) [~W]
+- [Danmaku primarily carries tacit knowledge sharing via personal experience while the discussion board carries explicit mathematical knowledge](../claims/danmaku-tacit-versus-board-explicit-knowledge-sharing.md) [~W]
 
 ## The evidence by question
 - *Does the channel learners interact through (face to face, video, text chat, discussion board) change the interaction and what language learners gain from it?* [SCMC interaction shows a small advantage over FTF on overall L2 learning outcomes](../claims/scmc-small-advantage-overall-l2-outcomes.md) [~M]

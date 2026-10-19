@@ -14,7 +14,7 @@ grain_size: lesson
 # Collaborative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 38 claims (13 for, 23 mixed, 2 against) · 35 studies (10 causal, 5 review, 5 qualitative, 5 theoretical, 4 quant-synthesis, 3 associational, 3 design), `q1`–`q4` · 5 of 35 report an effect size · 36 claims rest on one study
+> **Evidence** · 39 claims (14 for, 23 mixed, 2 against) · 35 studies (10 causal, 5 review, 5 qualitative, 5 theoretical, 4 quant-synthesis, 3 associational, 3 design), `q1`–`q4` · 5 of 35 report an effect size · 37 claims rest on one study
 
 ## Description and scope
 
@@ -131,6 +131,7 @@ This pattern is scoped to pairs and small groups where each member's individual 
 - [Students' task understanding confidence increases after collaborative tasks](../claims/task-understanding-increases-after-collaborative-task.md) [~W]
 - [Solution quantity does not mediate the effect of collaboration on conceptual knowledge in PF](../claims/pf-solution-quantity-no-mediation.md) [~W]
 - [Teacher orchestration of collaborative-learning scripts is at least as important as the quality of the script design itself](../claims/teacher-orchestration-over-script-design.md) [~W]
+- [Collaborative inquiry learners obtain significantly higher post-test overall scores than individual learners](../claims/collaborative-inquiry-outperforms-individual-overall.md) [+W]
 
 ## Related Patterns
 - [Collaborative Inquiry](../principles/inquiry-based-learning.md)

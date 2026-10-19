@@ -18,7 +18,7 @@ sources:
 # Three-Lesson Web-Based SRL Training
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (7 for, 3 mixed) · 6 studies (4 causal, 1 quant-synthesis, 1 associational), `q2`–`q3` · 2 of 6 report an effect size · 10 claims rest on one study
+> **Evidence** · 11 claims (8 for, 3 mixed) · 7 studies (4 causal, 2 quant-synthesis, 1 associational), `q2`–`q3` · 3 of 7 report an effect size · 11 claims rest on one study
 
 ## Description
 A web-based training on self-regulated learning that "can be attended by virtually unlimited numbers of participants" choosing their own time and place. "The WBT comprises three lessons of approximately 90 min each", covering the pre-action, action and post-action phases, and using videos, presentations, self-tests, exercises and bulletin boards. In this study lessons unlocked at 1-week intervals, videos used real actors, and mean self-reported compliance was 82.18%.
@@ -54,6 +54,7 @@ A web-based training on self-regulated learning that "can be attended by virtual
 - [Teachers' initial SRL competence profiles moderate training effectiveness: initially high-competence teachers benefit more from training](../claims/competence-profiles-moderate-srl-training-effect.md) [~W]
 - [KC lesson duration increased significantly only in the SRL-AIDE group (d = 1.14), not in the comparison group (d = 0.12)](../claims/kc-duration-increase-only-srl-aide.md) [+W]
 - [A Monitoring and Regulation Strategy delivered online increased university students' exam scores, whereas the Monitoring Exercise alone did not](../claims/mrs-strategy-increased-exam-scores.md) [~W]
+- [Individual treatment organization and delivery form significantly moderate scaffold effects; classroom settings and Web-based environments show the largest effects](../claims/delivery-organization-environment-moderators.md) [+W]
 
 ## The evidence by question
 

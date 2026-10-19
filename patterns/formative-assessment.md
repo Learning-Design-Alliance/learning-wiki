@@ -29,7 +29,7 @@ grain_size: lesson
 # Formative Assessment
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 32 claims (16 for, 15 mixed, 1 unmarked) · 43 studies (14 causal, 12 quant-synthesis, 6 review, 5 qualitative, 3 theoretical, 2 associational, 1 design), `q1`–`q4` · 17 of 43 report an effect size · 21 claims rest on one study
+> **Evidence** · 33 claims (16 for, 16 mixed, 1 unmarked) · 43 studies (14 causal, 12 quant-synthesis, 6 review, 5 qualitative, 3 theoretical, 2 associational, 1 design), `q1`–`q4` · 17 of 43 report an effect size · 22 claims rest on one study
 
 ## Description
 
@@ -207,6 +207,7 @@ This is the article's described classroom pattern for formative assessment in la
 - [Program teachers showed more complete cycles of contingent teaching at postmeasurement than the other teachers](../claims/mct-pd-more-complete-contingent-teaching-cycles.md) [~W]
 - [In the diagram-only condition teachers rely mainly on performance cues but fabricate student cues for half the students](../claims/teacher-cue-utilization-fabricated-student-cues-diagram-only.md) [~W]
 - [In Experiment 1, receiving self-assessment feedback during the learning phase led to less accurate task selection than no feedback, despite feedback stating actual performance](../claims/self-assessment-feedback-reduced-learning-phase-task-selection.md) [~W]
+- [A brief cue-diagnosticity intervention did not significantly improve teachers' judgment accuracy, presumably because accuracy was already relatively high](../claims/diagnosticity-intervention-no-accuracy-gain.md) [~W]
 
 ## Key Sources
 

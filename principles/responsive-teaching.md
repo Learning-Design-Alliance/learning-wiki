@@ -23,7 +23,7 @@ sources:
 # Responsive Teaching
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (14 for, 9 mixed, 2 against) · 40 studies (10 review, 9 quant-synthesis, 8 causal, 8 qualitative, 2 associational, 2 theoretical, 1 design), `q1`–`q4` · 5 of 40 report an effect size · 16 claims rest on one study
+> **Evidence** · 26 claims (14 for, 10 mixed, 2 against) · 41 studies (10 review, 9 quant-synthesis, 9 qualitative, 8 causal, 2 associational, 2 theoretical, 1 design), `q1`–`q4` · 5 of 41 report an effect size · 17 claims rest on one study
 
 ## Conditional relationship
 
@@ -145,6 +145,10 @@ Visible thinking, the teacher's accurate reading of it, a well-chosen move, the 
 - [STEM PLC participation increases teachers' deliberation about students' mathematics or science thinking and shifts instruction toward attention to student reasoning and diverse problem-solving modes](../claims/stem-plc-instructional-practice-shifts.md) [~W]
 - [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](../claims/discussion-promotes-more-active-thought-than-lecture.md) [+M]
 - [Teacher responsiveness is uniquely related to substantive quality of first-grade written composition after accounting for child predictors and other instructional quality variables](../claims/teacher-responsiveness-predicts-substantive-quality.md) [+W] — attached 2026-10-17 from Kim et al. (2013), which proposed "Promote teacher responsiveness to students' inquiries and responses as a lever for improving beginning writing quality"; tests this page's relationship.
+
+## Claims
+
+- [Learners' critical sharing of ideas and the teacher's intentional intervention were the two critical factors for effective folding back](../claims/critical-sharing-and-teacher-intervention-effective-folding-back.md) [~W]
 
 ## Related Principles
 - [Assessment for Learning](assessment-for-learning.md) — responsive teaching is formative assessment enacted at the level of moment-to-moment instructional decisions

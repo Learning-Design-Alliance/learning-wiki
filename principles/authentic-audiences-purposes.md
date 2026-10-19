@@ -13,7 +13,7 @@ generated:
 # Authentic Audiences & Purposes
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 21 claims (17 for, 4 mixed) · 30 studies (9 causal, 6 quant-synthesis, 5 qualitative, 4 theoretical, 3 review, 3 design), `q1`–`q4` · 5 of 30 report an effect size · 14 claims rest on one study
+> **Evidence** · 22 claims (17 for, 5 mixed) · 31 studies (9 causal, 6 quant-synthesis, 5 qualitative, 4 review, 4 theoretical, 3 design), `q1`–`q4` · 5 of 31 report an effect size · 15 claims rest on one study
 
 ## Conditional relationship
 
@@ -97,6 +97,7 @@ The expectation should weaken if comparisons that hold topic, time and order con
 
 - [Successful writing requires that the writer first become a sufficiently skillful reader to estimate the effect of the text on a prospective audience](../claims/skilled-reader-estimate-audience-effect.md) [+W]
 - [Producing a public information resource evoked a sense of responsibility toward readers that motivated care about information quality](../claims/public-production-evokes-responsibility.md) [+W]
+- [Design has not caught up with technology; creating for diverse audiences must be deliberate](../claims/design-has-not-caught-up-with-technology.md) [~W]
 
 ## Related Principles
 - [Inquiry-based Learning](inquiry-based-learning.md) — authentic audiences often emerge from real questions and investigations

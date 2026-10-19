@@ -17,7 +17,7 @@ sources:
 # Evaluate charter schools against longer-term outcomes such as college enrollment and completion, not only short-term achievement
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (7 for) · 4 studies (3 causal, 1 associational), `q2`–`q3` · 0 of 4 report an effect size · 7 claims rest on one study
+> **Evidence** · 8 claims (8 for) · 5 studies (3 causal, 2 associational), `q2`–`q3` · 0 of 5 report an effect size · 8 claims rest on one study
 
 ## Description
 The brief recommends looking beyond immediate test-score impacts when judging charter schools, examining "if the charter middle schools included in the National Evaluation affected students’ college enrollment and completion." It treats college enrollment and completion as "important longer-term outcomes" and checks whether earlier achievement results predict them. This strategy supports evidence-based school reform decisions.
@@ -48,6 +48,7 @@ The brief recommends looking beyond immediate test-score impacts when judging ch
 - [Charter middle schools' success in improving college outcomes was not related to their success in improving middle school achievement](../claims/charter-college-outcomes-unrelated-to-middle-school-achievement-gains.md) [+W]
 - [The estimated KIPP middle school impacts are substantial relative to nationwide racial disparities in college enrollment](../claims/kipp-impacts-substantial-relative-racial-enrollment-disparities.md) [+W]
 - [Charter high school effects on attainment hold in both Chicago and Florida after controlling for prior charter middle school enrollment](../claims/charter-high-school-effects-both-locations-with-controls.md) [+W]
+- [There was substantial variation among charter high schools on test scores, college enrollment, and college selectivity—more variation than among non-charter schools once incoming characteristics were controlled](../claims/cps-charter-variation-among-schools.md) [+W]
 
 ## Related Strategies
 

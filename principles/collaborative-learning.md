@@ -46,7 +46,7 @@ sources:
 # Collaborative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 61 claims (25 for, 33 mixed, 3 against) · 66 studies (14 causal, 12 review, 12 theoretical, 10 associational, 8 quant-synthesis, 7 qualitative, 3 design), `q1`–`q4` · 9 of 66 report an effect size · 55 claims rest on one study
+> **Evidence** · 64 claims (26 for, 34 mixed, 4 against) · 69 studies (15 causal, 13 review, 12 theoretical, 10 associational, 8 quant-synthesis, 8 qualitative, 3 design), `q1`–`q4` · 9 of 69 report an effect size · 58 claims rest on one study
 
 ## Conditional relationship
 
@@ -176,6 +176,9 @@ Group performance during the task, individual understanding straight after it, d
 - [Temporal phases of co-regulation matter: prolonged early planning to establish shared goals and common ground facilitates co-regulation and collaboration in later phases](../claims/temporal-phases-prolonged-early-planning-facilitates-later-co-regulation.md) [~W]
 - [Dyad composition by gender and achievement level is not a confounding variable for knowledge acquisition after Web-based collaborative inquiry](../claims/dyad-composition-not-confounding-knowledge.md) [~W]
 - [Pairs managed mutual awareness through spatial and temporal affordances and developed attention-getting protocols finer-grained than turn-taking](../claims/awareness-attention-management-shared-workspaces.md) [~W]
+- [Two transactivity-supporting scripts each help dyads, but combining them appears to interfere](../claims/combined-transactivity-scripts-interfere.md) [~W]
+- [In CLL, teachers perceive a trust erosion cycle, AI dominance in groups, collaborative hollowing, and a counselor's dilemma](../claims/cll-four-ethical-tensions.md) [-W]
+- [Sharing perceptual experiences through discussion improves individual performance beyond mere task practice](../claims/discussion-improves-individual-perception.md) [+W]
 
 ## Related Principles
 - Conditions for Productive Group Creativity — specializes collaborative learning's general quality-control problem for open-ended creative tasks specifically

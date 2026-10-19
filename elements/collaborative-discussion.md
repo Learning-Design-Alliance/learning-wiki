@@ -18,7 +18,7 @@ sources:
 # Collaborative Discussion
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (7 for) · 9 studies (4 causal, 3 qualitative, 1 quant-synthesis, 1 associational), `q2`–`q4` · 2 of 9 report an effect size · 5 claims rest on one study
+> **Evidence** · 8 claims (7 for, 1 mixed) · 10 studies (4 causal, 4 qualitative, 1 quant-synthesis, 1 associational), `q2`–`q4` · 2 of 10 report an effect size · 6 claims rest on one study
 
 ## Description
 Collaborative discussion is the element in which learners build understanding together through shared talk, comparison of ideas, and negotiated meaning. It is useful when the task requires collective reasoning rather than isolated response.
@@ -49,6 +49,7 @@ Collaborative discussion is the element in which learners build understanding to
 - [Students' social reasoning in the previous three turns positively predicts social reasoning in the current turn](../claims/social-reasoning-predicts-subsequent-social-reasoning.md) [+M] — attached 2026-10-18 from Nagpal et al. (2025), which proposed "Collaborative Social Reasoning (CSR) discussions — a peer-centered, teacher-scaffolded small-group discussion approach".
 - [A wiki with a thinking-together approach can provide a dialogic space in which students co-construct shared understanding](../claims/wiki-dialogic-space-co-construction.md) [+W]
 - [Primary students' wiki negotiation contains collaboration and reasoning keywords distributed throughout the interaction](../claims/wiki-negotiation-collaboration-reasoning-keywords.md) [+W]
+- [Learners' critical sharing of ideas and the teacher's intentional intervention were the two critical factors for effective folding back](../claims/critical-sharing-and-teacher-intervention-effective-folding-back.md) [~W]
 
 ## The evidence by question
 - *Which discussion structures and facilitation make open discussion produce learning, rather than just more talk?* [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](../claims/structured-discussion-methods-improve-comprehension.md) [+S]

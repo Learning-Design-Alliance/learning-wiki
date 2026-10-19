@@ -17,7 +17,7 @@ sources:
 # Iterative, stakeholder-informed instrument development cycle
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (2 design), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 This development pattern adapts an intervention-development framework to build a descriptive clinical instrument through repeated cycles of drafting, expert consultation, piloting, feasibility testing, and refinement, with patients, patient representatives, therapists, and researchers involved throughout. The article lists the steps: "(1) a literature review; (2) defining the construct and determining a theoretical framework; (3) initial selection of questions and prompts; (4) expert consultation; (5) piloting the interview; (6) conducting a feasibility study; and (7) refining the interview." An initial pool of 201 open-ended questions was clustered and reduced to 116 items, then through expert marking and discussion to successive drafts of 32 and finally 26 questions. The process ran from June 2022 to January 2025.
@@ -44,6 +44,7 @@ This development pattern adapts an intervention-development framework to build a
 
 - [Veterans and clinicians rate the CIMI-M as feasible, acceptable, and clinically useful in a preliminary evaluation](../claims/cimi-m-favorable-feasibility-ratings.md) [+W]
 - [Qualitative analysis finds the CIMI-M helped veterans share experiences and helped clinicians build trust and plan treatment](../claims/cimi-m-qualitative-utility-themes.md) [+W]
+- [Distinguishing classroom and research contexts in survey questions was a key outcome of student validation interviews](../claims/context-clarification-validation-interviews.md) [+W]
 
 ## Related Patterns
 - [Cimi M Clinical Interview](../products/clinical-interview-for-moral-injurymilitary-version.md)
