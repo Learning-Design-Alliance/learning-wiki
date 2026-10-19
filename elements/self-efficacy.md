@@ -13,7 +13,7 @@ generated:
 # Self Efficacy
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 45 claims (26 for, 17 mixed, 1 against, 1 unmarked) · 41 studies (17 associational, 11 review, 8 causal, 2 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 11 of 41 report an effect size · 41 claims rest on one study
+> **Evidence** · 47 claims (27 for, 18 mixed, 1 against, 1 unmarked) · 42 studies (18 associational, 11 review, 8 causal, 2 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 11 of 42 report an effect size · 43 claims rest on one study
 
 ## Description
 Self efficacy is a learner's belief in their capability to succeed at a specific task or domain, not a general sense of self-worth. It functions as a proximal driver of learning: learners with higher efficacy set more ambitious goals, persist longer through difficulty, and recover faster from failure [Bandura, 1997]. Because it is domain-specific and malleable, it is a design target rather than a fixed learner trait.
@@ -93,6 +93,8 @@ Instructional design shapes self efficacy primarily through the four sources Ban
 - [Higher initial self-efficacy increased the odds of students reporting that accomplishing the problems increased their self-efficacy](../claims/higher-initial-self-efficacy-predicts-accomplishing-it.md) [~W]
 - [Lower initial self-efficacy significantly increased the odds of students reporting that getting help from peers increased their self-efficacy](../claims/lower-initial-self-efficacy-predicts-peer-help.md) [+W]
 - [Individual factors supportive of adolescent creativity include openness to experience, intrinsic motivation, creative self-efficacy, and external attributions for adversity](../claims/individual-supportive-factors-adolescent-creativity.md) [+W]
+- [Peer models raised self-efficacy and skill better than teacher models, but model-competence findings conflict across studies](../claims/peer-model-similarity-effects-mixed-evidence.md) [+W]
+- [The serial mediation model explains 32.5–37.0% of variance in AI-TPACK, self-efficacy, and AI integration intention](../claims/model-explained-variance-ai-integration-outcomes.md) [~W]
 
 ## The evidence by question
 

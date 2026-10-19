@@ -13,7 +13,7 @@ generated:
 # Individual Accountability
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies (1 causal, 1 quant-synthesis, 1 review), `q2`–`q3` · 2 of 3 report an effect size
+> **Evidence** · 2 claims (2 for) · 4 studies (2 review, 1 causal, 1 quant-synthesis), `q2`–`q3` · 2 of 4 report an effect size · 1 claim rests on one study
 
 ## Description
 Individual accountability is the design feature of cooperative learning that makes each group member personally responsible for a distinct portion of the work and for mastering the material. It functions as the counterweight to [Collaborative Learning](../principles/collaborative-learning.md): without it, group structures can allow some learners to ride on others' effort while learning little themselves.
@@ -52,7 +52,7 @@ Cooperative learning reliably improves achievement when — and largely only whe
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [An accountability feature allowing students to grade received reviews improved the correlation between expert and peer marks in peerScholar](../claims/peerscholar-accountability-improves-expert-peer-correlation.md) [+W]
 
 ## Related Elements
 - [Peer Assessment](peer-assessment.md) — a mechanism for making individual contributions visible to the group

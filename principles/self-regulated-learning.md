@@ -35,7 +35,7 @@ sources:
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 115 claims (53 for, 56 mixed, 6 against) · 83 studies (28 causal, 16 review, 14 associational, 13 quant-synthesis, 8 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 21 of 83 report an effect size · 104 claims rest on one study
+> **Evidence** · 121 claims (54 for, 60 mixed, 7 against) · 87 studies (30 causal, 17 review, 14 associational, 13 quant-synthesis, 9 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 22 of 87 report an effect size · 110 claims rest on one study
 
 ## Conditional relationship
 
@@ -207,6 +207,12 @@ Gains in strategy knowledge, self-reported regulation, self-efficacy, study time
 - [Students unanimously report positive effects of metacognitive strategy use on writing in both L1 and L2, with strategies compensating for limited L2 linguistic knowledge](../claims/interview-evidence-metacognitive-strategies-help-l2-writing-compensatorily.md) [+W]
 - [There is a lack of consensus regarding student-, intervention-, and setting-level variables supporting self-monitoring use in schools](../claims/lack-of-consensus-sm-variables.md) [~W]
 - [Learners often fail to regulate their own learning in computer-based learning environments](../claims/learners-fail-self-regulation-in-cbles.md) [~W]
+- [Metacognitive scaffolding added to computer-based executive attention training produces larger intelligence gains in preschoolers than regular training or an untrained active control](../claims/metacognitive-scaffolding-larger-intelligence-gains-preschoolers.md) [~W]
+- [Neither diary-keeping nor diary-plus-instruction improved university students' academic performance](../claims/no-academic-performance-improvement.md) [-W]
+- [Prompting metacognitive strategies before cognitive strategies improves strategy quality and conceptual knowledge](../claims/metacognitive-first-prompt-sequence.md) [+W]
+- [SRL training programs based on a metacognitive theoretical background show larger effects on academic achievement than programs based on cognitive theories](../claims/metacognitive-theory-background-larger-achievement-effects.md) [~W]
+- [Instructional approaches do not differ significantly in monitoring or reflecting, and omnibus differences in orienting and planning show no significant pairwise differences](../claims/no-approach-differences-monitoring-reflecting.md) [~W]
+- [Metacognitive prompts during collaboration improve communication of knowledge and its underlying assumptions](../claims/metacognitive-prompts-improve-collaborative-communication.md) [~W]
 
 ## Related Principles
 - [Goal Setting & Monitoring](goal-setting-monitoring.md)

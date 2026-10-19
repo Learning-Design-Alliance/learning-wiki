@@ -17,7 +17,7 @@ sources:
 # Information Processing Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 72 claims (38 for, 34 mixed) · 50 studies (17 causal, 17 associational, 10 review, 3 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 10 of 50 report an effect size · 69 claims rest on one study
+> **Evidence** · 76 claims (40 for, 36 mixed) · 52 studies (18 associational, 17 causal, 11 review, 3 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 10 of 52 report an effect size · 73 claims rest on one study
 
 ## Description
 Information Processing Theory treats learning as the movement and transformation of information through attention, working memory, encoding, storage, and retrieval. In broad terms, the theory asks what learners notice, how much they can actively process at once, how they organize new information, and how it becomes retrievable later.
@@ -135,6 +135,10 @@ Information processing models are often criticized as overly linear and serial, 
 - [The relative strength of MA's pathways varies by mathematical task type: WM dominates for numeracy, both WM and number processing operate for arithmetic](../claims/ma-pathways-vary-by-task-type.md) [~W]
 - [Hearing children significantly outscored the deaf group as a whole on Spatial Span Backward and Odd One Out](../claims/hearing-outscore-deaf-executive-loaded-nvwm.md) [~W]
 - [Math anxiety has a statistically significant indirect effect on arithmetic calculation through working memory (affective drop pathway)](../claims/ma-indirect-effect-wm-arithmetic.md) [+W]
+- [Math anxiety compromises working memory only when the anxiety is aroused by computation-based tasks, not on verbal span assessments](../claims/math-anxiety-compromises-working-memory-when-aroused.md) [~W]
+- [Deaf children's working memory disadvantage is task-dependent: no group differences on Spatial Span Forward or narrative measures](../claims/nvwm-group-differences-task-dependent.md) [~W]
+- [Perceptual attention is probably necessary but not sufficient for encoding stimuli into working memory](../claims/perceptual-attention-necessary-not-sufficient-wm-encoding.md) [+W]
+- [Adults with greater memory capacity, measured by WAIS Digits Backward, produced more complex utterances and used more right- and left-branching clauses](../claims/memory-capacity-linked-utterance-complexity.md) [+W]
 
 ## The evidence by question
 - *How large should a unit be, and does grouping static material help?* [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S]

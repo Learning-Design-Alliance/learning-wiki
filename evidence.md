@@ -134,12 +134,12 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | Kind | Pages | Citing a claim | Median studies behind a citing page | Citing pages whose claims have no studies |
 |---|---|---|---|---|
 | [principles](principles/index.md) | 213 | 208 | 24 | 0 |
-| [elements](elements/index.md) | 1,066 | 771 | 2 | 0 |
+| [elements](elements/index.md) | 1,066 | 773 | 2 | 0 |
 | [patterns](patterns/index.md) | 68 | 64 | 26 | 0 |
-| [strategies](strategies/index.md) | 6,282 | 2,787 | 5 | 0 |
+| [strategies](strategies/index.md) | 6,282 | 2,790 | 5 | 0 |
 | [processes](processes/index.md) | 18 | 16 | 7.5 | 0 |
 | [methods](methods/index.md) | 38 | 21 | 1 | 0 |
-| [theories](theories/index.md) | 1,361 | 894 | 1 | 0 |
+| [theories](theories/index.md) | 1,361 | 895 | 1 | 0 |
 | [learner-variables](learner-variables/index.md) | 74 | 74 | 39 | 0 |
 | [designs](designs/index.md) | 972 | 582 | 1 | 1 |
 | [products](products/index.md) | 1,814 | 1,203 | 1 | 0 |

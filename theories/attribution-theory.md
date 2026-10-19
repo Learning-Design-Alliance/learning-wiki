@@ -12,7 +12,7 @@ generated:
 # Attribution Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 4 studies (3 causal, 1 review), `q2`–`q3` · 1 of 4 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 5 studies (3 causal, 2 review), `q2`–`q3` · 1 of 5 report an effect size · 3 claims rest on one study
 
 ## Description
 Attribution Theory (Weiner, 1986) holds that people try to explain the causes of their own successes and failures — attributing an outcome to ability, effort, luck, task difficulty, mood, fatigue, and so on — and that it is the *perceived* cause, whether or not it is the actual cause, that drives subsequent motivation and behavior (Park, 2018). Weiner (2010) classifies these attributions along three independent dimensions:
@@ -54,6 +54,7 @@ Effort-based attributions are only convincing under three conditions: tasks pitc
 - [Open ChatGPT support produces stronger self-serving attribution bias than ChatGPT support with reflection](../claims/chatgpt-support-attribution-bias.md) [+M]
 - [Path analysis showed material choice reasons tracked attributions: text was chosen for perceived high ability and effort, video for low evaluations of both](../claims/attribution-paths-material-choice-study2.md) [+W]
 - [Attributional feedback raises self-efficacy and performance, with ability versus effort feedback credibility depending on learners' capabilities and timing](../claims/attributional-feedback-credibility-effort-ability.md) [+W]
+- [Praise for intelligence (person praise) induces a fixed mindset and helpless reactions compared with process praise](../claims/person-praise-induces-fixed-mindset.md) [+W]
 
 ## Related Theories
 

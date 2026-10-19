@@ -17,7 +17,7 @@ sources:
 # Retrieval Practice Experiment Architecture and Factors
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (3 for, 3 mixed) · 9 studies (5 causal, 3 quant-synthesis, 1 review), `q3`–`q4` · 6 of 9 report an effect size · 5 claims rest on one study
+> **Evidence** · 8 claims (3 for, 5 mixed) · 11 studies (6 causal, 3 quant-synthesis, 2 review), `q3`–`q4` · 6 of 11 report an effect size · 7 claims rest on one study
 
 ## Description
 The chapter's organizing framework: learners study materials, a retrieval practice condition completes initial retrieval activities while a control does not, and all take a final criterial assessment. The factors explored include "aspects of the initial retrieval practice conditions, the conditions of the ﬁnal criterial assessment, characteristics of the learners, the nature of the materials, and the setting of the study", which structure the chapter's sections.
@@ -45,6 +45,8 @@ The chapter's organizing framework: learners study materials, a retrieval practi
 - [Map drawing after 30 min is more accurate for maps learned through covert-retrieval tests than for maps learned through equal conventional study time](../claims/covert-retrieval-tests-improve-map-learning.md) [+W] — attached 2026-10-16 from Shana K. Carpenter et al. (2007), which proposed "Covert retrieval with self-scoring as a method for extending the testing effect to nonverbal, visuospatial materials"; tests this page's relationship.
 - [Students in the inserted-question condition spend more time reading the text initially than students in the post-reading condition](../claims/inserted-questions-longer-initial-reading.md) [~W]
 - [Practice retrieval performance did not differ significantly between the three retrieval strategy conditions](../claims/practice-retrieval-scores-no-condition-differences.md) [~W]
+- [Final recall does not differ reliably between participant-controlled and computer-controlled feedback skipping](../claims/participant-computer-controller-no-recall-difference.md) [~W]
+- [Complete operational definitions of conditions were provided in fewer than half of comparisons (42% conventional, 50% IVR)](../claims/operational-definitions-incomplete-in-ivr-studies.md) [~W]
 
 ## Related Theories
 - 

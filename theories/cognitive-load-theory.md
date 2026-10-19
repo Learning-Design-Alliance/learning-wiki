@@ -33,7 +33,7 @@ sources:
 # Cognitive Load Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 74 claims (44 for, 22 mixed, 8 against) · 61 studies (29 causal, 12 review, 10 quant-synthesis, 9 theoretical, 1 design), `q1`–`q4` · 11 of 61 report an effect size · 64 claims rest on one study
+> **Evidence** · 75 claims (45 for, 22 mixed, 8 against) · 62 studies (30 causal, 12 review, 10 quant-synthesis, 9 theoretical, 1 design), `q1`–`q4` · 11 of 62 report an effect size · 65 claims rest on one study
 
 ## Description
 Cognitive Load Theory (CLT) proposes that learning is constrained by the limited capacity of working memory. When the total cognitive demand of a learning task exceeds that capacity, learning breaks down — not because the learner lacks ability, but because the instructional design has exhausted the resources available for processing. The theory distinguishes three sources of load and argues that effective instruction reduces unnecessary load to free capacity for the mental work that actually builds schema.
@@ -142,6 +142,7 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - [Both effects are claimed to rely on equivalent changes in element interactivity, with the changes induced by different factors](../claims/equivalent-element-interactivity-changes-both-effects.md) [~W]
 - [Self-reported intrinsic and germane cognitive load correlate positively among college students solving algebra problems](../claims/intrinsic-and-germane-cognitive-load-correlate-positively-in-algebra.md) [~W]
 - [Working memory load degrades discrimination accuracy and slows responses in youth](../claims/load-degrades-discrimination-and-slows-responses.md) [+W]
+- [Learning with multiple representations imposes high demands and often fails to produce expected results because learners do not integrate the representations](../claims/multi-representational-learning-integration-failure.md) [+W]
 
 ## The evidence by question
 

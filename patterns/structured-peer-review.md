@@ -24,7 +24,7 @@ grain_size: lesson
 # Structured Peer Review
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 37 claims (19 for, 17 mixed, 1 against) · 50 studies (13 causal, 10 quant-synthesis, 9 associational, 7 review, 4 qualitative, 4 theoretical, 3 design), `q1`–`q4` · 8 of 50 report an effect size · 24 claims rest on one study
+> **Evidence** · 40 claims (21 for, 18 mixed, 1 against) · 51 studies (13 causal, 10 quant-synthesis, 9 associational, 8 review, 4 qualitative, 4 theoretical, 3 design), `q1`–`q4` · 8 of 51 report an effect size · 27 claims rest on one study
 
 ## Description and scope
 
@@ -161,6 +161,9 @@ This pattern is scoped to peers commenting on an individual's draft that the aut
 - [Reported reviser scores interact with episode for reading the assignment, with the effect reversing from episode 2 onwards](../claims/reviser-score-episode-reading-assignment.md) [~W]
 - [Higher-scoring students tend to be more reliable graders (except the very best), and students are least biased when grading peers with similar scores](../claims/grader-grade-relates-to-grading-reliability.md) [~W]
 - [Students rated peers' work from their own country 3.6% higher than work from elsewhere](../claims/in-group-favoritism-peer-grading-country.md) [~W]
+- [Multiple peer reviews produced greater improvement between draft and final paper than a single expert reviewer in a SWoRD evaluation](../claims/multiple-peer-reviews-beat-single-expert-reviewer-sword.md) [+W]
+- [Quality control in peer assessment can be exercised proactively or reactively on students and their assessments](../claims/peer-assessment-quality-control-proactive-reactive.md) [~W]
+- [An accountability feature allowing students to grade received reviews improved the correlation between expert and peer marks in peerScholar](../claims/peerscholar-accountability-improves-expert-peer-correlation.md) [+W]
 
 ## Related Patterns
 - [Collaborative Evaluation](collaborative-evaluation.md)

@@ -13,7 +13,7 @@ generated:
 # Addressing Student Misconceptions
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 16 claims (12 for, 4 mixed) · 14 studies (5 causal, 2 quant-synthesis, 2 review, 2 associational, 2 qualitative, 1 design), `q2`–`q4` · 5 of 14 report an effect size · 14 claims rest on one study
+> **Evidence** · 20 claims (16 for, 4 mixed) · 17 studies (6 causal, 4 associational, 2 quant-synthesis, 2 review, 2 qualitative, 1 design), `q2`–`q4` · 6 of 17 report an effect size · 17 claims rest on one study
 
 ## Description
 Activating students' prior knowledge is usually beneficial, but it is a mixed blessing when that prior knowledge is itself misleading or wrong — a common situation at any grade level, not just among young children. A kindergartner may think the sun literally "rises" (echoing adult speech) or that the earth is flat because it looks flat from the ground; a high school student may believe a boulder falls faster than a pebble, or that an object dropped from a moving car falls straight down rather than continuing to travel alongside the car as it falls.
@@ -61,6 +61,10 @@ Second, and just as important: **treat students' existing beliefs with respect**
 - [Completing a think sheet yields higher response-confidence accuracy than reading a refutation text or a standard text with a misconception list](../claims/think-sheet-higher-response-confidence-accuracy.md) [+W]
 - [Anger does not mediate the effect of concessive refutation statements on conceptual change or transfer](../claims/anger-does-not-mediate-concession-effects.md) [~W]
 - [SRL interventions for teachers become more effective when addressing teachers' opposing beliefs to facilitate conceptual change](../claims/srl-teacher-interventions-conceptual-change-beliefs.md) [+W]
+- [Adolescents show lower accuracy and longer reaction times on counterintuitive misconception trials than on matched control trials in science and maths](../claims/misconception-trials-lower-accuracy-longer-rt-than-control.md) [+W]
+- [All three instructional methods reduced misconceptions, and comprehension and transfer effects were stable at delayed testing one week later](../claims/misconception-reduction-stable-delayed-testing.md) [+W]
+- [Readers with misconceptions engage in more conceptual change strategies than readers without misconceptions, but only when reading a refutation text](../claims/misconception-refutation-conceptual-change-strategies.md) [+W]
+- [Readers with misconceptions spend more time reading law sentences than readers without misconceptions, but only in refutation texts](../claims/misconception-slower-reading-refutation-law-sentences.md) [+M]
 
 ## The evidence by question
 - *Does instruction that names and confronts a science misconception change learners' conceptions more than standard exposition?* [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](../claims/misconceptions-interfere-with-new-learning.md) [+S]

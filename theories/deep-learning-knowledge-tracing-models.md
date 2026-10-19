@@ -17,7 +17,7 @@ sources:
 # Deep Learning Knowledge Tracing Models
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (2 for, 3 mixed) · 3 studies (1 causal, 1 review, 1 design), `q2` · 0 of 3 report an effect size · 5 claims rest on one study
+> **Evidence** · 7 claims (2 for, 4 mixed, 1 against) · 5 studies (3 design, 1 causal, 1 review), `q1`–`q2` · 0 of 5 report an effect size · 7 claims rest on one study
 
 ## Description
 The survey reviews deep learning KT in four sub-categories: deep knowledge tracing with recurrent networks, memory-aware tracing such as DKVMN with key and value matrices, attentive tracing such as SAKT, SAINT and AKT built on self-attention, and graph-based tracing over knowledge-concept graphs. It argues deep learning is suited to "modeling complex learning processes, particularly when a significant amount of learning interaction data" is available.
@@ -45,6 +45,8 @@ The survey reviews deep learning KT in four sub-categories: deep knowledge traci
 - Deep Knowledge Tracing substantially outperforms Bayesian Knowledge Tracing on knowledge tracing benchmarks [+W] — attached 2026-10-14 from Chris Piech et al. (2015), which proposed "Deep Knowledge Tracing: modeling latent student knowledge with recurrent neural networks"; tests this page's relationship.
 - DKT matches an oracle on simulated data without concept labels, while BKT degrades as hidden concepts increase [+W] — attached 2026-10-14 from Chris Piech et al. (2015), which proposed "Deep Knowledge Tracing: modeling latent student knowledge with recurrent neural networks"; tests this page's relationship.
 - [Under causally valid, tuned settings, code-level embeddings do not consistently improve performance: rectified Code-DKT underperforms tuned DKT on several assignments, while ECKT remains competitive](../claims/code-embeddings-inconsistent-under-rectified-settings.md) [~M]
+- [Injecting the collaborative prior redistributes AKT's attention from local recency bias toward long-range dependencies](../claims/mbp-kt-attention-recency-to-long-range.md) [~W]
+- [Supplementary nonlinear models yield only modest AUC gains over the calibrated logistic baseline](../claims/nonlinear-models-modest-auc-gains-over-logistic-baseline.md) [-W]
 
 ## The evidence by question
 

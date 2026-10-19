@@ -17,7 +17,7 @@ sources:
 # Use federal ESSER and IDEA funding to provide early intervention, extended school year support in the summer, and other evidence-based supports for students with disabilities
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The brief recommends directing federal recovery and special education funding toward recovery supports for students with disabilities. It states that "federal ESSER and IDEA funding can provide early intervention, extended school year support in the summer, and other evidence-based supports that can create sustainable change and further growth for SWD." The strategy bundles three support types: early intervention, summer extended-year support, and other evidence-based supports.
@@ -35,6 +35,10 @@ The brief recommends directing federal recovery and special education funding to
 
 ### Target Learning Goals
 - Academic growth and recovery of learning lost during COVID-19 school disruptions
+
+## Claims
+
+- [Non-linear within-year growth has implications for extending the school year, summer learning loss, and racial/ethnic achievement gaps](../claims/nonlinear-growth-implications-school-year-summer-gaps.md) [~W]
 
 ## Related Strategies
 

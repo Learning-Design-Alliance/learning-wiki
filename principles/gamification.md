@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (13 for, 12 mixed, 1 against) · 37 studies (14 causal, 11 review, 8 quant-synthesis, 2 associational, 1 design, 1 theoretical), `q1`–`q4` · 8 of 37 report an effect size · 18 claims rest on one study
+> **Evidence** · 27 claims (13 for, 12 mixed, 2 against) · 38 studies (15 causal, 11 review, 8 quant-synthesis, 2 associational, 1 design, 1 theoretical), `q1`–`q4` · 8 of 38 report an effect size · 19 claims rest on one study
 
 ## Conditional relationship
 
@@ -191,6 +191,7 @@ The expectation should weaken if controlled comparisons of the same practice wit
 - [Gaming the system is significantly negatively correlated with test performance in the digital learning game](../claims/gaming-negative-correlation-test-performance.md) [-W]
 - [GBL and gamified approaches show comparable rates of quantifiable learning gains and affective outcomes in robotics education](../claims/comparable-outcomes-gbl-versus-gamified-robotics.md) [~W]
 - [Extrinsic incentives have mixed results on effort and achievement, working better when immediate and larger](../claims/extrinsic-incentives-mixed-results-effort-achievement.md) [~W]
+- [Adding a narrative theme to the Cache 17 game did not improve transfer posttest performance](../claims/narrative-theme-cache17-no-transfer-gain.md) [-W]
 
 ## Related Principles
 - [Autonomy](autonomy.md) — gamification works when it expands meaningful choice, not when it controls learners through rewards

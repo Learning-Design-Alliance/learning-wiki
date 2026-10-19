@@ -43,7 +43,7 @@ sources:
 # Game-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 29 claims (14 for, 15 mixed) · 34 studies (12 quant-synthesis, 8 causal, 7 review, 3 associational, 3 theoretical, 1 design), `q1`–`q4` · 12 of 34 report an effect size · 23 claims rest on one study
+> **Evidence** · 31 claims (14 for, 17 mixed) · 35 studies (13 quant-synthesis, 8 causal, 7 review, 3 associational, 3 theoretical, 1 design), `q1`–`q4` · 13 of 35 report an effect size · 25 claims rest on one study
 
 ## Conditional relationship
 
@@ -159,6 +159,8 @@ A gain in the game, a gain on an aligned outside test, delayed retention, transf
 - [Entertainment value of simulation games did not moderate learning relative to comparison instruction](../claims/entertainment-value-does-not-moderate-simulation-game-learning.md) [~W]
 - [Simulation games were the most-used game type for educational assessment (N = 7, 33%), followed by immersive (N = 6, 29%) and video games (N = 5, 24%)](../claims/gba-game-types-simulation-most-used.md) [~W]
 - [Game mechanics difficulty positively predicts persistence in Physics Playground problems](../claims/gm-difficulty-positively-predicts-persistence.md) [~W]
+- [Multi-session game interventions show significantly larger learning benefits than single-session interventions, while total play duration shows no association with effect size](../claims/multiple-sessions-moderator-games.md) [~W]
+- [Multi-session game conditions outperform nongame conditions while single-session games do not, though total play duration shows no association with effect size](../claims/multiple-sessions-benefit-single-session-null.md) [~W]
 
 ## Related Principles
 - [Simulations & Immersive Virtual Environments](simulations-immersive-virtual-environments.md) — simulations overlap with game-based learning when the experience models a system learners must navigate.

@@ -17,7 +17,7 @@ sources:
 # Analyze terminal behavior and objectives before manipulating teaching methods in instructional design
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 9 claims (6 for, 3 mixed) · 9 studies (4 associational, 2 causal, 2 theoretical, 1 design), `q1`–`q3` · 0 of 9 report an effect size · 9 claims rest on one study
+> **Evidence** · 10 claims (7 for, 3 mixed) · 10 studies (5 associational, 2 causal, 2 theoretical, 1 design), `q1`–`q3` · 1 of 10 report an effect size · 10 claims rest on one study
 
 ## Description
 Glaser's design orientation sets a task sequence: specify the terminal performance standard, determine student entry characteristics and prerequisites, construct procedures and materials to move the learner from one state to the other with provisions for motivation, and assess achieved competence against criteria. He argues analysis of behavior has been neglected yet has been the most influential element in recent instructional improvements, more so than manipulations of teaching method.
@@ -48,6 +48,7 @@ Glaser's design orientation sets a task sequence: specify the terminal performan
 - [Initial math ability is the largest single predictor of later math ability, accounting for 45% of variance in later TEMA-3 scores](../claims/initial-math-ability-largest-predictor-later-math.md) [+W]
 - [Teacher-student interaction quality may reflect pre-existing student characteristics rather than teacher skill unless prior achievement is accounted for](../claims/interaction-quality-confounded-by-prior-achievement.md) [~W]
 - [Providing a learner profile shifts an LLM's selected instructional strategies from content-focused to learner-centered](../claims/learner-profile-shifts-llm-instructional-strategy-selection.md) [+W]
+- [Non-STEM majors in conceptual physics and astronomy courses score significantly lower pre-instruction on the LCTSR than STEM majors](../claims/non-stem-lower-lctsr-pre-scores-than-stem.md) [+W]
 
 ## Related Principles
 - 

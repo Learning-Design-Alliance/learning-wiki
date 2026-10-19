@@ -13,7 +13,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 160 claims (75 for, 72 mixed, 13 against) · 124 studies (47 causal, 20 review, 19 quant-synthesis, 14 associational, 9 qualitative, 9 design, 6 theoretical), `q1`–`q4` · 32 of 124 report an effect size · 139 claims rest on one study
+> **Evidence** · 164 claims (77 for, 74 mixed, 13 against) · 127 studies (47 causal, 22 review, 19 quant-synthesis, 15 associational, 9 qualitative, 9 design, 6 theoretical), `q1`–`q4` · 32 of 127 report an effect size · 143 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? (Hattie & Timperley, 2007). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -209,6 +209,10 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Under blind conditions, students rated GenAI feedback more positively than tutor-generated feedback, with a statistically significant difference only on Genuineness favouring GenAI](../claims/genai-feedback-rated-higher-genuineness-blind.md) [+M]
 - [Learners prefer receiving corrective feedback more than teachers feel they should provide it](../claims/learners-prefer-cf-more-than-teachers-provide.md) [+W]
 - [Learners selectively filtered and adopted AI-generated feedback while maintaining pedagogical agency](../claims/learners-selectively-filter-ai-feedback-agency.md) [~W]
+- [NLP-based feedback generation for textual student answers in large courses reduced grading effort by up to 85% with high precision (reported from Bernius et al.)](../claims/nlp-feedback-reduced-grading-effort-85-percent.md) [+W]
+- [No significant relationship was found between positive feedback and positive emotions in CPS](../claims/no-positive-feedback-positive-emotion-link.md) [~W]
+- [Praise for intelligence (person praise) induces a fixed mindset and helpless reactions compared with process praise](../claims/person-praise-induces-fixed-mindset.md) [+W]
+- [Peer assessment of writing yields outcomes at least as good as teacher assessment and sometimes better](../claims/peer-writing-assessment-as-good-as-teacher.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

@@ -14,7 +14,7 @@ grain_size: unit
 # Practice with Simulated People
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 118 claims (55 for, 48 mixed, 15 against) · 57 studies (13 review, 12 causal, 12 quant-synthesis, 9 qualitative, 7 design, 4 theoretical), `q1`–`q4` · 16 of 57 report an effect size · 113 claims rest on one study
+> **Evidence** · 119 claims (55 for, 49 mixed, 15 against) · 58 studies (13 causal, 13 review, 12 quant-synthesis, 9 qualitative, 7 design, 4 theoretical), `q1`–`q4` · 17 of 58 report an effect size · 114 claims rest on one study
 
 ## Description and scope
 
@@ -156,6 +156,7 @@ This pattern is scoped to rehearsal of an interaction with a person who responds
 - [Students treated the genAI avatar as a sophisticated question base rather than a virtual patient, using predominantly closed-ended, efficiency-focused questioning](../claims/genai-avatar-treated-as-question-base.md) [-W]
 - [GenAI tutorials took longer than ePBLM tutorials, with approximately 10 additional minutes spent on history-taking](../claims/genai-history-taking-longer-tutorial-time.md) [~W]
 - [Learners perceived male PALs more positively and recalled more with them than with female PALs, reflecting gender stereotypes](../claims/male-pal-favored-over-female-pal.md) [~W]
+- [Agent accent condition showed no statistically significant differences in teachers' ratings of the agent's proficiency, etiquette, or personality](../claims/no-significant-accent-differences-casux-subscales.md) [~W]
 
 ## Related Patterns
 - [Case-Based Learning](case-based-learning.md)

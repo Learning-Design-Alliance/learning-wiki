@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 28 claims (17 for, 11 mixed) · 27 studies (7 associational, 6 review, 5 theoretical, 3 causal, 3 design, 2 quant-synthesis, 1 qualitative), `q1`–`q4` · 3 of 27 report an effect size · 27 claims rest on one study
+> **Evidence** · 31 claims (17 for, 14 mixed) · 30 studies (8 associational, 7 review, 5 theoretical, 4 design, 3 causal, 2 quant-synthesis, 1 qualitative), `q1`–`q4` · 3 of 30 report an effect size · 30 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -63,6 +63,9 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [Students using LecturaAgents reported stronger perceived understanding, assessment readiness, and future learning support than comparison-tool users](../claims/lecturaagents-student-survey-perceptions.md) [+W]
 - [Large language models can support learning and teaching across education levels, from reading and writing support for elementary students to professional training](../claims/llm-support-learning-across-education-levels.md) [+W]
 - [A struggling fifth-grade reader with ADHD gained one full grade level in reading over six weeks of iPad-mediated tutoring](../claims/ipad-tutoring-one-grade-level-growth-six-weeks-adhd-case.md) [~W]
+- [Non-users cite lack of training, distrust of responses, preference for teaching staff, academic-integrity fear and lack of interest as reasons for not using chatbots](../claims/non-user-reasons-training-trust-integrity.md) [~W]
+- [Distributing hardware without capable software produced no measurable effect on mathematics or language scores in a large randomized evaluation, as the article reports citing Cristia et al.](../claims/olpc-randomized-hardware-null-no-score-effect.md) [~M]
+- [In second-language teaching for pupils with special educational needs, Pepper was associated with higher participation than digital tablets](../claims/pepper-vs-tablets-higher-participation-sen-language.md) [~W]
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]

@@ -20,7 +20,7 @@ grain_size: lesson
 # Peer Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 20 claims (9 for, 11 mixed) · 28 studies (9 causal, 5 quant-synthesis, 5 review, 4 associational, 3 theoretical, 2 qualitative), `q1`–`q4` · 6 of 28 report an effect size · 14 claims rest on one study
+> **Evidence** · 21 claims (9 for, 12 mixed) · 28 studies (9 causal, 5 quant-synthesis, 5 review, 4 associational, 3 theoretical, 2 qualitative), `q1`–`q4` · 6 of 28 report an effect size · 15 claims rest on one study
 
 ## Description and scope
 
@@ -117,6 +117,7 @@ This pattern is scoped to conceptual questions with a defensible answer. Open-en
 - [Mean answer scores in the large group rose continually across the interaction phases, especially from phase 4 onward, but stagnated on question 3](../claims/large-group-mean-scores-rose-phases.md) [~W]
 - [Learners with lower own confidence are more inclined to change their assumption in the face of disagreement](../claims/low-own-confidence-drives-assumption-change.md) [~W]
 - [High prior knowledge students learned most conceptual understanding from questions plus arguments; answering questions alone was least effective](../claims/high-prior-knowledge-arguments-best-conceptual-understanding.md) [+W]
+- [Partner confidence does not significantly affect whether learners change their assumption in the face of disagreement](../claims/partner-confidence-no-effect-on-change.md) [~W]
 
 ## Related Patterns
 - [Think-Pair-Share](think-pair-share.md)

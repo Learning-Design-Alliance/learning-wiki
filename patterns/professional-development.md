@@ -29,7 +29,7 @@ sources:
 # Professional Development
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 46 claims (30 for, 12 mixed, 4 against) · 40 studies (9 review, 9 qualitative, 7 causal, 7 quant-synthesis, 4 design, 3 theoretical, 1 associational), `q1`–`q4` · 7 of 40 report an effect size · 40 claims rest on one study
+> **Evidence** · 47 claims (31 for, 12 mixed, 4 against) · 40 studies (9 review, 9 qualitative, 7 causal, 7 quant-synthesis, 4 design, 3 theoretical, 1 associational), `q1`–`q4` · 7 of 40 report an effect size · 41 claims rest on one study
 
 ## Description and scope
 
@@ -162,6 +162,7 @@ This pattern is scoped to changing one observable teaching practice through enac
 - [Frequent feedback and coaching for teachers is positively associated with charter school achievement impacts](../claims/teacher-feedback-coaching-associated-charter-success.md) [+W]
 - [Teachers who worked with the model of contingent teaching increased their teaching quality more than teachers who did not participate, especially on the contingent-teaching steps](../claims/mct-pd-increased-teaching-quality-more-than-control.md) [+W]
 - [Program teachers showed more complete cycles of contingent teaching at postmeasurement than the other teachers](../claims/mct-pd-more-complete-contingent-teaching-cycles.md) [+W]
+- [All 35 reviewed studies used models or modeling, and curriculum without PD support yielded worse outcomes than older curriculum with none](../claims/pd-models-and-curriculum-support.md) [+W]
 
 ## Related Patterns
 

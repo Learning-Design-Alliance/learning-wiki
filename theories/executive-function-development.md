@@ -12,7 +12,7 @@ generated:
 # Executive Function Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 125 claims (61 for, 62 mixed, 2 against) · 77 studies (48 associational, 11 causal, 10 review, 7 quant-synthesis, 1 theoretical), `q1`–`q4` · 31 of 77 report an effect size · 119 claims rest on one study
+> **Evidence** · 142 claims (65 for, 74 mixed, 3 against) · 84 studies (49 associational, 13 causal, 13 review, 7 quant-synthesis, 2 theoretical), `q1`–`q4` · 34 of 84 report an effect size · 134 claims rest on one study
 
 ## Description
 Executive functions are the self-regulatory processes that let a person inhibit an impulsive response, flexibly shift between tasks or perspectives, hold and manipulate information in mind, and organize behavior toward a goal rather than react automatically to the immediate situation. They emerge gradually starting in early childhood and continue developing through adolescence, driven both by brain maturation — particularly of the prefrontal cortex, which matures later than most other brain regions — and by experience (Fay-Stammbach, Hawes, & Meredith, 2014).
@@ -166,6 +166,23 @@ Executive function is closely tied to, but distinct from, adolescent risk-taking
 - [Children with lower pre-test executive function and social cognition skills improve more, while attendance, teacher involvement, age and school year do not predict gains](../claims/lower-pretest-skills-greater-gains-moderators-null.md) [~M]
 - [Instructions to maintain feelings of disgust do not disrupt working memory performance in either age group](../claims/maintaining-disgust-no-performance-cost.md) [~W]
 - [MAKQ strategy knowledge, but not the self-perception scales, converges with behavioural inhibitory control on the Go-No-Go task](../claims/makq-strategy-knowledge-inhibitory-control.md) [+W]
+- [Metacognitive scaffolding plus executive attention training yields significant increases in the N2 ERP component associated with conflict processing in preschoolers](../claims/metacognitive-scaffolding-n2-erp-increase-children.md) [~W]
+- [Mothers' cognitive support during problem-solving did not predict children's later cognitive flexibility](../claims/maternal-cognitive-support-did-not-predict-flexibility.md) [-W]
+- [Higher maternal education predicts membership in faster self-regulation trajectories](../claims/maternal-education-predicts-self-regulation-trajectory.md) [~W]
+- [Non-Hispanic White children showed better cognitive flexibility and received more emotionally supportive caregiving than children from minority backgrounds](../claims/minority-status-disparities-in-flexibility-and-emotional-support.md) [~W]
+- [Mindfulness training improves EFs most in 7–9 year-olds with initially poorer EFs, and yoga improves EFs where physical training alone does not](../claims/mindfulness-yoga-ef-gains-poorest-gain-most.md) [~W]
+- [Middle school's escalated executive function demands cause a crash for students with ADHD/EDF, and 504 plans rarely meet EDF needs](../claims/middle-school-ef-demands-crash-504-inadequate.md) [~W]
+- [Music training RCTs show improved verbal working memory (backward digit span), but not visuospatial or forward-span tasks](../claims/music-training-verbal-working-memory-backward-span.md) [~M]
+- [Music training is associated with improved inhibitory control in children, though the largest studies found no executive function differences](../claims/music-training-improves-inhibitory-control-children.md) [~M]
+- [Only one identified study found improved visuospatial working memory after music training](../claims/music-training-visuospatial-working-memory-single-study.md) [+W]
+- [N-2 language repetition costs are a less ambiguous marker of inhibition in language switching, though their pattern across languages is inconsistent](../claims/n2-language-repetition-costs-inhibition-marker.md) [~W]
+- [No age differences emerge in how threat and cognitive load interact on working memory accuracy or reaction time](../claims/no-age-by-threat-by-load-interaction.md) [~W]
+- [Working memory performance increases from baseline to the first post-induction trial across all age groups and conditions, consistent with practice effects](../claims/nback-practice-effect-all-groups.md) [~W]
+- [Social exclusion has no significant effect on visuo-spatial dot-matrix working memory accuracy in any age group](../claims/no-exclusion-effect-visuospatial-working-memory.md) [~W]
+- [Deaf non-native signers scored lower than hearing children on executive-loaded non-verbal working memory tasks, while deaf native signers did not differ from hearing children](../claims/non-native-signers-poorer-executive-loaded-nvwm.md) [+W]
+- [Training benefits did not extend to processing speed tasks, indicating specificity to cognitive control processes](../claims/no-transfer-processing-speed-tasks.md) [~W]
+- [Curriculum add-ons PATHS and CSRP improve children's EFs and related outcomes in regular classrooms, with CSRP's academic gains mediated largely via EF improvement](../claims/paths-csrp-addon-ef-improvement.md) [+W]
+- [The proportion of perseverators declines steeply across the preschool period, from 38% at age 3;9 to 8% at age 5;3](../claims/perseverator-proportion-declines-preschool.md) [+W]
 
 ## Related Theories
 

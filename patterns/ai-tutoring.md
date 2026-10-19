@@ -14,7 +14,7 @@ grain_size: course
 # AI Tutoring
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 293 claims (142 for, 105 mixed, 46 against) · 203 studies (73 causal, 42 review, 24 theoretical, 23 design, 19 quant-synthesis, 11 associational, 11 qualitative), `q1`–`q4` · 43 of 203 report an effect size · 279 claims rest on one study
+> **Evidence** · 298 claims (143 for, 109 mixed, 46 against) · 206 studies (74 causal, 42 review, 25 design, 24 theoretical, 19 quant-synthesis, 11 associational, 11 qualitative), `q1`–`q4` · 43 of 206 report an effect size · 284 claims rest on one study
 
 ## Description and scope
 
@@ -301,6 +301,11 @@ This pattern is scoped to the tutor's moves within tasks and the handoff to peop
 - [Llama Guard models misclassify subtle, context-dependent unsafe education prompts (e.g., exam-answer and cheating requests) as safe](../claims/llama-guard-failure-cases-subtle-education-risks.md) [~W]
 - [Longitudinal studies of trust and reliance in AI advice examine whether users rely appropriately over time but not whether independent reasoning capacity is maintained](../claims/longitudinal-trust-studies-omit-skill-outcomes.md) [~W]
 - [A combination of LSA, frequency-weighted word overlap, and regular expressions is AutoTutor's best semantic matcher; syntactic parsers proved not useful](../claims/lsa-word-overlap-regex-best-semantic-matcher.md) [~W]
+- [Students who implemented code without AI (usage level 0) maintained consistently high code comprehension, while level-3 AI users showed very little comprehension in the Mid period](../claims/no-ai-use-high-comprehension-level3-low.md) [~W]
+- [Limiting verbose Math Agent guidance sharply reduced answer giveaway but decreased cognitive engagement](../claims/math-agent-guidance-limit-tradeoff.md) [~M]
+- [Reducing Math Agent output and disabling it for non-math courses reduced latency and increased behavioral engagement](../claims/math-agent-reduction-livelatency-engagement-gains.md) [~W]
+- [Education-oriented tuning produces the largest gains in scaffolded instruction and use of longitudinal student evidence, with LongTutor Evidence averages rising sharply at all scales](../claims/omniedu-largest-gains-scaffolding-longitudinal-evidence.md) [+W]
+- [Neither tutoring mode nor human tutor access affects learners' use of conceptual help tools](../claims/no-tutoring-effect-on-conceptual-help-use.md) [~W]
 
 ## Related Patterns
 

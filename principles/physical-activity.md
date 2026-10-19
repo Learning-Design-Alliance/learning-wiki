@@ -26,7 +26,7 @@ sources:
 # Physical Activity
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 21 claims (13 for, 8 mixed) · 21 studies (9 causal, 5 review, 4 quant-synthesis, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 3 of 21 report an effect size · 15 claims rest on one study
+> **Evidence** · 24 claims (14 for, 8 mixed, 2 against) · 23 studies (10 causal, 7 review, 3 quant-synthesis, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 3 of 23 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 
@@ -152,6 +152,9 @@ Claims this page cited before it was rewritten as a conditional model, and other
 
 - [In two reviewed studies, CB-PA improvements in attention measures were moderated by other variables such as cognitive engagement and timing](../claims/cbpa-effects-moderated-cognitive-engagement-timing.md) [~W]
 - [Classroom-based physical activity interventions improve attention and/or on-task behavior in most reviewed studies of schoolchildren aged 4–18](../claims/cbpa-improves-attention-on-task-schoolchildren.md) [+W]
+- [No significant differences in attention or working memory were found between intervention and control groups at either follow-up](../claims/no-attention-working-memory-effects-social-media-training.md) [-W]
+- [In a randomized three-arm trial, medication but not physical exercise or neurofeedback was related to improved response inhibition and reduced theta power in children with ADHD](../claims/medication-not-exercise-improved-response-inhibition-janssen.md) [-W]
+- [In the highest-quality reviewed study, classroom MVPA was negatively associated with students being off task or inattentive (β = −0.17; p = 0.042)](../claims/mvpa-negatively-associated-off-task-carlson.md) [+W]
 
 ## Related Principles
 - [Mindfulness Activities](mindfulness-activities.md) — both can function as readiness and regulation supports before or during learning.

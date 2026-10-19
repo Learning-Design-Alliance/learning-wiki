@@ -51,7 +51,7 @@ sources:
 # Inquiry-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 50 claims (29 for, 16 mixed, 5 against) · 62 studies (18 causal, 15 quant-synthesis, 7 review, 7 theoretical, 6 qualitative, 6 design, 3 associational), `q1`–`q4` · 15 of 62 report an effect size · 37 claims rest on one study
+> **Evidence** · 51 claims (30 for, 16 mixed, 5 against) · 62 studies (18 causal, 15 quant-synthesis, 7 review, 7 theoretical, 6 qualitative, 6 design, 3 associational), `q1`–`q4` · 15 of 62 report an effect size · 38 claims rest on one study
 
 ## Conditional relationship
 
@@ -181,6 +181,7 @@ An engaging investigation, an immediate conceptual gain, near transfer, far tran
 - [The self-explanation-based environment elicits the most (self-)explanations and the inquiry environment elicits high hypothesis generation](../claims/approach-specific-process-profiles.md) [~W]
 - [Self-explanation-based and inquiry learning elicit more elaborative processes specifically, across all three elaborative subcategories](../claims/generation-approaches-elicit-more-elaborative-processes.md) [~W]
 - [Self-explanation-based and inquiry learning environments elicit significantly more total learning-process instances than hypermedia and observational learning environments](../claims/generation-approaches-elicit-more-learning-processes.md) [~W]
+- [Minimally guided or unguided inquiry is less effective than explicit instruction, while adequately guided inquiry outperforms expository instruction (review attribution to Alfieri et al., 2011)](../claims/minimal-guidance-inquiry-inferior-explicit-instruction.md) [+W]
 
 ## Related Principles
 

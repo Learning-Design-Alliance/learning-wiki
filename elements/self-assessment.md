@@ -22,7 +22,7 @@ sources:
 # Self-Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 41 claims (11 for, 20 mixed, 10 against) · 33 studies (18 causal, 7 associational, 3 quant-synthesis, 2 review, 2 theoretical, 1 qualitative), `q2`–`q4` · 11 of 33 report an effect size · 38 claims rest on one study
+> **Evidence** · 44 claims (11 for, 22 mixed, 11 against) · 34 studies (18 causal, 8 associational, 3 quant-synthesis, 2 review, 2 theoretical, 1 qualitative), `q2`–`q4` · 13 of 34 report an effect size · 41 claims rest on one study
 
 ## Description
 Self-assessment is the element in which learners judge their own work, understanding, or progress against explicit criteria. It is useful when the goal is not only better immediate performance, but stronger self-monitoring and more accurate judgments about what to improve next.
@@ -91,6 +91,9 @@ Self-assessment is the element in which learners judge their own work, understan
 - [Group settings and guidelines each promoted calibration accuracy and achievement in a high school biology factorial experiment](../claims/group-settings-and-guidelines-promote-calibration.md) [+W]
 - [Hard-easy effect: students are more accurate but underconfident on easy items and less accurate but overconfident on difficult items](../claims/hard-easy-effect-calibration.md) [~W]
 - [Incentives significantly improved calibration accuracy only among lower-achieving students in a college-course quasi-experiment](../claims/incentives-improve-calibration-lower-achievers.md) [~W]
+- [Negative example standards do not reliably improve judgment accuracy and significantly decrease relative accuracy in evaluating self-generated examples](../claims/negative-example-standards-inconsistent-effects.md) [-W]
+- [Self-assessed creative performance and self-assessed idea creativity are moderately correlated but empirically distinct judgments](../claims/performance-and-idea-self-assessments-moderately-related.md) [~W]
+- [The reduction in perceived difficulty does not mediate the benefits of rubrics on self-assessment accuracy](../claims/perceived-difficulty-does-not-mediate-rubric-accuracy-benefits.md) [~W]
 
 ## The evidence by question
 

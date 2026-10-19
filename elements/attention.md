@@ -13,7 +13,7 @@ generated:
 # Attention
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 17 claims (12 for, 2 mixed, 3 against) · 30 studies (9 causal, 9 review, 7 quant-synthesis, 2 associational, 2 qualitative, 1 design), `q1`–`q4` · 5 of 30 report an effect size · 10 claims rest on one study
+> **Evidence** · 18 claims (13 for, 2 mixed, 3 against) · 31 studies (10 review, 9 causal, 7 quant-synthesis, 2 associational, 2 qualitative, 1 design), `q1`–`q4` · 5 of 31 report an effect size · 11 claims rest on one study
 
 ## Description
 Attention is the gateway to learning: information that is not attended to is not encoded, regardless of its quality or presentation. As an instructional element, "attention" refers to the deliberate design moves — signaling, salience, segmentation, and distraction management — that direct learners' limited attentional resources toward the content and interactions that matter.
@@ -62,6 +62,7 @@ Because working memory is severely limited and attention is selective, instructi
 - [Children with developmental dyscalculia are more susceptible to task-irrelevant information than controls across five experiments](../claims/dd-interference-suppression-impairment.md) [+W]
 - [Irrelevant changing-state sounds impair children's serial recall of visually presented items, with developmental evidence pointing to two mechanisms](../claims/irrelevant-sound-effect-children-serial-recall.md) [+M]
 - [Large arrays exceed young children's attentional resources, preventing optimal allocation to relevant items](../claims/large-arrays-exceed-childrens-attentional-resources.md) [+W]
+- [Perceptual attention is probably necessary but not sufficient for encoding stimuli into working memory](../claims/perceptual-attention-necessary-not-sufficient-wm-encoding.md) [+W]
 
 ## The evidence by question
 - *Do cues that highlight the essential material and its organisation improve learning, and by how much?* [Signaling Improves Learning](../claims/signaling-improves-learning.md) [+S]

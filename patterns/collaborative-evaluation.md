@@ -24,7 +24,7 @@ grain_size: lesson
 # Collaborative Evaluation
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 20 claims (7 for, 13 mixed) · 40 studies (15 causal, 7 quant-synthesis, 7 associational, 5 theoretical, 3 review, 2 qualitative, 1 design), `q1`–`q4` · 5 of 40 report an effect size · 6 claims rest on one study
+> **Evidence** · 21 claims (7 for, 14 mixed) · 41 studies (15 causal, 7 quant-synthesis, 7 associational, 5 theoretical, 3 review, 3 qualitative, 1 design), `q1`–`q4` · 5 of 41 report an effect size · 7 claims rest on one study
 
 ## Description and scope
 
@@ -145,6 +145,7 @@ This pattern is scoped to learners judging the quality of objects against criter
 - [Exemplar-based calibration is expected to align student ratings with expert ratings at the criterion level](../claims/trainer-calibration-expected-align-rater-judgments.md) [~W]
 - [AI hallucination can be turned into a pedagogical resource by making verification and collaborative fact evaluation integral to AI-supported learning](../claims/hallucination-as-pedagogical-resource.md) [~W]
 - [Only perceived accuracy differed across educational contexts, rated lower in CTeSP than in secondary and undergraduate education](../claims/perceived-accuracy-lower-ctesp-context-difference.md) [~W]
+- [One student group compared outputs across three LLMs and judged Gemini more accurate overall, though it still failed fine-grained distinctions](../claims/multi-llm-comparison-gemini-more-accurate.md) [~W]
 
 ## Related Patterns
 - [Structured Peer Review](structured-peer-review.md)

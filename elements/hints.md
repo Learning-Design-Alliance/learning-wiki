@@ -22,7 +22,7 @@ sources:
 # Hints
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (4 for, 5 mixed, 1 against) · 9 studies (3 causal, 2 associational, 2 design, 1 review, 1 theoretical), `q2`–`q3` · 2 of 9 report an effect size · 9 claims rest on one study
+> **Evidence** · 11 claims (4 for, 6 mixed, 1 against) · 9 studies (3 causal, 2 associational, 2 design, 1 review, 1 theoretical), `q2`–`q3` · 2 of 9 report an effect size · 10 claims rest on one study
 
 ## Description
 Hints are partial prompts or cues that help learners continue a task without fully giving away the answer. They are useful when the design goal is to preserve productive struggle while reducing the chance of stuckness, confusion, or abandonment.
@@ -60,6 +60,7 @@ Hints are partial prompts or cues that help learners continue a task without ful
 - [Low-performing students access solutions more often than higher-performing students, while hint access does not differ across quartiles](../claims/solution-access-differs-hints-do-not.md) [~W]
 - [Stimulus and phonemic cues did not notably help adult struggling readers name objects on the BNT](../claims/cues-did-not-help-adult-struggling-readers-naming.md) [-W]
 - [Hint Factory MDP-generated hints gave correct next-step hints over 80% of the time and a pilot showed students solved more logic proofs with hints](../claims/hint-factory-mdp-hints-effective.md) [+W]
+- [Feedback effects on time to solution did not differ significantly between novice and advanced students, though predicted trends suggest feedback was more beneficial for advanced students](../claims/no-significant-feedback-expertise-interaction.md) [~W]
 
 ## The evidence by question
 

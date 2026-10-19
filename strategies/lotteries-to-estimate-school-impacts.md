@@ -17,7 +17,7 @@ sources:
 # Use school lotteries as a research design for estimating impacts of schools of choice on student outcomes
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article offers lessons for researchers who use lottery-based designs, stating that schools' admission lotteries can be used "to estimate impacts of schools on student outcomes." Because oversubscribed schools allocate seats by lottery, applicants who win and lose the lottery provide comparison groups, and the article distills practical lessons from a national study for implementing this approach.
@@ -39,6 +39,7 @@ The article offers lessons for researchers who use lottery-based designs, statin
 ## Claims
 
 - [Oversubscription is prevalent among charter middle schools, enabling lottery-based evaluation](../claims/oversubscribed-charter-middle-schools-prevalence.md) [+W]
+- [Oversubscribed charter middle schools differ in features from charter schools that are not oversubscribed](../claims/oversubscribed-charter-schools-differ-in-features.md) [~W]
 
 ## Related Strategies
 

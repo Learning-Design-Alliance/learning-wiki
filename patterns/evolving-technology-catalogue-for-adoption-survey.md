@@ -17,7 +17,7 @@ sources:
 # Continually culling, clustering, and redefining the technology catalogue to track converging emergent technologies
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (2 design), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The LoA instrument's technology list is treated as an evolving artifact: the authors report "continually culling, refining, redefining and clustering our list of technologies" to represent current emergent yet applicable instructional technologies. They created a single classroom video category spanning delivery formats, added mobile devices, separated wikis/blogging from social networking, identified virtual worlds as a singular category, and removed production and laboratory software increasingly seen as standard tools.
@@ -37,7 +37,9 @@ The LoA instrument's technology list is treated as an evolving artifact: the aut
 - accurately representing current emergent educational technologies in collaborative adoption assessment
 
 ### Claims
+
 - [Loa Revised Ten Level Scale From Respondent Feedback](../claims/loa-revised-ten-level-scale-from-respondent-feedback.md) [+W]
+- [The authors declined requests to name specific technologies or focus the standards on AI, citing rapid technological change](../claims/no-named-technologies-standards-scope.md) [+W]
 
 ## Related Patterns
 - 

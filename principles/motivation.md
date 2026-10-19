@@ -43,7 +43,7 @@ sources:
 # Motivation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 69 claims (40 for, 26 mixed, 3 against) · 71 studies (19 review, 17 causal, 9 qualitative, 8 associational, 8 theoretical, 7 quant-synthesis, 3 design), `q1`–`q4` · 9 of 71 report an effect size · 55 claims rest on one study
+> **Evidence** · 75 claims (43 for, 29 mixed, 3 against) · 76 studies (21 review, 18 causal, 9 qualitative, 9 theoretical, 8 associational, 7 quant-synthesis, 4 design), `q1`–`q4` · 9 of 76 report an effect size · 61 claims rest on one study
 
 ## Conditional relationship
 
@@ -218,6 +218,12 @@ Starting, effort, voluntary persistence, enjoyment, reported motivation and lear
 - [Frustration at not understanding a concept is perceived to motivate exploration and persistence, while frustration attributed to teachers or curriculum impairs motivation](../claims/frustration-epistemic-motivates-external-impairs.md) [~W]
 - [Gaming participants did not report the negative consequences of task failure; low-stakes experimentation and regeneration supported perseverance](../claims/gaming-failure-tolerance-perseverance.md) [~W]
 - [Students perceiving high task value exert greater effort and achieve more than students perceiving low value](../claims/high-task-value-effort-achievement.md) [+W]
+- [Mastery-focused environments increase motivation to learn while performance-focused environments detract from it for all but the highest achievers](../claims/mastery-environments-increase-motivation.md) [~W]
+- [The article's supporting evidence is anecdotal and qualitative; empirical studies of impact on persistence, self-efficacy, and course climate are needed](../claims/micro-intervention-evidence-anecdotal-empirical-studies-needed.md) [~W]
+- [Micro-credentials function as motivational aids and carry perceived risks around credibility, visibility, and privacy](../claims/microcredential-motivation-and-risks.md) [+W]
+- [Positive attitudes towards English and high motivation are associated with better pronunciation outcomes](../claims/motivation-associated-better-pronunciation-outcomes.md) [+W]
+- [Motivation modulates anticipatory attentional processing: high-interest stimuli produced larger LDAP-period amplitude over right parieto-occipital cortex](../claims/motivation-modulates-ldap-right-parieto-occipital.md) [+W]
+- [Increased motivation eliminated ADHD–TD differences on most attention measures but differences persisted in complex multitasking and commission errors](../claims/motivation-reduces-but-not-eliminates-adhd-deficits.md) [~M]
 
 ## Related Principles
 - [Learner Choice](autonomy.md) — one route to stronger ownership and autonomy

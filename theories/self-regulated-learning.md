@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 150 claims (77 for, 67 mixed, 6 against) · 125 studies (46 associational, 37 causal, 12 review, 11 quant-synthesis, 7 theoretical, 6 qualitative, 6 design), `q1`–`q4` · 32 of 125 report an effect size · 135 claims rest on one study
+> **Evidence** · 156 claims (78 for, 71 mixed, 7 against) · 130 studies (47 associational, 39 causal, 13 review, 12 quant-synthesis, 7 theoretical, 6 qualitative, 6 design), `q1`–`q4` · 33 of 130 report an effect size · 141 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -197,6 +197,12 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Low-prior-knowledge students struggle to deploy key self-regulatory processes during learning](../claims/low-prior-knowledge-students-struggle-self-regulation.md) [+W]
 - [There is a lack of consensus regarding student-, intervention-, and setting-level variables supporting self-monitoring use in schools](../claims/lack-of-consensus-sm-variables.md) [~W]
 - [L1 writing metacognitive strategies transfer to L2 writing, invariant across L2 proficiency and academic major groups](../claims/l1-l2-transfer-of-writing-metacognitive-strategies-invariant.md) [+W]
+- [SRL training programs based on a metacognitive theoretical background show larger effects on academic achievement than programs based on cognitive theories](../claims/metacognitive-theory-background-larger-achievement-effects.md) [~W]
+- [Instructional approaches do not differ significantly in monitoring or reflecting, and omnibus differences in orienting and planning show no significant pairwise differences](../claims/no-approach-differences-monitoring-reflecting.md) [~W]
+- [Metacognition is significantly positively correlated with math performance in adolescence (pooled r = .37)](../claims/metacognition-math-correlation-adolescence-pooled.md) [+W]
+- [No group differences appear in self-regulation, strategies, or motivation across the four mathematics achievement groups](../claims/no-group-differences-other-metacognition.md) [~W]
+- [Adequacy of regulation decisions did not depend on misconceptions or instructional method](../claims/no-effect-regulation-decision-adequacy.md) [~W]
+- [The field lacks micro-level S-SRL theory and methodological guidelines, and studies have not connected temporal/sequential characteristics to learning gains](../claims/need-micro-level-theory-and-method-guidelines-ssrl.md) [-W]
 
 ## The evidence by question
 

@@ -39,7 +39,7 @@ sources:
 # Cognitive Flexibility
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 19 claims (8 for, 9 mixed, 2 against) · 23 studies (8 causal, 4 theoretical, 3 quant-synthesis, 3 review, 2 qualitative, 2 design, 1 associational), `q1`–`q4` · 4 of 23 report an effect size · 14 claims rest on one study
+> **Evidence** · 20 claims (8 for, 10 mixed, 2 against) · 24 studies (9 causal, 4 theoretical, 3 quant-synthesis, 3 review, 2 qualitative, 2 design, 1 associational), `q1`–`q4` · 4 of 24 report an effect size · 15 claims rest on one study
 
 ## Conditional relationship
 
@@ -161,6 +161,7 @@ Noticing that a case differs, saying what changes, choosing an appropriate metho
 
 - [Variation-theory-based teaching significantly improves students' alternation of points of view on novel, untaught societal issues (transfer), with smaller effects than on the taught task](../claims/variation-theory-transfer-novel-issues.md) [~W]
 - [Walking the body-scale number line disrupted students' prior misconceptions and erroneous rules, which resurfaced when they returned to the desk-scale number line](../claims/walking-disrupts-misconceptions-which-resurface.md) [~W]
+- [Learning with multiple representations imposes high demands and often fails to produce expected results because learners do not integrate the representations](../claims/multi-representational-learning-integration-failure.md) [~W]
 
 ## Related Principles
 - [Perspective-Taking](perspective-taking.md) — multiple viewpoints often drive the need for flexible interpretation

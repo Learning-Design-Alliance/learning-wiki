@@ -17,7 +17,7 @@ sources:
 # Knowledge Objects and Knowledge Practices
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 39 claims (29 for, 9 mixed, 1 against) · 31 studies (11 qualitative, 6 associational, 5 review, 5 design, 3 theoretical, 1 causal), `q1`–`q3` · 0 of 31 report an effect size · 39 claims rest on one study
+> **Evidence** · 40 claims (30 for, 9 mixed, 1 against) · 32 studies (11 qualitative, 7 associational, 5 review, 5 design, 3 theoretical, 1 causal), `q1`–`q3` · 0 of 32 report an effect size · 40 claims rest on one study
 
 ## Description
 Drawing on Knorr Cetina's (2001) concept of epistemic objects, a **knowledge object (KO)** is an evolving, materially mediated artifact or representation — a report, a proposal, a logo, a plan — that is shaped through participants' interaction and, in turn, structures what the group does next. Unlike a finished document, a knowledge object is treated as perpetually unfinished: it raises awareness of understanding gaps, makes group progress visible, and prompts reflection precisely because it keeps changing. A **knowledge practice (KP)** is a recurring, dynamic epistemic activity through which a group jointly creates knowledge around an open-ended, complex problem — not limited to talk, but including the embodied and materially mediated practices (writing on a flip chart, restructuring a shared document) that channel a group's collective effort.
@@ -77,6 +77,7 @@ This is a distinct lens from [boundary crossing](boundary-crossing-learning.md):
 - [Wiki negotiation unfolds in four episodes with distinct intersubjective orientations, beginning with an exploratory orientation during content generation](../claims/four-episodes-exploratory-content-generation.md) [+W]
 - [Externalizing knowledge into a wiki can itself produce individual learning through deeper processing](../claims/externalization-produces-individual-learning.md) [~W]
 - [High-literacy students' ENA networks center on links among AI Improvement Commands, Clarification Questions, and Meta-Commands, described as a collaborative, epistemic approach](../claims/high-literacy-collaborative-refinement-network.md) [+W]
+- [Online concept-mapping behaviour may play a critical role in transforming verbal-discourse knowledge into deep-level co-construction; Type 3's lowest behavioural knowledge construction accompanied its lowest performance](../claims/online-behaviour-transforms-discourse-knowledge.md) [+W]
 
 ## Related Theories
 

@@ -26,7 +26,7 @@ sources:
 # Problem-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 33 claims (9 for, 21 mixed, 3 against) · 34 studies (9 causal, 8 review, 6 quant-synthesis, 5 theoretical, 4 qualitative, 1 associational, 1 design), `q1`–`q4` · 5 of 34 report an effect size · 28 claims rest on one study
+> **Evidence** · 36 claims (10 for, 23 mixed, 3 against) · 36 studies (9 causal, 9 review, 6 quant-synthesis, 6 theoretical, 4 qualitative, 1 associational, 1 design), `q1`–`q4` · 5 of 36 report an effect size · 31 claims rest on one study
 
 ## Conditional relationship
 
@@ -134,6 +134,9 @@ At the curriculum level, the expectation of a small and variable average should 
 - [PBL group discussion during problem analysis mainly concerns theory building, with less data exploration and meta-reasoning](../claims/pbl-discussion-mainly-theory-building.md) [~W]
 - [AI-PBL students achieve high normalized learning gains (g = 0.73) in computational thinking and academic achievement while control students record low gains (g ≤ 0.20)](../claims/ai-pbl-high-ngain-versus-control-low.md) [~W]
 - [Despite extensive research on PBL, there is heated debate about its effectiveness](../claims/heated-debate-pbl-effectiveness.md) [~W]
+- [PBL offers potential to help students develop flexible understanding and lifelong learning skills](../claims/pbl-potential-flexible-understanding-lifelong-learning.md) [~W]
+- [Student engagement is higher during PBL than during traditional instruction](../claims/pbl-engagement-higher-than-traditional.md) [+W]
+- [Research on PBL covers flexible knowledge, problem-solving, and SDL skills but little on collaboration and motivation](../claims/pbl-evidence-uneven-across-goals.md) [~W]
 
 ## Related Principles
 - [Inquiry-based Learning](inquiry-based-learning.md) — PBL is one inquiry form centered on authentic problems.

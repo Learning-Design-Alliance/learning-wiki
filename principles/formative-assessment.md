@@ -39,7 +39,7 @@ sources:
 # Formative Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (11 for, 14 mixed, 1 unmarked) · 38 studies (11 quant-synthesis, 10 causal, 7 review, 3 associational, 3 theoretical, 2 qualitative, 2 design), `q1`–`q4` · 15 of 38 report an effect size · 16 claims rest on one study
+> **Evidence** · 27 claims (12 for, 14 mixed, 1 unmarked) · 39 studies (11 quant-synthesis, 10 causal, 8 review, 3 associational, 3 theoretical, 2 qualitative, 2 design), `q1`–`q4` · 15 of 39 report an effect size · 17 claims rest on one study
 
 ## Description
 
@@ -252,6 +252,7 @@ The article recommends that pronunciation-focused audio discussions be embedded 
 - [Automated formative assessment and feedback with AI agents ranks second-highest in impact with moderate perceived challenge](../claims/automated-ai-assessment-high-impact-moderate-challenge.md) [+W]
 - [High-level feedback on reasoning and synthesis should remain a human responsibility for the foreseeable future](../claims/high-level-feedback-remains-human-responsibility.md) [~W]
 - [Providing a rubric reduces perceived difficulty of self-assessment but not invested mental effort](../claims/rubrics-reduce-perceived-difficulty-not-mental-effort.md) [+W]
+- [Peer assessment of oral presentations improves self-concept relative to control and improves presentation performance, but outcome studies remain few](../claims/peer-oral-presentation-outcomes.md) [+W]
 
 ## Key Sources
 

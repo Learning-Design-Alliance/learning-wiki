@@ -13,7 +13,7 @@ generated:
 # Social Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 16 claims (11 for, 5 mixed) · 16 studies (6 qualitative, 4 quant-synthesis, 3 causal, 1 review, 1 design, 1 theoretical), `q1`–`q4` · 4 of 16 report an effect size · 14 claims rest on one study
+> **Evidence** · 18 claims (12 for, 6 mixed) · 17 studies (6 qualitative, 4 quant-synthesis, 3 causal, 1 review, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 4 of 17 report an effect size · 16 claims rest on one study
 
 ## Description
 Social learning is the element in which interaction with peers, models, or communities is treated as a direct source of learning.
@@ -40,6 +40,8 @@ Social learning is the element in which interaction with peers, models, or commu
 - [Focus group data indicate student tutors show more social congruence, being more involved with the group and more open to student opinions](../claims/student-tutors-social-congruence-focus-group.md) [+W]
 - [International online MBA students perceived cultural differences in collaboration but reported they did not negatively affect their learning](../claims/cultural-differences-visible-not-negative-collaboration.md) [~W]
 - [Learners perceived male PALs more positively and recalled more with them than with female PALs, reflecting gender stereotypes](../claims/male-pal-favored-over-female-pal.md) [~W]
+- [Perceived collaboration among peers positively predicts academic engagement, but competitive climates can undercut collaboration](../claims/peer-collaboration-predicts-engagement.md) [+W]
+- [Perceived partner competence does not predict how often learners change the direction of their assumptions](../claims/perceived-competence-no-impact-on-adjustment.md) [~W]
 
 ## The evidence by question
 - *Does structured cooperative group work raise achievement more than individualistic, competitive or traditional whole-class instruction?* [Cooperative Learning Improves Achievement](../claims/cooperative-learning-improves-achievement.md) [+S]

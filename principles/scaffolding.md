@@ -27,7 +27,7 @@ sources:
 # Scaffolding
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 61 claims (18 for, 34 mixed, 9 against) · 45 studies (23 causal, 7 review, 5 quant-synthesis, 4 theoretical, 3 design, 2 associational, 1 qualitative), `q1`–`q4` · 13 of 45 report an effect size · 55 claims rest on one study
+> **Evidence** · 64 claims (19 for, 36 mixed, 9 against) · 46 studies (24 causal, 7 review, 5 quant-synthesis, 4 theoretical, 3 design, 2 associational, 1 qualitative), `q1`–`q4` · 13 of 46 report an effect size · 58 claims rest on one study
 
 ## Conditional relationship
 
@@ -156,6 +156,9 @@ Assisted performance, unassisted immediate performance, delayed retention, trans
 - [Combining domain-general and domain-specific scaffolds yields the highest effect, and domain-general scaffolds outperform domain-specific ones](../claims/domain-general-scaffolds-outperform-domain-specific.md) [~M]
 - [Drawing provided no benefit for lower-order recognition knowledge, and the local support condition scored significantly lower than control](../claims/drawing-no-recognition-benefit-local-worse.md) [-W]
 - [Cognitive and metacognitive prompts in learning journals helped early in a term but became detrimental by its end; adaptive fading-out mitigated this](../claims/expertise-reversal-writing-journal-prompts-fading.md) [~W]
+- [Metacognitive scaffolding plus executive attention training yields significant increases in the N2 ERP component associated with conflict processing in preschoolers](../claims/metacognitive-scaffolding-n2-erp-increase-children.md) [~W]
+- [Multiple kinds of scaffolds are more effective than a unique scaffold for academic performance](../claims/multiple-scaffolds-outperform-unique.md) [+W]
+- [In Experiment 1, the CSCL script condition significantly affected domain-specific MAS, with only the maximal script significantly outperforming the minimal script](../claims/maximal-cscl-script-outperformed-minimal-domain-specific-mas.md) [~W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md)

@@ -13,7 +13,7 @@ generated:
 # Technology Integration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 66 claims (28 for, 33 mixed, 5 against) · 61 studies (14 associational, 10 qualitative, 9 causal, 9 review, 7 quant-synthesis, 7 design, 5 theoretical), `q1`–`q4` · 11 of 61 report an effect size · 64 claims rest on one study
+> **Evidence** · 68 claims (29 for, 34 mixed, 5 against) · 63 studies (14 associational, 11 qualitative, 10 causal, 9 review, 7 quant-synthesis, 7 design, 5 theoretical), `q1`–`q4` · 11 of 63 report an effect size · 66 claims rest on one study
 
 ## Description
 Technology integration is the element in which digital tools are used in direct service of learning goals, feedback, access, or collaboration.
@@ -91,6 +91,8 @@ Technology integration is the element in which digital tools are used in direct 
 - [Nearly four in five Chinese HSS students perceived academic performance gains from GenAI, which the authors caution may reflect assessment limitations](../claims/genai-performance-gains-assessment-caution.md) [~W]
 - [GenAI-supported writing instruction yields a statistically significant positive pooled effect on L2/EFL writing performance (g = 0.80) with very high heterogeneity](../claims/genai-writing-instruction-pooled-effect-g-080.md) [~W]
 - [LLM usage varied across assignments and tasks, increasing for later assignments (especially discussion points), while Low-Reliance students concentrated use early and reduced it after Midterm 2](../claims/llm-usage-trends-across-assignments.md) [~W]
+- [Staff raised equity concerns that students who pay for upgraded GenAI tools gain an advantage over peers using free versions](../claims/paid-ai-tool-access-equity-advantage.md) [~W]
+- [Perceived usefulness of the AI assistant significantly and partially mediated the relationship between AI-assisted programming and collaborative outcomes and performance](../claims/perceived-usefulness-mediation-ai-programming-outcomes.md) [+W]
 
 ## The evidence by question
 - *Does building AI tools into instruction raise achievement over teaching the same content without them, and in which settings?* [AI-supported instruction has a moderate positive effect on student achievement in STEM education (g = 0.670 under a random effects model)](../claims/ai-instruction-stem-moderate-positive-effect.md) [+M]

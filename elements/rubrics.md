@@ -14,7 +14,7 @@ generated:
 # Rubrics
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 17 claims (10 for, 5 mixed, 2 against) · 18 studies (8 causal, 4 associational, 3 review, 2 quant-synthesis, 1 design), `q2`–`q3` · 4 of 18 report an effect size · 14 claims rest on one study
+> **Evidence** · 19 claims (10 for, 6 mixed, 3 against) · 19 studies (8 causal, 4 review, 4 associational, 2 quant-synthesis, 1 design), `q2`–`q3` · 4 of 19 report an effect size · 16 claims rest on one study
 
 ## Description
 Rubrics are the element in which criteria and performance levels are made explicit to guide quality work and evaluation.
@@ -47,6 +47,8 @@ Rubrics are the element in which criteria and performance levels are made explic
 - [Authorship scores were highly concentrated near the maximum of the rubric scale](../claims/authorship-ceiling-concentration.md) [-W]
 - [Combining the revised rubric with rationale-first evaluation yields the highest human–machine alignment, with dimension-specific gains](../claims/combined-rubric-rationale-highest-alignment.md) [+W]
 - [All four evaluated LLMs produce strongly bimodal item-level score distributions on bash exams, and rubric-enhanced prompts amplify the near-perfect-score peak](../claims/llm-bash-score-distributions-bimodal-v2-amplifies.md) [~M]
+- [The reduction in perceived difficulty does not mediate the benefits of rubrics on self-assessment accuracy](../claims/perceived-difficulty-does-not-mediate-rubric-accuracy-benefits.md) [~W]
+- [Holistic peer feedback correlated significantly with tutor marks while specific-criteria rubric feedback did not in the PEARS system](../claims/pears-holistic-feedback-correlates-tutor-marks-specific-does-not.md) [-W]
 
 ## The evidence by question
 - *Does giving learners the criteria, and having them apply them to their own or peers' work, improve the work?* [Self-assessing against a rubric improved the quality of student work in two non-randomised studies, one of which also found more stress and performance-avoidance](../claims/rubrics-improve-student-work.md) [+M]

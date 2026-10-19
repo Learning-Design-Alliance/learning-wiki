@@ -16,7 +16,7 @@ grain_size: program, course, unit
 # Social Emotional Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 27 claims (20 for, 7 mixed) · 43 studies (14 causal, 13 quant-synthesis, 12 review, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 15 of 43 report an effect size · 14 claims rest on one study
+> **Evidence** · 29 claims (21 for, 8 mixed) · 45 studies (15 causal, 13 quant-synthesis, 13 review, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 15 of 45 report an effect size · 16 claims rest on one study
 
 ## Description and scope
 
@@ -148,6 +148,8 @@ This pattern is scoped to sustained, explicit teaching and reinforcement of name
 - [SEL programs reduce disruptive behavior problems and emotional distress and foster prosocial behavior](../claims/sel-programs-reduce-behavior-problems-distress.md) [+W]
 - [SEL programs are associated with an 11 percentile-point improvement in academic performance](../claims/sel-programs-improve-academic-performance.md) [+W]
 - [SEL programs cannot produce meaningful long-term growth in authoritarian, punitive, or exclusionary environments; restorative practices are needed](../claims/sel-requires-educative-inclusive-environments.md) [~W]
+- [Curriculum add-ons PATHS and CSRP improve children's EFs and related outcomes in regular classrooms, with CSRP's academic gains mediated largely via EF improvement](../claims/paths-csrp-addon-ef-improvement.md) [+W]
+- [There was no clear pattern to the relationship between student, teacher, and school characteristics and the effectiveness of the interventions.](../claims/no-clear-pattern-characteristics-and-effectiveness.md) [~W]
 
 ## Related Patterns
 - [Cooperative Learning](cooperative-learning.md) — depends on the relationship skills SEL develops; the two patterns are mutually reinforcing when group work carries individual accountability

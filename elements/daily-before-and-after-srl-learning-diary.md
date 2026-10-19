@@ -18,7 +18,7 @@ sources:
 # Daily Before-and-After SRL Learning Diary
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (1 for, 6 mixed, 2 against) · 7 studies (5 causal, 1 design, 1 theoretical), `q2`–`q3` · 1 of 7 report an effect size · 9 claims rest on one study
+> **Evidence** · 10 claims (1 for, 6 mixed, 3 against) · 7 studies (5 causal, 1 design, 1 theoretical), `q2`–`q3` · 2 of 7 report an effect size · 10 claims rest on one study
 
 ## Description
 A daily online learning diary with two sections per learning day. "Before learning, open-ended questions triggered goal-setting, planning, and self-motivation", asking which chapters, goals, strategies and time were planned. The evening section "triggered reflection and goal-setting for the following day", comparing goals to achievement and naming obstacles. Participants averaged 12.58 entries; used alone, it produced no significant gains in this study.
@@ -52,6 +52,7 @@ A daily online learning diary with two sections per learning day. "Before learni
 - [The choice of online versus offline measures of SRL moderates the strength of the relationship between SRL processes and achievement](../claims/measure-type-moderates-srl-achievement-relation.md) [~W]
 - [A Monitoring and Regulation Strategy delivered online increased university students' exam scores, whereas the Monitoring Exercise alone did not](../claims/mrs-strategy-increased-exam-scores.md) [+W]
 - [The intervention did not increase students' SRL aptitude, yet supported higher course grades](../claims/regulatory-support-no-increase-srl-aptitude.md) [~W]
+- [Neither diary-keeping nor diary-plus-instruction improved university students' academic performance](../claims/no-academic-performance-improvement.md) [-W]
 
 ## The evidence by question
 - *Does keeping a learning diary by itself improve learners' self-regulation, or only when it comes with self-regulation training or prompts?* [Keeping a structured learning diary without further intervention did not improve university students' self-regulation](../claims/learning-diary-alone-no-self-regulation-gain.md) [-M]

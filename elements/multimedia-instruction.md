@@ -13,7 +13,7 @@ generated:
 # Multimedia Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 16 claims (12 for, 4 mixed) · 22 studies (9 causal, 6 quant-synthesis, 5 review, 1 design, 1 theoretical), `q1`–`q4` · 9 of 22 report an effect size · 11 claims rest on one study
+> **Evidence** · 18 claims (13 for, 5 mixed) · 24 studies (10 causal, 6 quant-synthesis, 6 review, 1 design, 1 theoretical), `q1`–`q4` · 9 of 24 report an effect size · 13 claims rest on one study
 
 ## Description
 Multimedia instruction is the element in which teaching combines spoken or written language with visuals, diagrams, animation, or other media in a coordinated instructional sequence. It is useful when multiple representations clarify explanation and support comprehension.
@@ -52,6 +52,8 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [Animation produces a small overall learning advantage over static graphics in multimedia instruction](../claims/animation-small-overall-advantage-over-static-graphics.md) [~W]
 - [Conversational narration style produces a large effect on learning from multimedia instruction, likely via social partnership](../claims/conversational-narration-style-large-learning-effect.md) [+W]
 - [The pipeline feasibly produces coherent, synchronized educational videos from textbook queries, integrating retrieval, image generation, animation, and speech](../claims/feasible-synchronized-video-generation-from-textbook-queries.md) [+W]
+- [Media comparison results favor games in some studies but favor slideshows for games with intrusive narrative themes](../claims/media-comparison-game-versus-conventional-media-mixed.md) [~W]
+- [Media-rich videos combining text, pictures and voiceovers are rated more engaging than text-only videos](../claims/media-rich-videos-more-engaging-than-text-only.md) [+W]
 
 ## The evidence by question
 - *Do words with a relevant picture beat words alone?* [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+S]

@@ -13,7 +13,7 @@ generated:
 # Digital Open Badges
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (1 for, 1 against) · 2 studies (1 review, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 against) · 3 studies (2 review, 1 theoretical), `q1`–`q2` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 Digital badges are small digital images representing a learner's achievement within a specific domain, embedded with metadata (issuer, date, criteria/rubric, and evidence of learning) that makes what was actually learned far more transparent than a traditional grade or degree (Farmer & West, 2016). **Open** badges add a specific technical affordance on top of this: they can be exported to portable "backpacks" and displayed across institutions and platforms, rather than being locked into one issuing system — this portability is what separates them from closed badge systems like Khan Academy's or Duolingo's.
@@ -48,6 +48,7 @@ Farmer and West (2016) identify open badges as solving two persistent credential
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Persistent challenges include feedback inaccuracy, learner overreliance, and limited transparency](../claims/customized-ai-writing-persistent-challenges.md) [-W]
 - [The authors assert that innovative assessment measures capture POG competencies more fully than traditional standardized tests](../claims/innovative-assessments-capture-pog-competencies.md) [+W]
+- [Micro-credentials function as motivational aids and carry perceived risks around credibility, visibility, and privacy](../claims/microcredential-motivation-and-risks.md) [+W]
 
 ## Related Elements
 

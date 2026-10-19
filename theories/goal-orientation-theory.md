@@ -12,7 +12,7 @@ generated:
 # Goal Orientation Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 24 claims (15 for, 9 mixed) · 13 studies (9 associational, 2 causal, 2 review), `q1`–`q3` · 2 of 13 report an effect size · 24 claims rest on one study
+> **Evidence** · 25 claims (16 for, 9 mixed) · 14 studies (9 associational, 2 causal, 2 review, 1 theoretical), `q1`–`q3` · 2 of 14 report an effect size · 25 claims rest on one study
 
 ## Description
 Goal setting is itself a key motivational process (Locke & Latham, 1984, 2006) — the goals learners choose, and how committed they are to attaining them, shape motivation to learn (Wentzel, 2000). But beyond goal *content* (what a learner wants to achieve), goal orientation theory argues that the *reason* a learner pursues a goal has its own independent effect on learning and performance, explaining differences in how individuals approach and respond to achievement situations (Ames & Archer, 1988; Meece, Anderman, & Anderman, 2006).
@@ -85,6 +85,7 @@ Because mastery-approach goals reliably support the more sustained, thoughtful l
 - [Goal orientations moderate self-efficacy perceptions in ways not originally predicted by self-efficacy theory](../claims/goal-orientations-moderate-efficacy-perceptions.md) [+W]
 - [Ego orientation and need for cognition did not significantly contribute to predicting gaming engagement](../claims/ego-nfc-dropped-from-engagement-model.md) [~W]
 - [Learning and performance goal orientations are highly positively correlated and not mutually exclusive in adults](../claims/learning-and-performance-goals-correlated-adults.md) [~W]
+- [Mastery-focused environments increase motivation to learn while performance-focused environments detract from it for all but the highest achievers](../claims/mastery-environments-increase-motivation.md) [+W]
 
 ## The evidence by question
 

@@ -13,7 +13,7 @@ generated:
 # Intelligence Testing: Uses and Limits
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 11 claims (5 for, 6 mixed) · 12 studies (8 associational, 3 review, 1 theoretical), `q1`–`q3` · 1 of 12 report an effect size · 10 claims rest on one study
+> **Evidence** · 12 claims (6 for, 6 mixed) · 13 studies (8 associational, 4 review, 1 theoretical), `q1`–`q3` · 1 of 13 report an effect size · 11 claims rest on one study
 
 ## Description
 The first intelligence test, the Binet-Simon test, grew out of Alfred Binet's 1904 appointment as France's Minister of Public Education, where he sought a way to identify children with developmental disabilities so they could receive appropriate support — Binet believed "abnormality" could be remediated, and strongly supported special education on that basis. It was the first test to distinguish "normal" children from those with developmental disabilities, and its later revision became the Stanford-Binet, one of the most widely used intelligence tests (Zimmerman & Schunk, 2003). Binet's original purpose — identifying students who need support — sits in some tension with how intelligence-test scores are more often used today, as a general ranking or classification device (see Constraints below).
@@ -62,6 +62,7 @@ Despite this psychometric strength, intelligence tests and the definitions of in
 - [IQ, short-term memory and study habits each correlate positively and significantly with academic achievement in both 3rd and 4th grade](../claims/iq-memory-study-habits-positive-correlations-achievement.md) [+W]
 - [Full-scale IQ predicts reading comprehension more strongly than word reading, and working memory and processing speed remain significant predictors after IQ is controlled](../claims/iq-predicts-comprehension-more-than-word-reading.md) [+W]
 - [High performance in old age is associated with higher education, foreign language use and IQ, but not physical activity or personality](../claims/high-performance-linked-education-language-iq.md) [+W]
+- [Complexity of children's naturalistic memory reports predicts reading ability over and above IQ](../claims/memory-report-complexity-predicts-reading-ability.md) [+W]
 
 ## Related Principles
 - [Supporting Gifted and Talented Students](../principles/supporting-gifted-and-talented-students.md) — giftedness classification is conventionally IQ-threshold-based, inheriting all of this principle's measurement caveats

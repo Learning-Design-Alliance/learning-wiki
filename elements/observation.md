@@ -13,7 +13,7 @@ generated:
 # Observation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Observation is the short-form canonical target for instructional activities in which learners watch people, processes, or contexts carefully in order to notice patterns, behaviors, or constraints.
@@ -38,7 +38,7 @@ Observation also functions as a teacher's primary *informal assessment* tool —
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Eight of 10 districts planned to continue refining and using classroom observation tools after finding them a firm priority for understanding implementation](../claims/observation-tools-priority-eight-of-ten-districts.md) [+W]
 
 ## Related Elements
 - [Demonstration](demonstration.md)

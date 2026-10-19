@@ -15,7 +15,7 @@ grain_size: lesson
 # Develop Understanding
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 22 claims (11 for, 9 mixed, 2 against) · 35 studies (16 causal, 7 quant-synthesis, 7 review, 2 qualitative, 2 theoretical, 1 associational), `q1`–`q4` · 6 of 35 report an effect size · 14 claims rest on one study
+> **Evidence** · 23 claims (11 for, 10 mixed, 2 against) · 36 studies (17 causal, 7 quant-synthesis, 7 review, 2 qualitative, 2 theoretical, 1 associational), `q1`–`q4` · 7 of 36 report an effect size · 15 claims rest on one study
 
 ## Description and scope
 
@@ -142,6 +142,7 @@ This pattern is scoped to building understanding of a `concept` or `principle` o
 - [Misconceptions did not impair transfer in the strong control condition, but learners with more misconceptions in the think-sheet group transferred better](../claims/think-sheet-misconceptions-positive-transfer-effect.md) [~W]
 - [Assisting self-explanation prompts particularly foster conceptual knowledge, an effect mediated by self-explanations on the rationale of a principle](../claims/assisting-prompts-foster-conceptual-knowledge.md) [+W]
 - [Self-explanation support did not change Answer-item performance even though the explanation condition completed only half as many problems](../claims/answer-items-no-difference-self-explanation-tutor.md) [-W]
+- [Readers with misconceptions spend more time reading law sentences than readers without misconceptions, but only in refutation texts](../claims/misconception-slower-reading-refutation-law-sentences.md) [~M]
 
 ## Related Patterns
 - [Gagne's 9 Events of Instruction](gagnes-9-events-of-instruction.md)

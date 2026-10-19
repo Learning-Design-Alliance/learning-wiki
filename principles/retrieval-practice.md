@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 76 claims (40 for, 34 mixed, 1 against, 1 unmarked) · 37 studies (13 causal, 9 quant-synthesis, 8 review, 3 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 12 of 37 report an effect size · 69 claims rest on one study
+> **Evidence** · 78 claims (42 for, 34 mixed, 1 against, 1 unmarked) · 37 studies (13 causal, 9 quant-synthesis, 8 review, 3 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 12 of 37 report an effect size · 71 claims rest on one study
 
 ## Conditional relationship
 
@@ -209,6 +209,8 @@ A within-session quiz score, delayed recall, transfer to new questions and value
 - [Without feedback, more practice-test participation predicts lower specificity (worse detection of incorrect answers); with corrective feedback this negative relation disappears](../claims/practice-test-specificity-negative-without-feedback.md) [~W]
 - [Feedback neutralizes the effect of prior study on final cued recall performance](../claims/feedback-neutralizes-prior-study-effects.md) [~W]
 - [Incorrect information learned from a multiple-choice test is applied and reasoned with on conceptually related transfer questions](../claims/lures-transfer-erroneous-reasoning.md) [~W]
+- [Taking a multiple-choice test boosts performance on later tests compared with nontested control conditions, including with complex SAT II materials](../claims/mc-testing-boosts-later-performance.md) [+W]
+- [Multiple-choice testing improves later cued recall of prose facts, a benefit that persists though reduced after a one-week delay](../claims/mc-testing-prose-cued-recall-benefit.md) [+W]
 
 ## Related Principles
 - [Pretesting (Prequestions Before Study)](pretesting.md)

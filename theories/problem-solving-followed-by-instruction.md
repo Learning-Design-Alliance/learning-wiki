@@ -17,7 +17,7 @@ sources:
 # Problem-Solving Followed by Instruction
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 40 claims (14 for, 19 mixed, 7 against) · 23 studies (16 causal, 3 review, 3 theoretical, 1 quant-synthesis), `q2`–`q4` · 8 of 23 report an effect size · 39 claims rest on one study
+> **Evidence** · 42 claims (14 for, 21 mixed, 7 against) · 24 studies (17 causal, 3 review, 3 theoretical, 1 quant-synthesis), `q1`–`q4` · 9 of 24 report an effect size · 41 claims rest on one study
 
 ## Description
 Problem-solving followed by instruction (PS-I, closely related to "productive failure") reverses the conventional tell-then-practice sequence: students first attempt a problem — typically without succeeding at a canonical solution — and only afterward receive direct instruction on the correct method. The prior attempt activates relevant prior knowledge, surfaces students' own (often suboptimal) representations, and raises motivation to learn the canonical method by making its advantages concrete rather than abstract. A meta-analysis across 166 comparisons found PS-I outperforms instruction-first sequencing with Hedge's g=0.36 [95% CI 0.20, 0.51] (Sinha & Kapur, 2021). The underlying attempt can be left unguided ("productive failure" proper, where students generate as many solution representations as they can) or shaped by scaffolds that deliberately steer students toward specific representations before instruction corrects them — see [Failure-Driven Scaffolding](../strategies/failure-driven-scaffolding.md).
@@ -76,6 +76,8 @@ Problem-solving followed by instruction (PS-I, closely related to "productive fa
 - [Working memory capacity did not moderate learning gains in PS-I and I-PS, but digit recall correlated with declarative knowledge of the features](../claims/working-memory-no-moderation-correlated-declarative.md) [~W]
 - [The intervention significantly benefited 6th-grade students but showed no significant effects for 7th or 8th graders](../claims/assistments-grade-6-differential-impact.md) [~W]
 - [Receiving instruction before problem solving improves procedural fluency more than problem solving before instruction when both phases are otherwise identical](../claims/instruction-first-better-procedural-fluency.md) [-W]
+- [The proposed cognitive mechanisms explain both positive and negative effects of PS-I](../claims/mechanisms-explain-positive-and-negative-ps-i-effects.md) [~W]
+- [No significant condition differences remain at posttest: both approaches converge on MVC strategy and reasoning after both phases](../claims/no-posttest-differences-mvc-convergence.md) [~W]
 
 ## The evidence by question
 

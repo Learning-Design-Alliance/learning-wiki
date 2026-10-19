@@ -29,7 +29,7 @@ grain_size: unit
 # Problem-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 46 claims (11 for, 31 mixed, 4 against) · 38 studies (14 causal, 6 review, 6 theoretical, 4 quant-synthesis, 4 qualitative, 2 associational, 2 design), `q1`–`q4` · 6 of 38 report an effect size · 41 claims rest on one study
+> **Evidence** · 50 claims (13 for, 33 mixed, 4 against) · 40 studies (14 causal, 7 review, 7 theoretical, 4 quant-synthesis, 4 qualitative, 2 associational, 2 design), `q1`–`q4` · 6 of 40 report an effect size · 45 claims rest on one study
 
 ## Description and scope
 
@@ -151,6 +151,10 @@ This pattern is scoped to problem-centred units in which an explicit consolidati
 - [Productive failure: student groups who score lower on individual post-tests may have experienced deeper learning leading to superior future performance](../claims/productive-failure-deeper-learning-lower-posttests.md) [~W]
 - [AI-PBL students achieve high normalized learning gains (g = 0.73) in computational thinking and academic achievement while control students record low gains (g ≤ 0.20)](../claims/ai-pbl-high-ngain-versus-control-low.md) [~W]
 - [Despite extensive research on PBL, there is heated debate about its effectiveness](../claims/heated-debate-pbl-effectiveness.md) [~W]
+- [Student engagement is higher during PBL than during traditional instruction](../claims/pbl-engagement-higher-than-traditional.md) [+W]
+- [PBL offers potential to help students develop flexible understanding and lifelong learning skills](../claims/pbl-potential-flexible-understanding-lifelong-learning.md) [~W]
+- [Research on PBL covers flexible knowledge, problem-solving, and SDL skills but little on collaboration and motivation](../claims/pbl-evidence-uneven-across-goals.md) [~W]
+- [PBL is superior to conventional instruction for skill development and for satisfaction of students and teachers](../claims/pbl-superior-skill-development-satisfaction.md) [+W]
 
 ## Related Patterns
 - [Anchored Instruction](anchored-instruction.md)

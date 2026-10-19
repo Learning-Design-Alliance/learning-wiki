@@ -31,7 +31,7 @@ sources:
 # Technology should augment, not supplant, learning processes in student-centered environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 145 claims (90 for, 43 mixed, 12 against) · 114 studies (27 qualitative, 27 theoretical, 22 review, 18 causal, 12 design, 8 associational), `q1`–`q4` · 7 of 114 report an effect size · 141 claims rest on one study
+> **Evidence** · 146 claims (90 for, 44 mixed, 12 against) · 115 studies (28 theoretical, 27 qualitative, 22 review, 18 causal, 12 design, 8 associational), `q1`–`q4` · 7 of 115 report an effect size · 142 claims rest on one study
 
 ## Conditional relationship
 
@@ -272,6 +272,7 @@ Assisted performance, unaided immediate performance, delayed retention, transfer
 - [PGR students rejected GenAI generation of research ideas, original arguments, or whole papers as violating authorship norms, while accepting surface-level support](../claims/genai-authorship-boundary-rejected-substitution.md) [+W]
 - [In the model, high-quality AI on hard tasks produces the highest regret despite moderate overreliance, because agents over-defer and rarely self-rely](../claims/high-regret-overdeferral-good-ai-hard-tasks.md) [-W]
 - [The majority of AI-assisted participants self-report using the AI primarily to get answers directly, a pattern validated against chatlogs](../claims/majority-use-ai-for-direct-answers.md) [-W]
+- [Passive engagement within correctly classified Aid tasks is a detection-resistant mis-skilling pathway requiring expert epistemic auditing](../claims/passive-engagement-aid-subzone-mis-skilling.md) [~W]
 
 ## Related Principles
 

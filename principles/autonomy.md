@@ -43,7 +43,7 @@ sources:
 # Autonomy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 34 claims (11 for, 22 mixed, 1 against) · 38 studies (11 review, 6 causal, 6 qualitative, 6 theoretical, 3 quant-synthesis, 3 associational, 3 design), `q1`–`q4` · 5 of 38 report an effect size · 26 claims rest on one study
+> **Evidence** · 35 claims (11 for, 23 mixed, 1 against) · 39 studies (11 review, 7 theoretical, 6 causal, 6 qualitative, 3 quant-synthesis, 3 associational, 3 design), `q1`–`q4` · 5 of 39 report an effect size · 27 claims rest on one study
 
 ## Conditional relationship
 
@@ -168,6 +168,7 @@ Motivation during a task, free-choice engagement afterwards, immediate learning,
 - [Students had little meaningful choice about participation in the student success information system, as they could not remove themselves from the system as a whole](../claims/limited-student-choice-opt-out-system.md) [-W]
 - [Students perceived AIvaluate assessments as reducing social pressure and offering flexible pacing and ease of use, but noted technical challenges and lack of dynamic human interaction](../claims/aivaluate-thematic-advantages-and-limitations.md) [+W]
 - Constrained Authoring Improves Puzzle Quality [+M]
+- [Meaningful choice about learning tasks increases interest, but only under boundary conditions](../claims/meaningful-choice-increases-interest-limited.md) [~W]
 
 ## Related Principles
 - [Check-ins](check-ins.md) — regular, non-controlling check-ins are a core teacher behavior of autonomy support, signaling interest rather than surveillance

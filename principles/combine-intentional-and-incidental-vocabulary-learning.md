@@ -18,7 +18,7 @@ sources:
 # Combine intentional and incidental vocabulary learning rather than relying on incidental learning alone
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 21 claims (16 for, 4 mixed, 1 against) · 13 studies (5 quant-synthesis, 5 review, 3 causal), `q2`–`q3` · 2 of 13 report an effect size · 16 claims rest on one study
+> **Evidence** · 22 claims (16 for, 5 mixed, 1 against) · 14 studies (5 quant-synthesis, 5 review, 4 causal), `q2`–`q3` · 2 of 14 report an effect size · 17 claims rest on one study
 
 ## Conditional relationship
 
@@ -135,6 +135,10 @@ For example, an adult learner of English may want to read football news on a pho
 The expectation should weaken if primary studies comparing combined, intentional-only and input-only conditions with comparable learners, aligned outcomes and a delayed test find no advantage for the combination. If deliberate study of words, given with their contexts and reviewed on a schedule, is still forgotten as quickly as the focus-on-form words in the re-analysis above, the intentional share should shrink and its role change to glossing and noticing. If learners below 95% coverage turn out to learn as much from glossed authentic texts as from deliberate study of frequent words, the coverage switch-point should go. If a study varies the ratio or order of the two modes, its result replaces the default arc. Do not protect the model by calling every failure "not enough reading" or "not enough review" after the fact.
 
 Words recognised at the end of a session, words recalled at a delay, words used in writing or speech, and growth in general reading are separate claims. The present evidence establishes no ratio, no order, no coverage switch-point tested as such, and no number of encounters per word.
+
+## Claims
+
+- [The probability of learning an unknown word from a single natural-context exposure is roughly .05 to .11, supporting an extrapolated 750 to 5,500 words learned per year from reading](../claims/one-exposure-context-learning-probability-extrapolation.md) [~W]
 
 ## Related Principles
 - 

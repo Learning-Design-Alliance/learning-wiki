@@ -31,7 +31,7 @@ sources:
 # Interleaving
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (13 for, 12 mixed) · 15 studies (7 causal, 3 quant-synthesis, 2 review, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 6 of 15 report an effect size · 22 claims rest on one study
+> **Evidence** · 26 claims (14 for, 12 mixed) · 15 studies (7 causal, 3 quant-synthesis, 2 review, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 6 of 15 report an effect size · 23 claims rest on one study
 
 ## Conditional relationship
 
@@ -142,6 +142,7 @@ The expectation should weaken if comparisons with comparable learners find no ad
 - [Interleaving is especially useful for inductive, subtle pattern learning without a clear verbal rule, but can equal or exceed blocking in rule-based domains too](../claims/interleaving-rule-based-learning-boundary.md) [+W]
 - [The interleaving literature is dominated by laboratory studies of university undergraduates, with no included study using high-school participants](../claims/interleaving-literature-lab-undergraduate-dominance.md) [~W]
 - [Interleaving is most useful when differences between items are subtle; blocking can be preferable when category members are diverse](../claims/interleaving-similarity-boundary-condition.md) [~W]
+- [Learners overwhelmingly judge blocking more effective than interleaving even when their test performance favors interleaving](../claims/metacognitive-illusion-blocking-interleaving.md) [+W]
 
 ## Related Principles
 - [Spaced Learning](spaced-learning.md) — when practice of the same thing recurs; usually confounded with interleaving
