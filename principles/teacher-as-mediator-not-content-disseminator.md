@@ -174,6 +174,9 @@ Learners, settings and outcomes differ across these claims (STEM undergraduates,
 
 - *If inquiry or discovery is chosen, how much should the teacher or system guide it?* [Teacher Guided Inquiry Outperforms Student Led](../claims/teacher-guided-inquiry-outperforms-student-led.md) [+S]
 - *Must support be contingent on the learner's last response, rather than fixed?* [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+S]
+- *Does the help a learner needs tell the teacher more than a static placement?* [Learners placed at the same CEFR level by DIALANG differ in their ZPDs](../claims/dialang-cefr-levels-miss-zpd-differences.md) [+W] (one two-learner case study)
+- *In group work, does the teacher's help go where it is needed?* [Teacher guidance distribution tracked perceived willingness to collaborate, not group outcome level or prior science competence](../claims/guidance-follows-willingness-not-outcome.md) [~W]
+- *Is input and use enough for second-language grammar, without explicit teaching?* [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](../claims/comprehensible-input-insufficient-grammar-acquisition.md) [~M]; [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction](../claims/explicit-l2-grammar-instruction-superior-to-implicit.md) [~S]
 
 ## Further evidence, not yet read against this model
 
