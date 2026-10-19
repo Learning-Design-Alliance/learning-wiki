@@ -15,18 +15,22 @@ sources:
     author: "Rovers, S. F. E., Clarebout, G., Savelberg, H. H. C. M., de Bruin, A. B. H., & van Merriënboer, J. J. G."
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: rovers-2019-2
     resource: "https://doi.org/10.1007/s11409-019-09188-6"
     title: "Rovers, S. F. E., Clarebout, G., Savelberg, H. H. C. M., de Bruin, A. B. H., & van Merriënboer, J. J. G. (2019). Granularity matters: comparing different ways of measuring self-regulated learning. Metacognition and Learning. https://doi.org/10.1007/s11409-019-09188-6"
     author: "Rovers, S. F. E., Clarebout, G., Savelberg, H. H. C. M., de Bruin, A. B. H., & van Merriënboer, J. J. G."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Trace data tend to predict achievement better than self-reports, but self-reports of global SRL intensity can outperform traces
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` Across reviewed studies, traces tend to have higher predictive value for achievement than self-reports. [→ Rovers 2019](#rovers-2019)
@@ -38,7 +42,7 @@ sources:
 
 Rovers, S. F. E., Clarebout, G., Savelberg, H. H. C. M., de Bruin, A. B. H., & van Merriënboer, J. J. G. (2019). Granularity matters: comparing different ways of measuring self-regulated learning. Metacognition and Learning. https://doi.org/10.1007/s11409-019-09188-6
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 Review's summary statement following its synthesis of the ten fine-grained comparison studies; no pooled effect size is printed, so the finding is directional rather than quantified.
 
@@ -48,7 +52,7 @@ Review's summary statement following its synthesis of the ten fine-grained compa
 
 Rovers, S. F. E., Clarebout, G., Savelberg, H. H. C. M., de Bruin, A. B. H., & van Merriënboer, J. J. G. (2019). Granularity matters: comparing different ways of measuring self-regulated learning. Metacognition and Learning. https://doi.org/10.1007/s11409-019-09188-6
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Review reports the follow-up analysis of Jamieson-Noel and Winne (2003): self-reported SRL intensity significantly predicted achievement (16% of variance) while trace-based measures did not; the review attributes this partly to traces being clustered into global scales.
 

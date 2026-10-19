@@ -15,12 +15,14 @@ sources:
     author: "Mulvihill, A., Matthews, N., Chidley, K., Macmahon, S., Armitage, K. L., Sherlock, D., Dux, P. E., & Carroll, A."
     q: 2
     i: "?"
+    kind: design
+    rigour: 3
 ---
 
 # The MAKQ self-knowledge items show a stable two-factor structure: meta-attention control (15 items) and meta-attention monitoring (5 items)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Exploratory factor analysis of 23 self-knowledge items yielded a two-factor solution (20 retained items) explaining 47.9% of variance, with meta-attention control accounting for 37% and monitoring 10.9%. [→ Mulvihill 2025](#mulvihill-2025)
@@ -31,7 +33,7 @@ sources:
 
 Mulvihill, A., Matthews, N., Chidley, K., Macmahon, S., Armitage, K. L., Sherlock, D., Dux, P. E., & Carroll, A. (2025). The meta-attention knowledge questionnaire (MAKQ): a new instrument for investigating meta-attention in a young adolescent sample. Metacognition and Learning. https://doi.org/10.1007/s11409-025-09433-1
 
-`q2 · i?`
+`q2 · i?` · `design · r3`
 
 Exploratory factor analysis (maximum likelihood, oblimin rotation, loading cut-off 0.4) of 23 self-knowledge items in Study One (N = 293). The two factors "explained 47.9% of the total variance"; three items were excluded for low loadings. No effect size beyond variance explained is printed.
 

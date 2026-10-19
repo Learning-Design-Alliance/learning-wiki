@@ -15,18 +15,22 @@ sources:
     author: "Steiner, M., van Loon, M. H., Bayard, N. S., & Roebers, C. M."
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
   - id: steiner-2020-2
     resource: "https://doi.org/10.1007/s11409-019-09208-5"
     title: "Steiner, M., van Loon, M. H., Bayard, N. S., & Roebers, C. M. (2020). Development of Children's monitoring and control when learning from texts: effects of age and test format. Metacognition and Learning, 15, 3–27. https://doi.org/10.1007/s11409-019-09208-5"
     author: "Steiner, M., van Loon, M. H., Bayard, N. S., & Roebers, C. M."
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Children of both age groups improved monitoring and control accuracy from T1 to T2 for both test formats, mainly for incorrect rather than correct answers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` For open-ended questions, children gave lower CJs for incorrect answers at T2 than T1 (measurement point × correctness interaction significant), with no change for correct answers. [→ Steiner 2020](#steiner-2020)
@@ -38,7 +42,7 @@ sources:
 
 Steiner, M., van Loon, M. H., Bayard, N. S., & Roebers, C. M. (2020). Development of Children's monitoring and control when learning from texts: effects of age and test format. Metacognition and Learning, 15, 3–27. https://doi.org/10.1007/s11409-019-09208-5
 
-`q3 · i2`
+`q3 · i2` · `associational · r2`
 
 Longitudinal repeated measures ANOVA on open-ended question CJs across six months (N = 302). Children reduced confidence in incorrect answers from T1 to T2 (d = 0.78), while CJs for correct answers did not change (p = .18), showing improvement was specific to incorrect answers.
 
@@ -48,7 +52,7 @@ Longitudinal repeated measures ANOVA on open-ended question CJs across six month
 
 Steiner, M., van Loon, M. H., Bayard, N. S., & Roebers, C. M. (2020). Development of Children's monitoring and control when learning from texts: effects of age and test format. Metacognition and Learning, 15, 3–27. https://doi.org/10.1007/s11409-019-09208-5
 
-`q3 · i2`
+`q3 · i2` · `associational · r2`
 
 Longitudinal ANOVA on true-false question CJs. Confidence in incorrect answers decreased (d = .44) while confidence in correct answers increased (d = .33) from T1 to T2, also supported by gamma correlations (F(1, 272) = 21.94, p < .001, ηp2 = .08).
 

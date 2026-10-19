@@ -15,12 +15,14 @@ sources:
     author: "Inge Molenaar & Sanna Järvelä"
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Scaffolded conditions in Betty's Brain showed scaffolding-induced strategy use within the scaffolding time window although the three conditions did not differ in learning gains
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Kinnebrew and colleagues (2014) compared two experimental scaffolding conditions (knowledge construction support or solution evaluation strategies) with a control condition; although the three conditions do not differ in learning gains, exploratory data mining showed differences in strategy use between the three conditions. [→ Inge Molenaar & Sanna Järvelä 2014](#inge-molenaar-sanna-jarvela-2014)
@@ -32,7 +34,7 @@ sources:
 
 Inge Molenaar & Sanna Järvelä. (2014). Sequential and temporal characteristics of self and socially regulated learning. Metacognition and Learning. https://doi.org/10.1007/s11409-014-9114-2
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Exploratory data mining (hierarchical clustering, sequential pattern mining, heatmaps) of log file data from 4 h of working in the computer based learning environment Betty's Brain, using a cognitive/metacognitive task model to map logfile traces onto strategy use.
 

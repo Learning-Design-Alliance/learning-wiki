@@ -15,24 +15,30 @@ sources:
     author: "Iordanou, K., Kendeou, P., & Zembylas, M."
     q: 2
     i: 3
+    kind: causal
+    rigour: 1
   - id: iordanou-2020-2
     resource: "https://doi.org/10.1007/s11409-020-09240-w"
     title: "Iordanou, K., Kendeou, P., & Zembylas, M. (2020). Examining my-side bias during and after reading controversial historical accounts. Metacognition and Learning. https://doi.org/10.1007/s11409-020-09240-w"
     author: "Iordanou, K., Kendeou, P., & Zembylas, M."
     q: 2
     i: 3
+    kind: causal
+    rigour: 1
   - id: iordanou-2020-3
     resource: "https://doi.org/10.1007/s11409-020-09240-w"
     title: "Iordanou, K., Kendeou, P., & Zembylas, M. (2020). Examining my-side bias during and after reading controversial historical accounts. Metacognition and Learning. https://doi.org/10.1007/s11409-020-09240-w"
     author: "Iordanou, K., Kendeou, P., & Zembylas, M."
     q: 2
     i: 3
+    kind: causal
+    rigour: 1
 ---
 
 # Cognitive processing differs by text type: participants engaged in more epistemic processing, meta-comprehension, and coherence-based processing when reading the other-side text than the own-side text
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study (3 entries) · causal `r1` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` A repeated measures MANOVA showed text type significantly affected combined dependent variables, F(4, 34) = 18.404, p < .001, partial η2 = .684. [→ Iordanou 2020](#iordanou-2020)
@@ -45,7 +51,7 @@ sources:
 
 Iordanou, K., Kendeou, P., & Zembylas, M. (2020). Examining my-side bias during and after reading controversial historical accounts. Metacognition and Learning. https://doi.org/10.1007/s11409-020-09240-w
 
-`q2 · i3`
+`q2 · i3` · `causal · r1`
 
 Repeated measures MANOVA on four dependent variables (coherence, non-coherence, meta-comprehension, epistemic statements) during think-aloud reading of own-side and other-side texts. The omnibus test showed "the combined DVs were significantly affected by the text type" with partial η2 = .684.
 
@@ -55,7 +61,7 @@ Repeated measures MANOVA on four dependent variables (coherence, non-coherence, 
 
 Iordanou, K., Kendeou, P., & Zembylas, M. (2020). Examining my-side bias during and after reading controversial historical accounts. Metacognition and Learning. https://doi.org/10.1007/s11409-020-09240-w
 
-`q2 · i3`
+`q2 · i3` · `causal · r1`
 
 Think-aloud protocols coded for epistemic processing showed a significant text type difference, F(1, 37) = 54.471, p < .001, partial η2 = .596. Participants produced low epistemic statements (unjustified disagreement) mainly when reading the other-side text.
 
@@ -65,7 +71,7 @@ Think-aloud protocols coded for epistemic processing showed a significant text t
 
 Iordanou, K., Kendeou, P., & Zembylas, M. (2020). Examining my-side bias during and after reading controversial historical accounts. Metacognition and Learning. https://doi.org/10.1007/s11409-020-09240-w
 
-`q2 · i3`
+`q2 · i3` · `causal · r1`
 
 Think-aloud coding showed significant text type differences in coherence statements, F(1, 37) = 35.026, p < .001, partial η2 = .486. Participants engaged in more coherence-based processing of the other-side text than the own-side text.
 

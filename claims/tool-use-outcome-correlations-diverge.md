@@ -15,18 +15,22 @@ sources:
     author: "Sarah Manlove, Ard W. Lazonder & Ton de Jong"
     q: 2
     i: 3
+    kind: causal
+    rigour: 2
   - id: sarah-manlove-2007-2
     resource: "https://doi.org/10.1007/s11409-007-9012-y"
     title: "Sarah Manlove, Ard W. Lazonder & Ton de Jong. (2007). Software scaffolds to promote regulation during scientific inquiry learning. Metacognition Learning. https://doi.org/10.1007/s11409-007-9012-y"
     author: "Sarah Manlove, Ard W. Lazonder & Ton de Jong"
     q: 2
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Higher model quality was associated with less goal viewing and note taking, while lab report scores correlated positively with regulative tool use and negatively with helpfile viewing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Model quality correlated negatively with goal viewing (r=−0.54) and note taking (r=−0.40), and helpfile viewing approached a positive association (p=0.07). [→ Sarah Manlove 2007](#sarah-manlove-2007)
@@ -38,7 +42,7 @@ sources:
 
 Sarah Manlove, Ard W. Lazonder & Ton de Jong. (2007). Software scaffolds to promote regulation during scientific inquiry learning. Metacognition Learning. https://doi.org/10.1007/s11409-007-9012-y
 
-`q2 · i3`
+`q2 · i3` · `causal · r2`
 
 Correlational analysis across both conditions (Table 3): view goals r=−0.54** and take notes r=−0.40* with model quality; helpfile viewing positive with p=0.07.
 
@@ -48,7 +52,7 @@ Correlational analysis across both conditions (Table 3): view goals r=−0.54** 
 
 Sarah Manlove, Ard W. Lazonder & Ton de Jong. (2007). Software scaffolds to promote regulation during scientific inquiry learning. Metacognition Learning. https://doi.org/10.1007/s11409-007-9012-y
 
-`q2 · i3`
+`q2 · i3` · `causal · r2`
 
 Table 3 correlations: view goals with report structure r=0.62** and view helpfiles with report structure r=−0.59**, both p<0.01 two-tailed.
 

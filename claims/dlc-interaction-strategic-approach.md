@@ -15,12 +15,14 @@ sources:
     author: "Sijmkens, E., De Cock, M., & De Laet, T."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Students who completed more DLC reflection modules exhibited a more strategic approach to solving an exam problem on angular momentum
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students who completed at least 4 reflection modules showed a significantly more strategic approach to solving the angular momentum exam problem than students who never interacted with the DLC. [→ Sijmkens 2024](#sijmkens-2024)
@@ -31,7 +33,7 @@ sources:
 
 Sijmkens, E., De Cock, M., & De Laet, T. (2024). Scaffolding Students' Use of Metacognitive Activities Using Discipline- and Topic-Specific Reflective Prompts. https://doi.org/10.1007/s11409-023-09363-w
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Group comparison of strategy scores among 316 first-year bioscience engineering students categorised by number of completed DLC reflection modules (0, 1-3, 4-6, 7-9). Kruskal-Wallis test revealed "significant differences among the interaction groups (χ2 = 25.25,p < .001,df = 2)". No effect size reported for the omnibus test.
 

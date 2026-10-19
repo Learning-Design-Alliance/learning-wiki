@@ -15,12 +15,14 @@ sources:
     author: "Inge Molenaar & Sanna Järvelä"
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Process models of successful students come closer to self-regulated learning theory expectations than those of unsuccessful students, who do not evaluate their learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Bannert, Reimann and Sonnenberg (2014) found that the self-regulated learning process model of successful students came closer to the expectations of self-regulated learning theory than the process model of unsuccessful students. [→ Inge Molenaar & Sanna Järvelä 2014](#inge-molenaar-sanna-jarvela-2014)
@@ -32,7 +34,7 @@ sources:
 
 Inge Molenaar & Sanna Järvelä. (2014). Sequential and temporal characteristics of self and socially regulated learning. Metacognition and Learning. https://doi.org/10.1007/s11409-014-9114-2
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Process mining (fuzzy data mining combined with content analysis) of think aloud protocols during a 35 min learning activity in a hypertext learning environment; coded data had to be aggregated into new categories clustering different events to compare with theoretical models.
 

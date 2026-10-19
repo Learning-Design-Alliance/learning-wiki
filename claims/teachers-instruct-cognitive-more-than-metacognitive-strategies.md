@@ -15,12 +15,14 @@ sources:
     author: Mariëtte H. van Loon, et al
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Elementary teachers more often instruct cognitive strategies than metacognitive strategies during a standardized lesson
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Teachers addressed both strategy types but discussed cognitive strategies more often than metacognitive strategies. [→ Mariëtte H. van Loon 2021](#mariette-h-van-loon-2021)
@@ -31,7 +33,7 @@ sources:
 
 Mariëtte H. van Loon, et al. (2021). Connecting teachers' classroom instructions with children's metacognition and learning in elementary school. Metacognition and Learning. https://doi.org/10.1007/s11409-020-09248-2
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Classroom observation study of 21 teachers' audio-recorded instructions during the secret code lesson, coded with MAXQDA (interrater agreement 79.5%–88.5%). The Wilcoxon signed rank test compared coded frequencies, showing teachers "more often discussed cognitive strategies than metacognitive strategies" (z= −1.72, p =.005).
 

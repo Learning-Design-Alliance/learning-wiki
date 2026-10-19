@@ -15,12 +15,14 @@ sources:
     author: Sunae Kim, Paul L Harris, Benjamin Néher
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Curiosity and confidence show an inverted U-shaped relationship, peaking at an intermediate confidence level
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In Experiment 1, curiosity peaked at an intermediate confidence level (around 0.43), with a significant quadratic coefficient. [→ Sunae Kim 2025](#sunae-kim-2025)
@@ -31,7 +33,7 @@ sources:
 
 Sunae Kim, Paul L Harris, Benjamin Néher. (2025). Curiosity can influence metacognitive processes. Metacognition and Learning (2025) 20:39. https://doi.org/10.1007/s11409-025-09444-y
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Experiment 1 regression of curiosity on confidence P and P*(1−P), following prior analytical approaches (e.g., Baranes et al.; Kang et al.). The model gave "R2 = 0.21" and a significant quadratic coefficient b = 3.82, p <.001; the linear coefficient was also significant (b = −0.55, p <.001).
 

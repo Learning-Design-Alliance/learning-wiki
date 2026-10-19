@@ -15,12 +15,14 @@ sources:
     author: Janneke van de Pol, Selia N. van den Boom-Muilenburg, Tamara van Gog
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Thinking aloud does not affect teachers' monitoring accuracy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Teachers' relative and absolute monitoring accuracy did not differ between think-aloud and non-think-aloud judgments. [→ Janneke van de Pol 2021](#janneke-van-de-pol-2021)
@@ -31,7 +33,7 @@ sources:
 
 Janneke van de Pol, Selia N. van den Boom-Muilenburg, Tamara van Gog. (2021). Exploring the relations between teachers' cue-utilization, monitoring and regulation of students' text learning. Metacognition and Learning. https://doi.org/10.1007/s11409-021-09268-6
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Within the teacher-judgment experiment, teachers thought aloud for two randomly chosen students per condition; the article reports monitoring accuracy "did not differ when thinking aloud versus not thinking aloud" on both measures, with no effect sizes printed.
 

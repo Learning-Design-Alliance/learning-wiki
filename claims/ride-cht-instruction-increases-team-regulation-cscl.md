@@ -15,12 +15,14 @@ sources:
     author: Carol K. K. Chan
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Instruction combining communication rules (RIDE) and a hypothesis tool (CHT) increases team regulation in computer-supported collaborative inquiry, and team regulation relates to learning outcomes only in that combined condition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students receiving both RIDE instruction and the Collaborative Hypothesis Tool engage in more team regulation than control students, and team regulation activities are related to learning outcomes in the RIDE/CHT condition. [→ Carol K. K. Chan 2012](#carol-k-k-chan-2012)
@@ -31,7 +33,7 @@ sources:
 
 Carol K. K. Chan. (2012). Co-regulation of learning in computer-supported collaborative learning environments: a discussion. Metacognition and Learning, 7, 63–73. https://doi.org/10.1007/s11409-012-9086-z
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Study of 48 dyads of 10th grade students (15–17 year-old) using a computer simulation (Collisions) and chat tools across three conditions (RIDE only, RIDE plus CHT, control). The review reports that students who receive both RIDE and CHT "engage in more team regulation" and that team regulation relates to outcomes only in that condition.
 

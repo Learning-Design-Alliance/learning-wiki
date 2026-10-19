@@ -15,18 +15,22 @@ sources:
     author: "Steiner, M., van Loon, M. H., Bayard, N. S., & Roebers, C. M."
     q: 3
     i: 2
+    kind: causal
+    rigour: 1
   - id: steiner-2020-2
     resource: "https://doi.org/10.1007/s11409-019-09208-5"
     title: "Steiner, M., van Loon, M. H., Bayard, N. S., & Roebers, C. M. (2020). Development of Children's monitoring and control when learning from texts: effects of age and test format. Metacognition and Learning, 15, 3–27. https://doi.org/10.1007/s11409-019-09208-5"
     author: "Steiner, M., van Loon, M. H., Bayard, N. S., & Roebers, C. M."
     q: 3
     i: 3
+    kind: causal
+    rigour: 1
 ---
 
 # Children's text comprehension test performance improved from T1 to T2, driven mainly by second graders, with fewer omission errors over time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2`–`i3`
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q3` · `i2`–`i3`
 
 ## Subclaims
 `q3 i2` For open-ended questions, performance increased from T1 to T2, with a significant measurement point × age interaction showing gains only for second graders. [→ Steiner 2020](#steiner-2020)
@@ -38,7 +42,7 @@ sources:
 
 Steiner, M., van Loon, M. H., Bayard, N. S., & Roebers, C. M. (2020). Development of Children's monitoring and control when learning from texts: effects of age and test format. Metacognition and Learning, 15, 3–27. https://doi.org/10.1007/s11409-019-09208-5
 
-`q3 · i2`
+`q3 · i2` · `causal · r1`
 
 Repeated measures ANOVA on open-ended question performance (N = 302). Overall gains from T1 to T2 (ηp2 = .07) were driven by second graders (ηp2 = .17 within grade), while fourth graders' performance did not change (p = .295). Omission errors also decreased over time (ηp2 = .09).
 
@@ -48,7 +52,7 @@ Repeated measures ANOVA on open-ended question performance (N = 302). Overall ga
 
 Steiner, M., van Loon, M. H., Bayard, N. S., & Roebers, C. M. (2020). Development of Children's monitoring and control when learning from texts: effects of age and test format. Metacognition and Learning, 15, 3–27. https://doi.org/10.1007/s11409-019-09208-5
 
-`q3 · i3`
+`q3 · i3` · `causal · r1`
 
 Repeated measures ANOVA on true-false question performance. Children answered more true-false questions correctly at T2 than T1 (ηp2 = .20), with no significant grade difference (p = .06). Performance was above chance for both grades at both time points.
 

@@ -15,12 +15,14 @@ sources:
     author: Mariëtte van Loon, Claudia M. Roebers
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Metacognition profile classifications differ between second and fourth graders
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Grade level significantly predicted latent profile classification, requiring separate LPAs per age group. [→ Mariëtte van Loon 2024](#mariette-van-loon-2024)
@@ -31,7 +33,7 @@ sources:
 
 Mariëtte van Loon, Claudia M. Roebers. (2024). Development of metacognitive monitoring and control skills in elementary school: a latent profile approach. Metacognition and Learning. https://doi.org/10.1007/s11409-024-09400-2
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 In the initial full-sample LPA with grade as an active nominal covariate, the Wald test showed a significant grade effect, χ²(1) = 17.37, p = .002; follow-up LPAs were therefore run separately for each grade. A parallel test at M2 gave χ²(1) = 17.20, p < .001.
 

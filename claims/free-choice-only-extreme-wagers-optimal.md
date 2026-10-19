@@ -15,12 +15,14 @@ sources:
     author: Lorenz Weise
     q: 1
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # In standard free-choice wagering schemes only the lowest and highest wagers are ever optimal
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · quant-synthesis `r2` · `q1`
 
 ## Subclaims
 `q1 i?` In free-choice schemes where wins increase with wager size and losses mirror wins, only the lowest and highest wagering categories are ever optimal strategies, encouraging under- or overstating of confidence. [→ Lorenz Weise 2024](#lorenz-weise-2024)
@@ -31,7 +33,7 @@ sources:
 
 Lorenz Weise. (2024). Payoff designs in post-decision wagering: a systematic review. Metacognition and Learning. https://doi.org/10.1007/s11409-024-09411-z
 
-`q1 · i?`
+`q1 · i?` · `quant-synthesis · r2`
 
 Theoretical analysis applying Clifford et al. (2008) to free-choice designs in which wins for correct responses increase with wager size and losses mirror wins. The review reports "only the lowest and highest wagering categories are ever optimal strategies", even when losses do not precisely mirror wins as long as both increase by the same amounts.
 

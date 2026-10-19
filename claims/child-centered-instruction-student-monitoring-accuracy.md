@@ -15,12 +15,14 @@ sources:
     author: Charlotte Dignath, Zemira Mevarech
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Child-centered instruction is associated with students' SRL monitoring accuracy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Not only the content of instruction but also the type of instruction matters for supporting SRL, with child-centered instruction highlighted by observational findings linking teachers' instruction to students' monitoring accuracy. [→ Charlotte Dignath 2021](#charlotte-dignath-2021)
@@ -31,7 +33,7 @@ sources:
 
 Charlotte Dignath, Zemira Mevarech. (2021). Introduction to special issue mind the gap between research and practice in the area of teachers' support of metacognition and SRL. Metacognition and Learning. https://doi.org/10.1007/s11409-021-09285-5
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The editorial reports that Van Loon, Bayard, Steiner, and Roebers used classroom observations of teachers' SRL practice and learning-judgement measures of students' monitoring, finding child-centered instruction important; attributed second-hand.
 

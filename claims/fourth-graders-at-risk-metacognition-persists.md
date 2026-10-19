@@ -15,12 +15,14 @@ sources:
     author: Mariëtte van Loon, Claudia M. Roebers
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Fourth graders with low metacognition tend to remain low one year later, particularly showing ineffective restudy decisions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Being in the at-risk metacognition profile at M1 predicted membership in the ineffective restudy profile at M2 for fourth graders (standardized residual = 2.1, p < .05). [→ Mariëtte van Loon 2024](#mariette-van-loon-2024)
@@ -32,7 +34,7 @@ sources:
 
 Mariëtte van Loon, Claudia M. Roebers. (2024). Development of metacognitive monitoring and control skills in elementary school: a latent profile approach. Metacognition and Learning. https://doi.org/10.1007/s11409-024-09400-2
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Longitudinal profile-change analysis of 123 fourth graders with complete data; omnibus Chi² tests showed changes deviating from chance (χ² = 12.42, p = 0.015), and the at-risk-to-ineffective-restudy movement exceeded chance expectations. The article states "Almost half (44.2%) of the children with low metacognitive skills in fourth grade appeared likely to keep lagging behind".
 

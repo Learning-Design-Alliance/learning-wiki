@@ -15,12 +15,14 @@ sources:
     author: "Sijmkens, E., De Cock, M., & De Laet, T."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # No significant relationship found between DLC interaction and self-reported metacognitive abilities on the MSLQ
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In the previous study, no significant relationship was found between students' interaction with the DLC and their metacognitive abilities as measured by the self-reported MSLQ. [→ Sijmkens 2024](#sijmkens-2024)
@@ -31,7 +33,7 @@ sources:
 
 Sijmkens, E., De Cock, M., & De Laet, T. (2024). Scaffolding Students' Use of Metacognitive Activities Using Discipline- and Topic-Specific Reflective Prompts. https://doi.org/10.1007/s11409-023-09363-w
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Null finding from the prior study cited as background for the current investigation. The authors note that self-reported questionnaires are not very accurate measurements for metacognition, citing Veenman et al. (2006), which motivated the current study's use of a strategy score as an indirect measure.
 

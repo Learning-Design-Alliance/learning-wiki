@@ -15,12 +15,14 @@ sources:
     author: "Pijeira-Díaz, H. J., van de Pol, J., Channa, F., & de Bruin, A."
     q: 3
     i: 1
+    kind: causal
+    rigour: 2
 ---
 
 # Prompted self-assessment decreases utilization of the low-diagnosticity commission-errors cue
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` The only cue-utilization difference between diagramming conditions was a significant decrease in utilization of commission errors for relations (d = −0.302), a low-diagnosticity cue. [→ Pijeira-Díaz 2023](#pijeira-diaz-2023)
@@ -31,7 +33,7 @@ sources:
 
 Pijeira-Díaz, H. J., van de Pol, J., Channa, F., & de Bruin, A. (2023). Scaffolding self-regulated learning from causal-relations texts: Diagramming and self-assessment to improve metacomprehension accuracy? Metacognition and Learning, 18, 631–658. https://doi.org/10.1007/s11409-023-09343-0
 
-`q3 · i1`
+`q3 · i1` · `causal · r2`
 
 T-tests compared cue utilization between the two diagramming conditions; "commission errors for relations" was "the only cue showing significant differences between diagramming conditions", with the self-assessment group utilizing it negligibly (γ = −0.02 vs γ = 0.18).
 

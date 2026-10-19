@@ -15,12 +15,14 @@ sources:
     author: Süleyman Avcı, Mustafa Özgenel, Akif Avcu
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The homework management–homework behavior link is stronger for grades 7–8 than for grades 5–6
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The effect of homework management on homework behavior was significantly stronger among 7th–8th graders (β = 0.42, p <.05) than 5th–6th graders (β = 0.35, p <.01; Δχ² = 10.32, p =.01). [→ Süleyman Avcı 2025](#suleyman-avc-2025)
@@ -31,7 +33,7 @@ sources:
 
 Süleyman Avcı, Mustafa Özgenel, Akif Avcu. (2025). Teacher involvement and self-regulation in homework: impact on secondary school students’ homework behavior. Metacognition and Learning. https://doi.org/10.1007/s11409-025-09431-3
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Multigroup SEM comparing grade groups (Group 1: n = 268; Group 2: n = 257) with 35 regression paths constrained to equality. The management–behavior path was "significantly stronger among 7th − 8th graders (β = 0.42, p <.05)".
 

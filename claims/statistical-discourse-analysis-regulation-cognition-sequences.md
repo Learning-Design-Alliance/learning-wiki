@@ -15,12 +15,14 @@ sources:
     author: "Inge Molenaar & Sanna Järvelä"
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # During collaborative learning, low and high cognition have remarkably long lasting (6 lags) positive effects on themselves, planning induces low cognition which sparks high cognition, and scaffolding does not alter these sequences
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Molenaar and Chiu (2014) found remarkably long lasting (6 lags) positive effects of both low and high cognition on itself; planning, monitoring and evaluation immediately aided low cognition, while planning and evaluation supported high cognition with a lag of 2 or 3 events, and orientation reduced the likelihood of high cognition. [→ Inge Molenaar & Sanna Järvelä 2014](#inge-molenaar-sanna-jarvela-2014)
@@ -33,7 +35,7 @@ sources:
 
 Inge Molenaar & Sanna Järvelä. (2014). Sequential and temporal characteristics of self and socially regulated learning. Metacognition and Learning. https://doi.org/10.1007/s11409-014-9114-2
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Statistical discourse analysis combined with content analysis and discourse analysis of discourse data from primary school children collaborating for 6 h in the computer based learning environment Ontdeknet, modeling sequential relations among cognitive, metacognitive and relational activities.
 

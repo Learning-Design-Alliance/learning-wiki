@@ -15,12 +15,14 @@ sources:
     author: "Dillon H. Murphy, Vered Halamish, Matthew G. Rhodes, & Alan D. Castel"
     q: 3
     i: 2
+    kind: causal
+    rigour: 1
 ---
 
 # Words participants said they would remember were recalled earlier in output than words predicted to be forgotten or words not given a prediction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r1` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` In Experiment 1a, remember words were recalled earlier in output than forget words (d = 0.69) and unselected words (d = 0.73). [→ Dillon H. Murphy 2023](#dillon-h-murphy-2023)
@@ -31,7 +33,7 @@ sources:
 
 Dillon H. Murphy, Vered Halamish, Matthew G. Rhodes, & Alan D. Castel. (2023). How evaluating memorability can lead to Unintended Consequences. Metacognition and Learning (2023) 18:375–403. https://doi.org/10.1007/s11409-023-09332-3
 
-`q3 · i2`
+`q3 · i2` · `causal · r1`
 
 Output-position analysis of the Experiment 1a free recall protocols (48 undergraduates, fixed 30-s study). Remember-predicted words emerged earliest in output, "[pholm < 0.001, d = 0.69]" versus forget words and "[pholm < 0.001, d = 0.73]" versus unselected words.
 

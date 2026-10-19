@@ -15,12 +15,14 @@ sources:
     author: Jianhua Zhang, Lawrence Jun Zhang
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # L2 student writers' writing achievement goals form four latent profiles: Low All Goals, Mastery High, Average All Goals, and High All Goals
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Exploratory latent profile analysis of 416 L2 student writers identified four achievement goal profiles, with the Average All Goals profile containing 79.57% of the sample. [→ Jianhua Zhang 2025](#jianhua-zhang-2025)
@@ -31,7 +33,7 @@ sources:
 
 Jianhua Zhang, Lawrence Jun Zhang. (2025). Unraveling the nexus among achievement goals, self-efficacy, and motivation regulation and their joint effects on L2 student writers' writing achievement: a person-based approach. Metacognition and Learning (2025) 20:29. https://doi.org/10.1007/s11409-025-09434-0
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Latent profile analysis (Mplus 8.3) of survey data from 416 tertiary EFL students in Southwest China; the four-profile solution had the highest entropy (0.929) and significant LMR p-values. The article reports the printed membership distribution: "331 learners to the AAGs profile, accounting for 79.57%".
 

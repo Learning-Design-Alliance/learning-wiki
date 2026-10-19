@@ -15,18 +15,22 @@ sources:
     author: Mariëtte van Loon, Claudia M. Roebers
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: mariëtte-van-loon-2024-2
     resource: "https://doi.org/10.1007/s11409-024-09400-2"
     title: "Mariëtte van Loon, Claudia M. Roebers. (2024). Development of metacognitive monitoring and control skills in elementary school: a latent profile approach. Metacognition and Learning. https://doi.org/10.1007/s11409-024-09400-2"
     author: Mariëtte van Loon, Claudia M. Roebers
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Task performance relates to metacognition profile membership at the first measurement point but not one year later
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` At M1, profiles differed in task performance (text task for second graders: χ²(2) = 9.46, p = .008; Kanji task for fourth graders: χ²(2) = 7.94, p = .019). [→ Mariëtte van Loon 2024](#mariette-van-loon-2024)
@@ -38,7 +42,7 @@ sources:
 
 Mariëtte van Loon, Claudia M. Roebers. (2024). Development of metacognitive monitoring and control skills in elementary school: a latent profile approach. Metacognition and Learning. https://doi.org/10.1007/s11409-024-09400-2
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 BCH three-step analyses relating profile membership to distal task performance at M1: second graders' low text metacognition profile showed lower text performance than the other two profiles, and fourth graders' low Kanji monitoring and at-risk profiles showed lower Kanji performance than the proficient profile.
 
@@ -48,7 +52,7 @@ BCH three-step analyses relating profile membership to distal task performance a
 
 Mariëtte van Loon, Claudia M. Roebers. (2024). Development of metacognitive monitoring and control skills in elementary school: a latent profile approach. Metacognition and Learning. https://doi.org/10.1007/s11409-024-09400-2
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 At M2, BCH analyses for second graders found no profile differences in text or Kanji performance; the same held for fourth graders (p = .17 and p = .70), so profiles at M2 reflected metacognition rather than performance differences.
 

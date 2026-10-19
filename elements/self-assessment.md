@@ -22,7 +22,7 @@ sources:
 # Self-Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (6 for, 3 mixed, 1 against) · 10 studies (4 causal, 3 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 4 of 10 report an effect size · 8 claims rest on one study
+> **Evidence** · 12 claims (6 for, 4 mixed, 2 against) · 11 studies (5 causal, 3 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 5 of 11 report an effect size · 10 claims rest on one study
 
 ## Description
 Self-assessment is the element in which learners judge their own work, understanding, or progress against explicit criteria. It is useful when the goal is not only better immediate performance, but stronger self-monitoring and more accurate judgments about what to improve next.
@@ -60,6 +60,8 @@ Self-assessment is the element in which learners judge their own work, understan
 - [Workflow condition is associated with students' self-assessment confidence](../claims/workflow-condition-self-assessment-confidence-effect.md) [~W]
 - [Students' JoL ratings became more consistent over time and evolved from under-rating to over-rating to accurate judgement](../claims/jol-consistency-and-rating-evolution.md) [~W]
 - [Students using the eliciting agent showed JoL ratings correlated with system learning metrics, strongest for mastery](../claims/elicit-condition-jol-accuracy-correlations.md) [+W]
+- [Adding diagram self-assessment to diagram completion does not increase diagnostic cue utilization or metacomprehension accuracy beyond diagramming alone](../claims/self-assessment-scaffold-no-added-benefit.md) [~W] — attached 2026-10-19 from Pijeira-Díaz et al. (2023), which proposed "Diagram self-assessment scaffold (prompting students to estimate completed and correct diagram boxes)"; tests this page's relationship.
+- [Prompted self-assessment decreases utilization of the low-diagnosticity commission-errors cue](../claims/self-assessment-decreases-commission-errors-cue-utilization.md) [-W] — attached 2026-10-19 from Pijeira-Díaz et al. (2023), which proposed "Diagram self-assessment scaffold (prompting students to estimate completed and correct diagram boxes)".
 
 ## The evidence by question
 

@@ -15,18 +15,22 @@ sources:
     author: "Steiner, M., van Loon, M. H., Bayard, N. S., & Roebers, C. M."
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
   - id: steiner-2020-2
     resource: "https://doi.org/10.1007/s11409-019-09208-5"
     title: "Steiner, M., van Loon, M. H., Bayard, N. S., & Roebers, C. M. (2020). Development of Children's monitoring and control when learning from texts: effects of age and test format. Metacognition and Learning, 15, 3–27. https://doi.org/10.1007/s11409-019-09208-5"
     author: "Steiner, M., van Loon, M. H., Bayard, N. S., & Roebers, C. M."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Fourth graders monitor and control answers to open-ended questions more accurately than second graders, but no such age difference exists for true-false questions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` For open-ended questions, fourth graders gave lower confidence judgments for incorrect answers than second graders (age × correctness interaction significant). [→ Steiner 2020](#steiner-2020)
@@ -38,7 +42,7 @@ sources:
 
 Steiner, M., van Loon, M. H., Bayard, N. S., & Roebers, C. M. (2020). Development of Children's monitoring and control when learning from texts: effects of age and test format. Metacognition and Learning, 15, 3–27. https://doi.org/10.1007/s11409-019-09208-5
 
-`q3 · i2`
+`q3 · i2` · `associational · r2`
 
 Repeated measures ANOVA on confidence judgments for open-ended questions (N = 302 sample, correctness within-subject, age between-subjects). Fourth graders were less confident in incorrect answers than second graders (ηp2 = .07), while CJs for correct answers did not differ between grades (p = .32).
 
@@ -48,7 +52,7 @@ Repeated measures ANOVA on confidence judgments for open-ended questions (N = 30
 
 Steiner, M., van Loon, M. H., Bayard, N. S., & Roebers, C. M. (2020). Development of Children's monitoring and control when learning from texts: effects of age and test format. Metacognition and Learning, 15, 3–27. https://doi.org/10.1007/s11409-019-09208-5
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Same ANOVA design applied to true-false questions. The age × correctness interaction was not significant (F(1, 293) = 1.55, p = .22, ηp2 = .01), indicating no detected age difference in discrimination ability for this format. Equivalence was not tested.
 

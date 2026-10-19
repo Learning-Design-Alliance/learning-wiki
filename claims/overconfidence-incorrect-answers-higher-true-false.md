@@ -15,18 +15,22 @@ sources:
     author: "Steiner, M., van Loon, M. H., Bayard, N. S., & Roebers, C. M."
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
   - id: steiner-2020-2
     resource: "https://doi.org/10.1007/s11409-019-09208-5"
     title: "Steiner, M., van Loon, M. H., Bayard, N. S., & Roebers, C. M. (2020). Development of Children's monitoring and control when learning from texts: effects of age and test format. Metacognition and Learning, 15, 3–27. https://doi.org/10.1007/s11409-019-09208-5"
     author: "Steiner, M., van Loon, M. H., Bayard, N. S., & Roebers, C. M."
     q: 3
     i: 3
+    kind: causal
+    rigour: 1
 ---
 
 # Children are considerably more overconfident about incorrect answers to true-false questions than about incorrect answers to open-ended questions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2`–`i3`
+> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3` · `i2`–`i3`
 
 ## Subclaims
 `q3 i2` CJs for incorrect answers to detail open-ended questions were substantially lower than CJs for incorrect answers to true-false questions (d = .70). [→ Steiner 2020](#steiner-2020)
@@ -38,7 +42,7 @@ sources:
 
 Steiner, M., van Loon, M. H., Bayard, N. S., & Roebers, C. M. (2020). Development of Children's monitoring and control when learning from texts: effects of age and test format. Metacognition and Learning, 15, 3–27. https://doi.org/10.1007/s11409-019-09208-5
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Exploratory comparison of CJs for incorrect answers across question types, collapsed across grade and measurement point (Table 4). Confidence in incorrect detail open-ended answers was much lower than in incorrect true-false answers (d = .70).
 
@@ -48,7 +52,7 @@ Exploratory comparison of CJs for incorrect answers across question types, colla
 
 Steiner, M., van Loon, M. H., Bayard, N. S., & Roebers, C. M. (2020). Development of Children's monitoring and control when learning from texts: effects of age and test format. Metacognition and Learning, 15, 3–27. https://doi.org/10.1007/s11409-019-09208-5
 
-`q3 · i3`
+`q3 · i3` · `causal · r1`
 
 Exploratory comparison of CJs for incorrect answers (Table 4). Confidence in incorrect causal open-ended answers was much lower than in incorrect true-false answers (d = .88); detail vs. causal open-ended CJs differed only slightly (d = .16).
 

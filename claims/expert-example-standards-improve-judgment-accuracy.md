@@ -15,24 +15,30 @@ sources:
     author: Linda Froese, Julian Roelle
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
   - id: linda-froese-2023-2
     resource: "https://doi.org/10.1007/s11409-023-09347-w"
     title: "Linda Froese, Julian Roelle. (2023). Expert example but not negative example standards help learners accurately evaluate the quality of self-generated examples. Metacognition and Learning. https://doi.org/10.1007/s11409-023-09347-w"
     author: Linda Froese, Julian Roelle
     q: 3
     i: 2
+    kind: causal
+    rigour: 3
   - id: linda-froese-2023-3
     resource: "https://doi.org/10.1007/s11409-023-09347-w"
     title: "Linda Froese, Julian Roelle. (2023). Expert example but not negative example standards help learners accurately evaluate the quality of self-generated examples. Metacognition and Learning. https://doi.org/10.1007/s11409-023-09347-w"
     author: Linda Froese, Julian Roelle
     q: 3
     i: 2
+    kind: causal
+    rigour: 3
 ---
 
 # Expert example standards improve university students' judgment accuracy (bias, absolute accuracy, and relative accuracy) when evaluating self-generated examples
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (3 entries) · causal `r2`–`r3` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Providing expert example standards during self-evaluation significantly reduced bias in judging self-generated examples. [→ Linda Froese 2023](#linda-froese-2023)
@@ -45,7 +51,7 @@ sources:
 
 Linda Froese, Julian Roelle. (2023). Expert example but not negative example standards help learners accurately evaluate the quality of self-generated examples. Metacognition and Learning. https://doi.org/10.1007/s11409-023-09347-w
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 In the 2×2 between-subject experiment (N = 128, one outlier excluded), an ANCOVA controlling for prior knowledge showed a significant main effect of expert example standards on bias, "F(1, 122) = 5.35, p = .022, ηp2 = .04", a medium-sized effect.
 
@@ -55,7 +61,7 @@ In the 2×2 between-subject experiment (N = 128, one outlier excluded), an ANCOV
 
 Linda Froese, Julian Roelle. (2023). Expert example but not negative example standards help learners accurately evaluate the quality of self-generated examples. Metacognition and Learning. https://doi.org/10.1007/s11409-023-09347-w
 
-`q3 · i2`
+`q3 · i2` · `causal · r3`
 
 The same experiment showed a significant main effect of expert example standards on absolute accuracy, "F(1, 122) = 11.42, p = .001, ηp2 = .08", a medium effect; learners with expert standards reached values closer to zero.
 
@@ -65,7 +71,7 @@ The same experiment showed a significant main effect of expert example standards
 
 Linda Froese, Julian Roelle. (2023). Expert example but not negative example standards help learners accurately evaluate the quality of self-generated examples. Metacognition and Learning. https://doi.org/10.1007/s11409-023-09347-w
 
-`q3 · i2`
+`q3 · i2` · `causal · r3`
 
 For relative accuracy (intra-individual gamma correlations; n = 8 participants excluded due to indeterminate gammas), expert example standards significantly enhanced ranking accuracy, "F(1, 114) = 4.82, p = .030, ηp2 = .04", a medium-sized effect.
 

@@ -15,12 +15,14 @@ sources:
     author: Azevedo, R.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Elementary students showed the same types of learning patterns across well- and ill-structured science tasks despite the differing task demands
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Despite the assumption that different task types call for different strategies, the twelve students illustrated the same types of learning patterns across the two tasks. [→ Azevedo 2014](#azevedo-2014)
@@ -31,7 +33,7 @@ sources:
 
 Azevedo, R. (2014). Issues in dealing with sequential and temporal characteristics of self- and socially-regulated learning. Metacognition and Learning, 9, 217–228. https://doi.org/10.1007/s11409-014-9123-1
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The commentary reports, citing Malmberg et al., that although task types were expected to shape strategy use, "the students illustrated the same types of learning patterns across the two tasks" in the gStudy science lessons.
 

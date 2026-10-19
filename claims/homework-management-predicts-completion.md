@@ -15,12 +15,14 @@ sources:
     author: Süleyman Avcı, Mustafa Özgenel, Akif Avcu
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Students who use homework management skills at a high level are more likely to complete their homework
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Homework management was a significant positive predictor of homework behavior (β = 0.43, p <.01), and homework completion correlated positively with all homework management dimensions. [→ Süleyman Avcı 2025](#suleyman-avc-2025)
@@ -31,7 +33,7 @@ sources:
 
 Süleyman Avcı, Mustafa Özgenel, Akif Avcu. (2025). Teacher involvement and self-regulation in homework: impact on secondary school students’ homework behavior. Metacognition and Learning. https://doi.org/10.1007/s11409-025-09431-3
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 SEM path analysis in the same 525-student sample; the homework management latent variable significantly predicted the homework behavior latent variable (homework completion and going to school without homework). Correlations in Table 1 showed homework completion "positively related to all dimensions of homework quality and homework management".
 

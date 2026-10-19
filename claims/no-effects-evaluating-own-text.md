@@ -15,12 +15,14 @@ sources:
     author: "Tillema, M., van den Bergh, H., Rijlaarsdam, G., & Sanders, T."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # No effects of reported planner or reviser scores were found on evaluating own text
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Neither planner nor reviser scores, nor their interactions with episode, significantly predicted evaluating own text. [→ Tillema 2011](#tillema-2011)
@@ -31,7 +33,7 @@ sources:
 
 Tillema, M., van den Bergh, H., Rijlaarsdam, G., & Sanders, T. (2011). Relating self reports of writing behaviour and online task execution using a temporal model. Metacognition and Learning. https://doi.org/10.1007/s11409-011-9072-x
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 In the multilevel regression analyses of the 20 students' think-aloud protocols, evaluating own text showed no significant main or interaction effects of offline scores. The article offers no effect size for this null finding; equivalence was not tested.
 

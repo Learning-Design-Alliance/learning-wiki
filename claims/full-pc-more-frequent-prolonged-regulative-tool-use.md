@@ -15,12 +15,14 @@ sources:
     author: "Sarah Manlove, Ard W. Lazonder & Ton de Jong"
     q: 2
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Dyads given the full Process Coordinator used the regulative tool about three times as long and twice as often as dyads with the empty version
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` PC+ dyads used the Process Coordinator significantly longer than PC− dyads (d=1.21) and more frequently (d=0.66). [→ Sarah Manlove 2007](#sarah-manlove-2007)
@@ -31,7 +33,7 @@ sources:
 
 Sarah Manlove, Ard W. Lazonder & Ton de Jong. (2007). Software scaffolds to promote regulation during scientific inquiry learning. Metacognition Learning. https://doi.org/10.1007/s11409-007-9012-y
 
-`q2 · i3`
+`q2 · i3` · `causal · r2`
 
 Quasi-experimental comparison of 20 PC+ versus 15 PC− dyads working an inquiry task in Co-Lab over five lessons; logfiles showed PC use "about three times as long and twice as much", with t tests and d=1.21 (time) and d=0.66 (frequency) as printed.
 

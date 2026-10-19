@@ -14,12 +14,14 @@ sources:
     author: "Janssen, J., Erkens, G., Kirschner, P. A., & Kanselaar, G."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Regulation of social activities positively predicts group performance in CSCL inquiry tasks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In a multiple regression, regulation of social activities significantly predicted group performance (β=.358, p=.03). [→ Janssen 2010](#janssen-2010)
@@ -30,7 +32,7 @@ sources:
 
 Janssen, J., Erkens, G., Kirschner, P. A., & Kanselaar, G. (2010). Task-related and social regulation during online collaborative learning. Metacognition and Learning.
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Multiple regression analysis using the four interaction factor scores to predict group performance for 101 groups; regulation of social activities (summed percentages of MSociPlan, MSociMoni, MSociEvl-) was a significant positive predictor, β=.358, p=.03. No effect size beyond β is printed.
 

@@ -15,18 +15,22 @@ sources:
     author: "Steiner, M., van Loon, M. H., Bayard, N. S., & Roebers, C. M."
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
   - id: steiner-2020-2
     resource: "https://doi.org/10.1007/s11409-019-09208-5"
     title: "Steiner, M., van Loon, M. H., Bayard, N. S., & Roebers, C. M. (2020). Development of Children's monitoring and control when learning from texts: effects of age and test format. Metacognition and Learning, 15, 3–27. https://doi.org/10.1007/s11409-019-09208-5"
     author: "Steiner, M., van Loon, M. H., Bayard, N. S., & Roebers, C. M."
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Monitoring-based control (the relation between confidence judgments and maintenance decisions) is stronger for fourth graders than second graders and strengthens over time for open-ended questions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Gamma correlations between CJs and maintenance were stronger for fourth than second graders. [→ Steiner 2020](#steiner-2020)
@@ -38,7 +42,7 @@ sources:
 
 Steiner, M., van Loon, M. H., Bayard, N. S., & Roebers, C. M. (2020). Development of Children's monitoring and control when learning from texts: effects of age and test format. Metacognition and Learning, 15, 3–27. https://doi.org/10.1007/s11409-019-09208-5
 
-`q3 · i2`
+`q3 · i2` · `associational · r2`
 
 Gamma correlations between confidence judgments and maintenance decisions (Table 3) analyzed with repeated measures ANOVA. The CJs–control relation was stronger for fourth than second graders (ηp2 = .05), confirming the monitoring-based control hypothesis.
 
@@ -48,7 +52,7 @@ Gamma correlations between confidence judgments and maintenance decisions (Table
 
 Steiner, M., van Loon, M. H., Bayard, N. S., & Roebers, C. M. (2020). Development of Children's monitoring and control when learning from texts: effects of age and test format. Metacognition and Learning, 15, 3–27. https://doi.org/10.1007/s11409-019-09208-5
 
-`q3 · i2`
+`q3 · i2` · `associational · r2`
 
 Repeated measures ANOVA on gamma correlations between CJs and maintenance. For open-ended questions the relation strengthened from T1 to T2 (ηp2 = .05); for true-false questions no age or time differences were found (ps > .07).
 

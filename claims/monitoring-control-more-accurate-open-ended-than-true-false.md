@@ -15,18 +15,22 @@ sources:
     author: "Steiner, M., van Loon, M. H., Bayard, N. S., & Roebers, C. M."
     q: 3
     i: 3
+    kind: causal
+    rigour: 1
   - id: steiner-2020-2
     resource: "https://doi.org/10.1007/s11409-019-09208-5"
     title: "Steiner, M., van Loon, M. H., Bayard, N. S., & Roebers, C. M. (2020). Development of Children's monitoring and control when learning from texts: effects of age and test format. Metacognition and Learning, 15, 3–27. https://doi.org/10.1007/s11409-019-09208-5"
     author: "Steiner, M., van Loon, M. H., Bayard, N. S., & Roebers, C. M."
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Elementary school children monitor and control their answers to open-ended text comprehension questions more accurately than answers to true-false questions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2`–`i3`
+> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3` · `i2`–`i3`
 
 ## Subclaims
 `q3 i3` Monitoring accuracy (gamma correlations) was significantly higher for open-ended than true-false questions at both measurement points. [→ Steiner 2020](#steiner-2020)
@@ -38,7 +42,7 @@ sources:
 
 Steiner, M., van Loon, M. H., Bayard, N. S., & Roebers, C. M. (2020). Development of Children's monitoring and control when learning from texts: effects of age and test format. Metacognition and Learning, 15, 3–27. https://doi.org/10.1007/s11409-019-09208-5
 
-`q3 · i3`
+`q3 · i3` · `causal · r1`
 
 Repeated measures ANOVA with test format as within-subject factor, collapsed across both grades (N = 302), comparing gamma correlations between confidence judgments and performance for the two formats. Monitoring was significantly more accurate for open-ended than true-false questions at both measurement points, with ηp2 = .15 at T1 and ηp2 = .11 at T2.
 
@@ -48,7 +52,7 @@ Repeated measures ANOVA with test format as within-subject factor, collapsed acr
 
 Steiner, M., van Loon, M. H., Bayard, N. S., & Roebers, C. M. (2020). Development of Children's monitoring and control when learning from texts: effects of age and test format. Metacognition and Learning, 15, 3–27. https://doi.org/10.1007/s11409-019-09208-5
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Repeated measures ANOVA comparing gamma correlations between maintenance decisions and performance across test formats in the same sample. Control was more accurate for open-ended questions at both T1 (ηp2 = .10) and T2 (ηp2 = .13), as visible in Table 3.
 

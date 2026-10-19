@@ -14,12 +14,14 @@ sources:
     author: "Janssen, J., Erkens, G., Kirschner, P. A., & Kanselaar, G."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Performing social activities negatively predicts group performance in CSCL inquiry tasks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In the regression, performing social activities had a significant negative effect on group performance (β=−.483, p=.03). [→ Janssen 2010](#janssen-2010)
@@ -30,7 +32,7 @@ sources:
 
 Janssen, J., Erkens, G., Kirschner, P. A., & Kanselaar, G. (2010). Task-related and social regulation during online collaborative learning. Metacognition and Learning.
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Same multiple regression on 101 groups' factor scores; the social activities factor (greetings, social support, social resistance, shared understanding, positive group-process evaluations) significantly and negatively predicted group performance, β=−.483, p=.03.
 

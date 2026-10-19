@@ -15,12 +15,14 @@ sources:
     author: "Iordanou, K., Kendeou, P., & Zembylas, M."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # The think-aloud emotion of sadness and prior knowledge predict coherence-based processing during reading of the other-side text
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` A standard multiple regression showed sadness and prior knowledge predicted coherence-based processing of the other-side text, F(2, 37) = 12.902, p < .001, R2 = .424. [→ Iordanou 2020](#iordanou-2020)
@@ -31,7 +33,7 @@ sources:
 
 Iordanou, K., Kendeou, P., & Zembylas, M. (2020). Examining my-side bias during and after reading controversial historical accounts. Metacognition and Learning. https://doi.org/10.1007/s11409-020-09240-w
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Standard multiple regression with coherence-based processing during other-side text reading as the dependent variable and think-aloud sadness and prior knowledge as predictors. Both were significant predictors; more coherence-based processing was exhibited by those expressing more sadness and having more prior knowledge.
 

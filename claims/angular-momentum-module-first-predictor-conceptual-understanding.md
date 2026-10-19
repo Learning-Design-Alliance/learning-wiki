@@ -15,12 +15,14 @@ sources:
     author: "Sijmkens, E., De Cock, M., & De Laet, T."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Completion of the angular momentum reflection module is the first significant predictor of conceptual understanding of the related exam problem
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Completion of the module on angular momentum emerged as the first significant predictor of concept score in the hierarchical regression model, before MSLQ prescores. [→ Sijmkens 2024](#sijmkens-2024)
@@ -31,7 +33,7 @@ sources:
 
 Sijmkens, E., De Cock, M., & De Laet, T. (2024). Scaffolding Students' Use of Metacognitive Activities Using Discipline- and Topic-Specific Reflective Prompts. https://doi.org/10.1007/s11409-023-09363-w
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Hierarchical regression with concept score as outcome (N=272). Module 8 completion was the first significant predictor; prescores on 'time and study environment and effort regulation' and 'rehearsal' subscales emerged as additional significant indicators in subsequent models.
 

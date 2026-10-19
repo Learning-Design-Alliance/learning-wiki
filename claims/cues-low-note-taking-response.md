@@ -15,12 +15,14 @@ sources:
     author: "Sarah Manlove, Ard W. Lazonder & Ton de Jong"
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Pop-up cues contributed only modestly to note taking, triggering note taking in under 4% of instances
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Only 3.83% of cues triggered note taking, though 9.82% of PC+ notes were taken in response to a cue and 5.98% of cues led to other PC actions. [→ Sarah Manlove 2007](#sarah-manlove-2007)
@@ -31,7 +33,7 @@ sources:
 
 Sarah Manlove, Ard W. Lazonder & Ton de Jong. (2007). Software scaffolds to promote regulation during scientific inquiry learning. Metacognition Learning. https://doi.org/10.1007/s11409-007-9012-y
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Logfile analysis of cue responses among the 20 PC+ dyads; percentages are descriptive, no effect size or significance test is printed for cue response rates.
 

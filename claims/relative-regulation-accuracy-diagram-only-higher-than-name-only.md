@@ -15,12 +15,14 @@ sources:
     author: Janneke van de Pol, Selia N. van den Boom-Muilenburg, Tamara van Gog
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Relative comprehension-based regulation accuracy is higher in the diagram-only condition than in the name-only condition (direct effect)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` For relative comprehension-based regulation accuracy, the diagram-only condition outperformed the name-only condition as a direct effect of cue availability. [→ Janneke van de Pol 2021](#janneke-van-de-pol-2021)
@@ -31,7 +33,7 @@ sources:
 
 Janneke van de Pol, Selia N. van den Boom-Muilenburg, Tamara van Gog. (2021). Exploring the relations between teachers' cue-utilization, monitoring and regulation of students' text learning. Metacognition and Learning. https://doi.org/10.1007/s11409-021-09268-6
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 The article's overview table of hypotheses and findings reports, for the explorative direct-effect question E3.3a, "Relative accuracy: diagram-only > name-only" for comprehension-based regulation accuracy; no effect size for this contrast is printed in the available text.
 

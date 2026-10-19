@@ -15,12 +15,14 @@ sources:
     author: Süleyman Avcı, Mustafa Özgenel, Akif Avcu
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Teacher homework involvement positively predicts students' use of homework management strategies in secondary school students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Teacher homework involvement significantly predicted homework management (β = 0.66, p <.01) in a sample of 525 Turkish secondary students. [→ Süleyman Avcı 2025](#suleyman-avc-2025)
@@ -31,7 +33,7 @@ sources:
 
 Süleyman Avcı, Mustafa Özgenel, Akif Avcu. (2025). Teacher involvement and self-regulation in homework: impact on secondary school students’ homework behavior. Metacognition and Learning. https://doi.org/10.1007/s11409-025-09431-3
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Structural equation modeling with 525 secondary school students in Turkey; teacher homework involvement (homework quality, feedback quality/quantity, autonomy support) as latent predictor of homework management. The model showed teacher homework involvement "significantly predicted homework management (β = 0.66, p <.01)".
 

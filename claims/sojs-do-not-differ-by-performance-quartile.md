@@ -15,12 +15,14 @@ sources:
     author: Marloes L. Nederhand, Huib K. Tabbers, Anique B.H. De Bruin, Remy M. J. P. Rikers
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Subjective confidence ratings did not differ between performance quartiles for university or secondary school students, failing to replicate Miller and Geraci
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` ANOVAs with SOJ as dependent variable and performance quartile as independent variable were non-significant for university students and for secondary students in all three subjects. [→ Marloes L. Nederhand 2021](#marloes-l-nederhand-2021)
@@ -31,7 +33,7 @@ sources:
 
 Marloes L. Nederhand, Huib K. Tabbers, Anique B.H. De Bruin, Remy M. J. P. Rikers. (2021). Metacognitive awareness as measured by second-order judgements among university and secondary school students. Metacognition and Learning, 16, 1-14. https://doi.org/10.1007/s11409-020-09228-6
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Replication check of Miller and Geraci (2011): students were divided into four performance quartiles and SOJs compared via ANOVA. All tests were non-significant with very small ηp2 values (e.g., ".001" for university students), contrary to the prior finding that low performers report lower confidence.
 

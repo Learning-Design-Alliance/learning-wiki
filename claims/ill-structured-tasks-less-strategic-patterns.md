@@ -15,12 +15,14 @@ sources:
     author: "Inge Molenaar & Sanna Järvelä"
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Learning patterns in ill-structured tasks are less strategic than in well-structured tasks, and on-track students apply learning strategies in later phases than off-track students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Malmberg, Järvelä and Kirschner (2014) found no difference in the amount of on/off-track task solutions between well- and ill-structured tasks, yet learning patterns in ill-structured tasks seem less strategic, oriented more towards explaining and questioning, while well-structured task patterns were more directed at information selection. [→ Inge Molenaar & Sanna Järvelä 2014](#inge-molenaar-sanna-jarvela-2014)
@@ -32,7 +34,7 @@ sources:
 
 Inge Molenaar & Sanna Järvelä. (2014). Sequential and temporal characteristics of self and socially regulated learning. Metacognition and Learning. https://doi.org/10.1007/s11409-014-9114-2
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Trace data analysis of log file events from the computer based learning environment gStudy during two tasks of 1,5 h each; transition matrices defined sequences among strategic actions, with sequences occurring more than 3 times considered learning patterns.
 

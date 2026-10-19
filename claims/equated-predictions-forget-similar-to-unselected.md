@@ -15,12 +15,14 @@ sources:
     author: "Dillon H. Murphy, Vered Halamish, Matthew G. Rhodes, & Alan D. Castel"
     q: 3
     i: 0
+    kind: causal
+    rigour: 1
 ---
 
 # When the number of remember, forget, and unselected words was equated, words predicted to be forgotten were recalled similarly to unselected words
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i0` negligible
+> **Evidence** · 1 study · causal `r1` · `q3` · `i0` negligible
 
 ## Subclaims
 `q3 i0` In Experiment 2, recall was similar for words expected to be forgotten and words not selected (d = 0.06), though both were recalled well above zero. [→ Dillon H. Murphy 2023](#dillon-h-murphy-2023)
@@ -31,7 +33,7 @@ sources:
 
 Dillon H. Murphy, Vered Halamish, Matthew G. Rhodes, & Alan D. Castel. (2023). How evaluating memorability can lead to Unintended Consequences. Metacognition and Learning (2023) 18:375–403. https://doi.org/10.1007/s11409-023-09332-3
 
-`q3 · i0`
+`q3 · i0` · `causal · r1`
 
 Experiment 2 with 50 undergraduates studied 18-word lists, selecting six remember and six forget words, leaving six unselected. Forget words (M = 0.38) and unselected words (M = 0.36) did not differ; "[ pholm = 0.679, d = 0.06]".
 

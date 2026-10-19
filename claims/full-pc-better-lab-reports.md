@@ -15,18 +15,22 @@ sources:
     author: "Sarah Manlove, Ard W. Lazonder & Ton de Jong"
     q: 2
     i: 3
+    kind: causal
+    rigour: 2
   - id: sarah-manlove-2007-2
     resource: "https://doi.org/10.1007/s11409-007-9012-y"
     title: "Sarah Manlove, Ard W. Lazonder & Ton de Jong. (2007). Software scaffolds to promote regulation during scientific inquiry learning. Metacognition Learning. https://doi.org/10.1007/s11409-007-9012-y"
     author: "Sarah Manlove, Ard W. Lazonder & Ton de Jong"
     q: 2
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Full-PC dyads wrote lab reports with significantly better structure and more complete content than empty-PC dyads
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Report structure scores were significantly higher in the PC+ condition (d=1.49). [→ Sarah Manlove 2007](#sarah-manlove-2007)
@@ -38,7 +42,7 @@ sources:
 
 Sarah Manlove, Ard W. Lazonder & Ton de Jong. (2007). Software scaffolds to promote regulation during scientific inquiry learning. Metacognition Learning. https://doi.org/10.1007/s11409-007-9012-y
 
-`q2 · i3`
+`q2 · i3` · `causal · r2`
 
 Two-way ANOVA on completed lab reports of mixed-ability dyads; structure scored by presence of template sections (maximum 5), d=1.49. Achievement level had no effect (F(1,22)=0.29, p=0.60) and the interaction was not significant (F(1,22)=1.47, p=.24).
 
@@ -48,7 +52,7 @@ Two-way ANOVA on completed lab reports of mixed-ability dyads; structure scored 
 
 Sarah Manlove, Ard W. Lazonder & Ton de Jong. (2007). Software scaffolds to promote regulation during scientific inquiry learning. Metacognition Learning. https://doi.org/10.1007/s11409-007-9012-y
 
-`q2 · i3`
+`q2 · i3` · `causal · r2`
 
 Report content scored by number of the template's 11 evaluation topics addressed (maximum 11); two-way ANOVA found d=1.74, with no significant achievement main effect (F(1,22)=.05, p=.83) or interaction (F(1,22)=.01, p=.92).
 

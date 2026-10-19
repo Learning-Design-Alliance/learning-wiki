@@ -15,18 +15,22 @@ sources:
     author: "Marion Händel & Anique B. H. de Bruin & Markus Dresel"
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: marion-händel-anique-b-h-de-bruin-markus-dresel-2020-2
     resource: "https://doi.org/10.1007/s11409-020-09220-0"
     title: "Marion Händel & Anique B. H. de Bruin & Markus Dresel (2020). Individual differences in local and global metacognitive judgments. Metacognition and Learning (2020) 15:51–75. https://doi.org/10.1007/s11409-020-09220-0"
     author: "Marion Händel & Anique B. H. de Bruin & Markus Dresel"
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Global predictions rely on domain-specific self-concept but not on test performance, unlike postdictions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In Study 2, predictions were explained only by motivational variables, with stronger effects for domain-specific than academic self-concept. [→ Marion Händel & Anique B. H. de Bruin & Markus Dresel 2020](#marion-handel-anique-b-h-de-bruin-markus-dresel-2020)
@@ -38,7 +42,7 @@ sources:
 
 Marion Händel & Anique B. H. de Bruin & Markus Dresel (2020). Individual differences in local and global metacognitive judgments. Metacognition and Learning (2020) 15:51–75. https://doi.org/10.1007/s11409-020-09220-0
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Study 2 hierarchical regression on global predictions one week before the psychology exam. The article reports the judgment "relied mostly on domain-specific self-concept" and that "Test performance itself had no predictive power for predictions."
 
@@ -48,7 +52,7 @@ Study 2 hierarchical regression on global predictions one week before the psycho
 
 Marion Händel & Anique B. H. de Bruin & Markus Dresel (2020). Individual differences in local and global metacognitive judgments. Metacognition and Learning (2020) 15:51–75. https://doi.org/10.1007/s11409-020-09220-0
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Study 2 general linear mixed model comparing regression coefficients between pre- and postdictions. The article reports "test performance was of higher relevance for postdictions than for predictions (p < .001)", partly confirming Hypothesis 3; direct comparisons of self-concept betas were not significant.
 

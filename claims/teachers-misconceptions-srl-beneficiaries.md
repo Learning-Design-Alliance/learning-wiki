@@ -15,12 +15,14 @@ sources:
     author: Charlotte Dignath, Zemira Mevarech
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Teachers often hold misconceptions about which students benefit from SRL scaffolding
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Teachers often hold misconceptions about which students benefit from SRL and to what extent SRL scaffolding is needed for promoting lower vs. higher cognitive levels. [→ Charlotte Dignath 2021](#charlotte-dignath-2021)
@@ -31,7 +33,7 @@ sources:
 
 Charlotte Dignath, Zemira Mevarech. (2021). Introduction to special issue mind the gap between research and practice in the area of teachers' support of metacognition and SRL. Metacognition and Learning. https://doi.org/10.1007/s11409-021-09285-5
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The editorial reports, citing Peeters et al. (2016), Zohar & Barzilai (2015) and Mevarech & Fan (2018), that teachers "often hold misconceptions about which students benefit from SRL"; attributed second-hand.
 

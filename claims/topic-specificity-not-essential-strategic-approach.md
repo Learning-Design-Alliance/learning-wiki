@@ -15,12 +15,14 @@ sources:
     author: "Sijmkens, E., De Cock, M., & De Laet, T."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Topic-specificity of reflection modules is not essential for developing strategic approach, unlike for conceptual understanding
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Completion of the angular momentum module did not appear as a significant predictor of strategy score in the hierarchical regression model, while modules 3 and 4 did. [→ Sijmkens 2024](#sijmkens-2024)
@@ -31,7 +33,7 @@ sources:
 
 Sijmkens, E., De Cock, M., & De Laet, T. (2024). Scaffolding Students' Use of Metacognitive Activities Using Discipline- and Topic-Specific Reflective Prompts. https://doi.org/10.1007/s11409-023-09363-w
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Hierarchical regression with strategy score as outcome (N=272). Modules 3 and 4 emerged as significant predictors; module 8 (angular momentum) did not. The 'time and study environment and effort regulation' prescore was also a significant predictor.
 

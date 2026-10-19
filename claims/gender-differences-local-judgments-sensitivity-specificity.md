@@ -15,12 +15,14 @@ sources:
     author: "Marion Händel & Anique B. H. de Bruin & Markus Dresel"
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Female students provided lower local judgments with lower sensitivity but higher specificity than male students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In Study 1, gender significantly predicted the level of local judgments and the discrimination scores. [→ Marion Händel & Anique B. H. de Bruin & Markus Dresel 2020](#marion-handel-anique-b-h-de-bruin-markus-dresel-2020)
@@ -31,7 +33,7 @@ sources:
 
 Marion Händel & Anique B. H. de Bruin & Markus Dresel (2020). Individual differences in local and global metacognitive judgments. Metacognition and Learning (2020) 15:51–75. https://doi.org/10.1007/s11409-020-09220-0
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Study 1 hierarchical regression of local judgments in the mathematics test, where gender significantly predicted only the judgment level and discrimination scores. The article reports "Female students provided lower local judgments, and had lower sensitivity but higher specificity scores."
 

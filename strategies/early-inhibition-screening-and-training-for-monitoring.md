@@ -37,7 +37,7 @@ Based on the finding that kindergarten inhibition predicted less overconfident m
 - Accurate metacognitive monitoring and, consequently, academic achievement
 
 ### Affordances
-- [Inhibition Enables Thorough Monitoring Account](../theories/inhibition-enables-thorough-monitoring-account.md)
+- [Inhibition Enables Thorough Monitoring Account](../theories/metacognition.md)
 
 ## Related Strategies
 - 

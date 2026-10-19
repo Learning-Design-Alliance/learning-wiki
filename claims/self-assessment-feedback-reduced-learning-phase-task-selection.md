@@ -15,12 +15,14 @@ sources:
     author: Steven F. Raaijmakers, Martine Baars, Fred Paas, Jeroen J. G. van Merriënboer, Tamara van Gog
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # In Experiment 1, receiving self-assessment feedback during the learning phase led to less accurate task selection than no feedback, despite feedback stating actual performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Task selections during the learning phase were significantly less accurate in the feedback conditions than in the control condition (d = 0.46), contrary to Hypothesis 1. [→ Steven F. Raaijmakers 2019](#steven-f-raaijmakers-2019)
@@ -31,7 +33,7 @@ sources:
 
 Steven F. Raaijmakers, Martine Baars, Fred Paas, Jeroen J. G. van Merriënboer, Tamara van Gog. (2019). Effects of self-assessment feedback on self-assessment and task-selection accuracy. Metacognition and Learning. https://doi.org/10.1007/s11409-019-09189-5
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Planned contrast in the 108-participant Experiment 1 showed feedback conditions selected less accurately than control, d = 0.46: "task selections were less accurate instead of more accurate in the experimental conditions compared to the control condition". Of all feedback instances, 73% were negative.
 

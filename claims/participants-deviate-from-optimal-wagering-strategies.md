@@ -15,12 +15,14 @@ sources:
     author: Lorenz Weise
     q: 1
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Participants frequently deviate from optimal wagering strategies implied by payoff matrices
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · quant-synthesis `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Although a given payoff matrix implies a specific optimal wagering strategy, participants often appear to stray far from this optimal behavior, using the low option far more frequently. [→ Lorenz Weise 2024](#lorenz-weise-2024)
@@ -31,7 +33,7 @@ sources:
 
 Lorenz Weise. (2024). Payoff designs in post-decision wagering: a systematic review. Metacognition and Learning. https://doi.org/10.1007/s11409-024-09411-z
 
-`q1 · i?`
+`q1 · i?` · `quant-synthesis · r2`
 
 The review attributes this finding to Schurger & Sher (2008), reporting that participants "appear to stray far from this optimal behavior" and use the low option far more frequently, possibly to avoid large losses. The review narrates this second-hand; the underlying study's design is not described here.
 

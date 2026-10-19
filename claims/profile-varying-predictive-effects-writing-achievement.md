@@ -15,18 +15,22 @@ sources:
     author: Jianhua Zhang, Lawrence Jun Zhang
     q: 2
     i: 1
+    kind: associational
+    rigour: 2
   - id: jianhua-zhang-2025-2
     resource: "https://doi.org/10.1007/s11409-025-09434-0"
     title: "Jianhua Zhang, Lawrence Jun Zhang. (2025). Unraveling the nexus among achievement goals, self-efficacy, and motivation regulation and their joint effects on L2 student writers' writing achievement: a person-based approach. Metacognition and Learning (2025) 20:29. https://doi.org/10.1007/s11409-025-09434-0"
     author: Jianhua Zhang, Lawrence Jun Zhang
     q: 2
     i: 3
+    kind: associational
+    rigour: 1
 ---
 
 # The predictive effects of writing self-efficacy and motivation regulation strategies on writing achievement vary across achievement goal profiles and writing genre
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i1`–`i3`
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2` · `i1`–`i3`
 
 ## Subclaims
 `q2 i1` For the overall sample, linguistic self-efficacy significantly predicted argumentative writing achievement (β = 0.164, p = .01), but no variable significantly predicted narrative achievement for the overall sample. [→ Jianhua Zhang 2025](#jianhua-zhang-2025)
@@ -38,7 +42,7 @@ sources:
 
 Jianhua Zhang, Lawrence Jun Zhang. (2025). Unraveling the nexus among achievement goals, self-efficacy, and motivation regulation and their joint effects on L2 student writers' writing achievement: a person-based approach. Metacognition and Learning (2025) 20:29. https://doi.org/10.1007/s11409-025-09434-0
 
-`q2 · i1`
+`q2 · i1` · `associational · r2`
 
 Multiple regression analyses on the overall sample and within each profile. The article reports "β = 0.164, p =.01" for linguistic self-efficacy on argumentative writing; for narrative writing the article states the variables "could not significantly predict writing achievement for the overall sample".
 
@@ -48,7 +52,7 @@ Multiple regression analyses on the overall sample and within each profile. The 
 
 Jianhua Zhang, Lawrence Jun Zhang. (2025). Unraveling the nexus among achievement goals, self-efficacy, and motivation regulation and their joint effects on L2 student writers' writing achievement: a person-based approach. Metacognition and Learning (2025) 20:29. https://doi.org/10.1007/s11409-025-09434-0
 
-`q2 · i3`
+`q2 · i3` · `associational · r1`
 
 Profile-wise multiple regressions on narrative-task scores. The article reports "β = 0.581, p =.041" for emotional control in the LAGs cohort; no variable significantly predicted narrative achievement in the MH, AAGs, or HAGs profiles.
 

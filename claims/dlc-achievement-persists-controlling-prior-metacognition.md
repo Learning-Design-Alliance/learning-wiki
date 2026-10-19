@@ -15,12 +15,14 @@ sources:
     author: "Sijmkens, E., De Cock, M., & De Laet, T."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Positive relationship between DLC interaction and academic achievement persists when controlling for prior metacognitive abilities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In hierarchical regression models controlling for MSLQ prescores, completion of reflection modules 7, 8, and 2 emerged as significant predictors of final exam score. [→ Sijmkens 2024](#sijmkens-2024)
@@ -31,7 +33,7 @@ sources:
 
 Sijmkens, E., De Cock, M., & De Laet, T. (2024). Scaffolding Students' Use of Metacognitive Activities Using Discipline- and Topic-Specific Reflective Prompts. https://doi.org/10.1007/s11409-023-09363-w
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Hierarchical regression analysis with N=272 students who completed the MSLQ pretest, predicting final exam score from completion of nine reflection modules and MSLQ subscale prescores. Modules 7, 8, and 2 and the time/effort regulation prescore emerged as significant predictors.
 

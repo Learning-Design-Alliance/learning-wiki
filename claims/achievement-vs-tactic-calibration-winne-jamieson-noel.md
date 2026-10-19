@@ -15,18 +15,22 @@ sources:
     author: "Rovers, S. F. E., Clarebout, G., Savelberg, H. H. C. M., de Bruin, A. B. H., & van Merriënboer, J. J. G."
     q: 2
     i: 3
+    kind: review
+    rigour: 2
   - id: rovers-2019-2
     resource: "https://doi.org/10.1007/s11409-019-09188-6"
     title: "Rovers, S. F. E., Clarebout, G., Savelberg, H. H. C. M., de Bruin, A. B. H., & van Merriënboer, J. J. G. (2019). Granularity matters: comparing different ways of measuring self-regulated learning. Metacognition and Learning. https://doi.org/10.1007/s11409-019-09188-6"
     author: "Rovers, S. F. E., Clarebout, G., Savelberg, H. H. C. M., de Bruin, A. B. H., & van Merriënboer, J. J. G."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Students are better calibrated in predicting achievement than in reporting specific study tactics (Winne & Jamieson-Noel 2002)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Median calibration of achievement predictions was high (r = .88), while calibration of study-tactic self-reports was low (r = .34). [→ Rovers 2019](#rovers-2019)
@@ -38,7 +42,7 @@ sources:
 
 Rovers, S. F. E., Clarebout, G., Savelberg, H. H. C. M., de Bruin, A. B. H., & van Merriënboer, J. J. G. (2019). Granularity matters: comparing different ways of measuring self-regulated learning. Metacognition and Learning. https://doi.org/10.1007/s11409-019-09188-6
 
-`q2 · i3`
+`q2 · i3` · `review · r2`
 
 Review reports Winne and Jamieson-Noel (2002), in which students studied a lightning-formation chapter in PrepMate and achievement calibration was assessed against traced study tactics; median calibration r = .88 with variability across items.
 
@@ -48,7 +52,7 @@ Review reports Winne and Jamieson-Noel (2002), in which students studied a light
 
 Rovers, S. F. E., Clarebout, G., Savelberg, H. H. C. M., de Bruin, A. B. H., & van Merriënboer, J. J. G. (2019). Granularity matters: comparing different ways of measuring self-regulated learning. Metacognition and Learning. https://doi.org/10.1007/s11409-019-09188-6
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Same review-reported study: tactic-report calibration showed no relation to achievement whereas achievement calibration and prior knowledge did; the review interprets this as two forms of calibration tapping different constructs.
 

@@ -15,12 +15,14 @@ sources:
     author: Sonja Kälin, Claudia M. Roebers
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Inhibition performance improved significantly from kindergarten to 2nd grade in accuracy, speed, and combined efficiency
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` The Stroop inverse-efficiency score improved significantly from T1 to T2 (ηp² = 0.295). [→ Sonja Kälin 2022](#sonja-kalin-2022)
@@ -31,7 +33,7 @@ sources:
 
 Sonja Kälin, Claudia M. Roebers. (2022). Longitudinal associations between executive functions and metacognitive monitoring in 5- to 8-year-olds. Metacognition and Learning. https://doi.org/10.1007/s11409-022-09306-x
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 Repeated measures ANOVA on the Fruit Stroop inverse-efficiency score (accuracy and reaction time combined, reverse-scored) in N = 84 children, showing significant improvement from kindergarten to 2nd grade, F(1,83) = 107, p < .001, ηp² = 0.295, a large effect.
 

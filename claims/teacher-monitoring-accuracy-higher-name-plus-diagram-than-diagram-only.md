@@ -15,12 +15,14 @@ sources:
     author: Janneke van de Pol, Selia N. van den Boom-Muilenburg, Tamara van Gog
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Teachers' monitoring accuracy is higher in the name+diagram condition than in the diagram-only condition, opposite to the blinding hypothesis
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Teachers' relative and absolute monitoring accuracy were more accurate when student cues were available in addition to performance cues than when only performance cues were available. [→ Janneke van de Pol 2021](#janneke-van-de-pol-2021)
@@ -31,7 +33,7 @@ sources:
 
 Janneke van de Pol, Selia N. van den Boom-Muilenburg, Tamara van Gog. (2021). Exploring the relations between teachers' cue-utilization, monitoring and regulation of students' text learning. Metacognition and Learning. https://doi.org/10.1007/s11409-021-09268-6
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Within-subjects experiment in which 21 secondary education teachers judged five students per cue-availability condition; multilevel models with Bonferroni-corrected alpha showed "more accurate in the name + diagram condition than in the diagram-only condition" for both relative and absolute monitoring accuracy.
 

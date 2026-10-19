@@ -15,12 +15,14 @@ sources:
     author: Lorenz Weise
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Most four-cell PDW payoff matrices fulfill the intuitive wagering-on-correctness properties
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 
 ## Subclaims
 `q2 i?` 96% of reviewed four-cell payoff matrices (75 of 78) fulfill the four properties that make high wagers profitable when confidence is high and wagering a genuine risk. [→ Lorenz Weise 2024](#lorenz-weise-2024)
@@ -31,7 +33,7 @@ sources:
 
 Lorenz Weise. (2024). Payoff designs in post-decision wagering: a systematic review. Metacognition and Learning. https://doi.org/10.1007/s11409-024-09411-z
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Quantitative synthesis of 111 payoff designs extracted from 63 publications included in the systematic review. The review reports that "The four properties a) through d) are fulfilled by 75 out of 78 four cell matrices (96%)", with the remaining three being adjusted-wagering designs.
 

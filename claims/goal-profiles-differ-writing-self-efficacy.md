@@ -15,12 +15,14 @@ sources:
     author: Jianhua Zhang, Lawrence Jun Zhang
     q: 2
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # The four achievement goal profiles differ significantly in all four dimensions of writing self-efficacy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` ANOVAs showed the four profiles differed significantly in linguistic, self-regulatory, classroom performance, and genre-based performance self-efficacy, with η² from 0.06 to 0.138. [→ Jianhua Zhang 2025](#jianhua-zhang-2025)
@@ -31,7 +33,7 @@ sources:
 
 Jianhua Zhang, Lawrence Jun Zhang. (2025). Unraveling the nexus among achievement goals, self-efficacy, and motivation regulation and their joint effects on L2 student writers' writing achievement: a person-based approach. Metacognition and Learning (2025) 20:29. https://doi.org/10.1007/s11409-025-09434-0
 
-`q2 · i2`
+`q2 · i2` · `associational · r2`
 
 ANOVA/Welch's tests across the four latent profiles (N = 416 after cleaning). The article reports "η2 = 0.138" for self-regulatory self-efficacy as the largest effect; post-hoc Scheffe tests showed several profile pairs did not differ (e.g., MH vs AAGs in linguistic self-efficacy, p = .848).
 

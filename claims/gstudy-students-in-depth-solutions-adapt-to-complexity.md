@@ -15,12 +15,14 @@ sources:
     author: Azevedo, R.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Elementary school students solving science tasks in gStudy provided in-depth task solutions and adapted to task complexity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Twelve elementary school students using gStudy across two science study lessons could provide in-depth task solutions and adapt to task complexity on well- and ill-structured tasks. [→ Azevedo 2014](#azevedo-2014)
@@ -31,7 +33,7 @@ sources:
 
 Azevedo, R. (2014). Issues in dealing with sequential and temporal characteristics of self- and socially-regulated learning. Metacognition and Learning, 9, 217–228. https://doi.org/10.1007/s11409-014-9123-1
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 The commentary reports, citing Malmberg et al., a study in which twelve elementary students solved well- and ill-structured tasks in gStudy over two science lessons with log-file traces; "young students could provide in-depth task solutions but also adapt to the task complexity."
 

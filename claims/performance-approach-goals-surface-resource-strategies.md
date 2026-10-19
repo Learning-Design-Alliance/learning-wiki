@@ -15,12 +15,14 @@ sources:
     author: "Anneke Vrugt & Frans J. Oort"
     q: 2
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Performance-approach goals are directly related to the use of surface cognitive and resource management strategies in effective self-regulators
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In the effective self-regulator model, performance-approach goals had direct positive effects on surface cognitive strategies (β=.10) and resource management strategies (β=.15). [→ Anneke Vrugt & Frans J. Oort 2008](#anneke-vrugt-frans-j-oort-2008)
@@ -31,7 +33,7 @@ sources:
 
 Anneke Vrugt & Frans J. Oort. (2008). Metacognition, achievement goals, study strategies and academic achievement: pathways to achievement. Metacognition Learning. https://doi.org/10.1007/s11409-008-9022-4
 
-`q2 · i?`
+`q2 · i?` · `associational · r3`
 
 Path analysis for effective self-regulators (N=421); Table 2 part (a) reports standardized direct effects of performance-approach goals of .10 on surface cognitive strategies and .15 on resource management. The authors had hypothesized that performance-approach goals would impel efforts to devise a structured study regimen and seek instrumental help.
 

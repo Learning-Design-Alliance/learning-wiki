@@ -15,12 +15,14 @@ sources:
     author: Süleyman Avcı, Mustafa Özgenel, Akif Avcu
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The distraction-management dimension of homework management is unrelated to homework quality and not predicted by the homework management latent factor
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Only the distraction dimension showed no significant relationship with homework quality dimensions, and the homework management factor did not significantly predict the distraction indicator (β = 0.04, non-significant). [→ Süleyman Avcı 2025](#suleyman-avc-2025)
@@ -31,7 +33,7 @@ sources:
 
 Süleyman Avcı, Mustafa Özgenel, Akif Avcu. (2025). Teacher involvement and self-regulation in homework: impact on secondary school students’ homework behavior. Metacognition and Learning. https://doi.org/10.1007/s11409-025-09431-3
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Pearson correlation analysis (Table 1) in the 525-student sample: distraction correlations with the four teacher-involvement dimensions were near zero (-0.03 to 0.09), unlike the other management dimensions (rs 0.17–0.47). In the SEM, the HW management → Distraction path was 0.04 (z = 0.623), non-significant.
 

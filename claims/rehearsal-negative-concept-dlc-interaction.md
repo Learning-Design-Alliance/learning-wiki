@@ -15,12 +15,14 @@ sources:
     author: "Sijmkens, E., De Cock, M., & De Laet, T."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Students emphasising rehearsal and memorisation techniques showed lower conceptual understanding and less DLC interaction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students with higher prescores on the rehearsal subscale had lower concept scores and were less inclined to use the DLC reflection modules. [→ Sijmkens 2024](#sijmkens-2024)
@@ -31,7 +33,7 @@ sources:
 
 Sijmkens, E., De Cock, M., & De Laet, T. (2024). Scaffolding Students' Use of Metacognitive Activities Using Discipline- and Topic-Specific Reflective Prompts. https://doi.org/10.1007/s11409-023-09363-w
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 From hierarchical regression and mediation test results (N=272). The rehearsal and time/effort regulation variables were negatively correlated in the regression model. The authors suggest rehearsal-focused students may not benefit from topic-specific feedback in the reflection modules.
 

@@ -15,12 +15,14 @@ sources:
     author: "Mulvihill, A., Matthews, N., Chidley, K., Macmahon, S., Armitage, K. L., Sherlock, D., Dux, P. E., & Carroll, A."
     q: 2
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # MAKQ strategy knowledge, but not the self-perception scales, converges with behavioural inhibitory control on the Go-No-Go task
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Students reporting more strategies made fewer commission errors (r = −.40) and showed lower reaction-time variability/Tau (r = −.34) on Go-No-Go; control and monitoring subscales were not associated with behavioural task performance. [→ Mulvihill 2025](#mulvihill-2025)
@@ -31,7 +33,7 @@ sources:
 
 Mulvihill, A., Matthews, N., Chidley, K., Macmahon, S., Armitage, K. L., Sherlock, D., Dux, P. E., & Carroll, A. (2025). The meta-attention knowledge questionnaire (MAKQ): a new instrument for investigating meta-attention in a young adolescent sample. Metacognition and Learning. https://doi.org/10.1007/s11409-025-09433-1
 
-`q2 · i3`
+`q2 · i3` · `associational · r2`
 
 Study Two (N = 83) correlating MAKQ dimensions with computerised behavioural attention tasks (Go-No-Go, Flanker, PRP). Strategy knowledge related to inhibitory control with r = −.40 (exceeding the |r| ≥ .37 threshold) but "not distractor inhibition or multitasking ability"; the self-perception subscales showed no significant associations.
 

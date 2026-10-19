@@ -15,12 +15,14 @@ sources:
     author: "Iordanou, K., Kendeou, P., & Zembylas, M."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Epistemic beliefs, prior knowledge, and the think-aloud emotion of anger jointly predict low-epistemic processing during reading of the other-side text
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A standard multiple regression showed epistemic perspective, anger, and prior knowledge predicted epistemic processing of the other-side text, F(3, 31) = 5.934, p = .003, R2 = .37. [→ Iordanou 2020](#iordanou-2020)
@@ -31,7 +33,7 @@ sources:
 
 Iordanou, K., Kendeou, P., & Zembylas, M. (2020). Examining my-side bias during and after reading controversial historical accounts. Metacognition and Learning. https://doi.org/10.1007/s11409-020-09240-w
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Standard multiple regression with epistemic processing during other-side text reading as the dependent variable and epistemic beliefs, prior knowledge, and think-aloud anger as predictors. The model was significant with R2 = .37; more epistemic processing was exhibited by those with evaluativist epistemic perspective and more anger.
 

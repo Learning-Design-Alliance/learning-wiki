@@ -15,12 +15,14 @@ sources:
     author: "Inge Molenaar & Sanna Järvelä"
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # S-SRL strategy use is dynamic over time, contexts and student characteristics, supporting an event-based conceptualization of self and socially regulated learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The special issue's studies show that use of self-regulated learning strategies is dynamic over time, contexts and student characteristics, providing empirical support for conceptualizing S-SRL as event-based constructs. [→ Inge Molenaar & Sanna Järvelä 2014](#inge-molenaar-sanna-jarvela-2014)
@@ -31,7 +33,7 @@ sources:
 
 Inge Molenaar & Sanna Järvelä. (2014). Sequential and temporal characteristics of self and socially regulated learning. Metacognition and Learning. https://doi.org/10.1007/s11409-014-9114-2
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Editorial synthesis of the five special-issue studies, which used online measurement of S-SRL across observation, log file, think aloud and discourse data. The editors conclude that strategy use is "dynamic over time, contexts and student characteristics", supporting event-based constructs.
 

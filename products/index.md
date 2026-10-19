@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1797 entries** · 0 stable · 1797 in review · 0 drafts
+**1801 entries** · 0 stable · 1801 in review · 0 drafts
 
 ---
 
@@ -420,6 +420,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Digital Promise's Inclusive Innovation model](digital-promises-inclusive-innovation-model.md) - An equity-centered research-and-development framework created by Digital Promise that places historically marginalized communities at the center of identifying, designing, developing, and implementing educational and workforce technologies.
 * [Digital Promise's Powerful Learning framework](digital-promises-powerful-learning-framework.md) - A framework developed by Digital Promise that describes powerful teaching and learning through agency, purpose, curiosity, and connection.
 * [DIPSER multimodal classroom dataset for in-person student engagement and attention recognition](dipser-multimodal-classroom-dataset-for-in-person-student-engagement-and-attention-recogni.md) - A multimodal classroom dataset created by Christoforos Fragkiadakis et al.
+* [Disciplinary Learning Companion (DLC)](disciplinary-learning-companion-dlc.md) - An online tool developed by Sijmkens et al.
 * [Disconumbers, Shapedance, and Digitspan game-based assessment packages](disconumbers-shapedance-and-digitspan-game-based-assessment-packages.md) - A package of serious games developed for assessing non-social cognitive abilities such as working memory, visuospatial ability, and math-based memory in job-selection contexts.
 * [District-Charter Collaboration Grants program](district-charter-collaboration-grants-program.md) - A Bill & Melinda Gates Foundation grant program that funded cross-sector collaboration between public and charter schools in seven cities.
 * [DLM Early Childhood Express Math software](dlm-early-childhood-express-math-software.md) - DLM Early Childhood Express Math software, developed by Douglas H.
@@ -1663,6 +1664,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [The K-16 Square](the-k-16-square.md) - A K-16 education-system alignment framework drafted by state education CEOs with the National Association of System Heads and The Education Trust to coordinate standards for graduation, college admission, teaching, and teacher preparation.
 * [The Language Inquiry](the-language-inquiry.md) - Frogner's 100-item language-attitude questionnaire helps teachers assess their own and their students' attitudes toward language by comparing responses with benchmark judgments from ten linguists.
 * [The Leandro sound basic education framework](the-leandro-sound-basic-education-framework.md) - A North Carolina constitutional education framework defining the components of a sound basic education and guiding state action, accountability, and resource recommendations for K–12 public education.
+* [The Meta-Attention Knowledge Questionnaire (MAKQ)](the-meta-attention-knowledge-questionnaire-makq.md) - A self-report and open-ended questionnaire developed by Mulvihill et al.
 * [The Nomads](the-nomads.md) - The Nomads is a 3D mathematics game developed by Jiaqi Yu and colleagues to train adaptive expertise in rational-number arithmetic through resource management, trading, and other variable-answer tasks.
 * [The Opportunity Atlas](the-opportunity-atlas.md) - A publicly available tract-level dataset and interactive mapping tool created by Raj Chetty and collaborators at Opportunity Insights, providing estimates of children's long-term outcomes across U.S.
 * [The Pedagogy Benchmark](the-pedagogy-benchmark.md) - A publicly released dataset developed by Lelièvre et al.
@@ -1763,8 +1765,10 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [vICC R package](vicc-r-package.md) - The vICC R package is an R software implementation of Bayesian tests for within-person variance homogeneity and membership models, released by the article's authors for researchers analyzing repeated-measures data.
 * [Videodisc authoring and production system (VAPS)](videodisc-authoring-and-production-system-vaps.md) - VAPS is an Army-oriented hardware and software system for authoring, producing, editing, testing, mastering, and replicating interactive videodisc training materials.
 * [Virginia RETHINKS Health Sciences Education initiative](virginia-rethinks-health-sciences-education-initiative.md) - A TAACCCT-funded initiative organized across Virginia's 23 community colleges to redesign health-sciences education, strengthen workforce connections, and improve college efficiencies.
+* [Virtual Collaborative Research Institute (VCRI) CSCL environment](virtual-collaborative-research-institute-vcri-cscl-environment.md) - A groupware environment developed to support collaborative learning, inquiry tasks, and research projects through shared communication, information, argumentation, and co-writing tools.
 * [Virtual professional learning community (vPLC)](virtual-professional-learning-community-vplc.md) - The vPLC is a scalable professional-learning programme run by the ASSISTments initiative to help teachers, especially in rural and underresourced settings, implement ASSISTments effectively.
 * [Virtually Connecting](virtually-connecting.md) - Virtually Connecting is a social-justice-oriented open educational practice run by founders and volunteers that facilitates conversations between conference attendees and people unable to attend.
+* [VisA instrument (Visualization and Accuracy)](visa-instrument-visualization-and-accuracy.md) - A paper-and-pencil, group-administered assessment developed by Jacobse et al.
 * [VISIGARP](visigarp.md) - VISIGARP is a domain-independent SWI-PROLOG/XPCE educational tool that generates interactive diagrams from GARP qualitative simulations so students can inspect system states, transitions, causal dependencies, and entity relations.
 * [Vision to Learn (VTL)](vision-to-learn-vtl.md) - Vision to Learn is a nonprofit school-based vision programme that provides low-income students with screenings, comprehensive eye examinations, and free corrective glasses through mobile clinics and partner schools.
 * [VISMATIC](vismatic.md) - A secured, low-cost JupyterHub sandbox and process-monitoring framework developed by Germán Arroyo et al.

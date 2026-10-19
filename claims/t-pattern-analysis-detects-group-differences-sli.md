@@ -15,12 +15,14 @@ sources:
     author: "Inge Molenaar & Sanna Järvelä"
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # T-pattern analysis detected temporal-structure differences between children with specific language disorder and typically developing children that frequency and sequential lag analyses did not
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In Kuvalja et al. (2014), frequency analysis and sequential lag analysis showed no differences between the two groups, but t-patterns of self-directed speech and self-regulatory behaviour of children with specific language disorder were more in number, more complex and typically included self-directed speech utterances. [→ Inge Molenaar & Sanna Järvelä 2014](#inge-molenaar-sanna-jarvela-2014)
@@ -31,7 +33,7 @@ sources:
 
 Inge Molenaar & Sanna Järvelä. (2014). Sequential and temporal characteristics of self and socially regulated learning. Metacognition and Learning. https://doi.org/10.1007/s11409-014-9114-2
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Observational study comparing children with specific language disorder and typically developing children during a planning task, coding self-directed speech and self-regulatory behaviour from verbal and non-verbal behaviour. T-pattern analysis revealed group differences undetectable by frequency or lag analysis.
 

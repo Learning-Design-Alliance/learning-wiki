@@ -15,12 +15,14 @@ sources:
     author: Steven F. Raaijmakers, Martine Baars, Fred Paas, Jeroen J. G. van Merriënboer, Tamara van Gog
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # In Experiment 2, task-selection accuracy during the learning phase did not differ between feedback and control conditions, unlike Experiment 1
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The planned contrast on learning-phase task-selection accuracy between the experimental conditions and control was not significant (d = 0.06), and experimental participants did not choose easier tasks. [→ Steven F. Raaijmakers 2019](#steven-f-raaijmakers-2019)
@@ -31,7 +33,7 @@ sources:
 
 Steven F. Raaijmakers, Martine Baars, Fred Paas, Jeroen J. G. van Merriënboer, Tamara van Gog. (2019). Effects of self-assessment feedback on self-assessment and task-selection accuracy. Metacognition and Learning. https://doi.org/10.1007/s11409-019-09189-5
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Experiment 2 planned contrast (n = 110 analyzed) showed no significant learning-phase task-selection difference: "not significant, t(107) = 0.29, p =. 7 7 3 ,d =0 . 0 6"; 75% of feedback messages were negative, and easier-task choice was not observed (p = .890).
 

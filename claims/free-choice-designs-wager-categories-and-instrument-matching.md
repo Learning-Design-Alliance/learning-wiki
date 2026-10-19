@@ -15,12 +15,14 @@ sources:
     author: Lorenz Weise
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Free-choice wager designs vary widely in wager categories and often match other instruments
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The number of wager categories in free-choice designs ranges from 3 to 100 (median 5), with 88% including fewer than 12 amounts, and 45% of free-choice designs match some other confidence or awareness instrument. [→ Lorenz Weise 2024](#lorenz-weise-2024)
@@ -31,7 +33,7 @@ sources:
 
 Lorenz Weise. (2024). Payoff designs in post-decision wagering: a systematic review. Metacognition and Learning. https://doi.org/10.1007/s11409-024-09411-z
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Quantitative synthesis across the 33 free-choice payoff designs assembled in the review. The review reports the number of wager amounts "ranges from 3 to 100 (median = 5)" and separately that "15 out of 33 (45%) reviewed free choice designs appear to match some other instrument in order to compare the two".
 

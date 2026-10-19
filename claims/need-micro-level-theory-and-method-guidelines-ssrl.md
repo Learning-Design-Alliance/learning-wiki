@@ -15,12 +15,14 @@ sources:
     author: "Inge Molenaar & Sanna Järvelä"
     q: 1
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # The field lacks micro-level S-SRL theory and methodological guidelines, and studies have not connected temporal/sequential characteristics to learning gains
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · review `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Several authors (Bannert et al. 2014; Kinnebrew et al. 2014; Molenaar & Chiu 2014) signposted the need for more micro level theory to further articulate understanding of the temporal characteristics of self and socially regulated learning, since the papers analysed S-SRL at a micro level. [→ Inge Molenaar & Sanna Järvelä 2014](#inge-molenaar-sanna-jarvela-2014)
@@ -32,7 +34,7 @@ sources:
 
 Inge Molenaar & Sanna Järvelä. (2014). Sequential and temporal characteristics of self and socially regulated learning. Metacognition and Learning. https://doi.org/10.1007/s11409-014-9114-2
 
-`q1 · i?`
+`q1 · i?` · `review · r2`
 
 Editorial interpretation of the special-issue contributions, identifying gaps rather than reporting a tested result. Most authors also pointed out the need for a more advanced understanding of the methods used, including guidelines for setting parameters and significance levels.
 

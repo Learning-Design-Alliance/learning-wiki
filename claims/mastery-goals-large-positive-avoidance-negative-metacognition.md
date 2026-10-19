@@ -15,12 +15,14 @@ sources:
     author: "Anneke Vrugt & Frans J. Oort"
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # For effective self-regulators, mastery goals have a large positive and performance-avoidance goals a small negative effect on metacognition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In the path model for effective self-regulators, mastery goals had a large positive effect (standardized β=.50) and performance-avoidance goals a small negative effect (β=-.15) on metacognition. [→ Anneke Vrugt & Frans J. Oort 2008](#anneke-vrugt-frans-j-oort-2008)
@@ -31,7 +33,7 @@ sources:
 
 Anneke Vrugt & Frans J. Oort. (2008). Metacognition, achievement goals, study strategies and academic achievement: pathways to achievement. Metacognition Learning. https://doi.org/10.1007/s11409-008-9022-4
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Structural equation modeling of the hypothesized model fitted to 421 effective self-regulators (first-year psychology students), with gender, age and intellectual ability controlled. Table 2 reports standardized coefficients β=.50 (mastery→metacognition) and β=-.15 (avoidance→metacognition); the article notes values of 0.5 are considered "large" and 0.1 "small".
 

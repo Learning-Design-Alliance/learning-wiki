@@ -15,12 +15,14 @@ sources:
     author: Mariëtte van Loon, Claudia M. Roebers
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # For second graders, low metacognition at the first measurement point carries no extra risk of low metacognition one year later
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` No specific profile-change pattern over the year was significantly more or less likely than chance for second graders. [→ Mariëtte van Loon 2024](#mariette-van-loon-2024)
@@ -31,7 +33,7 @@ sources:
 
 Mariëtte van Loon, Claudia M. Roebers. (2024). Development of metacognitive monitoring and control skills in elementary school: a latent profile approach. Metacognition and Learning. https://doi.org/10.1007/s11409-024-09400-2
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Longitudinal profile-change analysis of 95 second graders with complete data; although the omnibus Chi² was significant (χ² = 10.90, p = 0.028), follow-up inspection of specific movements found none deviating from chance, so early low metacognition was not predictive of later low metacognition.
 

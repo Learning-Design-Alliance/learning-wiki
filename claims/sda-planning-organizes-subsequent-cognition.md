@@ -15,18 +15,22 @@ sources:
     author: Azevedo, R.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: azevedo-2014-2
     resource: "https://doi.org/10.1007/s11409-014-9123-1"
     title: "Azevedo, R. (2014). Issues in dealing with sequential and temporal characteristics of self- and socially-regulated learning. Metacognition and Learning, 9, 217–228. https://doi.org/10.1007/s11409-014-9123-1"
     author: Azevedo, R.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Statistical discourse analysis of collaborative learning shows metacognitive planning organizes subsequent cognitive activity while relational activities help enact it
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In statistical discourse analysis of 51,338 turns from eighteen scaffolded triads, after low cognition, high cognition, planning, or evaluation both low and high cognition were more likely to occur, and after a denial high cognition was less likely to occur. [→ Azevedo 2014](#azevedo-2014)
@@ -38,7 +42,7 @@ sources:
 
 Azevedo, R. (2014). Issues in dealing with sequential and temporal characteristics of self- and socially-regulated learning. Metacognition and Learning, 9, 217–228. https://doi.org/10.1007/s11409-014-9123-1
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The commentary reports, citing Molenaar and Chiu, statistical discourse analysis of 51,338 conversational turns from eighteen triads of elementary students writing a report with avatar scaffolding, yielding these three sequential likelihood patterns.
 
@@ -48,7 +52,7 @@ The commentary reports, citing Molenaar and Chiu, statistical discourse analysis
 
 Azevedo, R. (2014). Issues in dealing with sequential and temporal characteristics of self- and socially-regulated learning. Metacognition and Learning, 9, 217–228. https://doi.org/10.1007/s11409-014-9123-1
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The commentary reports the authors' interpretation of the SDA findings from the collaborative report-writing study: "metacognitive planning organizes subsequent cognitive activities" while relational activities help enact them.
 

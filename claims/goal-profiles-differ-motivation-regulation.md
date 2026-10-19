@@ -15,12 +15,14 @@ sources:
     author: Jianhua Zhang, Lawrence Jun Zhang
     q: 2
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # The four achievement goal profiles differ significantly in use of motivation regulation strategies (interest enhancement, motivational self-talk, emotional control)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` The four profiles differed significantly in all three motivation regulation strategies, with η² of 0.196 (interest enhancement), 0.294 (motivational self-talk), and 0.225 (emotional control). [→ Jianhua Zhang 2025](#jianhua-zhang-2025)
@@ -31,7 +33,7 @@ sources:
 
 Jianhua Zhang, Lawrence Jun Zhang. (2025). Unraveling the nexus among achievement goals, self-efficacy, and motivation regulation and their joint effects on L2 student writers' writing achievement: a person-based approach. Metacognition and Learning (2025) 20:29. https://doi.org/10.1007/s11409-025-09434-0
 
-`q2 · i3`
+`q2 · i3` · `associational · r2`
 
 ANOVA/Welch's tests across the four latent profiles of 416 L2 student writers. The article reports "η2 = 0.294" for motivational self-talk as the largest profile difference; Scheffe tests showed the MH vs HAGs pair did not differ on any strategy (e.g., emotional control p = .999).
 

@@ -8,8 +8,8 @@
 "pattern":68,
 "principle":213,
 "process":18,
-"product":1797,
-"research-method":466,
+"product":1801,
+"research-method":469,
 "strategy":6231,
 "theory":1361
 },
@@ -218850,6 +218850,14 @@
 "type":"product"
 },
 {
+"description":"An online tool developed by Sijmkens et al.",
+"id":"disciplinary-learning-companion-dlc",
+"path":"products/disciplinary-learning-companion-dlc.md",
+"status":"review",
+"title":"Disciplinary Learning Companion (DLC)",
+"type":"product"
+},
+{
 "description":"A package of serious games developed for assessing non-social cognitive abilities such as working memory, visuospatial ability, and math-based memory in job-selection contexts.",
 "id":"disconumbers-shapedance-and-digitspan-game-based-assessment-packages",
 "path":"products/disconumbers-shapedance-and-digitspan-game-based-assessment-packages.md",
@@ -228431,6 +228439,14 @@
 "type":"product"
 },
 {
+"description":"A self-report and open-ended questionnaire developed by Mulvihill et al.",
+"id":"the-meta-attention-knowledge-questionnaire-makq",
+"path":"products/the-meta-attention-knowledge-questionnaire-makq.md",
+"status":"review",
+"title":"The Meta-Attention Knowledge Questionnaire (MAKQ)",
+"type":"product"
+},
+{
 "description":"The Nomads is a 3D mathematics game developed by Jiaqi Yu and colleagues to train adaptive expertise in rational-number arithmetic through resource management, trading, and other variable-answer tasks.",
 "id":"the-nomads",
 "path":"products/the-nomads.md",
@@ -229185,6 +229201,14 @@
 "type":"product"
 },
 {
+"description":"A groupware environment developed to support collaborative learning, inquiry tasks, and research projects through shared communication, information, argumentation, and co-writing tools.",
+"id":"virtual-collaborative-research-institute-vcri-cscl-environment",
+"path":"products/virtual-collaborative-research-institute-vcri-cscl-environment.md",
+"status":"review",
+"title":"Virtual Collaborative Research Institute (VCRI) CSCL environment",
+"type":"product"
+},
+{
 "description":"The vPLC is a scalable professional-learning programme run by the ASSISTments initiative to help teachers, especially in rural and underresourced settings, implement ASSISTments effectively.",
 "id":"virtual-professional-learning-community-vplc",
 "path":"products/virtual-professional-learning-community-vplc.md",
@@ -229198,6 +229222,14 @@
 "path":"products/virtually-connecting.md",
 "status":"review",
 "title":"Virtually Connecting",
+"type":"product"
+},
+{
+"description":"A paper-and-pencil, group-administered assessment developed by Jacobse et al.",
+"id":"visa-instrument-visualization-and-accuracy",
+"path":"products/visa-instrument-visualization-and-accuracy.md",
+"status":"review",
+"title":"VisA instrument (Visualization and Accuracy)",
 "type":"product"
 },
 {
@@ -230947,6 +230979,14 @@
 "path":"research-methods/formula-based-estimation-of-value-added-classification-error-rates-using-ordinary-least-sq.md",
 "status":"review",
 "title":"Formula-based estimation of value-added classification error rates using ordinary least squares and empirical Bayes estimators",
+"type":"research-method"
+},
+{
+"description":"The article proposes that online collaboration comprises four types of activities: task-related activities in the content space (exchanging information, asking questions), social activities in the relational space (greetings, social support, grounding via shared understanding), regulation of task-re",
+"id":"four-activity-framework-of-online-collaboration",
+"path":"research-methods/four-activity-framework-of-online-collaboration.md",
+"status":"review",
+"title":"Four-activity framework of online collaboration",
 "type":"research-method"
 },
 {
@@ -232756,6 +232796,14 @@
 "type":"research-method"
 },
 {
+"description":"The review organizes the heterogeneous payoff systems used in post-decision wagering into two broad classes: four-cell matrices, where a low and a high wager option combine with correct and incorrect responses to yield four possible outcomes, and free-choice designs with more than four cells.",
+"id":"taxonomy-of-pdw-payoff-schemes-four-cell-matrices-versus-free-choice-designs",
+"path":"research-methods/taxonomy-of-pdw-payoff-schemes-four-cell-matrices-versus-free-choice-designs.md",
+"status":"review",
+"title":"Taxonomy of PDW payoff schemes: four-cell matrices versus free-choice designs",
+"type":"research-method"
+},
+{
 "description":"The paper defines pedagogical sycophancy as pressure-contingent validation of a misconception after the tutor is pushed to agree, distinguishing it from ordinary factual error.",
 "id":"taxonomy-of-pedagogical-sycophancy",
 "path":"research-methods/taxonomy-of-pedagogical-sycophancy.md",
@@ -233339,6 +233387,14 @@
 "path":"research-methods/two-type-taxonomy-of-emergent-leadership-intellectual-and-organizational-leadership-moves.md",
 "status":"review",
 "title":"Two-type taxonomy of emergent leadership: intellectual and organizational leadership moves",
+"type":"research-method"
+},
+{
+"description":"The editorial proposes that existing research on the temporal characteristics of S-SRL can be viewed through two distinct perspectives.",
+"id":"two-views-on-temporality-in-self-and-socially-regulated-learning-research",
+"path":"research-methods/two-views-on-temporality-in-self-and-socially-regulated-learning-research.md",
+"status":"review",
+"title":"Two views on temporality in self- and socially regulated learning research",
 "type":"research-method"
 },
 {
@@ -319971,6 +320027,7 @@
 "digital-promises-inclusive-innovation-model":"digital-promises-inclusive-innovation-model",
 "digital-promises-powerful-learning-framework":"digital-promises-powerful-learning-framework",
 "dipser-multimodal-classroom-dataset-for-in-person-student-engagement-and-attention-recogni":"dipser-multimodal-classroom-dataset-for-in-person-student-engagement-and-attention-recogni",
+"disciplinary-learning-companion-dlc":"disciplinary-learning-companion-dlc",
 "disconumbers-shapedance-and-digitspan-game-based-assessment-packages":"disconumbers-shapedance-and-digitspan-game-based-assessment-packages",
 "district-charter-collaboration-grants-program":"district-charter-collaboration-grants-program",
 "dlm-early-childhood-express-math-software":"dlm-early-childhood-express-math-software",
@@ -321181,6 +321238,7 @@
 "the-k-16-square":"the-k-16-square",
 "the-language-inquiry":"the-language-inquiry",
 "the-leandro-sound-basic-education-framework":"the-leandro-sound-basic-education-framework",
+"the-meta-attention-knowledge-questionnaire-makq":"the-meta-attention-knowledge-questionnaire-makq",
 "the-nomads":"the-nomads",
 "the-opportunity-atlas":"the-opportunity-atlas",
 "the-pedagogy-benchmark":"the-pedagogy-benchmark",
@@ -321280,8 +321338,10 @@
 "vicc-r-package":"vicc-r-package",
 "videodisc-authoring-and-production-system-vaps":"videodisc-authoring-and-production-system-vaps",
 "virginia-rethinks-health-sciences-education-initiative":"virginia-rethinks-health-sciences-education-initiative",
+"virtual-collaborative-research-institute-vcri-cscl-environment":"virtual-collaborative-research-institute-vcri-cscl-environment",
 "virtual-professional-learning-community-vplc":"virtual-professional-learning-community-vplc",
 "virtually-connecting":"virtually-connecting",
+"visa-instrument-visualization-and-accuracy":"visa-instrument-visualization-and-accuracy",
 "visigarp":"visigarp",
 "vision-to-learn-vtl":"vision-to-learn-vtl",
 "vismatic":"vismatic",
@@ -321508,6 +321568,7 @@
 "five-step-sas-based-item-fit-analysis-procedure-for-map-growth-k2-items":"five-step-sas-based-item-fit-analysis-procedure-for-map-growth-k2-items",
 "five-trustworthiness-metrics-comprising-20-measures-for-evaluating-llm-trustworthiness-in":"trustworthiness-lens-for-evaluating-llms-in-education",
 "formula-based-estimation-of-value-added-classification-error-rates-using-ordinary-least-sq":"formula-based-estimation-of-value-added-classification-error-rates-using-ordinary-least-sq",
+"four-activity-framework-of-online-collaboration":"four-activity-framework-of-online-collaboration",
 "four-capability-taxonomy-for-organizing-educational-foundation-model-supervision":"four-capability-taxonomy-for-organizing-educational-foundation-model-supervision",
 "four-category-framework-for-evaluating-the-generalizability-of-learning-techniques":"four-category-framework-for-evaluating-the-generalizability-of-learning-techniques",
 "four-category-functional-classification-of-student-genai-use-learning-formatting-doing-tas":"four-category-functional-classification-of-student-genai-use-learning-formatting-doing-tas",
@@ -321745,6 +321806,7 @@
 "taxonomy-of-five-computational-thinking-aspects-with-13-sub-aspects":"taxonomy-of-five-computational-thinking-aspects-with-13-sub-aspects",
 "taxonomy-of-interaction-behaviors-with-ai-code-suggestions":"taxonomy-of-interaction-behaviors-with-ai-code-suggestions",
 "taxonomy-of-knowledge-components-classified-by-task-features-response-relationship-and-rat":"taxonomy-of-knowledge-components-classified-by-task-features-response-relationship-and-rat",
+"taxonomy-of-pdw-payoff-schemes-four-cell-matrices-versus-free-choice-designs":"taxonomy-of-pdw-payoff-schemes-four-cell-matrices-versus-free-choice-designs",
 "taxonomy-of-pedagogical-sycophancy":"taxonomy-of-pedagogical-sycophancy",
 "taxonomy-of-teacher-intervention-types-during-making-rounds-in-computer-based-collaborativ":"taxonomy-of-teacher-intervention-types-during-making-rounds-in-computer-based-collaborativ",
 "taxonomy-of-test-score-based-school-evaluation-estimators":"taxonomy-of-test-score-based-school-evaluation-estimators",
@@ -321818,6 +321880,7 @@
 "two-stage-pooled-then-specialized-student-simulation-training":"two-stage-pooled-then-specialized-student-simulation-training",
 "two-type-taxonomy-of-direct-behavioral-and-latent-construct-participation-indicators":"two-type-taxonomy-of-direct-behavioral-and-latent-construct-participation-indicators",
 "two-type-taxonomy-of-emergent-leadership-intellectual-and-organizational-leadership-moves":"two-type-taxonomy-of-emergent-leadership-intellectual-and-organizational-leadership-moves",
+"two-views-on-temporality-in-self-and-socially-regulated-learning-research":"two-views-on-temporality-in-self-and-socially-regulated-learning-research",
 "unidimensional-rasch-model-scaling":"unidimensional-rasch-model-scaling",
 "unsupervised-dynamic-bayesian-network-model-of-speech-style-accommodation":"unsupervised-dynamic-bayesian-network-model-of-speech-style-accommodation",
 "validity-reliability-and-fairness-of-ai-outputs-as-a-practical-evaluation-framework-ground":"validity-reliability-and-fairness-of-ai-outputs-as-a-practical-evaluation-framework-ground",

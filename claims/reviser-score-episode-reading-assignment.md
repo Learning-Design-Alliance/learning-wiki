@@ -15,12 +15,14 @@ sources:
     author: "Tillema, M., van den Bergh, H., Rijlaarsdam, G., & Sanders, T."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Reported reviser scores interact with episode for reading the assignment, with the effect reversing from episode 2 onwards
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Lower reviser scorers read the assignment slightly more at the start, but from episode 2 onwards higher reviser scorers read the assignment more, with the gap growing towards the end. [→ Tillema 2011](#tillema-2011)
@@ -31,7 +33,7 @@ sources:
 
 Tillema, M., van den Bergh, H., Rijlaarsdam, G., & Sanders, T. (2011). Relating self reports of writing behaviour and online task execution using a temporal model. Metacognition and Learning. https://doi.org/10.1007/s11409-011-9072-x
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 In the multilevel regression of the 20 students' protocols, a significant reviser score x episode interaction was found for reading the assignment. The article reports the reversal from episode 2 and that the difference between higher and lower reviser scorers grows larger towards the end of task execution.
 

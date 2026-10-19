@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 73 claims (44 for, 26 mixed, 3 against) · 72 studies (24 associational, 21 causal, 10 quant-synthesis, 6 theoretical, 5 review, 3 qualitative, 3 design), `q1`–`q4` · 22 of 72 report an effect size · 58 claims rest on one study
+> **Evidence** · 77 claims (47 for, 27 mixed, 3 against) · 75 studies (26 associational, 21 causal, 10 quant-synthesis, 6 review, 6 theoretical, 3 qualitative, 3 design), `q1`–`q4` · 23 of 75 report an effect size · 62 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -120,6 +120,10 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Metacognitive confidence judgments and control predict English vocabulary performance from the beginning to the end of the school year in primary school children](../claims/metacognition-predicts-l2-vocabulary-growth-primary-school.md) [+W] — attached 2026-10-19 from Palladino et al. (2025), which proposed "MASRL and control-value theory as a joint framework for metacognition and achievement emotions in early L2 learning".
 - [Teachers' and students' SRL profiles differ more than they are alike, sharing only insufficient reflection practice](../claims/teacher-student-srl-profiles-differ-except-reflection.md) [+W] — attached 2026-10-19 from Avivit Arvatz et al. (2025), which proposed "The SRL&T approach: an integrated framework of self-regulated learning and teaching".
 - [Teachers' overall SRL level is significantly associated with their externally assessed reflection level](../claims/teacher-srl-level-correlates-reflection-level.md) [+W] — attached 2026-10-19 from Avivit Arvatz et al. (2025), which proposed "The SRL&T approach: an integrated framework of self-regulated learning and teaching".
+- [Reported planner scores interact with episode: high planners plan more at the start and less at the end of task execution](../claims/planner-score-episode-interaction-planning.md) [+W] — attached 2026-10-19 from Tillema et al. (2011), which proposed "Planner and reviser writing styles as temporally distinct configurations of (meta)cognitive activities".
+- [For effective self-regulators, mastery goals have a large positive and performance-avoidance goals a small negative effect on metacognition](../claims/mastery-goals-large-positive-avoidance-negative-metacognition.md) [+W] — attached 2026-10-19 from Anneke Vrugt et al. (2008), which proposed "Two-pathway model of effective self-regulated learning: a metacognitive pathway and a strategy pathway"; tests this page's relationship.
+- [Metacognition positively affects the use of all four study strategies, with medium effects on metacognitive, deep cognitive and resource management strategies and a small effect on surface strategies](../claims/metacognition-positive-effect-four-strategies.md) [+W] — attached 2026-10-19 from Anneke Vrugt et al. (2008), which proposed "Two-pathway model of effective self-regulated learning: a metacognitive pathway and a strategy pathway"; tests this page's relationship.
+- [When SRL is measured at a coarse grain size (global self-regulation), students are relatively well able to report on their strategy use](../claims/coarse-grained-srl-self-reports-relatively-calibrated.md) [~M] — attached 2026-10-19 from Rovers et al. (2019), which proposed "Granularity as the organizing construct for comparing SRL measurement methods".
 
 ## The evidence by question
 

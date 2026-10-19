@@ -15,12 +15,14 @@ sources:
     author: "Iordanou, K., Kendeou, P., & Zembylas, M."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Participants with evaluativist epistemic beliefs are more likely to write two-sided reports than those with absolutist or multiplist epistemic beliefs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` A chi-square test of independence showed a significant relation between epistemic perspective (Evaluativists vs. Non-Evaluativists) and my-side bias (one-sided vs. two-sided report), χ2(1) = 4.508, p = .044. [→ Iordanou 2020](#iordanou-2020)
@@ -31,7 +33,7 @@ sources:
 
 Iordanou, K., Kendeou, P., & Zembylas, M. (2020). Examining my-side bias during and after reading controversial historical accounts. Metacognition and Learning. https://doi.org/10.1007/s11409-020-09240-w
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Chi-square test examining whether epistemic perspective and my-side bias in written summaries were independent. Nine participants were evaluativists; the remaining 30 were absolutist or multiplist. Evaluativists were more likely to produce two-sided reports.
 

@@ -15,18 +15,22 @@ sources:
     author: Janneke van de Pol, Selia N. van den Boom-Muilenburg, Tamara van Gog
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: janneke-van-de-pol-2021-2
     resource: "https://doi.org/10.1007/s11409-021-09268-6"
     title: "Janneke van de Pol, Selia N. van den Boom-Muilenburg, Tamara van Gog. (2021). Exploring the relations between teachers' cue-utilization, monitoring and regulation of students' text learning. Metacognition and Learning. https://doi.org/10.1007/s11409-021-09268-6"
     author: Janneke van de Pol, Selia N. van den Boom-Muilenburg, Tamara van Gog
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Teachers' monitoring accuracy does not differ significantly between the name-only condition and either diagram condition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Relative and absolute monitoring accuracy did not differ significantly between the name-only and diagram-only conditions. [→ Janneke van de Pol 2021](#janneke-van-de-pol-2021)
@@ -38,7 +42,7 @@ sources:
 
 Janneke van de Pol, Selia N. van den Boom-Muilenburg, Tamara van Gog. (2021). Exploring the relations between teachers' cue-utilization, monitoring and regulation of students' text learning. Metacognition and Learning. https://doi.org/10.1007/s11409-021-09268-6
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 In the same within-subjects teacher-judgment experiment, hypothesis H1.1 was not supported: the article reports "did not find significant differences" between name-only and diagram-only conditions for either accuracy measure; no effect sizes were printed.
 
@@ -48,7 +52,7 @@ In the same within-subjects teacher-judgment experiment, hypothesis H1.1 was not
 
 Janneke van de Pol, Selia N. van den Boom-Muilenburg, Tamara van Gog. (2021). Exploring the relations between teachers' cue-utilization, monitoring and regulation of students' text learning. Metacognition and Learning. https://doi.org/10.1007/s11409-021-09268-6
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 For the explorative comparison of the name-only and name+diagram conditions (E1.3), the article reports "no significant differences between those conditions" on either monitoring accuracy measure; no effect sizes were printed.
 

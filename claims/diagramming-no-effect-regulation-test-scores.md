@@ -15,12 +15,14 @@ sources:
     author: "Pijeira-Díaz, H. J., van de Pol, J., Channa, F., & de Bruin, A."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Diagramming conditions show no significant differences from control in regulation measures or reading comprehension test scores for causal relations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` No significant differences among conditions were found in metacomprehension-based regulation, comprehension-based regulation, or test scores for causal relations. [→ Pijeira-Díaz 2023](#pijeira-diaz-2023)
@@ -31,7 +33,7 @@ sources:
 
 Pijeira-Díaz, H. J., van de Pol, J., Channa, F., & de Bruin, A. (2023). Scaffolding self-regulated learning from causal-relations texts: Diagramming and self-assessment to improve metacomprehension accuracy? Metacognition and Learning, 18, 631–658. https://doi.org/10.1007/s11409-023-09343-0
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Supplementary analyses in the randomized experiment found "no significant differences among conditions in terms of test scores for relations"; regulation measures for relations and facts likewise showed no significant differences (e.g., p = .067 and p = .086).
 

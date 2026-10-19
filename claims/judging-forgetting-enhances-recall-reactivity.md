@@ -15,18 +15,22 @@ sources:
     author: "Dillon H. Murphy, Vered Halamish, Matthew G. Rhodes, & Alan D. Castel"
     q: 3
     i: 2
+    kind: causal
+    rigour: 1
   - id: dillon-h-murphy-2023-2
     resource: "https://doi.org/10.1007/s11409-023-09332-3"
     title: "Dillon H. Murphy, Vered Halamish, Matthew G. Rhodes, & Alan D. Castel. (2023). How evaluating memorability can lead to Unintended Consequences. Metacognition and Learning (2023) 18:375–403. https://doi.org/10.1007/s11409-023-09332-3"
     author: "Dillon H. Murphy, Vered Halamish, Matthew G. Rhodes, & Alan D. Castel"
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Judging words as likely to be forgotten enhanced their recall relative to unselected words under simultaneous presentation with fixed or self-paced study time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` In Experiment 1a (fixed 30-s study), words predicted to be forgotten were recalled better than words not given a prediction (d = 0.70). [→ Dillon H. Murphy 2023](#dillon-h-murphy-2023)
@@ -38,7 +42,7 @@ sources:
 
 Dillon H. Murphy, Vered Halamish, Matthew G. Rhodes, & Alan D. Castel. (2023). How evaluating memorability can lead to Unintended Consequences. Metacognition and Learning (2023) 18:375–403. https://doi.org/10.1007/s11409-023-09332-3
 
-`q3 · i2`
+`q3 · i2` · `causal · r1`
 
 Online experiment with 48 UCLA undergraduates studying four 16-word lists for 30 s, selecting two remember and two forget words per list before immediate free recall. Forget words (M = 0.52) beat unselected words (M = 0.29), "[ pholm < 0.001, d = 0.70]".
 
@@ -48,7 +52,7 @@ Online experiment with 48 UCLA undergraduates studying four 16-word lists for 30
 
 Dillon H. Murphy, Vered Halamish, Matthew G. Rhodes, & Alan D. Castel. (2023). How evaluating memorability can lead to Unintended Consequences. Metacognition and Learning (2023) 18:375–403. https://doi.org/10.1007/s11409-023-09332-3
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Self-paced replication with 62 undergraduates (mean 97.16 s per list). Forget words (M = 0.63) again exceeded unselected words (M = 0.49), "[ pholm < 0.001, d = 0.45]", showing the effect persists when study time is self-paced.
 

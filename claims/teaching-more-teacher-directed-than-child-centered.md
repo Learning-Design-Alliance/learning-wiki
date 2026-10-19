@@ -15,12 +15,14 @@ sources:
     author: Mariëtte H. van Loon, et al
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Elementary teaching practices during a standardized lesson are more often teacher-directed than child-centered, with no grade differences in frequency
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Teachers used a combination of practices but teaching was most often teacher-directed. [→ Mariëtte H. van Loon 2021](#mariette-h-van-loon-2021)
@@ -32,7 +34,7 @@ sources:
 
 Mariëtte H. van Loon, et al. (2021). Connecting teachers' classroom instructions with children's metacognition and learning in elementary school. Metacognition and Learning. https://doi.org/10.1007/s11409-020-09248-2
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Observational coding of the same 21 teachers' transcripts. A Wilcoxon signed rank test showed teaching "was most often teacher-directed" (z = −2.87, p = .004). Kolmogorov-Smirnov tests found no grade differences (e.g., cognitive strategies D = .567, p = .905).
 

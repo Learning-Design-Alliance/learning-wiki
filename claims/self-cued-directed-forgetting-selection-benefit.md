@@ -15,12 +15,14 @@ sources:
     author: "Dillon H. Murphy, Vered Halamish, Matthew G. Rhodes, & Alan D. Castel"
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # In self-cued directed forgetting, selected words were better recalled than unselected words regardless of whether they were designated to-be-remembered or to-be-forgotten
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Selection interacted with cue: more to-be-remembered words were recalled when selected (d = 0.56) and more to-be-forgotten words were recalled when selected (d = 0.74). [→ Dillon H. Murphy 2023](#dillon-h-murphy-2023)
@@ -31,7 +33,7 @@ sources:
 
 Dillon H. Murphy, Vered Halamish, Matthew G. Rhodes, & Alan D. Castel. (2023). How evaluating memorability can lead to Unintended Consequences. Metacognition and Learning (2023) 18:375–403. https://doi.org/10.1007/s11409-023-09332-3
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Experiment 5 with 124 undergraduates circling 10 of 20 words either to be tested on or not to be tested on, then recalling all words. The selection-by-cue interaction "[F(1, 122) = 28.47, p < .001, ηp 2 = 0.19]" showed selecting words benefits memory even when selecting information to forget.
 

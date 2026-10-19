@@ -15,12 +15,14 @@ sources:
     author: "Anneke Vrugt & Frans J. Oort"
     q: 2
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Effective self-regulators score significantly higher than less effective self-regulators on achievement goals, metacognition, all four study strategies and exam scores, with equal intellectual ability
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Students with high effort investment (N=421) scored significantly higher than low-effort students (N=383) on all three achievement goals, metacognition, all study strategies and exam scores (M=27.75 vs 24.92), while mean intellectual ability did not differ (p=0.279). [→ Anneke Vrugt & Frans J. Oort 2008](#anneke-vrugt-frans-j-oort-2008)
@@ -31,7 +33,7 @@ sources:
 
 Anneke Vrugt & Frans J. Oort. (2008). Metacognition, achievement goals, study strategies and academic achievement: pathways to achievement. Metacognition Learning. https://doi.org/10.1007/s11409-008-9022-4
 
-`q2 · i?`
+`q2 · i?` · `associational · r3`
 
 Descriptive statistics and t-tests comparing the two effort-based groups (Table 1); e.g., exam scores M=27.75 (SD=6.98) vs M=24.92 (SD=7.83), p=0.000; intellectual ability p=0.279. Women were more likely to be characterized as effective self-regulated learners (p<0.001 in chi-square test).
 

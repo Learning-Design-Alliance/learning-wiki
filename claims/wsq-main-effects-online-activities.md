@@ -15,18 +15,22 @@ sources:
     author: "Tillema, M., van den Bergh, H., Rijlaarsdam, G., & Sanders, T."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: tillema-2011-2
     resource: "https://doi.org/10.1007/s11409-011-9072-x"
     title: "Tillema, M., van den Bergh, H., Rijlaarsdam, G., & Sanders, T. (2011). Relating self reports of writing behaviour and online task execution using a temporal model. Metacognition and Learning. https://doi.org/10.1007/s11409-011-9072-x"
     author: "Tillema, M., van den Bergh, H., Rijlaarsdam, G., & Sanders, T."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Planner and reviser questionnaire scores show frequency main effects on several online activities, with no interaction with episode
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Planner scores had significant main effects on reading the assignment, planning, text production and revising. [→ Tillema 2011](#tillema-2011)
@@ -38,7 +42,7 @@ sources:
 
 Tillema, M., van den Bergh, H., Rijlaarsdam, G., & Sanders, T. (2011). Relating self reports of writing behaviour and online task execution using a temporal model. Metacognition and Learning. https://doi.org/10.1007/s11409-011-9072-x
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Overview of multilevel regression effects (Table 4) for the 20 students' protocols. The article reports significant main effects of planner scores on four activities, and states that for text production the higher the offline planner score, the more text production activities occur.
 
@@ -48,7 +52,7 @@ Overview of multilevel regression effects (Table 4) for the 20 students' protoco
 
 Tillema, M., van den Bergh, H., Rijlaarsdam, G., & Sanders, T. (2011). Relating self reports of writing behaviour and online task execution using a temporal model. Metacognition and Learning. https://doi.org/10.1007/s11409-011-9072-x
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Same Table 4 overview of effects for the 20 students. The article reports that for reading own text, the higher the offline reviser score, the less reading own text occurs, and that the higher the reviser score, the more planning occurred in total.
 

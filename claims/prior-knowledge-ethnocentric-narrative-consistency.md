@@ -15,12 +15,14 @@ sources:
     author: "Iordanou, K., Kendeou, P., & Zembylas, M."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Participants' prior knowledge about the historical event was entirely consistent with their own ethnic group's narrative, with none providing an alternative interpretation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` All events participants provided about the 1974 Cyprus events were consistent with the Greek-Cypriot view; none provided an alternative interpretation. [→ Iordanou 2020](#iordanou-2020)
@@ -31,7 +33,7 @@ sources:
 
 Iordanou, K., Kendeou, P., & Zembylas, M. (2020). Examining my-side bias during and after reading controversial historical accounts. Metacognition and Learning. https://doi.org/10.1007/s11409-020-09240-w
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Prior knowledge was assessed with an open-ended question about the 1974 events, scored by number of events reported (range 6–28, M = 15.03, SD = 6.13). All responses reflected the Greek-Cypriot narrative exclusively.
 

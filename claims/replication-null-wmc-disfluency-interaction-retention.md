@@ -15,12 +15,14 @@ sources:
     author: Sophia C. Weissgerber, Denia Indah Permatasari Terhorst, Ralf Rummer
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # In a pre-registered direct replication (N = 96), the disfluency × WMC interaction did not significantly predict retention, failing to replicate Lehmann et al. (2016)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The interaction of disfluency manipulation and standardized WMC was not a significant predictor of retention in the replication regression model (β = 4.19, p = 0.397). [→ Sophia C. Weissgerber 2024](#sophia-c-weissgerber-2024)
@@ -31,7 +33,7 @@ sources:
 
 Sophia C. Weissgerber, Denia Indah Permatasari Terhorst, Ralf Rummer. (2024). Is the perceptual disfluency effect moderated by working memory capacity? Direct replication of Lehmann et al. (2016). Metacognition and Learning. https://doi.org/10.1007/s11409-023-09366-7
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Pre-registered supervised online replication experiment (final N = 96; fluent n = 47, disfluent n = 49) using the same materials, WMC measure, and analytical approach as Lehmann et al. (2016). The regression model was significant overall (F(9, 84) = 2.76, p = 0.007, R2 adj. = 0.15), but "the interaction between disfluency manipulation * WMC, (β = 4.19, SE = 4.92, t(84) = 0.85, p = 0.397), were not predictors of retention". Based on the significance-and-direction criterion, this does not replicate the primary study's interaction (β = 11.66, p = 0.02).
 

@@ -15,12 +15,14 @@ sources:
     author: "Mulvihill, A., Matthews, N., Chidley, K., Macmahon, S., Armitage, K. L., Sherlock, D., Dux, P. E., & Carroll, A."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # The MAKQ dimensions show acceptable internal consistency across both studies (alphas 0.77-0.93)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Cronbach's alpha was acceptable for meta-attention control (0.93/0.91), monitoring (0.78/0.77), and strategy knowledge items (0.84/0.81) in Studies One and Two respectively. [→ Mulvihill 2025](#mulvihill-2025)
@@ -31,7 +33,7 @@ sources:
 
 Mulvihill, A., Matthews, N., Chidley, K., Macmahon, S., Armitage, K. L., Sherlock, D., Dux, P. E., & Carroll, A. (2025). The meta-attention knowledge questionnaire (MAKQ): a new instrument for investigating meta-attention in a young adolescent sample. Metacognition and Learning. https://doi.org/10.1007/s11409-025-09433-1
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Reliability analysis in Study One (N = 293) using Cronbach's alpha on the finalised scales; Study Two (N = 83) replicated with alphas of 0.91, 0.77, and 0.81. The article states these were "considered acceptable".
 

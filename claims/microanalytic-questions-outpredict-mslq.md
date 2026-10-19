@@ -15,12 +15,14 @@ sources:
     author: "Rovers, S. F. E., Clarebout, G., Savelberg, H. H. C. M., de Bruin, A. B. H., & van Merriënboer, J. J. G."
     q: 2
     i: 2
+    kind: review
+    rigour: 3
 ---
 
 # Micro-analytic self-report questions predict exam performance better than the MSLQ, which did not correlate with exam scores
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · review `r3` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` Weighted micro-analytic strategy questions significantly predicted final exam grade (r = .29) while MSLQ scales showed no significant correlations with exam scores. [→ Rovers 2019](#rovers-2019)
@@ -31,7 +33,7 @@ sources:
 
 Rovers, S. F. E., Clarebout, G., Savelberg, H. H. C. M., de Bruin, A. B. H., & van Merriënboer, J. J. G. (2019). Granularity matters: comparing different ways of measuring self-regulated learning. Metacognition and Learning. https://doi.org/10.1007/s11409-019-09188-6
 
-`q2 · i2`
+`q2 · i2` · `review · r3`
 
 Review reports Cleary et al. (2015), which compared MSLQ responses to examiner-delivered micro-analytic self-report questions about exam preparation; the micro-analytic measure predicted final exam grade (r = .29), the MSLQ did not.
 

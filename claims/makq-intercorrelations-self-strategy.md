@@ -15,12 +15,14 @@ sources:
     author: "Mulvihill, A., Matthews, N., Chidley, K., Macmahon, S., Armitage, K. L., Sherlock, D., Dux, P. E., & Carroll, A."
     q: 2
     i: 3
+    kind: design
+    rigour: 2
 ---
 
 # MAKQ dimensions correlate moderately with each other, with strategy knowledge only weakly related to the self-perception scales
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · design `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Meta-attention monitoring correlated moderately with control (r = .56); strategy knowledge correlated weakly with control (r = .26) and monitoring (r = .18). [→ Mulvihill 2025](#mulvihill-2025)
@@ -31,7 +33,7 @@ sources:
 
 Mulvihill, A., Matthews, N., Chidley, K., Macmahon, S., Armitage, K. L., Sherlock, D., Dux, P. E., & Carroll, A. (2025). The meta-attention knowledge questionnaire (MAKQ): a new instrument for investigating meta-attention in a young adolescent sample. Metacognition and Learning. https://doi.org/10.1007/s11409-025-09433-1
 
-`q2 · i3`
+`q2 · i3` · `design · r2`
 
 Pearson correlations among the three MAKQ dimensions in Study One (N = 293), all statistically significant. The authors interpret that the components "likely reflect related, but partially independent features"; r = .56, .26, .18 as printed, with r = .56 exceeding the |r| ≥ .37 threshold.
 

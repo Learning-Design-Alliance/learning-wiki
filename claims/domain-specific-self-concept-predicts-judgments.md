@@ -15,18 +15,22 @@ sources:
     author: "Marion Händel & Anique B. H. de Bruin & Markus Dresel"
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: marion-händel-anique-b-h-de-bruin-markus-dresel-2020-2
     resource: "https://doi.org/10.1007/s11409-020-09220-0"
     title: "Marion Händel & Anique B. H. de Bruin & Markus Dresel (2020). Individual differences in local and global metacognitive judgments. Metacognition and Learning (2020) 15:51–75. https://doi.org/10.1007/s11409-020-09220-0"
     author: "Marion Händel & Anique B. H. de Bruin & Markus Dresel"
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Domain-specific self-concept consistently predicts metacognitive judgments and accuracy: higher self-concept means higher judgments, higher sensitivity, lower specificity, and more overconfidence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In Study 1, domain-specific self-concept was the only consistent motivational/personality predictor of local judgments and accuracy scores. [→ Marion Händel & Anique B. H. de Bruin & Markus Dresel 2020](#marion-handel-anique-b-h-de-bruin-markus-dresel-2020)
@@ -38,7 +42,7 @@ sources:
 
 Marion Händel & Anique B. H. de Bruin & Markus Dresel (2020). Individual differences in local and global metacognitive judgments. Metacognition and Learning (2020) 15:51–75. https://doi.org/10.1007/s11409-020-09220-0
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Study 1 hierarchical regressions of local judgments, bias, sensitivity, and specificity in the mathematics test. The article reports "the only consistent predictor for judgments and metacognitive judgment accuracy was domain-specific self-concept", with higher self-concept linked to higher judgments, bias, and sensitivity but lower specificity.
 
@@ -48,7 +52,7 @@ Study 1 hierarchical regressions of local judgments, bias, sensitivity, and spec
 
 Marion Händel & Anique B. H. de Bruin & Markus Dresel (2020). Individual differences in local and global metacognitive judgments. Metacognition and Learning (2020) 15:51–75. https://doi.org/10.1007/s11409-020-09220-0
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Study 2 regression on postdiction bias in the psychology exam. The article reports "domain-specific self-concept was the strongest predictor: with higher self-concept, students were more overconfident in their postdiction."
 

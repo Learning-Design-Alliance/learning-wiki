@@ -17,7 +17,7 @@ sources:
 # Regulate regulative tool use: guide students to the supports that match their task activity
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (5 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 Based on the finding that different supports served different outcomes, the article draws implications for practice: teachers using technology-enhanced inquiry environments "should assist students in the appropriate selection of supports for task activities," for instance pointing out that helpfiles benefit modeling while note prompts assist report writing. Designers likewise need to be aware of the need to "regulate regulative tool use" by situating regulative support close to task activities and making its benefit for learning outcomes apparent.

@@ -17,7 +17,7 @@ sources:
 # Calibration interventions for secondary school students should target subjective confidence as well as functional confidence
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (2 for, 1 against) · 1 study (1 associational), `q3` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Because secondary school students' confidence judgements do not relate to their actual calibration accuracy, the authors recommend that interventions aiming to improve calibration accuracy in secondary school "focus not only on functional confidence, but on subjective confidence as well". Students may first need to be stimulated to reflect on the quality of their performance estimates, so they become aware of the poor alignment between their confidence and their calibration.
@@ -38,7 +38,7 @@ Because secondary school students' confidence judgements do not relate to their 
 - improved calibration accuracy
 
 ### Affordances
-- [Soj Metacognitive Awareness Calibration Account](../theories/soj-metacognitive-awareness-calibration-account.md)
+- [Soj Metacognitive Awareness Calibration Account](../theories/metacognition.md)
 
 ## Claims
 

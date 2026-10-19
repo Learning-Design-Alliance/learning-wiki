@@ -15,18 +15,22 @@ sources:
     author: Sonja Kälin, Claudia M. Roebers
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
   - id: sonja-kälin-2022-2
     resource: "https://doi.org/10.1007/s11409-022-09306-x"
     title: "Sonja Kälin, Claudia M. Roebers. (2022). Longitudinal associations between executive functions and metacognitive monitoring in 5- to 8-year-olds. Metacognition and Learning. https://doi.org/10.1007/s11409-022-09306-x"
     author: Sonja Kälin, Claudia M. Roebers
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Children became significantly less overconfident from kindergarten to 2nd grade but remained overconfident at both time points
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Monitoring accuracy improved significantly from T1 to T2 (ηp² = 0.148). [→ Sonja Kälin 2022](#sonja-kalin-2022)
@@ -38,7 +42,7 @@ sources:
 
 Sonja Kälin, Claudia M. Roebers. (2022). Longitudinal associations between executive functions and metacognitive monitoring in 5- to 8-year-olds. Metacognition and Learning. https://doi.org/10.1007/s11409-022-09306-x
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 Repeated measures ANOVA on the bias index across the two measurement points in N = 84 children, showing significantly less overconfidence at T2, F(1,83) = 14.4, p < .001, ηp² = 0.148, a large effect.
 
@@ -48,7 +52,7 @@ Repeated measures ANOVA on the bias index across the two measurement points in N
 
 Sonja Kälin, Claudia M. Roebers. (2022). Longitudinal associations between executive functions and metacognitive monitoring in 5- to 8-year-olds. Metacognition and Learning. https://doi.org/10.1007/s11409-022-09306-x
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 One-sample t tests of the bias index against zero in N = 84 children showed significant overconfidence at both time points, with Cohen's d = 0.86 at T1 and d = 0.49 at T2, indicating overconfidence persisted though diminished.
 

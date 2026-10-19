@@ -15,12 +15,14 @@ sources:
     author: "Marion Händel & Anique B. H. de Bruin & Markus Dresel"
     q: 2
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Motivational and personality variables relate more strongly to global than to local postdicted judgments
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` Domain-specific self-concept more strongly predicted global than local judgments and bias (η² = .043 and .042). [→ Marion Händel & Anique B. H. de Bruin & Markus Dresel 2020](#marion-handel-anique-b-h-de-bruin-markus-dresel-2020)
@@ -32,7 +34,7 @@ sources:
 
 Marion Händel & Anique B. H. de Bruin & Markus Dresel (2020). Individual differences in local and global metacognitive judgments. Metacognition and Learning (2020) 15:51–75. https://doi.org/10.1007/s11409-020-09220-0
 
-`q2 · i2`
+`q2 · i2` · `associational · r2`
 
 Study 1 general linear mixed model with repeated measures comparing beta-weights for local versus global judgments in the mathematics test. The comparison showed "domain-specific self-concept more strongly predicted the global judgments than the local judgments" with the printed F and η² values. Significant differences were also found for high school grade and gender.
 

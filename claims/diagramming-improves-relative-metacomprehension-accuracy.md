@@ -15,12 +15,14 @@ sources:
     author: "Pijeira-Díaz, H. J., van de Pol, J., Channa, F., & de Bruin, A."
     q: 3
     i: 1
+    kind: causal
+    rigour: 2
 ---
 
 # Diagramming scaffold improves relative metacomprehension accuracy for causal relations in expository texts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` Students in both diagramming conditions had significantly higher relative metacomprehension accuracy for causal relations than control students (η²p = .032). [→ Pijeira-Díaz 2023](#pijeira-diaz-2023)
@@ -31,7 +33,7 @@ sources:
 
 Pijeira-Díaz, H. J., van de Pol, J., Channa, F., & de Bruin, A. (2023). Scaffolding self-regulated learning from causal-relations texts: Diagramming and self-assessment to improve metacomprehension accuracy? Metacognition and Learning, 18, 631–658. https://doi.org/10.1007/s11409-023-09343-0
 
-`q3 · i1`
+`q3 · i1` · `causal · r2`
 
 Randomized three-condition experiment (N = 427 secondary students); ANCOVA with dyslexia as covariate showed "significant differences among conditions regarding relative metacomprehension accuracy for relations" with η²p = .032; both diagramming groups outperformed control.
 

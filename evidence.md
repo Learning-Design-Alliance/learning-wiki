@@ -19,14 +19,13 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 73 | 736 | 253 | 356 | 1,418 |
-| quant-synthesis | 64 | 117 | 38 | 118 | 337 |
-| review | 92 | 376 | 104 | 124 | 696 |
-| associational | 64 | 860 | 349 | 262 | 1,535 |
+| causal | 73 | 743 | 256 | 356 | 1,428 |
+| quant-synthesis | 64 | 118 | 38 | 118 | 338 |
+| review | 92 | 381 | 104 | 124 | 701 |
+| associational | 64 | 871 | 353 | 262 | 1,550 |
 | qualitative | 123 | 317 | 68 | 88 | 596 |
-| design | 57 | 530 | 131 | 32 | 750 |
+| design | 57 | 531 | 131 | 32 | 751 |
 | theoretical | 99 | 289 | 50 | 56 | 494 |
-| not yet coded | | | | | 32 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
 
@@ -103,7 +102,7 @@ Of the 39 claims cited from 50 or more pages, **6 rest on one study or none**: [
 
 Claims cited as support on some pages and as counter-evidence on others (`[+]` and `[-]` markers on the same claim). The disagreement is in how pages use the claim, which is often the point: a boundary condition cited against a strategy it limits. It is still where a reader should look twice.
 
-316 claims are cited both ways.
+319 claims are cited both ways.
 
 | Claim | For | Mixed | Against | Studies |
 |---|---|---|---|---|
@@ -137,14 +136,14 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | [principles](principles/index.md) | 213 | 208 | 22.5 | 0 |
 | [elements](elements/index.md) | 1,066 | 762 | 2 | 0 |
 | [patterns](patterns/index.md) | 68 | 64 | 25 | 0 |
-| [strategies](strategies/index.md) | 6,231 | 2,755 | 5 | 0 |
+| [strategies](strategies/index.md) | 6,231 | 2,757 | 5 | 0 |
 | [processes](processes/index.md) | 18 | 15 | 6 | 0 |
 | [methods](methods/index.md) | 38 | 21 | 1 | 0 |
 | [theories](theories/index.md) | 1,361 | 890 | 1 | 0 |
 | [learner-variables](learner-variables/index.md) | 74 | 74 | 38.5 | 0 |
 | [designs](designs/index.md) | 963 | 578 | 1 | 1 |
-| [products](products/index.md) | 1,797 | 1,192 | 1 | 0 |
-| [research-methods](research-methods/index.md) | 466 | 409 | 1 | 0 |
+| [products](products/index.md) | 1,801 | 1,194 | 1 | 0 |
+| [research-methods](research-methods/index.md) | 469 | 411 | 1 | 0 |
 
 ## Toward pooled estimates
 

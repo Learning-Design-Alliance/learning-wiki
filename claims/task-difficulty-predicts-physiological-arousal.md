@@ -15,12 +15,14 @@ sources:
     author: "Malmberg, J., Haataja, E., & Järvelä, S."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Higher task difficulty ratings before and after collaborative tasks predict higher physiological arousal, while task understanding does not
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` GEE models showed higher pre- and post-task difficulty ratings predicted more EDA peaks per minute (p < .05), whereas task understanding ratings did not predict arousal. [→ Malmberg 2022](#malmberg-2022)
@@ -31,7 +33,7 @@ sources:
 
 Malmberg, J., Haataja, E., & Järvelä, S. (2022). Exploring the connection between task difficulty, task perceptions, physiological arousal and learning outcomes in collaborative learning situations. Metacognition and Learning. https://doi.org/10.1007/s11409-022-09320-z
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 GEE models with gamma log link on clustered repeated measures; Table 1 shows pre-task difficulty Wald χ2 = 9.421, p = 0.002 and post-task difficulty p = 0.009, while understanding coefficients were non-significant.
 

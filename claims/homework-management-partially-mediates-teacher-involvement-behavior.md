@@ -15,12 +15,14 @@ sources:
     author: Süleyman Avcı, Mustafa Özgenel, Akif Avcu
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Homework management skills partially mediate the relationship between teacher homework involvement and homework behavior
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The indirect effect of teacher homework involvement on homework behavior via homework management was significant (β = 0.28, 95% CI [0.16, 0.40]) while the direct effect remained significant (β = 0.27), indicating partial mediation. [→ Süleyman Avcı 2025](#suleyman-avc-2025)
@@ -31,7 +33,7 @@ sources:
 
 Süleyman Avcı, Mustafa Özgenel, Akif Avcu. (2025). Teacher involvement and self-regulation in homework: impact on secondary school students’ homework behavior. Metacognition and Learning. https://doi.org/10.1007/s11409-025-09431-3
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Full mediation SEM model (CFI = 0.946, RMSEA = 0.075, SRMR = 0.051) with 525 students; indirect effect tested via bootstrapping with 5,000 resamples. The direct effect "remained statistically significant (β = 0.27, p <.01), suggesting partial mediation".
 

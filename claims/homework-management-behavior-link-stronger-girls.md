@@ -15,12 +15,14 @@ sources:
     author: Süleyman Avcı, Mustafa Özgenel, Akif Avcu
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The homework management–homework behavior link is stronger for girls than for boys
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In multigroup SEM, the effect of homework management on homework behavior was stronger for girls (β = 0.56, p <.01) than boys (β = 0.34, p <.05), a statistically significant difference (Δχ² = 11.52, p =.01). [→ Süleyman Avcı 2025](#suleyman-avc-2025)
@@ -31,7 +33,7 @@ sources:
 
 Süleyman Avcı, Mustafa Özgenel, Akif Avcu. (2025). Teacher involvement and self-regulation in homework: impact on secondary school students’ homework behavior. Metacognition and Learning. https://doi.org/10.1007/s11409-025-09431-3
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Multigroup SEM with nfemale = 257 and nmale = 268; chi-square difference tests compared structural paths across gender. The management–behavior path was "notably stronger for girls (β = 0.56, p <.01) than for boys (β = 0.34, p <.05)".
 

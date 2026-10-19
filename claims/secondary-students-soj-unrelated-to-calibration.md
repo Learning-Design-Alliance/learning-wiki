@@ -15,12 +15,14 @@ sources:
     author: Marloes L. Nederhand, Huib K. Tabbers, Anique B.H. De Bruin, Remy M. J. P. Rikers
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Among secondary school students, calibration accuracy is unrelated to confidence in performance estimates across French, Math, and German exams
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Secondary school students showed no significant correlation between SOJs and calibration accuracy on any of the three exams (French r = -.029; Math r = .036; German r = .059). [→ Marloes L. Nederhand 2021](#marloes-l-nederhand-2021)
@@ -31,7 +33,7 @@ sources:
 
 Marloes L. Nederhand, Huib K. Tabbers, Anique B.H. De Bruin, Remy M. J. P. Rikers. (2021). Metacognitive awareness as measured by second-order judgements among university and secondary school students. Metacognition and Learning, 16, 1-14. https://doi.org/10.1007/s11409-020-09228-6
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Postdiction study of 302 secondary school students who estimated grades and SOJs after regular end-of-term exams in French, Math, and German. No correlation reached significance on any exam; the article reports only test statistics, no effect sizes.
 

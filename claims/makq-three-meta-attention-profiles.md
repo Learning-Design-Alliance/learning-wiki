@@ -15,12 +15,14 @@ sources:
     author: "Mulvihill, A., Matthews, N., Chidley, K., Macmahon, S., Armitage, K. L., Sherlock, D., Dux, P. E., & Carroll, A."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Cluster analysis across both studies identifies three meta-attention knowledge profiles, including an overconfident group with a self-knowledge/strategy mismatch
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` K-means clustering yielded a three-cluster solution in both studies: high-knowledge, low-knowledge, and overconfident (Study One: n = 124, 42.3% with below-average strategy knowledge but above-average self-perception of control and monitoring). [→ Mulvihill 2025](#mulvihill-2025)
@@ -31,7 +33,7 @@ sources:
 
 Mulvihill, A., Matthews, N., Chidley, K., Macmahon, S., Armitage, K. L., Sherlock, D., Dux, P. E., & Carroll, A. (2025). The meta-attention knowledge questionnaire (MAKQ): a new instrument for investigating meta-attention in a young adolescent sample. Metacognition and Learning. https://doi.org/10.1007/s11409-025-09433-1
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Exploratory k-means cluster analysis in Study One (N = 293) on standardised MAKQ dimension scores; three clusters: low-knowledge (n = 98, 33.4%), high-knowledge (n = 71, 24.2%), overconfident (n = 124, 42.3%). Study Two (N = 83) replicated the same three-cluster solution.
 

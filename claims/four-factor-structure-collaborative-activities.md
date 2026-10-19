@@ -14,12 +14,14 @@ sources:
     author: "Janssen, J., Erkens, G., Kirschner, P. A., & Kanselaar, G."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Collaborative activities in CSCL chat cluster into four factors: information discussion, regulation of task-related activities, regulation of social activities, and social activities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Exploratory factor analysis extracted four factors accounting for 52.8% of total variance in collaborative activities. [→ Janssen 2010](#janssen-2010)
@@ -30,7 +32,7 @@ sources:
 
 Janssen, J., Erkens, G., Kirschner, P. A., & Kanselaar, G. (2010). Task-related and social regulation during online collaborative learning. Metacognition and Learning.
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Exploratory factor analysis with varimax rotation on the coded activity frequencies of 101 groups; four factors were extracted, interpreted as information discussion (14.1% variance), regulation of task-related activities (14.1%), regulation of social activities (12.6%), and performing social activities (12.0%).
 

@@ -15,18 +15,22 @@ sources:
     author: "Rovers, S. F. E., Clarebout, G., Savelberg, H. H. C. M., de Bruin, A. B. H., & van Merriënboer, J. J. G."
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: rovers-2019-2
     resource: "https://doi.org/10.1007/s11409-019-09188-6"
     title: "Rovers, S. F. E., Clarebout, G., Savelberg, H. H. C. M., de Bruin, A. B. H., & van Merriënboer, J. J. G. (2019). Granularity matters: comparing different ways of measuring self-regulated learning. Metacognition and Learning. https://doi.org/10.1007/s11409-019-09188-6"
     author: "Rovers, S. F. E., Clarebout, G., Savelberg, H. H. C. M., de Bruin, A. B. H., & van Merriënboer, J. J. G."
     q: 2
     i: 2
+    kind: review
+    rigour: 2
 ---
 
 # When SRL is measured at a coarse grain size (global self-regulation), students are relatively well able to report on their strategy use
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i?` Studies examining global self-regulation find relatively high convergence between self-reports and behavioral measures. [→ Rovers 2019](#rovers-2019)
@@ -38,7 +42,7 @@ sources:
 
 Rovers, S. F. E., Clarebout, G., Savelberg, H. H. C. M., de Bruin, A. B. H., & van Merriënboer, J. J. G. (2019). Granularity matters: comparing different ways of measuring self-regulated learning. Metacognition and Learning. https://doi.org/10.1007/s11409-019-09188-6
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 Review synthesis of four included studies using global or subscale measures of self-regulation (IMMEX chemistry problem-solving, ePortfolio traces, think-aloud), finding students "relatively well able to report" at this coarse grain size.
 
@@ -48,7 +52,7 @@ Review synthesis of four included studies using global or subscale measures of s
 
 Rovers, S. F. E., Clarebout, G., Savelberg, H. H. C. M., de Bruin, A. B. H., & van Merriënboer, J. J. G. (2019). Granularity matters: comparing different ways of measuring self-regulated learning. Metacognition and Learning. https://doi.org/10.1007/s11409-019-09188-6
 
-`q2 · i2`
+`q2 · i2` · `review · r2`
 
 Review reports Wang (2015), a multimethod chemistry problem-solving study using the IMSR questionnaire and think-aloud protocols, found significant associations for both tasks, with correlation coefficients of r = .36 and r = .49.
 

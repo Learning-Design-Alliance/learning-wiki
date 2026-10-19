@@ -15,12 +15,14 @@ sources:
     author: Janneke van de Pol, Selia N. van den Boom-Muilenburg, Tamara van Gog
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Monitoring accuracy predicts comprehension-based regulation accuracy, and cue availability also has an indirect effect on regulation accuracy via monitoring accuracy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The hypothesized relation between monitoring accuracy and regulation accuracy (H3.1) was supported for both relative and absolute accuracy, with an indirect effect of condition via monitoring accuracy. [→ Janneke van de Pol 2021](#janneke-van-de-pol-2021)
@@ -31,7 +33,7 @@ sources:
 
 Janneke van de Pol, Selia N. van den Boom-Muilenburg, Tamara van Gog. (2021). Exploring the relations between teachers' cue-utilization, monitoring and regulation of students' text learning. Metacognition and Learning. https://doi.org/10.1007/s11409-021-09268-6
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 The article's findings table records hypothesis H3.1 (monitoring accuracy predicting regulation accuracy) as supported "for relative and absolute accuracy", and records an indirect effect of diagram-only versus name+diagram on absolute accuracy; multilevel mediation models in Mplus with bootstrap confidence intervals tested these paths.
 

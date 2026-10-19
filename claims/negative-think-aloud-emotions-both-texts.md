@@ -15,12 +15,14 @@ sources:
     author: "Iordanou, K., Kendeou, P., & Zembylas, M."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Emotions reported during think-aloud reading were mostly negative (anger, sadness) for both texts, in contrast to positive questionnaire-reported emotions toward the other ethnic group
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Participants expressed positive emotions toward Turkish-Cypriots on the questionnaire (M = 2.71, SD = .86) but reported mostly negative emotions during think-aloud reading of both texts. [→ Iordanou 2020](#iordanou-2020)
@@ -31,7 +33,7 @@ sources:
 
 Iordanou, K., Kendeou, P., & Zembylas, M. (2020). Examining my-side bias during and after reading controversial historical accounts. Metacognition and Learning. https://doi.org/10.1007/s11409-020-09240-w
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Preliminary analysis of the 39 participants' emotion measures. The six-item questionnaire showed "relatively positive emotions towards TCs", while think-aloud emotions during reading were "mostly negative" for both texts; anger was reported at 17% (other-side) and 15% (own-side), sadness at 17% and 24%.
 

@@ -15,12 +15,14 @@ sources:
     author: Mariëtte H. van Loon, et al
     q: 2
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # More frequent cognitive strategy instruction is negatively related to the effectiveness of children's restudy selections
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` When teachers more often talked about cognitive strategy use, children less accurately differentiated incorrect from correct responses in restudy selections (β = −.24, p = .010). [→ Mariëtte H. van Loon 2021](#mariette-h-van-loon-2021)
@@ -32,7 +34,7 @@ sources:
 
 Mariëtte H. van Loon, et al. (2021). Connecting teachers' classroom instructions with children's metacognition and learning in elementary school. Metacognition and Learning. https://doi.org/10.1007/s11409-020-09248-2
 
-`q2 · i2`
+`q2 · i2` · `associational · r2`
 
 Multilevel regression of strategy instruction on restudy effectiveness (Table 4b): cognitive strategy instructions β = −.24, p = .010; metacognitive strategy instructions β = −.16, p = .091; grade main effect β = −.42, p = .001 favoring fourth graders.
 

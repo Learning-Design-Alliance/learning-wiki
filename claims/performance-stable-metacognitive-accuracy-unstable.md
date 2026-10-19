@@ -15,18 +15,22 @@ sources:
     author: "Steiner, M., van Loon, M. H., Bayard, N. S., & Roebers, C. M."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
   - id: steiner-2020-2
     resource: "https://doi.org/10.1007/s11409-019-09208-5"
     title: "Steiner, M., van Loon, M. H., Bayard, N. S., & Roebers, C. M. (2020). Development of Children's monitoring and control when learning from texts: effects of age and test format. Metacognition and Learning, 15, 3–27. https://doi.org/10.1007/s11409-019-09208-5"
     author: "Steiner, M., van Loon, M. H., Bayard, N. S., & Roebers, C. M."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Children's test performance is stable over six months but monitoring and control accuracy shows little inter-individual stability
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Performance stability (Pearson correlations between T1 and T2) was significant for both grades and formats. [→ Steiner 2020](#steiner-2020)
@@ -38,7 +42,7 @@ sources:
 
 Steiner, M., van Loon, M. H., Bayard, N. S., & Roebers, C. M. (2020). Development of Children's monitoring and control when learning from texts: effects of age and test format. Metacognition and Learning, 15, 3–27. https://doi.org/10.1007/s11409-019-09208-5
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Pearson correlations between T1 and T2 performance (Table 2): open-ended r = .50** (2nd grade) and .62** (4th grade); true-false r = .32** and .23*. Open-ended performance stability was significantly higher than true-false stability in both grades.
 
@@ -48,7 +52,7 @@ Pearson correlations between T1 and T2 performance (Table 2): open-ended r = .50
 
 Steiner, M., van Loon, M. H., Bayard, N. S., & Roebers, C. M. (2020). Development of Children's monitoring and control when learning from texts: effects of age and test format. Metacognition and Learning, 15, 3–27. https://doi.org/10.1007/s11409-019-09208-5
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Pearson correlations for monitoring accuracy (gamma) and control accuracy (phi) between T1 and T2 (Table 2). Most correlations were near zero and non-significant; only fourth graders' true-false monitoring accuracy showed low but significant stability (r = .17*).
 

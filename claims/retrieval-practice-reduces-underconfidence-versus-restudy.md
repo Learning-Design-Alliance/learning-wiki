@@ -15,12 +15,14 @@ sources:
     author: "Kubik, V., Jemstedt, A., Mahjub Eshratabadi, H., Schwartz, B. L., & Jönsson, F. U."
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # JOLs for study–test items increase faster across cycles than JOLs for study–study items, reducing underconfidence relative to restudy practice
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` JOL magnitude did not differ between study types in Cycle 1 but diverged in favor of study–test items in Cycles 2 and 3. [→ Kubik 2022](#kubik-2022)
@@ -31,7 +33,7 @@ sources:
 
 Kubik, V., Jemstedt, A., Mahjub Eshratabadi, H., Schwartz, B. L., & Jönsson, F. U. (2022). The underconfidence-with-practice effect in action memory: The contribution of retrieval practice to metacognitive monitoring. Metacognition and Learning. https://doi.org/10.1007/s11409-021-09288-2
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Mixed 2×2×3 experiment comparing study–test (ST ST ST) and study–study (SS SS SS) items within participants. The "Study Type  × Cycle interaction" was significant, with Cycle 2 d = 0.57 and Cycle 3 d = 0.83 favoring study–test items.
 

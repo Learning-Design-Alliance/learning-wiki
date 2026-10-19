@@ -15,12 +15,14 @@ sources:
     author: "Dillon H. Murphy, Vered Halamish, Matthew G. Rhodes, & Alan D. Castel"
     q: 3
     i: 3
+    kind: causal
+    rigour: 1
 ---
 
 # Merely selecting words by clicking on them, without any memorability instructions, enhanced their recall (a choice effect)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r1` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Words that were circled or underlined were better recalled than words not clicked on, with no memorability instructions given (ηp² = 0.72). [→ Dillon H. Murphy 2023](#dillon-h-murphy-2023)
@@ -31,7 +33,7 @@ sources:
 
 Dillon H. Murphy, Vered Halamish, Matthew G. Rhodes, & Alan D. Castel. (2023). How evaluating memorability can lead to Unintended Consequences. Metacognition and Learning (2023) 18:375–403. https://doi.org/10.1007/s11409-023-09332-3
 
-`q3 · i3`
+`q3 · i3` · `causal · r1`
 
 Experiment 3 with 102 undergraduates asked only to circle two words and underline two words with no criteria given; study time fixed (n = 47) or self-paced (n = 55). Clicked words were recalled far better, a large effect of ηp² = 0.72, quoted as "[F(1, 99) = 252.66, p < .001, ηp 2 = 0.72]".
 

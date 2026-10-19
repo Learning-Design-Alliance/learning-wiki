@@ -15,12 +15,14 @@ sources:
     author: "Iordanou, K., Kendeou, P., & Zembylas, M."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Young adults exhibit my-side bias when writing summaries of contradictory historical accounts, with 72% producing one-sided reports despite explicit instructions to summarize both texts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` The majority of participants (72%) wrote one-sided summaries including only the own-side text, despite being explicitly instructed to summarize both texts. [→ Iordanou 2020](#iordanou-2020)
@@ -31,7 +33,7 @@ sources:
 
 Iordanou, K., Kendeou, P., & Zembylas, M. (2020). Examining my-side bias during and after reading controversial historical accounts. Metacognition and Learning. https://doi.org/10.1007/s11409-020-09240-w
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Think-aloud study of 39 Greek-Cypriot young adults reading own-side and other-side historical accounts of the 1974 Cyprus events. The article reports that "only 28% of the participants included information from both texts" while 72% wrote one-sided reports.
 

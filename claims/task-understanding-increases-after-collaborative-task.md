@@ -15,12 +15,14 @@ sources:
     author: "Malmberg, J., Haataja, E., & Järvelä, S."
     q: 3
     i: 1
+    kind: associational
+    rigour: 1
 ---
 
 # Students' task understanding confidence increases after collaborative tasks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · associational `r1` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` Paired-sample t-tests showed task understanding ratings rose significantly from before to after the collaborative task (d = 0.37). [→ Malmberg 2022](#malmberg-2022)
@@ -31,7 +33,7 @@ sources:
 
 Malmberg, J., Haataja, E., & Järvelä, S. (2022). Exploring the connection between task difficulty, task perceptions, physiological arousal and learning outcomes in collaborative learning situations. Metacognition and Learning. https://doi.org/10.1007/s11409-022-09320-z
 
-`q3 · i1`
+`q3 · i1` · `associational · r1`
 
 Paired-sample t-test on the same students' single-item slider ratings of task understanding before and after collaborative physics tasks; means rose from "M  = 53.78" to "M = 62.31", "d = 0.37".
 

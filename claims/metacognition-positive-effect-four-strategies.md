@@ -15,12 +15,14 @@ sources:
     author: "Anneke Vrugt & Frans J. Oort"
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Metacognition positively affects the use of all four study strategies, with medium effects on metacognitive, deep cognitive and resource management strategies and a small effect on surface strategies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Metacognition had medium-sized effects on metacognitive (β=.41), deep cognitive (β=.39) and resource management (β=.38) strategies and a small effect on surface cognitive strategies (β=.24) among effective self-regulators. [→ Anneke Vrugt & Frans J. Oort 2008](#anneke-vrugt-frans-j-oort-2008)
@@ -31,7 +33,7 @@ sources:
 
 Anneke Vrugt & Frans J. Oort. (2008). Metacognition, achievement goals, study strategies and academic achievement: pathways to achievement. Metacognition Learning. https://doi.org/10.1007/s11409-008-9022-4
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Path analysis results for the effective self-regulator group (N=421). Table 2 part (b) reports standardized effects of metacognition on the four strategy scales: .41, .39, .24 and .38. The authors state this supports that knowledge of cognition, regulation and metacognitive experience contribute to strategy selection and use.
 

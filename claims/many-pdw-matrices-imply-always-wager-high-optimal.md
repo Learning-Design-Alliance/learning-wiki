@@ -15,12 +15,14 @@ sources:
     author: Lorenz Weise
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Many four-cell PDW payoff matrices imply an optimal strategy of always wagering high
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 
 ## Subclaims
 `q2 i?` 41% of reviewed four-cell matrices (32 of 78) imply an optimal strategy of always wagering high, contrary to the intuition that low wagers suit low confidence. [→ Lorenz Weise 2024](#lorenz-weise-2024)
@@ -31,7 +33,7 @@ sources:
 
 Lorenz Weise. (2024). Payoff designs in post-decision wagering: a systematic review. Metacognition and Learning. https://doi.org/10.1007/s11409-024-09411-z
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Theoretical analysis of payoff matrices, drawing on Clifford et al. (2008), applied across the 78 four-cell matrices assembled in the review. The review reports "32 out of 78 matrices (41%) imply an optimal strategy of always wagering high", while 28% imply a mixed strategy and the rest do not allow computation.
 

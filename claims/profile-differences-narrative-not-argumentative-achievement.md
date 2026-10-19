@@ -15,12 +15,14 @@ sources:
     author: Jianhua Zhang, Lawrence Jun Zhang
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Achievement goal profiles did not differ significantly in argumentative writing achievement, but did differ in narrative writing achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Post-hoc Scheffe tests verified only two narrative-task profile pairs as significant: LAGs vs AAGs (p = .028) and LAGs vs HAGs (p = .034). [→ Jianhua Zhang 2025](#jianhua-zhang-2025)
@@ -31,7 +33,7 @@ sources:
 
 Jianhua Zhang, Lawrence Jun Zhang. (2025). Unraveling the nexus among achievement goals, self-efficacy, and motivation regulation and their joint effects on L2 student writers' writing achievement: a person-based approach. Metacognition and Learning (2025) 20:29. https://doi.org/10.1007/s11409-025-09434-0
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Post-hoc Scheffe tests (p adjusted for a family of 4) on narrative-task scores. The article notes the pattern of mean differences described in the text "were not fully verified by the post-hoc Scheffe's Test"; only the two pairs involving LAGs reached significance.
 

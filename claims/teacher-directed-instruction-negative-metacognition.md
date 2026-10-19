@@ -15,12 +15,14 @@ sources:
     author: Mariëtte H. van Loon, et al
     q: 2
     i: 1
+    kind: associational
+    rigour: 2
 ---
 
 # Teacher-directed instruction is negatively related to children's restudy effectiveness and self-monitoring accuracy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · associational `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i1` Frequency of teacher-directed instructions was negatively related to children's strategic selection of incorrectly answered items for restudy (β = −.17, p = .038). [→ Mariëtte H. van Loon 2021](#mariette-h-van-loon-2021)
@@ -32,7 +34,7 @@ sources:
 
 Mariëtte H. van Loon, et al. (2021). Connecting teachers' classroom instructions with children's metacognition and learning in elementary school. Metacognition and Learning. https://doi.org/10.1007/s11409-020-09248-2
 
-`q2 · i1`
+`q2 · i1` · `associational · r2`
 
 Multilevel regression of instructional practices (Table 5b, 5c). Teacher-directed practices predicted restudy effectiveness β = −.17, p = .038 and self-monitoring accuracy β = −.26, p = .001, while both practice types positively predicted performance (β = .09 each).
 

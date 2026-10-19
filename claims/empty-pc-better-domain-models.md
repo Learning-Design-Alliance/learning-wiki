@@ -15,18 +15,22 @@ sources:
     author: "Sarah Manlove, Ard W. Lazonder & Ton de Jong"
     q: 2
     i: 3
+    kind: causal
+    rigour: 2
   - id: sarah-manlove-2007-2
     resource: "https://doi.org/10.1007/s11409-007-9012-y"
     title: "Sarah Manlove, Ard W. Lazonder & Ton de Jong. (2007). Software scaffolds to promote regulation during scientific inquiry learning. Metacognition Learning. https://doi.org/10.1007/s11409-007-9012-y"
     author: "Sarah Manlove, Ard W. Lazonder & Ton de Jong"
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Empty-PC dyads built significantly better domain models than full-PC dyads, an effect concentrated among lower-achieving dyads
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Model quality scores of PC− dyads were significantly higher than those of PC+ dyads (d=1.26). [→ Sarah Manlove 2007](#sarah-manlove-2007)
@@ -38,7 +42,7 @@ sources:
 
 Sarah Manlove, Ard W. Lazonder & Ton de Jong. (2007). Software scaffolds to promote regulation during scientific inquiry learning. Metacognition Learning. https://doi.org/10.1007/s11409-007-9012-y
 
-`q2 · i3`
+`q2 · i3` · `causal · r2`
 
 Final system dynamics models scored for correctly specified variables and relations (maximum 26; inter-rater κ 0.95 and 0.91); two-way ANOVA comparing 20 PC+ with 15 PC− dyads yielded d=1.26 favoring PC−.
 
@@ -48,7 +52,7 @@ Final system dynamics models scored for correctly specified variables and relati
 
 Sarah Manlove, Ard W. Lazonder & Ton de Jong. (2007). Software scaffolds to promote regulation during scientific inquiry learning. Metacognition Learning. https://doi.org/10.1007/s11409-007-9012-y
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Two-way ANOVA with teacher-assigned achievement level of the highest-achieving member; only the F statistic is printed for the interaction, so no effect size; Figure 2 shows lower-achieving PC− dyads on average obtained a 10-point higher model quality score, versus 1.1 point for higher-achieving dyads.
 

@@ -15,12 +15,14 @@ sources:
     author: Mark Feng Teng, Lawrence Jun Zhang
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # In Han students, higher initial metacognitive knowledge predicted both a higher starting point and a faster growth rate of vocabulary breadth
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` The intercept of MCK was significantly and positively correlated with both the intercept and the slope of VK breadth in the Han parallel development model. [→ Mark Feng Teng 2024](#mark-feng-teng-2024)
@@ -31,7 +33,7 @@ sources:
 
 Mark Feng Teng, Lawrence Jun Zhang. (2024). Ethnic minority multilingual young learners' longitudinal development of metacognitive knowledge and breadth of vocabulary knowledge. Metacognition and Learning. https://doi.org/10.1007/s11409-023-09360-z
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Parallel development LGC model (MCK quadratic, VK linear) fitted to Han students' data with bootstrapped GLS fit indices; the model fit the data well per Hu and Bentler cutoffs. The MCK intercept significantly covaried with the VK intercept and slope; no standardized effect size is printed.
 
