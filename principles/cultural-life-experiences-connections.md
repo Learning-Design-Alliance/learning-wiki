@@ -67,7 +67,7 @@ sources:
 # Cultural & Life Experiences Connections
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 46 claims (35 for, 11 mixed) · 47 studies (13 qualitative, 11 causal, 8 design, 6 review, 4 quant-synthesis, 4 theoretical, 1 associational), `q1`–`q4` · 3 of 47 report an effect size · 40 claims rest on one study
+> **Evidence** · 46 claims (36 for, 10 mixed) · 47 studies (13 qualitative, 11 causal, 8 design, 6 review, 4 quant-synthesis, 4 theoretical, 1 associational), `q1`–`q4` · 3 of 47 report an effect size · 40 claims rest on one study
 
 ## Conditional relationship
 
