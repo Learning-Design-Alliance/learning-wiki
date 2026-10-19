@@ -24,7 +24,7 @@ These figures describe two things at once: what education research has produced,
 | Claims | 22,375 |
 | Evidence entries | 26,707 |
 | Distinct studies | 5,997 |
-| Claims resting on one study | 21,858 (98%) |
+| Claims resting on one study | 21,859 (98%) |
 | Claims with no coded evidence | 4 |
 | Studies reporting an effect size | 1,370 of 5,997 (23%) |
 
@@ -35,7 +35,7 @@ These figures describe two things at once: what education research has produced,
 | causal | 78 | 771 | 262 | 356 | 1,467 |
 | quant-synthesis | 70 | 135 | 38 | 119 | 362 |
 | review | 103 | 396 | 104 | 125 | 728 |
-| associational | 64 | 891 | 358 | 264 | 1,577 |
+| associational | 64 | 890 | 358 | 265 | 1,577 |
 | qualitative | 123 | 318 | 68 | 88 | 597 |
 | design | 59 | 533 | 131 | 32 | 755 |
 | theoretical | 106 | 297 | 51 | 57 | 511 |
@@ -44,9 +44,9 @@ These figures describe two things at once: what education research has produced,
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 739 (12%) | 3,483 (58%) | 1,645 (27%) | 130 (2%) |
+| 739 (12%) | 3,482 (58%) | 1,646 (27%) | 130 (2%) |
 
-**Studies per claim:** 0: 4, 1: 21,858, 2: 431, 3: 66, 4 or more: 16.
+**Studies per claim:** 0: 4, 1: 21,859, 2: 430, 3: 66, 4 or more: 16.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 

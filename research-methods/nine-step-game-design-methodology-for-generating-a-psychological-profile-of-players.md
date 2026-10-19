@@ -29,4 +29,4 @@ The article proposes a game design process dedicated to psychological profiling,
 -
 
 ## Key Sources
-- Guardiola, E., & Natkin, S. (2015). A Game Design Methodology for Generating a Psychological Profile of Players. In Serious Games Analytics, Methodologies for Performance Measurement, Assessment, and Improvement. Springer. https://doi.org/10.1007/978-3-319-05834-4
+- Guardiola, E., & Natkin, S. (2015). A Game Design Methodology for Generating a Psychological Profile of Players. In Serious Games Analytics, Methodologies for Performance Measurement, Assessment, and Improvement. Springer. https://doi.org/10.1007/978-3-319-05834-4_16

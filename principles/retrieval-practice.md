@@ -12,7 +12,7 @@ generated:
 sources:
   - id: roediger-2006
     resource: "https://doi.org/10.1111/j.1467-9280.2006.01693.x"
-    title: "Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning. *Psychological Science, 17*(3), 249-255"
+    title: "Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249-255"
     author: "Roediger, H. L., & Karpicke, J. D"
   - id: karpicke-2017
     resource: "https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
@@ -229,7 +229,7 @@ A within-session quiz score, delayed recall, transfer to new questions and value
 - [Use frequent, low-stakes, cumulative tests in varied formats, including pretests, and encourage student self-testing](../strategies/frequent-low-stakes-cumulative-testing-strategy.md)
 
 ## Key Sources
-- Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning. *Psychological Science, 17*(3), 249-255. [https://doi.org/10.1111/j.1467-9280.2006.01693.x](https://doi.org/10.1111/j.1467-9280.2006.01693.x)
+- Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249-255. [https://doi.org/10.1111/j.1467-9280.2006.01693.x](https://doi.org/10.1111/j.1467-9280.2006.01693.x)
 - Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9
 
 <!-- deprecated 2026-10-01: superseded by the conditional model above; the earlier body is kept for history.

@@ -10,7 +10,7 @@ generated:
 sources:
   - id: corcoran-2003
     resource: "https://eric.ed.gov/?id=ED480404"
-    title: "Corcoran, Tom. (2003). The Merck Institute for Science Education: A Successful Intermediary for Education Reform. CPRE Research Report Series RR-052. https://eric.ed.gov/?id=ED480404"
+    title: "Corcoran, Tom. (2003). The Merck Institute for Science Education: A Successful Intermediary for Education Reform. CPRE Research Report Series RR-052. https://eric.ed.gov/?id=ED480404 [doi:10.1037/e383112004-001](https://doi.org/10.1037/e383112004-001)"
     author: Corcoran, Tom
 ---
 
@@ -44,4 +44,4 @@ When CPRE found that roughly 40% of teachers had not participated after three ye
 -
 
 ## Key Sources
-- Corcoran, Tom. (2003). The Merck Institute for Science Education: A Successful Intermediary for Education Reform. CPRE Research Report Series RR-052. https://eric.ed.gov/?id=ED480404
+- Corcoran, Tom. (2003). The Merck Institute for Science Education: A Successful Intermediary for Education Reform. CPRE Research Report Series RR-052. https://eric.ed.gov/?id=ED480404 [doi:10.1037/e383112004-001](https://doi.org/10.1037/e383112004-001)

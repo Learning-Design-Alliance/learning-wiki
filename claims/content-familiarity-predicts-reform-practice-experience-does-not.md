@@ -19,7 +19,7 @@ sources:
     rigour: 2
   - id: corcoran-2003-2
     resource: "https://eric.ed.gov/?id=ED480404"
-    title: "Corcoran, Tom. (2003). The Merck Institute for Science Education: A Successful Intermediary for Education Reform. CPRE Research Report Series RR-052. https://eric.ed.gov/?id=ED480404"
+    title: "Corcoran, Tom. (2003). The Merck Institute for Science Education: A Successful Intermediary for Education Reform. CPRE Research Report Series RR-052. https://eric.ed.gov/?id=ED480404 [doi:10.1037/e383112004-001](https://doi.org/10.1037/e383112004-001)"
     author: Corcoran, Tom
     q: 3
     i: 0
@@ -50,7 +50,7 @@ Same HLM analysis of 334 teachers in the four partner districts; the coefficient
 
 ### Corcoran 2003 (2)
 
-Corcoran, Tom. (2003). The Merck Institute for Science Education: A Successful Intermediary for Education Reform. CPRE Research Report Series RR-052. https://eric.ed.gov/?id=ED480404
+Corcoran, Tom. (2003). The Merck Institute for Science Education: A Successful Intermediary for Education Reform. CPRE Research Report Series RR-052. https://eric.ed.gov/?id=ED480404 [doi:10.1037/e383112004-001](https://doi.org/10.1037/e383112004-001)
 
 `q3 · i0` · `associational · r?`
 

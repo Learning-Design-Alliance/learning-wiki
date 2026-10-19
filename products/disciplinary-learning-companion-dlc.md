@@ -29,4 +29,4 @@ An online tool developed by Sijmkens et al. that provides discipline- and topic-
 -
 
 ## Key Sources
-- Sijmkens, E., De Cock, M., & De Laet, T. (2024). Scaffolding Students' Use of Metacognitive Activities Using Discipline- and Topic-Specific Reflective Prompts. https://doi.org/10.1007/978-3-031-72353-1_2
+- Sijmkens, E., De Cock, M., & De Laet, T. (2023). Scaffolding Students' Use of Metacognitive Activities Using Discipline- and Topic-Specific Reflective Prompts. *Metacognition and Learning, 18*(3), 811–843. https://doi.org/10.1007/s11409-023-09363-w

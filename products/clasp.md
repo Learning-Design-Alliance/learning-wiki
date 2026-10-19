@@ -9,9 +9,9 @@ generated:
   by: "process:sweep-kinds"
   at: 2026-10-10
 sources:
-  - id: potter-2018
+  - id: potter-2012
     resource: "https://arxiv.org/abs/1205.6970"
-    title: "Potter, W., Webb, D., West, E., Paul, C., Bowen, M., Weiss, B., Coleman, L., & De Leone, C. (2018). Sixteen years of Collaborative Learning through Active Sense-making in Physics (CLASP) at UC Davis. https://arxiv.org/abs/1205.6970"
+    title: "Potter, W., Webb, D., West, E., Paul, C., Bowen, M., Weiss, B., Coleman, L., & De Leone, C. (2012). Sixteen years of Collaborative Learning through Active Sense-making in Physics (CLASP) at UC Davis. https://arxiv.org/abs/1205.6970"
     author: "Potter, W., Webb, D., West, E., Paul, C., Bowen, M., Weiss, B., Coleman, L., & De Leone, C"
   - id: small-1994
     resource: "https://eric.ed.gov/?id=ED382199"
@@ -29,7 +29,7 @@ A three-quarter introductory physics curriculum for bioscience majors, developed
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
-- **CLASP course series (Physics 7A/7B/7C): a large-enrollment reformed introductory physics course for bioscience majors**: CLASP (Collaborative Learning through Active Sense-making in Physics) is a three-quarter, one-year introductory physics course at UC Davis enrolling about 1700 students per year, fully institutionalized since 1996-97 as the physics requirement for biological science majors. Each quarter has five independent sections of roughly 300 students taught by two co-instructors and five TAs, with one 80-minute lecture per week and two 140-minute discussion/laboratory meetings, so less than a quarter of in-class time is lecture. The course was designated an exemplary practice course in a 2006 national CEPR review of 139 introductory physics courses, and has also been implemented at California State Uni (Potter et al. (2018))
+- **CLASP course series (Physics 7A/7B/7C): a large-enrollment reformed introductory physics course for bioscience majors**: CLASP (Collaborative Learning through Active Sense-making in Physics) is a three-quarter, one-year introductory physics course at UC Davis enrolling about 1700 students per year, fully institutionalized since 1996-97 as the physics requirement for biological science majors. Each quarter has five independent sections of roughly 300 students taught by two co-instructors and five TAs, with one 80-minute lecture per week and two 140-minute discussion/laboratory meetings, so less than a quarter of in-class time is lecture. The course was designated an exemplary practice course in a 2006 national CEPR review of 139 introductory physics courses, and has also been implemented at California State Uni (Potter et al. (2012))
 - **CLASP (Connecting Libraries and Schools Project)**: CLASP was a three-year, $3.6 million pilot program initiated in 1991 by the DeWitt Wallace-Reader's Digest Fund to promote collaborative programs among the New York Public Library, New York City public schools, and neighborhood organizations. A total of 107 schools from three NYC school districts and 23 branch libraries were involved. Typical activities included parent workshops, class visits, craft programs, and summer reading clubs. CLASP also purchased 60,928 items to supplement branch collections and issued mini-grants to teachers for special projects. (Small et al. (1994))
 
 ### Claims
@@ -46,7 +46,7 @@ A three-quarter introductory physics curriculum for bioscience majors, developed
 -
 
 ## Key Sources
-- Potter, W., Webb, D., West, E., Paul, C., Bowen, M., Weiss, B., Coleman, L., & De Leone, C. (2018). Sixteen years of Collaborative Learning through Active Sense-making in Physics (CLASP) at UC Davis. https://arxiv.org/abs/1205.6970. [doi:10.48550/arxiv.1205.6970](https://doi.org/10.48550/arxiv.1205.6970)
+- Potter, W., Webb, D., West, E., Paul, C., Bowen, M., Weiss, B., Coleman, L., & De Leone, C. (2012). Sixteen years of Collaborative Learning through Active Sense-making in Physics (CLASP) at UC Davis. https://arxiv.org/abs/1205.6970. [doi:10.48550/arxiv.1205.6970](https://doi.org/10.48550/arxiv.1205.6970)
 - Small, Ruth V.; Katzer, Jeffrey; Eisenberg, Michael B.; McClure, Charles R. (1994). Connecting Libraries and Schools Project (CLASP) Evaluation. Report #7. Final Report. Information Management Consultant Services, Inc. https://eric.ed.gov/?id=ED382199
 
 <!-- merged 2026-10-10 from elements/clasp-course-series-uc-davis ("CLASP course series (Physics 7A/7B/7C): a large-enrollment reformed introductory physics course for bioscience majors"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
@@ -95,7 +95,7 @@ CLASP (Collaborative Learning through Active Sense-making in Physics) is a three
 - [Multi-component TA professional development program for teaching interactive-engagement discussion/labs](../strategies/clasp-ta-professional-development.md)
 
 ## Key Sources
-- Potter, W., Webb, D., West, E., Paul, C., Bowen, M., Weiss, B., Coleman, L., & De Leone, C. (2018). Sixteen years of Collaborative Learning through Active Sense-making in Physics (CLASP) at UC Davis. https://arxiv.org/abs/1205.6970. [doi:10.48550/arxiv.1205.6970](https://doi.org/10.48550/arxiv.1205.6970)
+- Potter, W., Webb, D., West, E., Paul, C., Bowen, M., Weiss, B., Coleman, L., & De Leone, C. (2012). Sixteen years of Collaborative Learning through Active Sense-making in Physics (CLASP) at UC Davis. https://arxiv.org/abs/1205.6970. [doi:10.48550/arxiv.1205.6970](https://doi.org/10.48550/arxiv.1205.6970)
 -->
 
 <!-- merged 2026-10-10 from elements/clasp-library-school-partnership-program ("CLASP (Connecting Libraries and Schools Project)"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.

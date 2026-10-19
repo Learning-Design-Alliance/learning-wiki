@@ -11,32 +11,32 @@ evidence_strength: moderate
 sources:
   - id: muthanna-2021
     resource: "https://doi.org/10.3390/ijerph18052209"
-    title: "Muthanna, Samara; Da Silva Nascimento, Bruna; El-Asam, Aiman; Hammuda, Sara; Khattab, Nabil. (2021). How Can Bullying Victimisation Lead to Lower Academic Achievement? A Systematic Review and Meta-Analysis of the Mediating Role of Cognitive-Motivational Factors. International Journal of Environmental Research and Public Health. [doi:10.3390/ijerph18052209](https://doi.org/10.3390/ijerph18052209)"
-    author: Muthanna, Samara; Da Silva Nascimento, Bruna; El-Asam, Aiman; Hammuda, Sara; Khattab, Nabil
+    title: "Samara, M., Da Silva Nascimento, B., El-Asam, A., Hammuda, S., & Khattab, N. (2021). How Can Bullying Victimisation Lead to Lower Academic Achievement? A Systematic Review and Meta-Analysis of the Mediating Role of Cognitive-Motivational Factors. International Journal of Environmental Research and Public Health, 18(5), 2209. [doi:10.3390/ijerph18052209](https://doi.org/10.3390/ijerph18052209)"
+    author: "Samara, M., Da Silva Nascimento, B., El-Asam, A., Hammuda, S., & Khattab, N."
     q: 3
     i: 1
     kind: quant-synthesis
     rigour: 2
   - id: muthanna-2021-2
     resource: "https://doi.org/10.3390/ijerph18052209"
-    title: "Muthanna, Samara; Da Silva Nascimento, Bruna; El-Asam, Aiman; Hammuda, Sara; Khattab, Nabil. (2021). How Can Bullying Victimisation Lead to Lower Academic Achievement? A Systematic Review and Meta-Analysis of the Mediating Role of Cognitive-Motivational Factors. International Journal of Environmental Research and Public Health. [doi:10.3390/ijerph18052209](https://doi.org/10.3390/ijerph18052209)"
-    author: Muthanna, Samara; Da Silva Nascimento, Bruna; El-Asam, Aiman; Hammuda, Sara; Khattab, Nabil
+    title: "Samara, M., Da Silva Nascimento, B., El-Asam, A., Hammuda, S., & Khattab, N. (2021). How Can Bullying Victimisation Lead to Lower Academic Achievement? A Systematic Review and Meta-Analysis of the Mediating Role of Cognitive-Motivational Factors. International Journal of Environmental Research and Public Health, 18(5), 2209. [doi:10.3390/ijerph18052209](https://doi.org/10.3390/ijerph18052209)"
+    author: "Samara, M., Da Silva Nascimento, B., El-Asam, A., Hammuda, S., & Khattab, N."
     q: 3
     i: "?"
     kind: quant-synthesis
     rigour: 1
   - id: muthanna-2021-3
     resource: "https://doi.org/10.3390/ijerph18052209"
-    title: "Muthanna, Samara; Da Silva Nascimento, Bruna; El-Asam, Aiman; Hammuda, Sara; Khattab, Nabil. (2021). How Can Bullying Victimisation Lead to Lower Academic Achievement? A Systematic Review and Meta-Analysis of the Mediating Role of Cognitive-Motivational Factors. International Journal of Environmental Research and Public Health. [doi:10.3390/ijerph18052209](https://doi.org/10.3390/ijerph18052209)"
-    author: Muthanna, Samara; Da Silva Nascimento, Bruna; El-Asam, Aiman; Hammuda, Sara; Khattab, Nabil
+    title: "Samara, M., Da Silva Nascimento, B., El-Asam, A., Hammuda, S., & Khattab, N. (2021). How Can Bullying Victimisation Lead to Lower Academic Achievement? A Systematic Review and Meta-Analysis of the Mediating Role of Cognitive-Motivational Factors. International Journal of Environmental Research and Public Health, 18(5), 2209. [doi:10.3390/ijerph18052209](https://doi.org/10.3390/ijerph18052209)"
+    author: "Samara, M., Da Silva Nascimento, B., El-Asam, A., Hammuda, S., & Khattab, N."
     q: 3
     i: 1
     kind: quant-synthesis
     rigour: 2
   - id: muthanna-2021-4
     resource: "https://doi.org/10.3390/ijerph18052209"
-    title: "Muthanna, Samara; Da Silva Nascimento, Bruna; El-Asam, Aiman; Hammuda, Sara; Khattab, Nabil. (2021). How Can Bullying Victimisation Lead to Lower Academic Achievement? A Systematic Review and Meta-Analysis of the Mediating Role of Cognitive-Motivational Factors. International Journal of Environmental Research and Public Health. [doi:10.3390/ijerph18052209](https://doi.org/10.3390/ijerph18052209)"
-    author: Muthanna, Samara; Da Silva Nascimento, Bruna; El-Asam, Aiman; Hammuda, Sara; Khattab, Nabil
+    title: "Samara, M., Da Silva Nascimento, B., El-Asam, A., Hammuda, S., & Khattab, N. (2021). How Can Bullying Victimisation Lead to Lower Academic Achievement? A Systematic Review and Meta-Analysis of the Mediating Role of Cognitive-Motivational Factors. International Journal of Environmental Research and Public Health, 18(5), 2209. [doi:10.3390/ijerph18052209](https://doi.org/10.3390/ijerph18052209)"
+    author: "Samara, M., Da Silva Nascimento, B., El-Asam, A., Hammuda, S., & Khattab, N."
     q: 3
     i: "?"
     kind: quant-synthesis
@@ -58,7 +58,7 @@ sources:
 
 ### Muthanna 2021
 
-Muthanna, Samara; Da Silva Nascimento, Bruna; El-Asam, Aiman; Hammuda, Sara; Khattab, Nabil. (2021). How Can Bullying Victimisation Lead to Lower Academic Achievement? A Systematic Review and Meta-Analysis of the Mediating Role of Cognitive-Motivational Factors. International Journal of Environmental Research and Public Health. [doi:10.3390/ijerph18052209](https://doi.org/10.3390/ijerph18052209)
+Samara, M., Da Silva Nascimento, B., El-Asam, A., Hammuda, S., & Khattab, N. (2021). How Can Bullying Victimisation Lead to Lower Academic Achievement? A Systematic Review and Meta-Analysis of the Mediating Role of Cognitive-Motivational Factors. International Journal of Environmental Research and Public Health, 18(5), 2209. [doi:10.3390/ijerph18052209](https://doi.org/10.3390/ijerph18052209)
 
 `q3 · i1` · `quant-synthesis · r2`
 
@@ -68,7 +68,7 @@ Random-effects meta-analysis of the bullying-motivational factor association acr
 
 ### Muthanna 2021 (2)
 
-Muthanna, Samara; Da Silva Nascimento, Bruna; El-Asam, Aiman; Hammuda, Sara; Khattab, Nabil. (2021). How Can Bullying Victimisation Lead to Lower Academic Achievement? A Systematic Review and Meta-Analysis of the Mediating Role of Cognitive-Motivational Factors. International Journal of Environmental Research and Public Health. [doi:10.3390/ijerph18052209](https://doi.org/10.3390/ijerph18052209)
+Samara, M., Da Silva Nascimento, B., El-Asam, A., Hammuda, S., & Khattab, N. (2021). How Can Bullying Victimisation Lead to Lower Academic Achievement? A Systematic Review and Meta-Analysis of the Mediating Role of Cognitive-Motivational Factors. International Journal of Environmental Research and Public Health, 18(5), 2209. [doi:10.3390/ijerph18052209](https://doi.org/10.3390/ijerph18052209)
 
 `q3 · i?` · `quant-synthesis · r1`
 
@@ -78,7 +78,7 @@ Null meta-analytic results for self-concept (k = 3, p = 0.072) and self-efficacy
 
 ### Muthanna 2021 (3)
 
-Muthanna, Samara; Da Silva Nascimento, Bruna; El-Asam, Aiman; Hammuda, Sara; Khattab, Nabil. (2021). How Can Bullying Victimisation Lead to Lower Academic Achievement? A Systematic Review and Meta-Analysis of the Mediating Role of Cognitive-Motivational Factors. International Journal of Environmental Research and Public Health. [doi:10.3390/ijerph18052209](https://doi.org/10.3390/ijerph18052209)
+Samara, M., Da Silva Nascimento, B., El-Asam, A., Hammuda, S., & Khattab, N. (2021). How Can Bullying Victimisation Lead to Lower Academic Achievement? A Systematic Review and Meta-Analysis of the Mediating Role of Cognitive-Motivational Factors. International Journal of Environmental Research and Public Health, 18(5), 2209. [doi:10.3390/ijerph18052209](https://doi.org/10.3390/ijerph18052209)
 
 `q3 · i1` · `quant-synthesis · r2`
 
@@ -88,7 +88,7 @@ Subgroup meta-analysis restricted to victims only. Victims were "significantly l
 
 ### Muthanna 2021 (4)
 
-Muthanna, Samara; Da Silva Nascimento, Bruna; El-Asam, Aiman; Hammuda, Sara; Khattab, Nabil. (2021). How Can Bullying Victimisation Lead to Lower Academic Achievement? A Systematic Review and Meta-Analysis of the Mediating Role of Cognitive-Motivational Factors. International Journal of Environmental Research and Public Health. [doi:10.3390/ijerph18052209](https://doi.org/10.3390/ijerph18052209)
+Samara, M., Da Silva Nascimento, B., El-Asam, A., Hammuda, S., & Khattab, N. (2021). How Can Bullying Victimisation Lead to Lower Academic Achievement? A Systematic Review and Meta-Analysis of the Mediating Role of Cognitive-Motivational Factors. International Journal of Environmental Research and Public Health, 18(5), 2209. [doi:10.3390/ijerph18052209](https://doi.org/10.3390/ijerph18052209)
 
 `q3 · i?` · `quant-synthesis · r1`
 

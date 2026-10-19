@@ -11,8 +11,8 @@ evidence_strength: moderate
 sources:
   - id: muthanna-2021
     resource: "https://doi.org/10.3390/ijerph18052209"
-    title: "Muthanna, Samara; Da Silva Nascimento, Bruna; El-Asam, Aiman; Hammuda, Sara; Khattab, Nabil. (2021). How Can Bullying Victimisation Lead to Lower Academic Achievement? A Systematic Review and Meta-Analysis of the Mediating Role of Cognitive-Motivational Factors. International Journal of Environmental Research and Public Health. [doi:10.3390/ijerph18052209](https://doi.org/10.3390/ijerph18052209)"
-    author: Muthanna, Samara; Da Silva Nascimento, Bruna; El-Asam, Aiman; Hammuda, Sara; Khattab, Nabil
+    title: "Samara, M., Da Silva Nascimento, B., El-Asam, A., Hammuda, S., & Khattab, N. (2021). How Can Bullying Victimisation Lead to Lower Academic Achievement? A Systematic Review and Meta-Analysis of the Mediating Role of Cognitive-Motivational Factors. International Journal of Environmental Research and Public Health, 18(5), 2209. [doi:10.3390/ijerph18052209](https://doi.org/10.3390/ijerph18052209)"
+    author: "Samara, M., Da Silva Nascimento, B., El-Asam, A., Hammuda, S., & Khattab, N."
     q: 3
     i: "?"
     kind: quant-synthesis
@@ -31,7 +31,7 @@ sources:
 
 ### Muthanna 2021
 
-Muthanna, Samara; Da Silva Nascimento, Bruna; El-Asam, Aiman; Hammuda, Sara; Khattab, Nabil. (2021). How Can Bullying Victimisation Lead to Lower Academic Achievement? A Systematic Review and Meta-Analysis of the Mediating Role of Cognitive-Motivational Factors. International Journal of Environmental Research and Public Health. [doi:10.3390/ijerph18052209](https://doi.org/10.3390/ijerph18052209)
+Samara, M., Da Silva Nascimento, B., El-Asam, A., Hammuda, S., & Khattab, N. (2021). How Can Bullying Victimisation Lead to Lower Academic Achievement? A Systematic Review and Meta-Analysis of the Mediating Role of Cognitive-Motivational Factors. International Journal of Environmental Research and Public Health, 18(5), 2209. [doi:10.3390/ijerph18052209](https://doi.org/10.3390/ijerph18052209)
 
 `q3 · i?` · `quant-synthesis · r3`
 

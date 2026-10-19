@@ -164,7 +164,7 @@ Claims bearing on group work that this page did not cite before, read only for t
 - [Majors Background Affects Outcomes](../claims/majors-background-affects-outcomes.md) [+M]
 - [Prior Achievement Affects Conceptual Understanding](../claims/prior-achievement-affects-conceptual-understanding.md) [+M]
 - [In one flipped calculus study, teaching method (peer-teaching versus conventional flipped classroom) and prior achievement level interact on self-efficacy](../claims/method-achievement-interaction-self-efficacy.md) [+W]
-- [Prior achievement level did not significantly affect self-efficacy overall in either flipped classroom method](../claims/prior-achievement-null-self-efficacy.md) [~W]
+- [In one flipped calculus study, prior achievement level had no significant main effect on self-efficacy, although it interacted with teaching method](../claims/prior-achievement-null-self-efficacy.md) [~W]
 
 ## Objective and learner-valued goal
 
@@ -366,7 +366,7 @@ The article recommends that group division in a peer-teaching flipped classroom 
 - [Majors Background Affects Outcomes](../claims/majors-background-affects-outcomes.md) [+M]
 - [Prior Achievement Affects Conceptual Understanding](../claims/prior-achievement-affects-conceptual-understanding.md) [+M]
 - [In one flipped calculus study, teaching method (peer-teaching versus conventional flipped classroom) and prior achievement level interact on self-efficacy](../claims/method-achievement-interaction-self-efficacy.md) [+W]
-- [Prior achievement level did not significantly affect self-efficacy overall in either flipped classroom method](../claims/prior-achievement-null-self-efficacy.md) [~W]
+- [In one flipped calculus study, prior achievement level had no significant main effect on self-efficacy, although it interacted with teaching method](../claims/prior-achievement-null-self-efficacy.md) [~W]
 
 ## Related Principles
 - 

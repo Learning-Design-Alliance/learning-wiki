@@ -54,4 +54,4 @@ A journal article listed on the page as associated research for the school-entry
 -
 
 ## Key Sources
-- Kuhfeld, M., Soland, J., Pitts, C., & Burchinal, M. (2019). Trends in children's academic skills at school entry: 2010 – 2017. NWEA Research. https://www.nwea.org/research/publication/trends-in-childrens-academic-skills-at-school-entry-2010-2017/. [doi:10.3102/0013189x20931078](https://doi.org/10.3102/0013189x20931078)
+- Kuhfeld, M., Soland, J., Pitts, C., & Burchinal, M. (2019). Trends in children's academic skills at school entry: 2010 – 2017. NWEA Research. https://www.nwea.org/research/publication/trends-in-childrens-academic-skills-at-school-entry-2010-2017/.

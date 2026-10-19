@@ -9,7 +9,7 @@ generated:
 sources:
   - id: norman-1972
     resource: "https://eric.ed.gov/?id=ED059585"
-    title: "Norman, D. A.; And Others. (1972). Adaptive Training of Manual Control: 1. Comparison of Three Adaptive Variables and Two Logic Schemes. Life Sciences, Inc. https://eric.ed.gov/?id=ED059585"
+    title: "Norman, D. A.; And Others. (1972). Adaptive Training of Manual Control: 1. Comparison of Three Adaptive Variables and Two Logic Schemes. Life Sciences, Inc. https://eric.ed.gov/?id=ED059585 [doi:10.1037/e426822004-001](https://doi.org/10.1037/e426822004-001)"
     author: Norman, D. A.; And Others
 ---
 
@@ -50,4 +50,4 @@ The effective time constant (te) is a construct embodying machine properties des
 - [Sequence adaptive difficulty by increasing gain first, then lengthening the effective time constant](../principles/adaptive-learning.md)
 
 ## Key Sources
-- Norman, D. A.; And Others. (1972). Adaptive Training of Manual Control: 1. Comparison of Three Adaptive Variables and Two Logic Schemes. Life Sciences, Inc. https://eric.ed.gov/?id=ED059585
+- Norman, D. A.; And Others. (1972). Adaptive Training of Manual Control: 1. Comparison of Three Adaptive Variables and Two Logic Schemes. Life Sciences, Inc. https://eric.ed.gov/?id=ED059585 [doi:10.1037/e426822004-001](https://doi.org/10.1037/e426822004-001)

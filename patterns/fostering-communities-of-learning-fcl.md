@@ -150,7 +150,7 @@ This pattern is scoped to a class or cohort that researches the parts of a share
 - Aronson, E., & Patnoe, S. (2011). *Cooperation in the classroom: The jigsaw method* (3rd ed.). Pinter & Martin.
 - Aronson, E., Wilson, T., & Akert, A. M. (2001). *Social psychology* (4th ed.). Prentice Hall.
 - Slavin, R. E. (1994). *Cooperative learning: Theory, research, and practice* (2nd ed.). Allyn & Bacon.
-- Hattie, J. (2009). *Visible learning*. Routledge. [doi:10.4324/9780203887332](https://doi.org/10.4324/9780203887332)
+- Hattie, J. (2009). *Visible learning: A synthesis of over 800 meta-analyses relating to achievement*. Routledge. [doi:10.4324/9780203887332](https://doi.org/10.4324/9780203887332)
 - Arduini-Van Hoose, N. (2020). Cooperative learning. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
 - Aronson, E., & Patnoe, S. (2011). *Cooperation in the classroom: The jigsaw method*.
 - Aronson, E., & Patnoe, S. (2011). *Cooperation in the classroom* (3rd ed.). Pinter & Martin.

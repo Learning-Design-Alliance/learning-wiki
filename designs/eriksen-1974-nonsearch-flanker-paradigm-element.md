@@ -9,8 +9,8 @@ generated:
   at: 2026-10-17
 sources:
   - id: eriksen-1974
-    resource: "https://doi.org/10.3758/BF03203257"
-    title: "Eriksen, B. A., & Eriksen, C. W. (1974). Effects of noise letters upon the identification of a target letter in a nonsearch task. Perception & Psychophysics, 16(1), 143-149. https://doi.org/10.3758/BF03203257"
+    resource: "https://doi.org/10.3758/BF03203267"
+    title: "Eriksen, B. A., & Eriksen, C. W. (1974). Effects of noise letters upon the identification of a target letter in a nonsearch task. Perception & Psychophysics, 16(1), 143-149. https://doi.org/10.3758/BF03203267"
     author: "Eriksen, B. A., & Eriksen, C. W"
 ---
 
@@ -51,4 +51,4 @@ A tachistoscopic task in which the subject responds with a right or left leverpr
 -
 
 ## Key Sources
-- Eriksen, B. A., & Eriksen, C. W. (1974). Effects of noise letters upon the identification of a target letter in a nonsearch task. Perception & Psychophysics, 16(1), 143-149. https://doi.org/10.3758/BF03203257
+- Eriksen, B. A., & Eriksen, C. W. (1974). Effects of noise letters upon the identification of a target letter in a nonsearch task. Perception & Psychophysics, 16(1), 143-149. https://doi.org/10.3758/BF03203267

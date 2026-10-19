@@ -68,6 +68,6 @@ Lateral reading works because it shifts evaluation from judging a source's self-
 
 ## Key Sources
 - Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: The studies of civic online reasoning. *Teachers College Record, 121*(11), 1–32.
-- Breakstone, J., Smith, M., Ortega, P., Kerr, D., & Wineburg, S. (2021). Students' civic online reasoning: A national portrait. *Educational Researcher, 50*(8), 505-515. [doi:10.3102/0013189x211017495](https://doi.org/10.3102/0013189x211017495)
+- Breakstone, J., Smith, M., Wineburg, S., Rapaport, A., Carle, J., Garland, M., & Saavedra, A. (2021). Students' civic online reasoning: A national portrait. *Educational Researcher, 50*(8), 505-515. [doi:10.3102/0013189x211017495](https://doi.org/10.3102/0013189x211017495)
 - McGrew, S., Breakstone, J., Ortega, T., Richardson, M., & Wineburg, S. (2019). Can students evaluate online sources? Learning from assessments of civic online reasoning. *Theory &amp; Research in Social Education, 46*(2), 165-193. [doi:10.1080/00933104.2017.1416320](https://doi.org/10.1080/00933104.2017.1416320)
 - Wineburg, S., McGrew, S., Breakstone, J., & Ortega, T. (2016). *Evaluating information: The cornerstone of civic online reasoning.* Stanford Digital Repository.

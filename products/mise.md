@@ -11,7 +11,7 @@ generated:
 sources:
   - id: corcoran-2003
     resource: "https://eric.ed.gov/?id=ED480404"
-    title: "Corcoran, Tom. (2003). The Merck Institute for Science Education: A Successful Intermediary for Education Reform. CPRE Research Report Series RR-052. https://eric.ed.gov/?id=ED480404"
+    title: "Corcoran, Tom. (2003). The Merck Institute for Science Education: A Successful Intermediary for Education Reform. CPRE Research Report Series RR-052. https://eric.ed.gov/?id=ED480404 [doi:10.1037/e383112004-001](https://doi.org/10.1037/e383112004-001)"
     author: Corcoran, Tom
 ---
 
@@ -35,7 +35,7 @@ MISE's nine-component systemic reform strategy is a district-level framework for
 -
 
 ## Key Sources
-- Corcoran, Tom. (2003). The Merck Institute for Science Education: A Successful Intermediary for Education Reform. CPRE Research Report Series RR-052. https://eric.ed.gov/?id=ED480404
+- Corcoran, Tom. (2003). The Merck Institute for Science Education: A Successful Intermediary for Education Reform. CPRE Research Report Series RR-052. https://eric.ed.gov/?id=ED480404 [doi:10.1037/e383112004-001](https://doi.org/10.1037/e383112004-001)
 
 <!-- merged 2026-10-10 from theories/mise-systemic-reform-strategy ("MISE's nine-component systemic reform strategy"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 
@@ -76,5 +76,5 @@ MISE's reform theory held that professional development alone would not change p
 - [Redesign workshop structure, content, timing, and location in response to non-participant barriers](../strategies/redesign-pd-to-lower-participation-barriers.md)
 
 ## Key Sources
-- Corcoran, Tom. (2003). The Merck Institute for Science Education: A Successful Intermediary for Education Reform. CPRE Research Report Series RR-052. https://eric.ed.gov/?id=ED480404
+- Corcoran, Tom. (2003). The Merck Institute for Science Education: A Successful Intermediary for Education Reform. CPRE Research Report Series RR-052. https://eric.ed.gov/?id=ED480404 [doi:10.1037/e383112004-001](https://doi.org/10.1037/e383112004-001)
 -->

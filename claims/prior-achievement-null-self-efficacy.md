@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Prior achievement level did not significantly affect self-efficacy overall in either flipped classroom method
-description: Prior achievement level did not significantly affect self-efficacy overall in either flipped classroom method
+title: In one flipped calculus study, prior achievement level had no significant main effect on self-efficacy, although it interacted with teaching method
+description: In one flipped calculus study, prior achievement level had no significant main effect on self-efficacy, although it interacted with teaching method
 id: prior-achievement-null-self-efficacy
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 2
 ---
 
-# Prior achievement level did not significantly affect self-efficacy overall in either flipped classroom method
+# In one flipped calculus study, prior achievement level had no significant main effect on self-efficacy, although it interacted with teaching method
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`

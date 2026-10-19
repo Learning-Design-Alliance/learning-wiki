@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: trout-2022
-    resource: "https://doi.org/10.3102/1882099"
-    title: "Trout, L., Pate, C., Wu, K., & McKenna, J. (2022). Reimagining school safety: A guide for schools and communities. WestEd. https://eric.ed.gov/?id=ED628885 [doi:10.3102/1882099](https://doi.org/10.3102/1882099)"
+    resource: "https://eric.ed.gov/?id=ED628885"
+    title: "Trout, L., Pate, C., Wu, K., & McKenna, J. (2022). Reimagining school safety: A guide for schools and communities. WestEd. https://eric.ed.gov/?id=ED628885"
     author: "Trout, L., Pate, C., Wu, K., & McKenna, J."
     q: 2
     i: "?"
@@ -40,7 +40,7 @@ sources:
 
 ### Trout 2022
 
-Trout, L., Pate, C., Wu, K., & McKenna, J. (2022). Reimagining school safety: A guide for schools and communities. WestEd. https://eric.ed.gov/?id=ED628885 [doi:10.3102/1882099](https://doi.org/10.3102/1882099)
+Trout, L., Pate, C., Wu, K., & McKenna, J. (2022). Reimagining school safety: A guide for schools and communities. WestEd. https://eric.ed.gov/?id=ED628885
 
 `q2 · i?` · `theoretical · r2`
 

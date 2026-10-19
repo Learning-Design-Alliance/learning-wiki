@@ -9,17 +9,17 @@ generated:
   at: 2026-10-08
 evidence_strength: moderate
 sources:
-  - id: jennie-y-jiang-2015
+  - id: jennie-y-jiang-2014
     resource: "https://www.cps.edu/Pages/reachstudents.aspx"
-    title: "Jennie Y. Jiang, Susan E. Sporte, Stuart Luppescu. (2015). Analytic Memo: Evaluation Data from the First Year of REACH. Consortium on Chicago School Research. https://www.cps.edu/Pages/reachstudents.aspx"
+    title: "Jennie Y. Jiang, Susan E. Sporte, Stuart Luppescu. (2014). Analytic Memo: Evaluation Data from the First Year of REACH. Consortium on Chicago School Research. https://www.cps.edu/Pages/reachstudents.aspx"
     author: Jennie Y. Jiang, Susan E. Sporte, Stuart Luppescu
     q: 2
     i: "?"
     kind: associational
     rigour: 2
-  - id: jennie-y-jiang-2015-2
+  - id: jennie-y-jiang-2014-2
     resource: "https://www.cps.edu/Pages/reachstudents.aspx"
-    title: "Jennie Y. Jiang, Susan E. Sporte, Stuart Luppescu. (2015). Analytic Memo: Evaluation Data from the First Year of REACH. Consortium on Chicago School Research. https://www.cps.edu/Pages/reachstudents.aspx"
+    title: "Jennie Y. Jiang, Susan E. Sporte, Stuart Luppescu. (2014). Analytic Memo: Evaluation Data from the First Year of REACH. Consortium on Chicago School Research. https://www.cps.edu/Pages/reachstudents.aspx"
     author: Jennie Y. Jiang, Susan E. Sporte, Stuart Luppescu
     q: 2
     i: "?"
@@ -33,14 +33,14 @@ sources:
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
-`q2 i?` Almost all teachers received high performance task scores: over 20 percent topped out at 4.0 and 74 percent received 3.0 or greater. [→ Jennie Y. Jiang 2015](#jennie-y-jiang-2015)
-`q2 i?` Thirty-six percent of teachers received the default score of 3.12 on performance tasks due to incomplete or missing data. [→ Jennie Y. Jiang 2015 (2)](#jennie-y-jiang-2015-2)
+`q2 i?` Almost all teachers received high performance task scores: over 20 percent topped out at 4.0 and 74 percent received 3.0 or greater. [→ Jennie Y. Jiang 2014](#jennie-y-jiang-2014)
+`q2 i?` Thirty-six percent of teachers received the default score of 3.12 on performance tasks due to incomplete or missing data. [→ Jennie Y. Jiang 2014 (2)](#jennie-y-jiang-2014-2)
 
 ## Evidence
 
-### Jennie Y. Jiang 2015
+### Jennie Y. Jiang 2014
 
-Jennie Y. Jiang, Susan E. Sporte, Stuart Luppescu. (2015). Analytic Memo: Evaluation Data from the First Year of REACH. Consortium on Chicago School Research. https://www.cps.edu/Pages/reachstudents.aspx
+Jennie Y. Jiang, Susan E. Sporte, Stuart Luppescu. (2014). Analytic Memo: Evaluation Data from the First Year of REACH. Consortium on Chicago School Research. https://www.cps.edu/Pages/reachstudents.aspx
 
 `q2 · i?` · `associational · r2`
 
@@ -48,9 +48,9 @@ District-wide descriptive analysis of over 11,000 teachers' performance task sco
 
 > "Over 20 percent of teachers with performance task scores "topped out" at the highest performance level, receiving the highest possible score of 4.0; 74 percent received a 3.0 or greater"
 
-### Jennie Y. Jiang 2015 (2)
+### Jennie Y. Jiang 2014 (2)
 
-Jennie Y. Jiang, Susan E. Sporte, Stuart Luppescu. (2015). Analytic Memo: Evaluation Data from the First Year of REACH. Consortium on Chicago School Research. https://www.cps.edu/Pages/reachstudents.aspx
+Jennie Y. Jiang, Susan E. Sporte, Stuart Luppescu. (2014). Analytic Memo: Evaluation Data from the First Year of REACH. Consortium on Chicago School Research. https://www.cps.edu/Pages/reachstudents.aspx
 
 `q2 · i?` · `associational · r2`
 

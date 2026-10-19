@@ -22,9 +22,9 @@ sources:
     resource: "https://doi.org/10.2196/104397"
     title: "Kakimoto Akihiro, Fujise Daisuke, Watanabe Shota, Otaka Yutaka, Minemoto Sakura, Yasumatsu Ayaka, Hasegawa Shin. (2026). Development and Educational Evaluation of a Radiation Visualization System in a Virtual Reality Training Module for Radiopharmaceutical Administration: Mixed Methods Study of Students’ Learning Experiences. JMIR Medical Education. https://doi.org/10.2196/104397"
     author: Kakimoto Akihiro, Fujise Daisuke, Watanabe Shota, Otaka Yutaka, Minemoto Sakura, Yasumatsu Ayaka, Hasegawa Shin
-  - id: crumley-2015
+  - id: crumley-2007
     resource: "https://arxiv.org/abs/0706.1985"
-    title: "Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985"
+    title: "Crumley, Palczewski, and Kaster. (2007). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985"
     author: Crumley, Palczewski, and Kaster
 ---
 
@@ -298,7 +298,7 @@ Assisted performance, unaided immediate performance, delayed retention, transfer
 - Land, Susan M.; Hannafin, Michael J. (1996). Student-Centered Learning Environments: Foundations, Assumptions, and Implications. https://eric.ed.gov/?id=ED397810
 - Loo Kang WEE. (2015). One-Dimensional Collision Carts Computer Model and its Design Ideas for Productive Experiential Learning. http://iwant2study.org/ospsg/index.php/interactive-resources/physics/02-newtonian-mechanics/02-dynamics/46-one-dimension-collision-js-model
 - Kakimoto Akihiro, Fujise Daisuke, Watanabe Shota, Otaka Yutaka, Minemoto Sakura, Yasumatsu Ayaka, Hasegawa Shin. (2026). Development and Educational Evaluation of a Radiation Visualization System in a Virtual Reality Training Module for Radiopharmaceutical Administration: Mixed Methods Study of Students’ Learning Experiences. JMIR Medical Education. https://doi.org/10.2196/104397
-- Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985. [doi:10.48550/arxiv.0706.1985](https://doi.org/10.48550/arxiv.0706.1985)
+- Crumley, Palczewski, and Kaster. (2007). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985. [doi:10.48550/arxiv.0706.1985](https://doi.org/10.48550/arxiv.0706.1985)
 
 <!-- deprecated 2026-10-14: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -604,5 +604,5 @@ The authors argue that in space physics simulation and observations build upon o
 - [Open-ended data-interpretation task in which students define their own standards for locating a boundary in simulation results](../designs/open-ended-standard-defining-magnetopause-lab.md)
 
 ## Key Sources
-- Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985. [doi:10.48550/arxiv.0706.1985](https://doi.org/10.48550/arxiv.0706.1985)
+- Crumley, Palczewski, and Kaster. (2007). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985. [doi:10.48550/arxiv.0706.1985](https://doi.org/10.48550/arxiv.0706.1985)
 -->

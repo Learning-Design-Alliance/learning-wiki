@@ -11,8 +11,8 @@ evidence_strength: weak
 sources:
   - id: clark-1991
     resource: "https://doi.org/10.1007/BF01320076"
-    title: "Clark, J.M., Paivio, A. Dual coding theory and education. Educ Psychol Rev 3, 149–210 (1991). https://doi.org/10.1007/BF01320076"
-    author: Clark, J.M., Paivio, A. Dual coding theory and education. Educ Psychol Rev 3, 149–210
+    title: "Clark, J. M., & Paivio, A. (1991). Dual coding theory and education. *Educational Psychology Review, 3*(3), 149–210. [doi:10.1007/bf01320076](https://doi.org/10.1007/bf01320076)"
+    author: Clark, J. M., & Paivio, A.
     q: 2
     i: "?"
     kind: theoretical
@@ -31,7 +31,7 @@ sources:
 
 ### Clark 1991
 
-Clark, J.M., Paivio, A. Dual coding theory and education. Educ Psychol Rev 3, 149–210 (1991). https://doi.org/10.1007/BF01320076
+Clark, J. M., & Paivio, A. (1991). Dual coding theory and education. *Educational Psychology Review, 3*(3), 149–210. [doi:10.1007/bf01320076](https://doi.org/10.1007/bf01320076)
 
 `q2 · i?` · `theoretical · r2`
 

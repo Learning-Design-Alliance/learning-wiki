@@ -88,10 +88,10 @@ SIFT operationalizes the observed practices of professional fact-checkers, who s
 ## Key Sources
 - Caulfield, M. (2019). *SIFT: The four moves*. Hapgood. https://hapgood.us/2019/06/19/sift-the-four-moves/
 - Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading college and professional fact-checkers. *Teachers College Record, 121*(11), 1–40.
-- Breakstone, J., Smith, M., Orland, M., Barr, D., & Wineburg, S. (2021). Students' civic online reasoning: A national portrait. *Educational Researcher, 50*(8), 505-515. [doi:10.3102/0013189x211017495](https://doi.org/10.3102/0013189x211017495)
+- Breakstone, J., Smith, M., Wineburg, S., Rapaport, A., Carle, J., Garland, M., & Saavedra, A. (2021). Students' civic online reasoning: A national portrait. *Educational Researcher, 50*(8), 505-515. [doi:10.3102/0013189x211017495](https://doi.org/10.3102/0013189x211017495)
 - McGrew, S., Breakstone, J., Ortega, T., Smith, M., & Wineburg, S. (2018). Can students evaluate online sources? Learning from assessments of civic online reasoning. *Theory &amp; Research in Social Education, 46*(2), 165-193. [doi:10.1080/00933104.2017.1416320](https://doi.org/10.1080/00933104.2017.1416320)
 - Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading less and learning more when evaluating digital information. *Teachers College Record, 121*(11), 1–40. [doi:10.1177/016146811912101102](https://doi.org/10.1177/016146811912101102)
-- Breakstone, J., Smith, M., Wineburg, S., Wilson, A., Kahan, A., & Lin, T.-B. (2021). Students' civic online reasoning: A national portrait. *Educational Researcher, 50*(8), 505–515. [doi:10.3102/0013189x211017495](https://doi.org/10.3102/0013189x211017495)
+- Breakstone, J., Smith, M., Wineburg, S., Rapaport, A., Carle, J., Garland, M., & Saavedra, A. (2021). Students' civic online reasoning: A national portrait. *Educational Researcher, 50*(8), 505–515. [doi:10.3102/0013189x211017495](https://doi.org/10.3102/0013189x211017495)
 - Caulfield, M. (2019). *SIFT: The four moves*. Hapgood. [https://hapgood.us/2019/06/19/sift-the-four-moves/](https://hapgood.us/2019/06/19/sift-the-four-moves/)
 - McGrew, S. (2020). Teaching during a fake news crisis: A model of lateral reading intervention. *Reading Research Quarterly, 55*(4), 679–697.
 
@@ -157,7 +157,7 @@ SIFT operationalizes the professional fact-checking practices documented by Wine
 
 ## Key Sources
 - Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading less and learning more when evaluating digital information. *Teachers College Record, 121*(11), 1–40. [doi:10.1177/016146811912101102](https://doi.org/10.1177/016146811912101102)
-- Breakstone, J., Smith, M., Wineburg, S., Wilson, A., Kahan, A., & Lin, T.-B. (2021). Students' civic online reasoning: A national portrait. *Educational Researcher, 50*(8), 505–515. [doi:10.3102/0013189x211017495](https://doi.org/10.3102/0013189x211017495)
+- Breakstone, J., Smith, M., Wineburg, S., Rapaport, A., Carle, J., Garland, M., & Saavedra, A. (2021). Students' civic online reasoning: A national portrait. *Educational Researcher, 50*(8), 505–515. [doi:10.3102/0013189x211017495](https://doi.org/10.3102/0013189x211017495)
 - Caulfield, M. (2019). *SIFT: The four moves*. Hapgood. [https://hapgood.us/2019/06/19/sift-the-four-moves/](https://hapgood.us/2019/06/19/sift-the-four-moves/)
 - McGrew, S. (2020). Teaching during a fake news crisis: A model of lateral reading intervention. *Reading Research Quarterly, 55*(4), 679–697.
 -->

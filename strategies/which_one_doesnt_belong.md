@@ -72,5 +72,5 @@ Comparison is one of the most robust mechanisms for early concept learning: cont
 ## Key Sources
 - Rittle-Johnson, B., & Star, J. R. (2007). Does comparing solution methods facilitate conceptual and procedural knowledge? An experimental study on learning to solve equations. *Journal of Educational Psychology, 99*(3), 561–574. [doi:10.1037/0022-0663.99.3.561](https://doi.org/10.1037/0022-0663.99.3.561)
 - Alfieri, L., Nokes-Malach, T. J., & Schunn, C. D. (2013). Learning through case comparisons: A meta-analytic review. *Educational Psychologist, 48*(2), 87–113. [doi:10.1080/00461520.2013.775712](https://doi.org/10.1080/00461520.2013.775712)
-- Clements, D. H., & Sarama, J. (2020). Learning and teaching early math: The learning trajectories approach (3rd ed.). Routledge. [doi:10.4324/9780203520574](https://doi.org/10.4324/9780203520574)
+- Clements, D. H., & Sarama, J. (2020). Learning and teaching early math: The learning trajectories approach (3rd ed.). Routledge. [doi:10.4324/9781003083528](https://doi.org/10.4324/9781003083528)
 - Danielson, C. (2016). *Which one doesn't belong? A shapes book.* Stenhouse Publishers.

@@ -10,7 +10,7 @@ generated:
 sources:
   - id: meyer-2026
     resource: "https://edworkingpapers.com/ai22-564"
-    title: "Meyer, Katharine, Lindsay C. Page, Catherine Mata, Eric N. Smith, B. Tyler Walsh, C. Lindsey Fifield, Michelle Tyson, Amy Eremionkhale, Michael Evans, Shelby Frost, and Eye Eoun Jung. (2026). Let's Chat: Leveraging Chatbot Outreach for Improved Course Performance. (EdWorkingPaper: 22-564). https://edworkingpapers.com/ai22-564"
+    title: "Meyer, Katharine, Lindsay C. Page, Catherine Mata, Eric N. Smith, B. Tyler Walsh, C. Lindsey Fifield, Michelle Tyson, Amy Eremionkhale, Michael Evans, Shelby Frost, and Eye Eoun Jung. (2026). Let's Chat: Leveraging Chatbot Outreach for Improved Course Performance. (EdWorkingPaper: 22-564). https://edworkingpapers.com/ai22-564 [doi:10.3386/w35397](https://doi.org/10.3386/w35397)"
     author: Meyer, Katharine, Lindsay C. Page, Catherine Mata, Eric N. Smith, B. Tyler Walsh, C. Lindsey Fifield, Michelle Tyson, Amy Eremionkhale, Michael Evans, Shelby Frost, and Eye Eoun Jung
 ---
 
@@ -52,4 +52,4 @@ A text-based chatbot with non-generative AI capability that sent 2-3 scheduled, 
 -
 
 ## Key Sources
-- Meyer, Katharine, Lindsay C. Page, Catherine Mata, Eric N. Smith, B. Tyler Walsh, C. Lindsey Fifield, Michelle Tyson, Amy Eremionkhale, Michael Evans, Shelby Frost, and Eye Eoun Jung. (2026). Let's Chat: Leveraging Chatbot Outreach for Improved Course Performance. (EdWorkingPaper: 22-564). https://edworkingpapers.com/ai22-564
+- Meyer, Katharine, Lindsay C. Page, Catherine Mata, Eric N. Smith, B. Tyler Walsh, C. Lindsey Fifield, Michelle Tyson, Amy Eremionkhale, Michael Evans, Shelby Frost, and Eye Eoun Jung. (2026). Let's Chat: Leveraging Chatbot Outreach for Improved Course Performance. (EdWorkingPaper: 22-564). https://edworkingpapers.com/ai22-564 [doi:10.3386/w35397](https://doi.org/10.3386/w35397)

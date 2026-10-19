@@ -7,9 +7,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 sources:
-  - id: kaygısız-2018
+  - id: kaygısız-2020
     resource: "https://doi.org/10.33828/sei.v31.i1.12"
-    title: "Kaygısız, G.M., Uygun, N., & Uçar, F.M. (2018). The Relationship between the Levels of Self-efficacy Beliefs of Pre-service Teachers and their Levels of Determining Suitable Taxonomy, Strategy, and Method-technique for Science Objectives. Science Education International 31(1), 117-126. https://doi.org/10.33828/sei.v31.i1.12"
+    title: "Kaygısız, G.M., Uygun, N., & Uçar, F.M. (2020). The Relationship between the Levels of Self-efficacy Beliefs of Pre-service Teachers and their Levels of Determining Suitable Taxonomy, Strategy, and Method-technique for Science Objectives. Science Education International 31(1), 117-126. https://doi.org/10.33828/sei.v31.i1.12"
     author: "Kaygısız, G.M., Uygun, N., & Uçar, F.M"
 ---
 
@@ -45,4 +45,4 @@ The article frames teacher self-efficacy within Bandura's social learning theory
 -
 
 ## Key Sources
-- Kaygısız, G.M., Uygun, N., & Uçar, F.M. (2018). The Relationship between the Levels of Self-efficacy Beliefs of Pre-service Teachers and their Levels of Determining Suitable Taxonomy, Strategy, and Method-technique for Science Objectives. Science Education International 31(1), 117-126. https://doi.org/10.33828/sei.v31.i1.12
+- Kaygısız, G.M., Uygun, N., & Uçar, F.M. (2020). The Relationship between the Levels of Self-efficacy Beliefs of Pre-service Teachers and their Levels of Determining Suitable Taxonomy, Strategy, and Method-technique for Science Objectives. Science Education International 31(1), 117-126. https://doi.org/10.33828/sei.v31.i1.12

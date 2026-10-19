@@ -11,7 +11,7 @@ evidence_strength: moderate
 sources:
   - id: houck-2011
     resource: "https://doi.org/10.1016/j.pedn.2010.02.004"
-    title: "Houck, G., Kendall, J., Miller, A., Morrell, P., & Wiebe, G. (2011). Self Concept in Children and Adolescents with ADHD. Journal of Pediatric Nursing, 26(3), 239-247. [doi:10.1016/j.pedn.2010.02.004](https://doi.org/10.1016/j.pedn.2010.02.004)"
+    title: "Houck, G., Kendall, J., Miller, A., Morrell, P., & Wiebe, G. (2011). Self-concept in children and adolescents with attention deficit hyperactivity disorder. Journal of Pediatric Nursing, 26(3), 239-247. [doi:10.1016/j.pedn.2010.02.004](https://doi.org/10.1016/j.pedn.2010.02.004)"
     author: "Houck, G., Kendall, J., Miller, A., Morrell, P., & Wiebe, G."
     q: 2
     i: 2
@@ -19,7 +19,7 @@ sources:
     rigour: "?"
   - id: houck-2011-2
     resource: "https://doi.org/10.1016/j.pedn.2010.02.004"
-    title: "Houck, G., Kendall, J., Miller, A., Morrell, P., & Wiebe, G. (2011). Self Concept in Children and Adolescents with ADHD. Journal of Pediatric Nursing, 26(3), 239-247. [doi:10.1016/j.pedn.2010.02.004](https://doi.org/10.1016/j.pedn.2010.02.004)"
+    title: "Houck, G., Kendall, J., Miller, A., Morrell, P., & Wiebe, G. (2011). Self-concept in children and adolescents with attention deficit hyperactivity disorder. Journal of Pediatric Nursing, 26(3), 239-247. [doi:10.1016/j.pedn.2010.02.004](https://doi.org/10.1016/j.pedn.2010.02.004)"
     author: "Houck, G., Kendall, J., Miller, A., Morrell, P., & Wiebe, G."
     q: 2
     i: "?"
@@ -40,7 +40,7 @@ sources:
 
 ### Houck 2011
 
-Houck, G., Kendall, J., Miller, A., Morrell, P., & Wiebe, G. (2011). Self Concept in Children and Adolescents with ADHD. Journal of Pediatric Nursing, 26(3), 239-247. [doi:10.1016/j.pedn.2010.02.004](https://doi.org/10.1016/j.pedn.2010.02.004)
+Houck, G., Kendall, J., Miller, A., Morrell, P., & Wiebe, G. (2011). Self-concept in children and adolescents with attention deficit hyperactivity disorder. Journal of Pediatric Nursing, 26(3), 239-247. [doi:10.1016/j.pedn.2010.02.004](https://doi.org/10.1016/j.pedn.2010.02.004)
 
 `q2 · i2` · `associational · r?`
 
@@ -50,7 +50,7 @@ Correlation analysis in a descriptive correlational secondary analysis of 145 ch
 
 ### Houck 2011 (2)
 
-Houck, G., Kendall, J., Miller, A., Morrell, P., & Wiebe, G. (2011). Self Concept in Children and Adolescents with ADHD. Journal of Pediatric Nursing, 26(3), 239-247. [doi:10.1016/j.pedn.2010.02.004](https://doi.org/10.1016/j.pedn.2010.02.004)
+Houck, G., Kendall, J., Miller, A., Morrell, P., & Wiebe, G. (2011). Self-concept in children and adolescents with attention deficit hyperactivity disorder. Journal of Pediatric Nursing, 26(3), 239-247. [doi:10.1016/j.pedn.2010.02.004](https://doi.org/10.1016/j.pedn.2010.02.004)
 
 `q2 · i?` · `associational · r?`
 

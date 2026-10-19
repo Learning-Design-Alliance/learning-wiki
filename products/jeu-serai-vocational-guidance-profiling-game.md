@@ -31,4 +31,4 @@ JEU SERAI is a serious game developed by a consortium of two companies, two univ
 -
 
 ## Key Sources
-- Guardiola, E., & Natkin, S. (2015). A Game Design Methodology for Generating a Psychological Profile of Players. In Serious Games Analytics, Methodologies for Performance Measurement, Assessment, and Improvement. Springer. https://doi.org/10.1007/978-3-319-05834-4
+- Guardiola, E., & Natkin, S. (2015). A Game Design Methodology for Generating a Psychological Profile of Players. In Serious Games Analytics, Methodologies for Performance Measurement, Assessment, and Improvement. Springer. https://doi.org/10.1007/978-3-319-05834-4_16

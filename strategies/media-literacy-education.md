@@ -74,6 +74,6 @@ Media literacy instruction works best when it teaches specific, transferable eva
 
 ## Key Sources
 - Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading college and professional fact-checkers. *Teachers College Record, 121*(4), 1–40.
-- Breakstone, J., Smith, M., Ortega, P., Kerr, D., & Wineburg, S. (2021). Students' civic online reasoning: A national portrait. *Educational Researcher, 50*(8), 505–515. [doi:10.3102/0013189x211017495](https://doi.org/10.3102/0013189x211017495)
+- Breakstone, J., Smith, M., Wineburg, S., Rapaport, A., Carle, J., Garland, M., & Saavedra, A. (2021). Students' civic online reasoning: A national portrait. *Educational Researcher, 50*(8), 505–515. [doi:10.3102/0013189x211017495](https://doi.org/10.3102/0013189x211017495)
 - Hobbs, R. (2010). *Digital and media literacy: A plan of action*. The Aspen Institute.
 - Kellner, D., & Share, J. (2007). Critical media literacy is not an option. *Learning Inquiry, 1*(1), 59–69. [doi:10.1007/s11519-007-0004-2](https://doi.org/10.1007/s11519-007-0004-2)

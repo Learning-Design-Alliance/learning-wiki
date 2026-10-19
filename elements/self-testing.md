@@ -11,7 +11,7 @@ generated:
 sources:
   - id: roediger-2006
     resource: "https://doi.org/10.1111/j.1467-9280.2006.01693.x"
-    title: "Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning. *Psychological Science, 17*(3), 249-255"
+    title: "Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249-255"
     author: "Roediger, H. L., & Karpicke, J. D"
 ---
 
@@ -70,4 +70,4 @@ Self-testing is the element in which learners quiz themselves or otherwise attem
 - Learners answer quick checks on their own before class discussion or review.
 
 ## Key Sources
-- Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning. *Psychological Science, 17*(3), 249-255. [https://doi.org/10.1111/j.1467-9280.2006.01693.x](https://doi.org/10.1111/j.1467-9280.2006.01693.x)
+- Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249-255. [https://doi.org/10.1111/j.1467-9280.2006.01693.x](https://doi.org/10.1111/j.1467-9280.2006.01693.x)

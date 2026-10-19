@@ -11,7 +11,7 @@ evidence_strength: moderate
 sources:
   - id: sijmkens-2024
     resource: "https://doi.org/10.1007/s11409-023-09363-w"
-    title: "Sijmkens, E., De Cock, M., & De Laet, T. (2024). Scaffolding Students' Use of Metacognitive Activities Using Discipline- and Topic-Specific Reflective Prompts. https://doi.org/10.1007/s11409-023-09363-w"
+    title: "Sijmkens, E., De Cock, M., & De Laet, T. (2023). Scaffolding Students' Use of Metacognitive Activities Using Discipline- and Topic-Specific Reflective Prompts. *Metacognition and Learning, 18*(3), 811–843. https://doi.org/10.1007/s11409-023-09363-w"
     author: "Sijmkens, E., De Cock, M., & De Laet, T."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Sijmkens 2024
 
-Sijmkens, E., De Cock, M., & De Laet, T. (2024). Scaffolding Students' Use of Metacognitive Activities Using Discipline- and Topic-Specific Reflective Prompts. https://doi.org/10.1007/s11409-023-09363-w
+Sijmkens, E., De Cock, M., & De Laet, T. (2023). Scaffolding Students' Use of Metacognitive Activities Using Discipline- and Topic-Specific Reflective Prompts. *Metacognition and Learning, 18*(3), 811–843. https://doi.org/10.1007/s11409-023-09363-w
 
 `q2 · i?` · `associational · r2`
 

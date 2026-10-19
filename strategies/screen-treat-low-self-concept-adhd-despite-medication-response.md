@@ -9,7 +9,7 @@ generated:
   at: 2026-10-17
 sources:
   - id: houck-2011
-    title: "Houck, G., Kendall, J., Miller, A., Morrell, P., & Wiebe, G. (2011). Self Concept in Children and Adolescents with ADHD. Journal of Pediatric Nursing, 26(3), 239-247."
+    title: "Houck, G., Kendall, J., Miller, A., Morrell, P., & Wiebe, G. (2011). Self-concept in children and adolescents with attention deficit hyperactivity disorder. Journal of Pediatric Nursing, 26(3), 239-247. [doi:10.1016/j.pedn.2010.02.004](https://doi.org/10.1016/j.pedn.2010.02.004)"
     author: "Houck, G., Kendall, J., Miller, A., Morrell, P., & Wiebe, G"
 ---
 
@@ -52,4 +52,4 @@ The authors recommend that clinicians address self-concept directly as part of A
 -
 
 ## Key Sources
-- Houck, G., Kendall, J., Miller, A., Morrell, P., & Wiebe, G. (2011). Self Concept in Children and Adolescents with ADHD. Journal of Pediatric Nursing, 26(3), 239-247.
+- Houck, G., Kendall, J., Miller, A., Morrell, P., & Wiebe, G. (2011). Self-concept in children and adolescents with attention deficit hyperactivity disorder. Journal of Pediatric Nursing, 26(3), 239-247. [doi:10.1016/j.pedn.2010.02.004](https://doi.org/10.1016/j.pedn.2010.02.004)

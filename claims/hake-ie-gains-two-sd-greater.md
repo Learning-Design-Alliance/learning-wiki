@@ -9,9 +9,9 @@ generated:
   at: 2026-09-25
 evidence_strength: weak
 sources:
-  - id: lei-bao-2006
+  - id: lei-bao-2007
     resource: "https://doi.org/10.48550/arxiv.0710.1375"
-    title: "Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/0710.1375 [doi:10.48550/arxiv.0710.1375](https://doi.org/10.48550/arxiv.0710.1375)"
+    title: "Lei Bao. (2007). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/0710.1375 [doi:10.48550/arxiv.0710.1375](https://doi.org/10.48550/arxiv.0710.1375)"
     author: Lei Bao
     q: 2
     i: 2
@@ -25,13 +25,13 @@ sources:
 > **Evidence** · 1 study · theoretical `r3` · `q2` · `i2` medium
 
 ## Subclaims
-`q2 i2` Across 62 courses and N = 6542 students, interactive engagement courses' average normalized gains were about two standard deviations greater than traditional courses', and the correlation of average gains with pretest scores was +0.02. [→ Lei Bao 2006](#lei-bao-2006)
+`q2 i2` Across 62 courses and N = 6542 students, interactive engagement courses' average normalized gains were about two standard deviations greater than traditional courses', and the correlation of average gains with pretest scores was +0.02. [→ Lei Bao 2007](#lei-bao-2007)
 
 ## Evidence
 
-### Lei Bao 2006
+### Lei Bao 2007
 
-Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/0710.1375 [doi:10.48550/arxiv.0710.1375](https://doi.org/10.48550/arxiv.0710.1375)
+Lei Bao. (2007). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/0710.1375 [doi:10.48550/arxiv.0710.1375](https://doi.org/10.48550/arxiv.0710.1375)
 
 `q2 · i2` · `theoretical · r3`
 

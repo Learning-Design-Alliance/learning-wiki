@@ -9,17 +9,17 @@ generated:
   at: 2026-10-08
 evidence_strength: moderate
 sources:
-  - id: jennie-y-jiang-2015
+  - id: jennie-y-jiang-2014
     resource: "https://www.cps.edu/Pages/reachstudents.aspx"
-    title: "Jennie Y. Jiang, Susan E. Sporte, Stuart Luppescu. (2015). Analytic Memo: Evaluation Data from the First Year of REACH. Consortium on Chicago School Research. https://www.cps.edu/Pages/reachstudents.aspx"
+    title: "Jennie Y. Jiang, Susan E. Sporte, Stuart Luppescu. (2014). Analytic Memo: Evaluation Data from the First Year of REACH. Consortium on Chicago School Research. https://www.cps.edu/Pages/reachstudents.aspx"
     author: Jennie Y. Jiang, Susan E. Sporte, Stuart Luppescu
     q: 2
     i: "?"
     kind: associational
     rigour: 2
-  - id: jennie-y-jiang-2015-2
+  - id: jennie-y-jiang-2014-2
     resource: "https://www.cps.edu/Pages/reachstudents.aspx"
-    title: "Jennie Y. Jiang, Susan E. Sporte, Stuart Luppescu. (2015). Analytic Memo: Evaluation Data from the First Year of REACH. Consortium on Chicago School Research. https://www.cps.edu/Pages/reachstudents.aspx"
+    title: "Jennie Y. Jiang, Susan E. Sporte, Stuart Luppescu. (2014). Analytic Memo: Evaluation Data from the First Year of REACH. Consortium on Chicago School Research. https://www.cps.edu/Pages/reachstudents.aspx"
     author: Jennie Y. Jiang, Susan E. Sporte, Stuart Luppescu
     q: 2
     i: "?"
@@ -33,14 +33,14 @@ sources:
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
-`q2 i?` About 3 percent of principals were muted (awarding nearly the same rating regardless of component difficulty) and about 5 percent were erratic. [→ Jennie Y. Jiang 2015](#jennie-y-jiang-2015)
-`q2 i?` In a sample of 46 principals, fewer than ten percent were more than half a rating point more severe or lenient than average; specialists were more severe than principals. [→ Jennie Y. Jiang 2015 (2)](#jennie-y-jiang-2015-2)
+`q2 i?` About 3 percent of principals were muted (awarding nearly the same rating regardless of component difficulty) and about 5 percent were erratic. [→ Jennie Y. Jiang 2014](#jennie-y-jiang-2014)
+`q2 i?` In a sample of 46 principals, fewer than ten percent were more than half a rating point more severe or lenient than average; specialists were more severe than principals. [→ Jennie Y. Jiang 2014 (2)](#jennie-y-jiang-2014-2)
 
 ## Evidence
 
-### Jennie Y. Jiang 2015
+### Jennie Y. Jiang 2014
 
-Jennie Y. Jiang, Susan E. Sporte, Stuart Luppescu. (2015). Analytic Memo: Evaluation Data from the First Year of REACH. Consortium on Chicago School Research. https://www.cps.edu/Pages/reachstudents.aspx
+Jennie Y. Jiang, Susan E. Sporte, Stuart Luppescu. (2014). Analytic Memo: Evaluation Data from the First Year of REACH. Consortium on Chicago School Research. https://www.cps.edu/Pages/reachstudents.aspx
 
 `q2 · i?` · `associational · r2`
 
@@ -48,9 +48,9 @@ Analysis of all 2012-13 observation data for unusual rating patterns: "About 3 p
 
 > "About 3 percent of principals were found to be "muted," meaning that a principal would award almost the same rating to all teachers, regardless of the component difficulty."
 
-### Jennie Y. Jiang 2015 (2)
+### Jennie Y. Jiang 2014 (2)
 
-Jennie Y. Jiang, Susan E. Sporte, Stuart Luppescu. (2015). Analytic Memo: Evaluation Data from the First Year of REACH. Consortium on Chicago School Research. https://www.cps.edu/Pages/reachstudents.aspx
+Jennie Y. Jiang, Susan E. Sporte, Stuart Luppescu. (2014). Analytic Memo: Evaluation Data from the First Year of REACH. Consortium on Chicago School Research. https://www.cps.edu/Pages/reachstudents.aspx
 
 `q2 · i?` · `associational · r2`
 

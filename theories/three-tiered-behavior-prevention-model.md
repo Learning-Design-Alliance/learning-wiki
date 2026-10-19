@@ -9,7 +9,7 @@ generated:
 sources:
   - id: epstein-2008
     resource: "https://ies.ed.gov/ncee/wwc/PracticeGuide/4"
-    title: "Epstein, M., Atkins, M., Cullinan, D., Kutash, K., and Weaver, R. (2008). Reducing Behavior Problems in the Elementary School Classroom: A Practice Guide (NCEE #2008-012). Washington, DC: National Center for Education Evaluation and Regional Assistance, Institute of Education Sciences, U.S. Department of Education. https://ies.ed.gov/ncee/wwc/PracticeGuide/4"
+    title: "Epstein, M., Atkins, M., Cullinan, D., Kutash, K., and Weaver, R. (2008). Reducing Behavior Problems in the Elementary School Classroom: A Practice Guide (NCEE #2008-012). Washington, DC: National Center for Education Evaluation and Regional Assistance, Institute of Education Sciences, U.S. Department of Education. https://ies.ed.gov/ncee/wwc/PracticeGuide/4 [doi:10.1037/e602222011-001](https://doi.org/10.1037/e602222011-001)"
     author: Epstein, M., Atkins, M., Cullinan, D., Kutash, K., and Weaver, R
 ---
 
@@ -55,4 +55,4 @@ The guide organizes behavioral support around a three-tiered prevention model in
 - [Organize integrated support systems as universal, supplemental, and intensive tiers](../strategies/tiered-integrated-support-systems.md)
 
 ## Key Sources
-- Epstein, M., Atkins, M., Cullinan, D., Kutash, K., and Weaver, R. (2008). Reducing Behavior Problems in the Elementary School Classroom: A Practice Guide (NCEE #2008-012). Washington, DC: National Center for Education Evaluation and Regional Assistance, Institute of Education Sciences, U.S. Department of Education. https://ies.ed.gov/ncee/wwc/PracticeGuide/4
+- Epstein, M., Atkins, M., Cullinan, D., Kutash, K., and Weaver, R. (2008). Reducing Behavior Problems in the Elementary School Classroom: A Practice Guide (NCEE #2008-012). Washington, DC: National Center for Education Evaluation and Regional Assistance, Institute of Education Sciences, U.S. Department of Education. https://ies.ed.gov/ncee/wwc/PracticeGuide/4 [doi:10.1037/e602222011-001](https://doi.org/10.1037/e602222011-001)

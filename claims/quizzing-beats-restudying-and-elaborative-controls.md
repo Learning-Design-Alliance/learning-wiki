@@ -11,7 +11,7 @@ evidence_strength: strong
 sources:
   - id: yang-2020
     resource: "https://doi.org/10.1037/bul0000309"
-    title: "Yang, C., Luo, L., Vadillo, M. A., Yu, R., & Shanks, D. R. (2020). Testing (Quizzing) Boosts Classroom Learning: A Systematic and Meta-Analytic Review. Psychological Bulletin. https://doi.org/10.1037/bul0000309"
+    title: "Yang, C., Luo, L., Vadillo, M. A., Yu, R., & Shanks, D. R. (2021). Testing (Quizzing) Boosts Classroom Learning: A Systematic and Meta-Analytic Review. Psychological Bulletin. https://doi.org/10.1037/bul0000309"
     author: "Yang, C., Luo, L., Vadillo, M. A., Yu, R., & Shanks, D. R."
     q: 4
     i: 2
@@ -31,7 +31,7 @@ sources:
 
 ### Yang 2020
 
-Yang, C., Luo, L., Vadillo, M. A., Yu, R., & Shanks, D. R. (2020). Testing (Quizzing) Boosts Classroom Learning: A Systematic and Meta-Analytic Review. Psychological Bulletin. https://doi.org/10.1037/bul0000309
+Yang, C., Luo, L., Vadillo, M. A., Yu, R., & Shanks, D. R. (2021). Testing (Quizzing) Boosts Classroom Learning: A Systematic and Meta-Analytic Review. Psychological Bulletin. https://doi.org/10.1037/bul0000309
 
 `q4 · i2` · `quant-synthesis · r?`
 

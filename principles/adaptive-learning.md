@@ -16,7 +16,7 @@ sources:
     author: Shuanghong Shen, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, and Enhong Chen
   - id: norman-1972
     resource: "https://eric.ed.gov/?id=ED059585"
-    title: "Norman, D. A.; And Others. (1972). Adaptive Training of Manual Control: 1. Comparison of Three Adaptive Variables and Two Logic Schemes. Life Sciences, Inc. https://eric.ed.gov/?id=ED059585"
+    title: "Norman, D. A.; And Others. (1972). Adaptive Training of Manual Control: 1. Comparison of Three Adaptive Variables and Two Logic Schemes. Life Sciences, Inc. https://eric.ed.gov/?id=ED059585 [doi:10.1037/e426822004-001](https://doi.org/10.1037/e426822004-001)"
     author: Norman, D. A.; And Others
   - id: wolff-1970
     resource: "https://eric.ed.gov/?id=ED051258"
@@ -225,9 +225,9 @@ Within-system performance, aligned achievement, standardised achievement, delaye
 - Ma, W., Adesope, O. O., Nesbit, J. C., & Liu, Q. (2014). Intelligent tutoring systems and learning outcomes: A meta-analysis. *Journal of Educational Psychology, 106*(4), 901–918. [doi:10.1037/a0037123](https://doi.org/10.1037/a0037123)
 - Corbett, A. T. (2001). Cognitive computer tutors: Solving the two-sigma problem. *User Modeling 2001*, 137–147. [doi:10.1007/3-540-44566-8_14](https://doi.org/10.1007/3-540-44566-8_14)
 - Pane, J. F., Steiner, E. D., Baird, M. D., Hamilton, L. S., & Pane, J. D. (2017). Informing progress: Insights on personalized learning implementation and effects. RAND Corporation. [https://www.rand.org/pubs/research_reports/RR2042.html](https://www.rand.org/pubs/research_reports/RR2042.html) [doi:10.7249/rr2042](https://doi.org/10.7249/rr2042)
-- Pane, J. F., Steiner, E. D., Baird, M. D., & Hamilton, L. S. (2015). *Continued progress*. RAND. [doi:10.7249/rr1365](https://doi.org/10.7249/rr1365)
+- Pane, J. F., Steiner, E. D., Baird, M. D., & Hamilton, L. S. (2015). *Continued progress: Promising evidence on personalized learning*. RAND Corporation. [doi:10.7249/rr1365](https://doi.org/10.7249/rr1365)
 - Shuanghong Shen, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, and Enhong Chen. (2021). A Survey of Knowledge Tracing: Models, Variants, and Applications. https://arxiv.org/abs/2105.15106
-- Norman, D. A.; And Others. (1972). Adaptive Training of Manual Control: 1. Comparison of Three Adaptive Variables and Two Logic Schemes. Life Sciences, Inc. https://eric.ed.gov/?id=ED059585
+- Norman, D. A.; And Others. (1972). Adaptive Training of Manual Control: 1. Comparison of Three Adaptive Variables and Two Logic Schemes. Life Sciences, Inc. https://eric.ed.gov/?id=ED059585 [doi:10.1037/e426822004-001](https://doi.org/10.1037/e426822004-001)
 - Wolff, Hans. (1970). On Stochastic Approximation. https://eric.ed.gov/?id=ED051258
 - Philip I. Pavlik, Jr., Luke G. Eglington, and Leigh M. Harrell-Williams. (2021). Logistic Knowledge Tracing: A Constrained Framework for Learner Modeling. IEEE Transactions on Learning Technologies. https://doi.org/10.1109/TLT.2021.3128569
 - Jia Nan, Su Weitao, Xian Junrui, Zou Shijia, Xia Yixue. (2026). Adaptive G-UKT: a unified probabilistic framework for knowledge tracing via adaptive graph topology learning and uncertainty-aware Gaussian embeddings. Scientific Reports. https://doi.org/10.1038/s41598-026-50711-y
@@ -308,7 +308,7 @@ Adaptive learning is the short-form canonical pattern for adjusting pacing, diff
 - [Mastery Learning](../patterns/mastery-learning.md)
 
 ## Key Sources
-- Pane, J. F., Steiner, E. D., Baird, M. D., & Hamilton, L. S. (2015). *Continued progress*. RAND.
+- Pane, J. F., Steiner, E. D., Baird, M. D., & Hamilton, L. S. (2015). *Continued progress: Promising evidence on personalized learning*. RAND Corporation.
 -->
 
 <!-- merged 2026-10-07 from principles/adaptive-learning-consistent-with-cognitive-structure ("Adaptive Learning Consistent with Knowledge Level and Knowledge Structure"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
@@ -390,7 +390,7 @@ The article recommends that at the beginning of training a low value for both ga
 - [Mask the reinforcement learning policy's action space to a zone-of-proximal-development difficulty band (success probability 0.4–0.8)](../strategies/zpd-masked-rl-content-sequencing.md)
 
 ## Key Sources
-- Norman, D. A.; And Others. (1972). Adaptive Training of Manual Control: 1. Comparison of Three Adaptive Variables and Two Logic Schemes. Life Sciences, Inc. https://eric.ed.gov/?id=ED059585
+- Norman, D. A.; And Others. (1972). Adaptive Training of Manual Control: 1. Comparison of Three Adaptive Variables and Two Logic Schemes. Life Sciences, Inc. https://eric.ed.gov/?id=ED059585 [doi:10.1037/e426822004-001](https://doi.org/10.1037/e426822004-001)
 -->
 
 <!-- merged 2026-10-07 from principles/multi-objective-exercise-recommendation-objectives ("Multi-Objective Exercise Recommendation: Review and Explore, Smooth Difficulty, Engagement"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.

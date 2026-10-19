@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: stephan-böhm-and-georges-philip-constantine-2015
-    resource: "https://doi.org/10.1108/itse-02-2016-0003"
-    title: "Stephan Böhm and Georges Philip Constantine. (2015). Impact of Contextuality on Mobile Learning Acceptance: An Empirical Study Based on a Language Learning App. 11th International Conference Mobile Learning 2015. https://isbnsearch.org/isbn/9789898533364 [doi:10.1108/itse-02-2016-0003](https://doi.org/10.1108/itse-02-2016-0003)"
+    resource: "https://files.eric.ed.gov/fulltext/ED562427.pdf"
+    title: "Stephan Böhm and Georges Philip Constantine. (2015). Impact of Contextuality on Mobile Learning Acceptance: An Empirical Study Based on a Language Learning App. 11th International Conference Mobile Learning 2015. https://isbnsearch.org/isbn/9789898533364. ERIC ED562427. https://files.eric.ed.gov/fulltext/ED562427.pdf"
     author: Stephan Böhm and Georges Philip Constantine
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Stephan Böhm and Georges Philip Constantine 2015
 
-Stephan Böhm and Georges Philip Constantine. (2015). Impact of Contextuality on Mobile Learning Acceptance: An Empirical Study Based on a Language Learning App. 11th International Conference Mobile Learning 2015. https://isbnsearch.org/isbn/9789898533364 [doi:10.1108/itse-02-2016-0003](https://doi.org/10.1108/itse-02-2016-0003)
+Stephan Böhm and Georges Philip Constantine. (2015). Impact of Contextuality on Mobile Learning Acceptance: An Empirical Study Based on a Language Learning App. 11th International Conference Mobile Learning 2015. https://isbnsearch.org/isbn/9789898533364. ERIC ED562427. https://files.eric.ed.gov/fulltext/ED562427.pdf
 
 `q2 · i?` · `associational · r1`
 
