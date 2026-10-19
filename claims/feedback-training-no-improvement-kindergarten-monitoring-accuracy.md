@@ -46,3 +46,4 @@ Pretest-training-posttest multilevel analysis of 214 kindergarteners randomly as
 - [Children's ability to discriminate between correct and incorrect answers did not change over training regardless of group](discrimination-unchanged-after-training.md) — possibly the same claim (merge candidate)
 - [Feedback training did not change children's cue utilization despite repeated metacognitive experiences](feedback-training-did-not-change-cue-utilization.md) — related
 - [Overconfidence (bias) decreased from pretest to posttest across all groups including control, with no group differences](bias-decreased-across-groups-no-feedback-effect.md) — related
+- [Pre-monitoring does not significantly improve children's relative monitoring accuracy (discrimination between correct and incorrect answers)](pre-monitoring-no-discrimination-improvement.md) — related

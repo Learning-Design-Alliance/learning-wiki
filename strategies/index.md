@@ -2,7 +2,7 @@
 
 Concrete teaching activity recipes — specific, implementable approaches.
 
-**6255 entries** · 0 stable · 6255 in review · 0 drafts
+**6256 entries** · 0 stable · 6256 in review · 0 drafts
 
 ---
 
@@ -615,6 +615,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Case Studies](case_studies.md) - Case studies present learners with real or realistic situations to analyze, discuss, and resolve, building reasoning and problem-solving through authentic complexity.
 * [Cast a popular child in the defender role-play](popular-child-as-defender-roleplay.md) - In the onlooker role-play week, teachers were advised that the defender role should be played by a popular child, because research indicates popular children can be an influential resource in changing classroom attitu...
 * [Categorization](categorization.md) - Learners sort, group, or classify cases, examples, or problems by underlying structure, building category knowledge that supports transfer.
+* [Caution when prompting young children to pre-monitor all answer alternatives before choosing](caution-pre-monitoring-prompts-young-children.md) - The article's results advise against assuming that prompting children to rate confidence in every alternative before answering will improve monitoring accuracy: in this study such prompts \"seemed to increase rather th...
 * [Cede Power (Student Voice)](cede-power-student-voice.md) - Sharing decision-making power with students and families in the design and governance of learning experiences, positioning students as co-designers rather than passive recipients.
 * [Center co-design with teachers and students throughout AI tool R&D, using human-in-the-loop workflows as a primary risk mitigation](co-design-human-in-the-loop-ai-edtech-strategy.md) - The report recommends that AI developers \"embrace and center the expertise of teachers and students by prioritizing co-design throughout a tool's R&D processes.\" Across risk sections, respondents described human-in-th...
 * [Center educators in research by shifting power dynamics, including diverse educators, and structuring feedback loops](strategies-centering-educators-research-seernet.md) - The presentation enumerates three strategies for centering educators in research: to \"Empower educators and intentionally shift power dynamics so that they have a voice, especially in research questions\", to include e...

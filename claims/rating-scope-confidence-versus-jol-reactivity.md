@@ -43,4 +43,4 @@ Authors' interpretation in the Discussion of the contrast between the two rating
 
 
 ## Related Claims
--
+- [A minority of item judgments show downregulation of confidence after pre-monitoring, suggesting differentiated evaluation can sometimes trigger more accurate monitoring](confidence-downregulation-after-pre-monitoring.md) — related

@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":21996,
+"claim":22010,
 "design":972,
 "element":1066,
 "learner-variable":74,
@@ -10,7 +10,7 @@
 "process":18,
 "product":1811,
 "research-method":473,
-"strategy":6255,
+"strategy":6256,
 "theory":1361
 },
 "kinds":[
@@ -35548,6 +35548,15 @@
 "type":"claim"
 },
 {
+"description":"In Experiment 3, individual learners showed greater forgetting over 24 hours than paired learners",
+"evidence_strength":"weak",
+"id":"condition-by-delay-interaction-experiment-3",
+"path":"claims/condition-by-delay-interaction-experiment-3.md",
+"status":"review",
+"title":"In Experiment 3, individual learners showed greater forgetting over 24 hours than paired learners",
+"type":"claim"
+},
+{
 "description":"The three planning conditions produced different accuracy orders for regular and irregular past, questioning the stability of the natural order",
 "evidence_strength":"moderate",
 "id":"condition-dependent-accuracy-orders-natural-order-unstable",
@@ -35725,6 +35734,15 @@
 "path":"claims/confidence-doubt-recall-gre-performance.md",
 "status":"review",
 "title":"Recalling past confidence versus doubt validates or invalidates thoughts and shifts GRE performance accordingly",
+"type":"claim"
+},
+{
+"description":"A minority of item judgments show downregulation of confidence after pre-monitoring, suggesting differentiated evaluation can sometimes trigger more accurate monitoring",
+"evidence_strength":"weak",
+"id":"confidence-downregulation-after-pre-monitoring",
+"path":"claims/confidence-downregulation-after-pre-monitoring.md",
+"status":"review",
+"title":"A minority of item judgments show downregulation of confidence after pre-monitoring, suggesting differentiated evaluation can sometimes trigger more accurate monitoring",
 "type":"claim"
 },
 {
@@ -76728,6 +76746,15 @@
 "type":"claim"
 },
 {
+"description":"Global judgments of learning correlate moderately-to-strongly with final test performance in both individual and paired conditions",
+"evidence_strength":"moderate",
+"id":"gjol-test-performance-correlations-both-conditions",
+"path":"claims/gjol-test-performance-correlations-both-conditions.md",
+"status":"review",
+"title":"Global judgments of learning correlate moderately-to-strongly with final test performance in both individual and paired conditions",
+"type":"claim"
+},
+{
 "description":"GLAT shows robust structural validity and reliability under a 2-parameter logistic IRT model",
 "evidence_strength":"moderate",
 "id":"glat-2pl-structural-validity-reliability",
@@ -82773,6 +82800,15 @@
 "type":"claim"
 },
 {
+"description":"Children's recognition choices overwhelmingly follow the alternative given the highest pre-monitoring judgment",
+"evidence_strength":"moderate",
+"id":"highest-pre-monitoring-judgment-predicts-recognition-choice",
+"path":"claims/highest-pre-monitoring-judgment-predicts-recognition-choice.md",
+"status":"review",
+"title":"Children's recognition choices overwhelmingly follow the alternative given the highest pre-monitoring judgment",
+"type":"claim"
+},
+{
 "aliases":["highlighting-alone-is-ineffective","highlighting-alone-low-utility"],
 "description":"",
 "evidence_strength":"moderate",
@@ -87617,6 +87653,15 @@
 "path":"claims/individual-interest-correlates-situational-interest-osl.md",
 "status":"review",
 "title":"Students' individual interest in social sciences correlated with their situational interest during the OSL visit (catch r = .27; hold r = .26)",
+"type":"claim"
+},
+{
+"description":"Individual learners complete more flashcard practice cycles than paired learners, though inconsistently across experiments",
+"evidence_strength":"mixed",
+"id":"individual-learners-complete-more-practice-cycles",
+"path":"claims/individual-learners-complete-more-practice-cycles.md",
+"status":"review",
+"title":"Individual learners complete more flashcard practice cycles than paired learners, though inconsistently across experiments",
 "type":"claim"
 },
 {
@@ -113412,6 +113457,15 @@
 "type":"claim"
 },
 {
+"description":"Monitoring discrimination and overconfidence improve with age between kindergarten and second grade",
+"evidence_strength":"moderate",
+"id":"monitoring-accuracy-improves-kindergarten-to-second-grade",
+"path":"claims/monitoring-accuracy-improves-kindergarten-to-second-grade.md",
+"status":"review",
+"title":"Monitoring discrimination and overconfidence improve with age between kindergarten and second grade",
+"type":"claim"
+},
+{
 "description":"Monitoring accuracy predicts comprehension-based regulation accuracy, and cue availability also has an indirect effect on regulation accuracy via monitoring accuracy",
 "evidence_strength":"moderate",
 "id":"monitoring-accuracy-predicts-regulation-accuracy-indirect-effect",
@@ -127101,6 +127155,15 @@
 "type":"claim"
 },
 {
+"description":"Requiring overt retrieval eliminates the metacognitive calibration advantage of paired flashcard learning",
+"evidence_strength":"moderate",
+"id":"overt-retrieval-drives-paired-metacognitive-benefit",
+"path":"claims/overt-retrieval-drives-paired-metacognitive-benefit.md",
+"status":"review",
+"title":"Requiring overt retrieval eliminates the metacognitive calibration advantage of paired flashcard learning",
+"type":"claim"
+},
+{
 "description":"In the Overview dimension, augmentation produced a marginal QWK decrease (ΔQWK = −0.006) despite improving macro-F1, the only dimension with this trade-off",
 "evidence_strength":"weak",
 "id":"overview-augmentation-qwk-tradeoff",
@@ -127533,12 +127596,48 @@
 "type":"claim"
 },
 {
+"description":"Paired flashcard learners show more accurate immediate metacognitive calibration than individual learners, who overestimate by roughly 20%",
+"evidence_strength":"strong",
+"id":"paired-flashcards-improve-immediate-metacognitive-calibration",
+"path":"claims/paired-flashcards-improve-immediate-metacognitive-calibration.md",
+"status":"review",
+"title":"Paired flashcard learners show more accurate immediate metacognitive calibration than individual learners, who overestimate by roughly 20%",
+"type":"claim"
+},
+{
+"description":"Studying flashcards in pairs raised negative affect in Experiment 1, an effect eliminated by an icebreaker and relaxed feedback rules in Experiment 2",
+"evidence_strength":"mixed",
+"id":"paired-flashcards-negative-affect-icebreaker",
+"path":"claims/paired-flashcards-negative-affect-icebreaker.md",
+"status":"review",
+"title":"Studying flashcards in pairs raised negative affect in Experiment 1, an effect eliminated by an icebreaker and relaxed feedback rules in Experiment 2",
+"type":"claim"
+},
+{
+"description":"Paired flashcard learners drop far fewer flashcards from study than individual learners",
+"evidence_strength":"moderate",
+"id":"paired-flashcards-reduce-card-dropping",
+"path":"claims/paired-flashcards-reduce-card-dropping.md",
+"status":"review",
+"title":"Paired flashcard learners drop far fewer flashcards from study than individual learners",
+"type":"claim"
+},
+{
 "description":"Paired pre/post AI readiness scores rose descriptively from 82.5% to 89.9% (mean gain 7.4 percentage points) among seven co-creation clients, treated as descriptive context only",
 "evidence_strength":"weak",
 "id":"paired-readiness-gain-descriptive-n7",
 "path":"claims/paired-readiness-gain-descriptive-n7.md",
 "status":"review",
 "title":"Paired pre/post AI readiness scores rose descriptively from 82.5% to 89.9% (mean gain 7.4 percentage points) among seven co-creation clients, treated as descriptive context only",
+"type":"claim"
+},
+{
+"description":"Individual and paired flashcard learning yield comparable final cued-recall test performance",
+"evidence_strength":"strong",
+"id":"paired-vs-individual-flashcards-similar-test-performance",
+"path":"claims/paired-vs-individual-flashcards-similar-test-performance.md",
+"status":"review",
+"title":"Individual and paired flashcard learning yield comparable final cued-recall test performance",
 "type":"claim"
 },
 {
@@ -137172,6 +137271,33 @@
 "path":"claims/pre-literate-left-hemisphere-letter-bias.md",
 "status":"review",
 "title":"Pre-literate children already show a left-hemisphere bias for letter processing before any training",
+"type":"claim"
+},
+{
+"description":"Pre-monitoring and retrospective confidence judgments are highly consistent, with most agreement at the highest scale level regardless of correctness",
+"evidence_strength":"weak",
+"id":"pre-monitoring-confidence-judgment-consistency",
+"path":"claims/pre-monitoring-confidence-judgment-consistency.md",
+"status":"review",
+"title":"Pre-monitoring and retrospective confidence judgments are highly consistent, with most agreement at the highest scale level regardless of correctness",
+"type":"claim"
+},
+{
+"description":"Pre-monitoring judgments before recognition increase rather than decrease overconfidence in kindergartners and second graders",
+"evidence_strength":"moderate",
+"id":"pre-monitoring-increases-overconfidence-children",
+"path":"claims/pre-monitoring-increases-overconfidence-children.md",
+"status":"review",
+"title":"Pre-monitoring judgments before recognition increase rather than decrease overconfidence in kindergartners and second graders",
+"type":"claim"
+},
+{
+"description":"Pre-monitoring does not significantly improve children's relative monitoring accuracy (discrimination between correct and incorrect answers)",
+"evidence_strength":"moderate",
+"id":"pre-monitoring-no-discrimination-improvement",
+"path":"claims/pre-monitoring-no-discrimination-improvement.md",
+"status":"review",
+"title":"Pre-monitoring does not significantly improve children's relative monitoring accuracy (discrimination between correct and incorrect answers)",
 "type":"claim"
 },
 {
@@ -241898,6 +242024,14 @@
 "type":"strategy"
 },
 {
+"description":"The article's results advise against assuming that prompting children to rate confidence in every alternative before answering will improve monitoring accuracy: in this study such prompts \\\"seemed to increase rather th...",
+"id":"caution-pre-monitoring-prompts-young-children",
+"path":"strategies/caution-pre-monitoring-prompts-young-children.md",
+"status":"review",
+"title":"Caution when prompting young children to pre-monitor all answer alternatives before choosing",
+"type":"strategy"
+},
+{
 "description":"At tertiary prevention, standard decision rules guide whether to raise a goal or change instruction.",
 "id":"cbm-goal-line-decision-rules-iep",
 "path":"strategies/cbm-goal-line-decision-rules-iep.md",
@@ -302330,6 +302464,7 @@
 "condensed-eot-ontrack-versus-intensive-support-outcomes":"condensed-eot-ontrack-versus-intensive-support-outcomes",
 "condensed-eot-race-gender-equity-gaps":"condensed-eot-race-gender-equity-gaps",
 "condition-and-age-effects-solution-generation":"condition-and-age-effects-solution-generation",
+"condition-by-delay-interaction-experiment-3":"condition-by-delay-interaction-experiment-3",
 "condition-dependent-accuracy-orders-natural-order-unstable":"condition-dependent-accuracy-orders-natural-order-unstable",
 "condition-improvement-predicts-grade-improvement":"condition-improvement-predicts-grade-improvement",
 "condition-length-interaction-essay-quality":"condition-length-interaction-essay-quality",
@@ -302350,6 +302485,7 @@
 "confidence-conditioned-deference-profiles-llm-tutors":"confidence-conditioned-deference-profiles-llm-tutors",
 "confidence-correlates-with-financial-behaviors-not-knowledge":"confidence-correlates-with-financial-behaviors-not-knowledge",
 "confidence-doubt-recall-gre-performance":"confidence-doubt-recall-gre-performance",
+"confidence-downregulation-after-pre-monitoring":"confidence-downregulation-after-pre-monitoring",
 "confidence-flags-triage-human-review":"confidence-flags-triage-human-review",
 "confidence-fully-mediate-support-attitude-relationship":"confidence-fully-mediate-support-attitude-relationship",
 "confidence-higher-correct-than-incorrect-trials":"confidence-higher-correct-than-incorrect-trials",
@@ -306981,6 +307117,7 @@
 "girls-sport-one-hour-better-math-reading":"girls-sport-one-hour-better-math-reading",
 "giving-problem-identification-feedback-predicts-assessor-performance":"giving-problem-identification-feedback-predicts-assessor-performance",
 "giving-suggestions-predicts-assessor-performance":"giving-suggestions-predicts-assessor-performance",
+"gjol-test-performance-correlations-both-conditions":"gjol-test-performance-correlations-both-conditions",
 "glat-2pl-structural-validity-reliability":"glat-2pl-structural-validity-reliability",
 "glat-content-validity-pilot":"glat-content-validity-pilot",
 "glat-item-selection-discrimination":"glat-item-selection-discrimination",
@@ -307668,6 +307805,7 @@
 "highest-performing-teacher-distribution-nonuniform":"highest-performing-teacher-distribution-nonuniform",
 "highest-performing-teachers-4-to-14-percentile-gains":"highest-performing-teachers-4-to-14-percentile-gains",
 "highest-poverty-schools-inexperienced-teachers":"highest-poverty-schools-inexperienced-teachers",
+"highest-pre-monitoring-judgment-predicts-recognition-choice":"highest-pre-monitoring-judgment-predicts-recognition-choice",
 "highlighting-alone-is-ineffective":"highlighting-low-utility",
 "highlighting-alone-low-utility":"highlighting-low-utility",
 "highlighting-low-utility":"highlighting-low-utility",
@@ -308216,6 +308354,7 @@
 "individual-differences-program-characteristics-shape-mindfulness-effectiveness":"individual-differences-program-characteristics-shape-mindfulness-effectiveness",
 "individual-educator-practices-implemented-more-than-systems-practices":"individual-educator-practices-implemented-more-than-systems-practices",
 "individual-interest-correlates-situational-interest-osl":"individual-interest-correlates-situational-interest-osl",
+"individual-learners-complete-more-practice-cycles":"individual-learners-complete-more-practice-cycles",
 "individual-learning-conditions-predict-valued-beliefs":"individual-learning-conditions-predict-valued-beliefs",
 "individual-level-general-and-strategic-factors-attitudes":"individual-level-general-and-strategic-factors-attitudes",
 "individual-noticing-trajectories-vary":"individual-noticing-trajectories-vary",
@@ -311136,6 +311275,7 @@
 "momentum-graph-shapes-vary-by-subject":"momentum-graph-shapes-vary-by-subject",
 "monetary-incentive-rules-out-motivation-confound":"monetary-incentive-rules-out-motivation-confound",
 "monetary-incentives-motivating-micro-credentials":"monetary-incentives-motivating-micro-credentials",
+"monitoring-accuracy-improves-kindergarten-to-second-grade":"monitoring-accuracy-improves-kindergarten-to-second-grade",
 "monitoring-accuracy-predicts-regulation-accuracy-indirect-effect":"monitoring-accuracy-predicts-regulation-accuracy-indirect-effect",
 "monitoring-based-control-strengthens-age-and-time":"monitoring-based-control-strengthens-age-and-time",
 "monitoring-cognition-most-common-target-collaborative-exam":"monitoring-cognition-most-common-target-collaborative-exam",
@@ -312672,6 +312812,7 @@
 "oversubscribed-charter-middle-schools-prevalence":"oversubscribed-charter-middle-schools-prevalence",
 "oversubscribed-charter-schools-differ-in-features":"oversubscribed-charter-schools-differ-in-features",
 "overt-error-correction-speeds-young-children-learning":"overt-error-correction-speeds-young-children-learning",
+"overt-retrieval-drives-paired-metacognitive-benefit":"overt-retrieval-drives-paired-metacognitive-benefit",
 "overview-augmentation-qwk-tradeoff":"overview-augmentation-qwk-tradeoff",
 "owl-game-body-based-experience-needed-for-solids":"owl-game-body-based-experience-needed-for-solids",
 "ownership-creativity-largely-unaffected-genai":"ownership-creativity-largely-unaffected-genai",
@@ -312720,7 +312861,11 @@
 "paid-leave-benefits-mothers-infants":"paid-leave-benefits-mothers-infants",
 "pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction":"pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction",
 "paired-associate-lag-function-retention-interval":"paired-associate-lag-function-retention-interval",
+"paired-flashcards-improve-immediate-metacognitive-calibration":"paired-flashcards-improve-immediate-metacognitive-calibration",
+"paired-flashcards-negative-affect-icebreaker":"paired-flashcards-negative-affect-icebreaker",
+"paired-flashcards-reduce-card-dropping":"paired-flashcards-reduce-card-dropping",
 "paired-readiness-gain-descriptive-n7":"paired-readiness-gain-descriptive-n7",
+"paired-vs-individual-flashcards-similar-test-performance":"paired-vs-individual-flashcards-similar-test-performance",
 "pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone":"pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone",
 "pairing-language-interaction-nom-l2-only":"pairing-language-interaction-nom-l2-only",
 "pairr-builds-confidence-in-ai-while-affirming-human-feedback":"pairr-builds-confidence-in-ai-while-affirming-human-feedback",
@@ -313811,6 +313956,9 @@
 "pre-k-mathematics-uncertain-self-regulation-effects":"pre-k-mathematics-uncertain-self-regulation-effects",
 "pre-k-mathematics-uncertain-social-emotional-effects":"pre-k-mathematics-uncertain-social-emotional-effects",
 "pre-literate-left-hemisphere-letter-bias":"pre-literate-left-hemisphere-letter-bias",
+"pre-monitoring-confidence-judgment-consistency":"pre-monitoring-confidence-judgment-consistency",
+"pre-monitoring-increases-overconfidence-children":"pre-monitoring-increases-overconfidence-children",
+"pre-monitoring-no-discrimination-improvement":"pre-monitoring-no-discrimination-improvement",
 "pre-policy-composition-test-scores-failure-opposite":"pre-policy-composition-test-scores-failure-opposite",
 "pre-post-gains-inquiry-competencies":"pre-post-gains-inquiry-competencies",
 "pre-post-survey-likert-open-text-genai-design":"pre-post-survey-likert-open-text-genai-design",
@@ -326482,6 +326630,7 @@
 "categorization":"categorization",
 "causal-evaluation-beyond-annual-summaries-at-risk":"causal-evaluation-beyond-annual-summaries-at-risk",
 "caution-and-evaluation-trauma-informed-schools":"caution-and-evaluation-trauma-informed-schools",
+"caution-pre-monitoring-prompts-young-children":"caution-pre-monitoring-prompts-young-children",
 "cbm-goal-line-decision-rules-iep":"cbm-goal-line-decision-rules-iep",
 "ccss-implementation-ai-an-localization-pd":"ccss-implementation-ai-an-localization-pd",
 "cdp-simulation-applications-strategy":"cdp-simulation-applications-strategy",

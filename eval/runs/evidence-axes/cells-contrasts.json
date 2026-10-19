@@ -35670,5 +35670,25 @@
  "media-design\ttexts with instructional visuals\ttext-only": {
   "label": "instructional visuals vs text-only",
   "treatment_is_a": true
+ },
+ "active-learning\tpaired flashcard learning\tindividual flashcard learning": {
+  "label": "paired vs individual flashcard learning",
+  "treatment_is_a": true
+ },
+ "prompts\talternative with the highest pre-monitoring judgment\talternatives with lower pre-monitoring judgments": {
+  "label": "higher vs lower pre-monitoring judgments",
+  "treatment_is_a": true
+ },
+ "prompts\tpre-monitoring judgment for each answer alternative\tsubsequent confidence judgment for the selected answer": {
+  "label": "alternative-level pre-monitoring judgments vs selected-answer confidence judgments",
+  "treatment_is_a": true
+ },
+ "prompts\tpre-monitoring judgments for all four alternatives\tno pre-monitoring judgments": {
+  "label": "pre-monitoring prompts vs no pre-monitoring prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tpre-monitoring judgments for all four answer alternatives before recognition\tno pre-monitoring judgments": {
+  "label": "pre-monitoring prompts vs no pre-monitoring prompts",
+  "treatment_is_a": true
  }
 }

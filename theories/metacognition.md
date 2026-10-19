@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 130 claims (89 for, 37 mixed, 4 against) · 86 studies (45 causal, 14 associational, 8 review, 8 qualitative, 7 theoretical, 2 quant-synthesis, 2 design), `q1`–`q4` · 29 of 86 report an effect size · 126 claims rest on one study
+> **Evidence** · 132 claims (91 for, 37 mixed, 4 against) · 87 studies (46 causal, 14 associational, 8 review, 8 qualitative, 7 theoretical, 2 quant-synthesis, 2 design), `q1`–`q4` · 30 of 87 report an effect size · 128 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -172,6 +172,8 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [High achievers are more accurate than low achievers in metacognitive monitoring and controlling during test taking](../claims/high-achievers-more-accurate-metacognitive-monitoring-control.md) [+W] — attached 2026-10-19 from Krebs et al. (2012), which proposed "Metacognitive development is fueled by both cognitive resources (achievement level) and mnemonic experience (age)".
 - [Older children (11/12-year-olds) outperform younger children (9/10-year-olds) when considering characteristics of on-going retrieval processes](../claims/older-children-outperform-younger-on-retrieval-process-characteristics.md) [+W] — attached 2026-10-19 from Krebs et al. (2012), which proposed "Metacognitive development is fueled by both cognitive resources (achievement level) and mnemonic experience (age)".
 - [When facing higher demands regarding retrieval processes, mnemonic experience (age) seems to play the more important role in metacognitive performance](../claims/experience-more-important-under-higher-retrieval-demands.md) [~W] — attached 2026-10-19 from Krebs et al. (2012), which proposed "Metacognitive development is fueled by both cognitive resources (achievement level) and mnemonic experience (age)".
+- [Pre-monitoring judgments before recognition increase rather than decrease overconfidence in kindergartners and second graders](../claims/pre-monitoring-increases-overconfidence-children.md) [+M] — attached 2026-10-19 from Sophie Wacker (2024), which proposed "Memory-metamemory interplay account of children's overconfidence".
+- [Children's recognition choices overwhelmingly follow the alternative given the highest pre-monitoring judgment](../claims/highest-pre-monitoring-judgment-predicts-recognition-choice.md) [+W] — attached 2026-10-19 from Sophie Wacker (2024), which proposed "Memory-metamemory interplay account of children's overconfidence"; tests this page's relationship.
 
 ## The evidence by question
 

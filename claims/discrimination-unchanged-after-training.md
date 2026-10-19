@@ -45,3 +45,4 @@ Linear mixed model on relative monitoring accuracy found measurement point and b
 ## Related Claims
 - [Neither monitoring feedback nor performance feedback improved kindergarteners' monitoring accuracy relative to an active control](feedback-training-no-improvement-kindergarten-monitoring-accuracy.md) — possibly the same claim (merge candidate)
 - [Overconfidence (bias) decreased from pretest to posttest across all groups including control, with no group differences](bias-decreased-across-groups-no-feedback-effect.md) — related
+- [Pre-monitoring does not significantly improve children's relative monitoring accuracy (discrimination between correct and incorrect answers)](pre-monitoring-no-discrimination-improvement.md) — related

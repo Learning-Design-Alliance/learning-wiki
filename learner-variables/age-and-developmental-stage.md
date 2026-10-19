@@ -12,7 +12,7 @@ generated:
 # Age and Developmental Stage
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 134 claims (86 show a difference, 32 mixed, 16 no difference) · 108 studies (48 associational, 20 causal, 15 review, 9 quant-synthesis, 9 theoretical, 5 design, 2 qualitative), `q1`–`q4` · 14 of 108 report an effect size · 132 claims rest on one study
+> **Evidence** · 135 claims (87 show a difference, 32 mixed, 16 no difference) · 109 studies (48 associational, 21 causal, 15 review, 9 quant-synthesis, 9 theoretical, 5 design, 2 qualitative), `q1`–`q4` · 15 of 109 report an effect size · 133 claims rest on one study
 
 ## Description
 Age and developmental stage cover a learner's chronological age, grade level, and the cognitive, language and social development that comes with them. Research uses them as a predictor (growth curves, when skills emerge), as a moderator (an approach that works for older students but not younger ones, or for adults but not children) and to define a population (early childhood, adolescents, adult learners). Age is often a stand-in for what actually matters, such as prior knowledge, reading skill or self-regulation, so a finding that differs by age is a reason to ask which of those it reflects.
@@ -165,6 +165,7 @@ Age and developmental stage cover a learner's chronological age, grade level, an
 - [Older students more often represent the historical subject as heterogeneous](../claims/historical-subject-heterogeneous-increases-grade-11.md) [+M] — learners who differ on it differ in outcomes
 - [No statistically significant differences between grade levels in the association between perceiving science as understandable and emotional engagement](../claims/understandable-instruction-engagement-link-does-not-vary-by-grade.md) [-M] — an instructional effect differs with it
 - [Older age groups overestimate their mathematical and reading competence more than younger age groups, but this may reflect performance differences](../claims/age-increased-overestimation-competence-adults.md) [~W] — learners who differ on it differ in outcomes
+- [Monitoring discrimination and overconfidence improve with age between kindergarten and second grade](../claims/monitoring-accuracy-improves-kindergarten-to-second-grade.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does being older at school entry, or older than one's classmates, give a lasting achievement advantage?* [Being a year older at kindergarten entry leads to higher initial achievement](../claims/older-entry-higher-initial-achievement.md) [+M]
