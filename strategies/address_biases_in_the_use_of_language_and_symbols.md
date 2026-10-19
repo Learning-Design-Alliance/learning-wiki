@@ -80,10 +80,12 @@ Biased language and symbols impose extraneous processing and identity threat: st
 - [Single-person images are significantly biased toward light-skinned individuals, while multi-person images show more balanced gender and skin-tone diversity](../claims/image-skin-tone-and-group-diversity-bias.md) [+W]
 
 ## Related Strategies
+
 - [Accessible Syntax](accessible_syntax.md) — sentence-level clarity work that pairs naturally with bias review, since both reduce unnecessary processing load
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — biased materials can fail to activate, or actively contradict, the prior knowledge of diverse learners
 - [Building Empathy](../principles/building-empathy.md) — auditing materials for bias is itself an empathy-building exercise for designers and learners
 - [Intentionally activate symbols so they assist transformative learning](intentionally-activate-symbols-for-learning.md)
+- [Use cultural informants from the target community to buffer against stereotyping and bias](cultural-informants-buffer-against-stereotyping.md)
 
 ## Examples
 - **[Illustrative Mathematics](https://illustrativemathematics.org)** — K–12 curriculum whose problem-writing guidelines require varied, non-stereotyped names and contexts in word problems.

@@ -43,4 +43,5 @@ In the limitations section, the authors discuss the contested status of self-rep
 
 
 ## Related Claims
--
+
+- [Trace data tend to predict achievement better than self-reports, but self-reports of global SRL intensity can outperform traces](traces-predict-achievement-better-than-self-reports.md)

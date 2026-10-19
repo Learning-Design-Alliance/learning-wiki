@@ -42,7 +42,9 @@ A concrete set of materials, tools and venue conditions the article identifies a
 - [Game Jam Tutor Competencies Resources](../strategies/game-jam-tutor-competencies-resources.md) [+M]
 
 ## Related Designs
-- 
+
+- [Event design details—offsite venues, elevated BIPOC vendors, compelling speakers, and intentional branding—foster pride and engagement](event-design-details-foster-pride-and-engagement.md)
+- [Game jams as pedagogical spaces combining co-creation, co-production and co-design with four learning types](game-jam-pedagogical-framework.md)
 
 ## Examples
 -

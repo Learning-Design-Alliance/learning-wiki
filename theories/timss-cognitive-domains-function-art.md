@@ -53,6 +53,7 @@ The study repurposes the TIMSS cognitive framework—originally designed for sta
 ## Examples
 
 - [Use TIMSS cognitive domains to evaluate function art beyond counting function types](../strategies/timss-based-function-art-evaluation.md)
+- [Three-layer hierarchical framework: Pellegrino's assessment triangle, Webb's Depth of Knowledge, and the TIMSS cognitive domains](../research-methods/three-layer-hierarchical-framework-pellegrinos-assessment-triangle-webbs-depth-of-knowledg.md)
 
 ## Key Sources
 - Bautista, G. Jr., Cacuyong, R., Lavicza, Z., Sabitzer, B., & Emara, M. (2026). Function Art: Understanding the Artistic Transformation of Mathematical Functions through Learning Analytics. Journal of Learning Analytics, 13(1). https://doi.org/10.18608/jla.2026.9037

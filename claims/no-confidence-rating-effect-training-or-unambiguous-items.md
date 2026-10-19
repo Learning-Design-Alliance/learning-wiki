@@ -62,4 +62,5 @@ Post-hoc comparisons (Table 3) showed no significant differences between the con
 
 
 ## Related Claims
--
+
+- [The confidence-rating impairment on ambiguous transfer items persists among participants who met the learning criterion](rule-learning-impairment-persists-among-learners.md)

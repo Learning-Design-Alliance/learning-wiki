@@ -46,6 +46,8 @@ The playbook recommends that teachers and staff use Cultivate data in a continuo
 - [Action Research](action-research.md)
 - [Establish AI-specific accountability systems with iterative playbooks, family guides, and continuous evaluation cycles](ai-specific-accountability-systems-playbook.md)
 - [Establish continuous improvement cycles that monitor and evaluate POG implementation](pog-continuous-improvement-cycles.md)
+- [Three-session action cycle process for cross-institutional workforce planning](action-cycle-cross-institutional-planning.md)
+- [Use evaluation to drive a cycle of improvement on incentive design and implementation](evaluation-cycle-improves-incentive-implementation.md)
 
 ## Examples
 -

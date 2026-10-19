@@ -43,6 +43,7 @@ The report recommends that states tightly link high school completion with colle
 ## Related Strategies
 
 - [Use an unweighted GPA of 3.0 as a college readiness benchmark signaling a high probability of four-year college graduation](gpa-3-0-college-readiness-benchmark.md)
+- [State-level international benchmarking actions for 21st century readiness](international-benchmarking-five-actions.md)
 
 ## Examples
 -

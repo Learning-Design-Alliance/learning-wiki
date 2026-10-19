@@ -43,4 +43,8 @@ Qualitative video analysis of one teacher's rounds during pair work with a story
 
 
 ## Related Claims
--
+
+- [Pupils often neglected the caption box although they were aware of it, displaying a divergent orientation to the teacher's aims](pupil-divergent-orientation-caption-box.md)
+- [Making rounds minimizes off-task behaviour because pupils monitor for the teacher's approach and adjust their behaviour](rounds-surveillance-minimizes-off-task.md)
+- [When correcting pupil work, the teacher revoices rather than dismisses pupils' solutions, challenging them toward more sophisticated ones](teacher-revoicing-pupil-solutions.md)
+- [Tensions between teachers' and pupils' perspectives during collaborative learning do not take the form of antagonistic struggles](teacher-pupil-tensions-not-antagonistic.md)

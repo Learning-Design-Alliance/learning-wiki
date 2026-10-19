@@ -62,6 +62,7 @@ International comparison reported in the report: U.S. attrition "hovering near 8
 
 
 ## Related Claims
+
 - [Teacher attrition and turnover are primary drivers of California teacher shortages, with 12% turnover between 2016–17 and 2017–18](attrition-turnover-primary-shortage-drivers.md) — related
 - [Teacher attrition rose from 5.1% in 1992 to 8.4% in 2005 and has hovered around 8% since](teacher-attrition-increase-since-1992.md) — related
 - [U.S. teacher attrition averages 8–9% annually, about twice the rate of Canada, Finland, and Singapore, and drives roughly 9 in 10 annual hires](us-teacher-attrition-twice-peer-nations.md) — possibly the same claim (merge candidate)
@@ -75,3 +76,4 @@ International comparison reported in the report: U.S. attrition "hovering near 8
 - [Texas teacher attrition has exceeded the national average by about 25% over the past decade, reaching nearly 12% in 2021–22](texas-attrition-above-national-average.md) — related
 - [In 2021–22, 99.7% of Texas teacher hires replaced teachers who had left the prior year, making attrition the dominant driver of demand](texas-attrition-drives-99-7-percent-of-hires.md) — a narrower finding that bears on this claim
 - [Retirement accounts for only a small portion of total teacher turnover](retirement-small-portion-of-teacher-turnover.md) — related
+- [Texas teacher attrition exceeds the national average by over 50%, with about 12% of teachers exiting districts before the 2023–24 school year](texas-teacher-attrition-exceeds-national-average.md)

@@ -62,4 +62,7 @@ Theme frequency counts from the review's contents section: professional developm
 
 
 ## Related Claims
--
+
+- [Most reviewed teacher well-being interventions (37 of 46) were categorised supportive, while 9 showed no significant impacts](most-teacher-wellbeing-interventions-supportive.md)
+- [Intervention contents align with PERMA-H mainly through engagement (25), relationships (17), positive emotions (14) and health (8), with no content matching meaning or accomplishment](perma-h-alignment-intervention-contents.md)
+- [A scoping review identified 46 peer-reviewed teacher well-being and burnout intervention studies covering 7369 participants in 15 countries, mostly quantitative](scoping-review-46-teacher-wellbeing-intervention-studies.md)

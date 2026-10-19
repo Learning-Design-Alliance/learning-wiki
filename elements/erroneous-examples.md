@@ -68,8 +68,10 @@ Erroneous examples are worked examples that intentionally contain a mistake for 
 - [Guided Discovery Learning](../principles/inquiry-based-learning.md)
 
 ## Examples
+
 - Students inspect a flawed algebra solution and explain where the reasoning breaks.
 - Learners review a paragraph with a weak claim-evidence link and revise it to meet the rubric.
+- [Pair erroneous examples with prompts that require learners to identify, explain, correct, or reflect on errors, while monitoring complexity to avoid overload](../strategies/prompt-identify-explain-correct-reflect-errors.md)
 
 ## Key Sources
 - Durkin, K., & Rittle-Johnson, B. (2012). The effectiveness of using incorrect examples to support learning about decimal magnitude. *Learning and Instruction, 22*(3), 206-214. [https://doi.org/10.1016/j.learninstruc.2011.11.001](https://doi.org/10.1016/j.learninstruc.2011.11.001)

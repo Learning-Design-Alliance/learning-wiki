@@ -63,6 +63,7 @@ Think-aloud modeling is a strategy in which an instructor performs a task while 
 ## Related Strategies
 
 - [Train self-assessment and task-selection with video modeling examples before a self-regulated learning phase](video-modeling-examples-train-self-assessment-task-selection.md)
+- [Video modeling examples with expert narration revealing covert cognitive processing](video-modeling-examples-expert-narration.md)
 
 ## Examples
 - An instructor solves a math problem aloud, naming why a particular representation is chosen.

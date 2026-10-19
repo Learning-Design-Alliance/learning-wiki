@@ -62,6 +62,7 @@ Interview and listening-session data showed "some level of AI tool use" among ne
 
 
 ## Related Claims
+
 - Mathematics teachers appreciate ChatGPT-generated generative learning activities as hands-on, collaborative, engaging, open-ended, differentiated, and using multiple representations — related
 - Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs — related
 - [Mathematics teachers critique ChatGPT-generated generative learning lessons for poor fit to students, boredom, preparation time, missing student-facing materials, mathematical flaws, and required materials](teachers-critique-chatgpt-lesson-output.md) — related
@@ -85,3 +86,4 @@ Interview and listening-session data showed "some level of AI tool use" among ne
 - [Teachers adopted three distinct methods for AI-assisted lesson planning, with most (60%) preferring to outline a framework first and then use ChatGPT to refine it](three-teacher-methods-chatgpt-lesson-planning.md) — a narrower finding that bears on this claim
 - [Across studies, ChatGPT serves as a convenient tool assisting teachers, students and researchers in various tasks, with the consistent underlying motivation of seeking personal benefits and reducing academic burdens.](chatgpt-convenient-tool-personal-benefit-motivation.md) — a broader claim this one bears on
 - [Teachers use ChatGPT for personal and professional learning and resource generation, while students use it as a personal tutor for various learning purposes.](chatgpt-teacher-resource-generation-student-personal-tutor.md) — related
+- [Pre-service teachers identified lesson planning and presentation as the assessment task most evaluating their readiness for practice](mpts-lesson-presentation-top-assessment-task.md)

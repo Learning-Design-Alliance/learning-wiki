@@ -43,4 +43,5 @@ SEM Model 2 relating relational and mastery goals to TARGETS practices (χ² = 6
 
 
 ## Related Claims
--
+
+- [The correlation between mastery and relational goals is unusually strong (r = .64) in the Lao sample compared with Western teacher samples](lao-strong-mastery-relational-goal-correlation.md)

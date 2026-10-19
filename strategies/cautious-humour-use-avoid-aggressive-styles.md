@@ -17,7 +17,7 @@ sources:
 # Teachers should use classroom humour cautiously, avoiding aggressive styles and topics touching on students' protected characteristics
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Based on student reports across the reviewed studies, the review supports cautious, style-aware humour use: students suggested "teachers should use humour cautiously to avoid offence or timewasting", and in interviews highlighted aggressive jokes targeting hobbies, appearance, politics, and protected characteristics as topics to avoid. Positive reception was linked to good rapport, self-confidence, and being in tune with what the class finds funny.
@@ -36,6 +36,12 @@ Based on student reports across the reviewed studies, the review supports cautio
 
 ### Target Learning Goals
 - Maintaining positive classroom climate, student-teacher relationships and student wellbeing while using humour
+
+## Claims
+
+- [Affiliative humour is associated with positive classroom climate, enjoyment and willingness to participate among adolescent students](../claims/affiliative-humour-positive-classroom-outcomes.md) [+W]
+- [Aggressive humour has mixed effects on adolescent students' educational experiences, with reported increases in anger, boredom and resistance but some students reporting sarcasm improved rapport](../claims/aggressive-humour-mixed-student-effects.md) [+W]
+- [Observed teacher humour differs from self-reports: sarcasm and mocking accounted for nearly two-thirds of observed teacher humour although teachers and students reported aggressive humour as least common](../claims/observed-sarcasm-mocking-underreported.md) [+W]
 
 ## Related Strategies
 - 

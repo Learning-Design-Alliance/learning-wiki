@@ -43,5 +43,8 @@ Qualitative synthesis answering the review's research question across 179 docume
 
 
 ## Related Claims
+
 - [Technology disciplines, especially Computer Science and Data Science, lead contributions to AI literacy across TIECD dimensions, while Design (AILE 5.1) is underrepresented across all STEAM clusters](technology-disciplines-dominate-ai-literacy-design-underrepresented.md) — related
 - [The belief that the United States exclusively dominates the AI arena is challenged by the rapid ascent of China](us-exclusive-ai-dominance-challenged-by-china.md) — related
+- [China has overtaken the US as the leading producer of AIEd higher education publications](china-overtakes-us-ai-ed-he-publications.md)
+- [Hardly any K-12 AI learning experiences assessed whether students understood AI concepts after the learning experience](k12-ai-literacy-lacking-outcome-assessment.md)

@@ -24,7 +24,8 @@ TaraCarp is a tangible user-interface tabletop environment developed for vocatio
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [TapaCarp](tapacarp.md)
 
 ## Key Sources
 - Cress, U., Stahl, G., Ludvigsen, S., & Law, N. (2015). The core features of CSCL: Social situation, collaborative knowledge processes and their design. International Journal of Computer-Supported Collaborative Learning, 10, 109-116. https://doi.org/10.1007/s11412-015-9214-2

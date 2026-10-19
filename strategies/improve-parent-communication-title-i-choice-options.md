@@ -17,7 +17,7 @@ sources:
 # Improve communication with parents about Title I choice options to raise participation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Because the report attributes low take-up of Title I school choice and supplemental educational services partly to "problems communicating with parents," districts implementing these options should attend to how option information reaches parents. The report presents this as an implementation lesson from the first year of two national studies of NCLB parental choice options.
@@ -35,6 +35,10 @@ Because the report attributes low take-up of Title I school choice and supplemen
 
 ### Target Learning Goals
 - Access to school choice and supplemental educational services among eligible Title I students
+
+## Claims
+
+- [Low participation rates in Title I school choice and supplemental educational services may be related to problems communicating with parents](../claims/low-participation-related-to-parent-communication-problems.md) [+W]
 
 ## Related Strategies
 - 

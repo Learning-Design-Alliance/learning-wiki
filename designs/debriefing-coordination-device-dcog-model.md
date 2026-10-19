@@ -17,7 +17,7 @@ sources:
 # DCog model of debriefing as a coordination device for conversational remembering and distributed metacognition
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article reconceptualises the three-phase simulation debriefing through distributed cognition, arguing that the debriefing conversation itself is the major coordination device. Its model holds that "debriefing conversations function as coordination devices for two key processes: conversational remembering and distributed metacognition", coordinating a cascade of representations from private memory to public speech. A coordination device is a structure or practice that constrains participants' actions to control how representations propagate within a distributed cognitive system. The model emerged abductively from cognitive-ethnographic analysis of one exemplary debriefing case.
@@ -39,10 +39,14 @@ The article reconceptualises the three-phase simulation debriefing through distr
 - professional knowledge and judgment in acute care
 
 ### Claims
-- 
+
+- [Debriefing description phase enacts conversational remembering that turns private recollections into a public, shared epistemic artifact](../claims/debriefing-conversational-remembering-public-artifact.md) [+W]
+- [Debriefing analysis and application phases operate as distributed metacognition on the publicly shared account](../claims/distributed-metacognition-analysis-application.md) [+W]
+- [The facilitator builds the shared account by shifting between narrator, mentor, and monitor roles and consolidating group consensus](../claims/facilitator-role-shifting-shared-account.md) [+W]
 
 ## Related Designs
-- 
+
+- [The three-phase debriefing model (description, analysis, application) structuring the post-simulation discussions](three-phase-debriefing-model-description-analysis-application.md)
 
 ## Examples
 -

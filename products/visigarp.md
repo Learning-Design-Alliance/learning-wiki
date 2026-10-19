@@ -26,7 +26,8 @@ VISIGARP is a domain-independent SWI-PROLOG/XPCE educational tool that generates
 - [Participants answered the VISIGARP inspection exercises with high accuracy (M = 94.3%)](../claims/visigarp-treatment-accuracy.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Cerrado Succession Hypothesis (CSH) qualitative model library](cerrado-succession-hypothesis-csh-qualitative-model-library.md)
 
 ## Key Sources
 - Anders Bouwer, Bert Bredeweg. (2010). Graphical means for inspecting qualitative models of system behaviour. Instr Sci 38:173–208. https://doi.org/10.1007/s11251-008-9083-4

@@ -12,7 +12,7 @@ generated:
 # Inferentialist epistemology for analyzing students' mathematical reasoning
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article develops an epistemological framework based on Brandom's inferentialism for studying students' reasoning on the order relation of integers. It treats reasoning as social, situated in the 'game of giving and asking for reasons' (GoGAR), implicitly normative, and holistic, with concepts interconnected in students' claims. It asks for the inferences students draw from out-of-school life, the mathematics classroom, contexts, and external representations such as the number line, prioritizing the reasoning itself over internal mental models.
@@ -22,6 +22,9 @@ The article develops an epistemological framework based on Brandom's inferential
 - **Inferentialist epistemology for analyzing students' mathematical reasoning**: The article develops an epistemological framework based on Brandom's inferentialism for studying students' reasoning on the order relation of integers. It treats reasoning as social, situated in the 'game of giving and asking for reasons' (GoGAR), implicitly normative, and holistic, with concepts interconnected in students' claims. It asks for the inferences students draw from out-of-school life, the mathematics classroom, contexts, and external representations such as the number line, prioritizing the reasoning itself over internal mental models. (Maike Schindler et al. (2017))
 
 ### Claims
+
+- [Students' initial correct answers can mask reasoning based on a subtraction strategy not previously reported for integer order comparisons](../claims/nicole-subtraction-strategy-order-relation.md) [+W]
+- [Before instruction, a strong sixth grader infers integer order reasoning from out-of-school thermometer experiences, with zero as a significant concept](../claims/tom-thermometer-zero-inference.md) [+W]
 
 ## Related Research Methods
 -

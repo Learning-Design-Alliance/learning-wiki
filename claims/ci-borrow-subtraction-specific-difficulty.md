@@ -43,4 +43,7 @@ Two-way ANOVA (borrow vs. non-borrow problems × group, CE covariate) on the sub
 
 
 ## Related Claims
--
+
+- [Children with cochlear implants are generally slower than hearing peers in multiplication and subtraction but show comparable error profiles](ci-children-general-slowing-multiplication-subtraction.md)
+- [In children with cochlear implants, hearing age correlates with fewer non-table multiplication errors and faster borrow subtraction, unlike in hearing peers](ci-hearing-age-correlates-arithmetic-error-patterns.md)
+- [Number line estimation error increases more strongly for children with cochlear implants when the range extends from 0–100 to 0–1000](ci-number-line-place-value-range-interaction.md)

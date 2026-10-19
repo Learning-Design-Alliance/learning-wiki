@@ -62,8 +62,10 @@ Same intervention simulations comparing the two weaker levers. Damping social pr
 
 
 ## Related Claims
+
 - [In the agent-based model, task difficulty and AI quality set the baseline level of overreliance, with difficulty the dominant global factor](simulation-task-difficulty-ai-quality-set-overreliance-baseline.md) — related
 - [In the model, social learning creates consensus in trust without shifting aggregate reliance; connectivity alone does not produce collective overreliance](social-learning-consensus-not-aggregate-overreliance.md) — related
 - [In the model, visible unverified peer use (social proof) suppresses verification and tips the population into collective overreliance, via a smooth crossover with no hysteresis](social-proof-verification-collapse-cascade.md) — related
 - [In the model, high-quality AI on hard tasks produces the highest regret despite moderate overreliance, because agents over-defer and rarely self-rely](high-regret-overdeferral-good-ai-hard-tasks.md) — related
 - [Students given AI assistance in peer feedback tended to rely on the AI-generated feedback and struggled to perform the task when the assistance was removed](ai-assistance-peer-feedback-overreliance.md) — related
+- [Classroom verification norm is predicted to show threshold behavior and hysteresis rather than a smooth response to teacher-set requirements](verification-norm-threshold-hysteresis-prediction.md)

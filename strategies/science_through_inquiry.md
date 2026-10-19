@@ -63,9 +63,12 @@ Inquiry can produce strong conceptual gains, but only when it is scaffolded: ung
 6. Close the cycle with [Model Revision](../elements/model-revision.md) — learners explicitly compare their revised explanation to their initial one, and the instructor consolidates the canonical science
 
 ## Related Strategies
+
 - [Case-Based Learning](case-based-learning.md) — inquiry applied to rich, realistic scenarios rather than laboratory phenomena
 - [Problem-Based Learning](problem-based-learning.md) — inquiry driven by an authentic problem rather than a scientific question
 - [Predict-Observe-Explain](predict-observe-explain.md) — a compact inquiry routine that surfaces misconceptions before investigation
+- [Run laboratory investigations as ADI cycles: design a method, argue, write, peer review, revise](adi-lab-cycle-implementation-strategy.md)
+- [Use scientific visualization to link the aims of education to the practices of science through exploratory, inquiry-driven learning](scivis-inquiry-driven-learning-strategy.md)
 
 ## Related Elements
 - [Question Formulation](../elements/question-formulation.md) — the entry point; question quality constrains everything downstream

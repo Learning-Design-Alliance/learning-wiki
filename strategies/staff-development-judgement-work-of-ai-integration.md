@@ -45,6 +45,7 @@ For the shift from teacher-centric delivery to AI-augmented facilitation, the ar
 
 - [Structure AI-focused professional development as a supported trajectory of planning, reflection, design autonomy, and embedded critical AI literacy](pd-supported-trajectory-reflection-critical-ai-embedding.md)
 - [Embed structured AI literacy in business curricula: teach verification, comparison, and transparent AI-use declarations rather than restricting or unrestrictedly encouraging GenAI](structured-ai-literacy-genai-business-curricula.md)
+- [Use technology-mediated learning to shift the trainer's role from knowledge provider to facilitator and foster reflection](technology-mediated-learning-for-teacher-reflection.md)
 
 ## Examples
 -

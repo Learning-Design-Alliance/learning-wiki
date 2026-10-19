@@ -39,6 +39,7 @@ The brief's second guideline states that, given the gap between adolescents' emo
 ## Related Strategies
 
 - [Provide self-regulation interventions at varying levels and intensity matched to youth context and needs](tiered-self-regulation-intervention-support.md)
+- [Integrate family and school contexts in interventions and promote adolescent academic self-regulation to support the high school transition](cross-context-family-school-asr-interventions.md)
 
 ## Examples
 -

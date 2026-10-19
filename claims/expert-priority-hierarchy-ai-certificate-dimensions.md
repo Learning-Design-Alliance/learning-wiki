@@ -43,7 +43,9 @@ AHP analysis of structured pairwise comparisons from 18 domain experts across Ch
 
 
 ## Related Claims
+
 - Expert rating consistency passed all AHP thresholds, with the main dimension matrix CR = 0.0307 — related
 - [Student AI competency achievement and curriculum-AI frontier alignment dominate the indicator-level priority ranking](ai-competency-achievement-top-indicator.md) — related
 - [Expert perceptions reveal a developmental asymmetry in which content knowledge outweighs integrated pedagogical capacity in AI education](developmental-asymmetry-ck-over-tpack.md) — possibly the same claim (merge candidate)
 - [Monte Carlo simulation confirms weight and score stability of the expert-derived priorities under judgment perturbation](mc-simulation-robustness-ahp-fahp-weights.md) — related
+- [Experts' AHP priorities cluster into three groups differing by seniority and LA expertise](expert-priority-clusters-seniority-la-expertise.md)

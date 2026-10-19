@@ -44,4 +44,7 @@ Tone coding of LlamaLo's posts in the ten discussions (Findings §4.2, Fig. 4), 
 
 
 ## Related Claims
--
+
+- [LlamaLo exhibited bias and presented contested assertions as facts, notably in the Israeli-Palestinian conflict discussion](llamalo-bias-contested-assertions.md)
+- [LlamaLo added knowledge in almost every post, mostly correct, and most posts were internally coherent](llamalo-knowledge-addition-coherence.md)
+- [LlamaLo's responses to social posts were solely social and it did not push back to resume the discussion](llamalo-social-shift-no-resume.md)

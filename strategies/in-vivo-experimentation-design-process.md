@@ -37,7 +37,9 @@ The editorial describes the Walker, Rummel and Koedinger approach of adapting au
 - Improving the quality of collaborative student interactions with automated support
 
 ## Related Strategies
-- 
+
+- [Use in vivo experimentation: rigorous experimental contrasts embedded in operating courses with real students, real subject matter, and real contexts](in-vivo-experimentation-methodology.md)
+- [Use design research to study the interplay of guidance and discovery, trading methodological control for ecological validity](design-research-for-guidance-discovery-interplay.md)
 
 ## Examples
 -

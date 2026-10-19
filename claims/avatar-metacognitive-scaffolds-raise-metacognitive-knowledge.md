@@ -43,4 +43,7 @@ Multivariate, multilevel regression (N=54, 18 triads) predicting metacognitive k
 
 
 ## Related Claims
--
+
+- [Problematizing scaffolds produced a small significant positive effect on individual metacognitive knowledge compared to structuring scaffolds](problematizing-scaffolds-metacognitive-knowledge.md)
+- [Metacognitive activities mediate the effects of metacognitive scaffolds on both domain and metacognitive knowledge](metacognitive-activities-mediate-scaffolding-effects.md)
+- [Only problematizing scaffolds, not structuring scaffolds, significantly raise domain knowledge](only-problematizing-scaffolds-raise-domain-knowledge.md)

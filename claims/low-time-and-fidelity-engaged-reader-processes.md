@@ -43,6 +43,8 @@ Descriptive statistics for the 85-student quantitative sample show CLASSIC perce
 
 
 ## Related Claims
+
 - [Fidelity of implementation and percentage of instructional time on engaged reader processes added only 2% explained variance to comprehension post-test scores beyond controls](fidelity-time-added-2-percent-variance-comprehension.md) — related
 - [Homogeneous comprehension-needs groups spent less time on engaged reader processes but received better-aligned instruction than heterogeneous groups](homogeneous-groups-less-time-better-fidelity-alignment.md) — related
 - [Typical-gain teacher's students received the most inappropriate directions and prompts for setting a purpose and were seldom reminded to return to the purpose with evidence](inappropriate-directions-prompts-typical-teacher.md) — related
+- [Tutoring sessions were implemented with high procedural fidelity (mean 93.4%)](treatment-fidelity-peer-tutoring-sessions.md)

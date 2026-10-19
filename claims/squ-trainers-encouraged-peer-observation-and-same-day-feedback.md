@@ -62,4 +62,5 @@ Same survey, reflection-through-talking theme, Item 13. "81.9 per cent agreed th
 
 
 ## Related Claims
--
+
+- [Trainee and trainer responses contradicted each other on ten questionnaire items (4, 10, 11, 14, 17, 18, 19, 21, 23, 25), suggesting a lack of coordination among trainers](trainee-trainer-response-contradiction-ten-items.md)

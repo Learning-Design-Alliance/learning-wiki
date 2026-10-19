@@ -18,7 +18,7 @@ sources:
 # jmatayoshi/affect-transitions
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 An open-source Python module by Jeffrey Matayoshi for simulating affect transitions and computing L and L* statistics.
@@ -28,6 +28,8 @@ An open-source Python module by Jeffrey Matayoshi for simulating affect transiti
 - **Python module for affect transition simulations and L/L* computation (jmatayoshi/affect-transitions)**: The article references a released software artifact: "See Matayoshi (2020) for a Python module for performing these simulations and computing L and L∗ values." The reference list identifies it as "jmatayoshi/affect-transitions: Release 1.0.0." The module supports the simulation-based evaluation of L* described in Section 6 and computation of both statistics on affect sequences. (Jeffrey Matayoshi et al. (2020))
 
 ### Claims
+
+- [Theoretical ranges differ sharply: L with self-transitions removed is bounded below by −1 (individual base rates) or −2 (averaged), while L* is bounded by −k+1 (individual) or has no finite lower bound (averaged)](../claims/l-and-l-star-theoretical-value-ranges.md) [+W]
 
 ## Related Products and Programmes
 -

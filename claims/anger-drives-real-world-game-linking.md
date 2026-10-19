@@ -43,4 +43,5 @@ Qualitative episode analysis of Red City's first gameplay episode in the City Se
 
 
 ## Related Claims
--
+
+- [After a team's tilting episode, its conversation became dominated by anger and lost all game-action talk](tilting-collapses-discussion-quality.md)

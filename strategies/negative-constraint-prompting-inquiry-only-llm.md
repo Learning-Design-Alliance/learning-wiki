@@ -17,7 +17,7 @@ sources:
 # Constrain an LLM to inquiry-only questioning via negative system-prompt constraints plus strict JSON schemas
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article's constraint methodology combines three mechanisms: system prompts with explicit negative constraints ("Do NOT rewrite the student's text", "Avoid yes/no questions"), a specified internal reasoning protocol the model executes without outputting (argument segmentation, issue detection, epistemic state classification, trigger prioritization), and OpenAI Structured Outputs with strict: true so the model is constrained at decode time to emit only conformant JSON. Returned excerpts are verified as exact substrings of the essay and silently dropped otherwise, so hallucinated quotations cannot drive contextual highlighting.
@@ -36,6 +36,10 @@ The article's constraint methodology combines three mechanisms: system prompts w
 
 ### Target Learning Goals
 - inquiry-based feedback on argument structure
+
+## Claims
+
+- [Schema-constrained Structured Outputs eliminated parse failures: every /challenge and /unlock call returned a valid, fully-typed object during development testing](../claims/structured-outputs-eliminate-parse-failure-class.md) [+W]
 
 ## Related Strategies
 - 

@@ -43,4 +43,6 @@ Editorial discussion of the empirical study by Rummel, Mullins & Spada combining
 
 
 ## Related Claims
--
+
+- [The three major theories of artifact-people interaction operate at different levels: affordances individual, structuration societal, instrumental genesis small-group](three-theories-artifact-levels-comparison.md)
+- [The editorial calls for empirically grounded analysis combining Rabardel's theory with design-based research data to study mutual shaping of CSCL software and group cognition](rabardel-plus-design-based-research-agenda.md)

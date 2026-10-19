@@ -43,4 +43,5 @@ Regression on transfer scores in the same Study 1 sample of 191 students; the ov
 
 
 ## Related Claims
--
+
+- [Seductive detail amount did not increase learners' intrinsic motivation in either study](sd-amount-no-motivation-effect.md)

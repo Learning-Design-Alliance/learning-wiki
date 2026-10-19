@@ -40,7 +40,9 @@ RALL-E (Robot-Assisted Language Learning in Education) is an Alelo project that 
 - 
 
 ## Related Designs
-- 
+
+- [Teachy Mini: a knowledge-based generative social robot tutoring prototype on the Reachy Mini platform](teachy-mini-gsr-tutoring-prototype.md)
+- [AIfred: desk-based robotic arm with end-effector projector delivering spatially co-located generative AI assistance](aifred-robotic-projection-system.md)
 
 ## Examples
 -

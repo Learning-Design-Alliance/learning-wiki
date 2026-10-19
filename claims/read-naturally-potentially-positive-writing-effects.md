@@ -46,9 +46,11 @@ Writing-domain finding from the same WWC-reviewed RCT (Chenault et al., 2006; 20
 - [Writing Skills](../learner-variables/writing-skills.md) — outcome: instruction changes it
 
 ## Related Claims
+
 - [Growth Mindset interventions have potentially positive effects on postsecondary academic achievement (improvement index +13)](growth-mindset-potentially-positive-academic-achievement-postsecondary.md) — related
 - [LiPS shows potentially positive effects on math: no statistically significant effect on the WJ–R Calculation subtest, but a positive effect size of 0.30 judged substantively important](lips-potentially-positive-math-calculation.md) — related
 - [SMART® effects on comprehension were not statistically significant on either subtest, though the domain-average effect size was substantively important](smart-comprehension-nonsignificant-substantive-average.md) — related
 - [PALS shows potentially positive effects on reading fluency for students with learning disabilities, with a substantively important but not statistically significant WWC-calculated effect size of 0.41 in Saenz et al. (2005)](pals-potentially-positive-reading-fluency-ld.md) — related
 - [The evidence base for Read Naturally® with students with learning disabilities is small: one qualifying RCT of 20 students, with 42 of 43 reviewed studies excluded](read-naturally-small-evidence-base-learning-disabilities.md) — related
 - [Earobics® has potentially positive effects on reading fluency, with no statistically significant fluency findings](earobics-potentially-positive-reading-fluency.md) — related
+- [Students with EDF grow into school-assessed learning disabilities, written expression first and reading comprehension next](edf-progresses-to-written-expression-then-reading-comprehension.md)

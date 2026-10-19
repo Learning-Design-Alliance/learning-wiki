@@ -17,7 +17,7 @@ sources:
 # Three-sample language elicitation battery with WAIS vocabulary and digit-span tests
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 A measurement battery combining three language samples with cognitive tests. Samples were "an oral questionnaire eliciting information about the adults' background, education, and current health and activities; an oral statement describing the person they most admired; and a written statement recounting the most significant event in their lives," plus "the WAIS vocabulary and digit-span tests." It yields length, clause-structure, and fluency measures across genres.
@@ -39,7 +39,10 @@ A measurement battery combining three language samples with cognitive tests. Sam
 - measuring syntactic complexity, fluency, and clause structure in adult language
 
 ### Claims
-- 
+
+- [Better-educated adults scored higher on WAIS vocabulary, produced longer utterances, and used more right-branching clauses](../claims/education-linked-longer-utterances-right-branching.md) [+W]
+- [Adults with greater memory capacity, measured by WAIS Digits Backward, produced more complex utterances and used more right- and left-branching clauses](../claims/memory-capacity-linked-utterance-complexity.md) [+W]
+- [Elderly adults show an overall decrement in the complexity of oral and written statements attributable to an age-related loss of left-branching clauses across all three language samples](../claims/aging-reduces-syntactic-complexity-left-branching-loss.md) [+W]
 
 ## Related Designs
 - 

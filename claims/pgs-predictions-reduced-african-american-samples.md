@@ -43,4 +43,6 @@ Discussion synthesis of the meta-regression results: predictions "were reduced b
 
 
 ## Related Claims
--
+
+- [Only 15% of published polygenic score estimates for education come from non-European ancestry samples, all recruited in the US](eurocentric-sample-base-pgs-education-research.md)
+- [Polygenic scores based on the Lee et al. (2018) GWAS show a meta-analytic association of ρ = 0.27 with educational attainment](pgs-educational-attainment-rho-27-meta.md)

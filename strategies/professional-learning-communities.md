@@ -75,6 +75,7 @@ PLCs work when they shift professional learning from transmission (expert delive
 - [Run a cross-district improvement collaboration combining content communities, dedicated advisors, and structured peer feedback](cross-district-improvement-collaboration-structure.md)
 - [Run regular teacher-team data meetings around student-level indicator reports to identify struggling students, assign interventions, and coordinate support](ewi-team-data-meetings-coordinate-interventions.md)
 - [Policy actions to build collaborative professional capacity through PLCs](plc-supportive-staffing-and-policy-actions.md)
+- [Weekly design meetings as key sites of teacher inquiry, collaboration, and knowledge creation](weekly-design-meetings-teacher-inquiry.md)
 
 ## Examples
 - **Solution Tree / DuFour model** ([solutiontree.com](https://www.solutiontree.com)) — the most widely adopted PLC framework; schools organize into course-alike or grade-level teams running assessment-analysis cycles.

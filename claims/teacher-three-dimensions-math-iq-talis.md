@@ -62,4 +62,5 @@ Model-fit indices for the pooled three-factor teacher model estimated with MLR i
 
 
 ## Related Claims
--
+
+- [The five-dimensional student model achieved metric but not scalar measurement invariance across the seven countries, permitting association comparisons but not latent mean comparisons](student-model-metric-invariance-holds.md)

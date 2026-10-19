@@ -39,7 +39,10 @@ For the direct/distal pathway, the authors argue intervention must "start early 
 - sustained engagement with math courses and number-reliant activities
 
 ## Related Strategies
-- 
+
+- [Reduce math anxiety in children with DD by improving math achievement early through targeted interventions](early-achievement-interventions-reduce-math-anxiety-dd.md)
+- [Support parents in providing a rich home literacy environment during the early years to foster emergent reading skills](support-parents-rich-home-literacy-environment.md)
+- [Integrate family and school contexts in interventions and promote adolescent academic self-regulation to support the high school transition](cross-context-family-school-asr-interventions.md)
 
 ## Examples
 -

@@ -37,7 +37,8 @@ Within the CSCL environment, assignments stimulated collaboration through "indiv
 - Information sharing, shared decision making, and collaborative problem solving in domain tasks
 
 ## Related Strategies
-- 
+
+- [Support group cohesion by cultivating belongingness and interdependence through the chatbot](chatbot-group-cohesion-belongingness-interdependence.md)
 
 ## Examples
 -

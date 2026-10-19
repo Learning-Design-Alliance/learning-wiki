@@ -43,8 +43,10 @@ Logistic and propensity-matched models in Table 7 for science club: odds ratios 
 
 
 ## Related Claims
+
 - [Gender does not moderate the club participation–GPA relationship in math or science](gender-does-not-moderate-club-gpa-relationship.md) — related
 - [Math club participation is associated with higher odds of declaring a STEM major in college, remaining significant after propensity score matching](math-club-participation-stem-college-major.md) — related
 - [Science club participation is positively associated with high school science GPA, significant across all three propensity score matching methods](science-club-participation-higher-science-gpa.md) — related
 - [The science club–science GPA relationship is not significant for Asian students, though the math club relationship is](asian-students-science-club-null-math-significant.md) — related
 - [STEM club participants differ descriptively from non-participants in GPA, course-taking, test scores, and college desire](stem-club-participants-descriptive-differences.md) — related
+- [Attending an inclusive STEM high school is not associated with declaring a STEM major at a two-year college](ishs-no-two-year-stem-major-effect.md)

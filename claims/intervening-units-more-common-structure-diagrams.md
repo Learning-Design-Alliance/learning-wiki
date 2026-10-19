@@ -62,4 +62,7 @@ Null result from the same data set: 14 of 47 direct-only images (30%), 4 of 18 i
 
 
 ## Related Claims
--
+
+- [Comparison prompts are strongly concentrated in process diagrams (93%) and rare in photos (20%)](comparison-frequency-varies-by-image-type.md)
+- [Fewer than half of textbook images requiring comparison have an optimal spatial layout (direct placement) for structural alignment](fewer-than-half-images-direct-placement.md)
+- [Over a third of images in middle school life science textbooks prompt students to compare visual units](textbook-images-prompt-comparison-37-percent.md)

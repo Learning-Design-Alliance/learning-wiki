@@ -43,4 +43,6 @@ Multiple linear regression on the 478-student analytic sample with AI dependency
 
 
 ## Related Claims
--
+
+- [Effort regulation negatively predicts, and general academic help seeking positively predicts, reported AI dependency; time management is non-significant](effort-regulation-buffers-help-seeking-predicts-ai-dependency.md)
+- [Both academic self-efficacy and AI self-efficacy are negatively associated with reported AI dependency, supporting a unified compensatory mechanism](self-efficacy-negatively-predicts-ai-dependency.md)

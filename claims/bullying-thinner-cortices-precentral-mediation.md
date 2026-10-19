@@ -43,4 +43,5 @@ LMM analysis of cortical thickness in the matched ABCD sample across two visits.
 
 
 ## Related Claims
--
+
+- [Bullied preadolescents show larger cortical volumes in left entorhinal, left superior parietal, and right fusiform regions than matched non-bullied peers](bullying-larger-cortical-volumes-entorhinal-parietal-fusiform.md)

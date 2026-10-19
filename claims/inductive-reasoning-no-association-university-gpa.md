@@ -43,4 +43,5 @@ Null finding across the correlation and regression analyses in the study; the co
 
 
 ## Related Claims
--
+
+- [Trait emotional intelligence showed no significant association with university GPA, despite correlating with engagement, SRL strategies and self-efficacy](trait-ei-no-direct-association-university-gpa.md)

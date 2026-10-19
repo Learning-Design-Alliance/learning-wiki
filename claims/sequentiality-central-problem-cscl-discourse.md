@@ -43,4 +43,6 @@ Editors' framing (type e) of the Suthers, Dwyer, Medina and Vatrapu opening arti
 
 
 ## Related Claims
--
+
+- [Sequential analysis of discourse reveals meaning-making processes in small-group CSCL interactions](sequential-analysis-of-small-group-cognition.md)
+- [Diffusion-based centralities elucidate information exchange and uptake in large-scale collaboration, validated against achievement and qualitative analysis, according to the editors' account of Saqr and López-Pernas's study](diffusion-centralities-role-taking-cscl.md)

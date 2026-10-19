@@ -43,6 +43,8 @@ A randomized controlled trial of Cignition group tutoring (groups of up to four 
 
 
 ## Related Claims
+
 - [Cignition group tutoring produced slightly higher math confidence and enjoyment than control in an RCT](cignition-tutoring-confidence-enjoyment-gains.md) — related
 - [Tutored students reported positive relationships with Cignition tutors, with little variation in relationship quality across tutors](cignition-tutor-relationships-positive-uniform.md) — related
 - [High-quality tutoring produces large learning gains cost-effectively, in person and virtually](tutoring-large-cost-effective-gains.md) — a broader claim this one bears on
+- [4th and 5th grade students learning fractions with an ITS show significant learning gains in individual, collaborative, and combined conditions](all-conditions-significant-fractions-its-gains.md)

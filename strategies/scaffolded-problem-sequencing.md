@@ -60,9 +60,11 @@ Sequencing works because it keeps each task within working memory limits while s
 6. Close the sequence with problems that vary surface features so learners must select, not just execute, a method
 
 ## Related Strategies
+
 - [Use Worked Examples](worked-examples-first.md) — the support mechanism most commonly faded across a sequence
 - [Interleaving](interleaving.md) — contrasts with blocked sequencing; once basic fluency is established, mixing problem types improves discrimination
 - [Completion Problems](completion-problems-first.md) — the within-task form of fading
+- [Teach one-step equations in a hierarchical sequence: Type 1 without special features first, then Type 1 with special features, then Type 2 in the same order](hierarchical-teaching-sequence-one-step-equations.md)
 
 ## Examples
 - **[4C/ID](../patterns/4cid-four-component-instructional-design.md)** — van Merriënboer's model organizes whole learning tasks into task classes of increasing complexity, with decreasing learner support within each class; the canonical implementation of scaffolded sequencing.

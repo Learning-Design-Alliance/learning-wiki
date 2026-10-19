@@ -43,4 +43,5 @@ Exploratory factor analysis with varimax rotation on the coded activity frequenc
 
 
 ## Related Claims
--
+
+- [Regulation of social activities positively predicts group performance in CSCL inquiry tasks](social-regulation-positively-predicts-group-performance.md)

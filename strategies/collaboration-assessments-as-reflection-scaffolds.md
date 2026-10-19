@@ -41,6 +41,7 @@ The article recommends treating LLM-generated 7C collaboration assessments as st
 - [Allocate human and AI effort by dimension type: automate explicit-criteria dimensions, retain human review for pedagogical judgment](human-ai-division-of-labor-mcq-generation.md)
 - [Treat AI-generated lesson plans as drafts requiring teacher evaluation, adaptation, and pedagogical judgment](ai-lesson-plans-as-drafts-requiring-teacher-adaptation.md)
 - [Deploy GenAI for continuous longitudinal analysis of student development to enable ipsative feedback, and scaffold feedback literacies for all students](genai-ipsative-progress-tracking-strategy.md)
+- [Deploy automated analysis tools to support tutors' time-consuming analysis of CSCL conversations](automated-tools-supporting-tutor-conversation-analysis.md)
 
 ## Examples
 -

@@ -43,6 +43,7 @@ For educators at increased risk, the brief recommends regular mental health chec
 
 - [Embed practical stress-management and self-care strategies into existing daily routines](embed-wellbeing-strategies-daily-routines.md)
 - [Provide universal schoolwide supports for educator wellbeing through peer-to-peer structures, leader actions, and shared community norms](universal-schoolwide-educator-wellbeing-supports.md)
+- [Programming clubs should target upsolving discipline and peer network density through structured post-contest review and mentor-buddy systems](structured-upsolving-and-mentor-buddy-retention-strategy.md)
 
 ## Examples
 -

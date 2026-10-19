@@ -43,4 +43,6 @@ Research Question 2 examined whether differences in gameplay in conceptually-lad
 
 
 ## Related Claims
--
+
+- [Students favoring fast iterative solution strategies achieved lower learning gains than students with slow, elaborate, or balanced play](fast-iterative-strategies-lower-learning-gains.md)
+- [Playing EPIGAME produced a large, statistically significant pre-to-post gain in conceptual understanding of force and motion in 7th graders](study2-significant-prepost-gains-epigame.md)

@@ -47,6 +47,7 @@ The report recommends treating infrastructure investment as inseparable from tec
 - [Invest in dedicated instructional technology leadership roles and role-specific professional learning for AI literacy](role-specific-ai-professional-learning-leadership.md)
 - [Prioritize sustained, pedagogically grounded faculty TPACK development over one-off technology workshops and infrastructure investment](sustained-faculty-tpack-development-programs.md)
 - [Invest in technological infrastructure for evidence generation, including synthetic data, shared platforms, and privacy-enhancing technologies](invest-in-evidence-infrastructure.md)
+- [Pair literacy accountability indicators with funded professional development and aligned mandates](pair-literacy-accountability-with-funded-pd.md)
 
 ## Examples
 -

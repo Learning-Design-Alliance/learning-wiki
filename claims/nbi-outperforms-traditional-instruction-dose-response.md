@@ -41,4 +41,5 @@ The review reports a randomized controlled trial of school garden-based instruct
 
 
 ## Related Claims
--
+
+- [Sustained aerobic exercise improves children's EFs, with dose-response benefits for the most EF-demanding task and math in the high-dose group only](aerobic-exercise-dose-response-ef.md)

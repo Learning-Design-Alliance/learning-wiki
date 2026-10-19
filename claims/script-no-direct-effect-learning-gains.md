@@ -62,4 +62,5 @@ Main-study paired-samples t-test across both script groups: pre-test M = 13.13 v
 
 
 ## Related Claims
--
+
+- [In the main study, BRD articles were longer, but DDR articles had a lower relative error rate, and article length correlated positively with errors](brd-longer-articles-more-errors.md)

@@ -17,7 +17,7 @@ sources:
 # Structuring versus problematizing as two scaffolding mechanisms
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 2 studies (2 causal), `q3` · 1 of 2 report an effect size · 6 claims rest on one study
 
 ## Description
 The article adopts Reiser's distinction between two mechanisms by which scaffolding affects learning. "Structuring simplifies the learning assignment by reducing its complexity, clarifying the underlying components and supporting performance", for example by showing an exemplary plan, while problematizing increases complexity by posing questions that elicit learners' own strategies and metacognitive activities. The study instantiates these as two avatar scaffold conditions and finds they foster qualitatively different student interactions.
@@ -37,8 +37,13 @@ The article adopts Reiser's distinction between two mechanisms by which scaffold
 - metacognitive knowledge and domain knowledge during collaborative inquiry
 
 ### Claims
+
 - [Only Problematizing Scaffolds Raise Domain Knowledge](../claims/only-problematizing-scaffolds-raise-domain-knowledge.md) [+M]
 - [Avatar Metacognitive Scaffolds Raise Metacognitive Knowledge](../claims/avatar-metacognitive-scaffolds-raise-metacognitive-knowledge.md) [+M]
+- [Problematizing scaffolds produced a small significant positive effect on individual metacognitive knowledge compared to structuring scaffolds](../claims/problematizing-scaffolds-metacognitive-knowledge.md) [+W]
+- [Problematizing scaffolds produced a small significant positive effect on transfer of individual domain knowledge compared to structuring scaffolds](../claims/problematizing-scaffolds-transfer-effect.md) [+W]
+- [Problematizing scaffolds produced a medium significant positive effect on group performance compared to structuring scaffolds](../claims/problematizing-scaffolds-better-group-performance.md) [+W]
+- [Problematizing scaffolds elicit constructive, interaction-embedded metacognitive activities, whereas structuring scaffolds elicit application of examples](../claims/problematizing-scaffolds-elicit-constructive-interaction.md) [+W]
 
 ## Related Designs
 - 

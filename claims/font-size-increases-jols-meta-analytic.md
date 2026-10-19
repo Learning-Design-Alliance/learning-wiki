@@ -43,4 +43,5 @@ Meta-analysis of studies providing JOL data for the font size effect, using univ
 
 
 ## Related Claims
--
+
+- [Larger font sizes produce modestly better memory than smaller font sizes, with a small but significant pooled effect](font-size-improves-memory-meta-analytic.md)

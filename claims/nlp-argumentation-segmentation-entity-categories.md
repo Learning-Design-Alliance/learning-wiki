@@ -43,4 +43,5 @@ Editorial description of the approach by Mu, Stegmann, Mayfield, Rosé & Fischer
 
 
 ## Related Claims
--
+
+- [Essays within each tool group showed consistent homogeneity across named entities, n-grams, and topic ontology](nlp-homogeneity-ner-ngrams-ontology-within-groups.md)

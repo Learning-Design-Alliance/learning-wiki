@@ -13,7 +13,7 @@ generated:
 # Tailorshop microworld
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (1 review, 1 qualitative), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Tailorshop is a semantically rich factory-management computer simulation developed for studying and assessing complex problem solving.
@@ -25,8 +25,13 @@ Tailorshop is a semantically rich factory-management computer simulation develop
 
 ### Claims
 
+- [Nasty task environments increased negative affect and improved complex problem solving performance relative to nice environments](../claims/nasty-environments-improve-cps-performance.md) [+W]
+- [Computer-supported collaborative learning with simulation programs fostered conceptual change for students who were cognitively engaged and prepared to reflect on and reconstruct their conceptions](../claims/cscl-simulation-conceptual-change-cognitive-engagement.md) [+W]
+
 ## Related Products and Programmes
--
+
+- [MicroDYN](microdyn.md)
+- [Force and Motion Microworld (FMM)](force-and-motion-microworld-fmm.md)
 
 ## Key Sources
 - Joachim Funke. (2009). Complex problem solving: a case for complex cognition? Cogn Process. https://doi.org/10.1007/s10339-009-0345-0

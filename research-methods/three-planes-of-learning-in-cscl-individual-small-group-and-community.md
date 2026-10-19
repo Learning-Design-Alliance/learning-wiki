@@ -12,7 +12,7 @@ generated:
 # Three planes of learning in CSCL: individual, small-group, and community
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article names a tripartite unit-of-analysis framework for CSCL: "analyses of CSCL are often conducted on one of three levels: individual learning, small-group cognition or community knowledge building". The planes are actualized in classroom practice, where individual activities precede small-group work that culminates in whole-class sharing. The framework is grounded in CSCL practice and in Vygotsky's foundational role for intersubjective learning.
@@ -24,8 +24,14 @@ The article names a tripartite unit-of-analysis framework for CSCL: "analyses of
 
 ### Claims
 
+- [Small-group interaction generates and retains resources across all three planes](../claims/small-group-interaction-generates-shared-resources.md) [+W]
+
 ## Related Research Methods
--
+
+- [Four paradigms of shared knowledge span individual representations, shared objects, shared situations, and shared communities](four-paradigms-of-shared-knowledge-span-individual-representations-shared-objects-shared-s.md)
+- [Model of collaborative knowledge building across interconnected planes](model-of-collaborative-knowledge-building-across-interconnected-planes.md)
+- [Theory-driven units of analysis for educational dialogue across multiple timescales](theory-driven-units-of-analysis-for-educational-dialogue-across-multiple-timescales.md)
+- [Three interacting themes for examining CSCL classroom innovation](three-interacting-themes-for-examining-cscl-classroom-innovation.md)
 
 ## Key Sources
 - Stahl, G. (2012). Traversing planes of learning. Computer-Supported Collaborative Learning, 7, 467–473. https://doi.org/10.1007/s11412-012-9159-7

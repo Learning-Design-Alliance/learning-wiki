@@ -62,4 +62,8 @@ Race/ethnicity moderation results for the ACE-to-family-resilience pathway in th
 
 
 ## Related Claims
--
+
+- [As cumulative ACEs increase, children's probability of flourishing (learning interest, task completion, self-regulation) and family resilience decrease across race/ethnicity and income groups](aces-decrease-flourishing-and-family-resilience-all-groups.md)
+- [The moderated-mediation effect of family resilience on the ACEs-curiosity-in-learning relationship is significantly greater for Black than for White children](moderated-mediation-curiosity-greater-black-children.md)
+- [Family resilience partially mediates the association between ACEs and child flourishing, with mediation proportions varying by race/ethnicity and income](family-resilience-partially-mediates-aces-flourishing.md)
+- [ACE exposure is unevenly distributed: children below 400% FPL and Black and Hispanic children have higher prevalence of two or more ACEs](ace-prevalence-disparities-fpl-and-race.md)

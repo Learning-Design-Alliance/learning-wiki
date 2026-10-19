@@ -43,4 +43,5 @@ Summary of study one leadership configurations across eight groups. The article 
 
 
 ## Related Claims
--
+
+- [Emergent leadership did not differ between multi-touch table and paper conditions in study one](no-leadership-difference-multi-touch-paper.md)

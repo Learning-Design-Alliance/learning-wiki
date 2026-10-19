@@ -43,4 +43,5 @@ Automated LFA search over Q matrices was run on eleven DataShop datasets across 
 
 
 ## Related Claims
--
+
+- [LFA discovered that backward application of the circle area formula is a distinct, harder skill with no transfer from forward application](lfa-circle-area-backward-separate-skill.md)

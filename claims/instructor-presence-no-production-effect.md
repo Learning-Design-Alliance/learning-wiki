@@ -62,4 +62,5 @@ Acceptability (η² = 0.02) and confidence (F(1, 49) = 0.23, p =.631, η² = 0.0
 
 
 ## Related Claims
--
+
+- [Skin conductance level did not differ significantly between instructor-presence conditions, though arousal patterns appeared to vary with content difficulty](instructor-presence-no-scl-difference.md)

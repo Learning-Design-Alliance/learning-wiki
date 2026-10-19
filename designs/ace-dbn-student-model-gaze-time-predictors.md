@@ -17,7 +17,7 @@ sources:
 # ACE's Dynamic Bayesian Network student model with gaze-shift and time nodes as independent predictors of implicit self-explanation
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 ACE's student model is a Dynamic Bayesian Network that assesses exploratory behavior at multiple levels of granularity (exploration cases, exercises, units, and categories) together with knowledge nodes. The revised model separates the causes of implicit self-explanation from its effects, encoding gaze shifts and time on action "as independent predictors as in a naïve Bayesian classifier". This structure is highly modular, allowing the gaze shift and time nodes to be used or ignored as needed, and facilitates learning the conditional probability tables from data.
@@ -40,8 +40,12 @@ ACE's student model is a Dynamic Bayesian Network that assesses exploratory beha
 - Self-explanation of instructional material
 
 ### Claims
+
 - [Eye Tracking Improves Implicit Se Assessment](../claims/eye-tracking-improves-implicit-se-assessment.md) [+M]
 - [Se Assessment Improves Exploration Assessment](../claims/se-assessment-improves-exploration-assessment.md) [+M]
+- [Time and gaze-shift evidence are complementary predictors of self-explanation: time alone yields higher sensitivity, gaze shifts alone higher specificity, and the combination the best accuracy](../claims/time-and-gaze-evidence-complementary.md) [+W]
+- [In an initial eye-tracking study, time on action predicted self-explanation (16-second threshold) and gaze shifts were most reliable at detecting its absence](../claims/initial-study-time-and-gaze-predict-self-explanation.md) [+W]
+- [Leave-one-out cross-validation over 36 students confirms significant accuracy and stability gains from eye-tracking in both self-explanation and exploration assessment](../claims/cross-validation-confirms-eye-tracking-gains.md) [+W]
 
 ## Related Designs
 - 

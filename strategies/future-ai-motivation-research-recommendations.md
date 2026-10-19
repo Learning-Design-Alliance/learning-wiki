@@ -41,6 +41,8 @@ The review's forward-looking recommendations urge researchers to move "beyond is
 - [Strengthen the evidence base with comparative and longitudinal designs and include rural, underserved, and low-resource communities before presenting GenAI as democratizing](genai-children-future-comparative-longitudinal-equity-research.md)
 - [Four-part research agenda: longitudinal studies, hybrid frameworks, ethical frameworks, and underrepresented STEM domains](four-recommendations-ai-metacognition-research-agenda.md)
 - [Diversify AIED: use diverse technologies, address big problems, and reuse existing resources rather than reinventing content](aied-diversify-technologies-big-problems-existing-resources.md)
+- [Integrate autonomy and agency paradigms, standardise instruments, probe non-demographic moderators, and extend evaluations to longitudinal real-world settings](integrate-paradigms-longitudinal-hri-autonomy-research.md)
+- [Research agenda for advancing transformative communication environments: sociocultural theory, conversational analysis, and beyond-face-to-face affordances](transformative-communication-research-agenda.md)
 
 ## Examples
 -

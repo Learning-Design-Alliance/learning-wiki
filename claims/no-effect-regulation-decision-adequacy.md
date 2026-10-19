@@ -43,4 +43,5 @@ Regression analysis on regulation decision adequacy (restudy decisions scored 0 
 
 
 ## Related Claims
--
+
+- [Judgment accuracy of comprehension did not depend on misconceptions or instructional method](no-effect-judgment-accuracy-comprehension.md)

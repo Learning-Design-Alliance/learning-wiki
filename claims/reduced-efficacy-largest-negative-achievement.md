@@ -43,4 +43,8 @@ Robust variance random-effects meta-analysis pooling reduced-efficacy–achievem
 
 
 ## Related Claims
--
+
+- [Exhaustion is significantly negatively related to academic achievement (rc+ = −.15)](exhaustion-negative-achievement.md)
+- [Gender, achievement-measure objectivity, and education stage did not moderate the burnout–achievement relationship](no-moderation-gender-objectivity-stage.md)
+- [Cynicism is significantly negatively related to academic achievement (rc+ = −.24)](cynicism-negative-achievement.md)
+- [Total academic burnout is significantly negatively related to academic achievement (rc+ = −.24)](total-burnout-negative-achievement-meta-analysis.md)

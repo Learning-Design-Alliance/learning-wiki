@@ -39,7 +39,8 @@ Houle's 1961 study The Inquiring Mind, from which concepts of self-directed lear
 
 
 ## Related Theories
-- 
+
+- [Three-dimension framework distinguishing self-initiated learning, self-direction as personal attribute, and self-direction as educational goal](sdl-three-dimensions-framework.md)
 
 ## Examples
 -

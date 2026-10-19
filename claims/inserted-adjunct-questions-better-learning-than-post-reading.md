@@ -43,4 +43,9 @@ Randomized between-subjects experiment with 76 freshmen (39 inserted, 37 post-re
 
 
 ## Related Claims
--
+
+- [Students in the inserted-question condition spend more time reading the text initially than students in the post-reading condition](inserted-questions-longer-initial-reading.md)
+- [Inserted questions elicit more correct and fewer incorrect elaborations than post-reading questions, with no condition differences in paraphrases](inserted-questions-more-correct-elaborations.md)
+- [Post-reading-question students spend more time reading the questions for the first time than inserted-question students](post-reading-longer-task-model-formation.md)
+- [Post-reading-question students search significantly more text segments than inserted-question students, indicating less efficient search](post-reading-questions-inefficient-search.md)
+- [Question timing interacts with relevance of rereading: inserted-question students reread more relevant and less non-relevant information than post-reading students](question-timing-by-relevance-rereading-interaction.md)

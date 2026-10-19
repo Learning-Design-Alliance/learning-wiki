@@ -43,4 +43,9 @@ Observational analysis of LMS forum interaction networks from 12 problem-based l
 
 
 ## Related Claims
--
+
+- [In a correlation meta-analysis across 69 course offerings, diffusion-based centralities correlated with academic achievement with high combined coefficients and predictive intervals](diffusion-centralities-meta-analysis-achievement.md)
+- [Multigraph closeness centrality is the most consistent of the three configurations for correlating closeness with performance, though less robust than degree and eigenvector centralities](multigraph-closeness-most-consistent-configuration.md)
+- [Betweenness centrality shows the least consistent correlation with performance, being largely insignificant or negative across configurations except in one course](betweenness-centrality-least-consistent.md)
+- [Multigraph outdegree centrality is the most robust participation indicator, with significant positive correlations in all courses, while weighted outdegree was negatively correlated in two courses](multigraph-outdegree-most-robust-participation.md)
+- [Courses with a low number of forum interactions show inconsistent participation-dimension results, while eigenvector centrality remains robust there.](low-interaction-courses-inconsistent-participation-measures.md)

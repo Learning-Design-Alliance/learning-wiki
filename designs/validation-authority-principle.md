@@ -17,7 +17,7 @@ sources:
 # Principle of validation authority: delegation is safe exactly where the delegator can validate outputs
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article introduces the principle of validation authority, grounded in a bespoke-versus-socially-validated distinction: a library routine is opaque but socially validated through published algorithms, testing, and millions of users, while an AI-generated simulation is opaque and bespoke, "an artifact with a population of one, produced by a stochastic process whose competence boundary is jagged and invisible." The author's generalization is that "delegation is safe exactly where the delegator retains the ability to validate the outputs," which redefines a computational physics course as training validation authority over physical simulations.
@@ -37,7 +37,8 @@ The article introduces the principle of validation authority, grounded in a besp
 - judgment about when delegation to computational tools is safe and how to validate outputs
 
 ### Claims
-- 
+
+- [Delegating the terminal evaluation to AI is self-defeating: each hand-off returns one more output someone must accept or not](../claims/delegating-evaluation-self-defeating.md) [+W]
 
 ## Related Designs
 - 

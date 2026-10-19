@@ -43,4 +43,5 @@ Cognitive task analysis of nine expert teachers produced a skill hierarchy (Fig.
 
 
 ## Related Claims
--
+
+- [Novice teachers hold misconceptions about differentiation, such as equating DI with personalized instruction](novice-teacher-di-misconceptions.md)

@@ -62,4 +62,5 @@ Experiment 1 repeated measures ANOVA on self-assessed performance showed self-as
 
 
 ## Related Claims
--
+
+- [In Experiment 2, mental effort over time interacted with condition: the feedback + contrast condition increased effort from learning to test phase while other conditions decreased](exp2-mental-effort-condition-interaction.md)

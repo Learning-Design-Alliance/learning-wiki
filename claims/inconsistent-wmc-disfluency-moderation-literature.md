@@ -43,4 +43,5 @@ Narrative synthesis in the Discussion of the four experiments testing WMC modera
 
 
 ## Related Claims
--
+
+- [The null effect of the disfluency × WMC interaction on transfer replicated the primary study's null finding, with both studies showing negative coefficients](transfer-null-interaction-replicated.md)

@@ -17,7 +17,7 @@ sources:
 # RAG-based GenAI chatbot used as the AI-assisted learning support in the external validity study
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (2 for, 1 mixed) · 3 studies (2 design, 1 theoretical), `q1`–`q2` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 The external validity study used a GenAI chatbot built with a retrieval-augmented generation approach: learner prompts are embedded, cosine similarity retrieves relevant stored knowledge, and GPT-4o generates responses using the retrieved context, chat history, and the question. The article states this design was chosen "to improveresponserelevanceandreduceinaccuracies(hallucinations)" and represents openly accessible chatbots such as ChatGPT, Gemini, and Claude. Conversations are stored in the knowledge base for future context.
@@ -37,10 +37,15 @@ The external validity study used a GenAI chatbot built with a retrieval-augmente
 - comprehending complex visual analytics of teamwork in healthcare simulations
 
 ### Claims
-- 
+
+- [The RAG-enhanced assistant achieves context recall above 0.93 and answer relevance of 0.87 on an expert-built 52-question evaluation set](../claims/rag-assistant-high-recall-relevance.md) [+W]
+- [Retrieval-augmented generation reduces but does not eliminate hallucinations in AI-assisted verification](../claims/rag-reduces-not-eliminates-hallucinations.md) [~W]
+- [Retrieval augmentation is essential for on-premise educational QA: a local LLM without retrieval scores below even a TF-IDF baseline](../claims/retrieval-augmentation-essential-local-llm-below-tfidf.md) [+W]
 
 ## Related Designs
-- 
+
+- [Retrieval-augmented generative AI learning platform for construction education](rag-generative-ai-platform-construction-education.md)
+- [GraphRAG textbook knowledge retrieval for grounded tutoring](graphrag-textbook-retrieval-math-tutor.md)
 
 ## Examples
 -

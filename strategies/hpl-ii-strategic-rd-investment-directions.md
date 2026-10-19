@@ -37,7 +37,8 @@ The statement of task directs the report to "specify directions for strategic in
 - informing research, training, and technology investments that support learning
 
 ## Related Strategies
-- 
+
+- [Four strategic recommendations for supporting AI literacy across settings](strategic-recommendations-ai-literacy-across-settings.md)
 
 ## Examples
 -

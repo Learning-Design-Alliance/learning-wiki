@@ -43,4 +43,6 @@ Editorial announcement by the journal's Executive Editors reporting the journal'
 
 
 ## Related Claims
--
+
+- [ijCSCL ranked #11 of 203 ISI-ranked journals in Education and Educational Research, with a 2011 impact factor of 2.243](ijcscl-2011-impact-factor-ranking.md)
+- [In its first year the international journal of CSCL was adopted by the CSCL research community as a formal publication and feedback venue.](ijcscl-adopted-by-cscl-community-first-year.md)

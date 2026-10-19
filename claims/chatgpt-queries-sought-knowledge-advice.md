@@ -43,4 +43,7 @@ Quantitative content analysis of interaction screenshots (Table 4) in the case s
 
 
 ## Related Claims
--
+
+- [Some participants' ChatGPT interactions followed a pattern of inquiry-based learning with iterative prompt refinement](chatgpt-inquiry-based-learning-pattern.md)
+- [Participants' prompting was often limited, with poorly formulated prompts leading to vague or unhelpful outputs](poorly-formulated-prompts-vague-outputs.md)
+- [Effective AI help-seeking is itself a skill unevenly distributed among students, and access to an assistant is not equivalent to effective help-seeking](ai-help-seeking-is-a-skill.md)

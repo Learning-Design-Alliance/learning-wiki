@@ -43,4 +43,5 @@ The editors report on the experimental study by Erkens, Bodemer, and Hoppe, in w
 
 
 ## Related Claims
--
+
+- [Awareness of discourse patterns lets teachers scaffold students toward an epistemic orientation and stance](discourse-pattern-awareness-scaffolds-epistemic-orientation.md)

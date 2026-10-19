@@ -46,4 +46,5 @@ Narrative review of intervention work named in the article (Tools of the Mind, a
 - [Attention](../learner-variables/attention.md) — outcome: instruction changes it
 
 ## Related Claims
--
+
+- [Selective attention improves neural encoding of attended speech envelopes in children aged 7–12](attention-improves-speech-envelope-encoding-children.md)

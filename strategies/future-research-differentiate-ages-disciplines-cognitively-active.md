@@ -37,7 +37,11 @@ The review's implications section recommends that future work conduct longitudin
 - cognitive functions relevant to specific sporting disciplines
 
 ## Related Strategies
-- 
+
+- [Future CB-PA research and practice should use standardized, ecologically valid outcome measures, objective activity parameters, and longitudinal designs](standardized-ecologically-valid-cbpa-measures-strategy.md)
+- [Design physical activity interventions as continuous regular activity sustained over several weeks](continuous-regular-physical-activity-over-weeks.md)
+- [Conduct methodologically comparable experimental studies of acute PA and attention in school settings](comparable-school-setting-pa-attention-studies.md)
+- [Before or After-School Physical Activity Programs](before_or_after-school_physical_activity_programs.md)
 
 ## Examples
 -

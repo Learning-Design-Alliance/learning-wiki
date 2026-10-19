@@ -30,7 +30,8 @@ A production-system interpreter developed by Pat Langley and Neches that augment
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [CAPS](caps.md)
 
 ## Key Sources
 - Neches, Robert. (1982). Simulation Systems for Cognitive Psychology. Learning Research and Development Center, University of Pittsburgh. https://eric.ed.gov/?id=ED217874

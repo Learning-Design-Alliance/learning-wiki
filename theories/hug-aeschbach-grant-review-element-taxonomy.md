@@ -42,7 +42,8 @@ The report describes a comprehensive taxonomy of the criteria and elements revie
 - [Five frameworks for evaluating ex ante broader impacts of research vary in emphasis on methods versus outcomes](ex-ante-broader-impacts-frameworks-taxonomy.md)
 
 ## Examples
--
+
+- [Allocate human and AI effort by dimension type: automate explicit-criteria dimensions, retain human review for pedagogical judgment](../strategies/human-ai-division-of-labor-mcq-generation.md)
 
 ## Key Sources
 - Chandler, Jesse, Emily Rosen, Kimberley Raue, Katlyn Lee Milless and Danielle Rockman. 2024. A Review of Funder Instructions and Grant Reviewer Practices for Assessing the Intellectual Merit and Other Impacts of Research. Alexandria, VA: U.S. National Science Foundation. https://www.nsf.gov/pubs/2024/nsf24020/nsf24020.pdf

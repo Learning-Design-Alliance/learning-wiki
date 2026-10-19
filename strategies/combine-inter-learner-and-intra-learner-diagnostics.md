@@ -17,7 +17,7 @@ sources:
 # Combine inter-learner rankings with intra-learner diagnostics in assessment and feedback
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The authors' forward-looking recommendation for deploying analytic assessment: while inter-learner rankings provide essential comparative data, they should be paired with the self-referential, within-learner diagnostics that identify relative strengths and weaknesses in a learner's own profile. "This hybrid approach may offer a pathway to delivering more actionable and informative assessment and feedback to learners, teachers, and testers." The strategy follows directly from the finding that rank-based metrics alone can mask a system's diagnostic behaviour.
@@ -35,6 +35,11 @@ The authors' forward-looking recommendation for deploying analytic assessment: w
 
 ### Target Learning Goals
 - Actionable diagnostic feedback on L2 writing proficiency
+
+## Claims
+
+- [Human operational raters remain stronger than LLMs at identifying relative strengths (positive feedback) within learner profiles](../claims/human-raters-stronger-positive-feedback.md) [+W]
+- [In a self-referential framework, LLMs, particularly GPT-4.1, tend to outperform a single operational human rater at identifying relative weaknesses (negative feedback) across several Language and Content aspects](../claims/llms-outperform-single-rater-negative-feedback.md) [+W]
 
 ## Related Strategies
 - 

@@ -43,4 +43,5 @@ Regression on the Krieglstein et al. extraneous-load scale with Study 1's 191 st
 
 
 ## Related Claims
--
+
+- [Seductive detail amount did not increase learners' intrinsic motivation in either study](sd-amount-no-motivation-effect.md)

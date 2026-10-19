@@ -78,10 +78,12 @@ SMP works because it converts an invisible performance stream into visible, imme
 6. Fade the recording supports once target performance is maintained independently.
 
 ## Related Strategies
+
 - [Goal Setting](../elements/goal-setting.md) — SMP supplies the progress data that makes goals actionable
 - [Self-Evaluation](self-evaluation.md) — the judgment step that follows the monitoring step in the self-regulation cycle
 - [Check-Ins](../principles/check-ins.md) — structured teacher–learner conversations that can review self-monitored data
 - [Self-reinforcement](self-reinforcement.md) — the control-side counterpart: learners reward or adjust based on what monitoring reveals
+- [Use self-scoring against correct answers as a tool to foster primary students' monitoring accuracy during math problem-solving practice](self-scoring-foster-monitoring-accuracy-strategy.md)
 
 ## Examples
 - A student tallies the number of math facts answered correctly during a two-minute timing each day and graphs the results against a personal best (McDougall & Brady, 1998).

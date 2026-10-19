@@ -41,7 +41,8 @@ ConnectED uses the ADDIE instructional design model as a unifying orchestration 
 - [System Ablation Teacher Oversight And Addie Orchestration Value](../claims/system-ablation-teacher-oversight-and-addie-orchestration-value.md) [+M]
 
 ## Related Designs
-- 
+
+- [Four-component lesson plan representation schema grounded in curriculum studies and differentiated instruction](adapt-lesson-plan-representation-schema.md)
 
 ## Examples
 -

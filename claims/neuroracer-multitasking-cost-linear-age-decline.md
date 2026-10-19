@@ -43,5 +43,7 @@ Experiment 1: cross-sectional assessment of 174 participants (about 30 per decad
 
 
 ## Related Claims
+
 - [Blocked-format span declines after age 20 but mixed-format span does not, implicating proactive interference in aging declines](blocked-decline-mixed-no-decline-aging-span.md) — related
 - [Average pointing error increases linearly with age across younger and older adults in a real-world low-vision navigation task](spatial-learning-worsens-with-age-low-vision-navigation.md) — related
+- [Cross-sectional advantages are largest for perception, multitasking, spatial cognition, and top-down attention](avg-domain-pattern-perception-attention-spatial.md)

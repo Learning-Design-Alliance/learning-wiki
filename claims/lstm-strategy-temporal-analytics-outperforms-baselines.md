@@ -43,4 +43,5 @@ Computational evaluation on behavior trace data from 168 middle school students 
 
 
 ## Related Claims
--
+
+- [Adding in-game strategy features to pre-test features substantially improves LSTM-based stealth assessment accuracy](in-game-strategy-features-improve-prediction-over-pretest-only.md)

@@ -55,6 +55,7 @@ The report presents five essential basic elements that must be "precisely struct
 - [Cooperative Learning](../elements/cooperative-learning.md)
 - [Positive Interdependence](../elements/positive-interdependence.md)
 - [Group Processing](../elements/group-processing.md)
+- [Design CSCL assignments with individual accountability and positive interdependence](../strategies/cscl-individual-accountability-positive-interdependence.md)
 
 ## Key Sources
 - Rood, M. E. (1998). Cooperative Learning Staff Development. Final Report. Fiscal Year 1997-98. Luzerne County Community College. https://eric.ed.gov/?id=ED427216

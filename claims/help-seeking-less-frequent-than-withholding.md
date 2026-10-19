@@ -43,4 +43,5 @@ Experiment 2a strategy-use frequencies (Table 1: 17.27% help requests vs 48.09% 
 
 
 ## Related Claims
--
+
+- [Help seeking is guided by a wider variety of considerations beyond improving immediate answer accuracy than withholding answers is](help-seeking-multiple-considerations-beyond-accuracy.md)

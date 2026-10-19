@@ -29,6 +29,7 @@ Aimee Evan et al.'s rating-scale assessment helps charter school authorizers and
 
 - [Tool #2: Auditing Your Data Collection for Indicators of Distress](tool-2-auditing-your-data-collection-for-indicators-of-distress.md)
 - [Indicators-of-distress framework](indicators-of-distress-framework.md)
+- [Seven categories of charter school core functions for organizing distress indicators](seven-categories-of-charter-school-core-functions-for-organizing-distress-indicators.md)
 
 ## Key Sources
 - Aimee Evan, Hannah Sullivan, and Laura Groth (2021). Identifying Indicators of Distress in Charter Schools: Tools to Support Authorizer Data Collection. Bethesda, MD: Manhattan Strategy Group. https://ncsrc.info

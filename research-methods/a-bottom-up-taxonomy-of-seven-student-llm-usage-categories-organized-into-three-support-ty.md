@@ -27,6 +27,7 @@ The article presents a refined bottom-up coding scheme of students' LLM use, der
 
 ## Related Research Methods
 
+- [Six discourse functions mapped onto inquiry-based knowledge construction categories](six-discourse-functions-mapped-onto-inquiry-based-knowledge-construction-categories.md)
 
 ## Key Sources
 - Minju Park, Ivan Orozco Vasquez, and Cristina Conati. (2026). Characterizing Students' LLM Usage Behaviors and Their Association with Learning in Critical Thinking Tasks. https://arxiv.org/abs/2605.04534

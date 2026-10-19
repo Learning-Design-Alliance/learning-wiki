@@ -17,7 +17,7 @@ sources:
 # Promote task-based peer interaction in primary EFL classes and scaffold L2 meaning negotiation through formulaic language and explicit training in negotiation strategies
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The authors close by recommending that primary EFL instructors promote task-based peer interaction and provide learners with more scaffolding for meaning negotiation in the L2. They specify two concrete supports: "formulaic language and explicit training in meaning negotiation strategies". The recommendation rests on their finding that children can negotiate meaning in the L2 and that such negotiation constitutes opportunities for L2 learning.
@@ -35,6 +35,12 @@ The authors close by recommending that primary EFL instructors promote task-base
 
 ### Target Learning Goals
 - L2 meaning negotiation and communicative breakdown repair in English
+
+## Claims
+
+- [Mixed proficiency dyads negotiate for meaning more than matched proficiency dyads, irrespective of time and language](../claims/mixed-dyads-negotiate-more-than-matched.md) [+W]
+- [All meaning negotiation strategies appear in child EFL peer interaction except comprehension checks, which are absent](../claims/no-comprehension-checks-child-efl-nom.md) [+W]
+- [Mixed dyads outperform matched dyads in meaning negotiation only in the L2 (proficiency pairing × language interaction)](../claims/pairing-language-interaction-nom-l2-only.md) [+W]
 
 ## Related Strategies
 - 

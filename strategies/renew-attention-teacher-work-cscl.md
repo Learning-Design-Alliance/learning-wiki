@@ -17,7 +17,7 @@ sources:
 # Renew analytic attention to the teacher's work in studies of collaborative learning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 2 studies (1 associational, 1 qualitative), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 The paper recommends that CSCL research renew its interest in teachers, since detailed accounts of collaborative learning focus almost entirely on pupil interaction and leave the teacher absent. It concludes "it may be time to renew our interest in the work of teachers in the analysis of collaborative learning activities", building on exceptions such as Mercer and Fisher's study of teacher interventions and Roth's study of teacher-pupil interaction.
@@ -35,6 +35,13 @@ The paper recommends that CSCL research renew its interest in teachers, since de
 
 ### Target Learning Goals
 - Understanding how collaborative learning activities are set up, monitored, and shaped in classrooms
+
+## Claims
+
+- [Pupils often neglected the caption box although they were aware of it, displaying a divergent orientation to the teacher's aims](../claims/pupil-divergent-orientation-caption-box.md) [+W]
+- [During collaborative learning with computers, teachers' concerns of classroom management and pedagogy are typically intertwined](../claims/teacher-management-pedagogy-intertwined.md) [+W]
+- [When correcting pupil work, the teacher revoices rather than dismisses pupils' solutions, challenging them toward more sophisticated ones](../claims/teacher-revoicing-pupil-solutions.md) [+W]
+- [Teachers spent most CSCL class time on task management, content knowledge, technical support and observing, with minimal socio-emotional support](../claims/teacher-guidance-focus-distribution-cscl-science.md) [+W]
 
 ## Related Strategies
 - 

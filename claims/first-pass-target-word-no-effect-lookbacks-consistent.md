@@ -62,4 +62,9 @@ Simple-slopes analysis of the significant lookback × condition interaction at t
 
 
 ## Related Claims
--
+
+- [Consistency condition was significant in all GLMM models, with higher consistency judgement accuracy for consistent than inconsistent texts](consistency-condition-significant-all-models.md)
+- [Overall reading time did not differ between consistent and inconsistent texts, but participants judged consistent texts more accurately (d = 0.84), indicating inconsistencies were more often overlooked than falsely perceived](overlooking-inconsistencies-accuracy-asymmetry.md)
+- [Reanalysis of the pre-target text (rereading time and revisit frequency) interacted significantly with consistency condition in predicting consistency judgement accuracy](pre-target-reanalysis-condition-interaction.md)
+- [Longer first-pass reading time at the final word of the target sentence was negatively associated with consistency judgement accuracy](sentence-final-first-pass-time-negative-accuracy.md)
+- [Reanalysis of the inconsistent target word (longer rereading time and higher revisit probability) is associated with higher consistency judgement accuracy in inconsistent texts, but not in consistent texts](target-word-reanalysis-predicts-inconsistency-identification.md)

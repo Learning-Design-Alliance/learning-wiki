@@ -54,3 +54,4 @@ Trial-level Type-2 ROC area computed per participant from ten items did not diff
 - [Tell and no-agent conditions showed no significant JoL–confidence correlations, with mixed results for progress and mastery](tell-none-conditions-mixed-jol-correlations.md) — related
 - [Participants substantially overestimated their performance in all trace conditions, with the largest overestimation under full traces](overestimation-largest-under-full-traces.md) — related
 - [Summary traces preserved task performance at the answer-only baseline while elevating subjective appraisal](summary-traces-preserve-performance-baseline.md) — related
+- [Children's self-focused confidence reasoning and other-focused accuracy reasoning show no consistent correlation across four studies when mental-state language and response biases are eliminated](no-consistent-correlation-self-other-reasoning-children.md)

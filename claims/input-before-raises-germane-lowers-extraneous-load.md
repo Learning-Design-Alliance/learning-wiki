@@ -43,4 +43,5 @@ MANCOVA on self-report cognitive load (Leppink-adapted questionnaire) in the 2×
 
 
 ## Related Claims
--
+
+- [Case comparison shifts student teachers' beliefs about operant conditioning toward more positive, regardless of experimental condition](case-comparison-shifts-beliefs-operant-conditioning.md)

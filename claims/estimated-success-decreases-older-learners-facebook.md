@@ -43,6 +43,8 @@ Repeated measures experiment with 212 undergraduate Facebook users rating six hy
 
 
 ## Related Claims
+
 - [Estimated success declines with learner age for both friends and relatives, with relatives rated descriptively higher at every age](success-declines-with-age-friends-and-relatives.md) — related
 - [No significant age x acquaintance interaction on estimated success helping others learn Facebook](no-age-acquaintance-interaction-success-estimates.md) — related
 - [Whether the learner is a friend or a relative shows no significant main effect on estimated success at helping them learn Facebook](no-acquaintance-type-effect-success-estimates.md) — related
+- [Older adults required more time to learn SNS use, partially validating the age stereotype (reported by cited prior work)](older-adults-more-time-learning-sns-cited.md)

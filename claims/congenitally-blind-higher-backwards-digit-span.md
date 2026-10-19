@@ -43,6 +43,8 @@ ANCOVA of verbal backwards digit span (WAIS-R subtest with an added 9-digit leve
 
 
 ## Related Claims
+
 - [Digit span correlates with phonemic fluency in the congenitally blind but not the sighted](digit-span-phonemic-fluency-correlation-blind-only.md) — related
 - [Congenitally blind adults outperform sighted controls on verbal memory recall across timepoints](congenitally-blind-superior-verbal-memory-recall.md) — related
 - [Congenitally blind adults produce more items on phonemic and semantic verbal fluency tasks than sighted controls](congenitally-blind-superior-verbal-fluency.md) — related
+- [No significant group difference in working memory as measured by the Digit Span Backward subtest](no-group-difference-working-memory-dsb.md)

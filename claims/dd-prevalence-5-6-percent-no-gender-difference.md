@@ -43,4 +43,6 @@ In the 1757-child sample, DD was defined as mathematics performance below 1 SD b
 
 
 ## Related Claims
+
 - [Developmental writing disorders affect about 7–15% of school-aged children, with boys more affected than girls](writing-disorder-prevalence-7-15-percent.md) — related
+- [Children with developmental dyscalculia are twice as likely to have high mathematics anxiety as children with typical mathematics performance](dd-children-twice-likely-high-math-anxiety.md)

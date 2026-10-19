@@ -43,4 +43,5 @@ SEM analysis with bootstrap test (bootstrap = 5000) in Mplus8.3 on the 1171-adol
 
 
 ## Related Claims
--
+
+- [Only the subjective (perceived) support dimension of social support mediates empathy and prosocial behavior](subjective-support-dimension-mediation.md)

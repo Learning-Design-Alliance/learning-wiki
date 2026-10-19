@@ -66,6 +66,7 @@ The review reports this meta-analysis of longer-term SEL effects as evidence of 
 - [Social Awareness and Relationship Skills](../learner-variables/social-awareness-and-relationship-skills.md) — outcome: instruction changes it
 
 ## Related Claims
+
 - [SEL program effects are sustained over long-term follow-up periods](sel-benefits-persist-follow-up.md) — possibly the same claim (merge candidate)
 - [SEL programs improve students' engagement and academic performance, with an 11-percentile-point achievement gain in the Durlak meta-analysis](sel-programs-improve-academic-performance.md) — a narrower finding that bears on this claim
 - [Universal school-based SEL programs improve students' behaviour, with a small and, in recent randomised trials, negligible effect on academic achievement](sel-programs-improve-behavior-and-achievement.md) — a narrower finding that bears on this claim
@@ -74,3 +75,4 @@ The review reports this meta-analysis of longer-term SEL effects as evidence of 
 - [SEL programs reduce disruptive behavior problems and emotional distress and foster prosocial behavior](sel-programs-reduce-behavior-problems-distress.md) — a narrower finding that bears on this claim
 - [Schoolwide SEL programs are associated with long-term achievement gains, with multiple meta-analyses estimating an 11-percentile-point gain on average for participating students](schoolwide-sel-meta-analytic-11-percentile-achievement-gain.md) — a narrower finding that bears on this claim
 - [Well-implemented, well-attended summer programs show positive outcomes in academic, social, and behavioral areas](well-attended-summer-programs-positive-outcomes.md) — a narrower finding that bears on this claim
+- [Early prosocial behavior predicted later academic achievement more strongly than early academic skills](prosocial-behavior-predicts-achievement.md)

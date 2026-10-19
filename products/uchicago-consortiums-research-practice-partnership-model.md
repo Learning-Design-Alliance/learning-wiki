@@ -31,7 +31,9 @@ A University of Chicago Consortium framework that treats research as public, rel
 - [Relational trust and rapid-response adaptation help research-practice partnerships survive acute disruption](../claims/rpp-adaptive-practices-sustain-partnerships-during-disruption.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [IMPROV framework](improv-framework.md)
+- [University of Central Florida Center for Community Schools certification system for the Community Partnership Schools model](university-of-central-florida-center-for-community-schools-certification-system-for-the-co.md)
 
 ## Key Sources
 - Porter, S., Ramirez Richter, R., de la Torre, M., & Allensworth, E.M. (2026). Research and Engagement for Systems Transformation: Building Knowledge, Capacity, and Coherence for Equitable Education Systems. UChicago Consortium on School Research. https://consortium.uchicago.edu

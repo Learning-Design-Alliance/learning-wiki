@@ -43,4 +43,5 @@ In study 2, the competence profiles identified in study 1 were tested as moderat
 
 
 ## Related Claims
--
+
+- [Latent profile analysis of primary teachers' SRL competence yields two quantitative profiles (low vs. high competence) rather than three qualitatively distinct situative, cognitive, or mixed profiles](two-srl-teacher-competence-profiles-low-high.md)

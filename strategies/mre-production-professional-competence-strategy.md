@@ -17,7 +17,7 @@ sources:
 # Teaching minimal reproducible example production as a key competence for participation in large-scale professional collaboration
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article argues that "Mastering the production of MREs can thus be seen as a key professional competence in software development, allowing problems to be diagnosed and solved in the vast, asynchronous environment of Stack Overflow". Because novices commonly fail to include minimal code without prompting and struggle to meet SO quality criteria, the study recommends that professional education support this competence to prepare professionals for productive participation in large-scale collaboration.
@@ -39,6 +39,11 @@ The article argues that "Mastering the production of MREs can thus be seen as a 
 
 ### Affordances
 - Intelligibility Through Shared Methods
+
+## Claims
+
+- [Withholding or delaying an MRE is treated as a breach of foundational local norms, normally triggering escalated norm enforcement and undermining problem-solving](../claims/mre-withholding-norm-breach-novice-categorization.md) [+W]
+- [Reproducibility of code in questions involves nuanced community formatting expectations, not merely technical correctness](../claims/reproducibility-community-formatting-expectations.md) [+W]
 
 ## Related Strategies
 - 

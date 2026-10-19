@@ -62,4 +62,5 @@ The review's synthesis of SBP intervention evaluations (attributed to Rahmani et
 
 
 ## Related Claims
--
+
+- [Quality of habitual breakfast, in terms of variety of food groups and adequate energy, is positively related to school performance](breakfast-quality-school-performance.md)

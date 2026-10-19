@@ -36,7 +36,8 @@ Two U.S. Department of Labor-administered grant programs that fund employers and
 - [Unregistered apprenticeship programs had positive, statistically significant impacts on ninth-quarter employment, ranging from 3.9 to 4.8 percentage points](../claims/unregistered-apprenticeship-ninth-quarter-employment-impacts.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Registered Teacher Apprenticeship Programs (RTAPs)](registered-teacher-apprenticeship-programs-rtaps.md)
 
 ## Key Sources
 - Jonah Deutsch, Daniel Kuehn, Karen Gardiner, Deborah Reed, Julia Payne, Moriah Macklin, Ariella Spitzer, Peter Schochet, Astrid Harnack-Eber, Peter Kress. (2026). The Impact of Registered and Unregistered Apprenticeship: Evidence from the Scaling Apprenticeship and Closing the Skills Gap Grants. Urban Institute. https://www.mathematica.org/publications/the-impact-of-registered-and-unregistered-apprenticeship

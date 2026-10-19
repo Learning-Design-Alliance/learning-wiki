@@ -81,6 +81,7 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - **Peer editing with protocols** — scales action-oriented feedback beyond the teacher
 - **Portfolio assessment** — makes the effect of implemented actions visible across drafts over time
 - [Peer feedback against success criteria: students locate where peers are in their learning and give actionable clues, hints, suggestions, or wonderings](peer-feedback-against-success-criteria.md)
+- [Identify which suggested actions are beneficial at what time to inform scaffold design, and deliver scaffolds at natural breakpoints preceded by a notification.](identify-beneficial-actions-and-timing-for-scaffolds.md)
 
 ## Examples
 - **Draft–revise cycles in writing workshop** — teacher comments on a draft each end with one concrete revision ("split this run-on into two sentences; make the second one your evidence"), and class time is reserved for acting on them.

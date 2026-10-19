@@ -39,7 +39,8 @@ The paper articulates a heuristic framework, developed by Silverman (1993), that
 
 
 ## Related Theories
-- 
+
+- [Onto-Epistemic Heterogeneity](onto-epistemic-heterogeneity.md)
 
 ## Examples
 -

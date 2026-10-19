@@ -43,4 +43,8 @@ Experiment 1 cue-diagnosticity analysis: keywords coded by rubric (main idea, de
 
 
 ## Related Claims
--
+
+- [Sixth-graders' own monitoring accuracy is low and does not differ between no-cue, keyword, and summary cue-prompt conditions (Experiment 1).](student-monitoring-accuracy-low-no-cue-prompt-effect-exp1.md)
+- [Teachers' inter-individual judgment accuracy (predicting differences between students) is well above chance (.528) even though their intra-individual accuracy is not (Experiment 1).](teacher-inter-individual-accuracy-above-chance.md)
+- [Teachers' intra-individual monitoring accuracy of students' text-by-text learning is not better than chance and is not improved by students' keywords or summaries (Experiment 1).](teacher-intra-individual-monitoring-accuracy-low-not-improved-by-cue-prompts.md)
+- [Test performance differs by cue-prompt condition in Experiment 1, with higher scores in the no-cue condition than the summary condition.](test-performance-higher-no-cue-than-summary-condition.md)

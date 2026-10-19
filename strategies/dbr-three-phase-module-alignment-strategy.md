@@ -17,7 +17,7 @@ sources:
 # Use the three design-based research phases (preliminary, teaching experiment, retrospective) to redesign and constructively align a university module
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article shows how DBR phases can drive module redesign: the preliminary phase ascertains initial learning outcomes, activities, and tasks from the learning guide, literature, and teacher educators; the experiment phase gathers students' views during implementation to refine them; the retrospective phase uses student reflections to adapt and align the final design. The study "adopted design-based research (DBR) phases to explore novel ways of designing a mathematics methodology module in a real educational context", and the author reports this contributes "by showing how the phases of DBR can assist in redesigning a mathematics methodology module, simultaneously enhancing theory and practice".
@@ -41,6 +41,10 @@ The article shows how DBR phases can drive module redesign: the preliminary phas
 
 ### Affordances
 - [Constructive Alignment Biggs Tang Framework](../designs/constructive-alignment-biggs-tang-framework.md)
+
+## Claims
+
+- [Pre-service teachers most frequently viewed integrating 21st-century teaching methods into mathematics lessons as the learning outcome to achieve](../claims/mpts-view-21st-century-methods-top-outcome.md) [+W]
 
 ## Related Strategies
 - 

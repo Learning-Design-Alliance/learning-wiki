@@ -17,7 +17,7 @@ sources:
 # Alternate between structuring (decreasing task complexity) and problematizing (increasing task complexity) as learners' competence develops
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Following Reiser (2004), the teacher scaffolds either by structuring the task—writing problem-solving processes in structured formats such as a problem list, providing requested information, and asking clarification questions—or by problematizing: deteriorating vital signs, creating unexpected complications, triggering affective interest, and establishing dissonance to engage students in greater challenge. In the DP activity the teacher spent more time decreasing complexity in the early stage to help students construct the problem space and increased complexity in the later stage to extend problem-solving capacity.
@@ -41,6 +41,11 @@ Following Reiser (2004), the teacher scaffolds either by structuring the task—
 
 ### Affordances
 - [Dp Role Play Pbl Extension](../designs/dp-role-play-pbl-extension.md)
+
+## Claims
+
+- [Teacher discourse shifted toward creating new challenging situations (NI) and confirming repeats (R) in the interactive-whiteboard condition, versus providing requested information (IR) and clarification questions (Q) in the traditional-whiteboard condition](../claims/iw-condition-ni-r-versus-tw-ir-q-discourse.md) [+W]
+- [The teacher increased task complexity in the IW condition by deteriorating the patient's vital signs in response to student actions, and decreased complexity in the TW condition by structuring the task](../claims/teacher-complexity-adjustment-by-condition.md) [+W]
 
 ## Related Strategies
 - 

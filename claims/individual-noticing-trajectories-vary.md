@@ -43,7 +43,9 @@ Descriptive per-participant analysis of attending and responding utterance count
 
 
 ## Related Claims
+
 - [The increase in noticing dialogue was accompanied by a decrease in noticing mathematical activity, described as attentional tunneling — a design consideration for integrated dialogue-plus-content noticing training](attentional-tunneling-dialogue-over-mathematics.md) — related
 - [Dialogic noticing gains occurred in nearly all episodes — with significant increases in episodes 2, 3, 5, 7, and 9 — except episode 6, which did not change](episode-level-noticing-increases.md) — related
 - [After a dialogic-focused professional development intervention, mathematics teachers noticed student dialogue significantly more, in both attending (83 to 170 cases) and responding (24 to 71 cases)](pd-intervention-increases-teacher-dialogue-noticing.md) — related
 - [The intervention significantly increased teachers' noticing of six dialogic attributes — persuasive interaction, one leads and another is led, agreement and collective attention, students have equal status, dialogic gap, and monologue — but not of dialogue-expansion attributes](six-dialogic-attributes-significant-gains.md) — related
+- [Student-focused noticing marginally increased (Cohen's d = 0.43) while teacher-focused codes showed no change (d = 0.06)](blair2024-student-focused-increase-teacher-flat.md)

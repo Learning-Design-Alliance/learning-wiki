@@ -43,4 +43,5 @@ Comparison of pre-practicum and while-practicum focus group interviews in the sa
 
 
 ## Related Claims
--
+
+- [ChatGPT served as an emotional support agent during practicum, offering a nonjudgmental, constantly available interlocutor](chatgpt-emotional-support-agent-practicum.md)

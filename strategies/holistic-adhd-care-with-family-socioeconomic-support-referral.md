@@ -17,7 +17,7 @@ sources:
 # Clinicians supporting children with ADHD should take a holistic approach and refer families to services addressing socioeconomic circumstances
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (2 associational), `q2` · 1 of 2 report an effect size · 1 claim rests on one study
 
 ## Description
 The article's discussion recommends that because children presenting with ADHD symptoms are "likely to have complex and often difficult family circumstances", clinicians should take a holistic approach to treatment and refer on to other services that may support the families to cope with their socioeconomic situation. It frames home and family factors as small but modifiable contributors to ADHD risk, unlike genetic predisposition, making them "current targets for intervention". The strategy rests on the study's mediation findings linking financial difficulty, adversity and parental involvement to ADHD.
@@ -35,6 +35,11 @@ The article's discussion recommends that because children presenting with ADHD s
 
 ### Target Learning Goals
 - reducing impairment and supporting development in children with ADHD from disadvantaged family circumstances
+
+## Claims
+
+- [Children with ADHD in the cohort were disproportionately male and from families reporting financial difficulty or social housing](../claims/adhd-group-descriptive-ses-and-sex-differences.md) [+W]
+- [Perceived financial difficulty in early childhood is the socioeconomic indicator most strongly associated with a research diagnosis of ADHD at age 7](../claims/financial-difficulties-strongest-ses-predictor-adhd-age-7.md) [+W]
 
 ## Related Strategies
 - 

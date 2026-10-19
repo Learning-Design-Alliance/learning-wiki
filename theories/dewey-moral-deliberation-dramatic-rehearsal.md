@@ -44,7 +44,8 @@ Dewey's moral deliberation, introduced in 1932, is the article's central explana
 - [Character education is criticized for didacticism and de-emphasizing reflection and moral judgment, and Dewey's deliberation is proposed as a bridge between it and Kohlberg's approach](../claims/character-education-didacticism-critique-dewey-bridge.md) [+W]
 
 ## Related Theories
-- 
+
+- [Dewey's pedagogical principles: school as life itself, no subject with educational value on its own, and education for all citizens](dewey-pedagogical-principles-school-as-life.md)
 
 ## Examples
 

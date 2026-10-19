@@ -43,4 +43,6 @@ One-way ANOVA (Welch's F) over 30 four-item tasks comparing the easiest, rather 
 
 
 ## Related Claims
+
 - [Participants rated the complex three-population scenario as more difficult than the simple one-population scenario](visigarp-scenario2-difficulty.md) — related
+- [Items requiring integration have higher relative item difficulty than items requiring selecting or organizing, and delayed perceived task difficulty ratings appear closer to integrating-item difficulty, though that correlation comparison is not significant](cognitive-process-integration-raises-item-difficulty.md)

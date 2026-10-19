@@ -49,6 +49,7 @@ Onto-epistemic heterogeneity (OEH) proposes that ontology (who learners are, the
 - [Funds of Knowledge](funds-of-knowledge.md) — a more operationally concrete cousin: specific, elicitable household and community practices as instructional resources, rather than a broader epistemological stance
 - [Epistemic Injustice](epistemic-injustice.md) — shares the commitment to treating marginalized learners' lived experience as a constitutive epistemic resource; epistemic injustice specifically names the credibility and interpretive-resource harms that occur when that experience is dismissed
 - [Disciplinary identity as a developmental process across the academic life course](disciplinary-identity-developmental-life-course.md)
+- [Four contexts of knowing framework based on regulativeness and constitutiveness of knowledge and community](four-contexts-of-knowing-regulative-constitutive-framework.md)
 
 ## Examples
 - [Cultural & Life Experiences Connections](../principles/cultural-life-experiences-connections.md) — OEH gives a theoretical account of why treating learners' lived experience as an epistemic resource (not just a motivational hook) supports deeper, more critical understanding

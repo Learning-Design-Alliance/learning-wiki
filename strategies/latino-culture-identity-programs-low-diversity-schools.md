@@ -38,7 +38,10 @@ As a near-term alternative to structural change, the authors recommend that "sch
 - Academic achievement
 
 ## Related Strategies
-- 
+
+- [Selecting Culturally Responsive Texts](selecting_culturally_responsive_texts.md)
+- [Liberation Literature and Counter-Narratives](liberation_literature_and_counter-narratives.md)
+- [Inclusive Cultural Response](inclusive_cultural_response.md)
 
 ## Examples
 -

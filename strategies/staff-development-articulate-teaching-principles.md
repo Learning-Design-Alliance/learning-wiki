@@ -37,7 +37,12 @@ The article recommends that university teachers articulate their theories and be
 - adoption of e-learning, online collaborative learning, and social-constructivist teaching practices
 
 ## Related Strategies
-- 
+
+- [Support faculty AI adoption by engaging beliefs about disciplinary thinking, not only access and technical training](engage-faculty-epistemic-beliefs-for-ai-adoption-support.md)
+- [Use structured reflection tables, learning journals, prompt variation, adversarial queries, and peer debate to cultivate AI intuition](reflection-tables-journals-debates-cultivate-ai-intuition.md)
+- [Support the evolving instructor role with professional development beyond product training, articulated role expectations, and communities of practice](instructor-role-evolution-support.md)
+- [Know Your Own Perspectives](know_your_own_perspectives.md)
+- [I Used To Think Now I Think](i-used-to-think-now-i-think.md)
 
 ## Examples
 -

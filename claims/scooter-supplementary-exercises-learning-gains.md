@@ -43,4 +43,6 @@ Secondary analysis of the Scooter in vivo experiment relating supplementary-exer
 
 
 ## Related Claims
+
 - [No supplemental intervention was significantly better than another, and gains were not tied to program type](no-significant-intervention-differences.md) — related
+- [Scooter the Tutor was associated with a marginally significant reduction in observed gaming among middle-school math students](scooter-reduced-gaming-marginally.md)

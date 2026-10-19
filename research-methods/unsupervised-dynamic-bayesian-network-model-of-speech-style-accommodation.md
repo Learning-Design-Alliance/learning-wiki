@@ -26,7 +26,8 @@ The model measures speech style accommodation from raw speech without labeled da
 - [An automatic measure of speech style accommodation significantly positively correlates with prevalence of other-oriented transacts in dyadic debates (R = .36, p < .05)](../claims/speech-accommodation-correlates-other-oriented-transacts.md) [+M]
 
 ## Related Research Methods
--
+
+- [Bayesian Networks for student modelling, assessment, and collaborative learning theory](bayesian-networks-for-student-modelling-assessment-and-collaborative-learning-theory.md)
 
 ## Key Sources
 - Gweon, G., Jain, M., McDonough, J., Raj, B., & Rosé, C. P. (2013). Measuring prevalence of other-oriented transactive contributions using an automated measure of speech style accommodation. Computer-Supported Collaborative Learning (2013). [doi:10.1007/s11412-013-9172-5](https://doi.org/10.1007/s11412-013-9172-5)

@@ -17,7 +17,7 @@ sources:
 # Use the integrative framework and non-cognitive predictor set as a road map for counseling, assessment and interventions with students at academic risk
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The authors recommend applying their framework and Structural Model 1 in educational practice: professionals can "implement strategies that foster the development of behaviors associated with these non-cognitive factors, focusing on counseling and training for the improvement of the regulation of motivation, affect, behavior and context". The framework is also proposed for targeting interventions at students facing academic difficulties and for designing future research on how personal characteristics contribute to each phase of the SRL cycle.
@@ -41,8 +41,14 @@ The authors recommend applying their framework and Structural Model 1 in educati
 ### Affordances
 - Integrative Srl Individual Differences Framework
 
+## Claims
+
+- [Academic engagement and regulation of behavior and context show incremental validity over cognitive predictors of university GPA](../claims/engagement-and-behavior-context-regulation-incremental-validity.md) [+W]
+- [A reduced set of non-cognitive factors alone explains 17–25% of the variance in university GPA across three years of a degree](../claims/noncognitive-factors-explain-17-25-percent-gpa-variance-three-years.md) [+W]
+
 ## Related Strategies
-- 
+
+- [MTSS wraparound services with adequate counseling ratios and continuous improvement monitoring](mtss-wraparound-services-counseling-ratio.md)
 
 ## Examples
 -

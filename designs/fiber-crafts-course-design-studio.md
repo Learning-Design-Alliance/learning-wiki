@@ -41,7 +41,8 @@ A fiber crafts course facilitated within a weekly design studio at a K-8 public 
 - [Fabric Manipulation Performs Variables Conditionals Functions](../claims/fabric-manipulation-performs-variables-conditionals-functions.md) [+M]
 
 ## Related Designs
-- 
+
+- [Fiber crafts course (weaving and fabric manipulation) as a context for computational learning with middle school youth](fiber-crafts-course-computational-learning.md)
 
 ## Examples
 -

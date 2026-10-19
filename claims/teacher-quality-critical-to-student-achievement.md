@@ -43,4 +43,5 @@ The article asserts, citing "recent evidence" without identifying the studies, t
 
 
 ## Related Claims
--
+
+- [Average impacts of KIPP middle schools were positive and statistically significant throughout the 10-year study period, though higher in earlier years than recent years](kipp-middle-impacts-positive-throughout-higher-earlier-years.md)

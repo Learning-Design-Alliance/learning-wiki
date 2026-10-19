@@ -41,4 +41,5 @@ Observational analysis of 60 CS degree maps grouped by women's representation (G
 
 
 ## Related Claims
--
+
+- [Required CS credits and math credits do not differ significantly across women-representation groups](cs-math-credits-not-significant-across-groups.md)

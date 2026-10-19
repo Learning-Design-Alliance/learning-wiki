@@ -28,6 +28,7 @@ A GitHub-released corpus and taxonomy by Pelin Yüce et al. containing filtered 
 ## Related Products and Programmes
 
 - [GenAICanHarmLearning anonymized dataset and code repository](genaicanharmlearning-anonymized-dataset-and-code-repository.md)
+- [Open online dataset and statistical analyses of the mutual-modelling emotions study](open-online-dataset-and-statistical-analyses-of-the-mutual-modelling-emotions-study.md)
 
 ## Key Sources
 - Pelin Yüce, Xiangruo Dai, Rebecca Owens, Tuğrulcan Elmas. (2026). ChatGPT vs Teachers vs Students: Large-Scale Analysis of Generative AI Discourse in Education Communities on Reddit. arXiv. https://arxiv.org/abs/2605.17712

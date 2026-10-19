@@ -62,8 +62,10 @@ Conditional effect in the same regression analysis for the control group reading
 
 
 ## Related Claims
+
 - [More misconceptions lead to overconfident comprehension predictions with a standard text, and both refutation texts and think sheets counteract this overconfidence](refutation-text-think-sheet-counteract-comprehension-overconfidence.md) — related
 - [All three instructional methods reduced misconceptions, and comprehension and transfer effects were stable at delayed testing one week later](misconception-reduction-stable-delayed-testing.md) — related
 - [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](misconceptions-interfere-with-new-learning.md) — a broader claim this one bears on
 - [Completing a think sheet yields higher response-confidence accuracy than reading a refutation text or a standard text with a misconception list](think-sheet-higher-response-confidence-accuracy.md) — related
 - [Misconceptions did not impair transfer in the strong control condition, but learners with more misconceptions in the think-sheet group transferred better](think-sheet-misconceptions-positive-transfer-effect.md) — related
+- [Misconceptions decreased over time in all three instructional methods, with no difference between methods](misconceptions-decreased-similarly-all-methods.md)

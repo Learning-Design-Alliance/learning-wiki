@@ -43,4 +43,5 @@ Mediation analysis in the Study 1 survey; the overall index of moderated mediati
 
 
 ## Related Claims
--
+
+- [Gender-interest stereotypes create a gender gap in interest in a computer science activity: girls, but not boys, show lower interest when the stereotype is present](stereotype-creates-gender-gap-cs-activity-study4.md)

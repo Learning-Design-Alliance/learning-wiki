@@ -58,4 +58,5 @@ ANCOVA controlling for processing speed (coding task) in the same sample. The in
 
 
 ## Related Claims
--
+
+- [Children with developmental dyslexia show a significant updating impairment at the error z-mean composite level, which remains after controlling for processing speed](dyslexia-updating-error-composite-impairment.md)

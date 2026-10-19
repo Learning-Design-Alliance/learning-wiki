@@ -25,7 +25,9 @@ A student-facing, Agentsheets-based collaborative cardiovascular-system simulati
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Wiki Design Platform](wiki-design-platform.md)
+- [Knowledge Catalyser](knowledge-catalyser.md)
 
 ## Key Sources
 - Gerry Stahl & Friedrich Hesse. (2010). A prism of CSCL research. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-010-9087-3

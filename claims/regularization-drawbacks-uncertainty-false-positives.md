@@ -44,5 +44,7 @@ The article asserts, citing prior literature (Bühlmann et al., 2014; Donald R. 
 
 
 ## Related Claims
+
 - [The frequentist graphical LASSO has difficulty estimating centrality indices and uncertainty in these measures in symptom networks](frequentist-glasso-difficulty-uncertainty-centrality.md) — a narrower finding that bears on this claim
 - [Non-regularized graphical model methods are specifically designed for low-dimensional data common in the social-behavioral sciences](ggmnonreg-designed-for-low-dimensional-data.md) — related
+- [Logistic mixed-model regression of confidence on accuracy shows dramatically inflated false positive rates when random slopes are omitted, but an adequate rate when random slopes are included](logistic-mixed-model-fixed-slopes-inflated-false-positives.md)

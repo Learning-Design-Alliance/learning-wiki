@@ -43,4 +43,6 @@ In the same 1757-child cross-sectional sample, of students with high MA (scores 
 
 
 ## Related Claims
--
+
+- [Children with developmental dyscalculia are twice as likely to have high mathematics anxiety as children with typical mathematics performance](dd-children-twice-likely-high-math-anxiety.md)
+- [Children with MLD report higher learning mathematics anxiety than LA, TA, and HA peers, but not higher evaluation anxiety](mld-higher-lma-not-mea.md)

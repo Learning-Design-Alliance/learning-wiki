@@ -24,7 +24,10 @@ The editorial describes Bridges et al.'s methodological lens, Interactional Ethn
 ### Claims
 
 ## Related Research Methods
--
+
+- [Situated-interaction analysis of CSCL processes](situated-interaction-analysis-of-cscl-processes.md)
+- [Event-centered analysis of CSCL processes](event-centered-analysis-of-cscl-processes.md)
+- [Multimodal analysis](multimodal-analysis.md)
 
 ## Key Sources
 - Carolyn P. Rosé & Sanna Järvelä. (2020). Building community together: towards equitable CSCL practices and processes. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-020-09329-z

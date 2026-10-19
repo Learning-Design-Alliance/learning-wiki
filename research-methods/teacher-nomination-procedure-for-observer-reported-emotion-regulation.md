@@ -12,7 +12,7 @@ generated:
 # Teacher nomination procedure for observer-reported emotion regulation
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Observer reports were collected through teacher nominations in which teachers selected up to 5 students they considered at the high and low ends of emotion regulation ability from alphabetical lists of students they taught. Nominations of difficulty regulating emotions were assigned −1, nominations of being good at regulating emotions were assigned 1, and non-nominated students received 0. To account for unequal numbers of students taught by different teachers, nominations by each teacher were standardized and summed across all teachers. Teachers were instructed to base judgments on classroom observation rather than general reputation.
@@ -22,6 +22,8 @@ Observer reports were collected through teacher nominations in which teachers se
 - **Teacher nomination procedure for observer-reported emotion regulation**: Observer reports were collected through teacher nominations in which teachers selected up to 5 students they considered at the high and low ends of emotion regulation ability from alphabetical lists of students they taught. Nominations of difficulty regulating emotions were assigned −1, nominations of being good at regulating emotions were assigned 1, and non-nominated students received 0. To account for unequal numbers of students taught by different teachers, nominations by each teacher were standardized and summed across all teachers. Teachers were instructed to base judgments on classroom observation rather than general reputation. (Ivcevic Zorana; Eggers Catherine (2021))
 
 ### Claims
+
+- [Performance-tested ERA and teacher-observed emotion regulation are only modestly correlated (r = 0.22), suggesting they measure distinct constructs](../claims/era-and-observer-reports-low-correlation.md) [+M]
 
 ## Related Research Methods
 -

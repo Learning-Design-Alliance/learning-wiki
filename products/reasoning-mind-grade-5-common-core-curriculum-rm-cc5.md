@@ -36,7 +36,8 @@ RM-CC5 is an adaptive, blended Grade 5 mathematics core curriculum developed and
 - [RM-CC5 usage metrics correlated positively with achievement, and together accounted for an additional 7.3% of variance in Grade 5 scores beyond prior achievement, though causality and relative contributions could not be inferred](../claims/rm-cc5-usage-metrics-achievement-correlation.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Elevate Math summer program](elevate-math-summer-program.md)
 
 ## Key Sources
 - Nicole Shechtman, Jeremy Roschelle, Mingyu Feng, Corinne Singleton. (2019). An Efficacy Study of a Digital Core Curriculum for Grade 5 Mathematics. AERA Open. https://doi.org/10.1177/2332858419850482

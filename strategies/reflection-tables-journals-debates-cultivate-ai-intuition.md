@@ -47,6 +47,7 @@ The article recommends instructional practices that make each phase of the exper
 - [Provide opportunities for independent practice with repeated cycles of use and structured reflection to strengthen regulatory skills over time](independent-practice-cycles-for-ai-regulation.md)
 - [Design authentic, scaffolded activities that convert students' intuitive GenAI concerns into explicit ethical competencies](scaffolded-activities-convert-genai-concerns-to-competencies.md)
 - [Scaffold AI use without undermining student autonomy through structured prompts, ethical checklists, and reflection journals](scaffold-ai-use-preserving-autonomy.md)
+- [Staff development should make teaching principles explicit through articulation, reflection and evaluation, supported by institutional incentives and training](staff-development-articulate-teaching-principles.md)
 
 ## Examples
 -

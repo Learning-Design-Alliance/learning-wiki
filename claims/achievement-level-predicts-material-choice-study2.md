@@ -43,4 +43,5 @@ Logistic regression in the 2×2 between-subject vignette study with 177 preservi
 
 
 ## Related Claims
--
+
+- [Preservice teachers judged the ethnic minority student more negatively than the ethnic majority student on parental support, achievement, and working behavior](ethnic-minority-student-judged-more-negatively-study1.md)

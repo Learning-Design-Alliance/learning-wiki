@@ -43,4 +43,5 @@ In vivo experiment within a year-long Cognitive Tutor middle-school curriculum, 
 
 
 ## Related Claims
--
+
+- [Students receiving the most Scooter supplementary exercises showed significantly better learning and caught up by post-test, though there was no overall between-condition learning effect](scooter-supplementary-exercises-learning-gains.md)

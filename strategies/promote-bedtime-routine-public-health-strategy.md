@@ -17,7 +17,7 @@ sources:
 # Promote a consistent bedtime routine as a feasible, cost-effective method to support early childhood development, particularly for at-risk children
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article recommends promoting a bedtime routine as a public health and clinical strategy: "promoting a bedtime routine may be a feasible and cost-effective method to promote positive early childhood development worldwide, particularly for socioeconomically disadvantaged and other at-risk young children." The routine is positioned as embodying nurturing care and early child stimulation at a time of day most parents are present. The recommendation is grounded in the reviewed sleep, literacy, regulation, and family functioning evidence, with the caveat that additional research on hypothesized outcomes and mechanisms is needed.
@@ -45,8 +45,17 @@ The article recommends promoting a bedtime routine as a public health and clinic
 ### Affordances
 - Bedtime Routine Conceptual Model Early Childhood
 
+## Claims
+
+- [A consistent bedtime routine is associated with better sleep outcomes in young children, with a dose-dependent relationship between nights per week of routine adherence and sleep benefits](../claims/bedtime-routine-dose-dependent-sleep-benefits.md) [+W]
+- [Bedtime routine interventions improved maternal mood, maternal confidence, and, in one study, marital satisfaction, beyond child sleep outcomes](../claims/bedtime-routine-interventions-improve-maternal-and-family-outcomes.md) [+W]
+- [A language-based bedtime routine at age 3 predicted longer nighttime sleep duration at age 5 and higher language abilities and receptive vocabulary at age 5](../claims/language-based-bedtime-routine-predicts-sleep-and-language.md) [+W]
+- [Randomized assignment to a 3-step bedtime routine improved infant and toddler sleep outcomes relative to control](../claims/rct-three-step-bedtime-routine-improves-sleep.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Clinicians query for consistency in sleep routines and schedules and discuss sleep health with families before formal schooling entry as preventative support for school readiness](clinician-parent-sleep-routine-discussions.md)
+- [Prioritize dose-response sleep research with multiple time points and narrower age groups before refining early-years sleep recommendations](dose-response-sleep-research-strategy-early-years.md)
 
 ## Examples
 -

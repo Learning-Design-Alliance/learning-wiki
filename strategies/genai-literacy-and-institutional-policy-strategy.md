@@ -51,6 +51,7 @@ The article recommends that institutions develop policies and formal guidance on
 - [Provide accessible guidelines, training materials, or workshops to help students understand responsible GenAI use](accessible-genai-guidelines-training-workshops.md)
 - [Foster communities of practice for AI governance instead of rigid top-down policies](communities-of-practice-for-ai-governance.md)
 - [Higher education leaders should develop more inclusive and future-oriented GenAI policies integrating social equity, interdisciplinary experimentation, and sustainability considerations](develop-inclusive-future-oriented-genai-policies.md)
+- [Provide institutional support: regular GenAI workshops, subsidized access to advanced tools, reliable resources, and curriculum inclusion](institutional-support-genai-translation-workshops-curriculum.md)
 
 ## Examples
 -

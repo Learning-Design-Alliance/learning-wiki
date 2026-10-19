@@ -32,6 +32,7 @@ TutorBench is a source-grounded benchmark dataset created by Bingxi Zhao et al. 
 ## Related Products and Programmes
 
 - [AcademiClaw](academiclaw.md)
+- [Multimodal OBE examination-answer dataset of 485 scanned submissions with criterion-level rubric marks](multimodal-obe-examination-answer-dataset-of-485-scanned-submissions-with-criterion-level.md)
 
 ## Key Sources
 - Bingxi Zhao, Jiahao Zhang, Xubin Ren, Zirui Guo, Tianzhe Chu, Yi Ma, Chao Huang. (2026). DeepTutor: Towards Agentic Personalized Tutoring. Technical Report, The University of Hong Kong. https://arxiv.org/abs/2604.26962

@@ -43,7 +43,10 @@ Application of the MCSA pipeline (optimal matching plus Ward's clustering) to 24
 
 
 ## Related Claims
+
 - [Two distinct group deliberation patterns emerge in response to regulation triggers: the Plan and Implementation Approach (PIA) and the Trials and Failure Approach (TFA)](pia-tfa-deliberation-patterns-ssrl.md) — related
 - [Cluster analysis of student-AI dialogue identifies three distinct collaboration profiles: Delegated Reasoning, Concerted Interpretation, and Delegated Elaboration](three-human-ai-cps-profiles-dr-ci-de.md) — related
 - [Clustering yields a small number of behaviorally distinct team clusters that instructors can use for cluster-differentiated feedback](clustering-cluster-differentiated-feedback-ttx.md) — a broader claim this one bears on
 - [Type 2 groups showed a communication–behaviour-synergistic transition, Type 1 a behaviour-oriented, and Type 3 a communication-oriented transition in hidden Markov models](hmm-transitional-regularities-pattern-types.md) — related
+- [Model-based clustering of tied durations identifies four weekly regulation patterns in PBL group discussions](four-weekly-regulation-patterns-pbl.md)
+- [Clustering n-gram flip sequences per task yields three distinct problem-solving strategy groups across the binary challenges](three-strategy-clusters-from-ngram-flip-sequences.md)

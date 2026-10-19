@@ -84,5 +84,7 @@ Facts are usually in place by the end of primary school, but the Learner Variabi
 
 ## Examples
 
+- [Teachers of all junior school subjects should attend to teaching methods and contents related to academic fluency](../strategies/attend-to-academic-fluency-teaching-junior-school.md)
+
 ## Key Sources
 - Digital Promise. *Learner Variability Navigator*: Arithmetic Fact Retrieval (Building Math 3-6, Building Math PK-2). [lvp.digitalpromiseglobal.org](https://lvp.digitalpromiseglobal.org/content-area/math-3-6/factors/arithmetic-fact-retrieval-math-3-6/summary). Licensed CC BY-NC 4.0.

@@ -43,4 +43,5 @@ Exploratory analysis for RQ2 in the vignette study (N = 278) collapsed cognitive
 
 
 ## Related Claims
--
+
+- [Comprehension-related problems elicit more cognitive strategies but do not reduce motivational strategy use](comprehension-problems-raise-cognitive-not-cut-motivational.md)

@@ -43,7 +43,10 @@ The introduction reports, citing Bernacki et al. (this issue), a study with univ
 
 
 ## Related Claims
+
 - [Web-based SRL training combined with a learning diary (Group TD) produced statistically significant pre-post gains in SRL knowledge, the SRL overall score and self-efficacy, but not in mathematics scores, among prospective university students in an online preparation course](web-based-srl-training-with-diary-raises-srl-knowledge-and-self-efficacy-not-math.md) — related
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — a broader claim this one bears on
 - [Self Regulated Learning Predicts Achievement](self-regulated-learning-predicts-achievement.md) — a broader claim this one bears on
 - [Self-efficacy, but not self-reported strategy use, predicts subsequent exam grades in the university course](self-efficacy-predicts-exam-grades-strategy-use-does-not.md) — related
+- [Completing the Science of Learning to Learn training conferred an effect of about one-third of a letter grade (d ~ 0.3) on subsequent quizzes and exams in the original randomized study](slll-training-letter-grade-effect.md)
+- [Declarative and conceptual levels of learning-skill mastery predicted biology exam performance, but application-level knowledge did not](declarative-conceptual-skill-mastery-predicts-exams-application-does-not.md)

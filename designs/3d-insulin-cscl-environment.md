@@ -44,7 +44,8 @@ A CSCL environment for gene technology consisting of computer-based 3D models (a
 - [Website Inscriptions Procedural Only](../claims/website-inscriptions-procedural-only.md) [+M]
 
 ## Related Designs
-- 
+
+- [cellVIEW VR immersive learning unit on HIV](cellview-vr-hiv-learning-unit.md)
 
 ## Examples
 -

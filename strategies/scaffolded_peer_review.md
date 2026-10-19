@@ -63,8 +63,10 @@ Peer review doubles as assessment and learning: reviewing others' work requires 
 6. Fade supports over successive cycles: fewer prompts, broader scope, more reviewer autonomy
 
 ## Related Strategies
+
 - [Calibrated Peer Review](calibrated_peer_review.md) — a specific technology-supported implementation of the calibration variation
 - [Revision Cycles](revision-cycles.md) — the author-side half of the review loop
+- [Peer-delivered prompts in which students take over prompting, feedback, and assessment from an instructor](peer-to-peer-prompting-handover.md)
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — instructor modeling of critique is the training phase for reviewers

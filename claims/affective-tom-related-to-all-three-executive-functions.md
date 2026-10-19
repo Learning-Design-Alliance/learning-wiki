@@ -43,4 +43,5 @@ The study measured affective theory of mind together with inhibition, updating, 
 
 
 ## Related Claims
--
+
+- [Affective theory of mind is positively related to age across adolescence](affective-tom-increases-across-adolescence.md)

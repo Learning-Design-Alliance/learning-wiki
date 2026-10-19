@@ -46,7 +46,8 @@ The article proposes that the four-class mobile user typology derived from laten
 - [UTAUT framework for technology acceptance](utaut-four-constructs-lms-acceptance-framework.md)
 
 ## Examples
--
+
+- [Design mobile learning around the features students already use frequently, while recognising this is not a panacea](../strategies/design-mobile-learning-around-frequent-features.md)
 
 ## Key Sources
 - Singh, L. & Thomas, T. D. (2020). The Effect of Mobile User Typology on Mobile Learning Adoption in Higher Education. Asian Journal of Distance Education, 15(2). http://www.asianjde.org

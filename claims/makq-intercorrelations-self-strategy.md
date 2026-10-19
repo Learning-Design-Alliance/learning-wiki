@@ -43,6 +43,9 @@ Pearson correlations among the three MAKQ dimensions in Study One (N = 293), all
 
 
 ## Related Claims
+
 - [MAKQ dimensions show convergent validity with parent-rated attention and executive functioning (moderate-to-strong negative correlations)](makq-convergent-validity-parent-measures.md) — related
 - [MAKQ strategy knowledge, but not the self-perception scales, converges with behavioural inhibitory control on the Go-No-Go task](makq-strategy-knowledge-inhibitory-control.md) — related
 - [The MAKQ self-knowledge items show a stable two-factor structure: meta-attention control (15 items) and meta-attention monitoring (5 items)](makq-two-factor-self-knowledge-structure.md) — related
+- [All measured graduate attribute scores correlate positively with one another, with the Resourcefulness Scale correlating most weakly](positive-correlations-among-graduate-attribute-measures.md)
+- [Self-report factors correlate weakly with metacognitive behavior while within-factor subcomponent correlations are larger, per studies reviewed for the meta-analysis](self-report-factors-weakly-relate-to-behavior.md)

@@ -43,4 +43,5 @@ Manipulation check using a nine-question Likert-style post-tutoring survey aggre
 
 
 ## Related Claims
--
+
+- [The instructional manipulation check confirmed that TBI and SBI videos were perceived as intended](manipulation-check-tbi-sbi-differentiation.md)

@@ -62,4 +62,6 @@ The review reports, citing Hart et al. (2010) and Rapport et al. (1999), "a cons
 
 
 ## Related Claims
--
+
+- [ADHD is associated with poor academic outcomes, including lower grade point average, increased grade retention, and lower rates of high-school graduation and post-secondary education](adhd-poor-academic-outcomes-longitudinal.md)
+- [Reading and writing abilities share substantial overlap, supporting teaching writing based on reading](reading-writing-abilities-overlap.md)

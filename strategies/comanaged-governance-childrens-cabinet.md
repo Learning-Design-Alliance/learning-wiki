@@ -17,7 +17,7 @@ sources:
 # Comanaged initiative governance with a cross-sector Children's Cabinet
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The consortium designated comanagers—a district administrator and an external consultant—who "lent necessary administrative capacity and visionary leadership," embracing adaptive and collaborative leadership strategies that enabled shared governance, continuous improvement, and attentiveness to districts' distinct needs. A rural Children's Cabinet, "a cross-sector board that advised comanagers and consortium districts," supported collaborative leadership and continuous improvement by connecting county and nonprofit officials with district leaders to identify needed services.
@@ -35,6 +35,10 @@ The consortium designated comanagers—a district administrator and an external 
 
 ### Target Learning Goals
 - Sustained, high-quality community school implementation and improved service provision
+
+## Claims
+
+- [Leaders at city, central office, and school levels are perceived to play a key role in promoting cross-sector collaboration](../claims/leaders-key-to-cross-sector-collaboration.md) [+W]
 
 ## Related Strategies
 - 

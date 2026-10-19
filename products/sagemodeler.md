@@ -24,7 +24,9 @@ SageModeler is a free, web-based, open-source computational modeling tool develo
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Open Source Physics (OSP) toolkit](open-source-physics-osp-toolkit.md)
+- [TEEMSS](teemss.md)
 
 ## Key Sources
 - Namsoo Shin, Jonathan Bowers, Steve Roderick, Cynthia McIntyre, A. Lynn Stephens, Emil Eidin, Joseph Krajcik, Daniel Damelin. (2022). A framework for supporting systems thinking and computational thinking through constructing models. Instructional Science. https://doi.org/10.1007/s11251-022-09590-9

@@ -24,7 +24,8 @@ A nonprofit regional revitalization programme that coordinates Appalachian indiv
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [East Alabama Regional Cybersecurity Alliance (EARCA)](east-alabama-regional-cybersecurity-alliance-earca.md)
 
 ## Key Sources
 - Iwatani, E., Tackett, T., Tackett, K., Arnett, N., & May, P. (2021). Leveraging Community Cultural Wealth to Support K-8 CT Education in Kentucky Appalachia. IEEE. https://ieeexplore.ieee.org. [doi:10.1109/respect51740.2021.9620610](https://doi.org/10.1109/respect51740.2021.9620610)

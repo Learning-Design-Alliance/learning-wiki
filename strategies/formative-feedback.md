@@ -122,6 +122,7 @@ The usable design rule comes from Hattie and Timperley: effective feedback answe
 8. **Check whether it landed.** Look at whether the named issue actually changed; if it did not, the problem is usually clarity or opportunity, not motivation.
 
 ## Related Strategies
+
 - [Formative Assessment Cycles](formative-assessment-cycles.md) — the surrounding loop that generates the evidence this feedback responds to
 - [Effective Feedback](effective_feedback.md) — the general characteristics of feedback that works, across formative and other uses
 - [Drafting and Feedback Cycles](drafting-and-feedback-cycles.md) — the structural guarantee that feedback has something to act on
@@ -134,6 +135,7 @@ The usable design rule comes from Hattie and Timperley: effective feedback answe
 - [Use Worked Examples](worked-examples-first.md) — exemplars set the quality standard that feedback references
 - [Use Retrieval Practice](retrieval-practice-activities.md) — retrieval tasks generate the evidence that formative feedback acts on
 - [Use Mastery Learning](mastery-learning.md) — formative feedback is the mechanism by which mastery thresholds are reached
+- [Ten recommendations for teachers on effectively using formative assessment in the classroom](ten-recommendations-formative-assessment-teachers.md)
 
 ## Examples
 

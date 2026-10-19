@@ -43,4 +43,5 @@ Descriptive analysis of Australian practice reported in the paper: student perce
 
 
 ## Related Claims
--
+
+- [Graduate attributes ('wicked competences') may not be amenable to conventional assessment because they are context-dependent, partly specifiable and developed over years](wicked-competences-resist-conventional-assessment.md)

@@ -43,4 +43,7 @@ Correlational analysis of the Lao teacher sample found "a significantly stronger
 
 
 ## Related Claims
--
+
+- [Lao teachers endorse relational, mastery, and ability-approach goals at similarly high levels, unlike typical Western patterns](lao-similar-goal-endorsement-levels.md)
+- [Mastery goals are associated with task and recognition practices, with recognition shared by both goal types](lao-mastery-goals-task-recognition-shared.md)
+- [Relational goals are associated with recognition, grouping, and classroom mutual respect practices](lao-relational-goals-targets-recognition-grouping-respect.md)

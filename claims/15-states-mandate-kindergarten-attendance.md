@@ -43,4 +43,6 @@ The national scan of state requirements reports that "only 15 states and the Dis
 
 
 ## Related Claims
+
 - [As of May 2024, 37 states require that some type of statewide or district-level KEA be administered to all incoming kindergarten students](37-states-require-kea-2024.md) — related
+- [As of 2024, only 10 U.S. states explicitly include Spanish–English bilinguals in their kindergarten entry assessments, while 41 states implicitly include or do not include them](ten-states-explicitly-include-spanish-english-bilinguals-in-keas.md)

@@ -43,4 +43,6 @@ The editors' introduction identifies this as the second common challenge across 
 
 
 ## Related Claims
+
 - [Balancing the need for pilot-testing with the goal of scaled change is a common challenge to community college reform efforts](pilot-testing-versus-scaled-change-challenge.md) — possibly the same claim (merge candidate)
+- [Technology can play a key role in comprehensive reform, but the adaptive capacity of the institution is equally critical for success](technology-role-adaptive-capacity-reform.md)

@@ -43,4 +43,8 @@ Editorial observational report from the journal's first anniversary describing c
 
 
 ## Related Claims
+
 - [CSCL initiatives have produced sustainable educational change at classroom, school, and school-system levels](cscl-sustainable-change-three-levels.md) — related
+- [ijCSCL ranked #11 of 203 ISI-ranked journals in Education and Educational Research, with a 2011 impact factor of 2.243](ijcscl-2011-impact-factor-ranking.md)
+- [The published erratum corrects only the spelling of Umer Farooq's name in the original ijCSCL volume 2 editorial.](ijcscl-volume2-erratum-corrects-farooq-name-spelling.md)
+- [ijCSCL was selected for coverage in Thomson Reuters Web of Science beginning with Volume 3, Number 1, 2008, with its first Impact Factor to be calculated for 2010](ijcscl-web-of-science-indexing-2008.md)

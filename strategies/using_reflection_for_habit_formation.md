@@ -60,9 +60,11 @@ Reflection converts experience into usable knowledge only when it is structured 
 6. **Fade the scaffolds.** Gradually reduce prompt specificity as learners internalize the routine [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
 
 ## Related Strategies
+
 - [Activities for Student Self-Reflection](activities_for_student_self-reflection.md) — the discrete reflective activities that, when routinized, constitute this strategy
 - [Action Planning](action_planning.md) — converts reflective insight into forward commitment, preventing reflection from ending in rumination
 - [Achievable Micro-Goals](achievable_micro-goals.md) — gives reflection a concrete target ("Did I meet my micro-goal?") that makes self-monitoring tractable
+- [Implement study-habit improvement programs for children before age 8 to support stable academic performance](study-habits-programs-before-age-8.md)
 
 ## Related Elements
 - [Individual Reflection](../elements/individual-reflection.md) — the core private processing step

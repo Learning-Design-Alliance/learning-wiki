@@ -43,4 +43,6 @@ Parent survey subscale analysis (N = 247) comparing expected and experienced reh
 
 
 ## Related Claims
--
+
+- [Parents' postimplant experiences of children's outcomes largely matched their preimplant expectations, with about four fifths reporting expectations met](ci-parent-expectations-matched-experiences.md)
+- [A substantial proportion of children with cochlear implants used some form of signed communication despite parents' initial expectations otherwise](ci-signed-communication-use.md)

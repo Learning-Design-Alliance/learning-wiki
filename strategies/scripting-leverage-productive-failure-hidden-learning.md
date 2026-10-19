@@ -17,7 +17,7 @@ sources:
 # Use collaboration scripting to take advantage of the hidden learning in productive failure
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Based on the qualitative analysis of group processes in productive failure, the Pathak et al. study's authors relate their findings to the notion of scripting in CSCL, "suggesting that scripting can be used to take advantage of the hidden learning that occurs with productive failure." This strategy treats the implicit gains from struggling with ill-structured problems as something collaboration scripts can deliberately surface and support, connecting the productive-failure phenomenon to established CSCL scripting work.
@@ -35,6 +35,10 @@ Based on the qualitative analysis of group processes in productive failure, the 
 
 ### Target Learning Goals
 - Deeper conceptual understanding through productive failure experiences
+
+## Claims
+
+- [Productive failure: student groups who score lower on individual post-tests may have experienced deeper learning leading to superior future performance](../claims/productive-failure-deeper-learning-lower-posttests.md) [+W]
 
 ## Related Strategies
 - 

@@ -17,7 +17,7 @@ sources:
 # Improve LLMs' scientific and mathematical reasoning under uncertainty to enable AI tutors for science and maths learning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The authors propose that the benchmark's findings motivate targeted improvement of LLMs on scientific and mathematical reasoning in contexts of uncertainty, where answers must be given from incomplete, progressively revealed clues. They state that "these findings point to the need for efforts to improve LLMs on this type of scientific and mathematical reasoning in the context of uncertainty" and that such capabilities "could enable the use of LLMs to power AI tutors to better support students' science and maths learning". The strategy is grounded in the real-time proxy evaluation showing performance drops when clues are incomplete.
@@ -35,6 +35,12 @@ The authors propose that the benchmark's findings motivate targeted improvement 
 
 ### Target Learning Goals
 - science and maths learning supported by AI tutors
+
+## Claims
+
+- [LLM performance drops from offline to real-time proxy evaluation when clues arrive incrementally](../claims/performance-drops-realtime-proxy-nsmq.md) [+W]
+- [Answering early on few clues correlates with worse real-time proxy performance](../claims/early-answering-correlates-worse-realtime-performance.md) [+W]
+- [LLMs struggle most with Chemistry riddles, with best EM accuracy at or below 75% versus above 90% in other subjects](../claims/llms-struggle-most-chemistry-nsmq-riddles.md) [+W]
 
 ## Related Strategies
 - 

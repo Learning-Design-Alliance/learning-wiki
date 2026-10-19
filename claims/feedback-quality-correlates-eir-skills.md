@@ -43,4 +43,5 @@ Correlational preliminary analysis (Table 3) in the same experiment: feedback qu
 
 
 ## Related Claims
--
+
+- [Essay quality correlates positively with the affective feature of ChatGPT feedback and negatively with the affective feature of peer feedback](essay-quality-affective-feedback-divergent-correlations.md)

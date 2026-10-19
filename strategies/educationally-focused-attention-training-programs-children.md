@@ -17,7 +17,7 @@ sources:
 # Develop educationally-focused attention-training programs for children informed by the neuroscience of selective attention
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article's closing recommendation is to apply the reviewed neuroscience principles to the design of attention-training programs aimed at education. The abstract states: "The final section examines the application of these principles to educationally-focused attention-training programs for children." The strategy is to ground such programs in the neurobiology of selective attention, its developmental time course, and the training literatures reviewed.
@@ -38,6 +38,11 @@ The article's closing recommendation is to apply the reviewed neuroscience princ
 
 ### Affordances
 - Neurobiological Framework Selective Attention Deployment Response Conflict
+
+## Claims
+
+- [Developmental differences in selective attention are related to neural systems for deploying attention and managing response conflict, while deployed selective attention acts through similar neural mechanisms across ages](../claims/developmental-selective-attention-deployment-mechanisms.md) [+W]
+- [Video-game play and mind-brain training literatures suggest the possibility of training selective attention](../claims/video-game-and-mind-brain-training-selective-attention.md) [+W]
 
 ## Related Strategies
 - 

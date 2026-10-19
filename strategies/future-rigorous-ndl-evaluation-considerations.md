@@ -17,7 +17,7 @@ sources:
 # Design considerations for a future rigorous evaluation of no-deadlines approaches
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The memo recommends five areas for a future evaluation: enhancing the synthetic controls (more predictive covariates, cross-directorate multi-unit analyses), reconsidering analytic decisions (annual versus quarterly intervals, thresholds for mid-year switchers, PI anticipation of NDL via Dear Colleague letters), resolving data issues (close-date accuracy, program linkages, partial-NDL programs like CISE), weighing an RCT in which NSF "could randomly select a subset of programs that have not yet implemented NDL," and adding outcomes such as portfolio diversity and staff workload measures.
@@ -37,6 +37,11 @@ The memo recommends five areas for a future evaluation: enhancing the synthetic 
 
 ### Target Learning Goals
 - Rigorous estimation of no-deadlines policy impacts on proposal volume, quality, burden, collaboration, and funding requests
+
+## Claims
+
+- [In exploratory synthetic control analyses, two GEO no-deadlines programs received 120 to 130 fewer proposals relative to their synthetic counterfactuals](../claims/ndl-reduced-proposal-volume-geo-exploratory.md) [+W]
+- [Synthetic control counterfactuals performed poorly for BIO NDL programs because few comparison programs were available](../claims/synthetic-control-poor-fit-bio-few-comparisons.md) [~W]
 
 ## Related Strategies
 - 

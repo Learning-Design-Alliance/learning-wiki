@@ -43,4 +43,5 @@ Classroom observation study of 21 teachers' audio-recorded instructions during t
 
 
 ## Related Claims
--
+
+- [Elementary teaching practices during a standardized lesson are more often teacher-directed than child-centered, with no grade differences in frequency](teaching-more-teacher-directed-than-child-centered.md)

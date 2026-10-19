@@ -162,6 +162,7 @@ Noticing in a recording, explaining it, the next performance and lasting change 
 - [Debriefing](debriefing.md) — owns the facilitated conversation after an experience; the conversation after a replay is one.
 
 ## Examples
+
 - [Reflection](../elements/reflection.md)
 - [Feedback](../elements/feedback.md)
 - **Teaching practicum replay**: Candidates pause classroom footage to analyze questioning, pacing, or responses to learners.
@@ -169,6 +170,7 @@ Noticing in a recording, explaining it, the next performance and lasting change 
 - [Video-Based Reflection](../elements/video-based-reflection.md) — the element: reviewing a recording of one's own activity.
 - [Professional Development pattern](../patterns/professional-development.md) — coached cycles in which teachers film a lesson and, later, choose the segment themselves.
 - **Clinical consultation review**: a trainee reviews a recorded (simulated or real, consented) consultation against one communication focus, then records the next one.
+- [Video-based coaching cycles in which teachers analyze their own discussions, practice talk moves, and reflect on effectiveness](../strategies/video-based-strengths-based-coaching-cycles.md)
 
 ## Key Sources
 - Baecher, L., & McCormack, B. (2015). The impact of video review on supervisory conferencing. *Language and Education, 29*(2), 153-167. [https://doi.org/10.1080/09500782.2014.992905](https://doi.org/10.1080/09500782.2014.992905)

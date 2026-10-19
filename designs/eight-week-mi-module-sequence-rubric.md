@@ -49,6 +49,7 @@ The paper provides reusable curriculum artifacts: an eight-week module sequence 
 
 - [Pair-based, discovery-oriented LLM analysis activity following an eight-week disciplinary module](pair-based-discovery-llm-analysis-activity.md)
 - [Short online cross-disciplinary mini-course of themed modeling assignments for building systems thinking](cross-disciplinary-online-modeling-assignment-sequence.md)
+- [SPICE curriculum formative assessments: Rules Task, Debugging Task, and Engineering Task with cross-domain rubrics](spice-formative-assessments-rules-debugging-engineering.md)
 
 ## Examples
 -

@@ -43,4 +43,6 @@ Theoretical derivation within the article's synergetic coupled-system model, ill
 
 
 ## Related Claims
--
+
+- [In the model, interventions that alter the feedback channel (verification visibility, social-proof damping) reduce overreliance and regret, while lowering verification cost alone does not lower regret](verification-visibility-counter-cascade-interventions.md)
+- [In the agent-based model, task difficulty and AI quality set the baseline level of overreliance, with difficulty the dominant global factor](simulation-task-difficulty-ai-quality-set-overreliance-baseline.md)

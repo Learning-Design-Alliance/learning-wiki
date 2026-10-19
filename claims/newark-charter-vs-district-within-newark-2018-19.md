@@ -43,9 +43,11 @@ Within-Newark sector comparison of 2018-19 growth between charter schools and ot
 
 
 ## Related Claims
+
 - [Fort Worth charter school students outgrew Fort Worth district school students in reading by a significant 38 days, with a non-significant 26-day math advantage](fort-worth-charter-beats-district-reading-growth.md) — related
 - [Newark charter school ELL students showed markedly above-state-average growth in both subjects in 2018-19](newark-charter-ell-growth-vs-state.md) — related
 - [Newark charter school students outgrew the state average in both reading and math in 2018-19](newark-charter-growth-vs-state-2018-19.md) — related
 - [Newark charter school students in poverty outgrew both the state poverty average and Newark district students in poverty in reading, and the state average in math](newark-charter-poverty-growth.md) — related
 - [Newark CMO-affiliated charters outgrew the state average in both subjects, while independent charters did so only in math](newark-cmo-vs-independent-charter-growth.md) — related
 - Newark students overall made significantly above-state-average math growth in 2018-19, with non-significant reading growth — related
+- [District schools in the aggregate showed near-zero effects, significantly lower than charter schools in the same grades, but the district sample was small](pl-district-schools-near-zero-vs-charter.md)

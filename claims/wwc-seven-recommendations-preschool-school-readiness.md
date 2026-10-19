@@ -43,6 +43,7 @@ The practice guide's overview states its method: the What Works Clearinghouse "i
 
 
 ## Related Claims
+
 - [Waterford Early Reading Level One™ shows no discernible effects on preschool children's print knowledge](waterford-level-one-no-discernible-print-knowledge-effects.md) — related
 - [Red Light, Purple Light has potentially positive effects on preschool children's self-regulation, with moderate evidence](red-light-purple-light-potentially-positive-self-regulation.md) — related
 - [Headsprout Early Reading has a statistically significant positive effect on the print knowledge of at-risk preschool children](headsprout-positive-print-knowledge-preschool.md) — related
@@ -54,3 +55,4 @@ The practice guide's overview states its method: the What Works Clearinghouse "i
 - [A WWC practice-guide panel rates developing and using clear behavior expectations as supported by strong evidence from 14 studies](clear-behavior-expectations-strong-evidence-14-studies.md) — a narrower finding that bears on this claim
 - [No reviewed study directly compared developmental-progression-guided math instruction with instruction not guided by a progression](no-direct-evidence-developmental-progression-versus-unguided.md) — related
 - [Targeted instruction in number and operations improves young children's early math achievement, with a moderate level of supporting evidence](number-operations-instruction-improves-early-math-achievement.md) — a narrower finding that bears on this claim
+- [The guide identifies intentional instruction, interaction and conversation, and sequentially built lessons as important factors in preschool instruction](preschool-instruction-key-factors-wwc.md)

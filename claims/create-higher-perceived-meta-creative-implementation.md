@@ -43,4 +43,5 @@ ANOVA on the 10-item self-report Meta-Creativity Questionnaire (Version A, Londo
 
 
 ## Related Claims
--
+
+- [CREATE meta-creative pedagogy produces a significant omnibus intervention effect on creative thinking components simultaneously in elementary students](create-omnibus-immediate-effect-creative-thinking.md)

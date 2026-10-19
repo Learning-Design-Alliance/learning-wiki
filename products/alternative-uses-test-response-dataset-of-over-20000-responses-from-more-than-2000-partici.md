@@ -26,6 +26,7 @@ An open dataset of more than 20,000 Alternative Uses Test responses from over 2,
 ## Related Products and Programmes
 
 - [Ocsai and confidence Python libraries for confidence-aware LLM scoring](ocsai-and-confidence-python-libraries-for-confidence-aware-llm-scoring.md)
+- [Open online dataset and statistical analyses of the mutual-modelling emotions study](open-online-dataset-and-statistical-analyses-of-the-mutual-modelling-emotions-study.md)
 
 ## Key Sources
 - Organisciak, P., & Acar, S. (2026). Know when to trust: Making AI scoring more reliable for educational assessment. Behavior Research. https://doi.org/10.3758/s13428-026-03058-1

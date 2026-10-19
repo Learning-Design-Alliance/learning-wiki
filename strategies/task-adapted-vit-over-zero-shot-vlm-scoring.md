@@ -17,7 +17,7 @@ sources:
 # Use lightweight task-adapted vision backbones rather than zero-shot multimodal foundation models for rubric-aligned drawing scoring
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 When scoring student drawings at scale, adapt a pretrained vision transformer with LoRA rather than relying on zero-shot vision-language models. In a zero-shot comparison, Qwen3-VL-8B-Instruct achieved lower agreement with expert scoring and higher latency; the authors note "the comparison provides a practical reference showing that lightweight task-adapted vision backbones remain competitive and efficient in this setting." They caution this does not indicate a limitation of multimodal models themselves.
@@ -35,6 +35,10 @@ When scoring student drawings at scale, adapt a pretrained vision transformer wi
 
 ### Target Learning Goals
 - accurate and efficient automated scoring against rubric-based proficiency levels
+
+## Claims
+
+- [LoRA adaptation adds only 0.6M trainable parameters on an 86.4M frozen backbone, keeping methods lightweight relative to LLM-based scoring](../claims/lora-parameter-efficiency-drawing-scoring.md) [+W]
 
 ## Related Strategies
 

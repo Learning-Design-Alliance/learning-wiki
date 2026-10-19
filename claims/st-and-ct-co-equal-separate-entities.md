@@ -43,4 +43,5 @@ An interpretive position in the review's integration section, attributed to Shut
 
 
 ## Related Claims
--
+
+- [Systems thinking alone is insufficient for investigating complex systems with time delays and feedback, motivating the addition of computational thinking](st-alone-insufficient-complex-systems.md)

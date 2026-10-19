@@ -43,4 +43,9 @@ Observational SNA analysis across the 12 PBL courses comparing multigraph, weigh
 
 
 ## Related Claims
--
+
+- [In a correlation meta-analysis across 69 course offerings, diffusion-based centralities correlated with academic achievement with high combined coefficients and predictive intervals](diffusion-centralities-meta-analysis-achievement.md)
+- [Multigraph closeness centrality is the most consistent of the three configurations for correlating closeness with performance, though less robust than degree and eigenvector centralities](multigraph-closeness-most-consistent-configuration.md)
+- [Betweenness centrality shows the least consistent correlation with performance, being largely insignificant or negative across configurations except in one course](betweenness-centrality-least-consistent.md)
+- [Multigraph indegree centrality is consistently and positively correlated with student performance across 12 PBL courses, with stronger correlations than other configurations in eight courses](multigraph-indegree-consistent-performance-correlation.md)
+- [Courses with a low number of forum interactions show inconsistent participation-dimension results, while eigenvector centrality remains robust there.](low-interaction-courses-inconsistent-participation-measures.md)

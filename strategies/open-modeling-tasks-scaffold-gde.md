@@ -17,7 +17,7 @@ sources:
 # Use open-ended, modeling-focused collaborative tasks with embedded scaffolds to support group disciplinary engagement
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The study's curricula organized groupwork around cognitively and socially demanding inquiry tasks, and the authors report that "these curricula emphasized open tasks and objectives about modeling" with task instructions providing "at least a low level of embedded scaffolds for metacognitive and, slightly less often, collaborative engagement." Because open-ended tasks were associated with higher subsequent disciplinary engagement, designers of collaborative STEM units can prioritize open task structures, modeling and argumentation practices, and embedded scaffolds for engagement dimensions.
@@ -40,8 +40,14 @@ The study's curricula organized groupwork around cognitively and socially demand
 ### Affordances
 - [Gde Framework Collective Multidimensional Dynamic](../research-methods/group-disciplinary-engagement-gde-framework.md)
 
+## Claims
+
+- [Open-ended tasks are associated with higher subsequent disciplinary engagement](../claims/open-ended-tasks-higher-disciplinary-engagement.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Redesign course projects around collaboration, open-ended problems, shared knowledge objects, technology mediation, and as-needed mentoring](five-design-principles-collaborative-course-redesign.md)
+- [Low Floor, High Ceiling Tasks](low-floor_high-ceiling_tasks.md)
 
 ## Examples
 -

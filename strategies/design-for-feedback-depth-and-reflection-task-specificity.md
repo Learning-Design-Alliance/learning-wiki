@@ -17,7 +17,7 @@ sources:
 # Design ASR-supported speaking instruction around feedback depth and reflection-task specificity rather than technical accuracy alone
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (3 for, 1 mixed) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size
 
 ## Description
 Based on the finding that recognition accuracy did not trigger reflection while corrective feedback and reflection tasks did, the article recommends that "instructional design should focus on the depth of feedback and the specificity of reflection tasks rather than solely on technical accuracy." In practice this means pairing ASR error correction with structured activities such as listening to recordings, comparing correct and incorrect expressions, and maintaining reflective journals, so learners act on feedback rather than merely noting flagged errors.
@@ -41,6 +41,13 @@ Based on the finding that recognition accuracy did not trigger reflection while 
 
 ### Affordances
 - Asr Feedback Internalization Model
+
+## Claims
+
+- [ASR recognition accuracy enhances learning motivation but does not significantly predict reflective behavior](../claims/asr-accuracy-motivation-not-reflection.md) [+M]
+- [In ASR-assisted college English speaking instruction, corrective feedback and reflection tasks each significantly predict reflective behavior](../claims/asr-feedback-and-reflection-tasks-reflective-behavior.md) [+M]
+- [Reflective behavior and learning motivation each significantly predict oral proficiency improvement in ASR-assisted instruction](../claims/asr-reflection-motivation-predict-oral-gains.md) [+M]
+- [Language proficiency significantly moderates the effect of reflective behavior on oral proficiency improvement, with the effect non-significant at low proficiency](../claims/proficiency-moderates-reflection-oral-gains.md) [~M]
 
 ## Related Strategies
 - 

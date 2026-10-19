@@ -43,4 +43,8 @@ Descriptive coding of collaboration regulation tools across the 62 reviewed publ
 
 
 ## Related Claims
--
+
+- [Group awareness tools showing peer presence, peer activities, or multiple artifacts are integrated in many educational VRLs, but performance and teacher-presence indicators are never standalone](group-awareness-tools-multimodal-vrls.md)
+- [Only a minority of VRL studies assess collaboration quality or learning, but most studies that measure learning report positive impact](minority-studies-evaluate-collaboration-learning-vrls.md)
+- [Guidance tools supporting collaboration are relatively uncommon in educational VRLs, integrated in only 13 of 62 reviewed systems](guidance-tools-uncommon-vrls.md)
+- [With a scripted collaboration designed to elicit metacognition, deep-level metacognitive regulation stays rare and students mostly accept rather than co-construct or share regulation](deep-level-shared-regulation-rare-despite-script.md)

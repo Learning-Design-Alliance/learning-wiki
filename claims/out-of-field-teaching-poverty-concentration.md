@@ -41,4 +41,5 @@ This review reports, citing Ingersoll (1996) analysis of the School and Staffing
 
 
 ## Related Claims
--
+
+- [Schools serving large numbers of students of color and students from low-income families have significantly fewer resources than schools serving more affluent White students](resource-gaps-high-poverty-schools.md)

@@ -65,6 +65,7 @@ Problem generation converts learners from consumers to constructors of tasks, fo
 - [Reciprocal Questioning](reciprocal-questioning.md) — a structured variant where learners alternate generating and answering questions in groups
 - [Self-Explanation](../elements/self-explanation.md) — complementary; explaining why a generated problem works deepens the authoring benefit
 - [Require authors to solve their own created levels before publishing, as a quality filter and a learning act in itself.](author-must-solve-own-level.md)
+- [Have learners develop their own problem-solving templates instead of replicating instructor templates](learner-generated-problem-solving-templates.md)
 
 ## Examples
 - **Reciprocal Teaching** ([University of Illinois reading studies](https://www.readingrockets.org/strategies/reciprocal_teaching)) — students take turns generating questions about a text passage, a direct application of guided question generation.

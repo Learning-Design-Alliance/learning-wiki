@@ -43,4 +43,5 @@ Cross-sectional secondary analysis of the 2016-17 NSCH (n = 44,686 children ages
 
 
 ## Related Claims
--
+
+- [Moderation by race/ethnicity: White children show significantly greater flourishing decrements as ACEs increase, while Black and Hispanic children show steeper declines in family resilience](race-moderation-white-steeper-flourishing-decline.md)

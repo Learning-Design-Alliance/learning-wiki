@@ -62,4 +62,7 @@ Descriptive pattern from Fig. 6 across the two stimulus videos; the authors stat
 
 
 ## Related Claims
--
+
+- [Instructor video presence produced no significant difference in tone production correctness, acceptability, or confidence, though with-condition means were descriptively higher on correctness and acceptability](instructor-presence-no-production-effect.md)
+- [Instructor video presence produced no significant difference in retention or transfer of Mandarin tone distinction among true-beginner learners](instructor-presence-no-retention-transfer-effect.md)
+- [Learners reported higher perceived learning and satisfaction and lower mental effort with the instructor video, despite no performance gains — a perception-performance gap](instructor-presence-perception-performance-gap.md)

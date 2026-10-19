@@ -100,6 +100,7 @@ Between-subjects pilot by Verret et al. of a 10-week moderate- to high-intensity
 
 
 ## Related Claims
+
 - [Aerobic exercise improves executive functioning, most notably inhibitory control, in typically developing children, though evidence is tentative and one week-long study found no main effect](aerobic-exercise-improves-executive-function-children.md) — related
 - [Acute cardio exercise improves executive functions, response time, and academic performance in children with ADHD](acute-cardio-exercise-improves-executive-function-adhd-children.md) — possibly the same claim (merge candidate)
 - [Physical activity, including brief aerobic exercise sessions, improves children's selective attention](physical-activity-improves-children-selective-attention.md) — a broader claim this one bears on
@@ -107,3 +108,4 @@ Between-subjects pilot by Verret et al. of a 10-week moderate- to high-intensity
 - [Chronic cardio exercise programs improve executive functions, attention, and behavior in children with ADHD](chronic-cardio-exercise-benefits-adhd-children.md) — related
 - [Adolescents with high weekly physical exercise hours (more than 4 h/week) show significantly better selective attention, concentration, and processing speed than lower-exercise groups, with no differences between low and moderate groups](high-exercise-hours-better-cognitive-adolescents.md) — related
 - [A 10-minute bout of moderate-intensity exercise improves Stroop inhibitory control with increased left dorsolateral prefrontal activation in young adults](moderate-exercise-stroop-dlpfc-activation.md) — related
+- [Exercise effect sizes on ADHD functional outcomes are not related to exercise intensity, mean age of participants, or gender distribution](exercise-adhd-effects-unrelated-to-intensity-age-gender.md)

@@ -62,6 +62,7 @@ Narrative review synthesis of human studies of parental buffering. The review re
 
 
 ## Related Claims
+
 - [Positive developmental relationships are the active ingredient in effective child-serving systems, buffering stress and fueling learning](positive-developmental-relationships-active-ingredient.md) — a broader claim this one bears on
 - [Adverse childhood experiences create toxic stress that impairs attention, learning, and behavior, and school responses can magnify or buffer the harm](aces-toxic-stress-impair-learning.md) — related
 - [Chronic HPA axis activation via CRH and glucocorticoids is proposed to partially mediate the neural effects of early life stress](hpa-crh-glucocorticoid-partial-mediation.md) — related
@@ -72,3 +73,4 @@ Narrative review synthesis of human studies of parental buffering. The review re
 - [Teacher's direct support of a stuck presenter corresponded with a clear decrease in situational stress (ASV)](teacher-support-asv-release.md) — a narrower finding that bears on this claim
 - [Students perceive peer interaction—companionship, support as a social buffer, and cooperation toward shared goals—as a key element of fun in learning](peer-interaction-fun-element.md) — related
 - [Higher serotonin is associated with persisting in challenging situations, and serotonin synthesis is greater when tryptophan is consumed in the morning or early afternoon](serotonin-persistence-tryptophan-timing.md) — related
+- [Early intervention can remediate neurodevelopmental consequences associated with maltreatment or institutional rearing](early-intervention-remediates-adversity-neurodevelopmental-consequences.md)

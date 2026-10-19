@@ -17,7 +17,7 @@ sources:
 # Use offline evaluations as smoke tests and live experiments for hill climbing
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends a three-step strategy for any hill-climbing change: "(1) Conduct offline evals to make sure that the change is ok to show to users. This includes spot-checking threads from the eval datasets (2) Run a live experiment for 1-2 weeks (3) If the experiment shows improvements in metrics, launch the change." Offline hill climbing was abandoned because primary metrics rely on user actions that cannot be computed in single-turn offline evals, datasets are hard to maintain, and offline metrics saturated quickly.
@@ -35,6 +35,10 @@ The article recommends a three-step strategy for any hill-climbing change: "(1) 
 
 ### Target Learning Goals
 - Improving AI tutoring quality metrics such as next-item correctness and cognitive engagement
+
+## Claims
+
+- [Cumulative rapid experimentation improved next-item correctness by 10% and cognitive engagement by 14% over five months](../claims/rapid-experimentation-cumulative-metric-gains.md) [+W]
 
 ## Related Strategies
 - 

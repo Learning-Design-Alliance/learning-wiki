@@ -43,4 +43,8 @@ Longitudinal study (n = 23) in the review's growth section; GRADE downgraded to 
 
 
 ## Related Claims
--
+
+- [Shorter sleep duration is associated with higher adiposity in children aged 0–4 years, though evidence quality is low](shorter-sleep-higher-adiposity-early-years.md)
+- [Evidence on sleep duration and cognitive development in children aged 0–4 years is mixed, with no consistent association](sleep-cognitive-development-mixed-early-years.md)
+- [Sleep duration shows no association with gross and fine motor skills in children aged 0–4 years](sleep-motor-development-null-early-years.md)
+- [Children who slept <10 hours/day at ages 3-4 years had worse maternal-reported executive function and behavioral difficulties at age 7 than children with age-appropriate sleep](short-sleep-3-4-years-worse-maternal-neurobehavioral-age-7.md)

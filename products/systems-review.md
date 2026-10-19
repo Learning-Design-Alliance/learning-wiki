@@ -18,7 +18,7 @@ sources:
 # Systems Review
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Systems Review is an inquiry-based, systems-focused approach for teams working to improve a system, developed and facilitated by R15CC.
@@ -28,6 +28,8 @@ Systems Review is an inquiry-based, systems-focused approach for teams working t
 - **Systems Review working agreements that ground teams in an inquiry-based, systems-focused stance**: R15CC developed Systems Review Working Agreements that "guide all Systems Review projects" and delineate how teams commit to working together on improving the system. The six agreements are: stay focused on the system; prioritize equity of voice (all teach, all learn); keep an open mind with an inquiry focus and give activities a genuine try; experience discomfort and treat struggles as learning opportunities; be present and participate with a right to process; and acknowledge impact and consider intent. Facilitators verbally add italicized elaborations when working with groups. (Mattson et al. (2023))
 
 ### Claims
+
+- [Participants reported that the trust-building collaborative environment enabled open and vulnerable sharing](../claims/trust-climate-enabled-open-sharing.md) [+W]
 
 ## Related Products and Programmes
 -

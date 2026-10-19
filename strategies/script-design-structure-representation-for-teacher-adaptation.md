@@ -37,7 +37,8 @@ Drawing on Sobreira and Tchounikine's work in the same issue, the article recomm
 - orchestrating effective mixes of pedagogical activities across planes of learning
 
 ## Related Strategies
-- 
+
+- [Design and report scripted collaboration so it integrates with classroom practice: sustained interventions, and accessible participant experience](embed-scripted-collaboration-in-classroom-eco-system.md)
 
 ## Examples
 -

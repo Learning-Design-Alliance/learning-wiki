@@ -41,6 +41,10 @@ The authors argue that teacher education research benefits from incorporating in
 ### Claims
 
 
+## Related Strategies
+
+- [Educational Research Map Visualization](educational_research_map_visualization.md)
+
 ## Related Principles
 - 
 

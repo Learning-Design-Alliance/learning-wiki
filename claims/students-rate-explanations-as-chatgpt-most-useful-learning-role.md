@@ -43,7 +43,9 @@ Descriptive result from Question 11 on how ChatGPT best aids learning computer s
 
 
 ## Related Claims
+
 - [Students found ChatGPT responses useful but insufficient in depth and detail compared with TA responses](students-find-chatgpt-useful-but-lacking-depth.md) — related
 - [A majority of surveyed MSc computer science students had never used ChatGPT for academic purposes](msc-cs-students-rarely-use-chatgpt-academically.md) — related
 - [Students perceive LLM chatbots as useful for learning but requiring critical use, reporting hallucinations, overconfidence, and dependency risks](students-view-llms-useful-but-requiring-critical-use.md) — related
 - [Structural relations exist between students' conceptions of constructivist learning and their regulation and processing strategies, and doubting students risk inadequate regulation](loyens-conceptions-relate-strategies.md) — related
+- [African and Asian students did not differ significantly in their answers about ChatGPT](no-background-difference-in-chatgpt-opinions.md)

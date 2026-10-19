@@ -43,4 +43,7 @@ Randomized experiment with 221 undergraduates assigned to a 2 (presentation mode
 
 
 ## Related Claims
--
+
+- [High-density text takes longer to complete than low-density text in self-paced lessons](high-density-text-longer-completion-time.md)
+- [Reading comprehension strongly predicts achievement from high-density microtext, unlike other density conditions](reading-comprehension-predicts-high-density-learning.md)
+- [Students generally prefer low-density text, selecting it on about 65 percent of learner-control choices](students-prefer-low-density-text.md)

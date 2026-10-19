@@ -201,6 +201,10 @@ Engagement, immediate achievement on an aligned test, time saved, delayed retent
 - [Design learner-tailored instructional systems by applying expertise reversal findings](../strategies/apply-expertise-reversal-to-adaptive-design.md)
 - [Learning-context personalization engine: mastery, spacing, and help-seeking signals guide when and how AI assistance is delivered](../designs/learning-context-engine-mastery-spacing-helpseeking.md)
 - [Adapt instruction dynamically to individual learners using measures of expertise and cognitive load](../strategies/adapt-instruction-via-expertise-load-measures.md)
+- [Four-dimensional personalization framework for study planning: goals, time, pace, and path](../designs/four-dimensional-personalization-goals-time-pace-path.md)
+- [Mathbot](../products/mathbot.md)
+- [Choose individual texts and videos appropriate for specific students rather than deciding by representational format](../strategies/choose-materials-individually-not-by-format.md)
+- [Tailor practice format to students' motivational profiles, particularly baseline self-efficacy and format favorability](../strategies/tailor-practice-format-to-motivational-profiles.md)
 
 ### Validated
 - [Contingent scaffolding improves learning.](../claims/contingent-scaffolding-improves-learning.md) [+M] — Walkington (2013) personalized algebra word problems to individual learners' out-of-school interests (sports, music, gaming) and found improved performance relative to standard contexts, with the largest gains for struggling learners.

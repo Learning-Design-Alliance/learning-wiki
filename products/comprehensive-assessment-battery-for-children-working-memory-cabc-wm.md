@@ -26,7 +26,10 @@ The CABC-WM is a computer-based, pirate-themed battery of 13 individually admini
 - [Cowan's three-factor embedded processes model fit young children's working memory data slightly better than Baddeley and Hitch's three-factor model and decisively better than Baddeley's four-factor episodic buffer model](../claims/cowan-embedded-processes-model-best-fit-young-children.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Go/No-Go and Nebraska Barnyard inhibition and working-memory tasks](gono-go-and-nebraska-barnyard-inhibition-and-working-memory-tasks.md)
+- [Online Experimental Psychological System (OPES) computerized cognitive test battery](online-experimental-psychological-system-opes-computerized-cognitive-test-battery.md)
+- [Span-task battery distinguishing STM (simple span) from WM (complex span) in children](span-task-battery-distinguishing-stm-simple-span-from-wm-complex-span-in-children.md)
 
 ## Key Sources
 - Gray Shelley, Green Samuel, Alt Mary, Hogan Tiffany P., Kuo Trudy, Brinkley Shara, Cowan Nelson. (2016). The Structure of Working Memory in Young Children and Its Relation to Intelligence. Journal of Memory and Language. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5157932/

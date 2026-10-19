@@ -24,7 +24,8 @@ A 30-item quantum-theory achievement test developed by Saif Alneyadi et al. for 
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [25-item electronic magnetism cognitive achievement test](25-item-electronic-magnetism-cognitive-achievement-test.md)
 
 ## Key Sources
 - Saif Alneyadi and Yousef Wardat. (2024). Integrating ChatGPT in Grade 12 Quantum Theory Education: An Exploratory Study at Emirate School (UAE). International Journal of Information and Education Technology, Vol. 14, No. 3. https://doi.org/10.18178/ijiet.2024.14.3.2061

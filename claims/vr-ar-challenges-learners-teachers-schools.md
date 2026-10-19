@@ -43,6 +43,8 @@ The review's challenges synthesis (RQ2, Table 2) codes challenges to learners (d
 
 
 ## Related Claims
+
 - [Non-immersive devices, especially smartphone/tablet-based AR, dominated VR/AR-supported K-12 STEM studies; immersive AR was rarely used](smartphone-tablet-ar-dominates-k12-stem-devices.md) — related
 - [Teachers report concerns about infrastructure, reliability, age appropriateness, teacher competence, and student over-reliance on AI](teacher-constraints-responsible-ai-integration.md) — related
 - [Ethical, financial, and infrastructural barriers significantly constrain the long-term sustainability of AI-driven educational transformation in higher education](ethical-financial-infrastructural-barriers-constrain-ai-sustainability.md) — related
+- [Situated, task-based and game-based learning were the most used strategies in VR/AR-supported K-12 STEM learning](situated-task-game-based-top-vr-ar-strategies.md)

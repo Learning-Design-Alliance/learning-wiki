@@ -31,6 +31,7 @@ An online learning environment developed by the article's authors that combines 
 ## Related Products and Programmes
 
 - [AutoGen, MetaGPT, CrewAI, LangGraph, and Phidata](autogen-metagpt-crewai-langgraph-and-phidata.md)
+- [Collective Learning platform](collective-learning-platform.md)
 
 ## Key Sources
 - Jifan Yu, Zheyuan Zhang, Daniel Zhang-li, Shangqing Tu, Zhanxin Hao, Ruimiao Li, Haoxuan Li, Yuanchun Wang, Hanming Li, Linlu Gong, Jie Cao, Jiayin Lin, Jinchang Zhou, Fei Qin, Haohua Wang, Jianxiao Jiang, Lijun Deng, Yisi Zhan, Chaojun Xiao, Xusheng Dai, Xuan Yan, Nianyi Lin, Nan Zhang, Ruixin Ni, Yang Dang, Lei Hou, Yu Zhang, Xu Han, Manli Li, Juanzi Li, Zhiyuan Liu, Huiqin Liu, Maosong Sun. (2024). From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents. Preprint. Under review. https://arxiv.org/abs/2409.03512

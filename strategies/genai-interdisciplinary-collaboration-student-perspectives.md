@@ -47,6 +47,7 @@ Beyond governance and training, the article recommends interdisciplinary collabo
 - [Higher education leaders should develop more inclusive and future-oriented GenAI policies integrating social equity, interdisciplinary experimentation, and sustainability considerations](develop-inclusive-future-oriented-genai-policies.md)
 - [Foster communities of practice for AI governance instead of rigid top-down policies](communities-of-practice-for-ai-governance.md)
 - [Build ethical AI integration on four coordinated levels: faculty professional development, ethics curricula, clear institutional guidelines, and interdisciplinary updating](four-level-ethical-ai-integration-strategy.md)
+- [Define institutional value from the bottom up, incorporating learning outcomes, community engagement, and career readiness beyond earnings thresholds](bottom-up-value-definition-beyond-earnings.md)
 
 ## Examples
 -

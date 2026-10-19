@@ -43,4 +43,5 @@ Multi-categorical mediation (PROCESS, 5000 bootstrap samples) on the full sample
 
 
 ## Related Claims
--
+
+- [Case comparison shifts student teachers' beliefs about operant conditioning toward more positive, regardless of experimental condition](case-comparison-shifts-beliefs-operant-conditioning.md)

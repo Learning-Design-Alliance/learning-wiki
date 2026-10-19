@@ -43,4 +43,7 @@ Sequential analysis of Thread 3 (question ID 77882157), where commenters identif
 
 
 ## Related Claims
--
+
+- [When comment-based methods fail to repair misunderstanding, directly editing another user's question serves as a last resort that corrects a flawed problem formulation](direct-editing-last-resort-repair.md)
+- [Withholding or delaying an MRE is treated as a breach of foundational local norms, normally triggering escalated norm enforcement and undermining problem-solving](mre-withholding-norm-breach-novice-categorization.md)
+- [Reproducibility of code in questions involves nuanced community formatting expectations, not merely technical correctness](reproducibility-community-formatting-expectations.md)

@@ -58,8 +58,10 @@ Interview evidence from the same student in the Awareness section: she stated th
 
 
 ## Related Claims
+
 - [Educators moved from awareness to interest in integrating the studio's technology into their coursework](educators-awareness-to-interest-technology-integration.md) — related
 - [Authentic, challenging projects in the Learning Studio developed students' self-efficacy for future careers](authentic-projects-build-career-self-efficacy.md) — related
 - [Instructors perceive that experiential learning cultivates enjoyment, satisfaction, and self-confidence through peer and community engagement (beauty)](instructors-enjoyment-peer-community-engagement.md) — related
 - [Co-regulation strategies were reported to create a safe, positive classroom climate and to help youth manage emotions](co-regulation-supports-climate-and-youth-emotion-regulation.md) — related
 - [Students saw technology and STEM careers as creating concrete possibilities for their own agency](stem-careers-possibilities-agency.md) — related
+- [A student-built CTE webpage redesign coincided with the school adding one computer science course the following year](student-webpage-project-coincided-cs-course-increase.md)

@@ -43,4 +43,5 @@ Descriptive analysis of logged chat from 101 groups of secondary students (310 s
 
 
 ## Related Claims
--
+
+- [Regulation at the dyadic and/or group level is positively related to group performance in CSCL](dyadic-group-regulation-related-group-performance.md)

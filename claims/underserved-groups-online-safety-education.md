@@ -43,4 +43,6 @@ Stage 2 interview and focus group thematic analysis of stakeholder views on Fram
 
 
 ## Related Claims
--
+
+- [Expert review and stakeholder consultation established strong consensus on the need for and acceptability of the Framework](stakeholder-consensus-online-safety-framework.md)
+- [Existing digital citizenship and online safety frameworks were appraised as too broad and not addressing serious online risks](existing-frameworks-not-comprehensive-online-safety.md)

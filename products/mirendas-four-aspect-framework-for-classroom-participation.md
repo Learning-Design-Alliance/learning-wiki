@@ -24,7 +24,9 @@ A framework devised by Mirenda for teachers to assess a child's classroom partic
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [CCSR five-category framework of noncognitive factors](ccsr-five-category-framework-of-noncognitive-factors.md)
+- [Whole Child Approach](whole-child-approach.md)
 
 ## Key Sources
 - Punch, R., & Hyde, M. B. (2011). Communication, Psychosocial, and Educational Outcomes of Children with Cochlear Implants and Challenges Remaining for Professionals and Parents. International Journal of Otolaryngology. https://doi.org/10.1155/2011/573280

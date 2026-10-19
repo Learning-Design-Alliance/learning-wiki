@@ -62,4 +62,8 @@ Simple effects within the same experiment, with printed effect sizes d = 0.69 (g
 
 
 ## Related Claims
--
+
+- [Children in grades 3–7 endorse gender-interest stereotypes favoring boys in computer science, with boys endorsing more strongly than girls](children-endorse-gender-interest-stereotypes-cs-study1.md)
+- [Experimentally labeling a novel activity with a gender-interest stereotype causes 8-year-old girls to report lower interest and choose it less often](stereotype-label-causes-lower-girls-interest-novel-activity.md)
+- [Girls' lower sense of belonging mediates the relation between gender-interest stereotypes and their lower interest in computer science, with the opposite mediation for boys](belonging-mediation-gender-interest-stereotypes.md)
+- [Gender-interest stereotypes favoring boys in computer science and engineering are endorsed across grades 1–12 and across racial/ethnic groups in a diverse sample](gender-interest-stereotypes-diverse-sample-grades-1-12.md)

@@ -43,6 +43,7 @@ A correlational study reviewed by the article showed that "measures of working m
 
 
 ## Related Claims
+
 - [Preschool working memory–flexibility predicts later math achievement, especially in Grade 3](preschool-wm-flexibility-predicts-math-achievement.md) — related
 - [Cognitive flexibility uniquely predicts literacy achievement in Grades 4 and 6, above and beyond fluid intelligence, attention, inhibitory control, working memory, and planning](cognitive-flexibility-unique-predictor-literacy-grades-4-6.md) — related
 - [IQ and working memory are reliable predictors of academic achievement at the beginning of school when domain knowledge is not controlled](iq-and-wm-predict-early-academic-achievement.md) — related
@@ -50,3 +51,4 @@ A correlational study reviewed by the article showed that "measures of working m
 - [Children's executive function at the beginning of pre-kindergarten predicts growth in mathematics achievement across the pre-kindergarten year](ef-predicts-preschool-math-growth.md) — related
 - [Executive functions and working memory correlate moderately to strongly with mathematics achievement (r = .28 to .40), from preschool through elementary school](executive-functions-and-working-memory-correlate-with-math-achievement.md) — related
 - [Aggression is not a unique predictor of preschool academic development once attention problems and social skills are controlled](aggression-not-unique-predictor-preschool-academics.md) — related
+- [Selective attention processes are hypothesized to relate to language, literacy, and mathematics, three domains important to early academic skills](selective-attention-links-language-literacy-mathematics.md)

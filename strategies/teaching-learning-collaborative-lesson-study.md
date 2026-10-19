@@ -44,6 +44,7 @@ The TLC "brings together groups of three or four teachers over two full school d
 
 - [Design professional learning for leaders using a 5E learning cycle](5e-learning-cycle-leader-professional-learning.md)
 - [Two looking-at-student-work protocols for monitoring progress toward 3D NGSS learning](looking-at-student-work-protocols-ngss.md)
+- [Two-day lesson sequence: contrast pattern with identification exercise, then generalization pattern with sorting exercise, then reinforcement](contrast-then-generalization-lesson-sequence.md)
 
 ## Examples
 -

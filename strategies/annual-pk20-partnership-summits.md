@@ -37,7 +37,8 @@ A specific implementable activity the article reports: New Hampshire state-level
 - coherence of curriculum, instruction, and assessment across the PK-20 continuum
 
 ## Related Strategies
-- 
+
+- [Clinical director as LEA–IHE boundary-spanner managing each partnership](clinical-director-boundary-spanner-partnership.md)
 
 ## Examples
 -

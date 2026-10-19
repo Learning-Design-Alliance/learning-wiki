@@ -177,6 +177,8 @@ Better reflections, higher course exams, changed practice, and delayed or transf
 - [Use teaching portfolios with a reflective component so beginning teachers document competencies and reflect on which practices worked](../strategies/reflective-teaching-portfolios.md)
 - [Context-Specific Journaling](../strategies/context-specific_journaling.md)
 - [Use action research projects in which pre-service and in-service teachers jointly inquire into instructional decision-making](../strategies/action-research-reflective-teacher-education.md)
+- [Use reflection prompts focusing on the teacher vs. on the students in video-based professional development for SRL instruction](../strategies/reflection-prompt-focus-video-pd-srl.md)
+- [Use discussion forums with three reflection prompts to structure students' dialogic reflection after viewing visualisations](../strategies/three-prompt-reflection-forum-strategy.md)
 
 ## Key Sources
 - Schon, D. A. (1983). *The reflective practitioner*. Basic Books.

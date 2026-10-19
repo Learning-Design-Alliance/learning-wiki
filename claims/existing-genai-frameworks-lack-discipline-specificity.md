@@ -43,6 +43,7 @@ The article's review of recent sector frameworks (traffic light systems, the two
 
 
 ## Related Claims
+
 - [Unclear policy, workload pressure, and lack of mechanisms to monitor student AI use undermined staff confidence and perceived fairness during AIAS implementation](aias-implementation-facilitating-conditions.md) — related
 - [Retrofitting an AIAS level to an unchanged assessment task creates a validity risk in which the assessment measures use of the scale rather than intended learning outcomes](aias-retrofit-validity-risk-compliance-layer.md) — related
 - [Academic staff experienced the AIAS as a shared language that legitimised GenAI use in teaching and assessment](aias-shared-language-legitimises-genai-use.md) — a narrower finding that bears on this claim
@@ -56,3 +57,4 @@ The article's review of recent sector frameworks (traffic light systems, the two
 - [Existing generative AI guidance in higher education focuses on policy and academic integrity rather than learning mechanisms](existing-ai-guidance-focuses-policy-integrity.md) — related
 - The article reports a relative lack of literature detailing practical approaches to GenAI-driven assessment redesign — a broader claim this one bears on
 - [Universities remaining at early AI-adoption stages risk reactive policies, fragmented practice, and misalignment between assessment and real-world practice](early-stage-ai-adoption-risks.md) — related
+- [Existing digital citizenship and online safety frameworks were appraised as too broad and not addressing serious online risks](existing-frameworks-not-comprehensive-online-safety.md)

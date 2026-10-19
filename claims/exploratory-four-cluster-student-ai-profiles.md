@@ -43,6 +43,7 @@ Exploratory K-means clustering among students only (n = 961, nine features, fixe
 
 
 ## Related Claims
+
 - [Teachers' post-workshop platform engagement fell into three behavioral profiles, with most teachers showing minimal creation and browsing](three-behavioral-engagement-profiles-ai-agent-creation.md) — related
 - [Latent profile analysis of pre-service teachers' CT skills identifies three profiles (Novice, Developing, Proficient), revealing heterogeneous, non-linear skill acquisition](three-ct-profiles-preservice-teachers-lpa.md) — related
 - [Three distinct learner profiles emerge from function art activities: Repetitivists, Simplists, and Multifunctionists](function-art-three-learner-profiles.md) — related
@@ -68,3 +69,4 @@ Exploratory K-means clustering among students only (n = 961, nine features, fixe
 - [SRL writing-stage clusters differed in production and revision but not in pausing](srl-writing-clusters-production-revision.md) — related
 - [Three learning profiles emerge among university students: organized-deep, unorganized-deep, and dissonant](three-learning-profiles-kmeans.md) — related
 - [Cluster analysis across both studies identifies three meta-attention knowledge profiles, including an overconfident group with a self-knowledge/strategy mismatch](makq-three-meta-attention-profiles.md) — related
+- [Affinity propagation clustering of gameplay attempts yielded an interpretable six-cluster solution (part.6)](affinity-propagation-six-cluster-solution.md)

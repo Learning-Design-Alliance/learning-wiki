@@ -167,6 +167,7 @@ This pattern is scoped to sharing a real decision with a group the existing proc
 - [Co-designed future-oriented research questions on personalization, learning environments, engagement metrics, and reward systems](../elements/seernet-co-designed-research-questions.md)
 - A Chicago ward's participatory budgeting process (PB49), where a Spanish-Language Committee was created after an initial committee saw Latino attendance drop from 7 volunteers to 0 within two meetings; the redesigned committee sustained participation through a full budgeting cycle and was later adopted as a model by other wards.
 - [Leverage culturally-specific engagement strengths: support school participation for Spanish-speaking families and oral storytelling for English-speaking families](../strategies/culturally-specific-engagement-outreach-strategies.md)
+- [Design teams and student advisory committees for student voice in decision-making](../designs/design-teams-and-student-advisory-committees.md)
 
 ## Key Sources
 - SWIFT Education Center. (2025, May). Rightful presence in education systems. https://swiftschools.org

@@ -59,6 +59,7 @@ The report recommends state incentives that recruit candidates into high-need fi
 - [Deploy a portfolio of research-based strategies — service scholarships, residencies, Grow Your Own programs, mentoring and induction, and compensation reform — to strengthen the teacher pipeline](portfolio-strategies-teacher-pipeline-texas.md)
 - [Expand loan forgiveness, high-retention preparation pathways, and compensation supports to reduce teacher loan burdens and strengthen recruitment and retention](reduce-teacher-loan-burden-policy-strategies.md)
 - [Target prospective teachers in childhood and early childhood education to earn special education certificates at first certification, and consider incentives redirecting teachers from administration toward shortage areas](promote-shortage-area-certification-at-first-certification.md)
+- [District hiring and incentive structures that prioritize certification: screening requirements, time limits for uncertified teachers, salary differentials, and designated certification staff](certification-prioritizing-hiring-incentives-strategy.md)
 
 ## Examples
 -

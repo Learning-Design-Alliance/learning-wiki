@@ -43,4 +43,6 @@ Authors' interpretation in the abstract, elaborated in the introduction: people 
 
 
 ## Related Claims
--
+
+- [Participants seek help less often than they withhold answers when both strategies are available or compared across conditions](help-seeking-less-frequent-than-withholding.md)
+- [Within a single LLM session, students' help-seeking shifts toward answer- and verification-seeking while explicit self-regulation modestly increases](within-session-hs-shifts-toward-closure-srl-increases.md)

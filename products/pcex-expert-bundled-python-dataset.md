@@ -25,7 +25,8 @@ A dataset produced from the PCEX programming-learning system containing 123 intr
 - [Pattern-based KC similarity retrieves bundle-aligned programming learning items better than code-embedding and other KC baselines in both retrieval directions](../claims/pattern-kc-retrieval-outperforms-baselines.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Hour of Code](hour-of-code.md)
 
 ## Key Sources
 - Muntasir Hoq, Griffin Pitts, Zhangqi Duan, Arun Balajiee Lekshmi Narayanan, Mohammad Hassany, Andrew Lan, Peter Brusilovsky and Bita Akram. (2026). Automated Recommendation of Programming Learning Content Using Pattern-based Knowledge Components. CSEDM'26: 10th Educational Data Mining in Computer Science Education Workshop. https://educationaldatamining.org

@@ -62,4 +62,5 @@ Reported teacher and student reactions in the same classroom study: participants
 
 
 ## Related Claims
--
+
+- [Students' performance improved from day 1 to day 2 of the TapaCarp activity](performance-improved-day1-to-day2-tapacarp.md)

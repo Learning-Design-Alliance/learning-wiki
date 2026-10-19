@@ -72,6 +72,8 @@ Collaborative reflection works because it combines external perspective with soc
 - [Teacher reflection cycle for adopting a formative assessment practice](teacher-reflection-cycle-formative-practice.md)
 - [Run a cross-district improvement collaboration combining content communities, dedicated advisors, and structured peer feedback](cross-district-improvement-collaboration-structure.md)
 - [Use professional learning communities to review student work and give teachers feedback](plc-student-work-review-feedback-bhs.md)
+- [Programming clubs should target upsolving discipline and peer network density through structured post-contest review and mentor-buddy systems](structured-upsolving-and-mentor-buddy-retention-strategy.md)
+- [Weekly design meetings as key sites of teacher inquiry, collaboration, and knowledge creation](weekly-design-meetings-teacher-inquiry.md)
 
 ## Examples
 - **Lesson study in Japan and the U.S.** — Teams of teachers jointly plan a "research lesson," observe it live while collecting data on student thinking, then revise and reteach it in another class. Documented in the U.S. via the Mills College Lesson Study Group ([lessonresearch.net](https://www.lessonresearch.net)).

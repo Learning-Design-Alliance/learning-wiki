@@ -17,7 +17,7 @@ sources:
 # District and school leaders explore barriers to high-fidelity implementation of attendance supports and embed fidelity criteria in attendance policy
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report recommends that leaders identify why schools fail to meet district fidelity criteria and communicate guidance to raise fidelity. It suggests PPSD "could incorporate the fidelity of implementation criteria into its Student Attendance Policy to articulate to schools how use of attendance supports should look," and that leaders weigh whether investing in higher-lift supports is strategic given resource barriers and the magnitude of their absenteeism problem.
@@ -35,6 +35,10 @@ The report recommends that leaders identify why schools fail to meet district fi
 
 ### Target Learning Goals
 - Reducing chronic absenteeism through faithful implementation of attendance supports
+
+## Claims
+
+- [PPSD schools most frequently implemented nudge letters, phone calls, and attendance teams with moderate or high fidelity in 2018/19](../claims/nudge-letters-phone-calls-attendance-teams-highest-fidelity.md) [+W]
 
 ## Related Strategies
 - 

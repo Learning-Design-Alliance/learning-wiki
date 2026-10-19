@@ -41,4 +41,7 @@ Moderation analyses with 225 Turkish-German children (M = 11 years, SD = 1.6) co
 
 
 ## Related Claims
--
+
+- [Children's age did not moderate the link between bicultural identity and cognitive flexibility](age-does-not-moderate-biculturalism-flexibility-link.md)
+- [Balanced bicultural identity showed no relation to working memory or inhibitory control performance in congruent and incongruent Dot Task trials](bicultural-identity-no-effect-working-memory-inhibition.md)
+- [Dot Task accuracy decreased from congruent to incongruent to mixed trials, with condition accuracies positively correlated](dot-task-accuracy-gradient-congruent-incongruent-mixed.md)

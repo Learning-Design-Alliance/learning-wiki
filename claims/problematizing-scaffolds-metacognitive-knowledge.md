@@ -43,4 +43,5 @@ Planned comparison between the problematizing and structuring conditions on the 
 
 
 ## Related Claims
--
+
+- [Both structuring and problematizing avatar scaffolds raise elementary students' metacognitive knowledge relative to no scaffolding](avatar-metacognitive-scaffolds-raise-metacognitive-knowledge.md)

@@ -43,4 +43,5 @@ Verbatim transcripts of the verbal interaction in the tutorial group were analys
 
 
 ## Related Claims
--
+
+- [Conceptual change by students during PBL problem analysis can be made visible in stimulated recall protocols](stimulated-recall-makes-conceptual-change-visible.md)

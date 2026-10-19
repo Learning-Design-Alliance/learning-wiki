@@ -17,7 +17,7 @@ sources:
 # Argumentative Essay Writing online module with FeedbackFruits peer feedback
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 An online module called "Argumentative Essay Writing" (AEW) delivered in Brightspace over two weeks, designed to improve students' essay writing skills through peer feedback. It uses the FeedbackFruits app embedded in Brightspace, whose peer feedback feature "empowers teachers to design tasks that enable students to offer feedback to their peers". In phase one students wrote essays individually; in phase two students were randomly invited to provide written asynchronous feedback on peers' essays.
@@ -39,10 +39,12 @@ An online module called "Argumentative Essay Writing" (AEW) delivered in Brights
 - peer feedback provision
 
 ### Claims
-- 
+
+- [Students' argumentative essay quality improves substantially from initial to revised drafts regardless of feedback source](../claims/essay-quality-improves-from-initial-to-revised.md) [+W]
 
 ## Related Designs
-- 
+
+- [Two-phase online module design combining individual reflective essays with small-group peer discussion](two-phase-online-module-essay-peer-discussion.md)
 
 ## Examples
 -

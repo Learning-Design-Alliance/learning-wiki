@@ -43,7 +43,9 @@ The review reports a social network analysis using snapshots of the link structu
 
 
 ## Related Claims
+
 - [Articles edited by more heterogeneous contributors are more balanced, indicating productive friction that counters polarization](heterogeneous-contributors-balance-articles.md) — related
 - [Central Wikipedia articles are primarily edited by domain specialists while boundary-spanning articles are authored by generalists](specialists-edit-central-generalists-span-boundaries.md) — related
 - [Three big data methods—text classification, cluster analysis, and social network analysis—can each yield insights into learning in mass collaboration](three-big-data-methods-insights-mass-collaboration.md) — a broader claim this one bears on
 - [Wikipedia contributors show confirmation bias by preferentially editing articles consistent with their own views](wikipedia-contributors-confirmation-bias-editing.md) — related
+- [Boundary spanning perceptions and actions are critical mechanisms for productive divergent collaboration](bsp-bsa-critical-mechanisms-divergent-collaboration.md)

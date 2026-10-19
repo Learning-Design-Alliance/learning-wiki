@@ -17,7 +17,7 @@ sources:
 # Build learnity-graph-centered infrastructure with graph engine, evidence layer, analytics layer, and recommendation engine
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends developing infrastructure to support learnity graphs, potentially through LMS systems centered on learnity graphs rather than on courses. Core components include "a graph engine, an evidence layer, an analytics layer, and a recommendation engine", enabling lifelong learning records that transcend institutional boundaries. This is a forward-looking design recommendation, not a tested intervention.
@@ -36,6 +36,10 @@ The article recommends developing infrastructure to support learnity graphs, pot
 
 ### Target Learning Goals
 - lifelong learning records and personalized pathway recommendation beyond institutional boundaries
+
+## Claims
+
+- [Open questions for learnity graphs include validation, legitimacy, grading avoidance, algorithmic guidance balance, and privacy](../claims/learnity-graph-open-questions.md) [~W]
 
 ## Related Strategies
 - Learnity Graph Prototype Vercel

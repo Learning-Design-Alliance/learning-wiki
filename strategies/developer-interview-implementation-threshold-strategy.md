@@ -17,7 +17,7 @@ sources:
 # Establish program-specific implementation thresholds through curriculum review and structured developer interviews
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The study's strategy for defining fidelity begins with an expert review of student and teacher materials across structure, intended classroom interactions, and curriculum-embedded educative features, entered into a comparison spreadsheet with team calibration. Developers then answer written questions about essential features, fidelity thresholds, faithful adaptations, and readiness, covering four dimensions of scaffolded learning opportunities, including "opportunities to develop procedural fluency based on conceptual understanding." A broader goal is "to establish an implementation threshold for each program— a minimum characterization of what implementation should look like across districts and schools and classrooms that all use the same set of materials," followed by a 1-hour semistructured follow-up interview.
@@ -38,6 +38,10 @@ The study's strategy for defining fidelity begins with an expert review of stude
 
 ### Affordances
 - Official To Enacted Curriculum Translation Framework
+
+## Claims
+
+- [HQIM teacher guides differ substantially in the depth of educative guidance they provide for the same pedagogical practice](../claims/hqim-teacher-guides-vary-in-educative-guidance-depth.md) [+W]
 
 ## Related Strategies
 - 

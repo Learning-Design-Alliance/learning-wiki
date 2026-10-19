@@ -43,6 +43,7 @@ The brief's introductory framing defines undermatch as a descriptive concept: st
 
 
 ## Related Claims
+
 - A study analyzed the college application and enrollment choices of KIPP Northern California graduates from the classes of 2016 to 2019 — related
 - [There was substantial variation among charter high schools on test scores, college enrollment, and college selectivity—more variation than among non-charter schools once incoming characteristics were controlled](cps-charter-variation-among-schools.md) — related
 - [Escaping a bottom-tier school raises four-year graduation rates, by 10 percentage points for top-tier schools and 3 for mid-tier schools](escaping-bottom-tier-schools-raises-graduation-rates.md) — related
@@ -52,3 +53,4 @@ The brief's introductory framing defines undermatch as a descriptive concept: st
 - [Undermatch among CPS four-year college-goers rose from 42.7 percent in 2003 to 57.7 percent in 2013 before rebounding after 2013](cps-undermatch-trend-rose-then-rebounded.md) — related
 - Among students eligible for highly selective institutions, about 60 percent of low-income students undermatch versus 27 percent of the highest-income students — a narrower finding that bears on this claim
 - Nearly half (49.6 percent) of low-income students under-match into colleges less selective than their credentials warrant, and under-matched students are substantially less likely to graduate — a narrower finding that bears on this claim
+- [Information barriers disadvantage low-income students in the college transition: bright low-income students miss selective colleges, and mailed information packages raise application and enrollment](college-information-barriers-low-income-students.md)

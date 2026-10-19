@@ -18,7 +18,7 @@ sources:
 # Annotated oral English corpus of 4,374 recordings from 486 Chinese university students across five diagnostic dimensions
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A corpus created by Chai Rui containing 4,374 recorded oral-English performances from 486 Chinese university students, scored by trained evaluators across five diagnostic dimensions for model training and evaluation.
@@ -27,6 +27,8 @@ A corpus created by Chai Rui containing 4,374 recorded oral-English performances
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
+- [A multi-task CNN-LSTM diagnostic model with attention-based fusion achieves correlations of 0.887, 0.862, 0.824, and 0.793 with human expert ratings across four oral proficiency dimensions under speaker-independent testing](../claims/cnn-lstm-multitask-oral-diagnostic-accuracy.md) [+W]
 
 ## Related Products and Programmes
 -

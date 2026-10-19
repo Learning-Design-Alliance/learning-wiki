@@ -47,6 +47,7 @@ The report distinguishes two fundamental roles for ACE providers in the national
 ## Examples
 
 - [Eight critical opportunities for the ACE sector to explore within the national VET system](../strategies/eight-critical-opportunities-ace-sector.md)
+- [Ten shared goals at the ACE-VET interface where closer cooperation would have mutual benefit](../strategies/ten-ace-vet-interface-goals.md)
 
 ## Key Sources
 - Schofield, Kaye. (1996). Think Local and Compete. An Analysis of the Role of Adult and Community Education in the Implementation of a National System for Vocational Education and Training. A Report to the MCEETYA ACE Taskforce. Australian National Training Authority, Brisbane. https://eric.ed.gov/?id=ED420782

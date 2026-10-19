@@ -44,7 +44,8 @@ Elevate is a software-enabled continuous-improvement platform developed by PERTS
 - [Better coordination, communication, and coherence across professional learning and supports are needed to sustain centering student experience](../claims/coherence-alignment-student-experience-supports.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [PERTS 15-item academic mindset survey with four subscales](perts-15-item-academic-mindset-survey-with-four-subscales.md)
 
 ## Key Sources
 - Gripshover, S., Londerée, A., Ahuvia, I., Shyjka, A., Kroshinsky, F., Ryan, N., Farrington, C., & Paunesku, D. (2022). Learning Conditions Are an Actionable, Early Indicator of Math Learning. PERTS & University of Chicago Consortium on School Research. https://consortium.uchicago.edu/publication/learning-conditions-are-an-actionable-early-indicator-of-math-learning

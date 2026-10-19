@@ -40,7 +40,8 @@ The proposed multimodal learning analytics design for full-mission bridge simula
 - 
 
 ## Examples
--
+
+- [Combine system logs, eye-tracking, and speech recognition to capture professional performance, communication, and collaboration for automated feedback in full-mission simulator training](../strategies/mmla-sensor-set-simulator-feedback.md)
 
 ## Key Sources
 - Susan Harrington and Charlott Sellberg. (2026). 12 Heuristics for Learning Analytics in Simulation-Based Professional Learning. Journal of Learning Analytics, 13(1), 130-142. https://doi.org/10.18608/jla.2026.9141

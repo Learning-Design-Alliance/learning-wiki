@@ -44,4 +44,8 @@ Content analysis of the ten LlamaLo discussions (Findings, §4.1, Fig. 3). The a
 
 
 ## Related Claims
--
+
+- [LlamaLo exhibited bias and presented contested assertions as facts, notably in the Israeli-Palestinian conflict discussion](llamalo-bias-contested-assertions.md)
+- [The fine-tuned chatbot LlamaLo extensively expanded the user's dialogic space through deepening and widening acts across ten contentious-topic discussions](llamalo-expanded-user-dialogic-space.md)
+- [LlamaLo occasionally employed an aggressive or sarcastic tone, sometimes without user provocation, though it changed tone after being commented on](llamalo-negative-tone-challenge.md)
+- [LlamaLo's responses to social posts were solely social and it did not push back to resume the discussion](llamalo-social-shift-no-resume.md)

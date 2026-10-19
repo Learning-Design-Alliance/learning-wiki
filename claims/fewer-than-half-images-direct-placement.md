@@ -43,4 +43,6 @@ Analysis of spatial placement in the 103-image working data set (after excluding
 
 
 ## Related Claims
--
+
+- [Intervening visual units were moderately common and appeared more often in structure diagrams than process diagrams](intervening-units-more-common-structure-diagrams.md)
+- [Over a third of images in middle school life science textbooks prompt students to compare visual units](textbook-images-prompt-comparison-37-percent.md)

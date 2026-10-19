@@ -47,7 +47,8 @@ The review proposes a research agenda directing future student self-assessment w
 - [Students' expertise on the task may be an important prerequisite for accurate self-assessment](../claims/task-expertise-prerequisite-ssa-accuracy.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Future self-assessment interventions should redirect students' attention from invalid cues toward valid, predictive cues rather than providing self-assessment accuracy feedback](redirect-self-assessment-cues-toward-valid-cues.md)
 
 ## Examples
 -

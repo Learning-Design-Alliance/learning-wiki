@@ -43,4 +43,5 @@ Controlled study in which 167 university students were assigned to either a trea
 
 
 ## Related Claims
--
+
+- [Civic Online Reasoning Instruction Improves Evaluation](civic-online-reasoning-instruction-improves-evaluation.md)

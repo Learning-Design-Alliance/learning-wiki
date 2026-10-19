@@ -64,6 +64,7 @@ Blending non-achievement factors into achievement grades distorts the grade's me
 - [Revision and Resubmission](revision-and-resubmission.md) — the mechanism through which progress becomes visible and gradable
 - [Mastery Learning](mastery-learning.md) — product grades aligned to mastery rather than averaging
 - [Clarify assessment purpose, define skill expectations with rubrics and progressions, and calibrate on student work](clarify-purpose-norm-expectations-calibrate-pog.md)
+- [Implement peer assessment in absorbable steps with clarified criteria and quality training](staged-peer-assessment-implementation.md)
 
 ## Related Elements
 - [Rubrics](../elements/rubrics.md) — the instrument that makes each criterion explicit and gradable

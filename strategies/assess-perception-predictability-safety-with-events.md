@@ -17,7 +17,7 @@ sources:
 # Assess children's interpretations of stressors, environmental predictability, and cues of safety alongside event exposures to elucidate mechanisms of early adversity
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review recommends moving beyond event-based assessment of early life stress by incorporating factors that influence children's interpretation of stressors. It argues that approaches focusing only on events miss other sources of variation in perceptions, and that further incorporation of factors shifting how individuals interpret their environment, combined with event-based methods and rigorous longitudinal studies with assessments at multiple timepoints, can illuminate specific neurobiological mechanisms and identify what produces resiliency. Specific factors named include perceived stress, controllability, predictability, environmental unpredictability, and cues of safety such as parental support.
@@ -35,6 +35,10 @@ The review recommends moving beyond event-based assessment of early life stress 
 
 ### Target Learning Goals
 - elucidating neurobiological mechanisms underlying individual differences in children's outcomes after early life stress and identifying sources of resiliency
+
+## Claims
+
+- [Children's perception and interpretation of stressors, rather than event type alone, shapes neurobiological stress responses](../claims/perception-interpretation-shapes-stress-response.md) [+W]
 
 ## Related Strategies
 - 

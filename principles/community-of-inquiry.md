@@ -121,6 +121,9 @@ Perceived presence, the quality of the discourse, each learner's understanding a
 
 ## Examples
 
+- [Wiki learning environment with knowledge bars and participation bars at individual, group, and subgroup levels](../designs/gat-wiki-environment-bar-visualizations.md)
+- [Use information-exchange prompts in online PD discussion forums to elicit transactive discourse](../strategies/information-exchange-prompts-strategy-online-pd.md)
+
 ### Illustrative
 
 **[Online Course Design (Community of Inquiry)](../patterns/online-course-design.md)** — Applies this principle at the scale of a full online course, structured around Moore's three types of interaction.

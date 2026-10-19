@@ -24,7 +24,9 @@ Synthesis Lab is a web application that integrates with social annotation tools 
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [KPE](kpe.md)
+- [SCY-Lab](scy-lab.md)
 
 ## Key Sources
 - Xinran Zhu · Bodong Chen · David DeLiema. (2026). Advancing collaborative discourse through knowledge synthesis. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09463-6

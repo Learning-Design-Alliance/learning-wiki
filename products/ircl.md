@@ -32,7 +32,8 @@ i-Ready Classroom Mathematics is Curriculum Associates’ core K–8 mathematics
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Imagine IM](imagine-im.md)
 
 ## Key Sources
 - i-Ready Classroom Mathematics. (2024). Curriculum Associates. https://www.curriculumassociates.com/professional-development

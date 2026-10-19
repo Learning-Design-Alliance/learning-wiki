@@ -44,4 +44,6 @@ The paper reports that analyses using hidden Markov models, differential sequenc
 
 
 ## Related Claims
+
 - [Scaffolded conditions in Betty's Brain showed scaffolding-induced strategy use within the scaffolding time window although the three conditions did not differ in learning gains](scaffolding-alters-strategy-use-not-learning-gains.md) — related
+- [Cluster analysis of coherence metrics on 98 students revealed five distinct behavior profiles, with engaged and efficient students showing the highest reading scores and significantly higher science gains than all other clusters.](coherence-cluster-five-behavior-profiles-outcomes.md)

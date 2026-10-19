@@ -43,4 +43,6 @@ Analysis of the actual self-regulation categories evaluated by each measure, com
 
 
 ## Related Claims
--
+
+- [BRIEF, CBCL, SDQ, and CBQ were the most frequently used measures across included studies](sr-most-used-measures-brief-cbcl-sdq-cbq.md)
+- [Association strength between self-regulation and developmental outcomes varies by measurement type (review-attributed)](sr-outcome-associations-vary-by-measurement-type.md)

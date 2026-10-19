@@ -43,8 +43,10 @@ Logistic regression in 636 diagnosed youth compared comorbidity levels, controll
 
 
 ## Related Claims
+
 - [Inattention is the only psychopathology symptom dimension associated with slow processing speed, and it does not explain the associations with ASD or psychosis](inattention-dimension-associated-slow-ps.md) — related
 - [Psychosis, ASD, and ADHD-Inattentive Type independently elevate risk for slow processing speed relative to referred youth without diagnoses](psychosis-asd-adhd-i-elevate-slow-ps-risk.md) — related
 - [More current comorbid conditions are associated with higher DESR scores in adults with ADHD](dose-response-comorbidity-count-and-desr.md) — related
 - [The association between ADHD and DESR is not fully explained by comorbid psychiatric disorders](desr-not-fully-explained-by-comorbidity.md) — related
 - [All diagnostic groups of referred youth, including those without full diagnoses, show processing speed below the population norm](ps-below-norms-all-clinical-groups.md) — related
+- [Adolescents with ADHD respond more slowly than non-ADHD peers across all conditions, and color-shape binding slows responses in both groups](adhd-slower-rt-wm-binding-task.md)

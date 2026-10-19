@@ -43,4 +43,6 @@ Secondary bifactor CFA in the validation sample (n = 321) tested 44 items loadin
 
 
 ## Related Claims
--
+
+- [No existing online SRL questionnaire covers the breadth of motivational beliefs and learning strategies the SRL-O covers](no-online-srl-measure-covers-breadth.md)
+- [SRL-O subscales show convergent validity with corresponding MSLQ scales](srl-o-convergent-validity-mslq.md)

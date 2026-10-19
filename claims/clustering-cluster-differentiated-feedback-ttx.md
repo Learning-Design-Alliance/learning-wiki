@@ -43,6 +43,7 @@ Qualitative analysis (RQ2) of clustering outputs from the EXF exercise's 13 team
 
 
 ## Related Claims
+
 - [Clustering of TTX activity logs aligns with instructor-assigned milestone scores and outperforms the random-grouping baseline in both exercises](clustering-ttx-team-assessment-aligns-instructor-scores.md) — related
 - [K-means clustering of K–8 students' platform trace data yields seven distinct engagement profiles](seven-engagement-profiles-k8-elearning.md) — related
 - [Exploratory K-means clustering identifies four heterogeneous student AI-user profiles differing in experience, competence, usefulness, trust, and control, but the solution's optimality and stability are not established](exploratory-four-cluster-student-ai-profiles.md) — related
@@ -52,3 +53,4 @@ Qualitative analysis (RQ2) of clustering outputs from the EXF exercise's 13 team
 - [Technology-enhanced tabletop exercises delivered via IXP across 25 exercises and 743 participants showed increased student engagement and collaboration and clearer instructor visibility.](ttx-ixp-25-exercises-743-participants-engagement.md) — related
 - [Behavioral clusters recur across different student groups, which the authors attribute to shared cultural norms](behavioral-clusters-shared-across-groups.md) — related
 - [Optimal clustering of five-channel CPS sequences detected three types of collaborative patterns among graduate student groups](three-collaborative-pattern-types-cps.md) — a narrower finding that bears on this claim
+- [Clustering n-gram flip sequences per task yields three distinct problem-solving strategy groups across the binary challenges](three-strategy-clusters-from-ngram-flip-sequences.md)

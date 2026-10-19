@@ -17,7 +17,7 @@ sources:
 # Gen-AI-tecture: a bespoke, locally run ComfyUI generative-AI image creation and editing workflow for architectural education
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A bespoke generative-AI image workflow implemented as a localised ComfyUI environment in which students upload or select images, describe changes in natural language, and receive multiple visual alternatives. "The workﬂow is powered by the Flux 1 Kontext (dev) diffusion model (Black Forest Labs, 2025), which has been ﬁne-tuned with a curated set of interior-design images" using LoRA adaptation on the InteriorNet dataset. It offers three modes (text-driven, reference-image-driven, hybrid) and edits via in-painting that preserves surrounding context, acting as a visual co-pilot rather than replacing design thinking.
@@ -39,6 +39,8 @@ A bespoke generative-AI image workflow implemented as a localised ComfyUI enviro
 - AI-handling skills for professional practice
 
 ### Claims
+
+- [Multi-step AI operations, not AI use alone, are positively associated with creativity of final design work](../claims/multi-step-ai-operations-creativity-association.md) [+W]
 
 ## Related Designs
 - 

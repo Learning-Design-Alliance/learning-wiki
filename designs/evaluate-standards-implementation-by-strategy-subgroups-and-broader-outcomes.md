@@ -17,7 +17,7 @@ sources:
 # Evaluate standards implementation by implementation strategy, student subgroups, and outcomes beyond test scores
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (1 review, 1 associational), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The article argues that existing literature on the Common Core State Standards in Math showed little benefit but had not examined variation by implementation strategies, student subgroups, or outcomes other than test scores. It therefore designs its evaluation around "different levels of participation in professional learning around the standards," subgroup achievement levels, and grades, pass rates, and practice reports. This broadens what counts as evidence of a standards policy's effects.
@@ -37,6 +37,9 @@ The article argues that existing literature on the Common Core State Standards i
 - mathematics achievement under standards-based reform
 
 ### Claims
+
+- [Little evidence exists of student achievement changes following Common Core implementation in other places, with the one positive study limited to wealthier districts](../claims/little-achievement-evidence-elsewhere-common-core.md) [+W]
+- [Despite very different district implementation strategies for ELA and math, 2016 survey responses showed few differences between teachers responsible for each set of standards](../claims/ccss-few-ela-math-response-group-differences.md) [+W]
 
 ## Related Designs
 - 

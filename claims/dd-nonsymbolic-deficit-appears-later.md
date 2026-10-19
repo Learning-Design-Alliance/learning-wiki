@@ -45,5 +45,7 @@ Narrative review synthesis ordering non-symbolic comparison studies by participa
 - [Number Sense](../learner-variables/number-sense.md) — outcome: instruction changes it
 
 ## Related Claims
+
 - [The authors hypothesize DD children's first deficit is dysfunction in building the exact representation of symbolic numbers, with reduced ANS acuity as a consequence rather than a cause](dd-first-deficit-exact-representation-ans-secondary.md) — related
 - [At all ages, children with developmental dyscalculia perform significantly lower than controls in magnitude comparison tasks using symbolic numbers](dd-symbolic-magnitude-comparison-deficit-all-ages.md) — related
+- [Adults with dyslexia without dyscalculia show no deficit in nonsymbolic numerical magnitude processing](dyslexia-without-dyscalculia-intact-magnitude-processing.md)

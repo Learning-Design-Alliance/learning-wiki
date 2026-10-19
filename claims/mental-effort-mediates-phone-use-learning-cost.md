@@ -62,4 +62,7 @@ Bootstrapped mediation tests (5,000 resamples) in the base model; direct behavio
 
 
 ## Related Claims
--
+
+- [Students with visible notifications check their phones more frequently in class than students with hidden notifications](notification-revealed-higher-phone-use-frequency.md)
+- [Phone-use behavior under hidden notifications is highly heterogeneous: about half of NH students abstained entirely, and most NR checks were brief glances](heterogeneous-phone-use-under-hidden-notifications.md)
+- [Smartphone settings moderate how vigilance translates into phone use: vigilance raises checking frequency more when notifications are revealed, and use duration more when notifications are hidden](settings-moderate-vigilance-phone-use-link.md)

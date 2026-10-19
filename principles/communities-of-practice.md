@@ -166,6 +166,7 @@ Changed participation norms, changed understanding, changed practice and a membe
 - [Ground coaching conversations in the work of children](../patterns/professional-development.md)
 - [Take a listening tour of classrooms when beginning work in a new school](../strategies/listening-tour-classroom-observations.md)
 - [Incorporate a method for identifying areas of improvement into PLC models](../strategies/plc-method-identifying-improvement-areas.md)
+- [Structuring PLCs with clear purpose and collaborative-work frameworks (High-Leverage Team Actions)](../designs/structured-plcs-high-leverage-team-actions.md)
 
 ## Key Sources
 - Abedini, A., Abedin, B., & Zowghi, D. (2021). Adult learning in online communities of practice: A systematic review. *British Journal of Educational Technology, 52*(4), 1663-1694. [doi:10.1111/bjet.13120](https://doi.org/10.1111/bjet.13120)

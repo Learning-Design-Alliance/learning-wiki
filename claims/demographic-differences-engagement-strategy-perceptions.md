@@ -43,4 +43,8 @@ The survey study states: "This study also analyzed age, gender, and online learn
 
 
 ## Related Claims
--
+
+- [Online students value learner-to-instructor engagement strategies most among the three interaction categories](learner-to-instructor-strategies-most-valued-online.md)
+- [Demographic characteristics (gender, age, race, major) showed no significant association with lower digital distraction in the rule-mining profiles](demographics-not-associated-lower-distraction.md)
+- [Gender differences in AI perception scores appear only in the overall score and attitudes dimension, with males scoring higher](gender-differences-ai-perceptions-limited-dimensions.md)
+- [Exploratory subgroup and correlation analyses show mostly no significant differences in benefit or experience scores by child and family characteristics](aac-perceptions-null-subgroup-associations.md)

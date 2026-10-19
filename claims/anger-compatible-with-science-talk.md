@@ -43,4 +43,5 @@ Per-student turn-code percentages in Table 2 for Red City. The article states So
 
 
 ## Related Claims
--
+
+- [Individual anger trajectories rose alongside science talk until an inflection point, after which engagement dropped sharply](individual-anger-inflection-lisa.md)

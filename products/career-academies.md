@@ -29,7 +29,8 @@ Career Academies is a school-within-a-school programme model that combines small
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Linking Learning to Careers](linking-learning-to-careers.md)
 
 ## Key Sources
 - U.S. Department of Education, Institute of Education Sciences, What Works Clearinghouse. (2015, September). Dropout Prevention intervention report: Career Academies. Retrieved from https://ies.ed.gov/ncee/wwc/InterventionReport/70

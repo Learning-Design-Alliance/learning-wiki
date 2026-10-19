@@ -43,4 +43,5 @@ Comparison of teacher three-point-scale ratings between the 12 participants with
 
 
 ## Related Claims
--
+
+- [Approximately 2.9% of Croatian grade 1–4 pupils meet diagnostic criteria for auditory processing disorder on the PSP-1 screening battery](psp1-screening-apd-prevalence-2-9-percent.md)

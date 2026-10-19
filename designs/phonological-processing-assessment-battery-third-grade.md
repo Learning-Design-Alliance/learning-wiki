@@ -17,7 +17,7 @@ sources:
 # Phonological processing assessment battery for third-grade literacy prediction
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 A set of measures of phonological awareness, phonological memory, rapid naming and visual processing administered to 50 students of the 3rd grade of an Elementary Public School to assess their contribution to reading and writing performance. The battery's variables were analyzed correlationally and via exploratory factor analysis, which "suggested the grouping of variables in three factors."
@@ -37,7 +37,10 @@ A set of measures of phonological awareness, phonological memory, rapid naming a
 - Assessing phonological and visual skills contributing to reading and writing
 
 ### Claims
-- 
+
+- [Phonological awareness and phonological memory are the skills that contributed most to initial reading and writing performance in third-grade students](../claims/phonological-awareness-memory-most-contribute-reading-writing.md) [+W]
+- [Only letter naming among rapid-naming measures showed significant correlation with reading and writing](../claims/letters-rapid-naming-significant-correlation-reading-writing.md) [+W]
+- [Visual processing showed no correlation with reading or writing in third-grade students](../claims/visual-processing-no-correlation-reading-writing.md) [+W]
 
 ## Related Designs
 - 

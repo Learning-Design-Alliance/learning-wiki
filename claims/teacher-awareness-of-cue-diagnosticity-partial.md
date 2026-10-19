@@ -43,4 +43,5 @@ Ranking-task analysis in the same study: after condition 3, teachers ranked all 
 
 
 ## Related Claims
--
+
+- [The cue-diagnosticity intervention steered cue utilization: diagnostic cue use increased and non-diagnostic cue use decreased](diagnosticity-intervention-steers-cue-utilization.md)

@@ -62,4 +62,6 @@ Same DTI study: physical activity associations with white matter remained "after
 
 
 ## Related Claims
+
 - [Uncinate fasciculus and cingulum bundle continue developing into adulthood while fornix integrity is age-invariant from age 5, and uncinate integrity relates to recall](uncinate-cingulum-protracted-development-fornix-age-invariant.md) — related
+- [Excessive smartphone use in adolescents is associated with reduced frontostriatal connectivity and greater cortisol-related withdrawal symptoms](excessive-smartphone-frontostriatal-cortisol.md)

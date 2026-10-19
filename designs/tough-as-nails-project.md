@@ -49,7 +49,8 @@ Tough as Nails, Nimble Fingers is an NSF-funded research-practice partnership (g
 - [Aspirational capital and kinship sustained the Tough As Nails CT initiative through the COVID-19 pandemic](../claims/appalachian-cultural-wealth-sustained-ct-project-covid.md) [+W]
 
 ## Related Designs
-- 
+
+- [Micro-R&D: teachers test new tools and ideas on a small scale before successful practices enter the broader curriculum](micro-rd-small-scale-teacher-testing.md)
 
 ## Examples
 -

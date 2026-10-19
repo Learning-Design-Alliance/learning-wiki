@@ -17,7 +17,7 @@ sources:
 # Avoid basing mathematics assessments and interventions on dot comparison tasks; prefer comparison formats without salient visual cues
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (5 for) · 1 study (1 associational), `q3` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 Because the dot comparison task's correlation with mathematics achievement appears to reflect inhibition demands, the authors conclude that "efforts to integrate dot comparison tasks into mathematical assessment and intervention may therefore be inappropriate". They point to alternative comparison formats that lessen the inhibition load, such as cross-modal tone-versus-dot comparison and second-order visual motion displays in which visual characteristics are unrelated to number, and suggest performance on such tasks "might be unrelated to mathematics skill".
@@ -39,6 +39,14 @@ Because the dot comparison task's correlation with mathematics achievement appea
 
 ### Affordances
 - Inhibition Account Of Dot Comparison Performance
+
+## Claims
+
+- [The correlation between dot comparison performance and children's mathematics achievement is driven by incongruent, not congruent, trials](../claims/dot-comparison-math-link-driven-by-incongruent-trials.md) [+W]
+- [Incongruent dot comparison trials are less accurate and slower than congruent trials, consistent with an added inhibition step](../claims/incongruent-dot-trials-slower-less-accurate.md) [+W]
+- [Dot comparison performance no longer predicts mathematics achievement once inhibition skill is accounted for, but inhibition explains variance over and above dot comparison](../claims/inhibition-accounts-for-dot-comparison-math-link.md) [+W]
+- [Reanalysis of previously-published data replicates the incongruent-trial pattern in children, with a marginal effect in adults](../claims/reanalysis-replicates-incongruent-pattern-children-adults-marginal.md) [+W]
+- [Smaller response-time differences between incongruent and congruent trials (better inhibition) correlate with higher mathematics scores](../claims/rt-congruency-difference-correlates-with-math.md) [+W]
 
 ## Related Strategies
 - 

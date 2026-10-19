@@ -43,6 +43,7 @@ Analysis adding California Department of Social Services subsidized child care e
 
 
 ## Related Claims
+
 - [Access to subsidized ECE is extremely limited for California infants and toddlers, with approximately 14% of eligible infants and toddlers enrolled](california-infant-toddler-ece-access-14-percent.md) — related
 - [TK enrollment in California grew substantially during expansion while the share of eligible 4-year-olds enrolled declined from 65% to 55%](tk-enrollment-grew-uptake-declined.md) — related
 - [TK enrollment grew from 88,883 children in 2019–20 to 151,491 in 2023–24, while the share of eligible 4-year-olds enrolled declined to 59%](tk-enrollment-growth-uptake-decline.md) — related
@@ -52,3 +53,4 @@ Analysis adding California Department of Social Services subsidized child care e
 - [California's subsidized ECE system serves only a minority of eligible children, with the lowest access among infants and toddlers](california-ece-serves-minority-of-eligible-children.md) — related
 - [Transitional kindergarten enrollment in California doubled from about 75,465 in 2021–22 to 151,491 in 2023–24 as eligibility expanded toward all 4-year-olds](california-tk-enrollment-doubled-2021-22-to-2023-24.md) — related
 - [The proportion of eligible 4-year-olds enrolled in TK declined from 64% in 2021–22 to 59% in 2023–24 because eligibility grew faster than enrollment](tk-uptake-rate-declined-as-eligibility-expanded.md) — related
+- [California ECE funding suffered over $1 billion in recession-era cuts, eliminating roughly 25% of child care slots between 2008 and 2013, and funding remains below pre-recession levels](california-ece-funding-recession-cuts-slots-declined.md)

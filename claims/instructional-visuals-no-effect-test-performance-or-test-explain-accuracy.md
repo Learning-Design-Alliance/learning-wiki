@@ -62,8 +62,10 @@ Study 1a: test relative accuracy did not differ between conditions; explain rela
 
 
 ## Related Claims
+
 - [Instructional visuals reduced draw relative metacomprehension accuracy compared to text-only condition](instructional-visuals-harm-draw-relative-metacomprehension-accuracy.md) — related
 - [Students in the image condition gave higher draw judgment magnitude than text-only students in Study 1a](image-condition-inflated-draw-judgment-magnitude.md) — related
 - [Neither rereading nor self-explanation changed comprehension test performance itself; effects were specific to monitoring accuracy](monitoring-effects-without-test-performance-gains.md) — related
 - [Students using representation-based cues showed higher draw relative accuracy than those using heuristic cues](representation-based-cues-support-draw-relative-accuracy.md) — related
 - [Students reported using visual cues for draw judgments but not for test or explain judgments](visual-cues-reported-only-for-draw-judgments.md) — related
+- [Judgment accuracy of comprehension did not depend on misconceptions or instructional method](no-effect-judgment-accuracy-comprehension.md)

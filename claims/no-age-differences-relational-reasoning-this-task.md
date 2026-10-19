@@ -43,4 +43,6 @@ Omnibus ANOVA results from the same experiment's accuracy analysis: no main effe
 
 
 ## Related Claims
--
+
+- [Across all age groups, relational reasoning accuracy is lower in the friend-present condition than in the experimenter-present condition overall](overall-main-effect-social-condition-accuracy.md)
+- [Older adolescents respond faster when observed by an experimenter than by a friend or when alone, while social condition does not affect younger adolescents' or adults' response times](older-adolescents-faster-rt-experimenter-present.md)

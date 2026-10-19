@@ -62,4 +62,5 @@ Measurement invariance testing of the teacher measurement model across the seven
 
 
 ## Related Claims
--
+
+- [The five-dimensional student model achieved metric but not scalar measurement invariance across the seven countries, permitting association comparisons but not latent mean comparisons](student-model-metric-invariance-holds.md)

@@ -41,4 +41,6 @@ A multivariate regression with a three-way interaction term (Turkish identity ×
 
 
 ## Related Claims
--
+
+- [Turkish and German identity interactively predicted accuracy on mixed Dot Task trials requiring cognitive flexibility among immigrant-origin children](bicultural-identity-interaction-predicts-cognitive-flexibility.md)
+- [The link between Turkish identity and mixed-trial accuracy was negative when German identity was low and marginally positive when German identity was high](johnson-neyman-regions-identity-flexibility.md)

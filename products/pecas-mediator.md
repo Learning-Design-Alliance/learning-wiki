@@ -30,7 +30,8 @@ A research-prototype remote-instruction tool developed by Chang et al. that uses
 - [Students most often rated collaboration opportunities, content interest, and class belonging as worse online](../claims/collaboration-interest-belonging-worse-online.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [MASTER-TPD prototype tool](master-tpd-prototype-tool.md)
 
 ## Key Sources
 - Chang, M.A., Magana, A., Benes, B., Kao, D., & Fusco, J. (2022). Driving interdisciplinary collaboration through adapted conjecture mapping: A case study with the PECAS Mediator [Project Report]. Digital Promise. https://doi.org/10.51388/20.500.12265/156

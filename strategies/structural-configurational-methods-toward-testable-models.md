@@ -41,7 +41,8 @@ The article recommends that CSCL researchers employ social, temporal, and spatia
 - [Epistemic Network Analysis Temporal Patterns](../research-methods/epistemic-network-analysis-ena.md)
 
 ## Related Strategies
-- 
+
+- [Use SNA at the whole-network level to study all ties within a defined group](sna-whole-network-defined-group-strategy.md)
 
 ## Examples
 -

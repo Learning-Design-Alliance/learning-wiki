@@ -17,7 +17,7 @@ sources:
 # Use rule induction in three complementary roles: ruleset mining for sample description, association rule mining for group differences, and decision trees for controlled predictor-outcome checks
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The author proposes at least three practical and principled ways to incorporate rule induction into education research so that it complements rather than conflates with regression. First, use ruleset mining to describe the sample and how key independent and dependent variables relate. Second, use association rule mining to identify what factors differ across groups defined by outcome, treatment, or background. Third, use decision trees to examine predictor-outcome relationships after controlling for key covariates, modeling covariates first and then investigating relationships at terminal nodes, as instantiated by algorithms such as the logistic model tree.
@@ -38,6 +38,10 @@ The author proposes at least three practical and principled ways to incorporate 
 
 ### Affordances
 - [Rules Vs Rulesets Methodological Account](../theories/rules-vs-rulesets-methodological-account.md)
+
+## Claims
+
+- [A few decision-tree splits identify very high-risk students, such as low-SES students who doubt they will reach college](../claims/few-splits-identify-high-risk-students.md) [+W]
 
 ## Related Strategies
 - 

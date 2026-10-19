@@ -46,3 +46,5 @@ Parameter-interpretation analysis of Model 1 (constant friction) in the Results 
 
 - [Kinematic trajectories extracted from AI-generated videos agree strongly with analytical resistive-force models, with coefficients of determination exceeding R² > 0.99 across three regimes](ai-generated-video-trajectories-fit-resistive-force-models.md) — a broader claim this one bears on
 - [The linear-drag AI video yields a fitted glycerin viscosity (≈ 0.234 Pa·s) consistent with an aqueous glycerin solution of about 85% by weight](ai-video-linear-drag-recovers-plausible-viscosity.md)
+- [The quadratic-drag AI video yields a fitted drag coefficient (CD ≈ 3.18) within the literature range reported for skydivers](ai-video-quadratic-drag-recovers-plausible-drag-coefficient.md)
+- [Student video analysis of vertical jumps yields a free-fall acceleration estimate close to the local value of g](video-jump-analysis-estimates-g-near-local-value.md)

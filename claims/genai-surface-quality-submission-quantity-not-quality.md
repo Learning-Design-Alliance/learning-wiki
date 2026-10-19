@@ -62,6 +62,8 @@ A second editor/reviewer's observational account in the dialogue, judging qualit
 
 
 ## Related Claims
+
 - [AI language polishing alone can flip human-authored scholarly texts from human-classified to AI-classified](polishing-flips-detector-classification.md) — related
 - [AI-generated rewrites of cover letters were rated higher for writing quality and more likely to secure hypothetical interviews than rewrites by professional human editors](ai-edits-higher-quality-than-editor-edits.md) — related
 - [Practicing with AI improved unassisted writing skill more than practicing with Google Search for cover letter examples and tips](ai-practice-beat-editor-feedback-and-google-search.md) — related
+- [Submissions to Educational Psychology Review grew from 33 manuscripts in 2006 to 89 in 2011, with faster initial decisions](edpr-submissions-grew-33-to-89-2006-2011.md)

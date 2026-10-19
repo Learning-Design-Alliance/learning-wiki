@@ -43,4 +43,9 @@ A post-hoc analysis, conducted at a reviewer's request, used timing data reconst
 
 
 ## Related Claims
+
 - Longer exposure time (9 sec vs 3 sec per word) improves free recall, with no arousal-by-exposure interaction — related
+- [Diverse and uniform training contexts dissociate: processing ease and semantic representation diverge early in learning](diversity-dissociation-processing-versus-semantics.md)
+- [High-density text takes longer to complete than low-density text in self-paced lessons](high-density-text-longer-completion-time.md)
+- [Comprehension ratings diverge across training conditions over repeated passages, with a significant condition-by-trial interaction](comprehension-ratings-diverge-by-contextual-variability.md)
+- [Uniform (redundant) contexts yield higher semantic similarity ratings than diverse contexts](redundant-contexts-improve-semantic-representations.md)

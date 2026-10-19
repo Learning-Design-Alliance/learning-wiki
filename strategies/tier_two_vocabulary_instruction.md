@@ -64,6 +64,7 @@ Tier Two words offer the highest instructional yield because they are frequent e
 - [Frayer Model](../strategies/frayer-model.md) — a graphic organizer for defining, exemplifying, and contrasting a word
 - [Run brief small-group mini-vocabulary lessons with a fixed routine: say the word, student-friendly definition, example, synonym, sentence writing, and graphic organizer](mini-vocabulary-lesson-routine-small-group.md)
 - [Front-load Tier 1 vocabulary before the science lesson and teach embedded scientific vocabulary in the lesson's context](frontload-tier1-teach-embedded-vocabulary-in-context.md)
+- [Focus vocabulary instruction on Tier 2 words drawn from content-area materials](tier2-vocabulary-instruction-strategy.md)
 
 ## Examples
 - **Robust Vocabulary Instruction (Beck & McKeown)** — kindergarten and primary classrooms teaching words like *mercy* and *tolerate* from read-alouds through interactive questioning and word play; documented gains in expressive vocabulary.

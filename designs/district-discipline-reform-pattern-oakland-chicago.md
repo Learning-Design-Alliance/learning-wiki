@@ -17,7 +17,7 @@ sources:
 # District-level reform pattern: data transparency, defiance-suspension bans, and restorative infrastructure
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (1 for, 2 mixed) · 2 studies (2 causal), `q2`–`q3` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The guide identifies a reusable district-level pattern of policy changes: "Oakland has implemented a few practices that other districts across the country can adopt or adapt to improve schools for Latina and Black girls." The pattern includes making discipline data by race and gender publicly available, banning suspensions for willful defiance, prohibiting suspension or police referral for dress code violations, requiring community input, maintaining centrally supported restorative justice programs, providing professional development on classroom management, and investing in school-based health centers. Chicago implements a parallel set including student-led disciplinary proceedings and ending early-grade suspensions.
@@ -41,6 +41,10 @@ The guide identifies a reusable district-level pattern of policy changes: "Oakla
 - Reduced lost instructional time
 
 ### Claims
+
+- [The School District of Philadelphia reformed its student code of conduct in 2012-2013 to prohibit suspensions and expulsions for two types of non-violent student conduct](../claims/philadelphia-2012-13-conduct-reform-prohibited-suspension-nonviolent-offenses.md) [+W]
+- [In schools that did not fully implement the district-level suspension reform, peer math achievement declined and attendance decreased](../claims/partial-implementation-schools-peer-outcomes-declined.md) [~W]
+- [Peer outcomes following a district suspension reform varied with school-level implementation](../claims/school-level-implementation-moderates-discipline-reform-peer-effects.md) [~W]
 
 ## Related Designs
 - 

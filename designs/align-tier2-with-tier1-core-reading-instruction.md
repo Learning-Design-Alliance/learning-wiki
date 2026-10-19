@@ -40,7 +40,8 @@ The program's central design principle is alignment: it provides "teachers with 
 ### Claims
 
 ## Related Designs
-- 
+
+- [Tiered reading delivery pattern: 90 minutes whole-group core plus 30 minutes small-group Tier 2 for all struggling readers](tier1-tier2-reading-time-allocation-pattern.md)
 
 ## Examples
 -

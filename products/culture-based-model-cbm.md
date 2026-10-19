@@ -13,7 +13,7 @@ generated:
 # Culture-Based Model (CBM)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Patricia A. Young's framework guides instructional designers and researchers through managing, designing, developing, and assessing culture-based ICTs using explicit cultural considerations.
@@ -24,8 +24,12 @@ Patricia A. Young's framework guides instructional designers and researchers thr
 
 ### Claims
 
+- [Culture has been mostly ignored as a design construct in the field of instructional design](../claims/culture-ignored-in-id-field.md) [+W]
+- [Culture impacts many instructional design procedures, from needs assessment to project management](../claims/culture-impacts-many-id-procedures.md) [+W]
+
 ## Related Products and Programmes
--
+
+- [CBM ID-TABLET](cbm-id-tablet.md)
 
 ## Key Sources
 - Patricia A. Young. (2009). Instructional Design Frameworks and Intercultural Models. Information Science Reference, IGI Global. http://www.igi-global.com/reference

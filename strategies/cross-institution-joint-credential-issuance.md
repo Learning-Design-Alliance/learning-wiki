@@ -17,7 +17,7 @@ sources:
 # Issue joint cross-institution credentials via smart-contract credit verification and co-signed certificates
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 For multi-institution programs, the framework lets students take courses across consortium universities with completions and credits recorded on the shared ledger; "a smart contract automatically verifies the credits, regardless of whether they come from different universities in the consortium, and issues a degree certificate on the blockchain, co-signed with the private keys of all three universities". Employers or other universities then verify the certificate in seconds via a verification portal without trusting any single institution's database.
@@ -40,8 +40,13 @@ For multi-institution programs, the framework lets students take courses across 
 ### Affordances
 - Llm Consortium Blockchain Online Education Architecture
 
+## Claims
+
+- [Educational smart contracts execute in 21–49 ms with certification the costliest and the only human-approved contract](../claims/smart-contract-execution-21-49ms-certification-costliest.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Micro Credentials And Badging](micro-credentials-and-badging.md)
 
 ## Examples
 -

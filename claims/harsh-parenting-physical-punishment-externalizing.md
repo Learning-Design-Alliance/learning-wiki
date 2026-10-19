@@ -43,4 +43,9 @@ Adjusted linear mixed effects models on individual ACEs (Table 3, externalizing 
 
 
 ## Related Claims
--
+
+- [ACE scores show a graded positive association with externalizing behavior trajectories, the strongest of the three outcomes](ace-score-graded-externalizing-trajectories.md)
+- [ACE scores show a graded negative association with prosocial behavior trajectories from age 3 to 14](ace-score-graded-prosocial-trajectories.md)
+- [Parental discord and parental depression show the strongest individual-ACE associations with internalizing behavior](parental-discord-depression-internalizing.md)
+- [Latent class analysis failed to discriminate ACE clusters in the Millennium Cohort Study data](lca-failed-discriminate-ace-clusters.md)
+- [ACE-outcome associations did not differ between girls and boys](no-gender-differences-ace-associations.md)

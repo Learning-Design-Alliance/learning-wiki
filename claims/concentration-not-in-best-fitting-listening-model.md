@@ -43,4 +43,6 @@ In the SEM comparison across models including concentration as a candidate contr
 
 
 ## Related Claims
--
+
+- [Vocabulary is positively associated with listening comprehension in upper elementary children (9-12 years)](vocabulary-positively-associated-listening-comprehension-upper-elementary.md)
+- [Vocabulary mediates the association between academic self-efficacy and listening comprehension](vocabulary-mediates-self-efficacy-listening-comprehension.md)

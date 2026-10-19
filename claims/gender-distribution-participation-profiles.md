@@ -43,4 +43,7 @@ Chi-square test of profile membership by gender in the clustered sample, with ad
 
 
 ## Related Claims
--
+
+- [Trajectory patterns of teacher-student warmth and conflict differ between boys and girls, with a high-stable conflict class found only for boys](gender-differences-relationship-trajectories.md)
+- [Low warmth trajectories predict lower achievement gains for boys but not for girls](warmth-trajectories-boys-not-girls.md)
+- [The inverse relation between mathematics and reading sex differences also holds within nations across the performance continuum](within-nation-inverse-relation-performance-continuum.md)

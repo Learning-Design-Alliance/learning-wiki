@@ -43,4 +43,5 @@ Zero-order correlation analyses in the longitudinal cohort at both assessment pe
 
 
 ## Related Claims
--
+
+- [Serial order STM at Age 4 predicts later nonverbal reasoning, but serial order STM gain does not predict nonverbal reasoning gain](serial-order-stm-predicts-nonverbal-reasoning.md)

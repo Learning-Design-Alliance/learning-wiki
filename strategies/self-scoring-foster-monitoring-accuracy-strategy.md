@@ -17,7 +17,7 @@ sources:
 # Use self-scoring against correct answers as a tool to foster primary students' monitoring accuracy during math problem-solving practice
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article recommends having students compare their own problem solutions to objectively correct answers and then re-judge their performance. The authors conclude that "self-scoring may be a suitable tool to foster primary school students' monitoring accuracy and that this translates to some extent into more accurate regulation decisions." The procedure fits existing Dutch classroom practice where students complete a task, self-score it, and then decide whether to practice more or ask for help.
@@ -40,8 +40,16 @@ The article recommends having students compare their own problem solutions to ob
 - Accurate self-monitoring of problem-solving performance
 - Accurate regulation decisions about needing additional instruction or practice
 
+## Claims
+
+- [Students' monitoring judgments predict their regulation judgments before and after self-scoring](../claims/monitoring-judgments-predict-regulation-judgments.md) [+W]
+- [Self-scoring improves primary students' monitoring accuracy on math problem-solving tasks to near-accurate levels](../claims/self-scoring-improves-monitoring-accuracy-math.md) [+W]
+- [Self-scoring improves regulation accuracy for the whole sample, but not significantly for low- and high-performing students on division tasks](../claims/self-scoring-regulation-accuracy-limited-division.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Self Correction_Routines](self-correction_routines.md)
+- [Self-Monitoring of Performance (SMP)](self-monitoring-of-performance-smp.md)
 
 ## Examples
 -

@@ -43,4 +43,5 @@ Experiment 2 with 110 second-year secondary students randomized to no feedback, 
 
 
 ## Related Claims
--
+
+- [In Experiment 2, mental effort over time interacted with condition: the feedback + contrast condition increased effort from learning to test phase while other conditions decreased](exp2-mental-effort-condition-interaction.md)

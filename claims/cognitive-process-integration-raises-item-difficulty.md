@@ -81,4 +81,7 @@ Three separate regressions at item-group level; selecting items explained 40.3% 
 
 
 ## Related Claims
--
+
+- [Multiple-choice single-select items are less difficult than open-ended response questions, and delayed perceived task difficulty ratings relate more strongly to relative item difficulty for open-ended items](answer-format-availability-affects-difficulty-and-ratings.md)
+- [Delayed perceived task difficulty ratings relate more strongly to the relative difficulty of the more demanding items within a task set, consistent with delayed ratings being affected by the most demanding item](delayed-ratings-track-most-demanding-items.md)
+- [Perceived task difficulty ratings show a strong relation to Rasch-estimated relative task difficulty, supporting construct validity of the single-item scale](perceived-task-difficulty-correlates-with-relative-task-difficulty.md)

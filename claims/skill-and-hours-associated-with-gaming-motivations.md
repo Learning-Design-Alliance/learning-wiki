@@ -43,4 +43,8 @@ Hierarchical regression results from the 450-player survey: video game skill was
 
 
 ## Related Claims
--
+
+- [CA dimensions add only small explained variance beyond demographics and game play factors](ca-adds-small-variance-beyond-controls.md)
+- [Greater sense of control over one's character predicts pro-social gaming motivations](sense-of-control-predicts-prosocial-gaming.md)
+- [Video game engagement is predicted by hours of play, playing with others, gender, and task orientation, with hours of play the strongest predictor](gaming-engagement-regression-predictors.md)
+- [Younger male gamers report more anti-social motivations; pro-social gaming is more prevalent in older gamers](younger-male-gamers-antisocial-motivations.md)

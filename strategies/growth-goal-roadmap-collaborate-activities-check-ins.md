@@ -40,6 +40,7 @@ The guide recommends a framework for turning a chosen growth goal into action, s
 
 - [Emotion Reflection Through Journaling](emotion_reflection_through_journaling.md)
 - [State boards should set realistic annual targets and invest in data infrastructure and collaborative time for improvement](state-board-actions-realistic-targets-data-infrastructure-collaborative-time.md)
+- [Structure AI training as a preparatory phase followed by practical progression from guided to autonomous exploration culminating in critical reflection](guided-to-autonomous-ai-exploration-with-reflection.md)
 
 ## Examples
 -

@@ -103,6 +103,8 @@ Immersion can increase engagement and situational interest, but engagement is no
 - [Case-based learning](case-based-learning.md) — alternative for decision-making goals where physical fidelity is unnecessary
 - [Use simulated task environments for learning tasks so multimedia principles support inductive learning](simulated-task-environments-inductive-learning-strategy.md)
 - [Structured activity design and moderate realism benefit shared VR learning environments](structured-activity-moderate-realism-vr.md)
+- [Use advanced immersive learning technologies as research and learning tools to deliver developmentally-appropriate metacognitive scaffolding](immersive-tech-metacognitive-scaffolding-strategy.md)
+- [Structure simulator sessions as short introductions followed by repeated task performance with teacher circulation and feedback.](simulator-session-structure-intro-repetition-teacher-circulation.md)
 
 ## Examples
 - **Osso VR** (https://ossovr.com) — hands-on surgical training simulations with performance analytics used in medical device training and residency preparation.

@@ -43,5 +43,7 @@ Narrative review of HCI and ID literature on culture in ICT design; the author d
 
 
 ## Related Claims
+
 - [Design has not caught up with technology; creating for diverse audiences must be deliberate](design-has-not-caught-up-with-technology.md) — related
 - [Hofstede's five-dimension cultural model is frequently mapped as a guide to user interface design in HCI](hofstede-five-dimensions-guide-ui-design.md) — related
+- [Cross-cultural study of university websites found similar technical features and audience-significant cultural emphases](callahan-university-websites-similar-features.md)

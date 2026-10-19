@@ -42,6 +42,7 @@ The report urges researchers to use the robust log data DLPs generate, such as w
 
 ## Related Research Methods
 
+- [Behavioral telemetry logging with observable, unambiguous, contextualized events](behavioral-telemetry-logging-with-observable-unambiguous-contextualized-events.md)
 
 ## Key Sources
 - Schellinger, A., Zacamy, J., Roschelle, J., Closser, A., & Zepeda, C. D. (2024, April). Considerations for Conducting Research in Digital Learning Platforms. Digital Promise. https://doi.org/10.51388/20.500.12265/210

@@ -43,4 +43,5 @@ Linear regressions on per-child mean and SD of word2vec semantic distances in th
 
 
 ## Related Claims
--
+
+- [Higher ADHD scores predict an excess of long-distance jumps in visual search without any cost to visual search performance](visual-search-performance-unaffected-by-adhd-traits.md)

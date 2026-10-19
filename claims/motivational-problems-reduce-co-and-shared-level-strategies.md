@@ -43,4 +43,5 @@ Exploratory interaction of motivational problems × social level from the same 2
 
 
 ## Related Claims
--
+
+- [Comprehension-related problems elicit more cognitive strategies but do not reduce motivational strategy use](comprehension-problems-raise-cognitive-not-cut-motivational.md)

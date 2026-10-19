@@ -43,4 +43,5 @@ Descriptive analysis of the four achievement means and variances in the BURN11 d
 
 
 ## Related Claims
--
+
+- [Final achievement level and rate of achievement change were positively correlated: students with higher final levels experienced smaller achievement decrements](intercept-slope-positive-correlation.md)

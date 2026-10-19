@@ -40,6 +40,7 @@ Following Boyd and Myers's priority of identifying symbols critical to the learn
 ## Related Strategies
 
 - [Addressing Biases in the Use of Language and Symbols](address_biases_in_the_use_of_language_and_symbols.md)
+- [Participate in the creative reconstruction of a language that foregrounds human kinship with nature, using postmodern science fiction as a generative site](reconstruct-language-foregrounding-kinship-with-nature.md)
 
 ## Examples
 -

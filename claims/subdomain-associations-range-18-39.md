@@ -44,4 +44,5 @@ Set of random-effects meta-analyses per cognitive subdomain with SiN collapsed (
 
 
 ## Related Claims
--
+
+- [Working-memory associations with SiN perception appear strongest under informational masking and sentence targets (r up to .43)](wm-strongest-informational-masking-sentences.md)

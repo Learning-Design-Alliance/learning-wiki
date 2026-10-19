@@ -43,7 +43,8 @@ Philadelphia's accelerated schools are alternative high schools serving students
 - [Philadelphia's accelerated schools are evaluated for their impacts on enrollees' graduation rates](../claims/philadelphia-accelerated-schools-graduation-impact-evaluation.md) [+W]
 
 ## Related Elements
-- 
+
+- [Accelerated middle schools program model](accelerated-middle-schools-program.md)
 
 ## Examples
 -

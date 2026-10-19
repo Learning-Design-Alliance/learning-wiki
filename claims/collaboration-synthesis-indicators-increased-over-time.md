@@ -62,4 +62,6 @@ KCA synthesis indicator measured at 10-day intervals. Reference links in notes r
 
 
 ## Related Claims
--
+
+- [Most inquiry threads produced by low-achieving students were classified as knowledge construction or knowledge building rather than knowledge sharing.](inquiry-threads-knowledge-construction-building.md)
+- [Students with low achievement can assume high-level responsibility for collectively accomplishing knowledge-building discourse in a supportive knowledge-building environment.](low-achievers-collective-responsibility-knowledge-building.md)

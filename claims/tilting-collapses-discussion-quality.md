@@ -43,4 +43,6 @@ Segment-by-segment turn-code counts (Table 3) for Green City after Paul's tiltin
 
 
 ## Related Claims
--
+
+- [Anger-related science talk rose in parallel until an apparent tipping point in group dynamics](anger-science-talk-tipping-point.md)
+- [Anger in collaborative gameplay can drive students to link game mechanics to real-world phenomena to defend their strategies](anger-drives-real-world-game-linking.md)

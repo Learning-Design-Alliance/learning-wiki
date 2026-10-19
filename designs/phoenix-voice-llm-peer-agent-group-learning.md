@@ -46,7 +46,8 @@ Phoenix is a "voice-based, non-embodied conversational agent that joins real-tim
 - [Indian Accent Agent Integrated As Trusted Peer](../claims/indian-accent-agent-integrated-as-trusted-peer.md) [+M]
 
 ## Related Designs
-- 
+
+- [Conversational pedagogical agent with AI-driven dialogue, lip-synchronised audio and conversation memory](ai-conversational-pedagogical-agent-system.md)
 
 ## Examples
 -

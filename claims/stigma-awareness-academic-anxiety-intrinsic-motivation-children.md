@@ -65,9 +65,11 @@ Same correlational analyses for intrinsic motivation. The article reports "Only 
 - [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
 
 ## Related Claims
+
 - [Ethnic-minority children report higher intrinsic motivation than European-American children despite higher stigma awareness](ethnic-minority-children-higher-intrinsic-motivation.md) — related
 - [Ethnic-minority elementary-age children report higher awareness of ethnicity-based stigma than European-American children](ethnic-minority-children-higher-stigma-awareness-middle-childhood.md) — related
 - [Preliminary evidence of intergenerational transmission of math anxiety: mothers' math anxiety relates to children's lower intrinsic math motivation and stronger attentional bias toward math stimuli](intergenerational-transmission-math-anxiety.md) — related
 - [School belonging and centrality are associated with higher intrinsic motivation, but neither buffers the associations between stigma awareness and academic attitudes](school-belonging-centrality-compensation-no-buffering.md) — related
 - [The association between public regard and intrinsic motivation differs by gender, and between status and motivation differs by ethnicity](stigma-motivation-moderation-gender-ethnicity.md) — related
 - [Perceived group status mediates the ethnic differences in academic anxiety for African-American, Chinese, and Dominican children but not Russians](group-status-mediation-ethnic-academic-anxiety.md) — related
+- [Associations between SLD stigma and academic performance are small, based on very few studies, and less robust than stigma's associations with psychological outcomes](sld-stigma-academic-outcomes-less-robust.md)

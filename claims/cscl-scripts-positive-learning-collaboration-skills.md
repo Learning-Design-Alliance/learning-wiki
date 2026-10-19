@@ -43,4 +43,6 @@ Editorial report of the meta-analysis results on learning and collaboration outc
 
 
 ## Related Claims
--
+
+- [The editorial reports that a meta-analysis of 53 primary studies found CSCL collaboration scripts had a non-significant positive effect on motivation, countering criticism that scripts harm motivation](cscl-scripts-motivation-non-significant-meta-analysis.md)
+- [The editorial reports an online teacher professional development intervention combining social capital mechanisms and automated scaffolds succeeded, with transactivity as a process indicator](social-capital-online-pd-intervention-success.md)

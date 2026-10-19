@@ -17,7 +17,7 @@ sources:
 # Brown-Peterson working memory task with animated goal cue tracking for preschoolers
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 A computerized Brown-Peterson task in which 4- and 5-year-olds memorized series of one to three colored drawings of animals and objects presented visually with their auditory name, then recalled them after a retention interval during which an animated shape moved across the screen. Children tracked the moving shape — an abstract form, an abstract black rectangle cue, or a transparent school-bag cue — either visually or with a finger. Performance was measured by the number of words correctly recalled, with a control condition as baseline for the between-subjects comparison.
@@ -37,7 +37,11 @@ A computerized Brown-Peterson task in which 4- and 5-year-olds memorized series 
 - verbal working memory for picture-item series under a concurrent tracking task
 
 ### Claims
-- 
+
+- [Five-year-olds recall more words in a Brown-Peterson task when they finger-track a transparent goal cue during the retention interval](../claims/finger-tracking-transparent-goal-cue-improves-5yo-recall.md) [+W]
+- [Four-year-olds showed no benefit of transparent goal cues in either visual or finger tracking conditions](../claims/no-goal-cue-benefit-4yo-recall.md) [~W]
+- [Cue type, tracking mode, and age produced a significant three-way interaction on preschoolers' recall performance](../claims/three-way-interaction-age-cue-tracking-recall.md) [+W]
+- [In 5-year-olds the transparent-cue benefit appears only with finger tracking, producing a significant Cue × Tracking interaction](../claims/cue-tracking-interaction-5yo-recall.md) [+W]
 
 ## Related Designs
 - 

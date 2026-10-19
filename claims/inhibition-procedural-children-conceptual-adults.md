@@ -65,7 +65,9 @@ Regression with inhibition score as dependent variable and the three arithmetic 
 - [Operations and Place Value](../learner-variables/operations-and-place-value.md) — outcome: instruction changes it
 
 ## Related Claims
+
 - [No significant independent relationship was found between inhibition and factual knowledge of arithmetic in either children or adults](no-inhibition-factual-knowledge-relationship.md) — related
 - [In toddlerhood, interference suppression correlates with expressive vocabulary after controlling for age, whereas response inhibition does not](toddler-interference-suppression-correlates-vocabulary.md) — related
 - [Task-irrelevant negative images disrupt no-go accuracy specifically in early-mid adolescence](task-irrelevant-negative-images-disrupt-early-adolescent-inhibition.md) — related
 - [Reactive inhibition speed and accuracy improve with age between 8 and 11 years, while proactive response slowing does not increase with age](reactive-inhibition-improves-age-8-11.md) — related
+- [The correlation between conceptual understanding and procedural execution weakened over time, becoming largely independent after one year](conceptual-procedural-correlation-weakens-over-time.md)

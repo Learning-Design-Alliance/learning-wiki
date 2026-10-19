@@ -43,4 +43,5 @@ Video-analysis study by Silvis, Taylor and Stevens of sibling or caregiver-child
 
 
 ## Related Claims
--
+
+- [Collaborative location-based games design was implemented within a formal classroom aligned to the Norwegian national competency framework](location-based-games-design-formal-classroom.md)

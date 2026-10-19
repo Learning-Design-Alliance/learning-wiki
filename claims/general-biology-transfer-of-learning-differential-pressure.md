@@ -43,4 +43,9 @@ t-test restricted to general biology students because too few AP students learne
 
 
 ## Related Claims
--
+
+- [Expansive framing increased transfer-of-knowing of the differential pressure principle (d = .95)](expansive-framing-boosts-differential-pressure-transfer-of-knowing.md)
+- [Expansive framing increased transfer-after-exposure of facts (d = .94)](expansive-framing-boosts-transfer-after-exposure-facts.md)
+- [Expansive framing increased spontaneous transfer of the diagram-drawing learning strategy (7 of 12 vs. 1 of 12 students)](expansive-framing-boosts-diagram-strategy-transfer.md)
+- [No condition differences in prior knowledge, time-on-task, interest, or amount learned, supporting the framing manipulation's isolation](no-condition-differences-learning-baseline-factors.md)
+- [No evidence that framing affected transfer of the surface area principle](no-framing-effect-surface-area-principle-transfer.md)

@@ -38,6 +38,10 @@ The article recommends fuzzy time series forecasting where accurate historical d
 
 ### Claims
 
+## Related Methods
+
+- [Two-step fuzzy forecasting pattern: fuzzylise the universe, then interpret the fuzzy output](two-step-fuzzylise-then-interpret-forecasting-pattern.md)
+
 ## Related Principles
 - 
 

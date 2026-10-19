@@ -44,6 +44,11 @@ The report recommends a multi-level action set: institutions should develop spec
 
 - [Four actions for campus leaders and policymakers to increase Black student access at selective private institutions: develop recruitment strategies, assess and improve campus racial climates, leverage federal accountability, and increase accreditor accountability.](four-actions-increase-black-student-access.md)
 - [Ten strategies for advancing race-conscious higher education policies](ten-race-conscious-policy-strategies.md)
+- [Six state-level strategies for increasing the racial diversity of the educator workforce](six-state-strategies-educator-diversity.md)
+- [Invest in retention efforts for teachers of color that improve working conditions and provide personal and professional growth opportunities](invest-retain-teachers-of-color.md)
+- [Underwrite comprehensive preparation, improve teaching conditions, raise compensation, and expand induction to retain teachers of color](retain-teachers-of-color-four-policy-levers.md)
+- [Invest in recruiting and retaining a diverse, EL-qualified educator workforce through bilingual teaching pathways](bilingual-teacher-pathways-diverse-el-workforce.md)
+- [State and federal policy recommendations: recruit and prepare more candidates, retain new teachers through early-career mentoring, and improve working conditions](teacher-shortage-policy-recommendations.md)
 
 ## Examples
 -

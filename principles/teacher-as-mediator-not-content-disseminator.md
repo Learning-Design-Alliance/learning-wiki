@@ -236,6 +236,7 @@ Reported engagement, end-of-unit understanding, exam performance, delayed retent
 - [Form Interest Groups and Strengths-Based Groups in Science](../strategies/interest-based-grouping-in-science.md)
 - [Set Up Learning Centers with More Tasks Than Any One Pupil Can Complete](../strategies/learning-centers-in-science-classrooms.md)
 - [Student Voice In Curriculum Planning](../strategies/student-voice-in-curriculum-planning.md)
+- [Adopt a facilitator role and prepare students for active participation in sociocultural L2 writing instruction](../strategies/facilitator-role-sociocultural-l2-writing.md)
 
 ## Key Sources
 - Mutlu, A. & Şahin, M. (2019). The Mediated Learning Experience (MLE) Theory in Meaningful Language Instruction. International Journal on New Trends in Education and Their Implications, 10(2). http://www.ijonte.org

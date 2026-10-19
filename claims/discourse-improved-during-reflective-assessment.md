@@ -43,4 +43,5 @@ Chi-square test comparing note-category proportions before (weeks 6–8, 102 not
 
 
 ## Related Claims
--
+
+- [Students with low achievement can assume high-level responsibility for collectively accomplishing knowledge-building discourse in a supportive knowledge-building environment.](low-achievers-collective-responsibility-knowledge-building.md)

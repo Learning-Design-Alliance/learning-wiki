@@ -43,6 +43,8 @@ Descriptive comparison of eleven experts' mean ratings of two AI-generated lesso
 
 
 ## Related Claims
+
 - [Both AI platforms received their lowest expert ratings in engineering skills, indicating a shared limitation in supporting iterative design competencies](ai-lesson-plans-weakest-in-engineering-skills.md) — related
 - [The general-purpose platform scored higher in early EDBL stages while the education-focused platform scored higher in feedback-intensive iterative stages](ai-platforms-diverge-early-versus-iterative-edbl-stages.md) — related
 - [Expert plan preferences were split, with some experts preferring the lower-scoring general-purpose plan for its social-emotional emphasis](expert-preferences-split-despite-c2-higher-scores.md) — related
+- [Most experts judged the AI-generated plans conditionally applicable, endorsing use only after correction rather than direct classroom use](experts-judge-ai-plans-applicable-after-correction.md)

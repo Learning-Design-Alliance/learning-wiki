@@ -43,4 +43,6 @@ Document review of the seven frameworks: the authors report "more than 80 indivi
 
 
 ## Related Claims
--
+
+- [Critical thinking, problem solving, and decision making appear in all seven reviewed frameworks](critical-thinking-in-all-seven-frameworks.md)
+- [Quantitative skills were explicitly addressed by only three of the seven reviewed frameworks](quantitative-skills-absent-most-frameworks.md)

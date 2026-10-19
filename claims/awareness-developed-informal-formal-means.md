@@ -43,4 +43,5 @@ Cross-case synthesis of the 12 interviews reports two routes to awareness. Infor
 
 
 ## Related Claims
--
+
+- [Practitioners hold that general instructional design principles are universal but must be separated from culturally specific applications](universal-principles-separated-from-applications.md)

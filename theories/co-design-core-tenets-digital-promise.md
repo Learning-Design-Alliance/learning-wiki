@@ -60,6 +60,7 @@ The report defines co-design as "a process in which different stakeholders come 
 - [Inclusive Innovation: a co-research and co-design R&D framework enabling co-leadership among students, teachers, parents, community members, and district leaders](../products/digital-promises-inclusive-innovation-model.md)
 - [Six core tenets of Collaborative Innovation, organized as Practice and Impact tenets](../products/collaborative-innovation.md)
 - [The Learning Salon five-phase engagement model for district-provider equity collaboration](../products/learning-salon.md)
+- [Participant engagement as a continuum shaped by influencing factors and research stage](participant-engagement-continuum-research-process.md)
 
 ## Examples
 
@@ -71,6 +72,7 @@ The report defines co-design as "a process in which different stakeholders come 
 - [Engage student voice through safe sharing spaces, assumption removal, active listening, co-creation, and co-designed action plans](../strategies/promising-practices-engaging-student-voice.md)
 - [Co-design and validate context-aware AI through DBIR blended with user-centered design in privacy-preserving enclaves](../strategies/dbir-ucd-privacy-preserving-lc-validation.md)
 - [Strengthen implementation scaffolding for new edtech rollouts with routines, guided practice, and change management grounded in observed workflows](../strategies/implementation-scaffolding-change-management.md)
+- [CSUB Teacher Residency Consortium, a monthly professional learning community of residency coordinators](../designs/csub-residency-consortium-plc.md)
 
 ## Key Sources
 - Cocuzza, B., Noakes, S., Aso, C., Vollavanh, A., Goldschmidt, L., and Bennett, K. (2026, August). From Data Silos to Student Success: The CICS and Innovare Co-Design Approach to AI-Driven Intervention. Digital Promise. https://doi.org/10.51388/20.500.12265/304

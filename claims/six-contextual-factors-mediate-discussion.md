@@ -43,4 +43,7 @@ Qualitative comparative case study across three medical schools; the results sec
 
 
 ## Related Claims
--
+
+- [The assessment system determined whether an exam-directed focus inhibited or enhanced discussion behaviors](assessment-system-determines-discussion-focus.md)
+- [Four cultural factors inhibit students from speaking up, asking questions and challenging others in PBL discussions, with stronger impact in non-Western schools](four-cultural-factors-inhibit-discussion-behaviors.md)
+- [Student-centered education is feasible in different cultural contexts, but processes and outcomes are likely to differ across them](student-centered-education-feasible-across-cultures.md)

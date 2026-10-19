@@ -25,7 +25,8 @@ The article proposes a three-layered analytical framework integrating AI algorit
 - [Optimal clustering of five-channel CPS sequences detected three types of collaborative patterns among graduate student groups](../claims/three-collaborative-pattern-types-cps.md) [+M]
 
 ## Related Research Methods
--
+
+- [Triangulated three-method analysis of collaborative problem-solving enactment](triangulated-three-method-analysis-of-collaborative-problem-solving-enactment.md)
 
 ## Key Sources
 - Fan Ouyang, Weiqi Xu, Mutlu Cukurova. (2023). An artificial intelligence-driven learning analytics method to examine the collaborative problem-solving process from the complex adaptive systems perspective. Intern. J. Comput.-Support. Collab. Learn (2023) 18:39–66. https://doi.org/10.1007/s11412-023-09387-z

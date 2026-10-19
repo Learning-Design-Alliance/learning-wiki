@@ -43,4 +43,5 @@ Online regression analysis (PROCESS Model 2) with 191 students randomly assigned
 
 
 ## Related Claims
--
+
+- [Seductive detail amount did not increase learners' intrinsic motivation in either study](sd-amount-no-motivation-effect.md)

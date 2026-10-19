@@ -43,4 +43,6 @@ The authors' interpretation in the Discussion of their single-session dynamic as
 
 
 ## Related Claims
--
+
+- [CVS use relates positively to age but not to gender in kindergartners](cvs-use-age-not-gender.md)
+- [Second-year kindergartners outperform first-year kindergartners on CVS scores with large differences](k2-outperforms-k1-cvs-scores.md)

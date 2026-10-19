@@ -43,6 +43,8 @@ During the study phase, subjects rated each passage's comprehensibility. "A 2 (p
 
 
 ## Related Claims
+
 - [Repeated measures ANOVA shows significant time-of-testing effect and significant time-by-group interaction on word-problem scores](time-by-group-interaction-problem-solving-plan.md) — related
 - [In a randomized trial of SRL interventions in an online mathematics preparation course, group and time interacted significantly on SRL knowledge, self-efficacy and the SRL overall score, with Group TDP (training + diary + peer feedback) showing the most prominent gains](srl-web-training-peer-feedback-group-by-time-interaction-online-math-prep.md) — related
 - [SRL interventions in a four-week online mathematics preparation course did not significantly change the mathematics overall score (interaction marginal), while the mathematics focus score on self-chosen chapters showed a statistically significant group by time interaction](srl-interventions-math-overall-score-marginal-focus-score-significant-online-prep-course.md) — related
+- [High-variability passages receive longer study times than low-variability passages](high-variability-passages-longer-study-time.md)

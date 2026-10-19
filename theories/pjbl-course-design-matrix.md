@@ -40,7 +40,8 @@ The article proposes a 2x2 matrix for describing variations in project-based cou
 - [Cognitive Flexibility Theory](cognitive-flexibility-theory.md)
 
 ## Examples
--
+
+- [Flexible-Individualistic PjBL: students design their own projects with separate final presentations](../designs/flexible-individualistic-pjbl-course-e.md)
 
 ## Key Sources
 - Son, E. H., & Penry, T. (2022). Variations in Project-Based Course Design. Journal of Problem Based Learning in Higher Education, Vol. 10, No. 1.

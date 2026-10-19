@@ -43,4 +43,5 @@ The report attributes this to experiments by Kieras and Bovair (1984) in which o
 
 
 ## Related Claims
--
+
+- [The report attributes to Clancey (1984) that GUIDON field-test students had difficulty understanding and remembering MYCIN's production rules because reasoning strategies and system knowledge were not represented](guidon-students-could-not-understand-mycin-rules.md)

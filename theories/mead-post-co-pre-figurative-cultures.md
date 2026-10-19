@@ -43,7 +43,8 @@ The report presents Mead's three-part cultural taxonomy for characterizing how k
 - [Mead holds that the process of acquiring changes the thing acquired, making change of subject matter the rule](../claims/acquiring-changes-the-thing-acquired.md) [+W]
 
 ## Related Theories
-- 
+
+- [Mead's four-phase framework groups high school students by readiness, protection needs, and responsibility rather than age alone](mead-four-phase-high-school-framework.md)
 
 ## Examples
 

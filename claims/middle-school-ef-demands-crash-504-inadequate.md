@@ -43,4 +43,6 @@ Denckla's clinical argument, based on longitudinal clinical observation rather t
 
 
 ## Related Claims
--
+
+- [Clinically relevant attention problems in ADHD cause writing problems without impairing reading](adhd-attention-deficits-cause-writing-problems.md)
+- [Students with EDF grow into school-assessed learning disabilities, written expression first and reading comprehension next](edf-progresses-to-written-expression-then-reading-comprehension.md)

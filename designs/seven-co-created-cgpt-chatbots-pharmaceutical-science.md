@@ -44,6 +44,7 @@ Seven custom GPT chatbots (cGPTs) were co-created for six undergraduate units in
 ## Related Designs
 
 - [Aspen: a prompt-engineered AI chatbot peer mentor for inquiry revision](aspen-ai-chatbot-peer-mentor.md)
+- [Custom AI assistants with curated legal knowledge bases, queried in de-identified form](custom-ai-legal-knowledge-base-assistant.md)
 
 ## Examples
 -

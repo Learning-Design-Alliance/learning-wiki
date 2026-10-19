@@ -67,11 +67,13 @@ Submission creates the accountability structure that makes practice productive: 
 - *Does requiring learners to revise and resubmit after feedback improve the work, and when do repeated resubmissions stop helping?* [In a case analysis, probing instructor feedback with required revise-and-resubmit moved one teacher candidate toward citing student evidence, though his progress was not linear and another candidate did not improve](../claims/probing-feedback-revise-resubmit-evidence.md) [~W]
 
 ## Related Elements
+
 - [Assessment](assessment.md) — the evaluative frame that gives submission its criteria and stakes
 - [Feedback](feedback.md) — the response that makes submission worth doing; submission without feedback is bookkeeping
 - [Revision](revision.md) — the follow-on action that converts feedback into learning
 - [Check-ins](../principles/check-ins.md) — lightweight, low-stakes submissions that surface progress and problems early
 - [Coaching](coaching.md) — the human support that interprets feedback and guides revision
+- [Student-made glossary assignment for MATLAB syntax](student-made-glossary-matlab-syntax.md)
 
 ## Patterns That Use This Element
 - [Competency-Based Learning](../patterns/competency-based-learning.md) — submissions as evidence of standard attainment
@@ -87,6 +89,7 @@ Submission creates the accountability structure that makes practice productive: 
 - [Iterative post-teaching analysis with rubric-aligned written feedback and revise-and-resubmit cycles](../strategies/iterative-post-teaching-analysis-feedback-cycle.md)
 - [Using Mathspace workflows to provide timely, mastery-oriented feedback on student work](../strategies/mathspace-mastery-oriented-feedback-workflow.md)
 - [Assess process over product using staged, connected tasks with iterative evidence](../strategies/assess-process-over-product-staged-tasks.md)
+- [Develop papers through successive preliminary presentations to gather peer feedback before journal submission](../strategies/preliminary-presentations-before-journal-submission.md)
 
 ## Key Sources
 - Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74. [doi:10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)

@@ -43,5 +43,7 @@ Repeated-measures ANOVA in the same 27-participant randomized experiment found a
 
 
 ## Related Claims
+
 - [Undergraduate students learning nanoscience with agent-based models show greater gains in explanatory knowledge than students learning with visualization videos](abm-greater-explanatory-knowledge-gains-nanoscience.md) — related
 - [ABM students engage more frequently in embodied reasoning strategies—first-to-third-person perspective shifts, causal inference making, and gestures—than video students, who rely more on third-person perspectives and information retrieval](abm-students-more-embodied-reasoning-strategies.md) — related
+- [Both conditions improved in overall idea units, evidence-based units and functional units, with no significant condition-by-time differences](argumentation-practice-improves-argument-output-both-conditions.md)

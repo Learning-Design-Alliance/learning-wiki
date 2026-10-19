@@ -26,7 +26,8 @@ A four-metric framework developed by Bitar et al. for auditing and grading insti
 
 
 ## Related Products and Programmes
--
+
+- [Instructional coherence framework: four student-centered approaches share commitments to identity, agency, equity, and community](instructional-coherence-framework-four-student-centered-approaches-share-commitments-to-id.md)
 
 ## Key Sources
 - Jinann Bitar, Gabriel Montague, Lauren Ilano. (2022). Faculty Diversity and Student Success Go Hand in Hand, So Why Are University Faculties So White? The Education Trust. https://edtrust.org

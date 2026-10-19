@@ -82,6 +82,7 @@ Graphic organizers exploit the visual channel to convey relational information t
 - [Annotating](../principles/annotating.md) — a complementary text-marking strategy; organizers restructure, annotation highlights
 - [Case Studies](../elements/case-studies.md) — organizers can scaffold case analysis by structuring what to extract
 - [Student-generated mapping exercise](student-generated-mapping-strategy.md)
+- [Provide concept maps and hypermaps so learners see conceptual relationships and their own location in the system](concept-maps-hypermaps-navigation-support.md)
 
 ## Examples
 - **[Concept Attainment](../patterns/concept-attainment.md)** — organizers such as T-charts of examples and non-examples support hypothesis testing about category membership.

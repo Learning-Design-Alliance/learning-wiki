@@ -17,7 +17,7 @@ sources:
 # Establish purposeful partnerships among co-located schools with leaders invested in all students in the building
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (2 qualitative), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The report identifies purposeful school partnerships, especially among two or more schools sharing a building, as an activity that spurred collaboration across district and charter schools. It works by engaging school leaders who are "invested in all students in the building, not just those from their own schools," so that sharing of effective practices extends beyond each school's own enrollment.
@@ -35,6 +35,11 @@ The report identifies purposeful school partnerships, especially among two or mo
 
 ### Target Learning Goals
 - Sharing of effective instructional practices across district and charter schools
+
+## Claims
+
+- [Purposeful school partnerships, particularly among two or more schools located in the same building, spurred collaboration when leaders were invested in all students in the building](../claims/co-located-partnerships-spur-collaboration-when-leaders-invested-in-all-students.md) [+W]
+- [School co-locations or partnerships, aspiring-leader programs, and shared Common Core preparation are the most promising avenues for cross-sector collaboration](../claims/district-charter-promising-collaboration-avenues.md) [+W]
 
 ## Related Strategies
 

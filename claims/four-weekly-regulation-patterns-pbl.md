@@ -43,4 +43,7 @@ Model-based clustering (Gaussian mixture models via MoEClust) of each group's we
 
 
 ## Related Claims
--
+
+- [Weekly group data on PBL interactions showed substantial between-group variability (ICC 0.4), requiring multilevel growth models](group-variability-icc-multilevel-growth-models.md)
+- [Most PBL groups settled into stable regulatory patterns early in the course, with transitions usually between similar patterns](stable-early-regulatory-patterns-limited-change.md)
+- [Optimal clustering of five-channel CPS sequences detected three types of collaborative patterns among graduate student groups](three-collaborative-pattern-types-cps.md)

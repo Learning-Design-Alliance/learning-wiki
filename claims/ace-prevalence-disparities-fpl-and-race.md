@@ -62,4 +62,7 @@ Descriptive ACE prevalence by race/ethnicity from the same NSCH sample, reported
 
 
 ## Related Claims
+
 - [The racial disparity in long-term exposure to the most disadvantaged neighborhoods is more pronounced than the disparity at any single age](racial-disparity-cumulative-neighborhood-exposure.md) — related
+- [Family resilience partially mediates the association between ACEs and child flourishing, with mediation proportions varying by race/ethnicity and income](family-resilience-partially-mediates-aces-flourishing.md)
+- [Moderation by race/ethnicity: White children show significantly greater flourishing decrements as ACEs increase, while Black and Hispanic children show steeper declines in family resilience](race-moderation-white-steeper-flourishing-decline.md)

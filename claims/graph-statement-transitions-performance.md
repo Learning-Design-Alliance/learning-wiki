@@ -43,4 +43,5 @@ Multi-level logistic regression (Table 7) on transition counts between AOIs; the
 
 
 ## Related Claims
--
+
+- [Eye fixation data corroborated verbal protocols on the primary representation used (disagreement on only one trial) and revealed additional representations consulted but never mentioned verbally](eye-data-uncovers-unmentioned-representations.md)

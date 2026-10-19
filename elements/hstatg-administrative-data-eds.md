@@ -17,7 +17,7 @@ sources:
 # Early Detection System (EDS) built on standardized HStatG administrative student data
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 An early detection system that predicts whether a bachelor student will drop out using only the standardized data German universities must collect under §3 HStatG: demographics, previous education, study program, and end-of-semester performance data. The authors state it "can be introduced and operationally maintained at low cost in German state and private universities as well as in universities of applied sciences," and that it provides "a good starting point for research on student attrition using administrative data." It was developed and tested at a state university with about 23,000 students and a private university of applied sciences with about 6,700 students.
@@ -38,10 +38,12 @@ An early detection system that predicts whether a bachelor student will drop out
 
 ## Claims
 
+- [Evidence is mixed on whether including demographic variables as predictors improves model performance in educational prediction](../claims/mixed-evidence-demographic-predictor-performance.md) [~W]
 
 ## Related Elements
 
 - [AdaBoost meta-algorithm combining logit regression, neural networks, and bagged random forests](adaboost-ensemble-of-logit-neural-network-brf.md)
+- [Learning Analytics-Driven Feedback](learning-analytics-feedback.md)
 
 ## Examples
 

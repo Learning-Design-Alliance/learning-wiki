@@ -40,7 +40,8 @@ A set of six maps supplementing the Fall 2012 telephone survey of the Pearce and
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 
 ## Related Elements
-- 
+
+- [CPS Comprehensive Magnet School Policy (1998): neighborhood set-aside and transportation buffer](cps-comprehensive-magnet-school-policy.md)
 
 ## Examples
 -

@@ -43,6 +43,8 @@ Comparative case study fieldwork in the Albany, New York, region and the Hangzho
 
 
 ## Related Claims
+
 - [American and Chinese users showed distinct messaging use patterns: fun-oriented short exchanges in the US versus informing and long in-depth chats in China](cross-site-messaging-use-patterns-differ.md) — a narrower finding that bears on this claim
 - [User localization success of text messaging is unqualified and fragile: some participants reduced use when costs rose or alternatives appeared](user-localization-success-fragile.md) — related
 - [Learners showed positive attitudes toward receiving SMS vocabulary messages, and instant messaging raised intercultural awareness](sms-positive-attitudes-intercultural-awareness.md) — related
+- [Problematic one-way links between production and consumption processes impede the technology's circulation, with only one manufacturer responding to users](problematic-production-consumption-links.md)

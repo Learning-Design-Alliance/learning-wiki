@@ -25,7 +25,8 @@ SoftBank Robotics' NAO humanoid robot and Choregraphe visual programming environ
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Pepper](pepper.md)
 
 ## Key Sources
 - Ronnie Videla, Simon Penny, Wendy Ross. (2025). 'If you can't dance your program, you can't write it': Challenges and Implications for AI in Education.

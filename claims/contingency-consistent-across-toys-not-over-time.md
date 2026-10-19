@@ -43,4 +43,5 @@ Bivariate correlational tests of consistency in scaffolding variables in the lon
 
 
 ## Related Claims
--
+
+- [Maternal propensity to scaffold during infant play is consistent both across toys and over time from 12 to 24 months](propensity-to-scaffold-stable-across-toys-and-time.md)

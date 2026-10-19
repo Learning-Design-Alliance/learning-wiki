@@ -17,7 +17,7 @@ sources:
 # Schedule declarative learning (e.g., vocabulary) in the afternoon and procedural skill practice (e.g., music, sports) in the late evening for adolescents
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (4 for, 1 mixed) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The authors translate their differential consolidation findings into a scheduling recommendation for adolescent learning: declarative material such as vocabulary should be studied in the afternoon, roughly 7.5 hours before night-time sleep, while motor skills such as soccer or piano should be trained in the late evening, directly before sleep. They state: "we propose that declarative memories, such as vocabulary words, should be studied in the afternoon and motor skills, like playing soccer or piano, should be trained in the late evening."
@@ -37,6 +37,14 @@ The authors translate their differential consolidation findings into a schedulin
 ### Target Learning Goals
 - Declarative memory consolidation (e.g., vocabulary)
 - Procedural motor skill consolidation (e.g., music, sports)
+
+## Claims
+
+- [Adolescents trained on word pairs in the afternoon show higher word-pair retention after 24 hours than evening-trained adolescents, but the difference is not sustained at 7 days](../claims/afternoon-encoding-higher-word-pair-retention-24h.md) [+W]
+- [Evening-trained adolescents show greater gains in finger-tapping accuracy (reduced error rate) than afternoon-trained adolescents at both retention intervals](../claims/evening-encoding-greater-finger-tapping-accuracy-gains.md) [+W]
+- [Adolescents trained on a finger-tapping task in the evening show greater off-line gains in tapping speed than afternoon-trained adolescents at both 24 hours and 7 days](../claims/evening-encoding-greater-finger-tapping-speed-gains.md) [+W]
+- [Learning timing produces Group X Time interactions in both memory systems: declarative consolidation time courses differ between afternoon and evening groups, and finger-tapping speed and accuracy show highly significant Group X Time interactions](../claims/group-time-interactions-both-memory-systems.md) [+W]
+- [Polysomnographic sleep parameters did not differ between afternoon- and evening-trained groups and did not correlate with memory consolidation measures](../claims/sleep-parameters-no-group-differences-no-correlations.md) [~W]
 
 ## Related Strategies
 - 

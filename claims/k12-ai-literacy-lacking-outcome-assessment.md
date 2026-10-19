@@ -43,4 +43,5 @@ Qualitative synthesis across the 179 reviewed papers. The review attributes the 
 
 
 ## Related Claims
--
+
+- [K-12 AI learning experiences concentrate on technical, conceptual and applied skills in specific domains, while implementation schemes are led by the US and China](k12-ai-experiences-domain-limited-us-china-lead.md)

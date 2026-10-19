@@ -43,4 +43,7 @@ The review asserts, in its own words, that "Frequency plays a large part in expl
 
 
 ## Related Claims
+
 - Frequency should be reinstated as a bridging variable binding the different schools of language acquisition research — related
+- [Learners' sensitivity to frequency has implications for theories of implicit and explicit learning and their interactions](frequency-sensitivity-implications-implicit-explicit-learning.md)
+- [Language processing is intimately tuned to input frequency across phonology, phonotactics, reading, spelling, lexis, morphosyntax, formulaic language, comprehension, grammaticality, sentence production, and syntax](frequency-tuning-across-language-processing-domains.md)

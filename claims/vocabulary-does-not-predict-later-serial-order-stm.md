@@ -43,4 +43,5 @@ Reverse-direction hierarchical regression in the same longitudinal cohort, testi
 
 
 ## Related Claims
--
+
+- [Serial order STM at Age 4 predicts later nonverbal reasoning, but serial order STM gain does not predict nonverbal reasoning gain](serial-order-stm-predicts-nonverbal-reasoning.md)

@@ -17,7 +17,7 @@ sources:
 # Support teacher analytics adoption by providing success experiences, avoiding audit use, and offering individual options alongside team discussions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 To promote adoption of analytics-informed teacher inquiry, the article recommends that TLA "should not become tools for auditing teachers' practices" and should provide "possibilities for teachers' self-analysis even when they are not yet ready" to share their practice. Teachers should be convinced of benefits by seeing direct effects on student outcomes, and schools should promote supportive atmospheres with routine teaching analysis and group discussions. Because team discussions may neglect individual interests, options for individual TLA (models, examples, use cases, suitable tools) should also be provided.
@@ -35,6 +35,10 @@ To promote adoption of analytics-informed teacher inquiry, the article recommend
 
 ### Target Learning Goals
 - Sustained adoption of data-informed reflection on teaching practice
+
+## Claims
+
+- [Teachers would engage in analytics-informed inquiry if they saw direct benefits for student outcomes and the process were a regular part of their work](../claims/teacher-inquiry-incentives-direct-benefits-routine.md) [+W]
 
 ## Related Strategies
 - 

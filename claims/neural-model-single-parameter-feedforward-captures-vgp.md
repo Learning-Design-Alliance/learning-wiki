@@ -43,4 +43,6 @@ Numerical model fitting (Figure 2B) of the probabilistic population network of B
 
 
 ## Related Claims
--
+
+- [In fixed-duration conditions, accuracy rises faster with presentation duration in VGPs, confirming greater sensory integration and ruling out non-decision-time accounts](fixed-duration-faster-accuracy-rise-vgp.md)
+- [According to a probabilistic population neural model, VGPs make better use of the evidence, with log odds 19% higher than NVGPs in the motion task](vgp-better-posterior-log-odds-motion.md)

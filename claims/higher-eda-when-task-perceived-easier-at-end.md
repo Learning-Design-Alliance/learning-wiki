@@ -43,4 +43,6 @@ Independent t-tests comparing EDA peak rates across learning sessions categorize
 
 
 ## Related Claims
--
+
+- [Improved post-task understanding, higher task difficulty ratings and higher physiological arousal predict better learning outcomes](arousal-and-task-perceptions-predict-learning-outcomes.md)
+- [Students perceive collaborative physics tasks as less difficult after completing them](task-difficulty-decreases-after-collaborative-task.md)

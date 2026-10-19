@@ -17,7 +17,7 @@ sources:
 # Deliver vision services and glasses directly at school to increase ownership and use of corrective lenses
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends partnering with schools so screening, exams, and glasses delivery happen on campus, because this removes cost, logistical, and stigma barriers. The authors state that "practices that increase ownership and use of glasses, such as serving students in school, may significantly improve both child health and academic performance," and suggest pediatricians work with school-based programs to expand access points.
@@ -35,6 +35,11 @@ The article recommends partnering with schools so screening, exams, and glasses 
 
 ### Target Learning Goals
 - supporting classroom attention, task persistence, and academic skill practice
+
+## Claims
+
+- [Providing free vision services on the school campus was perceived to remove financial and logistical barriers to obtaining corrective lenses](../claims/free-school-based-services-remove-access-barriers.md) [+W]
+- [Serving multiple students within a school and letting students choose frames were perceived to reduce stigma and increase willingness to wear glasses](../claims/school-based-group-delivery-reduces-glasses-stigma.md) [+W]
 
 ## Related Strategies
 - 

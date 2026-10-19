@@ -100,4 +100,5 @@ Subgroup meta-analysis restricted to bullies only (k = 2). No statistically sign
 
 
 ## Related Claims
--
+
+- [Bullying involvement is associated with lower academic achievement (pooled OR = 0.61)](bullying-involvement-lower-academic-achievement.md)

@@ -62,6 +62,8 @@ TF-IDF cosine similarity computed across sampled log text in Table 3, with robus
 
 
 ## Related Claims
+
 - [Comprehension-level tailoring occurred: AI responses following comprehension prompts showed 3.4x to 8.7x higher definitional density than non-triggered responses](comprehension-prompts-trigger-scaffolding-increase.md) — related
 - [LLM-simulated student ideas moderately overlap with teacher- and student-generated lesson ideas (mean cosine similarity 0.52), with larger LLMs slightly outperforming Mistral-7B](llm-simulated-ideas-moderate-overlap-lesson-ideas.md) — related
 - [Students showed bounded trust and uneven verification behavior: 23 of 837 student turns (about 2.7%) contained explicit risk-aware moves](bounded-trust-uneven-verification-behaviors.md) — related
+- [AI-generated readings lacked internal traceability: only about 0.80% of pages contained APA-style citations, URLs appeared on about 0.53%, and DOI strings were essentially absent](ai-readings-lack-internal-traceability.md)

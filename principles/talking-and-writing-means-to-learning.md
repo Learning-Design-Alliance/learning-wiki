@@ -193,6 +193,8 @@ Participation, willingness to speak, the reasoning in talk, written explanation,
 - [Writing To Learn](../strategies/writing-to-learn.md) — short writing about content as a learning activity (step 5).
 - [Accountable Talk](../strategies/accountable_talk.md) — discussion norms and moves for step 4.
 - [Structured post-screening discussion using amplification followed by moral case deliberation](../strategies/film-amplification-moral-case-deliberation-strategy.md)
+- [Integrate oracy and literacy in meaningful activities rather than treating the four modes as separate](../strategies/integrate-oracy-literacy-meaningful-activities.md)
+- [Middle school transition-words writing lesson integrating self-assessment, peer feedback, and personal learning goals](../designs/middle-school-transition-words-self-assessment-lesson.md)
 
 ## Key Sources
 - Diaz, Diana M. (1988). First Language/Second Language: Acquisition, Writing, and Cognitive Development. https://eric.ed.gov/?id=ED294203

@@ -74,9 +74,11 @@ Because instructional time and working memory are limited, word selection is the
 6. **Revisit words across days** in new contexts so knowledge consolidates ([Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S]).
 
 ## Related Strategies
+
 - [Frayer Model](frayer-model.md) — a common format for deep processing of the selected Tier 2 words
 - [Pre-teaching Vocabulary](pre-teaching-vocabulary.md) — the instructional act that tiering feeds
 - [Word Walls](word-walls.md) — ongoing display and reuse of tiered words
+- [Focus vocabulary instruction on Tier 2 words drawn from content-area materials](tier2-vocabulary-instruction-strategy.md)
 
 ## Examples
 - Before reading *Lord of the Flies*, students skim chapter one and sort words into "know it," "sort of know it," or "don't know it at all"; the teacher tiers the resulting list and selects *efflorescence* (Tier 3, needed for the text) and *reluctant*, *scrutinize* (Tier 2, broadly useful).

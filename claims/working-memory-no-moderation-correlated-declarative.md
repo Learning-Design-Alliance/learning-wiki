@@ -62,4 +62,5 @@ Linear regression found digit recall predicted declarative knowledge of features
 
 
 ## Related Claims
--
+
+- [Declarative knowledge of movement features was not significantly related to actual improvements in physical execution of those features](declarative-knowledge-not-related-feature-performance.md)

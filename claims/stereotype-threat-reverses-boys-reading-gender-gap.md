@@ -47,4 +47,6 @@ Controlled experiment in which eighty third-grade students took a reading test a
 - [Stereotype Threat](../learner-variables/stereotype-threat.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
 - [The threat-by-gender pattern in reading occurred only among highly-identified students](stereotype-threat-reading-only-highly-identified.md) — a narrower finding that bears on this claim
+- [White men performed measurably worse on tests of innate athletic ability when under stereotype threat](stereotype-threat-athletic-task-white-men.md)

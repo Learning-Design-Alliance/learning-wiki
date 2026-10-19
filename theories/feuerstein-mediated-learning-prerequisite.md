@@ -55,6 +55,7 @@ The paper presents Feuerstein's theory of mediated learning as filling a gap in 
 
 - [Prepare teachers of young children to enhance each child's learning potential rather than just cover curriculum](../principles/teacher-as-mediator-not-content-disseminator.md)
 - [Instrumental Enrichment program](../products/instrumental-enrichment.md)
+- [Cognitive Modifiability Battery (CMB)](../products/cognitive-modifiability-battery-cmb.md)
 
 ## Key Sources
 - Seng, Seok-Hoon. (1997). Zone of Proximal Development and the World of the Child. https://eric.ed.gov/?id=ED416957

@@ -18,7 +18,7 @@ sources:
 # Imagine IM
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (1 causal, 1 qualitative), `q2` · 1 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 Imagine IM is a print and digital K–12 core mathematics curriculum developed by Imagine Learning and certified by Illustrative Mathematics for problem-based, student-centered instruction.
@@ -27,10 +27,15 @@ Imagine IM is a print and digital K–12 core mathematics curriculum developed b
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
 - [In a Maryland rural fringe district study of over 700 students in grades K-5, Imagine IM showed significant impacts on Acadience Math (+0.26) and Grade 2 NWEA MAP Growth Math (+0.39), with positive but non-significant effects on the state MCAP assessment](../claims/imagine-im-maryland-study-acadience-nwea.md) [+W]
+- [District leaders report that building a shared instructional vision before curriculum adoption lays the foundation for successful IM implementation](../claims/shared-vision-before-hqim-adoption-foundation.md) [+W]
+- [Districts use multiple forms of data—learning walks, state assessment items, dashboards, and diagnostics—to give teachers feedback and refine IM implementation over time](../claims/data-use-supports-ongoing-hqim-implementation.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Imagine Math](imagine-math.md)
+- [iRCL](ircl.md)
 
 ## Key Sources
 - Imagine IM: Evidence Rating. (2024). https://evidenceforessa.org/program/imagine-learning-illustrative-mathematics/

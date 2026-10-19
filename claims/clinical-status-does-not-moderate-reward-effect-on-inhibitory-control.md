@@ -43,4 +43,8 @@ Exploratory moderator analyses on clinical samples versus healthy controls, incl
 
 
 ## Related Claims
--
+
+- [The effect of reward on inhibitory control is not moderated by participant age (children vs adults)](age-does-not-moderate-reward-effect-on-inhibitory-control.md)
+- [Inhibitory control is the EDF subdomain most repeatedly linked to ADHD](inhibitory-control-repeatedly-adhd-related.md)
+- [The effect of reward on inhibitory control is not moderated by reward type (monetary vs points vs other)](reward-type-does-not-moderate-inhibitory-control-effect.md)
+- [The reward effect on inhibitory control is significant across all six IC task types, but task type significantly moderates the effect, with the largest effect in Stroop tasks](task-type-moderates-reward-effect-on-inhibitory-control.md)

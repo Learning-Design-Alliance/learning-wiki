@@ -43,4 +43,7 @@ The article reports, citing prior stereotype-threat research (Brock, 2020), that
 
 
 ## Related Claims
+
 - [Chronic stereotype threat is negatively associated with mathematical achievement in secondary schoolgirls](chronic-stereotype-threat-lower-math-achievement.md) — a narrower finding that bears on this claim
+- [Disidentification relieves stereotype threat at the cost of loss of motivation and dissociation from school achievement](disidentification-costs-motivation.md)
+- [White men performed measurably worse on tests of innate athletic ability when under stereotype threat](stereotype-threat-athletic-task-white-men.md)

@@ -46,8 +46,10 @@ Multiple-group GMM comparison (Results): freely estimated across-gender models f
 - [Gender](../learner-variables/gender.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
+
 - [Conflict trajectory classes predict grade 6 achievement: chronic high-stable conflict shows the worst underachievement, rising conflict coincides with underachievement, but declining conflict does not](conflict-trajectories-predict-achievement.md) — related
 - [Teacher-student conflict follows distinct longitudinal trajectory classes across elementary school, including low-stable, low-increasing, high-declining, and (for boys only) high-stable patterns](conflict-trajectory-classes-elementary.md) — possibly the same claim (merge candidate)
 - [Children with early behavioral, academic, and demographic risks are over-represented in adverse teacher-student relationship trajectories](risk-children-overrepresented-adverse-trajectories.md) — related
 - [Low warmth trajectories predict lower achievement gains for boys but not for girls](warmth-trajectories-boys-not-girls.md) — related
 - [Teacher-reported warmth follows two trajectory classes per gender: a normative high-declining class and a low-increasing class starting from lower warmth](warmth-trajectory-classes-elementary.md) — related
+- [Gender is unevenly distributed across participation profiles: boys are overrepresented among disconnected and girls among diligent students](gender-distribution-participation-profiles.md)

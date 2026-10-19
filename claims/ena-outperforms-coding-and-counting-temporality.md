@@ -43,6 +43,7 @@ The editorial reports that Csanadi et al. analyzed one dataset with both epistem
 
 
 ## Related Claims
+
 - [Intrinsically motivated students form reflective-iterative metacognitive co-occurrence networks, but overall ENA centroid positions do not differ significantly between motivational groups](ena-networks-motivational-groups.md) — related
 - [Epistemic network analysis shows metacognitive behaviors co-occur with invitation actions in DR and DE but with human-initiated reasoning and elaboration in CI](ena-metacognition-invitations-versus-reasoning.md) — related
 - [Argumentation quality is associated with denser co-occurrence of scientific reasoning and self-regulation processes](argumentation-quality-associated-with-reasoning-self-regulation-co-occurrence.md) — related
@@ -50,3 +51,5 @@ The editorial reports that Csanadi et al. analyzed one dataset with both epistem
 - [Preservice teachers' interpreting and shaping dimensions show the strongest co-occurrence across all three weeks of AI-based simulation interactions](interpreting-shaping-strongest-co-occurrence-ai-simulations.md) — related
 - [PIA and TFA types differ structurally in deliberative networks, with PIA centred on establishing strategy, educating, agreeing and monitoring](ena-structural-differences-pia-tfa.md) — related
 - [Temporal process analysis reveals group- and task-related differences that the frequency accounts did not show, in the interchange of CPS elements over time](process-analysis-temporal-differences-groups-tasks.md) — related
+- [Classroom events occur at different time scales requiring different modes of cognition](time-scales-require-different-modes-of-cognition.md)
+- [Sequential analysis of discourse reveals meaning-making processes in small-group CSCL interactions](sequential-analysis-of-small-group-cognition.md)

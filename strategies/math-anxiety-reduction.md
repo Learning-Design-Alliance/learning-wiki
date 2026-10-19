@@ -59,10 +59,12 @@ Because anxious learners' working memory is partially occupied by worry, reducin
 6. Foster [Belonging](../elements/belonging.md) — social-belonging interventions improve outcomes for students who fear confirming negative stereotypes about math ability [Belonging interventions improve outcomes for marginalized students.](../claims/belonging-interventions-improve-outcomes.md) [+S].
 
 ## Related Strategies
+
 - [Growth Mindset Framing](growth-mindset-framing.md) — reframing ability as malleable removes a core anxiety driver
 - [Low-Stakes Testing](frequent-low-stakes-quizzes.md) — retrieval practice without grade threat builds both fluency and confidence
 - [Expressive Writing Before Assessment](expressive-writing-before-assessment.md) — the best-evidenced single regulation intervention
 - [Scaffolded Problem Sequencing](scaffolded-problem-sequencing.md) — graduated difficulty keeps challenge within reach
+- [Use expressive writing before math situations to offload worry and protect working memory resources](expressive-writing-before-math.md)
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — mastery-based, untimed practice with hints and unlimited retries removes speed pressure and public failure from math practice.

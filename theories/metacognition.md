@@ -442,6 +442,12 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Use a three-stage model to help learners identify and apply their learning-style characteristics](../strategies/three-stage-learning-style-awareness-model.md)
 - [Use metacognitive interventions to promote adaptive use of cognitive tools](../strategies/metacognitive-interventions-adaptive-offloading.md)
 - [Use metacognitive prompts that reflect cognitive processes without asking for a performance evaluation](../strategies/process-reflection-prompts-without-performance-evaluation.md)
+- [App-based metacognitive monitoring training program with paired-associates memory tasks and feedback](../designs/app-based-metacognitive-monitoring-training-kindergarten.md)
+- [Film-plus-cloze metacognitive assessment paradigm with confidence judgments and answer withdrawal](../designs/film-cloze-confidence-withdrawal-metacognition-paradigm.md)
+- [Inferential word-learning task with retrospective confidence ratings and hierarchical Bayesian meta-d' estimation](../designs/inferential-word-learning-task-confidence-ratings-meta-d.md)
+- [Framework of teachers' judgments of students' monitoring skills with three accuracy measures](../research-methods/framework-of-teachers-judgments-of-students-monitoring-skills-with-three-accuracy-measures.md)
+- [Teachers should make task demands explicit, compelling, varied, and metacognitively supported when assigning text-study tasks](../strategies/explicit-compelling-varied-task-demands-strategy.md)
+- [Future self-assessment interventions should redirect students' attention from invalid cues toward valid, predictive cues rather than providing self-assessment accuracy feedback](../strategies/redirect-self-assessment-cues-toward-valid-cues.md)
 
 ## Key Sources
 - Bjorklund, D. F. (2005). *Children's thinking: Cognitive development and individual differences* (4th ed.). Wadsworth.

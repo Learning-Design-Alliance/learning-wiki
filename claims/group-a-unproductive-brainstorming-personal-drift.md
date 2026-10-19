@@ -43,4 +43,5 @@ Discussion passage explaining why both groups showed high I–it/I–me prevalen
 
 
 ## Related Claims
--
+
+- [Group A, who failed the learning task, devoted most dialogues to orientation and conceptualization and asked yes-no questions at the personal level, while group B, who succeeded, distributed dialogue across investigation and discussion](group-df-distribution-outcome-cscl-dst.md)

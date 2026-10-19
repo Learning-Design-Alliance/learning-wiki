@@ -62,4 +62,6 @@ FPL-stratified indirect-effect estimates from the same probit model; all direct,
 
 
 ## Related Claims
--
+
+- [ACE exposure is unevenly distributed: children below 400% FPL and Black and Hispanic children have higher prevalence of two or more ACEs](ace-prevalence-disparities-fpl-and-race.md)
+- [Moderation by race/ethnicity: White children show significantly greater flourishing decrements as ACEs increase, while Black and Hispanic children show steeper declines in family resilience](race-moderation-white-steeper-flourishing-decline.md)

@@ -87,6 +87,7 @@ Demonstrations reduce the cognitive burden of initial skill acquisition by givin
 **[Khan Academy](https://www.khanacademy.org)** — Video demonstrations with narrated step-by-step problem solving, followed by [practice exercises](practice.md) with hints. The hint system itself delivers sub-demonstrations on demand.
 
 **[Codecademy](https://www.codecademy.com)** — Annotated code demonstrations inline with [coding exercises](practice.md); learners see a working example before writing their own version.
+- [Video modeling examples with expert narration revealing covert cognitive processing](../strategies/video-modeling-examples-expert-narration.md)
 
 ## Key Sources
 - Sweller, J., & Cooper, G. A. (1985). The use of worked examples as a substitute for problem solving in learning algebra. *Cognition and Instruction, 2*(1), 59–89. [doi:10.1207/s1532690xci0201_3](https://doi.org/10.1207/s1532690xci0201_3)

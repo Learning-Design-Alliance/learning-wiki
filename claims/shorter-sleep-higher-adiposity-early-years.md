@@ -62,4 +62,9 @@ Narrative synthesis of 18 cross-sectional studies (30,829 participants); GRADE q
 
 
 ## Related Claims
--
+
+- [Longer sleep duration is associated with linear growth in infants, with small printed odds ratios](longer-sleep-linear-growth-infants.md)
+- [Shorter sleep duration is associated with higher injury risk in children aged 0–4 years, though evidence is limited (2 of 3 studies)](shorter-sleep-injury-risk-early-years.md)
+- [Shorter sleep duration is associated with more screen time in children aged 0–4 years (5 of 5 studies)](shorter-sleep-more-screen-time-early-years.md)
+- [Evidence on sleep duration and cognitive development in children aged 0–4 years is mixed, with no consistent association](sleep-cognitive-development-mixed-early-years.md)
+- [Sleep duration shows no association with gross and fine motor skills in children aged 0–4 years](sleep-motor-development-null-early-years.md)

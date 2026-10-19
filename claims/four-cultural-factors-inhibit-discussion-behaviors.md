@@ -43,4 +43,10 @@ Qualitative comparative case study integrating interviews, observations, documen
 
 
 ## Related Claims
--
+
+- [The assessment system determined whether an exam-directed focus inhibited or enhanced discussion behaviors](assessment-system-determines-discussion-focus.md)
+- [Six contextual factors mediate the influence of cultural factors on discussion behaviors, either inhibiting or enhancing discussion](six-contextual-factors-mediate-discussion.md)
+- [Student-centered education is feasible in different cultural contexts, but processes and outcomes are likely to differ across them](student-centered-education-feasible-across-cultures.md)
+- [Students' discussion skills increased from first to third year in all three institutions, but at different rates across cultures](discussion-skills-increase-first-to-third-year.md)
+- [The scope of PBL implementation shaped discussion quality: hybrid lecture-based implementation reduced uncertainty but yielded less critical discussion than full PBL](scope-of-pbl-implementation-shapes-discussion.md)
+- [Tutor behavior had a major impact on students' discussion behaviors, with dominant or passive tutors both failing to stimulate lively discussion](tutor-behavior-major-impact-discussion.md)

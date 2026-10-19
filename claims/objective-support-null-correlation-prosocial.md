@@ -43,4 +43,5 @@ Pearson correlation analysis of the three social support dimensions (Table 3) in
 
 
 ## Related Claims
--
+
+- [Only the subjective (perceived) support dimension of social support mediates empathy and prosocial behavior](subjective-support-dimension-mediation.md)

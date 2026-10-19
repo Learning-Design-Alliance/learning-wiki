@@ -46,5 +46,7 @@ Behavioral observation and qualitative interviews during the three-month MAIC pi
 - [Time and Continuity](../learner-variables/time-and-continuity.md) — outcome: instruction changes it
 
 ## Related Claims
+
 - [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) — related
 - [In-class chat engagement significantly predicts higher test scores in MAIC courses](chat-engagement-predicts-test-scores.md) — related
+- [Students' technology acceptance increased significantly after taking a MAIC course](technology-acceptance-increased-maic.md)

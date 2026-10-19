@@ -43,4 +43,8 @@ Qualitative comparative case study, results section: some tutors dominated discu
 
 
 ## Related Claims
--
+
+- [The assessment system determined whether an exam-directed focus inhibited or enhanced discussion behaviors](assessment-system-determines-discussion-focus.md)
+- [Sustained deployment surfaced four behavioral archetypes — self-directed, tutor-reliant, late engager, and passive consumer — including patterns invisible to the reactive teaching system](itas-behavioral-archetypes.md)
+- [Staff tutors rated higher on using subject-matter knowledge and relevance, but peer tutors rated higher on these behaviors in year one](tutor-behavior-ratings-interaction-year.md)
+- [Four cultural factors inhibit students from speaking up, asking questions and challenging others in PBL discussions, with stronger impact in non-Western schools](four-cultural-factors-inhibit-discussion-behaviors.md)

@@ -46,6 +46,8 @@ Descriptive demographic comparison reported in the Executive Summary and the Dem
 - [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
+
 - In California (2018-19), 77.4% of K-12 public school students are people of color but only 39.1% of classroom teachers are — related
 - [Teacher residency programs enroll a more diverse candidate pool than traditional preparation programs, per a national comparison for 2016–17.](residencies-enroll-more-candidates-of-color.md) — related
 - California's recent TPP completer pool grew substantially more racially and ethnically diverse, with people of color rising from 39% to 53% of survey respondents — related
+- [A student-teacher racial/ethnic parity gap persists: in 2011–12, 44% of students but only 17.3% of teachers were minority](persistent-student-teacher-parity-gap.md)

@@ -17,7 +17,7 @@ sources:
 # Design AI-assisted software engineering courses around AI-assisted projects, programming-intensive assignments, collaboration, evaluation and testing, and reflection on AI use
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article distills common building blocks for instructors designing AI-assisted software engineering courses: "AI-assisted projects, programming-intensive assignments, collaborative development, evaluation and testing, and reflection on AI use." It also recommends mechanisms such as process logs, code reviews, demonstrations or oral defenses, individual reflections, and in-class checkpoints to make individual reasoning visible within project-based work. For departments, the article notes that introducing such courses requires decisions about scope, prerequisites, assessment, and placement.
@@ -37,6 +37,12 @@ The article distills common building blocks for instructors designing AI-assiste
 - AI-assisted software development
 - individual reasoning and process visibility
 - evaluation and testing of AI-assisted artifacts
+
+## Claims
+
+- [In AI-assisted software engineering courses, AI-required and programming work carry high median grade weights while proctored assessment is rare](../claims/ai-required-work-high-grade-weights-proctored-rare.md) [+W]
+- [AI-assisted software engineering courses assess primarily through participation, project work, and coding assignments rather than exams](../claims/ai-se-assessment-project-based-not-exams.md) [+W]
+- [Among AI-assisted software engineering courses with public objectives, human-AI collaboration, tool development, and evaluation are the most common learning-objective themes](../claims/ai-se-courses-objectives-collaboration-building-evaluation.md) [+W]
 
 ## Related Strategies
 - 

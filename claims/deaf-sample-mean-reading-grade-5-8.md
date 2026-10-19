@@ -43,4 +43,7 @@ Descriptive statistics for the WJ III Passage Comprehension subtest in the 55-pa
 
 
 ## Related Claims
--
+
+- [ASL proficiency correlates positively with English reading comprehension among deaf adults](asl-proficiency-correlates-reading-comprehension-deaf.md)
+- [Native signers of ASL show more proficient bilingual abilities than non-native signers](native-signers-higher-bilingual-abilities.md)
+- [Native signing and maternal education jointly predict bilingual ability, accounting for 38.4% of variance](regression-native-signing-maternal-education-bilingual.md)

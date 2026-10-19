@@ -43,4 +43,7 @@ Randomization check ANOVAs comparing the treatment and control groups on the vot
 
 
 ## Related Claims
--
+
+- [Random assignment produced treatment and control groups balanced in mathematical preparedness before the intervention](random-assignment-produced-balanced-math-preparedness-groups.md)
+- [Baseline equivalence held between conditions, but both groups scored far below the grade 8 proficiency cut score](assistments-baseline-equivalence-proficiency-gap.md)
+- [Experimental and control groups were equivalent in vocabulary before the glossing treatment](gloss-study-groups-equivalent-at-pretest.md)

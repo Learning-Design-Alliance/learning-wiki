@@ -43,4 +43,5 @@ The editorial reports the Eberle et al. study, an intervention study at two CSCL
 
 
 ## Related Claims
--
+
+- [PhD students and Information Technology researchers were selected less often as new collaboration partners, and group awareness support balanced the disciplinary difference, per the editorial's report of Eberle et al.](career-discipline-differentials-partner-selection-ga-balanced.md)

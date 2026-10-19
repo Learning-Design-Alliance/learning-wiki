@@ -62,6 +62,7 @@ The review reports, citing Barus et al. (2025), that the policy and training vac
 
 
 ## Related Claims
+
 - Research on student voices on academic integrity in GenAI use is nascent and methodologically immature, with most instruments self-developed and all reviewed studies cross-sectional — related
 - Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs — related
 - [Engineering students treat GenAI as acceptable when it stimulates reflection but view directly copying outputs as cheating, leveraging its fallibility to prompt double-checking](genai-ethics-reflection-versus-copying-boundaries.md) — a narrower finding that bears on this claim
@@ -83,3 +84,4 @@ The review reports, citing Barus et al. (2025), that the policy and training vac
 - [Ethical decision-making about AI emerges as tensions and contradictions negotiated across ecological levels](ethical-ai-decision-negotiated-across-levels.md) — related
 - [Human oversight in co-pilot mode improved Agent Laboratory research output quality ratings from 3.8/10 to 4.38/10](agent-laboratory-copilot-quality-gain.md) — a narrower finding that bears on this claim
 - [Students resisted external definitions of mathematical success and asserted agency in defining their own strategies](student-resistance-own-strategies-math.md) — related
+- [Students most often report hybrid interaction modes with generative AI, with passive task delegation and verification-only use as smaller patterns](hybrid-ai-interaction-modes-students.md)

@@ -43,6 +43,8 @@ Null path analysis in the same sample using the Classroom Video Analysis instrum
 
 
 ## Related Claims
+
 - [Higher teacher math anxiety relates to fewer process-oriented teaching practices as reported by students, which partially explains students' perception of the teacher's fixed mindset](teacher-anxiety-reduces-process-oriented-practices-via-perceived-mindset.md) — related
 - [Students' perceptions of their teacher's fixed mindset partially mediate the relationship between teacher math anxiety and student math achievement](perceived-teacher-fixed-mindset-partially-mediates-anxiety-achievement.md) — related
 - [In the full model, teacher math anxiety relates to lower ninth-grade GPA through a chain of reduced process-oriented practices and students' perceptions of a teacher fixed mindset](full-model-anxiety-practices-mindset-gpa-chain.md) — related
+- [Higher teacher math anxiety is associated with lower ninth-grade math GPA, controlling for prior achievement and student mindset](teacher-math-anxiety-lower-ninth-grade-math-gpa.md)

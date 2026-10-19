@@ -47,7 +47,9 @@ Same multivariate path analysis of 110 at-risk first graders. For listening comp
 - [Oral Language](../learner-variables/oral-language.md) — outcome: instruction changes it
 
 ## Related Claims
+
 - [First-grade attention has no direct effect on third-grade reading comprehension but an indirect effect through word reading, not listening comprehension](attention-indirect-effect-comprehension-via-word-reading.md) — related
 - [Teacher-rated behavioral attention significantly predicts first-grade word reading growth among at-risk readers receiving intensive one-on-one intervention, controlling for literacy, language, cognitive, and behavioral covariates](attention-predicts-word-reading-growth-at-risk-first-graders.md) — related
 - [Attention is more strongly associated with reading and cognitive measures than hyperactivity, which correlates mainly with phonemic decoding and memory](attention-more-associated-reading-than-hyperactivity.md) — related
 - [Third-grade reading comprehension is predicted by third-grade word reading and listening comprehension, with no direct attention effect](grade3-comprehension-predicted-by-word-reading-and-listening.md) — related
+- [Teacher ratings of language and reading skills correlate significantly with PSP-1 total scores, whereas grade point average does not](teacher-ratings-correlate-psp1-gpa-does-not.md)

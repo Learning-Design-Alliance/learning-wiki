@@ -44,7 +44,8 @@ To deprivilege the first map, the authors remap EE-related discourse around the 
 - [Four domains of inquiry in environmental education discourse formed by intersecting ontological and axiological dimensions](ee-discourse-four-domains-inquiry.md)
 
 ## Examples
--
+
+- [Participate in the creative reconstruction of a language that foregrounds human kinship with nature, using postmodern science fiction as a generative site](../strategies/reconstruct-language-foregrounding-kinship-with-nature.md)
 
 ## Key Sources
 - Nicholson-Goodman, JoVictoria; Paulston, Rolland G. (1996). Mapping/Remapping Discourse in Educational Policy Studies. Occasional Paper Series, APS Conceptual Mapping Project. https://eric.ed.gov/?id=ED395559

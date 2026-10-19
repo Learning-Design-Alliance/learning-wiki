@@ -41,6 +41,7 @@ The primer's social-and-cognitive-benefits section reports, citing Clarke et al.
 
 
 ## Related Claims
+
 - [In the Tucson household ethnography, exchanges within households' social networks were often reciprocal and built mutual trust through shared practical activities.](household-exchange-networks-are-reciprocal-and-build-trust.md) — related
 - [Social trust predicts which urban schools improve, and trust is built by reducing staff vulnerability](social-trust-vulnerability-school-change.md) — related
 - [Using co-regulation strategies helped facilitators and youth build warm, trusting relationships](co-regulation-builds-warm-trusting-relationships.md) — related
@@ -48,3 +49,4 @@ The primer's social-and-cognitive-benefits section reports, citing Clarke et al.
 - [Quality of staff-student and staff-parent relationships most strongly defines safe schools, with disadvantaged high-relationship schools feeling safer than advantaged low-relationship schools](relationship-quality-defines-safe-schools.md) — related
 - [Participants reported that the trust-building collaborative environment enabled open and vulnerable sharing](trust-climate-enabled-open-sharing.md) — a narrower finding that bears on this claim
 - [Interacting repeatedly across convenings built trust that enabled districts to give and receive critiques of one another's plans](repeated-convenings-trust-enables-critique.md) — a narrower finding that bears on this claim
+- [Collaboration was sustained after both direct and soft disagreements, with no rude behaviors observed](collaboration-sustained-after-disagreements.md)

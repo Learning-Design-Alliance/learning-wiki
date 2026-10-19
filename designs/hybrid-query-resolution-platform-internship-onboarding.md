@@ -44,7 +44,9 @@ A deployed support platform for a large online internship programme that routes 
 - [Corpus Coverage 8 Percent Person Resolved Queries](../claims/corpus-coverage-8-percent-person-resolved-queries.md) [+M]
 
 ## Related Designs
-- 
+
+- [Custom AI assistants with curated legal knowledge bases, queried in de-identified form](custom-ai-legal-knowledge-base-assistant.md)
+- [Detect-verify-escalate pipeline with four pedagogically distinct routes](detect-verify-escalate-pipeline.md)
 
 ## Examples
 -

@@ -62,4 +62,7 @@ Simple-effects contrasts within the validation condition of Study 2 showed posit
 
 
 ## Related Claims
--
+
+- [Recalling past confidence versus doubt validates or invalidates thoughts and shifts GRE performance accordingly](confidence-doubt-recall-gre-performance.md)
+- [Metacognitive confidence moderates the effect of thought valence on academic performance: confidence amplifies positive thoughts' benefits and negative thoughts' harm](metacognitive-confidence-valence-interaction-academic-performance.md)
+- [Perceived thought validity mediates the effect of the confidence induction on performance](thought-validity-mediation-performance.md)

@@ -43,4 +43,6 @@ Authors' interpretation (type e) drawn from the think-aloud corpus, applying Csi
 
 
 ## Related Claims
--
+
+- [Imagining (imagined past self) may give learners a greater feeling of entry into a historical situation than hypothesizing](imagined-past-self-greater-entry.md)
+- [The now-self functions as an anchor in HPT: participants began in now-self and frequently returned to it](now-self-anchors-hpt.md)

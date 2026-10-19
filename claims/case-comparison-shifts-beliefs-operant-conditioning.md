@@ -43,4 +43,9 @@ Repeated-measures ANOVA on nine-item belief scales (α = 0.73 before, 0.75 after
 
 
 ## Related Claims
--
+
+- [Providing key features during case comparison improves student teachers' ability to explain teacher behavior with operant conditioning principles, but not lower levels of understanding](key-features-improve-explanation-in-case-comparison.md)
+- [Presenting principles before case comparison yields higher germane load and lower extraneous load than presenting them after](input-before-raises-germane-lowers-extraneous-load.md)
+- [Providing key features during case comparison reduces learning time](key-features-reduce-learning-time.md)
+- [Timing of instructional input (before vs. after case comparison) did not significantly affect conceptual knowledge acquisition](input-timing-no-effect-knowledge-case-comparison.md)
+- [Higher germane load and lower extraneous load mediate the effect of instructional guidance on conceptual knowledge](cognitive-load-mediates-guidance-effect.md)

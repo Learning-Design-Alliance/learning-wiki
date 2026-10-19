@@ -43,4 +43,7 @@ Country coding of the 138 included studies shows Asia had the largest share at 4
 
 
 ## Related Claims
--
+
+- [AI-motivation research is geographically and educationally concentrated: over half of reviewed studies were conducted in China and most in higher education](ai-motivation-research-china-higher-ed-concentration.md)
+- [K-12 AI learning experiences concentrate on technical, conceptual and applied skills in specific domains, while implementation schemes are led by the US and China](k12-ai-experiences-domain-limited-us-china-lead.md)
+- [Research on generative AI in secondary STEM education is concentrated in the Global North, with 73% of affiliations and the United States accounting for 30% of publications](global-north-concentration-generative-ai-stem-research.md)

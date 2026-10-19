@@ -43,4 +43,5 @@ Structural equation modelling with 98 third- and fourth-year psychology students
 
 
 ## Related Claims
--
+
+- [Conceptions of motivation to learn relate positively to self-regulation and external regulation and negatively to lack of regulation](motivation-to-learn-relates-to-regulation-strategies.md)

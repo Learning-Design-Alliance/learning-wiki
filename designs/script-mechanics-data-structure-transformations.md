@@ -40,7 +40,8 @@ The article accounts for how script components relate to one another computation
 - 
 
 ## Related Designs
-- 
+
+- [Teaching and Learning Sequence (TLS) generator transforming translated scientific literature into structured educational resources](tls-generator-translated-scientific-literature.md)
 
 ## Examples
 -

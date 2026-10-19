@@ -16,7 +16,7 @@ sources:
 # Participant engagement as a continuum shaped by influencing factors and research stage
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The brief conceptualizes how study participants and community members are involved in research as a continuum rather than a binary. It states that "Participant engagement can be conceptualized as a continuum" and that "Several factors influence where a study falls along the continuum." The continuum position "can also vary at each stage of the research process," so engagement depth is treated as dynamic across design, data collection, and reporting rather than fixed for a whole study.
@@ -37,9 +37,11 @@ The brief conceptualizes how study participants and community members are involv
 
 ### Claims
 
+- [Brief 1–2 day training moved participants from Stage 0–1 toward Stage 1–2, while sustained courses supported progression toward Stages 3–4 (observational)](../claims/ncstate-brief-training-stage-movement.md) [+W]
 
 ## Related Theories
-- 
+
+- [Co-design framework with core tenets of power sharing and inclusion, prioritizing relationships, and capability building](co-design-core-tenets-digital-promise.md)
 
 ## Examples
 

@@ -62,4 +62,8 @@ From the same interview subset: "Almost universally (84%), participants reported
 
 
 ## Related Claims
+
 - [Expert role-players expressed more frustration with insufficient in-game social context in computer RPGs than with any other aspect, even when discussing their favorite games](players-frustrated-by-thin-social-context.md) — related
+- [Video game engagement is predicted by hours of play, playing with others, gender, and task orientation, with hours of play the strongest predictor](gaming-engagement-regression-predictors.md)
+- [The authors concluded transfer of motivational engagement from entertainment gaming to educational contexts was unlikely](gaming-engagement-transfer-to-classroom-unlikely.md)
+- [Sustained gaming engagement depends on controlling an optimal level of challenge: games too hard are abandoned and games too easy are boring](optimal-challenge-sustains-gaming-engagement.md)

@@ -43,5 +43,7 @@ The article reports, citing prior work, that raw agreement often exceeded 90% wh
 
 
 ## Related Claims
+
 - [Instructor co-designed tagging transforms raw LMS log data into structured event data reflecting course design and temporal context](clickstream-tagging-transforms-logs-into-contextualized-events.md) — related
 - [Model and prompt choice account for only a small share of misalignment error, which concentrates in transcript-conditioned higher-order interactions](variance-decomposition-model-prompt-weak-levers.md) — related
+- [Classroom events occur at different time scales requiring different modes of cognition](time-scales-require-different-modes-of-cognition.md)

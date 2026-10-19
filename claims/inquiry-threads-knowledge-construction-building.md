@@ -43,4 +43,5 @@ Inquiry thread analysis of 148 notes yielding nine threads, classified using van
 
 
 ## Related Claims
--
+
+- [Collaboration and synthesis indicators in Knowledge Forum increased over time among low-achieving students.](collaboration-synthesis-indicators-increased-over-time.md)

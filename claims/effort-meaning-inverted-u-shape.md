@@ -46,8 +46,10 @@ Theoretical argument in the comment, citing prior research on effort and meaning
 - [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
 
 ## Related Claims
+
 - [Motivation, affect, and learner beliefs shape whether AI evidence is accepted, resisted, or used in singing training](motivation-affect-beliefs-shape-ai-feedback-use.md) — related
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related
 - [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](feedback-praise-reduces-learning.md) — related
 - [Effortful regulation is maximized at moderate levels of emotional and physiological reactivity and declines at very low or very high levels](inverted-u-arousal-executive-function.md) — related
 - [(Nor)epinephrine follows an inverted-U for learning: low levels aid learning, high levels trigger quitting, and production fades after about 90 minutes but habituates with repeated safe exposure](norepinephrine-inverted-u-90-minute-limit-habituation.md) — a narrower finding that bears on this claim
+- [Curiosity and confidence show an inverted U-shaped relationship, peaking at an intermediate confidence level](inverted-u-curiosity-confidence-relationship.md)

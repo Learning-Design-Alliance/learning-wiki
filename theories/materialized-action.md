@@ -49,6 +49,9 @@ Constructionism holds that learners deepen understanding by building external ar
 
 - [Fiber Crafting for Proportional Reasoning](../designs/fiber-crafting-for-proportional-reasoning.md) — an instructional pattern built directly on this theory's three-level unit structure
 - [Use matrix-based fiber crafts as a context for computational learning to broaden computing cultures](../strategies/fiber-crafts-computational-learning-context.md)
+- [Fiber crafts course (weaving and fabric manipulation) as a context for computational learning with middle school youth](../designs/fiber-crafts-course-computational-learning.md)
+- [Collaborative making project pattern: multi-material, digitally enhanced, holistic, thematically anchored](../designs/school-collaborative-making-project-pattern.md)
+- [TaraCarp tangible tabletop environment for carpenter vocational training](../products/taracarp-tangible-tabletop-environment-for-carpenter-vocational-training.md)
 
 ## Key Sources
 - Peppler, K., Keune, A., Bender, S., & Yankova, N. (2025). Materialized Action: Reformulating the "Doing of" Math Through Fiber Crafting. *Cognition and Instruction, 43*(3), 175-200. [https://doi.org/10.1080/07370008.2025.2485070](https://doi.org/10.1080/07370008.2025.2485070)

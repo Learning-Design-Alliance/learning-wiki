@@ -43,4 +43,5 @@ Mixed-effects analysis of review-phase strategies coded from the screen recordin
 
 
 ## Related Claims
--
+
+- [Text amount and slide position strongly influenced studying durations, but picture type did not affect studying rate in either modality](slide-characteristics-drive-studying-duration.md)

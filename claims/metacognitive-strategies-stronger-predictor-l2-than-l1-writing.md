@@ -43,4 +43,5 @@ Multigroup SEM comparison of the two structural paths showed the L2 path (β = 0
 
 
 ## Related Claims
--
+
+- [L1 and L2 writing metacognitive strategy subcategories are strongly and positively correlated](strong-positive-correlations-l1-l2-writing-strategy-subcategories.md)

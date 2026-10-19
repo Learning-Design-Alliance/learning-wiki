@@ -61,7 +61,9 @@ Stoet G, Geary DC (2013) Sex Differences in Mathematics and Reading Achievement 
 - [Gender](../learner-variables/gender.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
+
 - [National gender-equality and human-development indicators show no consistent correlation with sex differences in mathematics or reading across the decade](no-consistent-correlation-gender-equality-sex-differences.md) — related
 - [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](pisa-sex-differences-math-small-reading-three-times-larger.md) — related
 - [The inverse relation between mathematics and reading sex differences also holds within nations across the performance continuum](within-nation-inverse-relation-performance-continuum.md) — related
 - [Girls scored lower than boys on fifth grade Numerical Operations, with the gap smaller in earlier grades, but no sex difference in fifth grade word reading](sex-difference-fifth-grade-numerical-operations.md) — related
+- [Shanghai students took first place in all three major PISA 2009 categories, with Asian countries dominating the top rankings](shanghai-first-place-pisa-2009-all-categories.md)

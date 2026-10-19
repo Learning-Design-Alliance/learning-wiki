@@ -180,6 +180,7 @@ Information processing models are often criticized as overly linear and serial, 
 - [Cognitive Load Theory: working-memory limits, human cognitive architecture, and three load types](clt-three-load-types-framework.md)
 - [Schema theory: learning new information depends on relating it to existing mental blueprints](schema-theory-prior-knowledge-scaffolding.md)
 - [Three-phase model of learning in the brain: encoding, consolidation, retrieval](three-phase-memory-model-encoding-consolidation-retrieval.md)
+- [Dual-process account of category access: general initial facilitation plus accumulating inhibition determined by the number of prior retrievals](facilitation-plus-accumulating-inhibition.md)
 
 ## Examples
 

@@ -28,7 +28,8 @@ MCD-v2 is a computerized adaptive cognitive diagnostic test developed by Vy Le e
 - [The 14-LO attribute structure improved DINA model fit over MCD-v1's four-skill structure for all three RBAs](../claims/14-lo-structure-improved-fit-over-mcd-v1.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Functional Aspects of Working Memory Test (FAWMT)](functional-aspects-of-working-memory-test-fawmt.md)
 
 ## Key Sources
 - Vy Le, Jayson M. Nissen, Jason W. Morphew, Hua Hua Chang, and Ben Van Dusen. (2026). Mechanics Cognitive Diagnostic: Testing Fine-Grained Learning Objectives in Introductory Physics. https://arxiv.org/abs/2609.09584

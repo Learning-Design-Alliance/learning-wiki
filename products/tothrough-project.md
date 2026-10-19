@@ -22,7 +22,7 @@ sources:
 # To&Through Project
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A public online data tool developed and maintained by the To&Through Project that lets users explore educational attainment rates by Chicago Public Schools school, district, and community area.
@@ -33,8 +33,14 @@ A public online data tool developed and maintained by the To&Through Project tha
 
 ### Claims
 
+- [Between 2006 and 2017, Chicago Public Schools saw large rises in freshman on-track, graduation, and college enrollment, with the greatest on-track increases among Black and Latino males](../claims/chicago-2006-2017-attainment-indicator-gains.md) [+W]
+
 ## Related Products and Programmes
--
+
+- [Practice-driven data](practice-driven-data.md)
+- [Freshman OnTrack indicator](freshman-ontrack-indicator.md)
+- [Success Project](success-project.md)
+- [Freshman OnTrack](freshman-ontrack.md)
 
 ## Key Sources
 - Mahaffie, S., Usher, A., Nagaoka, J., & McKoy, D. (2024). The educational attainment of Chicago Public Schools students: 2023. Chicago, IL: University of Chicago Consortium on School Research. https://toandthrough.uchicago.edu/tool/cps/

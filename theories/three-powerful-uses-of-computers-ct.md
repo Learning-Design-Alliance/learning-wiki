@@ -51,6 +51,7 @@ The report organizes computational thinking integration around three uses of com
 - [Integrate computational thinking into PreK-8 core subject matter rather than relying on stand-alone clubs and classes](../strategies/prek-8-ct-integration-over-stand-alone.md)
 - [Build computational thinking skills in the younger grades through plugged and unplugged activities](../strategies/develop-ct-skills-younger-grades.md)
 - [Incorporate CT skills into all teacher preparation programs, for all subject matters, with iterative guidance for non-STEM teachers](../strategies/ct-in-all-teacher-preparation-programs.md)
+- [Use the Computational Systems Modeling framework to guide curriculum integration, learning-tool design, and assessment of ST and CT](../strategies/framework-guides-curriculum-tools-assessment.md)
 
 ## Key Sources
 - Digital Promise. (2021, March). Powerful learning with computational thinking: Our why, what, and how of computational thinking. Digital Promise. https://doi.org/10.51388/20.500.12265/115

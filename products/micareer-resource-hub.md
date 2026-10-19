@@ -25,7 +25,8 @@ MiCareer Resource Hub is a Michigan Consortium for Addressing Rural Education Ex
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Talent Together registered teacher apprenticeship](talent-together-registered-teacher-apprenticeship.md)
 
 ## Key Sources
 - Charlotte Pierce. (2026). Strong Start, Strong Teachers: Supporting Teacher Preparation Programs for a Brighter Future. EdTrust-Midwest. https://midwest.edtrust.org

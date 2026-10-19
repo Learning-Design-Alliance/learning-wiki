@@ -43,4 +43,7 @@ Observational analysis of 40,235 ILSs where reuse (creating a copy of another us
 
 
 ## Related Claims
--
+
+- [ILS adoption rate increases across knowledge maturation stages, from 3.38% for individually created ILSs to 43.94% for published ILSs](ils-adoption-increases-across-maturation-stages.md)
+- [Logistic regression shows all traced KAM practices except fading are significant positive predictors of adoption, with maturation strongest (odds ratios up to 12.36) and model AUC = 0.79](logistic-regression-kam-practices-predict-adoption.md)
+- [Teachers who participated in ILSs with KAM practices were far more likely to be involved in an implemented ILS (42–53%) than the dataset average (16.27%)](teacher-level-kam-participation-linked-to-implemented-ils.md)

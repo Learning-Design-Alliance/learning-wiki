@@ -18,7 +18,7 @@ sources:
 # Insta-Reviewer
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 against) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Insta-Reviewer is a research-developed software system that extracts salient sentences from student project reports and uses a fine-tuned BART model to generate textual feedback.
@@ -28,8 +28,11 @@ Insta-Reviewer is a research-developed software system that extracts salient sen
 
 ### Claims
 
+- [Supervised fine-tuning was less effective than direct prompting of SOTA LLMs for generating deep-level feedback, a task with non-deterministic output](../claims/sft-less-effective-than-prompting-for-feedback-generation.md) [-W]
+
 ## Related Products and Programmes
--
+
+- [Dataset of 484 de-identified student project reports with instructor reviews collected over twelve semesters](dataset-of-484-de-identified-student-project-reports-with-instructor-reviews-collected-ove.md)
 
 ## Key Sources
 - Qinjin Jia, Mitchell Young, Yunkai Xiao, Jialin Cui, Chengyuan Liu, Parvez Rashid, Edward Gehringer. (2022). Automated Feedback Generation for Student Project Reports: A Data-Driven Approach. Journal of Educational Data Mining, Volume 14, No 3. https://github.com/qinjinjia/JEDM22_Automated_Feedback_Generation

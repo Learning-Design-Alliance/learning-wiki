@@ -17,7 +17,7 @@ sources:
 # CSCL teacher dashboard prototype for primary-school fractions with six activity indicators
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A teacher dashboard prototype built on MathTutor digital traces for dyads collaborating on fraction assignments, developed through "a teacher co-design methodology" with 10 teachers. It shows a start screen of five dyads and six indicators - attempts needed, chance of trial-and-error behavior, fraction-skill proficiency, activity over time, amount of talk, and solved assignments - with group and class overviews. Three versions differing in support (mirroring, alerting, advising) were created from it for the experiment.
@@ -39,7 +39,8 @@ A teacher dashboard prototype built on MathTutor digital traces for dyads collab
 - Monitoring dyads' cognitive and social collaboration on fraction assignments
 
 ### Claims
-- 
+
+- [Teacher interviews identified five types of monitored information and, via the Kano method, four highest-priority dashboard indicators for CSCL monitoring](../claims/teacher-interviews-prioritize-dashboard-indicators.md) [+W]
 
 ## Related Designs
 - 

@@ -12,7 +12,7 @@ generated:
 # Random-effects meta-analysis
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 3 studies (3 quant-synthesis), `q2`–`q3` · 1 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 This element is the quantitative synthesis itself: studies reporting effects of physical exercise on motor skills and executive functions in children with ADHD were identified "through Cochrane, PsycInfo, PubMed, Web of Science databases" and "Ten publications were selected." A "Random-effects model was used to calculate effect sizes", yielding the pooled estimates and moderator analyses reported in the article.
@@ -22,7 +22,9 @@ This element is the quantitative synthesis itself: studies reporting effects of 
 - **Random-effects meta-analytic synthesis of exercise studies in children with ADHD (ten publications)**: This element is the quantitative synthesis itself: studies reporting effects of physical exercise on motor skills and executive functions in children with ADHD were identified "through Cochrane, PsycInfo, PubMed, Web of Science databases" and "Ten publications were selected." A "Random-effects model was used to calculate effect sizes", yielding the pooled estimates and moderator analyses reported in the article. (Vysniauske et al. (2020))
 
 ### Claims
+
 - [Physical exercise has a significant modest positive effect on functional outcomes (executive functions and motor skills) in children with ADHD](../claims/exercise-improves-adhd-functional-outcomes.md) [+M]
+- [Meta-regression identifies exercise type, age, and study quality as significant moderators of chronic exercise effects on executive function](../claims/meta-regression-moderators-chronic-exercise-ef.md) [+M]
 
 ## Related Research Methods
 -

@@ -43,4 +43,6 @@ The commentary's reading of Trninic's (2018) case study, which skillfully compar
 
 
 ## Related Claims
+
 - [Whether EF gains are produced depends on how an activity is done: traditional tae kwon do reduced aggression while modern competitive martial arts worsened outcomes in juvenile delinquents](how-activity-done-matters-ef.md) — related
+- [Learners with BLV often cannot feel whether their wrist is straight while playing and discover misalignment only when someone else observes them](blv-wrist-alignment-undetectable-in-action.md)

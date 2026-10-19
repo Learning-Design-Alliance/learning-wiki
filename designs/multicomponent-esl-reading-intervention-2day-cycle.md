@@ -48,7 +48,8 @@ A research intervention delivered in small groups of two to four students in dai
 - [No Significant Growth Severe Adolescent Readers Either Condition](../claims/no-significant-growth-severe-adolescent-readers-either-condition.md) [+M]
 
 ## Related Designs
-- 
+
+- [Weekly instructional cycle combining whole-class fluency instruction with ability-differentiated small-group practice](weekly-fluency-cycle-ability-differentiated-practice.md)
 
 ## Examples
 -

@@ -62,4 +62,8 @@ Same repeated-measures ANOVA design applied to communicative (lecturing) episode
 
 
 ## Related Claims
--
+
+- [Culture differentiates communicative but not attentional teacher scanpaths once expertise is controlled](culture-differentiates-communicative-scanpaths.md)
+- [Teacher scanpaths are most dissimilar across combined expertise-and-culture sub-groups, significantly for attentional gaze and marginally for communicative gaze](expertise-culture-subgroup-scanpath-difference.md)
+- [Teacher scanpaths are more similar within expertise levels than across expertise once culture is controlled, for both attentional and communicative gaze](expertise-differentiates-teacher-scanpaths.md)
+- [Expert teachers begin gaze sequences with student fixation and return to students throughout, whereas Hong Kong experts intersperse student scans that UK experts never use](expert-scanpaths-student-fixation-recycling.md)

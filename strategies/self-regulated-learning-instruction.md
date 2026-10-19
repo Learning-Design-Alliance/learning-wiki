@@ -93,6 +93,8 @@ SRL instruction works best when strategy teaching is embedded in authentic subje
 - [Goal Setting](../elements/goal-setting.md) — the forethought phase made concrete; without specific goals, monitoring has no referent
 - [Self-Assessment](../elements/self-assessment.md) — the reflection phase; accurate self-evaluation drives strategy adjustment
 - [Formative Feedback](formative-feedback.md) — external feedback calibrates the internal monitoring SRL depends on
+- [Indirect training: prompting metacognitive regulation in regular subject classes to promote transfer across contexts](indirect-training-prompted-metacognitive-regulation.md)
+- [Teach problem-solving and study planning skills explicitly linked to language arts, science, and social studies standards](standards-linked-problem-solving-study-planning-instruction.md)
 
 ## Examples
 - **[Reciprocal Teaching](reciprocal_teaching.md) (Palincsar & Brown)** — small groups rotate the roles of summarizer, questioner, clarifier, and predictor while reading; the teacher models then fades, transferring regulation to students over ~20 sessions.

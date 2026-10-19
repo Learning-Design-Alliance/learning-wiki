@@ -43,4 +43,6 @@ Random-effects meta-analysis of 14 studies comparing poor reading and control gr
 
 
 ## Related Claims
--
+
+- [Poor readers show moderately elevated anxiety compared to typical readers (d = 0.41)](poor-readers-elevated-anxiety.md)
+- [Poor readers show a small but significant elevation in depression compared to typical readers (d = 0.23)](poor-readers-small-depression-elevation.md)

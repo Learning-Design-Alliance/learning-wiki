@@ -43,4 +43,5 @@ In the comparison across participant subgroups in the experience-sampling study,
 
 
 ## Related Claims
--
+
+- [School interactions of students with visual impairments were dominated by receiving help, with few involving giving help](school-interactions-receiving-help-not-giving.md)

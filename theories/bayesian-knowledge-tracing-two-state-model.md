@@ -82,6 +82,7 @@ The survey describes Bayesian Knowledge Tracing (BKT), introduced by Corbett and
 - [BKT Brute Force (BKT-BF): grid-search parameter estimation minimizing Residual Sum of Squares](bkt-brute-force-grid-search-estimation.md)
 - [Spectral BKT: a BKT variant combining feature compensation (3-gram observations) with model compensation (four latent states)](spectral-bkt-model.md)
 - [BKTransformer: transformer-based generation of temporally-evolving BKT parameters](bktransformer-temporal-bkt-parameters.md)
+- [OptimNN: neural-network parameter generation (hypernetwork) for optimizing BKT](optimnn-hypernetwork-parameter-generation.md)
 
 ## Examples
 

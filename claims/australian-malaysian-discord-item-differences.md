@@ -61,4 +61,6 @@ Same Rasch analysis of the Australian sample: the most difficult items to endors
 
 
 ## Related Claims
--
+
+- [Australian Islamic students reconcile discord over evolution by distinguishing belief from knowledge acquisition, learning content while suspending belief in it](belief-knowledge-distinction-reconciles-discord.md)
+- [Malaysian Muslim students' discord scores are inversely related to sophistication of epistemological beliefs](discord-inversely-related-epistemological-beliefs.md)

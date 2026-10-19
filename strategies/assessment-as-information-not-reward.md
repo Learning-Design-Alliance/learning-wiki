@@ -17,7 +17,7 @@ sources:
 # Design assessment as information, not reward and punishment, and provide an engaging curriculum with choice and community
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 6 claims (6 for) · 7 studies (4 review, 2 quant-synthesis, 1 causal), `q1`–`q4` · 1 of 7 report an effect size · 5 claims rest on one study
 
 ## Description
 The digest recommends assessment practices that help students "experience success and failure not as reward and punishment, but as information," thereby avoiding the detrimental effects of grading. More broadly, it concludes children become enthusiastic lifelong learners when provided an engaging curriculum, a safe caring community in which to discover and create, and significant choice about what, how, and why they learn.
@@ -38,8 +38,18 @@ The digest recommends assessment practices that help students "experience succes
 - Creative thinking
 - Preference for challenging tasks
 
+## Claims
+
+- [Grades themselves, regardless of formula, detrimentally affect creative thinking, long-term retention, interest in learning, and preference for challenging tasks](../claims/grades-detrimental-creative-thinking-retention.md) [+W]
+- [People offered a reward generally choose the easiest possible task, whereas children without rewards pick tasks just beyond their current ability](../claims/rewards-easiest-task-choice.md) [+W]
+- [People expecting a reward for a task perform worse than those expecting nothing, especially on tasks requiring cognitive sophistication and open-ended thinking](../claims/rewards-reduce-task-performance.md) [+W]
+- [Rewards cause people to lose interest in whatever they were rewarded for doing, undermining intrinsic motivation](../claims/rewards-undermine-intrinsic-interest.md) [+W]
+- [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](../claims/rewards-undermine-intrinsic-motivation.md) [+M]
+- [Instruction should present the learning task as engaging and meaningful and promote positive expectations of success, because effort requires that learners value the task and believe they can succeed](../claims/effort-requires-task-value-and-expectation-of-success-arcs-rationale.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Building a Supportive Classroom Environment for Mistakes](building_a_supportive_classroom_environment_for_mistakes.md)
 
 ## Examples
 -

@@ -43,4 +43,6 @@ Dependent-samples t-tests (Holm-Bonferroni corrected) on three attitude scales i
 
 
 ## Related Claims
--
+
+- [The VR application did not increase students' interest in biodiversity, and only the academic-track control group showed a significant interest increase](vr-did-not-increase-interest.md)
+- [Both a VR application and a traditional lesson increased students' self-appraised knowledge about the Amazon rainforest and biodiversity](vr-and-traditional-lesson-increase-self-appraised-knowledge.md)

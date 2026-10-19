@@ -43,4 +43,5 @@ HLM contrasts with energy can transfer (ECT) as reference found POT, COM, and EC
 
 
 ## Related Claims
--
+
+- [Persistence varies both within and between students, warranting multilevel modeling, and level-1 predictors explained 18% of variance](multilevel-structure-of-gameplay-persistence.md)

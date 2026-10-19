@@ -43,4 +43,5 @@ Null result from the summary measures in the European Virtual Seminar experiment
 
 
 ## Related Claims
--
+
+- [Scripted conditions more often produced a discussion phase on differences between group members, but no quality differences in those discussions were detected](script-increases-discussion-on-differences.md)

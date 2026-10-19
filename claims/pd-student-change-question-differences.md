@@ -43,4 +43,6 @@ Chi-square analysis of student CQ responses in three groups (N = 239). Of the co
 
 
 ## Related Claims
--
+
+- [Co-designers' perceptions improved in some classes but unexpectedly decreased more than controls in others](pd-codesigner-perceptions-mixed.md)
+- [Teachers who held participatory design meetings reported changes in educational practice far more frequently than control teachers](pd-teachers-reported-more-changes.md)

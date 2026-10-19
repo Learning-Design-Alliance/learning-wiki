@@ -13,7 +13,7 @@ generated:
 # Korean alphabet writing assessment for handwriting legibility
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A short-range copying assessment that measures preschool children's handwriting legibility by having them reproduce Korean alphabet letters in designated boxes; it was used by Seo S-M (2018).
@@ -22,6 +22,8 @@ A short-range copying assessment that measures preschool children's handwriting 
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
+- [Fine motor precision and manual dexterity are positively correlated with handwriting legibility in preschool children, and Functional Dexterity Test time is inversely correlated](../claims/fine-motor-skills-correlate-handwriting-legibility-preschool.md) [+W]
 
 ## Related Products and Programmes
 -

@@ -43,4 +43,6 @@ Gender and subject-level analyses of the survey (Table 1, Tables 4 and 5). The a
 
 
 ## Related Claims
+
 - [Cognitive strategy use was highest in social studies and lowest in mathematics, and females reported more use than males](cognitive-strategy-use-varies-by-subject-area.md) — related
+- [Graduate attribute attainment correlates only extremely weakly with years spent at university](weak-correlation-year-of-study-graduate-attributes.md)

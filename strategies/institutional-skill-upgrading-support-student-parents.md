@@ -38,7 +38,8 @@ The article recommends that institutions support student parents in upgrading ac
 - persistence and retention in post-secondary study
 
 ## Related Strategies
-- 
+
+- [Recognize student parents as a distinct population rather than subsuming them within mature or non-traditional learners](student-parents-distinct-population-recognition.md)
 
 ## Examples
 -

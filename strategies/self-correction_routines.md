@@ -67,6 +67,7 @@ Self correction works because it activates self-monitoring during learning: lear
 - [Retrieval practice](retrieval-practice-activities.md) — self-testing with an answer key is a self correction routine applied to memory rather than to drafts
 - [Put students in charge of soliciting grammatical feedback through pre-taught correction questions](student-initiated-correction-questions.md)
 - [Realign: deploy Socratic withholding protocols that delay direct answers for conceptual or diagnostic queries](realign-socratic-withholding-protocol.md)
+- [Use self-scoring against correct answers as a tool to foster primary students' monitoring accuracy during math problem-solving practice](self-scoring-foster-monitoring-accuracy-strategy.md)
 
 ## Examples
 - **Writing revision checklists** — Students use a COPS-style checklist (Capitalization, Organization, Punctuation, Spelling) to self-edit drafts before peer or teacher review; the routine is taught with modeled think-alouds first.

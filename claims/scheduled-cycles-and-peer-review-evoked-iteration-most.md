@@ -62,4 +62,5 @@ Same log-file criteria applied to the day-four interventions: the resources e-ma
 
 
 ## Related Claims
--
+
+- [All subjects iterated while designing a training simulator specification, with iteration counts ranging from 10 to 30](all-subjects-iterated-log-evidence.md)

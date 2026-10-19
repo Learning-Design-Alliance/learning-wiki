@@ -27,7 +27,8 @@ A UNESCO framework for evaluating whether generative-AI policies address ethical
 - [Nordic countries and New Zealand cover UNESCO's GenAI framework elements more fully than some higher-ranked AI Preparedness Index countries, so AIPI ranking does not guarantee strong GenAI policies](../claims/aipi-ranking-does-not-guarantee-strong-genai-policies.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [UNESCO Recommendation on the Ethics of Artificial Intelligence](unesco-recommendation-on-the-ethics-of-artificial-intelligence.md)
 
 ## Key Sources
 - Adarkwah, M. A., Ercan, A. M., Schneider, K., & Bayar, E. (2026). Generative Artificial Intelligence Policy: A Qualitative UNESCO Framework Analysis. Journal of University Teaching and Learning Practice, 23(2). https://doi.org/10.53761/801ryw41

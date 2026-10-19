@@ -42,7 +42,9 @@ The article recommends that mobile learning design take the target users' existi
 
 
 ## Related Strategies
-- 
+
+- [Design adult learning products with short lessons, visualizations, mobile-first simplicity, and contextualized content integrating basic and job skills](adult-edtech-design-short-mobile-first-contextualized.md)
+- [Embed situated, context-triggered language learning activities in learners' everyday environments](situated-context-triggered-language-learning.md)
 
 ## Examples
 -

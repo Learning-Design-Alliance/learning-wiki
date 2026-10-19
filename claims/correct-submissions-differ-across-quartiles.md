@@ -43,4 +43,7 @@ Kruskal-Wallis analysis of trace event frequencies across the four quartiles of 
 
 
 ## Related Claims
--
+
+- [Frequency of incorrect quiz submissions differs across performance quartiles, with low performers submitting incorrect answers most often](incorrect-submissions-differ-across-quartiles.md)
+- [Process mining shows low performers access solutions more and transition to hints after incorrect submissions more than high performers](process-mining-transitions-differ-by-quartile.md)
+- [Low-performing students access solutions more often than higher-performing students, while hint access does not differ across quartiles](solution-access-differs-hints-do-not.md)

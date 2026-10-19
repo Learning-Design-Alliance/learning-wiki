@@ -31,7 +31,8 @@ Imagine Math is Imagine Learning's adaptive digital supplemental mathematics lea
 - [Imagine Math effects were statistically significant for Indiana grades 3–5 (ES +0.13) but not for other grade bands or for Texas students](../claims/imagine-math-indiana-grades-3-5-significant-texas-null.md) [~W]
 
 ## Related Products and Programmes
--
+
+- [Imagine IM](imagine-im.md)
 
 ## Key Sources
 - Imagine Math by Imagine Learning: Evidence Rating Promising. (2024). https://www.imaginelearning.com/imagine-math

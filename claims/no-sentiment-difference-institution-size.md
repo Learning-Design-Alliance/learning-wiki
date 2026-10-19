@@ -43,4 +43,6 @@ Sentiment analysis of the 214-document corpus across institution sizes: small (m
 
 
 ## Related Claims
+
 - [Sentiment toward GenAI in university guidelines is highly positive and does not differ significantly between private and public institutions](no-sentiment-difference-private-public-genai-guidelines.md) — related
+- [University-wide AI policies in US R1/R2 institutions are moderately positive in sentiment toward AI adoption](university-ai-policies-moderately-positive-sentiment.md)

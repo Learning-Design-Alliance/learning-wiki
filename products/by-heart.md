@@ -27,7 +27,8 @@ A memorization application that uses one card type with three learner-selectable
 - [Retrieval Practice Improves Transfer](../claims/retrieval-practice-improves-transfer.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Memdora](memdora.md)
 
 ## Key Sources
 - Ruiyang Zhang. (2027). Memdora: Designing Cognitively-Grounded Flashcard Interactions for AI-Powered Spaced Repetition. Proceedings of ACM International Conference on Intelligent User Interfaces (IUI '27). https://arxiv.org/abs/2607.25096

@@ -43,4 +43,5 @@ Utterance-level coding of audio recordings for both groups, with I-positions gro
 
 
 ## Related Claims
--
+
+- [Group A, who failed the learning task, devoted most dialogues to orientation and conceptualization and asked yes-no questions at the personal level, while group B, who succeeded, distributed dialogue across investigation and discussion](group-df-distribution-outcome-cscl-dst.md)

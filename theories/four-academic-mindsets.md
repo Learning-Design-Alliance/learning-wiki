@@ -53,6 +53,7 @@ The review defines academic mindsets as psycho-social attitudes or beliefs about
 - [Growth Mindset Feedback](../strategies/growth_mindset_feedback.md)
 - [Effort-Based Praise](../strategies/effort-based_praise.md)
 - [Set a High Bar for Each Student](../strategies/set_a_high_bar_for_each_student.md)
+- [Classroom strategies for developing student psycho-social supports and academic mindsets](../strategies/classroom-psycho-social-support-strategies.md)
 
 ## Key Sources
 - Farrington, C.A., Roderick, M., Allensworth, E., Nagaoka, J., Keyes, T.S., Johnson, D.W., & Beechum, N.O. (2012). Teaching adolescents to become learners. The role of noncognitive factors in shaping school performance: A critical literature review. Chicago: University of Chicago Consortium on Chicago School Research. https://consortium.uchicago.edu/publications/teaching-adolescents-become-learners-role-noncognitive-factors-shaping-school

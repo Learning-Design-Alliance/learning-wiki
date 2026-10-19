@@ -40,7 +40,8 @@ The SMALLab mixed-reality classroom design, presented by Birchfield and Megowan-
 - 
 
 ## Related Designs
-- 
+
+- [Intelligent Mixed-Reality Exhibit](intelligent-mixed-reality-exhibit.md)
 
 ## Examples
 -

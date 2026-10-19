@@ -43,4 +43,8 @@ Behavioural analysis of comprehension Z scores from 48 children (24 per group) a
 
 
 ## Related Claims
--
+
+- [Bilingual children show a flatter pattern of attended-speech encoding across conditions, driven by weaker encoding in low- or no-interference conditions](bilingual-flatter-attended-encoding-pattern.md)
+- [The study found no evidence for enhanced attentional capacity in bilingual children, behaviourally or neurally](no-bilingual-attentional-capacity-enhancement.md)
+- [Unattended Musical Rain streams were better reconstructed than unattended linguistic distractors in both groups, with stronger MuR encoding in monolinguals](unattended-mur-stronger-encoding.md)
+- [A right-ear advantage appears in both dichotic listening tasks and decreases with age on the Dichotic Sentences subtest](right-ear-advantage-dichotic-tasks-decreases-with-age.md)

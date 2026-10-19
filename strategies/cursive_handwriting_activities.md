@@ -59,9 +59,11 @@ Handwriting is a perceptual-motor skill that must become automatic before it can
 7. Transfer to authentic use: dictation, then short self-generated compositions, so the skill is exercised under real writing demands.
 
 ## Related Strategies
+
 - Print handwriting instruction — the developmental precursor; cursive builds on established print letter knowledge
 - Dictation activities — a natural transfer context requiring fluent, automatic formation
 - Copying with fading — the core practice structure moving from modeled to independent production
+- [Ensure fluent handwriting before expecting executive resources to support higher-level composition](fluent-handwriting-frees-ef-for-composition.md)
 
 ## Examples
 - **Handwriting Without Tears** (Learning Without Tears, https://www.lwtears.com) — multisensory cursive curriculum using letter-family grouping, verbal stroke cues, and manipulative letter pieces

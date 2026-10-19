@@ -47,7 +47,8 @@ Math Corps is an intensive summer mathematics camp for middle school students fo
 - [Participation in the Math Corps summer program had a large and statistically significant impact on college enrollment](../claims/math-corps-large-significant-impact-college-enrollment.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Elevate Math summer program](elevate-math-summer-program.md)
 
 ## Key Sources
 - Barbara Harris, Lindsay Fox. (2021). Math Corps Successfully Replicated. Mathematica. https://www.mathematica.org/publications/math-corps-successfully-replicated

@@ -105,6 +105,8 @@ Prompts work by triggering self-explanations and strategic processing that learn
 
 **[Self-explanation prompt studies](../strategies/self-explanation-prompts.md)** — Chi et al.'s prompted self-explanation paradigm: learners studying worked examples are asked "what is this step doing?" at each line, producing large gains over studying examples silently.
 - [Revise educational SLM system prompts using the Persona and Context Manager patterns plus cognitive-apprenticeship scaffolding guidelines](../strategies/educational-prompt-patterns-persona-context-manager-apprenticeship.md)
+- [Indirect training: prompting metacognitive regulation in regular subject classes to promote transfer across contexts](../strategies/indirect-training-prompted-metacognitive-regulation.md)
+- [Design CSCL environments to remind learners to think as a group and scaffold cognitive group awareness](../strategies/reminders-group-thinking-and-group-awareness-cscl.md)
 
 ## Key Sources
 - Chi, M. T. H., Bassok, M., Lewis, M. W., Reimann, P., & Glaser, R. (1989). Self-explanations: How students study and use examples in learning to solve problems. *Cognitive Science, 13*(2), 145–182. [doi:10.1207/s15516709cog1302_1](https://doi.org/10.1207/s15516709cog1302_1)

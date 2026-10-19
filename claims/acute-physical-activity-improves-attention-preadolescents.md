@@ -43,4 +43,6 @@ Meta-analysis pooling 6 acute physical activity intervention studies in children
 
 
 ## Related Claims
+
 - [Evidence for effects of acute bouts of physical activity on children's attention is weak and inconclusive](acute-physical-activity-children-attention-weak-evidence.md) — reports the opposite
+- [Longitudinal physical activity programs show a positive effect on attention in preadolescent children (g = 0.90), based on a single study](longitudinal-physical-activity-improves-attention-single-study.md)

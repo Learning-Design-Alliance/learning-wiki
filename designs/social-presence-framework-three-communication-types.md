@@ -40,7 +40,8 @@ The article uses a social presence framework comprising three communication type
 - 
 
 ## Related Designs
-- 
+
+- [Learning buddy chatbot guiding EFL students through online listening practice](learning-buddy-chatbot-social-presence-listening.md)
 
 ## Examples
 -

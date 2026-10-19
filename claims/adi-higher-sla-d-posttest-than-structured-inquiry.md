@@ -43,4 +43,9 @@ Quasi-experiment with two intact classes (34 ADI, 33 comparison) taught by the s
 
 
 ## Related Claims
--
+
+- [The ADI group showed significant within-group gains on demonstrated scientific literacy from pre- to post-test, while the structured-inquiry group did not](adi-within-group-sla-d-gain-comparison-null.md)
+- [ADI students' item-level gains concentrated on items about determining variables for a research question and on scientific inquiry questions](adi-item-level-gains-variables-inquiry-items.md)
+- [ADI students scored significantly higher than structured-inquiry students on the personal epistemology of science subscale, but not on value of science or self-efficacy subscales](adi-personal-epistemology-gain-only-subscale.md)
+- [Interviewed ADI students reported engaging in scientific practices such as identifying variables, finding patterns in data, and developing methods, while no comparison-group students did](interviews-adi-scientific-thinking-practices.md)
+- [Scientific literacy post-test scores, critiquing performance, and inquiry performance were closely related](posttest-critique-inquiry-performance-relation.md)

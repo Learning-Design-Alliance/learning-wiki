@@ -17,7 +17,7 @@ sources:
 # Use alert-guided dashboard support so teachers can concentrate on interpreting student answers while the system flags critical collaboration moments
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 6 claims (5 for, 1 against) · 3 studies (2 causal, 1 theoretical), `q2` · 1 of 3 report an effect size · 6 claims rest on one study
 
 ## Description
 Under guiding support, automatic alerts flag critical moments (e.g. missing keywords, slow submissions or voting) so that alerts "are very quick to read and do not disturb my tasks, they are helpful to react to certain moments of the activity". Teachers reacted to alerts by increasing time, pausing the activity to give guidelines, posting predefined messages to lagging groups, and making announcements about time and phase transitions. All six teachers agreed the alerts provided guidance to act and their number was adequate.
@@ -35,6 +35,15 @@ Under guiding support, automatic alerts flag critical moments (e.g. missing keyw
 
 ### Target Learning Goals
 - timely detection and remediation of problematic group participation during scripted collaboration
+
+## Claims
+
+- [Guiding dashboard support enabled teachers to perform more orchestration actions, more targeted interactions, and more class announcements than mirroring support](../claims/guiding-support-more-orchestration-actions-than-mirroring.md) [+W]
+- [Guiding support stimulated targeted interactions: teachers posted more messages to groups (14 vs 4) and performed more dashboard interventions than under mirroring](../claims/guiding-support-stimulated-targeted-group-interactions.md) [+W]
+- [Teachers reported the highest confidence in their situational awareness in the alerting & guiding dashboard condition](../claims/teacher-confidence-highest-with-guiding-dashboard.md) [+W]
+- [The alerting & guiding dashboard did not increase teacher coregulation more than the mirroring dashboard (H3 not supported); mirroring increased intervention rates (non-significant) while guiding-condition interventions were rare and mostly coregulation strategies](../claims/guiding-dashboard-did-not-increase-coregulation.md) [-W]
+- [Mirroring dashboards improved teacher situational awareness while alerting-and-guiding dashboards reduced teacher workload and frustration](../claims/mirroring-alerting-dashboards-teacher-withitness.md) [+W]
+- [The alerting & guiding dashboard reduced teachers' overall workload more than the mirroring dashboard in authentic settings (H2 supported)](../claims/alerting-guiding-dashboard-reduces-teacher-workload.md) [+W]
 
 ## Related Strategies
 - 

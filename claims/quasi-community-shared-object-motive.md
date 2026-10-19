@@ -43,4 +43,5 @@ Ethnographic case study evidence from the mariners' course: introductions on day
 
 
 ## Related Claims
--
+
+- [Participation in the quasi-community pedagogy was followed by very high success in the certification examination](quasi-community-high-certification-success.md)

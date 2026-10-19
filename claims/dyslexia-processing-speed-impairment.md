@@ -41,4 +41,6 @@ Case-control ANOVA on the computerized coding task (Wechsler, 2003), scored as t
 
 
 ## Related Claims
--
+
+- [Adults with developmental dyslexia are slower than controls at speeded digit identification](dyslexia-slower-digit-identification.md)
+- [Children with developmental dyslexia show a significant updating impairment at the error z-mean composite level, which remains after controlling for processing speed](dyslexia-updating-error-composite-impairment.md)

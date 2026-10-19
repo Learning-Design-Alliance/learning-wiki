@@ -43,4 +43,7 @@ Correlational analysis relating diffusion-based centralities to coded interactio
 
 
 ## Related Claims
--
+
+- [Student roles discovered by clustering diffusion-based centralities were validated with coded data and relate meaningfully to academic performance](clustering-diffusion-centralities-validated-roles.md)
+- [In a correlation meta-analysis across 69 course offerings, diffusion-based centralities correlated with academic achievement with high combined coefficients and predictive intervals](diffusion-centralities-meta-analysis-achievement.md)
+- [Prior SNA studies of centrality-achievement links in CSCL show inconsistent, mostly small-sample results, with betweenness and closeness the most inconsistent measures](traditional-centralities-inconsistent-literature.md)

@@ -43,4 +43,6 @@ Descriptive duration analysis across the three channels for 25 participants. The
 
 
 ## Related Claims
--
+
+- [Adding peripheral data to navigational logs sharply changes the detected distribution of SRL processes, revealing many more Organisation and far fewer First-reading processes](peripheral-data-changes-srl-process-distribution.md)
+- [Adding data channels refines roughly 29–52% of detected SRL process time, measured by a new percent-of-processes-refined metric](percent-processes-refined-metric-results.md)

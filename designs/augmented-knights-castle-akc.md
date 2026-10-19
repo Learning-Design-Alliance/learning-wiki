@@ -17,7 +17,7 @@ sources:
 # Augmented Knights' Castle (AKC): an RFID-augmented Playmobil playset producing context-relevant sounds
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The Augmented Knights' Castle is "an audio-enhanced Playmobil® medieval castle playset designed to let play ﬁgures 'come alive.'" Play figures carry RFID tags identifying their location, so placing a figure in a specific location produces a previously-programmed context-relevant sound, such as a knight saying "Shall we watch the jousting?" in the courtyard or "Defend the castle!" on the drawbridge. The Study 2 version had around 20 characters with 9 speaking roles at 12 positions, making 55 location-character combinations of sounds, including factual information, sound effects, conversational turns and suggestions. The article uses the AKC both as a play environment and as an experimental instrument for manipulating attention capture.
@@ -39,8 +39,11 @@ The Augmented Knights' Castle is "an audio-enhanced Playmobil® medieval castle 
 - collaborative narrative construction
 
 ### Claims
+
 - [Audio Augmented Toy Doubles Cooperative Play Study1](../claims/audio-augmented-toy-doubles-cooperative-play-study1.md) [+M]
 - [Attention Bids More Successful Augmented Toy](../claims/attention-bids-more-successful-augmented-toy.md) [+M]
+- [The augmentation effect on cooperative play replicated in Study 2, with a large playset-by-behavior interaction and no overlap in confidence intervals](../claims/cooperative-play-replicated-study2-interaction.md) [+W]
+- [Groups with the augmented toy used more balanced narrative roles, with more narrator and fewer metanarrator utterances](../claims/narrative-roles-more-balanced-augmented-toy.md) [+W]
 
 ## Related Designs
 - 

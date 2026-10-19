@@ -17,7 +17,7 @@ sources:
 # Frame cheat sheet creation as a structured learning activity rather than merely permitting notes
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 This strategy positions instructors to present cheat sheet preparation as part of the learning process itself: "By framing cheat sheet creation as a structured learning activity, rather than simply permitting students to bring notes, instructors can position students as active participants in their own learning." Selecting, organizing, and synthesizing material become the learning activity, aligning with active learning and handwriting's cognitive reprocessing benefits as the article cites them. It treats cheat sheets as pedagogical artifacts rather than logistical tools or exam loopholes.
@@ -37,6 +37,10 @@ This strategy positions instructors to present cheat sheet preparation as part o
 - prioritization and synthesis of course content
 - metacognitive awareness of knowledge gaps
 - exam preparation skills
+
+## Claims
+
+- [Preferences for instructor-provided sheets were grounded in trust, alignment and efficiency, while self-created preferences reflected personalization, control and studying through creation](../claims/trust-efficiency-versus-personalization-choice-rationales.md) [+W]
 
 ## Related Strategies
 - 

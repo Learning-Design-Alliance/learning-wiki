@@ -43,4 +43,6 @@ This is a participant viewpoint (Derek's) reported in the results of the intervi
 
 
 ## Related Claims
+
 - [TEL design is not a distinct teacher competence but part of ordinary learning design](tel-not-distinct-teacher-competence.md) — related
+- [Designers develop cultural awareness through both informal exposure and formal intentional means](awareness-developed-informal-formal-means.md)

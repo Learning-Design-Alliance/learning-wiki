@@ -43,4 +43,6 @@ Cross-sectional moderator analysis by cognitive domain (Table 3): perception g =
 
 
 ## Related Claims
--
+
+- [Action video game training causally improves cognitive skills relative to active control training (small effect, g = 0.30)](avg-training-causal-improvement-g-030.md)
+- [Multitasking performance on NeuroRacer declines linearly across the adult lifespan from ages 20 to 79](neuroracer-multitasking-cost-linear-age-decline.md)

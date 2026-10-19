@@ -66,6 +66,7 @@ A culture of error changes what learners do with mistakes: instead of concealing
 - **Growth mindset framing** — the belief component; effective only when paired with structural changes described here
 - [Design class-wide grammar lessons from common journal errors, and let students catalogue their own errors](class-wide-error-lessons-and-error-cataloguing.md)
 - [Normalize and de-stigmatize help-seeking behavior in the classroom so academic help-seeking habits carry over to health issues](normalize-destigmatize-help-seeking-classroom.md)
+- [Design computational learning environments to treat seeming mistakes as expansion possibilities and surface material contributions](value-mistakes-and-material-contributors-design.md)
 
 ## Examples
 - **My Favorite Mistake routine** (widely used in math classrooms, popularized by Teach Like a Champion practice): the teacher selects an anonymous student error and leads the class in analyzing what the error reveals and how to fix it, positioning the error-maker as having contributed something valuable.

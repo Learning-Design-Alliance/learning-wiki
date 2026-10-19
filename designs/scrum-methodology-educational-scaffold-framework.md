@@ -43,7 +43,8 @@ Scrum methodology is "a project management framework" from business and industry
 - Scrum Methodology Improves Context Based Chemistry Achievement [+M]
 
 ## Related Designs
-- 
+
+- [Digital Technologies project framework: semester-spanning agile Scrum projects as an integral third of a robotics-relevant CS curriculum](digital-technologies-agile-project-framework.md)
 
 ## Examples
 -

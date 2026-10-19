@@ -43,4 +43,6 @@ A controlled comparison study with 382 4th and 5th grade students using an intel
 
 
 ## Related Claims
--
+
+- [Virtual group tutoring with Cignition improved 5th-grade students' fractions knowledge by 9 percentage points (ES = 0.44 SD) in an RCT](cignition-group-tutoring-fractions-gain-0-44.md)
+- [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](cooperative-learning-group-rewards-and-individual-accountability.md)

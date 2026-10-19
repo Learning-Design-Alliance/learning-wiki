@@ -13,7 +13,7 @@ generated:
 # KBDeX (Knowledge Building Discourse Explorer)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 KBDeX is a social network analysis tool developed by Oshima and colleagues for visualizing and analyzing collaborative ideas and discourse in knowledge-building communities.
@@ -24,8 +24,13 @@ KBDeX is a social network analysis tool developed by Oshima and colleagues for v
 
 ### Claims
 
+- [KBDeX visualization and knowledge building rubrics engaged PSTs in continuous monitoring, analysis, negotiation, synthesis, and identification of promising inquiry routes](../claims/kbdex-rubric-reflection-enabled-continuous-monitoring-synthesis-inquiry.md) [+W]
+
 ## Related Products and Programmes
--
+
+- [iTalk-iSee](italk-isee.md)
+- [Knowledge Connections Analyzer (KCA)](knowledge-connections-analyzer-kca.md)
+- [MEME (Modeling and Evidence Mapping Environment)](meme-modeling-and-evidence-mapping-environment.md)
 
 ## Key Sources
 - Yang, Y., Zhu, G., Sun, D., & Chan, C. K. K. (2022). Collaborative analytics-supported reflective Assessment for Scaffolding Pre-service Teachers’ collaborative Inquiry and Knowledge Building. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-022-09372-y

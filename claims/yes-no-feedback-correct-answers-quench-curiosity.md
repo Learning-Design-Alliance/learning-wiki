@@ -46,7 +46,9 @@ Experiment 2, a within-subjects study of 80 Columbia/Barnard students with yes/n
 - [Interest](../learner-variables/interest.md) — outcome: instruction changes it
 
 ## Related Claims
+
 - [Curiosity ratings are functionally distinct from subjective uncertainty ratings: uncertainty declines near-linearly with confidence while curiosity is inverted-U shaped](curiosity-distinct-from-subjective-uncertainty.md) — related
 - [Without feedback, people are more curious about high-confidence errors than about equally high-confidence correct answers, replicated across experiments](no-feedback-high-confidence-errors-more-curiosity.md) — related
 - [Yes/no feedback that one was wrong increased curiosity selectively for high-confidence errors, leaving curiosity about low-confidence errors largely unchanged](yes-no-feedback-high-confidence-errors-increase-curiosity.md) — related
 - [Second-order metacognitive judgments of subjective uncertainty show a small high-confidence error/correct difference, smaller than curiosity ratings show](second-order-metacognition-smaller-error-difference.md) — related
+- [Low and medium Knowledge Confidence heighten curiosity, contradicting the predicted inverted U-shaped relationship](low-medium-knowledge-confidence-heighten-curiosity.md)

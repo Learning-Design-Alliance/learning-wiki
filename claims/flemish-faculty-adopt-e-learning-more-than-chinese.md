@@ -43,4 +43,6 @@ Interview-based classification of adopters among 60 Chinese and 30 Flemish teach
 
 
 ## Related Claims
--
+
+- [Chinese teachers emphasize competition among students more than Flemish teachers, while perceived power distance and collaboration are similar across the two groups](chinese-teachers-emphasize-competition-more.md)
+- [Chinese university teachers stress the expert, authority and model teacher roles to a larger extent than Flemish teachers, with no group difference in facilitator or delegator roles](chinese-teachers-stress-expert-authority-model-roles-more.md)

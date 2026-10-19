@@ -30,7 +30,9 @@ The California Department of Education's California Healthy Kids Survey, adminis
 - [Transgender students in every race/ethnicity group report harassment at least twice the rate of non-transgender peers (60%+ vs. 32% or less)](../claims/transgender-students-double-harassment-rates.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Combined TRUST and Panorama Teacher and Staff Survey instrument](combined-trust-and-panorama-teacher-and-staff-survey-instrument.md)
+- [New York City middle school student safety survey panel dataset](new-york-city-middle-school-student-safety-survey-panel-dataset.md)
 
 ## Key Sources
 - Project Cal-Well: Building Sustainable School-Based Mental Health Systems. (2024). WestEd. https://wested.org

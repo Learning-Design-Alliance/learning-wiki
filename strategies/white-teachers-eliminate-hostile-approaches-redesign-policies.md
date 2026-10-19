@@ -17,7 +17,7 @@ sources:
 # White teachers eliminate race-related hostile approaches and redesign school cultural policies to support Black students' belonging
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review's discussion recommends that White teachers in schools upholding Whiteness make academic adjustments by eliminating race-related hostile approaches and re-assessing school cultural policies. Specifically, "White teachers should make necessary academic adjustments by cautiously eliminating some race-related approaches that promote hostility of campus racial climate against Black students, such as having negative perceptions and exhibiting negative behaviors against Black students." Teachers should also "re-assess and re-design school cultural policies and include diverse racial programs" supporting Black students' racial adjustment.
@@ -42,6 +42,10 @@ The review's discussion recommends that White teachers in schools upholding Whit
 ### Affordances
 - Crt Framework Institutional Racism Schools
 - Racial Battle Fatigue Framework
+
+## Claims
+
+- [White teachers' deficit thinking about Black students produces a negative campus racial climate and unfriendly teacher-student relationships](../claims/deficit-thinking-negative-climate-relationships.md) [+W]
 
 ## Related Strategies
 - 

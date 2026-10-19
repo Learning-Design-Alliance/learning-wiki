@@ -43,6 +43,8 @@ SEM path analysis of National Mindset Study control-group data (1,886 ninth-grad
 
 
 ## Related Claims
+
 - [In the full model, teacher math anxiety relates to lower ninth-grade GPA through a chain of reduced process-oriented practices and students' perceptions of a teacher fixed mindset](full-model-anxiety-practices-mindset-gpa-chain.md) — related
 - [Higher teacher math anxiety relates to fewer process-oriented teaching practices as reported by students, which partially explains students' perception of the teacher's fixed mindset](teacher-anxiety-reduces-process-oriented-practices-via-perceived-mindset.md) — related
 - [Students' perceptions of their teacher's fixed mindset partially mediate the relationship between teacher math anxiety and student math achievement](perceived-teacher-fixed-mindset-partially-mediates-anxiety-achievement.md) — related
+- [Teachers' usable mathematical teaching knowledge does not explain the relationship between teacher math anxiety and students' perceptions of teacher fixed mindset](usable-teaching-knowledge-does-not-explain-anxiety-mindset-link.md)

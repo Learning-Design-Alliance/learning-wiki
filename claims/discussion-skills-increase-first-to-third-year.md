@@ -62,4 +62,5 @@ Same qualitative comparative case study; the discussion section reports cross-in
 
 
 ## Related Claims
--
+
+- [Four cultural factors inhibit students from speaking up, asking questions and challenging others in PBL discussions, with stronger impact in non-Western schools](four-cultural-factors-inhibit-discussion-behaviors.md)

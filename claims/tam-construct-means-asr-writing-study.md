@@ -43,5 +43,7 @@ Descriptive statistics from the TAM-informed survey (Table 1) report means out o
 
 
 ## Related Claims
+
 - [Through Chapelle's CALL evaluation criteria, participants experienced ASR writing as useful, authentic, meaning-focused, and matched to their proficiency level](chapelle-criteria-asr-writing-affordances.md) — related
 - [Adult ESL learners report above-neutral perceptions of ASR as a writing tool on usefulness, ease of use, and intention to use](esl-learners-positive-perceptions-asr-writing.md) — a broader claim this one bears on
+- [Assignment support was the highest-rated Class Companion function (83% Effective/Very Effective, M = 3.38), while assessing knowledge and skills was the lowest (71%)](assignment-support-highest-rated-ai-companion-function.md)

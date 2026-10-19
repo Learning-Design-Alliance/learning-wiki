@@ -61,9 +61,11 @@ Brief expressive writing about worries reliably improves performance under press
 6. Do not provide evaluative [Feedback](../elements/provide-feedback.md) on emotional content; respond only if a learner voluntarily seeks support.
 
 ## Related Strategies
+
 - Journaling and reflective writing — the most researched expressive format, with the strongest evidence base
 - Pre-exam worry writing — a targeted, single-session application with experimental support
 - Mindfulness and self-regulation routines — alternative routes to the same affective-regulation goal
+- [Use expressive writing before math situations to offload worry and protect working memory resources](expressive-writing-before-math.md)
 
 ## Examples
 - **Ramirez & Beilock's pre-exam writing protocol** — students write about exam worries for 10 minutes immediately before a test; field studies in real classrooms showed reduced failure rates among anxious students ([Scientific American summary](https://www.scientificamerican.com/article/write-your-anxiety-away/)).

@@ -43,5 +43,10 @@ Descriptive fiscal analysis in the Overall Funding Levels section. The report st
 
 
 ## Related Claims
+
 - Inconsistent and insufficient data make it difficult to measure California's ECE investment and unmet demand, including no unique child identifier and no centralized waiting list — related
 - Because California education funding relies heavily on the personal income tax, state education funds are highly susceptible to economic fluctuations and vulnerable during recessions — a broader claim this one bears on
+- [Publicly funded ECE programs in California served only 33% of eligible children under age 5 in 2015–16, leaving nearly 650,000 eligible children without access](california-ece-serves-only-33-percent-eligible-children.md)
+- [Access to subsidized ECE is extremely limited for California infants and toddlers, with approximately 14% of eligible infants and toddlers enrolled](california-infant-toddler-ece-access-14-percent.md)
+- [Including subsidized child care, California enrolled about 37% of all 4-year-olds in publicly funded early childhood programs in 2019–20 and 55% in 2023–24](california-prek-coverage-55-percent-with-subsidized-child-care.md)
+- [California's subsidized ECE system serves only a minority of eligible children, with the lowest access among infants and toddlers](california-ece-serves-minority-of-eligible-children.md)

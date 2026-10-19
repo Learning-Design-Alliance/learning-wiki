@@ -62,4 +62,5 @@ The commentary reports, citing Barkaszi et al., that a review of bedrest studies
 
 
 ## Related Claims
--
+
+- [Pandemic-related reduction in physical activity was associated with worsened executive functioning in younger adults, with reversal upon increased activity](pandemic-pa-reduction-executive-worsening.md)

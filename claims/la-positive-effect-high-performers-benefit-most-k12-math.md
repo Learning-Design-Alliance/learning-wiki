@@ -44,6 +44,8 @@ Thematic synthesis of 19 included K–12 mathematics studies; the review reports
 
 
 ## Related Claims
+
 - [Formative-assessment-based LA shows positive effects on achievement, motivation, and understanding, with personalized feedback reading time mattering](formative-assessment-la-positive-effects.md) — a narrower finding that bears on this claim
 - [Teacher use of LA for DBDM makes DLS use more effective for learning, and teacher support increases student usage](teacher-dbdm-use-increases-dls-effectiveness.md) — related
 - [Guiding analytics for learners can improve mathematics achievement, retention, learning strategies, and reduce math anxiety](guiding-analytics-improves-achievement-and-strategies.md) — related
+- [Students with high initial performance profit more from area-specific practice while students with low initial performance profit more from general practice](initial-performance-moderates-practice-type-benefit.md)

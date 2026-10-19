@@ -43,8 +43,10 @@ Descriptive analysis of state ECE enrollment and eligibility data reported in th
 
 
 ## Related Claims
+
 - [California's subsidized ECE system serves only a minority of eligible children, with the lowest access among infants and toddlers](california-ece-serves-minority-of-eligible-children.md) — possibly the same claim (merge candidate)
 - [Access to subsidized ECE is extremely limited for California infants and toddlers, with approximately 14% of eligible infants and toddlers enrolled](california-infant-toddler-ece-access-14-percent.md) — a narrower finding that bears on this claim
 - [In 2022 only one in nine eligible California children—and one in seven eligible Alameda County children—received subsidized childcare](subsidized-childcare-access-gap-2022.md) — related
 - [Low compensation and inconsistent qualification requirements undermine recruitment and retention of California's ECE workforce](california-ece-workforce-low-compensation-turnover.md) — related
 - [Including subsidized child care, California enrolled about 37% of all 4-year-olds in publicly funded early childhood programs in 2019–20 and 55% in 2023–24](california-prek-coverage-55-percent-with-subsidized-child-care.md) — related
+- [California ECE funding suffered over $1 billion in recession-era cuts, eliminating roughly 25% of child care slots between 2008 and 2013, and funding remains below pre-recession levels](california-ece-funding-recession-cuts-slots-declined.md)

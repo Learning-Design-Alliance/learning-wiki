@@ -46,6 +46,8 @@ Comparative case analysis of two teachers in similar sociocultural contexts with
 - [Domain Context](../learner-variables/domain-context.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
 - [Consultation with trusted colleagues offered new interpretations of a student's behavior, lessening a teacher's emotional labor and shifting her from surface acting to deep acting (Linda case)](linda-consultation-shifted-surface-to-deep-acting.md) — a narrower finding that bears on this claim
 - [Teacher agency development proceeds through temporal phases in which different subsystems dominate](agency-subsystems-dominate-temporally.md) — related
 - [Relational trust shapes whether SWOT functions as organisational learning or superficial compliance](trust-determines-swot-diagnostic-quality.md) — related
+- [Emotional rules in workplaces can stifle veteran mathematics teachers' epistemic and relational agency and thus their ability to learn](emotional-rules-stifle-teacher-agency.md)

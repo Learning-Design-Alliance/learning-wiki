@@ -37,7 +37,8 @@ Based on the 1992-93 evaluation results, the report recommends that the All Day 
 - Early literacy and print awareness supporting promotion to grade 1
 
 ## Related Strategies
-- 
+
+- [Support REDI implementation with brief inservice training plus weekly coaching from local consultants](redi-training-weekly-coaching-model.md)
 
 ## Examples
 -

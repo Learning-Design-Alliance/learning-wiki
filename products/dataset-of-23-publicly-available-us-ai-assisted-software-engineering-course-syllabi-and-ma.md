@@ -28,7 +28,8 @@ A dataset compiled by Francis Geng et al. containing publicly available syllabi 
 - [AI/ML fundamentals, agentic development, prompting, and testing are the most commonly documented topics in AI-assisted software engineering courses](../claims/ai-se-topics-fundamentals-agentic-prompting-testing.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [NCTE Transcript dataset](ncte-transcript-dataset.md)
 
 ## Key Sources
 - Francis Geng, Anshul Shah, Mia Chen, Paul Denny, Juho Leinonen, Bill Griswold, Gerald Soosai Raj, and Leo Porter. (2026). Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis. https://arxiv.org/abs/2608.05898v1

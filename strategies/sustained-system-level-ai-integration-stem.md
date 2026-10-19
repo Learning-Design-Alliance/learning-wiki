@@ -43,6 +43,7 @@ The article recommends that institutions prioritize long-term integration of AI 
 - [Pursue sustainable AI integration in PBL through attention to design, ethics, and policy](sustainable-ai-pbl-integration-design-ethics-policy.md)
 - [Adopt a systems approach to AI integration rather than spotlights or gaps](systems-approach-to-ai-integration.md)
 - [Adopt AI-PBL frameworks with institutional and policy-level support and teacher training investment](adopt-ai-pbl-with-teacher-training-investment.md)
+- [Sustain doctoral methodological competence through continued practice, feedback, and authentic application rather than isolated short courses](sustained-practice-for-doctoral-methodological-skills.md)
 
 ## Examples
 -

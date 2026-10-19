@@ -43,9 +43,11 @@ Descriptive analysis of 2018/19 publicly available California data in the execut
 
 
 ## Related Claims
+
 - [Charter LEAs enroll a lower proportion of students with disabilities than traditional LEAs and serve smaller proportions in higher-cost disability categories](charter-leas-fewer-swd-and-fewer-high-cost-categories.md) — related
 - [Most educationally related mental health services were provided by LEAs even though funds for them are allocated to SELPAs](ermhs-services-provided-by-leas.md) — related
 - [Per-student special education costs fall with enrollment up to an ideal size, then rise as diseconomies of scale set in](special-education-economies-of-scale-ideal-enrollment.md) — related
 - California would need roughly $4,000 more per pupil—an additional $26.5 billion annually—to meet its K–12 education goals — related
 - [Special education identification is disproportionate for English learner and socioeconomically disadvantaged students in California](disproportionate-identification-english-learners-socioeconomically-disadvantaged.md) — related
 - Michigan's partial reimbursement system shifts special education costs onto districts, which divert more than $500 per pupil of general education funds on average — related
+- [California's statewide high-cost pools are among the lowest-funded in the nation, and SELPA directors report paperwork burdens outweigh their benefit](california-high-cost-pools-lowest-funded.md)

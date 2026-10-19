@@ -43,4 +43,5 @@ Independent-samples t-test (Welch's correction) comparing phone-use frequency be
 
 
 ## Related Claims
--
+
+- [Phone-use frequency and duration increase phone-use mental effort, which negatively affects learning performance, mediating the behavior–performance link](mental-effort-mediates-phone-use-learning-cost.md)

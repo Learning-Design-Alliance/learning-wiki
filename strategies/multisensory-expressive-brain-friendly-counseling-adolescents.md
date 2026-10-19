@@ -43,7 +43,9 @@ The review argues traditional talk therapy may not work with adolescents, whose 
 - [Adolescent Brain Reconstruction Zone Sensitive Period](../theories/adolescent-brain-reconstruction-zone-sensitive-period.md)
 
 ## Related Strategies
-- 
+
+- [Design guidance lessons that give adolescents practice in planning, anticipating consequences, and regulating behavior, and avoid scare tactics and lecturing](guidance-lessons-practice-executive-skills-not-scare-tactics.md)
+- [Increase Student Language Production](increase_student_language_production.md)
 
 ## Examples
 -

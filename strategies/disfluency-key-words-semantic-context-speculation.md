@@ -40,7 +40,8 @@ The commentary closes with a speculation for future research: although hard-to-r
 - [Desirable Difficulties Conditions Bjork Yue](../theories/strength-and-retrieval-effort-account-of-retrieval-practice.md)
 
 ## Related Strategies
-- 
+
+- [Do not recommend applying perceptual disfluency to study materials absent convincing evidence of a (moderated) effect](do-not-recommend-disfluency-materials.md)
 
 ## Examples
 -

@@ -38,7 +38,8 @@ The article recommends dynamically adjusting GenAI workshop modules during a des
 - integration of GenAI into the design process
 
 ## Related Strategies
-- 
+
+- [Educators share experiences, strategies, and insights about generative AI tools to keep the education community informed](educator-collaboration-sharing-genai-tool-insights.md)
 
 ## Examples
 -

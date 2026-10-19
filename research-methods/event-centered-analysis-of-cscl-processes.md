@@ -24,7 +24,11 @@ Peter Reimann proposes an event-centered approach as an alternative to conventio
 ### Claims
 
 ## Related Research Methods
--
+
+- [Micro-ecological approach to cross-level CSCL analysis](micro-ecological-approach-to-cross-level-cscl-analysis.md)
+- [Computational formalisation of CSCL theories using Bayesian models](computational-formalisation-of-cscl-theories-using-bayesian-models.md)
+- [Interactional Ethnography and dialogic intervisualizing](interactional-ethnography-and-dialogic-intervisualizing.md)
+- [Lonchamp's three-level integration of dialog, knowledge, and action analysis for dual-interaction CSCL environments](lonchamps-three-level-integration-of-dialog-knowledge-and-action-analysis-for-dual-interac.md)
 
 ## Key Sources
 - Gerry Stahl & Friedrich Hesse. (2009). Classical dialogs in CSCL. Computer-Supported Collaborative Learning 4. https://doi.org/10.1007/s11412-009-9071-y

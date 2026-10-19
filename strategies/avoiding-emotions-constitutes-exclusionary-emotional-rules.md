@@ -50,6 +50,7 @@ The article argues that facilitators' repeated avoidance of emotion displays doe
 ## Related Strategies
 
 - [Integrating recognition and exploration of emotions to navigate the tension between relational and learning goals](integrating-recognition-and-exploration-of-emotions.md)
+- [Facilitators can use a taxonomy of moves and strategies for acknowledging and exploring emotion to build a facilitation repertoire](facilitation-moves-acknowledging-exploring-emotion.md)
 
 ## Examples
 -

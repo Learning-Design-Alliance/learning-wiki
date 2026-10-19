@@ -91,6 +91,8 @@ Adaptive learning tailors content, pacing, support, or task sequence in response
 - A course platform routes learners to review material when they miss prerequisite concepts
 - An instructor changes grouping and support based on ongoing formative evidence
 - [Four ecosystem recommendations: experiment with currency forms, protect time for inquiry, include everyone in team learning, and invest in adaptive platforms](../strategies/four-micro-credential-ecosystem-recommendations.md)
+- [For young learners, adapt instructional support level rather than only task difficulty, and investigate adaptive features in isolation](../strategies/adapt-support-not-just-difficulty-young-learners.md)
+- [Use cognitive-sensing feedback on attention and learning progress to tailor instruction to individual learners](../strategies/cognitive-sensing-feedback-tailor-instruction.md)
 
 ## Key Sources
 - Shute, V. J., & Towle, B. (2003). Adaptive e-learning. *Educational Psychologist, 38*(2), 105-114. [https://doi.org/10.1207/s15326985ep3802_5](https://doi.org/10.1207/s15326985ep3802_5)

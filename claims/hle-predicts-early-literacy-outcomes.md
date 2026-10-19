@@ -62,4 +62,5 @@ Hierarchical regression Model 1 on letter knowledge (N = 174): "frequency of boo
 
 
 ## Related Claims
--
+
+- [Book exposure predicts letter knowledge (about 6% of variance), consistent with meta-analytic evidence that print-related skills improve even from story-content-focused reading](book-exposure-predicts-letter-knowledge.md)

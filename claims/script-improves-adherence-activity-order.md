@@ -62,4 +62,6 @@ Descriptive phase-pattern analysis per group displayed in Table 1 (I, G, C patte
 
 
 ## Related Claims
--
+
+- [Scripted conditions more often produced a discussion phase on differences between group members, but no quality differences in those discussions were detected](script-increases-discussion-on-differences.md)
+- [A three-phased collaboration script leads distance students to provide more and longer input in grounding discussions, with the structured interface further increasing input length](script-increases-grounding-input-amount-length.md)

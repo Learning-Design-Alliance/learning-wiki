@@ -43,4 +43,5 @@ Multilevel mediation tests (Krull and MacKinnon) on metacognitive knowledge: coe
 
 
 ## Related Claims
--
+
+- [Both structuring and problematizing avatar scaffolds raise elementary students' metacognitive knowledge relative to no scaffolding](avatar-metacognitive-scaffolds-raise-metacognitive-knowledge.md)

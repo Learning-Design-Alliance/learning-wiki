@@ -18,7 +18,7 @@ sources:
 # NCTE Transcript dataset
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A publicly available dataset of U.S. fourth- and fifth-grade elementary mathematics classroom transcripts aligned with 7.5-minute segments and linked to Mathematical Quality of Instruction observation scores.
@@ -30,8 +30,16 @@ A publicly available dataset of U.S. fourth- and fifth-grade elementary mathemat
 
 ### Claims
 
+- [Fine-tuned PLMs outperform prompted LLMs in rubric-based teaching quality scoring accuracy, while LLMs better preserve score variability](../claims/plms-outperform-llms-qof-scoring-accuracy.md) [+W]
+
 ## Related Products and Programmes
--
+
+- [Dataset of 23 publicly available U.S. AI-assisted software engineering course syllabi and materials](dataset-of-23-publicly-available-us-ai-assisted-software-engineering-course-syllabi-and-ma.md)
+- [IELTS Writing Scored Essays Dataset](ielts-writing-scored-essays-dataset.md)
+- [ICNALE Global Rating Archive (GRA) dataset](icnale-global-rating-archive-gra-dataset.md)
+- [StudyChat dataset](studychat-dataset.md)
+- [UC Berkeley course transaction dataset and publicly released analysis code](uc-berkeley-course-transaction-dataset-and-publicly-released-analysis-code.md)
+- [NGSS-aligned middle school and high school science benchmarks](ngss-aligned-middle-school-and-high-school-science-benchmarks.md)
 
 ## Key Sources
 - Paiheng Xu, Jing Liu, Nathan Jones, Julie Cohen, and Wei Ai. (2024). The Promises and Pitfalls of Using Language Models to Measure Instruction Quality in Education. Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers). https://aclanthology.org/volumes/2024.naacl-long/

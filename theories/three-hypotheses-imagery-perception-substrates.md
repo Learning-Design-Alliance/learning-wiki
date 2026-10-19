@@ -40,7 +40,9 @@ The article organises the imagery-perception debate around three hypotheses attr
 
 
 ## Related Theories
-- 
+
+- [Reinforcement framework for cognitive learning: imagery as perception-like experience producing learning under ordinary principles](reinforcement-theory-of-cognitive-learning-framework.md)
+- [Technology-imagery-perception (TIP) model](technology-imagery-perception-model.md)
 
 ## Examples
 -

@@ -62,4 +62,6 @@ Meta-regression moderator effect of mean age at phenotypic assessment on achieve
 
 
 ## Related Claims
--
+
+- [Polygenic scores show a meta-analytic association of ρ = 0.24 with educational achievement](pgs-educational-achievement-rho-24-meta.md)
+- [Sample ancestry significantly moderates polygenic score predictions of educational attainment, with stronger predictions in European-ancestry samples](pgs-attainment-ancestry-moderator.md)

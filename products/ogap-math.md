@@ -30,7 +30,8 @@ OGAP Math is a professional learning system that supports K–8 mathematics teac
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [OGAP Professional Learning](ogap-professional-learning.md)
 
 ## Key Sources
 - OGAP Math program description. (2024). Evidence for Learning. https://www.evidenceforlearning.org/ogap-math/

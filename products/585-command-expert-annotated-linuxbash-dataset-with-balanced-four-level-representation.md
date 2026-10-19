@@ -13,7 +13,7 @@ generated:
 # 585-command expert-annotated Linux/bash dataset with balanced four-level representation
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 A dataset created by Alonso-Carracedo et al. containing 585 Linux/bash commands, expert-annotated across four CogTax representation levels for evaluating automatic taxonomy-level classification.
@@ -22,6 +22,10 @@ A dataset created by Alonso-Carracedo et al. containing 585 Linux/bash commands,
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
+- [An AST-only structural classifier substantially exceeds random baseline accuracy in predicting CogTax levels, with L1–L3 mutually confused and L4 perfectly precise](../claims/ast-baseline-taxonomy-level-classification.md) [+W]
+- [A combined AST-plus-embedding classifier achieves 89% accuracy assigning CogTax levels to 585 expert-annotated Linux/bash commands, outperforming either representation alone](../claims/combined-ast-embedding-classifier-89-accuracy.md) [+W]
+- [Taxonomy level is defined as the maximum of cognitive complexity and operational impact, ensuring monotone coverage of both dimensions](../claims/cogtax-max-rule-monotone-coverage.md) [+W]
 
 ## Related Products and Programmes
 -

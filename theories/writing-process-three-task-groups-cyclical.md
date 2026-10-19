@@ -39,7 +39,8 @@ The manual organizes writing instruction around a process approach that focuses 
 
 
 ## Related Theories
-- 
+
+- [Whole language approach: simultaneous teaching of language skills strengthens reading and writing together](whole-language-approach-ged-prep.md)
 
 ## Examples
 -

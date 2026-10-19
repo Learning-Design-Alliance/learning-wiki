@@ -43,4 +43,5 @@ Qualitative case evidence from martial arts instruction in New York City and the
 
 
 ## Related Claims
--
+
+- [Parallels between explorative practice and canonical mathematics practice are recognized among mathematicians](explorative-practice-parallels-mathematics-practice.md)

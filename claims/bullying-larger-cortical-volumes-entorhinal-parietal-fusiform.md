@@ -62,4 +62,10 @@ Mediation/association analyses of the three bullying-impacted cortical volume re
 
 
 ## Related Claims
--
+
+- [Bullied preadolescents have larger right hippocampal volumes than matched non-bullied peers, but this does not mediate cognition](bullying-larger-right-hippocampus-no-cognitive-mediation.md)
+- [Bullied preadolescents score lower than matched non-bullied peers on reading, processing speed, and inhibitory control/attention over two years](bullying-lower-reading-processing-speed-inhibitory-control.md)
+- [Sex moderates bullying-related cognitive and brain differences, with effects in boys and girls appearing in different regions and tasks](bullying-sex-differences-cognition-brain-regions.md)
+- [Bullied preadolescents show thinner cortices in left-hemisphere temporal, precentral, and right rostral middle frontal regions, and precentral thinning mediates 7% of the bullying effect on inhibitory control/attention](bullying-thinner-cortices-precentral-mediation.md)
+- [Larger right fusiform surface area in bullied children partially suppresses the negative effect of bullying on crystallized composite and vocabulary scores](fusiform-surface-area-suppresses-bullying-cognition-effect.md)
+- [Bullied girls show lower episodic memory and crystallized composite cognitive scores than non-bullied girls](bullied-girls-lower-episodic-memory-crystallized-scores.md)

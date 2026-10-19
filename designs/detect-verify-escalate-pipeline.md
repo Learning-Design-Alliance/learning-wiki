@@ -17,7 +17,7 @@ sources:
 # Detect-verify-escalate pipeline with four pedagogically distinct routes
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The pipeline routes each student submission through an answer-key check and, for correct-answer cases, an LLM graduated assessment producing four routes: Red (wrong answer, automated correction), Green (clear reasoning, no action), Amber-1 (unclear reasoning, automated diagnostic follow-up question), and Amber-2 (misconception detected, verification then teacher escalation). Figure 1 shows approximate volumes per 1,000 submissions: 736 LLM calls and 64 teacher reviews. The design responds to the paper's findings that fine-tuned models cannot assess method validity and that precision is too low for direct teacher escalation.
@@ -38,8 +38,11 @@ The pipeline routes each student submission through an answer-key check and, for
 
 ### Claims
 
+- [Frontier LLMs achieve the best balance between detecting misconceptions in correct-answer cases and not over-flagging correct students, while fine-tuned local models achieve under 58% TM recall](../claims/frontier-llms-best-balance-tm-detection.md) [+W]
+
 ## Related Designs
-- 
+
+- [Hybrid query-resolution platform routing queries across AI assistant, peer layer, curated FAQ corpus and administrator escalation](hybrid-query-resolution-platform-internship-onboarding.md)
 
 ## Examples
 -

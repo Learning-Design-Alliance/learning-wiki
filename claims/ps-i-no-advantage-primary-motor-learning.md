@@ -62,4 +62,6 @@ Repeated measures ANOVA on movement features in PS-I vs I-PS showed a significan
 
 
 ## Related Claims
--
+
+- [Declarative knowledge of movement features was not significantly related to actual improvements in physical execution of those features](declarative-knowledge-not-related-feature-performance.md)
+- [Primary school children improved execution of movement features but showed no improvement in javelin throwing distance across all conditions](features-improved-distance-did-not-primary-javelin.md)

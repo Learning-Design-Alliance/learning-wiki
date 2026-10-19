@@ -53,6 +53,7 @@ The toolkit defines IUX as "a user-centered design approach that emphasizes incl
 - [Journey map and adapted empathy map templates for capturing learner experience](../elements/journey-empathy-map-templates-ler.md)
 - [Severity scale for prioritizing learner barriers into design actions](../strategies/severity-scale-ler-design-priorities.md)
 - [Involve HSE communities in design and refine technologies based on their feedback](../strategies/involve-hse-communities-design-process.md)
+- [User experience design tools for courseware: persona creation kit, journey maps, and ecosystem maps](../products/user-experience-design-tools-for-courseware-persona-creation-kit-journey-maps-and-ecosyste.md)
 
 ## Key Sources
 - Digital Promise. (2025). Pathways Unlocked: A Learner-Centered Toolkit for Usable Learning & Employment Record Technologies. https://digitalpromise.dspacedirect.org/items/2a540607-a680-4548-8524-80af4924d62b

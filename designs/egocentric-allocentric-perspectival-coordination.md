@@ -41,7 +41,8 @@ The article proposes that embodied designs stage a coordination between an egoce
 - Bnl Success Snl Coordination Breakdown [+M]
 
 ## Related Designs
-- 
+
+- [Walking number line design: body-scale number line plus desk-scale number line with figurine, using a four-step orientation-and-movement procedure](walking-number-line-bnl-snl-design.md)
 
 ## Examples
 -

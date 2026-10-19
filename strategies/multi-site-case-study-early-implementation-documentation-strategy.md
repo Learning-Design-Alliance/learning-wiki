@@ -17,7 +17,7 @@ sources:
 # Use multi-site case studies to document early implementation of community support programs
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 For place-based programs in early implementation, the article models the use of qualitative case studies of a subset of sites to capture design decisions, service choices, and early challenges before outcome evaluation is feasible. The case studies "revealed how the grantees designed and implemented their programs, the services they chose to offer, and the early successes and challenges."
@@ -35,6 +35,10 @@ For place-based programs in early implementation, the article models the use of 
 
 ### Target Learning Goals
 - Understanding program design, service selection, and early implementation successes and challenges
+
+## Claims
+
+- [Case studies of five Promise Neighborhoods sites documented program design, services, and early implementation successes and challenges](../claims/promise-neighborhoods-five-site-case-study-findings.md) [+W]
 
 ## Related Strategies
 - 

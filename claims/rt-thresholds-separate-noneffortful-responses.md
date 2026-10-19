@@ -43,6 +43,7 @@ A definitional/methodological statement from the abstract: the article states "o
 
 
 ## Related Claims
+
 - [Prior threshold-method comparison studies typically used simulated or small-scale data, or non-CAT large-scale data with few items](prior-threshold-studies-limited-scale.md) — related
 - [Response-time threshold-setting methods for detecting noneffortful item responses were compared using reading scores from over 728,923 US students in 2,056 schools](threshold-methods-compared-large-scale-reading-data.md) — related
 - [Threshold-setting methods are compared using reading scores from over 728,923 students on a computer-adaptive test of nearly 12,000 items](large-scale-cat-threshold-method-comparison.md) — related
@@ -50,3 +51,4 @@ A definitional/methodological statement from the abstract: the article states "o
 - [CATs can have important advantages over conventional tests in identifying instances when examinees exhibit low effort](cats-advantage-identifying-low-effort.md) — related
 - [Information-based rapid-guessing threshold methods set thresholds more reliably than methods based on response accuracy or visual inspection](information-based-thresholds-more-reliable-than-accuracy-visual-methods.md) — a narrower finding that bears on this claim
 - [Unmotivated examinees present a major threat to the validity of scores in low-stakes testing programs](unmotivated-examinees-threaten-low-stakes-score-validity.md) — related
+- [The general effort-measurement process is illustrated with data from a large-scale assessment program](effort-process-illustrated-large-scale-assessment-data.md)

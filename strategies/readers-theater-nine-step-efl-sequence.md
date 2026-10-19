@@ -17,7 +17,7 @@ sources:
 # Implement Reader's Theater in EFL classrooms through a nine-step sequence from text selection to adaptation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 against) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review lays out Lekwilai's (2014) suggested guidelines for applying Reader's Theater in EFL classrooms: text selection suited to students' interest and reading level, modeling fluency, group discussion of plot and vocabulary, assigning roles, silent and aloud practice, feedback on reading rate, accuracy, phrasing and prosody, performance before classmates, self-evaluation via recording or forms, and adaptation to other activities such as script writing. It states "There are some steps and suggested guidelines for the application of RT in EFL classroom contexts".
@@ -36,8 +36,14 @@ The review lays out Lekwilai's (2014) suggested guidelines for applying Reader's
 ### Target Learning Goals
 - Oral reading fluency (rate, accuracy, phrasing, prosody), motivation to read, and transfer to speaking and writing
 
+## Claims
+
+- [No evidence demonstrates unique, reliable, or EL-specific gains attributable to readers' theater alone](../claims/readers-theater-alone-no-unique-eb-gains-evidence.md) [-W]
+
 ## Related Strategies
-- 
+
+- [Reader's Theater](readers_theater.md)
+- [Reading Fluency Practice](reading-fluency-practice.md)
 
 ## Examples
 -

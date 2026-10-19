@@ -38,7 +38,10 @@ The authors recommend that resource-room reading instruction extend word-study t
 - Word reading and decoding application
 
 ## Related Strategies
-- 
+
+- [Decodable Text Reading Practice](decodable-text-reading-practice.md)
+- [Phonics Instruction](phonics-instruction.md)
+- [Systematic Synthetic Phonics](systematic-synthetic-phonics.md)
 
 ## Examples
 -

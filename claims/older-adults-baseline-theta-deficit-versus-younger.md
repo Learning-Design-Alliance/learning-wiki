@@ -43,4 +43,6 @@ Experiment 3: comparison of untrained older adults before training with a naive 
 
 
 ## Related Claims
--
+
+- [Training-induced increases in midline frontal theta power correlate with preserved multitasking gains at 6 months and with sustained attention improvement](theta-power-correlates-preserved-gains-attention.md)
+- [Multitasking training increased midline frontal theta power and frontal–posterior theta coherence in older adults only in the multitasking condition and only for the MTT group](training-remediates-frontal-theta-signatures-older-adults.md)

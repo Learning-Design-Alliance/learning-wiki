@@ -43,4 +43,5 @@ Correlational hypothesis test on the freeform Ottoman Empire debate corpus: DBN 
 
 
 ## Related Claims
--
+
+- [Speech-style accommodation correlates with prevalence of other-oriented transactions, enabling acoustic prediction of transactivity](speech-accommodation-predicts-transactivity.md)

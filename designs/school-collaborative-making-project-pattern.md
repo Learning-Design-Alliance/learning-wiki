@@ -17,7 +17,7 @@ sources:
 # Collaborative making project pattern: multi-material, digitally enhanced, holistic, thematically anchored
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Drawing on craft (sloyd) tradition, the authors characterize school-based collaborative making projects as "1) multi-material, including both soft (e.g., textile) and hard (e.g., metals) materials; 2) digitally enhanced (integrating digital devices and applications); 3) holistic in terms of including all stages of creation from design ideation to experimentation, and from fabrication to evaluation of the final productions." The fourth feature anchors projects on integrative thematic studies orchestrated by teacher teams from multiple subject domains. The pattern was enacted in Finnish craft lessons extended with digital fabrication instruments such as 3D CAD, robotics, e-textiles and GoGo Boards.
@@ -40,10 +40,14 @@ Drawing on craft (sloyd) tradition, the authors characterize school-based collab
 - creative use of digital technologies
 
 ### Claims
-- 
+
+- [Material choice shapes conceptual learning and who feels invited to learn](../claims/material-choice-shapes-conceptual-learning-and-participation.md) [+W]
 
 ## Related Designs
-- 
+
+- [Identity-Centered E-Textile Making](identity-centered-e-textile-making.md)
+- [Bioart Boundary-Crossing Making](bioart-boundary-crossing-making.md)
+- [Digital learning environments characterized by problem- and project-centered, student-centered, collaborative, communicative, customized, productive and lifelong learning](digital-learning-environment-characteristics.md)
 
 ## Examples
 -

@@ -17,7 +17,7 @@ sources:
 # Blind Turing-test evaluation protocol for LLM legal exam papers
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 An evaluation design in which LLM-generated and human exam papers are formatted identically and anonymously assessed by expert examiners using official criteria. Three domain experts who had served on national board committees each evaluated five uniformly formatted papers with no indication of authorship. "we employed highly skilled professionals with direct experience in national boards as evaluators, through a 'Turing Test' approach, capturing qualitative nuances, often missed by automated metrics." The human benchmark was the highest-scoring candidate's real exam paper, digitised via OCR and manually verified.
@@ -42,7 +42,8 @@ An evaluation design in which LLM-generated and human exam papers are formatted 
 - assessing LLM legal competence under authentic professional examination conditions
 
 ### Claims
-- 
+
+- [LLM-based rubric scores agreed with expert ratings at the total-score level and on cognitive-process dimensions, but agreement was low for more subjective dimensions](../claims/ai-expert-agreement-cognitive-versus-subjective-dimensions.md) [+W]
 
 ## Related Designs
 - 

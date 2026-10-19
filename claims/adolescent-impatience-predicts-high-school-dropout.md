@@ -43,4 +43,6 @@ The review reports, citing Cadena and Keys (forthcoming), that surveyor-classifi
 
 
 ## Related Claims
--
+
+- [A majority of young children make choices consistent with hyperbolic discounting, preferring immediate over larger delayed rewards](children-hyperbolic-discounting-bettinger-slonim.md)
+- [Smartphone attachment is associated with impatience and impulsive behavior in young children, per cited literature](smartphone-attachment-impatience-impulsivity.md)

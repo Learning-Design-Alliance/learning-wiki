@@ -63,6 +63,7 @@ Inclusive cultural response draws on culturally relevant pedagogy, which holds t
 - [Address Biases in the Use of Language and Symbols](../strategies/address_biases_in_the_use_of_language_and_symbols.md) — the companion micro-level move; inclusive texts lose credibility if surrounding language and imagery carry bias
 - [Use culturally responsive practices to make preschool learning relevant for children from all backgrounds](culturally-responsive-preschool-practices.md)
 - [Embed integration elements in the robot's persona and background so multicultural inclusion is addressed within regular activities](embed-integration-elements-robot-persona.md)
+- [Schools lacking ethnic diversity with small Latino representation should implement programs recognizing and empowering Latino culture and identity](latino-culture-identity-programs-low-diversity-schools.md)
 
 ## Examples
 - **Rudine Sims Bishop's "mirrors, windows, and sliding glass doors" framework** — widely used in K–12 literacy curriculum revision to justify selecting texts that both reflect learners' identities and expose them to others' (https://readingwhilebrown.blogspot.com — see Bishop, 1990, *Perspectives*)

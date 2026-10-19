@@ -58,9 +58,11 @@ Adjusting display parameters changes how much working-memory capacity is consume
 5. Briefly teach learners what the settings do and when to use them; check that chosen settings actually improve their reading and viewing, and adjust.
 
 ## Related Strategies
+
 - [Chunking](../principles/chunking.md) — segmenting content complements display control; both reduce perceptual and memory load
 - [Accessible syntax](accessible_syntax.md) — simplifying sentence structure addresses the same decoding barriers at the text level rather than the display level
 - [Providing multiple means of representation](providing_multiple_means_of_representation.md) — customizable display is the delivery mechanism for this UDL principle
+- [Use captioning to provide adaptable mobile messages across contexts, with font and placement guidelines](captioning-guidelines-for-mlearning-messages.md)
 
 ## Examples
 - **[CAST UDL Guidelines](https://udlguidelines.cast.org)** — "Multiple Means of Representation" includes customizable display as a named checkpoint, with concrete options (text size, contrast, captions, text-to-speech).

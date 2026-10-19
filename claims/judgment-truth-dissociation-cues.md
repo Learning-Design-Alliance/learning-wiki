@@ -43,6 +43,8 @@ Logistic models of AI-attribution (N = 1,282) showed judgments only weakly track
 
 
 ## Related Claims
+
 - [Participants fail to distinguish undisclosed AI teammates from human teammates above chance in synchronous text-based group interaction](chance-level-ai-identity-detection-undisclosed-teammates.md) — a broader claim this one bears on
 - [Dialogue-derived interactional cues robustly encode ground-truth identity, achieving near-ceiling AI identification under cross-validation](cues-encode-identity-near-ceiling-classification.md) — related
 - [Representational similarity analysis shows identity judgments are organised around subjective impressions, orthogonal to diagnostic cue structure](representational-dissociation-subjective-impressions.md) — possibly the same claim (merge candidate)
+- [Impression narratives rely on weakly diagnostic suspicion heuristics such as response speed, fluency, and perceived scriptedness](suspicion-heuristics-weakly-diagnostic.md)

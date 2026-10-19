@@ -43,4 +43,5 @@ Systematic review (PRISMA-guided, pre-registered) coding 50 comparisons from 38 
 
 
 ## Related Claims
--
+
+- [IVR conditions included participatory activities in 50% of comparisons while conventional conditions did so in only 20%](ivr-conditions-more-likely-to-include-activities.md)

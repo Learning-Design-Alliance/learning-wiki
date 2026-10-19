@@ -43,4 +43,7 @@ Experiment 3A (final N = 40 UK adults recruited via Prolific; Gorilla platform; 
 
 
 ## Related Claims
--
+
+- [Adults report greater curiosity about answers on incorrect-answer trials than on correct-answer trials](curiosity-higher-incorrect-than-correct-trials.md)
+- [Adults opt out of answering more on trials they later answer incorrectly, and curiosity is higher on opted-out trials (metacognitive control)](opt-out-more-on-incorrect-trials-curiosity-higher.md)
+- [Without feedback, people are more curious about high-confidence errors than about equally high-confidence correct answers, replicated across experiments](no-feedback-high-confidence-errors-more-curiosity.md)

@@ -43,6 +43,8 @@ Linear regression analyses predicting problem-solving performance from the ratin
 
 
 ## Related Claims
+
 - [Delayed ratings of affective variables (interest and motivation) do not differ from the average of immediate ratings, unlike cognitive load ratings](affective-ratings-immune-to-delayed-versus-immediate-difference.md) — related
 - [A single delayed cognitive load rating after a problem sequence is significantly higher than the average of immediate ratings for both mental effort and perceived difficulty (Experiment 1)](delayed-cognitive-load-ratings-higher-than-immediate-averages-exp1.md) — related
 - [Delayed cognitive load ratings are based mainly on the more complex problems in the series rather than on a recency effect](delayed-ratings-based-on-complex-problems.md) — related
+- [The delayed-higher-than-immediate difference for cognitive load ratings replicates regardless of whether problem complexity increases or decreases across the sequence (Experiment 2)](delayed-rating-effect-independent-of-problem-sequence.md)

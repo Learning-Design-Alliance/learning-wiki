@@ -17,7 +17,7 @@ sources:
 # Segmenting students by noncognitive attributes as a promising but unproven approach to improving postsecondary success
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review reports that although no published example documents colleges using segmentation to improve students' success, research authors "hypothesize about the potential applications of their research," and experts interviewed for the study "agree that such approaches have promise for segmenting students to improve postsecondary success." The strategy would classify student populations using noncognitive assessment instruments and tailor institutional supports accordingly, but the review found no documented instance of this having been done.
@@ -37,6 +37,10 @@ The review reports that although no published example documents colleges using s
 
 ### Target Learning Goals
 - improving postsecondary student success
+
+## Claims
+
+- [No published research describes colleges using segmentation to improve student success, though authors and experts see promise in the approach](../claims/no-published-segmentation-application-example.md) [+W]
 
 ## Related Strategies
 - 

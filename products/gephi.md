@@ -27,7 +27,8 @@ Gephi is an open-source network analysis and visualization platform developed an
 - [The software's content-blind structure makes important controversy actors difficult to find, prompting students to repurpose tool features to the task](../claims/content-blind-map-hides-central-actors.md) [~M]
 
 ## Related Products and Programmes
--
+
+- [MEME (Modeling and Evidence Mapping Environment)](meme-modeling-and-evidence-mapping-environment.md)
 
 ## Key Sources
 - Solli, A., Mäkitalo, Å., & Hillman, T. (2018). Rendering controversial socioscientific issues legible through digital mapping tools. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-018-9286-x

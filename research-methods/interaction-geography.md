@@ -24,7 +24,8 @@ Interaction geography is an analytical approach introduced by Shapiro, Hall, and
 ### Claims
 
 ## Related Research Methods
--
+
+- [Multimodal analysis](multimodal-analysis.md)
 
 ## Key Sources
 - Ludvigsen, S., Cress, U., Law, N., Stahl, G., & Rosé, C. P. (2017). Future direction for the CSCL field: Methodologies and eight controversies. International Journal of Computer-Supported Collaborative Learning, 12, 337–341. https://doi.org/10.1007/s11412-017-9268-4

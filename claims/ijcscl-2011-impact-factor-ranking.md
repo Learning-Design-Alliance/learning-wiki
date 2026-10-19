@@ -43,4 +43,7 @@ Editorial announcement reporting the journal's ISI annual Impact Factor rankings
 
 
 ## Related Claims
--
+
+- [In its first year the international journal of CSCL was adopted by the CSCL research community as a formal publication and feedback venue.](ijcscl-adopted-by-cscl-community-first-year.md)
+- [ijCSCL was selected for coverage in Thomson Reuters Web of Science beginning with Volume 3, Number 1, 2008, with its first Impact Factor to be calculated for 2010](ijcscl-web-of-science-indexing-2008.md)
+- [The journal's impact factor rose from 0.378 in 1997 to 2.7 in 2022, with consistent Q1 or upper-quartile ranking in Education & Educational Research](instructional-science-impact-factor-rise-q1.md)

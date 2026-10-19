@@ -62,7 +62,10 @@ Sex-stratified LMM contrasts on subcortical volumes in the matched ABCD sample. 
 
 
 ## Related Claims
+
 - [Boys are more likely than girls to be reported as bullied in preadolescence](boys-more-likely-bullied-than-girls-preadolescent.md) — related
 - [Bullied boys show greater behavioral problems than bullied girls in withdrawn/depressed, social, thought, and aggression domains](bullied-boys-greater-behavioral-problems-than-bullied-girls.md) — related
 - [Bullied girls show lower episodic memory and crystallized composite cognitive scores than non-bullied girls](bullied-girls-lower-episodic-memory-crystallized-scores.md) — related
 - [Bullied preadolescent children have lower cognitive scores than non-bullied peers](bullying-associated-with-lower-cognitive-scores.md) — related
+- [Bullied preadolescents show larger cortical volumes in left entorhinal, left superior parietal, and right fusiform regions than matched non-bullied peers](bullying-larger-cortical-volumes-entorhinal-parietal-fusiform.md)
+- [Girls' social problem-solving scores exceed boys' overall and in the Turkish sample but not in the British sample](girls-higher-spsic-turkish-not-british.md)

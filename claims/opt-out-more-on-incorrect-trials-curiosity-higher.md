@@ -62,4 +62,5 @@ Same Experiment 2 mixed-effects regression on curiosity and opt-out choice found
 
 
 ## Related Claims
--
+
+- [The opt-out and curiosity–accuracy findings replicate in a larger UK sample (Experiment 3A)](opt-out-curiosity-findings-replicate-uk-sample.md)

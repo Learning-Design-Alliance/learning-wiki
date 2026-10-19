@@ -62,4 +62,6 @@ From the same sub-string analysis of communicative gaze, the cultural contrast i
 
 
 ## Related Claims
--
+
+- [Teacher scanpaths are most dissimilar across combined expertise-and-culture sub-groups, significantly for attentional gaze and marginally for communicative gaze](expertise-culture-subgroup-scanpath-difference.md)
+- [Teachers' gaze scanpaths are more similar within an individual than between individuals, in both attentional and communicative gaze](teacher-scanpaths-intra-individual-similarity.md)

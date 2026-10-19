@@ -43,4 +43,5 @@ Critical duration study (Experiment 4): stimuli shown for fixed durations, accur
 
 
 ## Related Claims
--
+
+- [A single-parameter change in feed-forward connection strength in a neural decision model captures VGP behavior, including faster RTs with stable accuracy](neural-model-single-parameter-feedforward-captures-vgp.md)

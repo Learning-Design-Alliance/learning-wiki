@@ -43,4 +43,5 @@ Regression analysis with fixed effects on 71,405 exams showing students "proﬁt
 
 
 ## Related Claims
--
+
+- [Performance increases monotonically with the number of practice exams following a slightly concave learning curve without considerable kinks](performance-increases-monotonically-with-practice-exams-concave-curve.md)

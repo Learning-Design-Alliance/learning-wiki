@@ -13,7 +13,7 @@ generated:
 # CoRubric
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 quant-synthesis), `q4` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 CoRubric is a free online e-rubric tool developed by the study authors for managing peer, self, and teacher assessment with criteria, scores, notes, comments, and exportable results.
@@ -23,6 +23,8 @@ CoRubric is a free online e-rubric tool developed by the study authors for manag
 - **CoRubric e-rubric tool for online peer assessment of arguments**: CoRubric is an e-rubric designed by one of the authors of this research and available free of charge, used in the programme's second peer assessment so PESTs could assess and justify their scores through online rubrics. The article lists its advantages: peer assessment (formative assessment), which allows for multiple evaluations to check progress, role management using notes and comments and exporting results to other programmes for treatment. It supports a 360º assessment, i.e., peer assessment, self-assessment and teacher assessment of the questions. (Daniel Cebrián-Robles; Antonio-Joaquín Franco-Mariscal; Ángel Blanco-López (2018))
 
 ### Claims
+
+- [Structured criteria in peer assessment are not shown to improve its effect on academic performance over freeform review](../claims/peer-assessment-structured-criteria-improve-learning.md) [~W]
 
 ## Related Products and Programmes
 -

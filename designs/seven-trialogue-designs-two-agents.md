@@ -41,7 +41,8 @@ Trialogues involve a human interacting with two agents, typically a tutor agent 
 - 
 
 ## Related Designs
-- 
+
+- [Conversational pedagogical agent with AI-driven dialogue, lip-synchronised audio and conversation memory](ai-conversational-pedagogical-agent-system.md)
 
 ## Examples
 -

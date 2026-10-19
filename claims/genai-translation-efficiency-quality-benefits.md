@@ -62,4 +62,5 @@ Same qualitative dataset: 58 of 63 participants reported quality benefits descri
 
 
 ## Related Claims
--
+
+- [Students perceive GenAI-assisted translation as challenged by inadequate outputs, limited prompt engineering, and risks to creativity and employment](genai-translation-challenges-adequacy-prompting.md)

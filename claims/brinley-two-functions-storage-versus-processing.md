@@ -43,4 +43,6 @@ Bayesian hierarchical Brinley analysis (brms/Stan) of logit-transformed accuracy
 
 
 ## Related Claims
--
+
+- [Age differences in memory accuracy are smaller for verbal than nonverbal storage tasks, and domain overlap between storage and processing tasks moderates dual-task age differences](task-domain-moderates-aging-memory-accuracy.md)
+- [A shared attentional resource for storage and processing is the best supported resource theory of WM capacity but faces empirical challenges](shared-resource-storage-processing-wm.md)

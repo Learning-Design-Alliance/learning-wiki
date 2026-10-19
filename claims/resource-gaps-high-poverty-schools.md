@@ -43,7 +43,9 @@ The report cites recent analyses of school-equity-case data from more than 20 st
 
 
 ## Related Claims
+
 - [Teachers of color disproportionately teach in schools serving more than 75% students of color and more than 75% students from low-income families](teachers-of-color-concentrated-in-underresourced-schools.md) — related
 - [Higher education digital divides are acute at MSIs, HBCUs, and TCUs, which have stark capability deficits in hardware, software, and broadband](msi-hbcu-tcu-digital-capability-deficits.md) — related
 - [Predominantly Hispanic and schools serving large numbers of African American and Hispanic students have lower standardized test scores than predominantly White schools even after adjusting for socioeconomic factors](school-level-achievement-gap-beyond-ses.md) — related
 - Teachers in high-track secondary classes are considerably more likely to have a major or minor in their field than teachers in low-track classes — a narrower finding that bears on this claim
+- [Out-of-field teaching is more common in high-poverty schools and lower tracks, concentrating the least qualified teachers with disadvantaged students](out-of-field-teaching-poverty-concentration.md)

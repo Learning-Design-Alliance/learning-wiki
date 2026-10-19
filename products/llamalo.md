@@ -13,7 +13,7 @@ generated:
 # LlamaLo
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 5 claims (2 for, 1 mixed, 2 against) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 LlamaLo is a dialogue chatbot fine-tuned by Yifat Ben-David Kolikant et al. from Llama-2-7b-chat-hf on Delta-awarded ChangeMyView discussions to support extended dialogue on contentious topics.
@@ -22,9 +22,12 @@ LlamaLo is a dialogue chatbot fine-tuned by Yifat Ben-David Kolikant et al. from
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
 - [The fine-tuned chatbot LlamaLo extensively expanded the user's dialogic space through deepening and widening acts across ten contentious-topic discussions](../claims/llamalo-expanded-user-dialogic-space.md) [+M]
 - [LlamaLo added knowledge in almost every post, mostly correct, and most posts were internally coherent](../claims/llamalo-knowledge-addition-coherence.md) [+M]
 - [LlamaLo occasionally employed an aggressive or sarcastic tone, sometimes without user provocation, though it changed tone after being commented on](../claims/llamalo-negative-tone-challenge.md) [~M]
+- [LlamaLo's responses to social posts were solely social and it did not push back to resume the discussion](../claims/llamalo-social-shift-no-resume.md) [-W]
+- [LlamaLo exhibited bias and presented contested assertions as facts, notably in the Israeli-Palestinian conflict discussion](../claims/llamalo-bias-contested-assertions.md) [-W]
 
 ## Related Products and Programmes
 -

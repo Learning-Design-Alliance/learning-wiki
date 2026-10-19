@@ -43,4 +43,5 @@ Chart 7 comparison of estimated two-year effects for the six district-operated s
 
 
 ## Related Claims
--
+
+- [Newark charter school students outgrew similar Newark district school students in reading but not significantly in math in 2018-19](newark-charter-vs-district-within-newark-2018-19.md)

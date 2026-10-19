@@ -43,9 +43,11 @@ The review's synthesis of personalization studies (narrative review attributing 
 
 
 ## Related Claims
+
 - [AI serves two complementary roles in learning: cognitive partner and personalized recommendation mechanism](ai-dual-roles-cognitive-partner-recommender.md) — related
 - [Personalized learning functions as a collaborative human–AI model in which teachers and AI systems play complementary roles](human-ai-collaborative-personalized-learning.md) — related
 - [Adult learners expect AI to enhance relevance through real-time goal monitoring, goal breakdown, career companionship, and networking recommendations](ai-enhances-learning-relevance-goal-career.md) — related
 - [Most learners disregarded the system's learning and repetition recommendations, with self-regulated decision-making taking precedence over the suggested path](learners-disregard-g4l-recommendations.md) — reports the opposite
 - [The integrated G4L approach combining graph-based modeling, database-driven tracking, and generative content creation successfully supported learner navigation and domain comprehension](g4l-integrated-approach-supports-navigation.md) — related
 - AI presents four solution types for overcoming situated learning barriers: adaptive systems, intelligent tutoring in authentic scenarios, administrative automation, and data-driven teacher support — related
+- [The AMOEBA system's automated collaboration-pairing recommendations led to improved learning and more sophisticated programming by students](amoeba-live-analytics-improved-learning-pairing.md)

@@ -62,4 +62,5 @@ The review reports that across studies (Philipp et al.; Guo et al.; Philipp and 
 
 
 ## Related Claims
--
+
+- [Switch costs and mixing costs are common empirical observations across language switching paradigms, except voluntary switching under certain circumstances](switch-and-mixing-costs-common-across-paradigms.md)

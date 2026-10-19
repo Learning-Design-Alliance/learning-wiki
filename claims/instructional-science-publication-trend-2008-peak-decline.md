@@ -62,4 +62,7 @@ Annual production analysis based on Table 1 and Fig. 2 of the study. The authors
 
 
 ## Related Claims
+
 - [California saw a modest increase in newly prepared teachers beginning in 2020, though completers remain about half the 2004 peak](california-modest-increase-teacher-completers-2020-2021.md) — related
+- [Instructional Science has accumulated 39,169 citations with an h-index of 86 and an average of 26.5 citations per paper as of July 2024](instructional-science-39169-citations-h-index-86.md)
+- [The journal's impact factor rose from 0.378 in 1997 to 2.7 in 2022, with consistent Q1 or upper-quartile ranking in Education & Educational Research](instructional-science-impact-factor-rise-q1.md)

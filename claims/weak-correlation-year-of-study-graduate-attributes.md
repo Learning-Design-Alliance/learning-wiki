@@ -43,4 +43,6 @@ Correlational analysis of the survey (Table 2, Spearman's rho). The article repo
 
 
 ## Related Claims
--
+
+- [All measured graduate attribute scores correlate positively with one another, with the Resourcefulness Scale correlating most weakly](positive-correlations-among-graduate-attribute-measures.md)
+- [Graduate attribute scores vary by gender and by subject, with language-based subjects scoring well on communication](gender-and-subject-differences-graduate-attributes.md)

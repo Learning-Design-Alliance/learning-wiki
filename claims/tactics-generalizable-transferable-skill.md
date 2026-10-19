@@ -43,4 +43,7 @@ Analysis of a joint end-of-exercise debriefing where teachers explained the fict
 
 
 ## Related Claims
--
+
+- [Students appropriate the concept of tactics in their own post-game reasoning through thematization of general principles and framing performance in terms of creating dilemmas for the opponent](students-appropriate-tactics-thematization-dilemmas.md)
+- [In post-wargaming debriefings, teachers and students delineate tactics from related areas of military competence such as teamwork, communication, and technology](tactics-delineated-from-related-competence-debriefing.md)
+- [Teachers actively highlight specific in-game actions as examples of tactical decision-making, including distinguishing sound tactical reasoning from negative outcomes](teachers-highlight-tactical-decisions-debriefing.md)

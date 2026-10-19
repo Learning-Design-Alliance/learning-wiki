@@ -17,7 +17,7 @@ sources:
 # Provide systematic educator training on playlist content, activity implementation practices, technology troubleshooting, and content modification for age groups
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article's conclusion recommends that implementing science playlists in informal learning environments requires "more systematic trainings to educators with the focus on understanding the playlist contents, best practices for implementing each type of activity in informal learning environments, and technology trouble shooting." This responds to observed gaps in classroom management, content contextualization, and technology setup. Supporting materials on modifying content for different age groups are named as important to success.
@@ -35,6 +35,11 @@ The article's conclusion recommends that implementing science playlists in infor
 
 ### Target Learning Goals
 - Science knowledge and skills (motion, forces, properties of matter)
+
+## Claims
+
+- [Educators rarely facilitated connections between playlist activities or to students' lives; introductions and debriefings focused on logistics rather than science content](../claims/educators-rarely-facilitated-connections-between-playlists.md) [+W]
+- [Technical issues (login scanning, internet connectivity, projector setup, and glitches) frustrated students and created a significant barrier to playlist implementation](../claims/technical-issues-barrier-playlist-implementation.md) [+W]
 
 ## Related Strategies
 

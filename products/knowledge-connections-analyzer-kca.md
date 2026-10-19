@@ -26,7 +26,8 @@ A web-based tool developed by Yang et al. for querying Knowledge Forum discourse
 - [Many low-achieving students were initially unable to interpret KCA data productively when first using the tool.](../claims/students-initially-unable-interpret-kca-data.md) [~M]
 
 ## Related Products and Programmes
--
+
+- [KBDeX (Knowledge Building Discourse Explorer)](kbdex-knowledge-building-discourse-explorer.md)
 
 ## Key Sources
 - Yang, Y., van Aalst, J., Chan, C.K.K., & Tian, W. (2016). Reflective assessment in knowledge building by students with low academic achievement. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-016-9239-1

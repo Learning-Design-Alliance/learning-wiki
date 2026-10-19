@@ -61,4 +61,7 @@ Rasch analysis of the Australian survey shows ITEM 80 ('The principles of evolut
 
 
 ## Related Claims
--
+
+- [Australian and Malaysian Muslim learners ranked discord items differently, with Australian students most resistant to anti-science statements and most accepting of divine-cause statements](australian-malaysian-discord-item-differences.md)
+- [Malaysian Muslim students' discord scores are inversely related to sophistication of epistemological beliefs](discord-inversely-related-epistemological-beliefs.md)
+- [Students at the Melbourne Islamic schools describe the school as a safe haven whose religious security supports their learning](islamic-school-safe-haven-supports-learning.md)

@@ -46,6 +46,8 @@ Narrative review of behavioral developmental studies. Skills continue improving 
 - [Executive Function](../learner-variables/executive-function.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
 - [Hot executive function (CGT risk adjustment) shows a bell-shaped developmental curve, peaking at age 14 and declining thereafter](hot-ef-bell-shaped-development.md) — related
 - [Task-switching ability matures earlier than task maintenance and selection abilities in childhood](switching-matures-earlier-than-maintenance.md) — related
 - [CGT delay aversion shows a bell-shaped age pattern but no statistically significant age difference in adolescence](cgt-delay-aversion-no-age-effect.md) — related
+- [ASD shows a distinct executive dysfunction profile of impaired cognitive flexibility and planning with intact inhibitory control](asd-flexibility-deficit-intact-inhibition.md)

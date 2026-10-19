@@ -37,7 +37,8 @@ The article recommends that educators recognize themselves as "philosophers" of 
 - integrating pedagogical reflection with computer technology in online education
 
 ## Related Strategies
-- 
+
+- [Systemic, human-centred approach treating digital data use as a school-and-teacher system, with AI integrated into professional development](systemic-human-centred-data-use-approach.md)
 
 ## Examples
 -

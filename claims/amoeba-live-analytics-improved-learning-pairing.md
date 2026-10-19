@@ -43,4 +43,6 @@ Editorial summary of Berland, Davis and Petrick Smith's article: AMOEBA analyzes
 
 
 ## Related Claims
--
+
+- [Personalized learning systems and recommender algorithms support effective AI-powered collaborative learning through tailored content and peer matching](ai-personalization-recommenders-support-collaborative-learning.md)
+- [Intelligent tutoring systems are a mature, technologically sophisticated implementation of AI-driven personalized learning with mostly positive outcomes in programming, mathematics, and STEM](its-mature-implementation-personalized-learning.md)

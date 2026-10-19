@@ -24,7 +24,9 @@ A publicly licensed bundle from V. Švábenský et al. containing the PHI exerci
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Teacher Moments](teacher-moments.md)
+- [IELTS Writing Scored Essays Dataset](ielts-writing-scored-essays-dataset.md)
 
 ## Key Sources
 - V. Švábenský, J. Vykopal, S. Leelaluk, P. Čeleda, F. Okubo, A. Shimada. (2026). Assessment in Team Problem-Solving Exercises in Computing Education. Proceedings of the 56th IEEE Frontiers in Education Conference (FIE '26). https://arxiv.org/abs/2607.19209v1

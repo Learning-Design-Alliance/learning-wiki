@@ -17,7 +17,7 @@ sources:
 # Move from life stories to life histories: collect stories of action within theories of context
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends that educational research move beyond collecting personal narratives toward life history work that builds contextual background around the story. The life story is a personal reconstruction of experience elicited in loosely structured interviews, whereas the life history also elicits other people's accounts, documentary evidence and historical data to develop a wide intertextual and intercontextual mode of analysis. The aim is a dialogue of a 'story of action within a theory of context'.
@@ -36,8 +36,13 @@ The article recommends that educational research move beyond collecting personal
 ### Target Learning Goals
 - teachers' reappropriation of their lived experiences and understanding of the social and historical contexts of their lives
 
+## Claims
+
+- [Storying is socially and politically non-neutral: it privileges some storylines and silences others](../claims/storying-privileges-some-storylines-silences-others.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Use myriad field texts and the analytical tools of broadening, burrowing, and storying and restorying to move from field texts to research texts](broadening-burrowing-storying-restorying-tools.md)
 
 ## Examples
 -

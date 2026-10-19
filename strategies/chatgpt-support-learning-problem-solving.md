@@ -44,6 +44,7 @@ The article recommends that "Teachers and universities should utilise ChatGPT as
 ## Related Strategies
 
 - [Coach youth to recognize problem-solving opportunities, master effective heuristics, and bolster motivation through collaboration](coach-youth-problem-solving-opportunities-heuristics-collaboration.md)
+- [Think first, ChatGPT later: a three-phase approach for guided human–AI collaboration in creative problem-solving](think-first-chatgpt-later-three-phase.md)
 
 ## Examples
 -

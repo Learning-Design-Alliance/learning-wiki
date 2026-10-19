@@ -62,4 +62,6 @@ Authors' stated possible explanations in the Conclusion: "more than half of the 
 
 
 ## Related Claims
--
+
+- [Some SQU ELT trainers used prescriptive practices contrary to reflective preparation: telling trainees how to teach (74.2% agreement), restricting lesson planning to the teachers guide (53.4%), and training them to teach only the national textbook (66.8%)](prescriptive-training-practices-contrary-to-reflection.md)
+- [SQU ELT trainers encouraged peer observation and same-day feedback sessions, with 78.9% of trainees agreeing trainers encouraged class visits and 81.9% agreeing feedback came the same day as observation](squ-trainers-encouraged-peer-observation-and-same-day-feedback.md)

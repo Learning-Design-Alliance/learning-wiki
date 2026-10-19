@@ -43,4 +43,7 @@ Meta-analysis using robust variance estimation with a random-effects model poole
 
 
 ## Related Claims
--
+
+- [SLD stigma effects on psychological adjustment appear in middle childhood as well as adolescence, and no discernible age pattern emerged across the reviewed studies](sld-stigma-effects-not-age-limited.md)
+- [Greater SLD stigma is generally associated with less optimal psychological adjustment (anxiety, depression, coping, self-efficacy, quality of life), though most associations could not be meta-analytically pooled](sld-stigma-psychological-adjustment-broader.md)
+- [Associations between SLD stigma and academic performance are small, based on very few studies, and less robust than stigma's associations with psychological outcomes](sld-stigma-academic-outcomes-less-robust.md)

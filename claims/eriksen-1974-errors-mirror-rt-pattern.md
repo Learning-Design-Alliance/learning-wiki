@@ -43,6 +43,8 @@ Error analysis presented in Table 3 (errors per noise condition, six Ss combined
 
 
 ## Related Claims
+
 - [Heterogeneous noise letters with set-related features produce intermediate RT impairment, consistent with stimulus generalization at wider spacings](eriksen-1974-similar-dissimilar-noise-intermediate.md) — related
 - [Response-incompatible flanking noise letters impair target reaction time significantly more than response-compatible noise in a nonsearch task](eriksen-1974-incompatible-noise-slows-target-rt.md) — possibly the same claim (merge candidate)
 - [Target RT decreases as between-letter spacing increases, and the noise-condition effect is greatest at the closest spacing (Noise Condition by Spacing interaction)](eriksen-1974-spacing-decreases-rt-interaction.md) — a broader claim this one bears on
+- [Target-alone RT is approximately 30 msec faster in blocked no-noise trials than in trials intermixed with noise conditions, indicating a preparatory inhibitory set](eriksen-1974-blocked-vs-mixed-control-30-msec.md)

@@ -17,7 +17,7 @@ sources:
 # Support children with cochlear implants in school as if they were hard of hearing, with ongoing professional development and strong clinic-school communication links
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The study recommends that educators treat children with cochlear implants as functionally similar to children with moderate or severe hearing loss, since even children with high spoken language proficiency have listening difficulties in particular contexts. It further recommends professional development about CI devices for teachers of the deaf and general class teachers, and strong communication links among teachers, parents, and implant professionals for equipment maintenance. As the paper states, "children with cochlear implants should be supported by teachers and school authorities essentially as if they were hard of hearing".
@@ -37,6 +37,10 @@ The study recommends that educators treat children with cochlear implants as fun
 - full access to school curricula
 - social inclusion
 - academic achievement commensurate with communication potential
+
+## Claims
+
+- [Children with cochlear implants had difficulty following spoken conversation in groups, with teachers reporting far more difficulty than parents](../claims/ci-group-conversation-difficulty.md) [+W]
 
 ## Related Strategies
 - 

@@ -43,4 +43,5 @@ Summary of five experiments on collaborative problem solving and collaborative l
 
 
 ## Related Claims
--
+
+- [The five mutual-modelling experiments varied how important it was to build an accurate model (task) and how difficult it was to build one (setting)](mutual-modelling-experiments-vary-task-and-setting.md)

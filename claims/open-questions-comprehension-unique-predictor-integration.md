@@ -46,6 +46,8 @@ In the hierarchical regression, open-question comprehension (β = .257 in step 1
 - [Reading and Language](../learner-variables/reading-and-language.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
 - [Intratextual integration dominates while intertextual integration is rare in sixth graders' multiple-text writing](intratextual-dominates-intertextual-rare-sixth-graders.md) — related
 - [Grammatical knowledge, reading comprehension, letter writing automaticity, and attentiveness are uniquely and positively related to substantive quality of first-grade written composition](grammatical-knowledge-reading-comprehension-letter-writing-automaticity-attentiveness-predict-substantive-quality.md) — related
 - [Kindergarten oral language does not uniquely predict third-grade expository writing quality](oral-language-not-predictive-expository-writing.md) — related
+- [Self-reported multiple-text strategies did not predict intratextual comprehension, where prior knowledge was the unique predictor](strategies-not-predict-intratextual-comprehension.md)

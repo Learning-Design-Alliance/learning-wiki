@@ -43,4 +43,6 @@ Review of meta-analytic research on age and job performance. The review reports 
 
 
 ## Related Claims
+
 - [General cognitive ability has moderate positive relations with work performance, with meta-analytic validity coefficients in the 0.4 to 0.6 range across many job types](cognitive-ability-validity-work-performance.md) — related
+- [Borrowing decisions with the fewest fees occur for middle-aged adults, peaking around age 53, even after controlling for credit risk, home value, and income](financial-decision-peak-middle-age.md)

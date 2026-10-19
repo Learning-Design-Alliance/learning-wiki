@@ -51,3 +51,4 @@ Three-factor ANOVA (treatment x ability x test occasion, repeated measures on oc
 - [Dahmus Method students translated phrases successfully but failed to combine them into a single solution equation](dahmus-students-translate-but-no-single-equation.md) — related
 - [Polya and Dahmus methods do not differ on the problem solution criterion](no-treatment-difference-problem-solution-criterion.md) — related
 - [Students exposed to AI-generated responses achieved higher performance in solving quadratic equations than those taught through conventional teaching methods](ai-generated-responses-higher-quadratic-achievement.md) — related
+- [Ninth grade algebra students solve verbally presented problems better than symbolically presented problems](students-verbal-problems-easier-than-symbolic.md)

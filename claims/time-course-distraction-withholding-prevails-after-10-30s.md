@@ -43,4 +43,7 @@ Multilevel multinomial regression (HLM, penalized quasi-likelihood) with linear 
 
 
 ## Related Claims
--
+
+- [Actively withholding the hands from the reward predicts success on delay-of-gratification tasks in two- and three-year-olds](hands-withholding-predicts-toddler-delay-success.md)
+- [Successful two- and three-year-olds initiate distraction and withholding behaviours very early, within the first 10 seconds of delay on average](rapid-initiation-delay-behaviours-successful-toddlers.md)
+- [Percentage of time distracting visual attention away from the reward predicts success on delay-of-gratification tasks in two- and three-year-olds](visual-attention-distraction-predicts-toddler-delay-success.md)

@@ -43,4 +43,5 @@ Descriptive comparison across entering cohorts in the Clearinghouse data. The re
 
 
 ## Related Claims
--
+
+- [In four-year private institutions, white and Asian students had nearly identical persistence rates (89.8 and 89.6 percent), but Asian students were more likely to continue at their starting institution (82.5 percent)](four-year-private-asian-white-persistence-retention-split.md)

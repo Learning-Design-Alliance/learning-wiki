@@ -62,4 +62,7 @@ Same study, results section: the hybrid implementation had a countervailing enha
 
 
 ## Related Claims
+
 - [Multiple factors besides learning issues may shape PBL students' self-study decisions](multiple-factors-shape-pbl-self-study-decisions.md) — related
+- [The assessment system determined whether an exam-directed focus inhibited or enhanced discussion behaviors](assessment-system-determines-discussion-focus.md)
+- [Four cultural factors inhibit students from speaking up, asking questions and challenging others in PBL discussions, with stronger impact in non-Western schools](four-cultural-factors-inhibit-discussion-behaviors.md)

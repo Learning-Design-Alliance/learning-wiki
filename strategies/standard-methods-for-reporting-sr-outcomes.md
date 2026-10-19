@@ -17,7 +17,7 @@ sources:
 # Direct future self-regulation research toward standard methods of reporting SR outcomes to address substantial heterogeneity in outcome measures.
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review recommends that "future research in SR should be directed to evaluate standard methods of reporting SR outcomes." This recommendation arises from the limitation that "The SR outcome measures were not uniform, and there was substantial heterogeneity in their reporting," which precluded quantitative synthesis of distal outcomes and produced high heterogeneity (I2 = 77%) in the primary meta-analysis. Standardized reporting would enable more reliable pooled estimates and clearer conclusions about intervention effectiveness across studies.
@@ -36,8 +36,13 @@ The review recommends that "future research in SR should be directed to evaluate
 ### Target Learning Goals
 - Improved comparability and synthesis of self-regulation intervention effectiveness evidence
 
+## Claims
+
+- [Heterogeneity in self-regulation outcomes was partly accounted for by assessment method, with restriction to task performance scores reducing I2 from 77% to 39.3%.](../claims/heterogeneity-partly-accounted-by-assessment-method-task-scores.md) [+M]
+
 ## Related Strategies
-- 
+
+- [Future CB-PA research and practice should use standardized, ecologically valid outcome measures, objective activity parameters, and longitudinal designs](standardized-ecologically-valid-cbpa-measures-strategy.md)
 
 ## Examples
 -

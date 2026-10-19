@@ -41,7 +41,8 @@ This pattern organizes the ninth grade into "small interdisciplinary learning co
 ### Claims
 
 ## Related Designs
-- 
+
+- [Double-dose semester block: Strategic Reading first semester, English 1 second semester](tdhs-double-dose-reading-block.md)
 
 ## Examples
 -

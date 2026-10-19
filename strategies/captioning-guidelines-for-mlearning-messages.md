@@ -37,7 +37,8 @@ The article recommends captions as one of the most versatile mechanisms availabl
 - reading comprehension, listening comprehension, vocabulary acquisition, word recognition, decoding skills and motivation to learn
 
 ## Related Strategies
-- 
+
+- [Customizable Display of Information](customizable_display_of_information.md)
 
 ## Examples
 -

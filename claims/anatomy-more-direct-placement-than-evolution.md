@@ -43,4 +43,5 @@ Nonparametric comparison of placement-type frequencies across the 72 images with
 
 
 ## Related Claims
--
+
+- [Over a third of images in middle school life science textbooks prompt students to compare visual units](textbook-images-prompt-comparison-37-percent.md)

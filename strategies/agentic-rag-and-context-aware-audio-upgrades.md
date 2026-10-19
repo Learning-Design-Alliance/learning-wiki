@@ -42,6 +42,7 @@ The authors' stated future directions for the pipeline. First, the retrieval lay
 - [Domain-adapt RAG pipelines for mathematical education via entity recognition, notation-aware retrieval, and pedagogical re-ranking](domain-adapted-rag-for-mathematical-education.md)
 - [Design LLM feedback systems to retain encouraging tone, constrain behavioral gaming, and reduce overwhelming cognitive load](llm-feedback-design-tone-gaming-load.md)
 - [Planned enhancements: multi-turn conversational follow-up, RAG-based personalization, and feedback analytics for AI-assisted instruction](planned-ai-instruction-enhancements-rag-multiturn.md)
+- [Design AI-enhanced learning management systems that explicitly target engagement across cognitive, emotional, behavioral, and social domains](ai-enhanced-lms-four-engagement-domains.md)
 
 ## Examples
 -

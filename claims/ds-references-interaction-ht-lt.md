@@ -43,4 +43,8 @@ Mixed logistic model of DS references in essays (n = 76). The article reports "a
 
 
 ## Related Claims
--
+
+- [References to the embedded source did not differ by sequence type, ranging from 17.6% to 35% across conditions](es-references-null-sequence-type.md)
+- [After reading the first text, embedded-source trustworthiness evaluations did not vary between sequences](es-evaluation-no-sequence-difference-position-one.md)
+- [Embedded-source trustworthiness evaluations shift toward the trustworthiness of the most recent document source in mixed sequences](es-evaluation-shifts-mixed-sequences.md)
+- [Embedded-source trustworthiness evaluations do not change across positions when both document sources have similar trustworthiness](es-evaluation-stable-homogeneous-sequences.md)

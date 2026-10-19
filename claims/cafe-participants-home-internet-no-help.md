@@ -43,6 +43,7 @@ Ethnographic attendance data from the Digital Café study. The authors report th
 
 
 ## Related Claims
+
 - [Implementation data show teachers shifted independent practice toward in-class ASSISTments assignments, a change the study links to more equitable access for rural students with limited home connectivity](assistments-classwork-shift-rural-equity.md) — related
 - [During spring 2020 remote instruction, internet connectivity and hardware/software problems interfered with course participation for large shares of undergraduates](remote-covid-technology-access-problems-widespread.md) — related
 - [Roughly 30 percent of U.S. students (15 to 16 million) lacked adequate internet or device access in late 2020, with rural, Native American, Black, and Latino students disproportionately affected](homework-gap-scale-2020.md) — related
@@ -51,3 +52,4 @@ Ethnographic attendance data from the Digital Café study. The authors report th
 - [Hispanic and low-income students reported more challenges and technology problems after the shift online than non-Hispanic White and higher-income peers; rural students did not differ](equity-gaps-online-transition-challenges.md) — related
 - [Individual internet penetration in rural Bangladesh (36.5%) is about half the urban rate (71.4%), which one case-study preprint argues puts cloud-dependent AI tools out of reach for rural learners](rural-urban-connectivity-exclusion-bangladesh.md) — related
 - [Motivation, internet connectivity, and hardware/software problems were widespread challenges in remote STEM courses](widespread-remote-stem-challenges-motivation-connectivity.md) — related
+- [Participants spent much of their out-of-school time alone at home](vi-students-alone-at-home-out-of-school.md)

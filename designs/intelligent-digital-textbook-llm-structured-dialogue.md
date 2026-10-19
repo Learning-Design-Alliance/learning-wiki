@@ -41,7 +41,9 @@ The learning engineer collaborators are developing a framework for intelligent d
 - 
 
 ## Related Designs
-- 
+
+- [GraphRAG textbook knowledge retrieval for grounded tutoring](graphrag-textbook-retrieval-math-tutor.md)
+- [Retrieval-augmented generative AI learning platform for construction education](rag-generative-ai-platform-construction-education.md)
 
 ## Examples
 -

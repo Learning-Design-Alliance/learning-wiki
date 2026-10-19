@@ -17,7 +17,7 @@ sources:
 # Design future TFA studies to meet evidence standards and compare like-for-like teachers so effect sizes can enter meta-analysis
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The review recommends how future research can strengthen the TFA evidence base: studies should "meet objective extant evidence standards" and "compare the same types of TFA and non‐TFA teachers so that effect sizes can be included in a future systematic review and meta‐analysis". The review found that many existing studies failed evidence review standards or compared different types of corps members and non-TFA teachers, preventing pooling. This strategy targets researchers and policymakers evaluating alternative-route teacher preparation programs.
@@ -35,6 +35,11 @@ The review recommends how future research can strengthen the TFA evidence base: 
 
 ### Target Learning Goals
 - Math, English Language Arts, and science academic outcomes
+
+## Claims
+
+- [The evidence base for estimating TFA's effects on student academic outcomes reduces to just four studies](../claims/tfa-evidence-base-reduced-to-four-studies.md) [+W]
+- [Teaching by first- or second-year TFA corps members shows no significant effect on elementary-grade students' reading compared with non-TFA novice teachers](../claims/tfa-corps-no-significant-reading-effect-elementary.md) [+W]
 
 ## Related Strategies
 - 

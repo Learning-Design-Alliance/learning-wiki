@@ -62,4 +62,6 @@ Step 2 regression coefficients for the two MTSI scales predicting intertextual c
 
 
 ## Related Claims
--
+
+- [Self-reported multiple-text strategies did not predict intratextual comprehension, where prior knowledge was the unique predictor](strategies-not-predict-intratextual-comprehension.md)
+- [External validity of the special-issue strategy measures was mixed: low-to-moderate comprehension correlations for Bräten and Strømsø and Magliano et al., indeterminate for Schellings and Winne and Muis](external-validity-mixed-across-new-strategy-instruments.md)

@@ -44,6 +44,9 @@ The Saga approach instantiates a high-dosage tutoring design in which tutoring i
 
 - [Saga Math Tutoring Program](../products/saga-math.md)
 - [ToddlerBot-based humanoid curriculum instantiation for grades 9-12 with eight CS+AI sessions](toddlerbot-high-school-rl-curriculum.md)
+- [Supplement classroom instruction with consistent in-school tutoring sessions that use student performance data to guide instruction](in-school-data-guided-tutoring-supplements-classroom.md)
+- [Push-in short-burst tutoring with personalized dosage](push-in-short-burst-personalized-tutoring.md)
+- [School-community-family partnership pattern pairing tutoring dosage with regular family contact](tutoring-plus-family-engagement-partnership-pattern.md)
 
 ## Examples
 -

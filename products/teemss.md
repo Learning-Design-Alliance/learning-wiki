@@ -32,7 +32,8 @@ TEEMSS is a Concord Consortium physical-science curriculum for grades 3–8 that
 - [TEEMSS produced a statistically significant positive effect on the grade 3–4 sound unit test in a quasi-experimental study](../claims/teemss-sound-unit-test-positive-effect.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [SageModeler](sagemodeler.md)
 
 ## Key Sources
 - U.S. Department of Education, Institute of Education Sciences, What Works Clearinghouse. (2012, May). Science intervention report: Technology Enhanced Elementary and Middle School Science (TEEMSS). Retrieved from https://ies.ed.gov/ncee/wwc/InterventionReport/610.

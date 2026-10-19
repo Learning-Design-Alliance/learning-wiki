@@ -42,7 +42,9 @@ Newcomer schools are "an alternative, relatively self-contained learning environ
 - 
 
 ## Related Designs
-- 
+
+- [Three-type taxonomy of newcomer schools: programs-within-a-school, transitional, and comprehensive](newcomer-school-three-type-taxonomy.md)
+- [Staff newcomer schools with skilled, purposeful, visionary leaders who build teams and innovate](newcomer-school-leadership-practices.md)
 
 ## Examples
 -

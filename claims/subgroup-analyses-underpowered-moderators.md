@@ -43,4 +43,7 @@ Subgroup-analysis stage of the meta-analysis (Results, §3.5.2). The authors rep
 
 
 ## Related Claims
--
+
+- [Effects of inclusion are heterogeneous and single-factor subgroup moderator analyses were inconclusive](inclusion-effects-heterogeneous-moderator-analyses-inconclusive.md)
+- [Too few studies exist to draw robust conclusions on moderating factors (age, gender, screen size, dosage, SAMR-based activities) or on whether benefits persist beyond the post-test](mobile-device-moderators-insufficient-evidence.md)
+- [Heterogeneity between studies of the metacognition–math association is significant and remains high in all moderator analyses](metacognition-math-heterogeneity-high.md)

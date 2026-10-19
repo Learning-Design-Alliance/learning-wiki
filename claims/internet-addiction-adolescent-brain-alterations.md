@@ -81,4 +81,8 @@ Resting-state fMRI study of 26 15-year-olds with Internet addiction symptoms and
 
 
 ## Related Claims
--
+
+- [Excessive smartphone use in adolescents is associated with reduced frontostriatal connectivity and greater cortisol-related withdrawal symptoms](excessive-smartphone-frontostriatal-cortisol.md)
+- [Internet-addicted adolescents show deficient response inhibition, failing to recruit the frontal-basal ganglia pathway engaged by controls](internet-addiction-deficient-response-inhibition.md)
+- [Frequency of Internet use negatively predicts longitudinal change in gray and white matter volumes and in verbal IQ in early adolescents](internet-use-frequency-longitudinal-gray-matter-verbal-iq.md)
+- [Frequent and longer screen-based media use, including Internet-related addictive behaviors, is related to a less efficient cognitive control system in adolescence](screen-time-less-efficient-cognitive-control-adolescence.md)

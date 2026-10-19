@@ -62,6 +62,8 @@ Race-by-poverty disaggregation in Table 5. The authors caution that high values 
 
 
 ## Related Claims
+
 - [Gender does not moderate the club participation–GPA relationship in math or science](gender-does-not-moderate-club-gpa-relationship.md) — related
 - [Math club participation is positively associated with high school math GPA, with a medium standardized relationship that persists after propensity score matching](math-club-participation-higher-math-gpa.md) — related
 - [STEM club participants differ descriptively from non-participants in GPA, course-taking, test scores, and college desire](stem-club-participants-descriptive-differences.md) — related
+- [The science club–science GPA relationship is not significant for Asian students, though the math club relationship is](asian-students-science-club-null-math-significant.md)

@@ -62,4 +62,5 @@ The two-way ANOVA's learning material × educational background interaction reac
 
 
 ## Related Claims
--
+
+- [Text cohesion interacts with background knowledge: low-knowledge readers benefit from high cohesion, high-knowledge readers from low cohesion (reverse cohesion effect)](reverse-cohesion-effect-background-knowledge.md)

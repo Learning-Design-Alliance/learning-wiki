@@ -43,4 +43,8 @@ Univariate ANOVA on completion time excluding LC treatments, from the same rando
 
 
 ## Related Claims
--
+
+- [Low-density text is as effective as high-density text for achievement in expository CBI and print lessons](low-density-text-equal-achievement.md)
+- [Students generally prefer low-density text, selecting it on about 65 percent of learner-control choices](students-prefer-low-density-text.md)
+- [High-variability passages receive longer study times than low-variability passages](high-variability-passages-longer-study-time.md)
+- [Reading comprehension strongly predicts achievement from high-density microtext, unlike other density conditions](reading-comprehension-predicts-high-density-learning.md)

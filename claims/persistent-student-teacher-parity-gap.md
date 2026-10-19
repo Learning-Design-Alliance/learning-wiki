@@ -44,4 +44,7 @@ Descriptive analysis of the nationally representative SASS data for 2011–12 (T
 
 
 ## Related Claims
+
 - North Carolina's teacher workforce is far less racially diverse than its student population — related
+- [The center-based early educator workforce is more racially and ethnically diverse than the TK–12 workforce, with 66% identifying as people of color versus 39%](ece-workforce-more-diverse-than-tk12.md)
+- [Minority teachers are disproportionately employed in high-poverty, high-minority, urban public schools](minority-teachers-disproportionately-in-hard-to-staff-schools.md)

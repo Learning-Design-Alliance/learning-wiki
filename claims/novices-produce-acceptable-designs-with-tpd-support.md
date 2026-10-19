@@ -43,4 +43,5 @@ Authors' conclusion: novices 'can make a reasonably good draft of a simulator tr
 
 
 ## Related Claims
--
+
+- [All subjects iterated while designing a training simulator specification, with iteration counts ranging from 10 to 30](all-subjects-iterated-log-evidence.md)

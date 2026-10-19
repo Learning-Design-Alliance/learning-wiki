@@ -43,4 +43,5 @@ MANOVA of 104 children classified as nonresponsive (n = 34), sometimes responsiv
 
 
 ## Related Claims
--
+
+- [Nonresponsive students scored significantly lower than always responsive students on seven measures and higher on problem behavior](nonresponders-posthoc-pairwise-deficits.md)

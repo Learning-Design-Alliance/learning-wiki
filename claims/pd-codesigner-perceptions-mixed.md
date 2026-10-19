@@ -61,4 +61,8 @@ The same per-class analyses showed co-designer perceptions declining more than c
 
 
 ## Related Claims
--
+
+- [Teacher–student disagreement diminished for co-designers and, in most cases, for the rest of the class](pd-disagreement-decreased-codesigners.md)
+- [Perceived-desired discrepancies decreased for co-designers but often increased or decreased less for the rest of the class](pd-discrepancy-negative-for-rest-of-class.md)
+- [Participatory redesign produced significantly more positive perception effects on instruction aspects relevant to the formulated improvements than on irrelevant ones](pd-relevant-scales-more-positive-effects.md)
+- [Student awareness of improvement differed sharply by role: most co-designers noticed improvement, most control students noticed none](pd-student-change-question-differences.md)

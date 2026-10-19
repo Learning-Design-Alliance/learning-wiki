@@ -43,4 +43,6 @@ Case example from the hummus cultural-appropriation discussion (Findings §4.2).
 
 
 ## Related Claims
--
+
+- [LlamaLo added knowledge in almost every post, mostly correct, and most posts were internally coherent](llamalo-knowledge-addition-coherence.md)
+- [LlamaLo occasionally employed an aggressive or sarcastic tone, sometimes without user provocation, though it changed tone after being commented on](llamalo-negative-tone-challenge.md)

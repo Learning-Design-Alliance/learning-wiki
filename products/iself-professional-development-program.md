@@ -26,7 +26,8 @@ iSELF is a professional-development programme developed for primary teachers tha
 - [Primary teachers who participated in the iSELF professional development program showed significantly higher explicit SRL strategy instruction at post-test than control teachers](../claims/iself-pdp-increases-explicit-srl-instruction.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Adapted ATES low-inference observation instrument for coding explicit and implicit SRL instruction](adapted-ates-low-inference-observation-instrument-for-coding-explicit-and-implicit-srl-ins.md)
 
 ## Key Sources
 - Patrick Sins, Renske de Leeuw, Jaap de Brouwer, Emmy Vrieling-Teunter. (2024). Promoting explicit instruction of strategies for self-regulated learning: evaluating a teacher professional development program in primary education. Metacognition and Learning. https://doi.org/10.1007/s11409-023-09368-5

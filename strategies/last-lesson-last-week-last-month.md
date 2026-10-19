@@ -58,8 +58,10 @@ Retrieval practice strengthens memory more than re-exposure, and its benefits gr
 5. Periodically return to items students missed, adjusting the intervals for material that has not yet stabilized.
 
 ## Related Strategies
+
 - Spaced retrieval and cumulative review — this strategy is a classroom implementation of the spacing effect
 - Exit tickets and warm-up quizzes — related short-cycle formative routines that feed the question bank
+- [Implement weekly low-stakes spaced recall quizzes cycling fundamental concepts monthly, with a plan to address student frustration](weekly-spaced-recall-quiz-strategy-fundamental-concepts.md)
 
 ## Examples
 - A high school biology teacher opens each class with three questions on the board — one from the previous lesson, one from the unit started last week, one from a unit completed last month — answered in the first five minutes on index cards.

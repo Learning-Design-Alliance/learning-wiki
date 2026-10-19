@@ -43,6 +43,7 @@ Observational log analysis of anonymized activity data from 67,686 students in 2
 
 
 ## Related Claims
+
 - [Game-oriented engagement declines with grade level while assessment-driven engagement peaks in Grade 8](game-orientation-declines-assessment-driven-peaks-grade-8.md) — related
 - [No K–8 student profile showed balanced engagement across all four platform components](no-balanced-engagement-across-platform-components.md) — a narrower finding that bears on this claim
 - [Three distinct learner profiles emerge from function art activities: Repetitivists, Simplists, and Multifunctionists](function-art-three-learner-profiles.md) — related
@@ -55,3 +56,4 @@ Observational log analysis of anonymized activity data from 67,686 students in 2
 - [K-Means++ clustering of self-reported behavioral proxies yields six distinct, stable learner profiles (k = 6, Silhouette = 0.62)](six-behavioral-learner-profiles-kmeans-plus.md) — related
 - [Four distinct LLM learner profiles emerge from latent class analysis of learning contexts, tasks, and devices](four-llm-learner-profiles-lca.md) — related
 - [Three learning profiles emerge among university students: organized-deep, unorganized-deep, and dissonant](three-learning-profiles-kmeans.md) — related
+- [Affinity propagation clustering of gameplay attempts yielded an interpretable six-cluster solution (part.6)](affinity-propagation-six-cluster-solution.md)

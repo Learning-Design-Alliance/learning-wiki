@@ -13,7 +13,7 @@ generated:
 # 53-study PRISMA-screened evidence corpus on GenAI and educational outcomes
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 quant-synthesis), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A corpus of 53 screened studies on GenAI effects on academic achievement, higher-order thinking, and writing, assembled and quality-rated by Ying Dong through a PRISMA-based review.
@@ -22,6 +22,9 @@ A corpus of 53 screened studies on GenAI effects on academic achievement, higher
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
+- [GenAI-assisted education produces significantly higher academic achievement than non-GenAI-assisted approaches (g = 0.40)](../claims/genai-higher-academic-achievement-g040.md) [+M]
+- [Regional context moderates GenAI effects: positive in China and Pakistan, negative in Korea and Turkey](../claims/genai-effects-vary-by-country.md) [~M]
 
 ## Related Products and Programmes
 -

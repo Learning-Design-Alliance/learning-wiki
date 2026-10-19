@@ -43,4 +43,6 @@ Descriptive synthesis of the retained studies' ancestry and recruitment: "only 1
 
 
 ## Related Claims
--
+
+- [Sample ancestry significantly moderates polygenic score predictions of educational attainment, with stronger predictions in European-ancestry samples](pgs-attainment-ancestry-moderator.md)
+- [Polygenic score predictions are reduced in African American relative to European ancestry samples, significantly so only for educational attainment](pgs-predictions-reduced-african-american-samples.md)

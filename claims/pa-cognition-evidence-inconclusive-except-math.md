@@ -43,4 +43,7 @@ The commentary's background synthesis of existing reviews reports that "other sy
 
 
 ## Related Claims
--
+
+- [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](classroom-physical-activity-improves-attention.md)
+- [Guided play outperforms direct instruction or free play on a few early-childhood outcomes, with no reliable difference on most others, in one meta-analysis](play-based-learning-improves-outcomes.md)
+- [School-aged children show reduced physical activity and increased sedentary behavior during the summer break across multiple countries](summer-break-reduced-activity-increased-sedentary.md)

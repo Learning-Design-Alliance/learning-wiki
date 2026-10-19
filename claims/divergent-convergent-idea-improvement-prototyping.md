@@ -43,8 +43,10 @@ tSSNA analysis of TDC over time for three teams during 30-minute prototyping ses
 
 
 ## Related Claims
+
 - [Engineering, product design, and service design teams differ significantly in shared epistemic agency during collaborative prototyping](design-disciplines-differ-shared-epistemic-agency-prototyping.md) — related
 - [Engineering team converged earlier than other teams, concluding prototyping two minutes before the time limit](engineering-team-early-convergence-prototyping.md) — related
 - [Differences in shared epistemic agency between design teams change across prototyping phases](epistemic-agency-changes-across-phases.md) — related
 - [Each team showed statistically significant changes in shared epistemic agency across prototyping phases](within-team-phase-transitions-epistemic-agency.md) — related
 - [A temporal extraction rule classified the GENERAL INSTRUCTION -> PLANNER action pattern as Planning in the first 15 minutes but as Monitoring in the last 30 minutes](temporal-rule-planning-monitoring-distinction.md) — related
+- [Collaborative writing develops through distinct phases, is non-linear and non-cumulative, with sharing of opinions emerging in the last phase](collaborative-writing-phases-nonlinear-opinion-sharing-last.md)

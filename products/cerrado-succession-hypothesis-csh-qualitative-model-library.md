@@ -13,7 +13,7 @@ generated:
 # Cerrado Succession Hypothesis (CSH) qualitative model library
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A GARP-based qualitative ecological model library developed by Anders Bouwer and collaborators to simulate Cerrado vegetation succession, population dynamics, and fire-management effects through composable model fragments and scenarios.
@@ -24,8 +24,13 @@ A GARP-based qualitative ecological model library developed by Anders Bouwer and
 
 ### Claims
 
+- [Participants answered the VISIGARP inspection exercises with high accuracy (M = 94.3%)](../claims/visigarp-treatment-accuracy.md) [+W]
+- [Participants rated the complex three-population scenario as more difficult than the simple one-population scenario](../claims/visigarp-scenario2-difficulty.md) [+W]
+
 ## Related Products and Programmes
--
+
+- [VISIGARP](visigarp.md)
+- [VERA (Virtual Experimentation Research Assistant) ecological modeling tool](vera-virtual-experimentation-research-assistant-ecological-modeling-tool.md)
 
 ## Key Sources
 - Anders Bouwer, Bert Bredeweg. (2010). Graphical means for inspecting qualitative models of system behaviour. Instr Sci 38:173–208. https://doi.org/10.1007/s11251-008-9083-4

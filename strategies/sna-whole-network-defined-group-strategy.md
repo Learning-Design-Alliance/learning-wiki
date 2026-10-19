@@ -42,6 +42,7 @@ This strategy applies SNA at the level of whole networks: the evaluator measures
 ## Related Strategies
 
 - [Use SNA in both process and outcome evaluations of programs](sna-process-and-outcome-evaluations-strategy.md)
+- [Advance the use of structural-configurational methods such as SNA and ENA toward empirically testable models](structural-configurational-methods-toward-testable-models.md)
 
 ## Examples
 -

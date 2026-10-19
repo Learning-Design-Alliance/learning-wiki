@@ -43,6 +43,7 @@ Interview theme on hidden productivity costs: P14 must "explain the context repe
 
 
 ## Related Claims
+
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
 - [Low comment rewriting does not imply a smooth process: students describe the main effort as verifying generated code rather than revising prompts](verification-burden-shifts-work-from-rewriting-to-reviewing.md) — a narrower finding that bears on this claim
 - [Student reflections identify speed and scaffolding as the dominant theme, with verification burden, overreliance worries, and prompt precision also prevalent](reflection-themes-copilot-comment-workflow.md) — related
@@ -58,3 +59,4 @@ Interview theme on hidden productivity costs: P14 must "explain the context repe
 - [Active engagement with AI outputs (cross-verifying, refining prompts, revising) supports productive learning and depends on learners' prior knowledge](active-ai-engagement-depends-on-prior-knowledge.md) — related
 - [Student narratives complicated the educator assumption that copied AI answers imply no learning, revealing invisible post-AI learning activities](invisible-learning-beyond-ai-answers.md) — a narrower finding that bears on this claim
 - [AI intuition emphasizes epistemic judgment rather than output optimization, distinguishing it from prompt engineering](ai-intuition-epistemic-judgment-not-prompt-engineering.md) — related
+- [Students perceive GenAI-assisted translation as challenged by inadequate outputs, limited prompt engineering, and risks to creativity and employment](genai-translation-challenges-adequacy-prompting.md)

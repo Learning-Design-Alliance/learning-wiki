@@ -13,7 +13,7 @@ generated:
 # Time Explorers
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 6 claims (5 for, 1 against) · 2 studies (2 qualitative), `q2` · 0 of 2 report an effect size · 6 claims rest on one study
 
 ## Description
 A mobile augmented-reality app developed by Heather Toomey Zimmerman and colleagues for family, place-based learning about Appalachian geological history.
@@ -24,8 +24,16 @@ A mobile augmented-reality app developed by Heather Toomey Zimmerman and colleag
 
 ### Claims
 
+- [Sensory immersion prompted by the MAR app supported families' geoscientific talk and observation of rock features during place-based LOTM.](../claims/sensory-immersion-prompted-geoscientific-observation.md) [+W]
+- [All families took photographs at each microsite as evidence of their observation, with only one family personalizing photos by including children.](../claims/photo-taking-evidence-of-observation.md) [+W]
+- [Families engaged in multiple immersive processes at the same microsites, combining sense-making conversations, observational inquiry, and deep geoscience engagement.](../claims/multiple-immersive-processes-at-microsites.md) [+W]
+- [All families in the dataset successfully used the GPS wayfinding map for actional immersion, including a 5-year-old navigating alone.](../claims/gps-wayfinding-actional-immersion-accessible.md) [+W]
+- [No substantial example of emancipatory immersion was found in the family data, despite the framework including it.](../claims/no-substantial-emancipatory-immersion-example.md) [-W]
+- [Families' geoscience sense-making during learning-on-the-move was shaped by the immersive qualities of a mobile AR app](../claims/mobile-ar-families-immersive-geoscience-lotm.md) [+W]
+
 ## Related Products and Programmes
--
+
+- [Mad City Mystery](mad-city-mystery.md)
 
 ## Key Sources
 - Heather Toomey Zimmerman, Susan M. Land, Lillyanna Faimon, Yu-Chen Chiu. (2023). Mobile augmented reality supporting families’ immersive collaborative learning: Learning-on-the-move for place-based geoscience sense-making. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-023-09399-9

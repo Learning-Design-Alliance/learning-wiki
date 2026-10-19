@@ -37,7 +37,9 @@ For contexts where users may only have internet access through low bandwidth con
 - reliable access to web-delivered instruction
 
 ## Related Strategies
-- 
+
+- [Design OEP for accessibility and marginalized participation rather than open for all](design-oep-for-those-farthest-from-justice.md)
+- [Consider Socio-Cultural Factors](consider_socio-cultural_factors.md)
 
 ## Examples
 -

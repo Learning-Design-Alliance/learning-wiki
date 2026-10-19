@@ -43,6 +43,8 @@ The article defines a fuzzy time series as a sequence of fuzzy sets F(t) defined
 ## Examples
 
 - [Two-step fuzzy forecasting pattern: fuzzylise the universe, then interpret the fuzzy output](../methods/two-step-fuzzylise-then-interpret-forecasting-pattern.md)
+- [Use fuzzy forecasting when historical data are scarce but experience knowledge is available, because the method tolerates imperfect data](../methods/fuzzy-forecasting-when-historical-data-requirements-are-loose.md)
+- [Apply three membership-based principles to translate fuzzy forecast outputs into numeric values](../strategies/three-principles-interpret-fuzzy-output-numbers.md)
 
 ## Key Sources
 - Song, Qiang; Chissom, Brad S. (1991). Forecasting Enrollments with Fuzzy Time Series. https://eric.ed.gov/?id=ED340733

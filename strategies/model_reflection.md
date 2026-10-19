@@ -75,9 +75,11 @@ Reflection is a skill that must be demonstrated before it can be internalized; o
 5. Gradually fade the model: shift from teacher-modeled to student-led reflective conversations, then to private reflection.
 
 ## Related Strategies
+
 - [Think-Aloud Modeling](../strategies/think-aloud-modeling.md) — the general mechanism; model reflection applies it to metacognitive and professional practice
 - [Journaling](../strategies/journaling.md) — the artifact and practice medium through which modeled reflection becomes student reflection
 - [Check-Ins](../principles/check-ins.md) — brief structured moments where modeled reflection can be practiced at low stakes
+- [Classroom strategies to develop metacognition: reflective questions, decision diagrams, thinking aloud, reflective dialogue, and metacognitive argumentation](metacognition-classroom-strategies-set.md)
 
 ## Examples
 - A teacher educator reflects on a workshop session and shares journal excerpts with teacher candidates, annotating where she noticed a missed question or revised an assumption.

@@ -163,9 +163,11 @@ Imitation right after the model, unaided immediate performance, delayed retentio
 - [Self-Explanation](cognitive-activation.md) — prompting learners to explain what they watch or study
 
 ## Examples
+
 - [Incorporate assessment questions that elicit causal mechanistic reasoning through phenomena, scaffolded but not over-probed](../strategies/align-assessments-with-cmr-phenomena.md)
 - An instructor models a complete solution path before learners solve a similar problem with support.
 - A clinical trainer demonstrates a procedure while narrating the key decision points.
+- [Video modeling examples with expert narration revealing covert cognitive processing](../strategies/video-modeling-examples-expert-narration.md)
 
 ### Illustrative
 

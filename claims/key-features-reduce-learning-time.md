@@ -43,4 +43,5 @@ ANCOVA on self-noted learning time in the randomized experiment with 181 student
 
 
 ## Related Claims
--
+
+- [Case comparison shifts student teachers' beliefs about operant conditioning toward more positive, regardless of experimental condition](case-comparison-shifts-beliefs-operant-conditioning.md)

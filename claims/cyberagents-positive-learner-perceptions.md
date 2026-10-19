@@ -43,8 +43,10 @@ Classroom deployment with 24 undergraduate students using a within-subjects desi
 
 
 ## Related Claims
+
 - [Open-ended learner feedback revealed four themes: trust in AI scaffolding, feedback clarity, engagement, and task authenticity](cyberagents-qualitative-four-themes.md) — related
 - [Students expressed positive overall opinions of GBSRI, rating Independent Practicing highest and Post-writing lowest](gbsri-positive-student-opinions-stage-ratings.md) — related
 - [Students rated ChatGPT highly for completing activities more quickly, among the highest-scoring survey items in both courses](chatgpt-rated-high-for-speed-of-completion.md) — related
 - [IMI motivation ratings after four weeks of Mangomon play were moderate (all sub-scale means below 4.00), highest for effort/importance and lowest for perceived choice](moderate-motivation-imi-mangomon.md) — related
 - [A design-based study with 42 undergraduates reported a 15% improvement in rubric alignment and faster correction cycles from proactive agentic feedback loops](agentic-feedback-42-undergrads-rubric-alignment-gain.md) — related
+- [Easier items were perceived as better aligned with the curriculum (strong difficulty–alignment association)](easier-items-perceived-as-better-aligned.md)

@@ -43,4 +43,8 @@ GLMM analysis of sentence-final word measures in the eye-tracking experiment wit
 
 
 ## Related Claims
--
+
+- [Consistency condition was significant in all GLMM models, with higher consistency judgement accuracy for consistent than inconsistent texts](consistency-condition-significant-all-models.md)
+- [First-pass reading measures at the target word showed no main effect on inconsistency identification, and lookbacks from the target word were associated with lower accuracy in consistent texts](first-pass-target-word-no-effect-lookbacks-consistent.md)
+- [Overall reading time did not differ between consistent and inconsistent texts, but participants judged consistent texts more accurately (d = 0.84), indicating inconsistencies were more often overlooked than falsely perceived](overlooking-inconsistencies-accuracy-asymmetry.md)
+- [Reanalysis of the pre-target text (rereading time and revisit frequency) interacted significantly with consistency condition in predicting consistency judgement accuracy](pre-target-reanalysis-condition-interaction.md)

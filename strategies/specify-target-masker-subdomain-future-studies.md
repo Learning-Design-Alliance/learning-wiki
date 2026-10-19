@@ -17,7 +17,7 @@ sources:
 # Test understudied cognition–SiN combinations and specify target, masker, and subdomain precisely in future studies
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The review recommends that future work fill identified gaps and report measures precisely. It concludes that "being specific about the target and background signal as well as the tested cognitive subdomain and employing the full range of available stimuli may be a way to draw out further variability in association." It also identifies cognitive performance and SiN perception combinations that have not been tested, including alerting and orienting, where only two and one studies existed and no meta-analysis was possible.
@@ -35,6 +35,11 @@ The review recommends that future work fill identified gaps and report measures 
 
 ### Target Learning Goals
 - Designing studies that resolve which cognitive abilities support speech-in-noise perception under which listening conditions
+
+## Claims
+
+- [Cognitive subdomains differ in association strength with SiN perception, from r = .18 (crystallized IQ, nonsignificant) to r = .39 (processing speed)](../claims/subdomain-associations-range-18-39.md) [+W]
+- [Working-memory associations with SiN perception appear strongest under informational masking and sentence targets (r up to .43)](../claims/wm-strongest-informational-masking-sentences.md) [+W]
 
 ## Related Strategies
 - 

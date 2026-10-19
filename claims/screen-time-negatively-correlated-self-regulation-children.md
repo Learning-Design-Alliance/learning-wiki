@@ -43,4 +43,5 @@ Partial correlation analysis in the same cross-sectional sample of 1561 children
 
 
 ## Related Claims
--
+
+- [Physical activity is positively correlated with self-regulation in Chilean children aged 8–12](physical-activity-positively-correlated-self-regulation-children.md)

@@ -24,7 +24,9 @@ A cohort-based early childhood teacher-preparation programme run by San Francisc
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [UCLA IMPACT ECE/Multiple Subject Program](ucla-impact-ecemultiple-subject-program.md)
+- [Family Child Care Apprenticeship (FCC Apprenticeship)](family-child-care-apprenticeship-fcc-apprenticeship.md)
 
 ## Key Sources
 - Gardner, M., Melnick, H., Meloy, B., & Barajas, J. (2019). Promising models for preparing a diverse, high-quality early childhood workforce. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/preparing-diverse-high-quality-early-childhood-workforce

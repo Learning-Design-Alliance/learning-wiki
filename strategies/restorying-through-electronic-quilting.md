@@ -51,7 +51,9 @@ A concrete operationalization of [Womanist Restorying](../theories/womanist-rest
 4. Close with a presentation or gallery display of the finished quilt, inviting each group to narrate their counter-story aloud.
 
 ## Related Strategies
+
 - (none yet linked)
+- [Use myriad field texts and the analytical tools of broadening, burrowing, and storying and restorying to move from field texts to research texts](broadening-burrowing-storying-restorying-tools.md)
 
 ## Examples
 - A 4-week after-school museum workshop where a 15-year-old Black girl, Heather, and her group designed a quilt patch depicting a Black woman computer scientist asserting "I can do this" against a skeptical supervisor, after having named "old white men" as their group's dominant CS stereotype.

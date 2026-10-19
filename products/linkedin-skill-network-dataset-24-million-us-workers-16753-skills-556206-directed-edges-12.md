@@ -13,7 +13,7 @@ generated:
 # LinkedIn skill network dataset: 2.4 million US workers, 16,753 skills, 556,206 directed edges, 12 skill domains
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (5 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 A Carpanelli et al. dataset linking self-reported LinkedIn skills for approximately 2.4 million US workers into a directed skill network for studying skill complexity, occupational mobility, and AI-skill adoption.
@@ -23,6 +23,12 @@ A Carpanelli et al. dataset linking self-reported LinkedIn skills for approximat
 - **LinkedIn skill network dataset: 2.4 million US workers, 16,753 skills, 556,206 directed edges, 12 skill domains**: A longitudinal individual-year panel built from LinkedIn profiles of a random sample of approximately 2.4 million US workers who listed at least five skills before 2022, with outcomes measured 2023–2025. From skill co-occurrence the authors construct a directed network in which "The resulting network contains 16,753 nodes, representing unique skills, and 556,206 directed edges, representing skill relationships. Louvain community detection identifies 12 broad skill domains." The dataset grounds all three skill complexity measures and the six resilience outcomes. (Carpanelli et al. (2026))
 
 ### Claims
+
+- [Skill portfolio measures stratify by demographics: men, younger cohorts, and more educated workers show higher specialisation](../claims/specialisation-demographic-stratification-linkedin.md) [+W]
+- [Specialisation is strongly associated with sorting into higher-wage occupations but only weakly related to adaptive outcomes](../claims/specialisation-predicts-wage-sorting-not-adaptation.md) [+W]
+- [Skill portfolio diversity is positively associated with skill acquisition, occupational mobility, and transitions into lower-AI-exposure occupations](../claims/diversity-predicts-adaptive-outcomes.md) [+W]
+- [Workers closest to the diversity frontier show the strongest adaptive outcomes, while frontier position is not associated with stronger wage sorting](../claims/diversity-frontier-predicts-adaptive-capacity.md) [+W]
+- [Mean skill diversity rises from low to moderate specialisation before declining among the most specialised workers](../claims/diversity-specialisation-inverse-u-pattern.md) [+W]
 
 ## Related Products and Programmes
 -

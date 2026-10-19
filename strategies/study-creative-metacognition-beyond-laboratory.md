@@ -17,7 +17,7 @@ sources:
 # Study creative metacognition in extended real-life processes rather than only in laboratory experiments
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends that research on cognitive flexibility, metacognition, and creativity go beyond the laboratory: "these processes must be studied in extended processes of creativity and not only through conventional experimental studies that are, too, localized in time". The author proposes expanding initiatives that track mind wandering in real life to consider its relationship with creative problem-solving, generating models with more ecological validity and integrating laboratory research of cognitive processes with real-life research of creative persons.
@@ -37,6 +37,10 @@ The article recommends that research on cognitive flexibility, metacognition, an
 ### Target Learning Goals
 - understanding creative metacognition with ecological validity
 - integrating laboratory and real-life creativity research
+
+## Claims
+
+- [Professional creators develop the capacity to mindfully mind-wander, identifying and capitalizing on mind wandering during long-term creative enterprises](../claims/mindful-mind-wandering-professional-creators.md) [+W]
 
 ## Related Strategies
 - 

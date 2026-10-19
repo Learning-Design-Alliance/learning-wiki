@@ -43,4 +43,7 @@ Authors' interpretation in the Discussion, attributed to Ford & Connor (2009); t
 
 
 ## Related Claims
--
+
+- [Abuse typology groups differed significantly on overall ADHD symptom scores, with only the non-abused group differing significantly from the three abuse groups in post hoc analysis](abuse-groups-differ-adhd-scores-anova.md)
+- [In a national sample of young Danish adults, all three maltreatment latent classes showed significantly increased risk of probable ADHD relative to the non-abused class, strongest for the overall abuse class (OR=5.08), then emotional abuse (OR=3.09) and sexual abuse (OR=2.07)](maltreatment-classes-increased-probable-adhd-risk.md)
+- [14.5% of the sample scored above the ASRS cutoff for probable ADHD, and the overall abuse latent class was especially associated with ADHD symptoms (35.9% above cutoff vs 10.1% of the non-abused group)](overall-abuse-class-359-percent-probable-adhd.md)

@@ -43,4 +43,5 @@ Questionnaire and oral evaluation of the intervention's form. Almost all respond
 
 
 ## Related Claims
--
+
+- [The prototyping exercise promoted exchange of ideas for HLC development and enhanced a shared image of the HLC among team members](prototyping-exercise-promotes-idea-exchange-shared-image.md)

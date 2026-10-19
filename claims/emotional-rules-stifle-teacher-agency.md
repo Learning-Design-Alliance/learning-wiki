@@ -43,4 +43,7 @@ The editorial describes Horn et al.'s (2025) study of the emotional rules vetera
 
 
 ## Related Claims
--
+
+- [The role of affect in STEM teacher learning remains seriously underexplored despite growing research on teacher emotion](affect-in-stem-teacher-learning-underexplored.md)
+- [Strict emotional regimes contribute to the production of vulnerability that can precipitate deficit narratives from asset-oriented teachers](emotional-regimes-vulnerability-deficit-narratives.md)
+- [Contextual resources shape teachers' agentic responses in challenging situations, which in turn shape their interpretations of student behavior and possibilities for responsiveness](contextual-resources-shape-teacher-responsiveness.md)

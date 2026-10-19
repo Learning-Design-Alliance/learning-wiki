@@ -17,7 +17,7 @@ sources:
 # Identify at-risk fourth graders via multi-indicator metacognition profiling to target personalized metacognition support
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (5 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The article proposes using person-oriented latent profile analysis over multiple procedural metacognition indicators, rather than single-task mean values, to uncover heterogeneity in children's monitoring and control. It states that "A better understanding of such heterogeneity within children's metacognitive skills may improve the identification of children who are at risk for low metacognition and benefit the design of personalized metacognition support." Because fourth-grade at-risk children tended to stay low over a year, early profiling in mid-to-late elementary school can flag children needing support, especially for restudy decisions.
@@ -35,6 +35,14 @@ The article proposes using person-oriented latent profile analysis over multiple
 
 ### Target Learning Goals
 - Metacognitive monitoring accuracy and strategic control of learning (restudy selection, response maintenance/withdrawal)
+
+## Claims
+
+- [Elementary school children show distinct latent profiles of procedural metacognition combining monitoring accuracy, restudy effectiveness, and decision accuracy across tasks](../claims/distinct-metacognition-profiles-lpa-children.md) [+W]
+- [Effective restudy selection is the metacognitive skill that most distinguishes children's profiles](../claims/effective-restudy-distinguishes-metacognition-profiles.md) [+W]
+- [Fourth graders with low metacognition tend to remain low one year later, particularly showing ineffective restudy decisions](../claims/fourth-graders-at-risk-metacognition-persists.md) [+W]
+- [Metacognition profile classifications differ between second and fourth graders](../claims/grade-level-differences-metacognition-profiles.md) [+W]
+- [Task performance relates to metacognition profile membership at the first measurement point but not one year later](../claims/performance-profile-relation-dissociates-over-time.md) [+W]
 
 ## Related Strategies
 - 

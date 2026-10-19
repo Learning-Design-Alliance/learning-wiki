@@ -42,7 +42,8 @@ PBIS is an evidence-based, multitiered framework used by schools to organize dat
 - [SWPBIS reduces the rate of increase in teacher-reported peer rejection over elementary school](../claims/swpbis-reduces-growth-peer-rejection.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [School-Wide Information System (SWIS)](school-wide-information-system-swis.md)
 
 ## Key Sources
 - Gage, N. A., Grasley-Boy, N. M., MacSuga-Gage, A. S., & Ulrich, T. G. (2025). Implementing Positive Behavior Interventions and Supports During the COVID-19 Pandemic: Three Tiers of Prevention and Intervention as Protective Factors. WestEd. https://www.wested.org

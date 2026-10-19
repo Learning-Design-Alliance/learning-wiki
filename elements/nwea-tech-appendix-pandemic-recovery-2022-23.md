@@ -50,6 +50,7 @@ A technical appendix published by NWEA Research in December 2022, authored by Me
 - [Technical appendix documenting sample and methods for the 2021-22 COVID learning-recovery study](nwea-2021-22-covid-technical-appendix.md)
 - [NWEA technical appendix on 2022-23 achievement data and pandemic recovery methods](nwea-2022-23-recovery-technical-appendix.md)
 - [Research brief on progress towards pandemic recovery at the start of the 2022-23 school year](nwea-brief-pandemic-recovery-rebounding-2022-23.md)
+- [Sharing Study Data: A Guide for Education Researchers (NCEE 2022-004)](sharing-study-data-guide-nee-2022-004.md)
 
 ## Examples
 -

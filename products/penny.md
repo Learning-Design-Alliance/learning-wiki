@@ -13,7 +13,7 @@ generated:
 # Penny
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 Penny is a GPT-4o-powered chatbot developed by Steve Woollaston and colleagues to support Japanese junior-high EFL learners' English writing practice through structured corrective feedback.
@@ -22,6 +22,11 @@ Penny is a GPT-4o-powered chatbot developed by Steve Woollaston and colleagues t
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
+- [Learner-chatbot EFL writing interaction follows two dominant behavioural loops: a Revision Loop and a Chat Loop](../claims/penny-revision-and-chat-loops.md) [+W]
+- [Learners engaged extensively with the chatbot, overwhelmingly communicating in Japanese rather than English](../claims/penny-usage-metrics-japanese-preference.md) [+W]
+- [EFL proficiency significantly shapes chatbot interaction: high-proficiency learners over-engage in dialogue while low-proficiency learners over-rely on feedback requests](../claims/proficiency-shapes-chatbot-interaction.md) [+W]
+- [Revision after chatbot feedback predominantly results in successful uptake, indicating effective error correction](../claims/penny-feedback-successful-uptake.md) [+W]
 
 ## Related Products and Programmes
 -

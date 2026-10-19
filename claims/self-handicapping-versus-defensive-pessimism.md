@@ -43,4 +43,5 @@ Definitional and synthetic review statement contrasting two motivational regulat
 
 
 ## Related Claims
--
+
+- [Anticipatory test anxiety can set off a downward spiral of maladaptive cognitions, emotions, and behaviors](anticipatory-test-anxiety-downward-spiral.md)

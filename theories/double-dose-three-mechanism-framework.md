@@ -53,6 +53,7 @@ The article proposes that the policy could affect outcomes through two intention
 
 - [Double-dose algebra: tracking with supports as an alternative to detracking](../strategies/double-dose-algebra-tracking-with-supports.md)
 - [Use double-period support courses to expand instructional time for low-skilled 9th-grade math students](../strategies/double-period-support-course-for-low-skilled-9th-graders.md)
+- [Ninth-grade structure of interdisciplinary learning communities with double-dose courses and freshman seminars](../designs/ninth-grade-interdisciplinary-double-dose-structure.md)
 
 ## Key Sources
 - Takako Nomi and Elaine M. Allensworth. (2008). “Double-dose” Algebra as an Alternative Strategy to Remediation: Effects on Students’ Academic Outcomes. Consortium on Chicago School Research, University of Chicago. http://www.informaworld.com/smpp/content~db=all?content=10.1080/19345740802676739

@@ -62,4 +62,10 @@ Quality analysis of the four discussions that occurred, measuring number of utte
 
 
 ## Related Claims
--
+
+- [No significant differences between conditions in the quantity or quality of discussion summaries](no-script-effect-on-summary-quantity-quality.md)
+- [Scripted students tended to answer either all or none of a discussion's input questions, and the structured interface strengthened this all-or-none pattern](script-all-or-none-input-answering.md)
+- [The script improved adherence to the prescribed order of grounding discussions before group activities, with an additional effect of the structured interface](script-improves-adherence-activity-order.md)
+- [A three-phased collaboration script leads distance students to provide more and longer input in grounding discussions, with the structured interface further increasing input length](script-increases-grounding-input-amount-length.md)
+- [Scripting shifted student effort toward grounding discussions and away from group-issue discussions](script-shifts-effort-toward-grounding.md)
+- [Evidence-based rubric scripting produced more high-quality discussion than future-thinking scripting in long-term small-group collaboration.](evidence-based-rubric-scripting-more-quality-discussion.md)

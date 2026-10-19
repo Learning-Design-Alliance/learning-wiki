@@ -43,4 +43,6 @@ Nonsymbolic magnitude comparison control task (72 dot-array trials) in the dysle
 
 
 ## Related Claims
--
+
+- [DD children's deficit in non-symbolic number magnitude processing appears only in studies of older children (10 years and above), not younger ones](dd-nonsymbolic-deficit-appears-later.md)
+- [Non-symbolic magnitude processing shows mixed associations with inhibition measures](nonsymbolic-nmp-mixed-inhibition-association.md)

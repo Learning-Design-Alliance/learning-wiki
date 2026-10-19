@@ -40,7 +40,9 @@ The Image Processing for Teaching (IPT) project at the University of Arizona is 
 - 
 
 ## Related Designs
-- 
+
+- [ChemViz Project at the National Center for Supercomputing Activities](chemviz-project-ncsa.md)
+- [Undergraduate climatology course using scientific visualization at the University of Chicago](undergraduate-climatology-course-visualization.md)
 
 ## Examples
 -

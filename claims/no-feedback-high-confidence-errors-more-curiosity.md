@@ -62,6 +62,7 @@ Experiment 4, 98 online adults randomly assigned to curiosity or subjective-unce
 
 
 ## Related Claims
+
 - [Curiosity ratings are functionally distinct from subjective uncertainty ratings: uncertainty declines near-linearly with confidence while curiosity is inverted-U shaped](curiosity-distinct-from-subjective-uncertainty.md) — related
 - [Second-order metacognitive judgments of subjective uncertainty show a small high-confidence error/correct difference, smaller than curiosity ratings show](second-order-metacognition-smaller-error-difference.md) — related
 - [Curiosity enhances learning, including for incidental material encountered during high-curiosity states](curiosity-enhances-learning.md) — related
@@ -69,3 +70,5 @@ Experiment 4, 98 online adults randomly assigned to curiosity or subjective-unce
 - [Curiosity about trivia answers is a U-shaped function of confidence, supporting information-gap theory](curiosity-u-shaped-function-of-confidence.md) — related
 - [Yes/no feedback that one was wrong increased curiosity selectively for high-confidence errors, leaving curiosity about low-confidence errors largely unchanged](yes-no-feedback-high-confidence-errors-increase-curiosity.md) — related
 - [Studying one's highest-curiosity items produced better recall than studying lowest-curiosity items](studying-high-curiosity-items-improves-recall.md) — related
+- [Curiosity and confidence show an inverted U-shaped relationship, peaking at an intermediate confidence level](inverted-u-curiosity-confidence-relationship.md)
+- [The opt-out and curiosity–accuracy findings replicate in a larger UK sample (Experiment 3A)](opt-out-curiosity-findings-replicate-uk-sample.md)

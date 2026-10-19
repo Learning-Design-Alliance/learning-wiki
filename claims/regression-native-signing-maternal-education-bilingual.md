@@ -44,4 +44,6 @@ adj = 0.347, F (3, 50) = 10.395, p = 0.000. This model accounted for 38.4% of th
 
 
 ## Related Claims
--
+
+- [Deaf adults in this sample read on average at a 5.8 grade level, ranging from grade 1.7 to post-college](deaf-sample-mean-reading-grade-5-8.md)
+- [Family communication mode and hearing status at birth were not significantly related to bilingual abilities](family-communication-mode-null-bilingual.md)

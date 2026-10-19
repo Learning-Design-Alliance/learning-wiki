@@ -62,8 +62,10 @@ The report's review of access and integration studies, including a 2010 Civil Ri
 
 
 ## Related Claims
+
 - [The average charter school performs about the same as nearby traditional public schools, but charter effects vary greatly](average-charter-schools-similar-to-nearby-traditional-public-schools.md) — a broader claim this one bears on
 - [Charter school outcomes are mixed as a group, with 17% of charters producing greater academic gains and 37% performing worse than traditional public schools serving similar students](charter-outcomes-mixed-credo.md) — a narrower finding that bears on this claim
 - [South Carolina charter students show similar reading growth but weaker math growth than traditional public school peers, with a math disadvantage of 53 fewer days of learning per year](sc-charter-overall-math-weaker-reading-similar.md) — related
 - [Charter students' math disadvantage is concentrated in the first two growth periods, with performance similar to VCR peers by 2016-2017](pa-charter-math-gap-varies-by-growth-period.md) — related
 - [About 30 percent of South Carolina charter schools outperform traditional alternatives in reading and 15 percent in math, while 22 percent and 33 percent underperform](sc-charter-school-quality-range-reading-math.md) — a narrower finding that bears on this claim
+- [Schools in the United States have resegregated since 1988, with the share of intensely segregated non-white schools more than tripling from about 6% to 19% of all public schools](resegregation-intensely-segregated-schools-tripled.md)

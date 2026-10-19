@@ -62,4 +62,6 @@ Same longitudinal study: the review reports the negative correlation with verbal
 
 
 ## Related Claims
--
+
+- [Adolescents with Internet addiction show structural and resting-state functional brain alterations, including reduced gray matter density, reduced white matter FA, and decreased connectivity in DMN and CEN](internet-addiction-adolescent-brain-alterations.md)
+- [Frequent and longer screen-based media use, including Internet-related addictive behaviors, is related to a less efficient cognitive control system in adolescence](screen-time-less-efficient-cognitive-control-adolescence.md)

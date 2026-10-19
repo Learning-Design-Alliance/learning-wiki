@@ -62,4 +62,7 @@ Correlational analysis of grade point average against PSP-1 subtest and total sc
 
 
 ## Related Claims
--
+
+- [Teacher and AES scores agreed most at the lowest and highest rubric points but diverged in the middle, with teachers more likely to score a 2 and the AES a 3](teacher-aes-agree-tails-diverge-middle.md)
+- [Teacher-rated attention does not significantly predict first-grade listening comprehension growth among at-risk readers](attention-not-predict-listening-comprehension-growth.md)
+- [Approximately 2.9% of Croatian grade 1–4 pupils meet diagnostic criteria for auditory processing disorder on the PSP-1 screening battery](psp1-screening-apd-prevalence-2-9-percent.md)

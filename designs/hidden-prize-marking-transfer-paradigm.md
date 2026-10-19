@@ -17,7 +17,7 @@ sources:
 # Hidden-prize marking and transfer task paradigm for assessing children's spontaneous external reminder-setting strategies
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 A preregistered experimental paradigm in which children watch an experimenter demonstrate how to mark the location of a hidden prize, helping them retrieve it later, and are then given opportunities across six test trials to spontaneously adopt an external marking strategy. Children who used the strategy at least once were introduced to a "conceptually similar but structurally distinct transfer task" to assess strategy flexibility. It measures self-initiated external metacognitive strategy use across ages 3–8.
@@ -38,7 +38,11 @@ A preregistered experimental paradigm in which children watch an experimenter de
 - self-initiated use of external cognitive strategies to offload internal cognitive demand
 
 ### Claims
-- 
+
+- [Most 3-year-olds deployed a demonstrated external marking strategy, but none modified it to solve a conceptually similar transfer task](../claims/three-year-olds-copy-but-do-not-modify-external-strategy.md) [+W]
+- [From age 4, children spontaneously devise multiple previously unseen reminder-setting strategies across transfer trials, with this tendency increasing with age](../claims/age-four-spontaneous-novel-reminder-strategies.md) [+W]
+- [Young children can self-initiate external metacognitive strategies and transfer them across contexts, with flexibility increasing over the preschool and early school years](../claims/young-children-self-initiate-external-metacognitive-strategies.md) [+W]
+- [From age 6, children deploy effective external strategies on most trials, with strategy number, combination, and order varying widely within and across age groups](../claims/from-age-six-effective-external-strategies-most-trials.md) [+W]
 
 ## Related Designs
 - 

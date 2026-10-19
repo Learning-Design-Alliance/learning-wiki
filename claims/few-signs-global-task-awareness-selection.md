@@ -43,4 +43,5 @@ Think-aloud study of twelve 10th-graders, each performing three selection tasks 
 
 
 ## Related Claims
--
+
+- [Linguistic selection reasons were uttered most regardless of the selection task, suggesting a default linguistic selection strategy](linguistic-default-selection-strategy.md)

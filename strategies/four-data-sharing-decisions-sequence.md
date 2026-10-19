@@ -37,7 +37,8 @@ The guide organizes data sharing as a sequence of four decisions education resea
 - planning and executing study data sharing
 
 ## Related Strategies
-- 
+
+- [Curating Resources](curating_resources.md)
 
 ## Examples
 -

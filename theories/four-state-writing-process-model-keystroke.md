@@ -40,7 +40,8 @@ The article operationalizes cognitive writing theory into four observable states
 
 
 ## Related Theories
-- 
+
+- [Dual-Process Account of Discovery in Writing](dual-process-account-of-discovery-in-writing.md)
 
 ## Examples
 -

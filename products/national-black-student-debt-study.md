@@ -13,7 +13,7 @@ generated:
 # National Black Student Debt Study
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A mixed-method dataset and research project led by Jalil B. Mustaffa with the Equity Research Cooperative, combining a survey of nearly 1,300 Black borrowers with in-depth interviews to study student-debt experiences and their effects on Black families.
@@ -23,6 +23,8 @@ A mixed-method dataset and research project led by Jalil B. Mustaffa with the Eq
 
 ### Claims
 
+- [Black teachers have the highest borrowing and repayment rates of all subgroups studied, with 31.4% still owing their entire balance — nearly 3 times the share of all teachers](../claims/black-teachers-disproportionate-loan-debt.md) [+W]
+- [Over a third (36.7%) of borrowing teachers have worked multiple jobs because of student loans, and the share rises with monthly repayment amounts](../claims/loan-debt-multiple-jobs-teachers.md) [+W]
 
 ## Related Products and Programmes
 -

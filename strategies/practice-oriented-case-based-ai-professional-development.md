@@ -51,6 +51,8 @@ Drawing on recent AI-focused literature, the review recommends orienting AI prof
 - [Structure AI-focused professional development as a supported trajectory of planning, reflection, design autonomy, and embedded critical AI literacy](pd-supported-trajectory-reflection-critical-ai-embedding.md)
 - [Prioritize sustained, pedagogically grounded faculty TPACK development over one-off technology workshops and infrastructure investment](sustained-faculty-tpack-development-programs.md)
 - [Expand supervised practicum experiences in teacher preparation to include AI-focused pedagogies](supervised-practicum-ai-focused-pedagogies.md)
+- [Support novice online teachers by introducing them to a larger pedagogical framework within which design decisions can be located](novice-online-teacher-pedagogical-framework-support.md)
+- [Integrate structured opportunities for critical engagement with AI into teacher education programs](structured-critical-ai-engagement-teacher-education.md)
 
 ## Examples
 -

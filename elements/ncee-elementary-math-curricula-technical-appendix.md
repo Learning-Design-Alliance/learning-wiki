@@ -46,6 +46,7 @@ A technical appendix published by the U.S. Department of Education's Institute o
 
 - [Four elementary math curricula compared in the study](four-elementary-math-curricula-compared.md)
 - [Evaluation of Mathematics Curricula project (2005–2013)](evaluation-of-mathematics-curricula-project.md)
+- [Sharing Study Data: A Guide for Education Researchers (NCEE 2022-004)](sharing-study-data-guide-nee-2022-004.md)
 
 ## Examples
 -

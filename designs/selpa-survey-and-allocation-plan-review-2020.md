@@ -17,7 +17,7 @@ sources:
 # Statewide SELPA administrator survey and multi-LEA SELPA allocation plan review
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The study's mixed-methods evidence base for Sections 4 and 5 comprises a statewide survey of SELPA directors administered February–March 2020, developed with input from the statewide SELPA Executive Board, plus a review of multi-LEA SELPA allocation plans. "Sixty SELPA administrators (from both single- and multi-LEA SELPAs) responded to the survey, representing nearly half of the state's SELPAs." Researchers triangulated survey data with review of allocation plans from 20 of the 54 multi-LEA SELPAs represented in responses; the intended systematic categorization of allocation methods could not be completed due to nonstandard formats and language.
@@ -37,10 +37,14 @@ The study's mixed-methods evidence base for Sections 4 and 5 comprises a statewi
 - understanding how special education funds are allocated, distributed, and expended across California SELPAs and LEAs
 
 ### Claims
-- 
+
+- [California's statewide high-cost pools are among the lowest-funded in the nation, and SELPA directors report paperwork burdens outweigh their benefit](../claims/california-high-cost-pools-lowest-funded.md) [+W]
+- [Most educationally related mental health services were provided by LEAs even though funds for them are allocated to SELPAs](../claims/ermhs-services-provided-by-leas.md) [+W]
 
 ## Related Designs
-- 
+
+- [Utah USBE resource allocation review process for schools eligible for comprehensive improvement support](utah-usbe-rar-process.md)
+- [California universal prekindergarten mixed-delivery system and the 2022–23 UPK Planning and Implementation Grant Survey](california-upk-mixed-delivery-system-and-grant-survey.md)
 
 ## Examples
 -

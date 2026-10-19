@@ -63,6 +63,7 @@ As hypothesized, the treatment-by-ability interaction was non-significant on bot
 
 
 ## Related Claims
+
 - [Ability moderates the hierarchical-organization advantage: low-ability subjects showed no significant benefit, while medium-ability subjects did](ability-moderates-hierarchical-organization-benefit.md) — related
 - [High- and low-prior-knowledge learners differ significantly on an algebra posttest and on intrinsic and germane cognitive load, but not on extraneous load](high-and-low-prior-knowledge-learners-differ-in-posttest-intrinsic-and-germane-load.md) — related
 - [Prior knowledge, worked-example type (full vs completion) and task difficulty show a significant three-way interaction on an algebra posttest, but not on self-reported cognitive load](prior-knowledge-worked-example-task-difficulty-three-way-interaction-on-algebra-posttest.md) — related
@@ -70,3 +71,4 @@ As hypothesized, the treatment-by-ability interaction was non-significant on bot
 - [Cognitive apprenticeship instruction produced no significant differences from traditional instruction on post-treatment problem-solving, final, and standardized mathematics exams in community college technical mathematics](cognitive-apprenticeship-no-significant-exam-differences-technical-math.md) — related
 - Hourly-exam differences between groups occurred on trigonometry tests rather than algebra tests — related
 - [In a cluster randomized study across 73 high schools, Carnegie Learning students scored higher on the Algebra Proficiency Exam, with cohort effect sizes of +0.07 and +0.21](carnegie-learning-algebra-i-cluster-randomized-cohorts.md) — related
+- [Ninth grade algebra students solve verbally presented problems better than symbolically presented problems](students-verbal-problems-easier-than-symbolic.md)

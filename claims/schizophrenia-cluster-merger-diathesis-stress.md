@@ -43,5 +43,8 @@ The review reports a study (Kimmerle et al. 2010) analyzing link structures of t
 
 
 ## Related Claims
+
 - [Three big data methods—text classification, cluster analysis, and social network analysis—can each yield insights into learning in mass collaboration](three-big-data-methods-insights-mass-collaboration.md) — a broader claim this one bears on
 - [Artifacts and their interconnected structure operationalize collective knowledge processes in large-scale Wikipedia analysis](artifact-structure-operationalizes-collective-knowledge.md) — a broader claim this one bears on
+- [In reviewed studies, individual data types were analyzed mainly with descriptive analysis, content analysis, network analysis, and clustering](four-analytical-methods-individual-participation.md)
+- [Wikipedia history analysis shows external accommodation: the AIDS origin article progressively weakened and integrated the contentious polio vaccine theory](wikipedia-aids-origin-external-accommodation.md)

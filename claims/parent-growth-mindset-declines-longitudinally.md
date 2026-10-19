@@ -43,4 +43,8 @@ Univariate latent growth curve models for fathers (n = 3,436) and mothers (n = 3
 
 
 ## Related Claims
--
+
+- [Mothers' initial growth mindset positively predicted children's growth mindset two-and-a-half years later](maternal-initial-mindset-predicts-child-later-mindset.md)
+- [The rate of change in mothers' growth mindset predicted both children's later growth mindset level and children's own rate of change](maternal-mindset-change-predicts-child-trajectory.md)
+- [Neither the initial level nor the decline of fathers' growth mindset significantly predicted children's growth mindset development](paternal-mindset-no-significant-prediction.md)
+- [Fathers' initial growth mindset predicted girls' later growth mindset but not boys', a gender-moderated path](paternal-mindset-predicts-girls-not-boys.md)

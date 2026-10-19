@@ -42,7 +42,10 @@ Within the adapted CoIF, 'Trusting' is one of the three Influences — the overl
 - Coif Influences Trusting Meaning Making Deepening Understanding
 
 ## Related Strategies
+
 - Tutors Nurture Online Sob Facilitation
+- [Use the Deepening understanding Influence to nurture online learners' sense of belonging](deepening-understanding-influence-sob-guidance.md)
+- [Use the Meaning-making Influence to nurture online learners' sense of belonging](meaning-making-influence-sob-guidance.md)
 
 ## Examples
 -

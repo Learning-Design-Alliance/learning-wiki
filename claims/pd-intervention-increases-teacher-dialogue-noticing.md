@@ -44,9 +44,12 @@ Paired-samples t-test analysis (n = 14) of think-aloud interview utterances befo
 
 
 ## Related Claims
+
 - [The increase in noticing dialogue was accompanied by a decrease in noticing mathematical activity, described as attentional tunneling — a design consideration for integrated dialogue-plus-content noticing training](attentional-tunneling-dialogue-over-mathematics.md) — a narrower finding that bears on this claim
 - [Dialogic noticing gains occurred in nearly all episodes — with significant increases in episodes 2, 3, 5, 7, and 9 — except episode 6, which did not change](episode-level-noticing-increases.md) — related
 - [Individual trajectories varied: 9 of 14 teachers increased dialogic noticing per episode, while two teachers slightly decreased, which the authors attribute to limits of the nondirective intervention](individual-noticing-trajectories-vary.md) — related
 - [The intervention significantly increased teachers' noticing of six dialogic attributes — persuasive interaction, one leads and another is led, agreement and collective attention, students have equal status, dialogic gap, and monologue — but not of dialogue-expansion attributes](six-dialogic-attributes-significant-gains.md) — a narrower finding that bears on this claim
 - [After the intervention, teachers' responses to dialogue focused on balancing student relations and eliciting dialogic gaps, yet some responses still promoted monologic narratives driven by mathematical correctness](teacher-responses-balancing-versus-monologic.md) — a narrower finding that bears on this claim
 - [Subtle teacher guidance, not imposition, enables interdisciplinary integration in small-group deliberation](subtle-teacher-guidance-not-imposition-enables-interdisciplinary-integration.md) — related
+- [A contrasting cases activity shifted the focus of preservice teachers' video noticing from teacher-focused to student-focused codes (significant time × subject-focus interaction)](blair2024-noticing-time-subject-focus-interaction.md)
+- [Student-focused noticing marginally increased (Cohen's d = 0.43) while teacher-focused codes showed no change (d = 0.06)](blair2024-student-focused-increase-teacher-flat.md)

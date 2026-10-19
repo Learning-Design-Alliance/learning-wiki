@@ -43,4 +43,7 @@ Null direct association between global trait EI (TEIQue) and GPA in this sample,
 
 
 ## Related Claims
--
+
+- [Cognitive ability (inductive reasoning) showed no significant association with university GPA in any analysis](inductive-reasoning-no-association-university-gpa.md)
+- [A reduced set of non-cognitive factors alone explains 17–25% of the variance in university GPA across three years of a degree](noncognitive-factors-explain-17-25-percent-gpa-variance-three-years.md)
+- [Pre-actional metacognitive, motivational, and positive-emotional components are positively associated with regulatory behavior in the actional phase, while anger and anxiety are negatively associated](pre-actional-components-predict-actional-regulation.md)

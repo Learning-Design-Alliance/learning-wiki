@@ -41,4 +41,6 @@ The review reports two Finnish adolescent case-control studies (Saarikivi et al.
 
 
 ## Related Claims
--
+
+- [Music training RCTs show improved verbal working memory (backward digit span), but not visuospatial or forward-span tasks](music-training-verbal-working-memory-backward-span.md)
+- [Only one identified study found improved visuospatial working memory after music training](music-training-visuospatial-working-memory-single-study.md)

@@ -17,7 +17,7 @@ sources:
 # Broaden co-regulation methodology using trace data, server logs, episodic coding and multilevel modelling
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review recommends methodological expansion for studying co-regulation as a group phenomenon. It suggests "wider use of log server and trace data to illustrate how students are working in the computer-based environment as it relates to other activities", coding co-regulation across connected discourse and episodic tracts rather than single utterances, and multilevel modelling to explain relationships between individuals nested under groups. Multiple measures are needed for convergence and construct validity.
@@ -36,8 +36,13 @@ The review recommends methodological expansion for studying co-regulation as a g
 ### Target Learning Goals
 - co-regulatory processes in situated group contexts
 
+## Claims
+
+- [Trace data can capture the temporal progress of regulation as learners engage in learning tasks over time](../claims/trace-data-capture-temporal-regulation.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Use multimodal data channels combining subjective and objective measures to overcome single-channel constraints in SSRL research](multimodal-multichannel-ssrl-measurement.md)
 
 ## Examples
 -

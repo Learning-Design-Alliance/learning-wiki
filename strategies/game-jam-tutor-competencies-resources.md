@@ -17,7 +17,7 @@ sources:
 # Staff game jams with tutors who have pedagogical, technological, collaborative and creative competencies, plus volunteers for materials and technical support
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends tutors familiarized with video-game development who hold "pedagogical, technological, collaborative, and creative competencies", create a safe space, and remain neutral and impartial. Volunteers handle idea-generation techniques, extra materials, and technical problems such as software installation and Internet connection issues.
@@ -38,8 +38,13 @@ The article recommends tutors familiarized with video-game development who hold 
 ### Target Learning Goals
 - 4C skill development through supported creative design
 
+## Claims
+
+- [Participating in game jams develops 4C skills (critical thinking, creativity, communication, collaboration) in adolescent students, though skill gains are difficult to verify](../claims/game-jams-develop-4c-skills.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Use an intermediate game-jam duration of about 6 hours, long enough for teams to pass through the first four development phases](six-hour-game-jam-duration.md)
 
 ## Examples
 -

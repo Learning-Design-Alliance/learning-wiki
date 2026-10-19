@@ -62,4 +62,5 @@ Survey findings, reflection-through-practical-experience theme, Items 17–18. "
 
 
 ## Related Claims
--
+
+- [Trainee and trainer responses contradicted each other on ten questionnaire items (4, 10, 11, 14, 17, 18, 19, 21, 23, 25), suggesting a lack of coordination among trainers](trainee-trainer-response-contradiction-ten-items.md)

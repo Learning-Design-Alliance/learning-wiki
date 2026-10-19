@@ -41,4 +41,9 @@ Kruskal–Wallis comparison of Digit Span Backward weighted scores across bullie
 
 
 ## Related Claims
--
+
+- [Music training RCTs show improved verbal working memory (backward digit span), but not visuospatial or forward-span tasks](music-training-verbal-working-memory-backward-span.md)
+- [Congenitally blind adults show higher verbal backwards digit span than sighted controls](congenitally-blind-higher-backwards-digit-span.md)
+- [Backward digit span performance does not emerge until about age 5, whereas forward span is measurable from age 3](backward-span-onset-age-5.md)
+- [When PSID-CDS data are restricted to ages 6–11, backward digit span growth is best characterized by a quadratic (not cubic) function](quadratic-best-fit-restricted-age-range.md)
+- [No significant group differences in Stroop color and word card times or in error rates on any Stroop card](stroop-null-results-color-word-cards-errors.md)

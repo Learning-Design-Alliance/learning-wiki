@@ -49,3 +49,4 @@ Secondary ENA including ICAP engagement codes for 244 learner utterances explain
 - [Epistemic network analysis shows metacognitive behaviors co-occur with invitation actions in DR and DE but with human-initiated reasoning and elaboration in CI](ena-metacognition-invitations-versus-reasoning.md) — related
 - [Interactive engagement requires both partners' utterances to be primarily constructive and a sufficient degree of turn taking](interactive-requires-constructive-turn-taking.md) — related
 - [In observed Australian secondary classrooms, only a minority of lesson tasks stimulated Constructive or Interactive engagement](paucity-constructive-interactive-lesson-tasks.md) — related
+- [Turn-level dialogue codes cluster into three components: Elaborated, Reasoned and Non-Dialogic](dialogue-codes-three-component-pca-solution.md)

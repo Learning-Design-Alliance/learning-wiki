@@ -62,4 +62,5 @@ ANCOVA on the MST_T at T2 in the same randomized study showed a significant cond
 
 
 ## Related Claims
--
+
+- [The four aggregated non-hybrid training groups did not differ on the dependent variables of the analyses](non-hybrid-groups-no-difference-dependent-variables.md)

@@ -90,6 +90,7 @@ Badging works when it functions as a competency signal, not a participation trop
 - Portfolio assessment — portfolios frequently serve as the evidence base for a credential
 - [Use digital badges to recognize skills, supplement report cards, and manage equipment training access in maker education](digital-badges-maker-education-recognition.md)
 - [Advance micro-credentialing policy across five domains: controlling for quality, counting what matters, finding time, leveraging expertise, and designing for effectiveness](five-domains-micro-credentialing-policy.md)
+- [Issue joint cross-institution credentials via smart-contract credit verification and co-signed certificates](cross-institution-joint-credential-issuance.md)
 
 ## Examples
 - **[Mozilla Open Badges](https://openbadges.org)** — open technical standard for verifiable digital badges with issuer, criteria, and evidence metadata; the de facto interoperability standard.

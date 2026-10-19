@@ -32,6 +32,7 @@ A dataset and benchmarking framework released by Isuru Nanayakkara et al. contai
 ## Related Products and Programmes
 
 - [The Pedagogy Benchmark](the-pedagogy-benchmark.md)
+- [Openly available EEG and behavioral datasets and replicable experimental framework for human-AI interaction studies](openly-available-eeg-and-behavioral-datasets-and-replicable-experimental-framework-for-hum.md)
 
 ## Key Sources
 - Isuru Nanayakkara and Thilina Halloluwa. (2026). Automating Learner Assessment: Benchmarking Machine Learning and Deep Learning Models for EEG-Based Familiarity Prediction. https://arxiv.org/abs/2608.16541

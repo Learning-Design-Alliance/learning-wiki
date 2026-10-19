@@ -66,8 +66,10 @@ Same survey subsample; correlations of AI literacy with age, gender, and years o
 - [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
 - [Female students are significantly more likely than male students to use AI for schoolwork and to seek advice from AI tools](females-more-ai-schoolwork-and-advice-use.md) — reports the opposite
 - [Age, gender, class level and voluntary programme choice do not significantly predict job search anxiety in the adjusted model](demographics-null-predictors-job-search-anxiety.md) — related
 - [Cluster analysis identifies three stable learner profiles: Engaged and Literate, Uncritical Reliant, and Skeptical Minimal users](three-genai-learner-profiles.md) — related
 - [University students with high versus low GenAI literacy scores show significantly different ENA interaction structures during an AI-assisted abstract writing task](genai-literacy-groups-differ-in-ena-interaction-structure.md) — related
 - [Focal paths are robust to background controls, which did not directly predict AI integration intention](focal-paths-robust-to-background-controls.md) — related
+- [Teachers' SRL competence profiles do not differ by gender, age, or teaching experience](srl-profiles-no-demographic-differences.md)

@@ -41,7 +41,8 @@ From group A's failure, the authors propose that environments "include additiona
 - [Dst I Positions Cscl Framework](../research-methods/dialogical-self-theory-dst-i-positions-as-a-cscl-analytical-framework.md)
 
 ## Related Strategies
-- 
+
+- [Design CSCL environments for group awareness and representational guidance to cut coordination load](cscl-group-awareness-representational-guidance.md)
 
 ## Examples
 -

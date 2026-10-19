@@ -69,6 +69,9 @@ The model is widely cited but only partially validated: it has received limited 
 
 ## Examples
 
+- [Support reading motivation through interesting goals, autonomy, interesting texts, and social interaction](../strategies/four-features-reading-motivation.md)
+- [Present problems before explanatory texts to arouse curiosity and situational interest in learners lacking prior knowledge](../strategies/problem-first-then-explanation.md)
+
 ## Key Sources
 - Hidi, S. (2001). Interest, reading, and learning: Theoretical and practical considerations. *Educational Psychology Review, 13*(3), 191-209.
 - Hidi, S., & Renninger, K. A. (2006). The four-phase model of interest development. *Educational Psychologist, 41*(2), 111-127. [doi:10.1207/s15326985ep4102_4](https://doi.org/10.1207/s15326985ep4102_4)

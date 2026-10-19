@@ -43,4 +43,6 @@ From the Discussion, synthesizing the two discourse-analytic cases: mitigation m
 
 
 ## Related Claims
--
+
+- [Deficit narratives are co-constructed in teacher collegial talk in response to teacher vulnerability under emotional regimes that disallow strong negative emotions](deficit-narratives-arise-from-vulnerability-under-emotional-regimes.md)
+- [Strict emotional regimes contribute to the production of vulnerability that can precipitate deficit narratives from asset-oriented teachers](emotional-regimes-vulnerability-deficit-narratives.md)

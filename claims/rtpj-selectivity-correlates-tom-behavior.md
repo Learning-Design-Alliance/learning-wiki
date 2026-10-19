@@ -43,4 +43,6 @@ Brain-behavior correlation in the combined sample of 11 blind and 16 blindfolded
 
 
 ## Related Claims
--
+
+- [RTPJ selectivity for mental state content does not differ between blind and sighted children](rtpj-selectivity-similar-blind-sighted-children.md)
+- [Blind and sighted children do not differ in performance on false-belief items of the non-visual ToM task](no-group-difference-false-belief-items.md)

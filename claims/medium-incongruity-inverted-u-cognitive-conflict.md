@@ -43,4 +43,5 @@ Theoretical proposal in the Motivational processes section, displayed in Fig. 3 
 
 
 ## Related Claims
--
+
+- [Four forms of learning and knowledge building with wikis: internal and external assimilation and accommodation](four-processes-assimilation-accommodation-wikis.md)

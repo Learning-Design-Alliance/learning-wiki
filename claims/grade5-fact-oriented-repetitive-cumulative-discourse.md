@@ -43,4 +43,5 @@ Narrative analysis of the Grade 5 Science view (38 students, 346 notes over seve
 
 
 ## Related Claims
--
+
+- [Only Grade 10 Liberal Studies students engaged in simple argumentation, complex argumentation, and theory-oriented interactions, possibly due to the subject's emphasis on argumentation](argumentation-only-in-liberal-studies.md)

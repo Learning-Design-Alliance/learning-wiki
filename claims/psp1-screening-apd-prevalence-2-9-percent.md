@@ -43,4 +43,9 @@ Screening study of 412 mainstream-school children in grades 1–4 in Croatia adm
 
 
 ## Related Claims
--
+
+- [Students with APD were rated below average by teachers far more often than non-APD peers, especially in reading and language skills](apd-students-rated-below-average-more-often.md)
+- [Dichotic listening subtests were the most challenging PSP-1 tasks, especially for children with auditory processing difficulties](dichotic-listening-tasks-most-challenging-psp1.md)
+- [PSP-1 performance increases with age across grades 1–4, with significant differences between adjacent age groups on total score](psp1-performance-increases-with-age.md)
+- [A right-ear advantage appears in both dichotic listening tasks and decreases with age on the Dichotic Sentences subtest](right-ear-advantage-dichotic-tasks-decreases-with-age.md)
+- [Teacher ratings of language and reading skills correlate significantly with PSP-1 total scores, whereas grade point average does not](teacher-ratings-correlate-psp1-gpa-does-not.md)

@@ -43,4 +43,8 @@ Comparison of leadership moves by task (math or history) and condition (multi-to
 
 
 ## Related Claims
--
+
+- [Distinct intellectual and organizational emergent leader roles, taken by different students, can be identified in about half of collaborative groups](intellectual-and-organizational-leader-roles-distinct.md)
+- [Some groups had an intellectual leader without an organizational leader, but no group had an organizational leader without an intellectual leader](intellectual-leader-without-organizational-leader.md)
+- [Leadership moves are distributed among members of children's collaborative learning groups rather than concentrated in a single leader](leadership-moves-distributed-among-group-members.md)
+- [A collaboration kit with joint and private multi-touch table spaces outperformed comparison groups, showing less biased communication and more collaborative processes.](multi-touch-collaboration-kit-reduced-discussion-bias.md)

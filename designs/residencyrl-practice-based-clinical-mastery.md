@@ -45,7 +45,8 @@ The article's organizing premise is that clinical competence, for AI as for phys
 - [Residencyrl Reduces Missed Red Flags](../claims/residencyrl-reduces-missed-red-flags.md) [+M]
 
 ## Related Designs
-- 
+
+- [Five-agent DPT simulated classroom on a static-friction problem](dpt-five-agent-simulated-classroom.md)
 
 ## Examples
 -

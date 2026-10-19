@@ -130,6 +130,7 @@ Retrieval practice produces substantially larger and more durable learning gains
 - [Use Spaced Practice](spaced-practice-scheduling.md) — spacing multiplies the durability of each retrieval attempt
 - [Use Worked Examples](worked-examples-first.md) — an alternative for novices before they are ready for effortful retrieval
 - [Interleave Practice Types](interleave_practice_types.md) — interleaving forces retrieval of the correct strategy, not just the answer
+- [Implement weekly low-stakes spaced recall quizzes cycling fundamental concepts monthly, with a plan to address student frustration](weekly-spaced-recall-quiz-strategy-fundamental-concepts.md)
 
 ## Examples
 - **[Anki](https://apps.ankiweb.net)** — spaced-repetition flashcard system implementing expanding retrieval intervals; widely used in medical education.

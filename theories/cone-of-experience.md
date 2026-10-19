@@ -50,6 +50,10 @@ Dale's own guidance was for **balance**, not maximization of concreteness: "Too 
 - [Abstract and concrete animation representations do not differ significantly in middle school students' electricity achievement under any of the five text-representation conditions](../claims/abstract-concrete-representation-no-difference.md) [~W]
 - [Concrete-task participants achieved higher performance success than intermediate-task participants in simulation-based inquiry, while intermediate and abstract conditions did not differ significantly](../claims/concrete-task-higher-performance-success-than-intermediate.md) [~W]
 
+## Related Theories
+
+- [MPSA Cone: a cone-shaped framework of three modes of problem-solving action (technical, interpretive, emancipating)](mpsa-cone-three-modes-framework.md)
+
 ## Related Principles
 - [User-Centered Design for Learning](../principles/user-centered-design-for-learning.md) — both concern deliberate choice of instructional medium, though this principle addresses concreteness/abstraction rather than interface usability
 

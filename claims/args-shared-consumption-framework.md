@@ -43,4 +43,6 @@ Comparative qualitative analysis of the three Alias ARGs along an industry-produ
 
 
 ## Related Claims
--
+
+- [The fan-produced Omnifam ARG centred on extending the Alias backstory through the Rambaldi mythology while staying faithful to the fictional universe](omnifam-arg-backstory-extension.md)
+- [Intellectual-property concerns and fan attraction to the backstory jointly shaped the fan ARG's focus on the Rambaldi mythology](omnifam-ip-self-censorship-design.md)

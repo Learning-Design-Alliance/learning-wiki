@@ -43,4 +43,7 @@ Design-narrative observation of middle school students from an urban Boston scho
 
 
 ## Related Claims
--
+
+- [First-generation AR games produced strong collaboration within teams but limited or non-existent collaboration between teams](ar-gen1-strong-within-team-weak-between-team-collaboration.md)
+- [Time dependence, cascading events, and distinct player roles added to a redesigned AR engine fostered collaboration between teams in subsequent game iterations](ar-gen2-features-foster-between-team-collaboration.md)
+- [Discussion prompts targeting the exchange of information produced higher levels of collaborative transactive discourse than prompts asking teachers to reflect on their content understanding or classroom practice.](information-exchange-prompts-higher-transactivity.md)

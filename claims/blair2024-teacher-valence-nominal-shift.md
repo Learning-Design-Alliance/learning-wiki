@@ -43,4 +43,5 @@ Study 1 exploratory result on the valence dimension of teacher-focused codes, ex
 
 
 ## Related Claims
--
+
+- [Student-focused noticing marginally increased (Cohen's d = 0.43) while teacher-focused codes showed no change (d = 0.06)](blair2024-student-focused-increase-teacher-flat.md)

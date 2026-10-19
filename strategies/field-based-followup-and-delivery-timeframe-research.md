@@ -17,7 +17,7 @@ sources:
 # Add a field-based component and compare embedded versus semester-long literacy course delivery
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The authors recommend future extensions to the literacy unit. "A Þeld-based component could potentially be implemented with the literacy unit" using the concurrent advanced practicum course to measure participants' ability to apply knowledge and skills gained. They also propose that "Future research could also focus on time frames for delivery of the literacy curriculum," comparing the 6-week embedded unit with a semester-long course with more opportunity for application, since adding coursework or credit hours is usually not viable.
@@ -36,8 +36,13 @@ The authors recommend future extensions to the literacy unit. "A Þeld-based com
 ### Target Learning Goals
 - Translating literacy instruction knowledge into classroom practice and assessing effects on student literacy outcomes
 
+## Claims
+
+- [The study could not determine whether knowledge gains transferred to participants' classroom teaching](../claims/no-follow-through-classroom-transfer-unknown.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Co-teach the literacy unit by combining mild and intense interventions methods courses for six weeks](co-teach-combined-methods-courses-literacy.md)
 
 ## Examples
 -

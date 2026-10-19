@@ -43,4 +43,5 @@ Same linear mixed-effects model of curiosity ratings from 100 adults across 6000
 
 
 ## Related Claims
--
+
+- [Curiosity did not significantly predict recall accuracy in the blurred-picture learning task](curiosity-did-not-predict-recall-accuracy.md)

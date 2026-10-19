@@ -43,4 +43,6 @@ The editorial's synthesis of the three special-issue studies reports that all th
 
 
 ## Related Claims
--
+
+- [Visualizing group awareness information strongly impacts dyads' joint regulation of the collaborative process](group-awareness-visualization-impacts-joint-regulation.md)
+- [Secondary students in CSCL devote most of their communication to regulating task performance, especially planning the task and monitoring task progress](cscl-groups-mostly-regulate-task-performance.md)

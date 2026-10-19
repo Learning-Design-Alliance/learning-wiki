@@ -43,4 +43,5 @@ Regression commonality analysis in the grade 5 sample (n=39): "both TA and VisA 
 
 
 ## Related Claims
--
+
+- [The VisA instrument predicts word problem solving performance in grade 5, explaining 23 percent of variance](visa-instrument-predicts-word-problem-solving.md)

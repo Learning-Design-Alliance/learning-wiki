@@ -95,6 +95,7 @@ Emotions are not noise around learning — they shape attention, working memory 
 
 **Reappraisal framing (Jamieson et al., 2013)** — Teaching learners that physiological arousal during stress is the body preparing to perform, not a sign of failure, improved outcomes on academic and social-evaluative tasks.
 - [Attentional training interventions may improve public speaking performance for speech-anxious individuals](../strategies/attentional-training-public-speaking.md)
+- [Use expressive writing before math situations to offload worry and protect working memory resources](../strategies/expressive-writing-before-math.md)
 
 ## Key Sources
 - Gross, J. J. (1998). The emerging field of emotion regulation: An integrative review. *Review of General Psychology, 2*(3), 271–299. [doi:10.1037/1089-2680.2.3.271](https://doi.org/10.1037/1089-2680.2.3.271)

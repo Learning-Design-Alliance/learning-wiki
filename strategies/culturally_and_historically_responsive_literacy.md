@@ -81,6 +81,7 @@ CHRL extends culturally relevant pedagogy [Ladson-Billings, 1995] by making the 
 - [Use culturally responsive practices to make preschool learning relevant for children from all backgrounds](culturally-responsive-preschool-practices.md)
 - [Acting-Role-Play](acting-role-play.md) — embodying historical perspectives supports the intellect and criticality pursuits
 - [Action-Oriented Feedback](action-oriented-feedback.md) — feedback that names progress toward agency, not just accuracy
+- [Use cultural data sets from students' everyday worlds as a gateway to literary interpretation](cultural-data-sets-gateway-interpretation.md)
 
 ## Examples
 - **Hill Pedagogy / Black literary societies model** — Muhammad's own curricular examples use 19th-century Black literary society reading lists and questions as models for contemporary units that pair canonical skills work with identity and criticality goals (Muhammad, 2020)

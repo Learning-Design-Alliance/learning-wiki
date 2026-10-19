@@ -25,7 +25,9 @@ A study-developed online game-based training program delivered through the eLea 
 - [Training effects varied by inductive reasoning process: all processes except Cross classification developed significantly, with the largest effects in Recognizing and Differentiating relationships](../claims/process-level-training-effects-cross-classification-exception.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Online figurative assessment tool measuring six inductive reasoning processes](online-figurative-assessment-tool-measuring-six-inductive-reasoning-processes.md)
+- [My Math Academy](my-math-academy.md)
 
 ## Key Sources
 - Pásztor, Attila, Andrea Magyar, Anita Pásztor-Kovács, and Attila Rausch. 2022. Online Assessment and Game-Based Development of Inductive Reasoning. Journal of Intelligence 10: 59. https://doi.org/10.3390/jintelligence10030059

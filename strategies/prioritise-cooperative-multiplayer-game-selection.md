@@ -17,7 +17,7 @@ sources:
 # Select games for skills interventions by prioritising co-operative multiplayer modes
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 against) · 2 studies (1 associational, 1 theoretical), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The author recommends that future work and implementations attend to game features, arguing that "a game features a co-operative multiplayer mode is probably a more important consideration than the nature of the game play involved", particularly where communication is involved. The study's own titles were carefully selected to ensure a focus on multiplayer co-operation, and future work should identify which specific game types or features are most effective.
@@ -37,6 +37,11 @@ The author recommends that future work and implementations attend to game featur
 - communication skill
 - adaptability
 - resourcefulness
+
+## Claims
+
+- [Playing games in a variety of modes (local and online multiplayer; cooperative and team-based) is associated with higher adaptability and communication scores](../claims/variety-of-play-modes-higher-adaptability.md) [+W]
+- [Gamers' collaboration skills are specialized to the game environment and do not straightforwardly transfer to school learning](../claims/gamer-skills-not-transferable-to-school-learning.md) [-W]
 
 ## Related Strategies
 - 

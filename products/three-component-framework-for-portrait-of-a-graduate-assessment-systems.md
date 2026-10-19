@@ -32,7 +32,8 @@ A framework developed by Kyle Dunbar et al. for organizing district Portrait of 
 - [Fewer than one fifth of districts with Portraits have taken the step of identifying actionable Practices within their Skill Sets](../claims/fewer-than-one-fifth-districts-identify-practices.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [National Graduate Attributes Project eight-factor systemic framework](national-graduate-attributes-project-eight-factor-systemic-framework.md)
 
 ## Key Sources
 - Kyle Dunbar, Katie Wilczak, Kelly Mills, Nick Mireles, and Alison Shell. (2025). Portraits in Progress: Emerging Future-Ready Skills Assessment Strategies. Digital Promise and Pearson. https://digitalpromise.org

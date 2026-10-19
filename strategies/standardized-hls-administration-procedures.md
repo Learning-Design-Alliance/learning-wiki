@@ -17,7 +17,7 @@ sources:
 # Standardized administration procedures for HLS: training, translation, documentation, and exception handling
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Session participants reached consensus on administrative procedures for HLS delivery. These include standardized annual training for administrators, simple-to-use oral scripts and FAQs for written forms, accurate translation of all forms and scripts delivered by fluent speakers, electronic storage of responses in the district data system tied to the individual student, collecting Tier 1 responses once while allowing Tier 2 and 3 updates, and procedures for exception scenarios such as contradictory forms. The paper also notes that conducting the HLS online may allow options such as frequency-of-use scales.
@@ -35,6 +35,10 @@ Session participants reached consensus on administrative procedures for HLS deli
 
 ### Target Learning Goals
 - Reliable, consistent collection of home language information at enrollment
+
+## Claims
+
+- [Preliminary analyses of the 2003 Puerto Rico data led to changes in administration and translation procedures for the 2005 assessment](../claims/preliminary-analyses-drove-2005-procedure-changes.md) [+W]
 
 ## Related Strategies
 

@@ -25,7 +25,9 @@ A study-developed assessment instrument by Laura Dörrenbächer-Ulrich and colle
 - [Each SRL component predicts GPA only via a specific assessment method: cognition via strategy knowledge test, motivation via questionnaire, metacognition via open-ended microanalytic question](../claims/different-methods-different-srl-components-achievement.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Motivated Strategies for Learning Questionnaire (MSLQ)](motivated-strategies-for-learning-questionnaire-mslq.md)
+- [SKT-SRL: a scenario-based conditional strategy knowledge test](skt-srl-a-scenario-based-conditional-strategy-knowledge-test.md)
 
 ## Key Sources
 - Laura Dörrenbächer-Ulrich, Marie Weißenfels, Lea Russer, Franziska Perels. (2021). Multimethod assessment of self-regulated learning in college students: different methods for different components? Instructional Science. https://doi.org/10.1007/s11251-020-09533-2

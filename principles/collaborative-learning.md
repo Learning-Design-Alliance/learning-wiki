@@ -191,6 +191,7 @@ Group performance during the task, individual understanding straight after it, d
 - Small-group problem discussion before whole-class synthesis.
 - Professional learning groups discussing a shared scenario or decision point.
 - [Use heterogeneous-pair CPS in which students first generate individual solutions then revise them after collaboration](../strategies/heterogeneous-pair-cps-individual-then-revise.md)
+- [Support collaborative groups by raising awareness of the nature of their challenges and allowing sufficient time for negotiated interaction](../strategies/awareness-and-time-for-negotiated-emotion-regulation.md)
 
 ### Illustrative
 

@@ -41,4 +41,6 @@ Analysis of blocking factors for introductory courses across the 60 degree maps.
 
 
 ## Related Claims
--
+
+- [Required CS credits and math credits do not differ significantly across women-representation groups](cs-math-credits-not-significant-across-groups.md)
+- [School rank shows little correlation with percentage of women CS graduates (r = -0.36), suggesting prestige does not explain the complexity–representation relationship](school-rank-weakly-correlated-women-representation.md)

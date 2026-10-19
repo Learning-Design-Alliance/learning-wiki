@@ -146,6 +146,7 @@ Bullying rated by teachers, bullying reported by students, fear of bullying, bys
 - [Restorative Justice Conferencing](../strategies/restorative-justice-conferencing.md) — a facilitated meeting after harm; for bullying, only with a trained facilitator and the target's agreement
 - [Acting and role-play](../strategies/acting-role-play.md) — the format for rehearsing bystander moves
 - [Schools should intervene actively against bullying rather than relying on adolescents' social support networks](../strategies/active-school-intervention-against-bullying.md)
+- [Cast a popular child in the defender role-play](../strategies/popular-child-as-defender-roleplay.md)
 
 ## Key Sources
 - U.S. Centers for Disease Control and Prevention. StopBullying.gov.

@@ -75,6 +75,10 @@ Interdisciplinary Societal Dilemmas (ISDs) — problems tied to students' lived 
 - **The single highest-leverage, hardest-to-train skill in this pattern is subtle teacher guidance during small-group deliberation**: when a teacher notices a student's partial, unprompted reference to disciplinary content and sharpens it with a targeted question (rather than ignoring it, or instead lecturing the whole group), students spontaneously integrate the idea while staying in dialogic mode. When teachers miss these openings, or instead interrupt with direct explanation, talk shifts to teacher-centered and students resist or disengage from the interdisciplinary move. Plan explicit rehearsal of this specific move in teacher PD, not just content review — the source study found its own PD program did not sufficiently prepare teachers for it.
 - The specific disciplines, dilemma topic, and student roles can all be swapped; what must be preserved is genuine multi-solution ambiguity in the dilemma itself.
 
+## Related Designs
+
+- [DIALOGOS focus days: interdisciplinary dialogic argumentation program for Grade 7](dialogos-focus-days-interdisciplinary-program.md)
+
 ## Related Patterns
 
 - [Problem-Based Learning (PBL)](../patterns/problem-based-learning.md) — shares facilitated small-group inquiry around an authentic problem; this pattern is specific to civic/societal dilemmas spanning named disciplines and adds an explicit organizational (out-of-school) response to institutional resistance

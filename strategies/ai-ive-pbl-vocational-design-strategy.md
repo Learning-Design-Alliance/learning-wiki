@@ -44,6 +44,7 @@ The article recommends integrating the advantages of an AI-enabled immersive vir
 ## Related Strategies
 
 - [Virtual Reality (VR) Training](virtual-reality-immersive-training.md)
+- [Use advanced immersive learning technologies as research and learning tools to deliver developmentally-appropriate metacognitive scaffolding](immersive-tech-metacognitive-scaffolding-strategy.md)
 
 ## Examples
 -

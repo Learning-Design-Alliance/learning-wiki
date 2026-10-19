@@ -43,4 +43,7 @@ Model A growth model. Household chaos predicted lower prekindergarten math ("B =
 
 
 ## Related Claims
+
 - [African American children show lower prekindergarten math but faster math growth, and higher prekindergarten letter–word knowledge with slower growth after covariate adjustment](african-american-ethnicity-math-reading-growth-patterns.md) — related
+- [ELLs start middle school roughly .6 SD lower in math and .65 SD lower in reading, with faster reading growth (.13 SD) but no faster math or self-efficacy growth](ell-lower-start-faster-reading-growth-only.md)
+- [The relationship between socioeconomic resources and children's cognitive development strengthens from infancy to a peak around age 4–4½, then weakens slightly by kindergarten entry.](ses-cognitive-relationship-peaks-prekindergarten.md)

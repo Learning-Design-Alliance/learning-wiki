@@ -43,7 +43,8 @@ The study formulates a segmentation approach that classifies schools into three 
 - 
 
 ## Examples
--
+
+- [Investigate schools that sustain outperformance or beat the odds using qualitative methods and engagement data to identify amenable growth factors](../strategies/study-sustaining-and-beat-the-odds-schools-strategy.md)
 
 ## Key Sources
 - Yamada, H. (2024). New Normal in Early Elementary Mathematics Learning: Part II - School Level Variation in Growth in Grades 1 and 2. E4 Center, Northwestern University. https://e4.northwestern.edu/2024/06/25/new-normal-in-early-elementary-mathematics-learning-part-ii-school-level-variation-in-growth-in-grades-1-and-2/

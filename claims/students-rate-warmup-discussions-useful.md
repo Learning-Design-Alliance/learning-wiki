@@ -43,4 +43,6 @@ Student attitude survey across three semesters of Contemporary Biology N100. The
 
 
 ## Related Claims
--
+
+- [Optional 'What is Biology Good For?' essays achieved >75% weekly participation and >90% of students reported they made science relevance clear](good-for-essays-relevance-motivation.md)
+- [Test questions reinforced by Warm Up questions or Cooperative Learning activities showed higher average normalized gains (~52%, ~60%) than questions discussed in class only (~15%)](jitt-higher-normalized-gains-reinforced-questions.md)

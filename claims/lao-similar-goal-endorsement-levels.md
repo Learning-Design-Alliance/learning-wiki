@@ -43,4 +43,5 @@ Descriptive analysis of the 207-teacher sample found "mastery, relational, and a
 
 
 ## Related Claims
--
+
+- [The correlation between mastery and relational goals is unusually strong (r = .64) in the Lao sample compared with Western teacher samples](lao-strong-mastery-relational-goal-correlation.md)

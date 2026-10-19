@@ -17,7 +17,7 @@ sources:
 # Provide practical implementation recommendations for each generative learning strategy
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 For each of the eight generative learning strategies, the article commits to providing "practical recommendations for implementation" alongside the research review. This means instructors adopting a strategy such as summarizing, drawing, or self-testing should pair its use with the implementation guidance the review develops for that specific strategy, since effectiveness depends on how the strategy is enacted. The recommendations are presented as part of the article's stated purpose of connecting the science of generative learning to instructional practice.
@@ -38,6 +38,10 @@ For each of the eight generative learning strategies, the article commits to pro
 
 ### Affordances
 - Generative Learning Theory Wittrock Soi
+
+## Claims
+
+- [The effectiveness of each generative learning strategy is subject to potential boundary conditions discussed in the review](../claims/generative-strategies-boundary-conditions.md) [~W]
 
 ## Related Strategies
 - Eight Generative Learning Strategies Set

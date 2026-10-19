@@ -17,7 +17,7 @@ sources:
 # Use the inventory as a checklist of design decisions for teachers and a reporting guideline for researchers
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article proposes two uses of the inventory: for teachers and advisors it functions 'as a source of inspiration or as a checklist of important decisions to make when working with peer evaluation', helping them see alternatives to implicit choices; for researchers it is a guide to covering the full scope of design particularities when introducing or reporting a peer assessment design, which should make replication studies, interaction-effect studies and synthesis more straightforward.
@@ -37,6 +37,10 @@ The article proposes two uses of the inventory: for teachers and advisors it fun
 - informed design decisions and complete, comparable reporting of peer assessment practices
 
 ### Affordances
+
+## Claims
+
+- [Quality control in peer assessment can be exercised proactively or reactively on students and their assessments](../claims/peer-assessment-quality-control-proactive-reactive.md) [+W]
 
 ## Related Strategies
 - 

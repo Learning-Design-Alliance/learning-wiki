@@ -43,4 +43,5 @@ Teacher-level descriptive analysis complementing the ILS-level results. Teachers
 
 
 ## Related Claims
--
+
+- [ILS reuse and edition as a proxy for knowledge appropriation relates to about four times higher adoption (19.77% vs 4.51%)](ils-reuse-appropriation-proxy-higher-adoption.md)

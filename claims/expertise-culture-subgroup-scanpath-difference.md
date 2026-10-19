@@ -62,4 +62,7 @@ Communicative-gaze sub-group comparison in the same sample showed the same direc
 
 
 ## Related Claims
--
+
+- [Culture differentiates communicative but not attentional teacher scanpaths once expertise is controlled](culture-differentiates-communicative-scanpaths.md)
+- [Expert teachers begin gaze sequences with student fixation and return to students throughout, whereas Hong Kong experts intersperse student scans that UK experts never use](expert-scanpaths-student-fixation-recycling.md)
+- [Teachers' gaze scanpaths are more similar within an individual than between individuals, in both attentional and communicative gaze](teacher-scanpaths-intra-individual-similarity.md)

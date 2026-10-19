@@ -66,6 +66,8 @@ Multiple representations work because they distribute information across verbal 
 - [Use Worked Examples](worked-examples-first.md) — a representation format that models both outcome and reasoning
 - [Act as a learning supporter during multimedia production](teacher-learning-supporter-strategy.md)
 - [Teach L2 comprehension through a multiliteracies curriculum with video-based visualizing and verbalizing activities](multiliteracies-video-comprehension-activities.md)
+- [Choose individual texts and videos appropriate for specific students rather than deciding by representational format](choose-materials-individually-not-by-format.md)
+- [Design CSCL environments for group awareness and representational guidance to cut coordination load](cscl-group-awareness-representational-guidance.md)
 
 ## Examples
 - **[CAST UDL Guidelines](https://udlguidelines.cast.org)** — the source framework for this strategy, with representation checkpoints for perception, language, and comprehension.

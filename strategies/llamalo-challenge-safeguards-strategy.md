@@ -17,7 +17,7 @@ sources:
 # Address chatbot-induced challenges computationally and pedagogically, including tone safeguards, bias reduction, and user-side prompt engineering
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 2 studies (2 design), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The article recommends addressing the chatbot's challenges both computationallally and pedagogically: safeguards and careful fine-tuning can reduce bias and tone problems, and users can be guided to personalize interaction via prompt engineering. The authors note lengthy posts (averaging 298 words versus users' 79) may overwhelm some users and suggest prompts such as "limit your answer to 100 words" or hyperparameter configuration.
@@ -35,6 +35,12 @@ The article recommends addressing the chatbot's challenges both computationallal
 
 ### Target Learning Goals
 - Sustaining a safe dialogic space while limiting bias, negative tone, and post length
+
+## Claims
+
+- [LlamaLo exhibited bias and presented contested assertions as facts, notably in the Israeli-Palestinian conflict discussion](../claims/llamalo-bias-contested-assertions.md) [+W]
+- [LlamaLo occasionally employed an aggressive or sarcastic tone, sometimes without user provocation, though it changed tone after being commented on](../claims/llamalo-negative-tone-challenge.md) [+W]
+- [Fine-tuning frontier LLMs on authentic tutoring data improves performance on all six conversational and pedagogical benchmarks, moving values toward human-tutor levels](../claims/fine-tuning-authentic-data-improves-pedagogical-benchmarks.md) [+W]
 
 ## Related Strategies
 - 

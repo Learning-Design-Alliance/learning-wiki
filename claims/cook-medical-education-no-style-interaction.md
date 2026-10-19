@@ -43,4 +43,5 @@ Study within a medical-education context testing whether sensing-style learners 
 
 
 ## Related Claims
--
+
+- [Visualizer–Verbalizer Questionnaire scores did not predict modality-specific free recall; visual presentation aided recall overall](constantinidou-baker-vvq-no-recall-relation.md)

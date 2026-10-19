@@ -191,6 +191,7 @@ An engaging investigation, an immediate conceptual gain, near transfer, far tran
 - [Guided Practice](guided-practice.md) — inquiry often works better when investigative moves are practiced with support before becoming independent.
 
 ## Examples
+
 - **Source-based investigation**: Learners pursue a question using multiple texts, data, or cases and justify their conclusion.
 - **Guided science or social inquiry**: Learners investigate a phenomenon or issue using structured prompts and staged evidence gathering.
 - **Problem-framing workshops**: Learners refine a broad topic into investigable questions before researching.
@@ -217,6 +218,7 @@ An engaging investigation, an immediate conceptual gain, near transfer, far tran
 - Chemistry learners using data and representations to infer a concept before solving related problems.
 - STEM lessons where model analysis leads into concept naming and then application.
 - Online inquiry activities with guided prompts and team roles.
+- [Nine-lesson phenomenon-driven sequence: introduce phenomenon, observe, question, experiment, share data, read, revise model, extend](../designs/phenomenon-driven-nine-lesson-literacy-science-sequence.md)
 
 ## Key Sources
 - Moon, J. A., & Brockway, D. (2019). Facilitating learning in an interactive science simulation: The effects of task segmentation guidance on adults' inquiry-based learning and cognitive load. *Journal of Research on Technology in Education, 51*(1), 77-100. [https://doi.org/10.1080/15391523.2019.1566038](https://doi.org/10.1080/15391523.2019.1566038)

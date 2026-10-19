@@ -50,6 +50,7 @@ The article proposes that responsible actors develop an argument for "when, how,
 ## Related Strategies
 
 - [Adopt a roadmap for ethical CAI implementation in education](roadmap-ethical-cai-implementation-education.md)
+- [Challenge candidate digital technologies against a learning-based pedagogical framework before adoption](challenge-technologies-with-pedagogical-framework.md)
 
 ## Examples
 -

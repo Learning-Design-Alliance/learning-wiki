@@ -43,7 +43,8 @@ The article introduces a pipeline that trains tutors on research-supported "tuto
 - [Post Training Opportunity And Execution Gains](../claims/post-training-opportunity-and-execution-gains.md) [+M]
 
 ## Related Designs
-- 
+
+- [LLM-based pipeline converting unstructured application materials into structured measures, including a seven-dimension essay quality score validated against expert ratings](llm-admissions-featurization-pipeline.md)
 
 ## Examples
 -

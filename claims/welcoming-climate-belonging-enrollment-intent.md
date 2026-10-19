@@ -43,4 +43,5 @@ The review reports, citing Hausmann et al. (2007), an experimental study finding
 
 
 ## Related Claims
--
+
+- [Black students experience a more hostile campus racial climate than other students of color in schools](black-students-more-hostile-climate-than-other-students-of-color.md)

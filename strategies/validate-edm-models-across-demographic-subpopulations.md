@@ -37,7 +37,9 @@ The article recommends that the EDM community routinely use demographic variable
 - Ensuring predictive models of learning outcomes perform fairly and equitably for every student subgroup
 
 ## Related Strategies
-- 
+
+- [Test publishers and users should routinely investigate longitudinal achievement construct invariance over time](routinely-validate-longitudinal-construct-invariance.md)
+- [Mitigating Racial Bias in Edtech Products](mitigating_racial_bias_in_edtech_products.md)
 
 ## Examples
 -

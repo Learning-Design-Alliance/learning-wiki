@@ -43,6 +43,8 @@ In the Kirkpatrick Level 3 (Behaviour) interview findings, "most participants st
 
 
 ## Related Claims
+
 - [Perceived impact of LAD use on study behaviour varied, with most participants reporting no impact](lad-impact-on-study-behaviour-varied-mostly-null.md) — related
 - [The LAD was mostly perceived to support student appraisal of study behaviour by providing new insights or awareness](thermos-lad-supported-appraisal-phase.md) — related
 - [Students and tutors rated predetermined LAD constructs similarly in importance but differed in suggesting and ranking new constructs](lad-stakeholders-agree-predetermined-differ-new-constructs.md) — related
+- [In most included studies, AI tool use is preceded by a preparatory phase, but its configuration varies between technology-first and content-first approaches](preparatory-phase-precedes-ai-use-variable-configuration.md)

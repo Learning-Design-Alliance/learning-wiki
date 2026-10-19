@@ -43,4 +43,7 @@ Randomized study reported by the review: Eisenkopf et al. (2014) randomly assign
 
 
 ## Related Claims
--
+
+- [Women tend to shy away from competition, contributing to gender gaps in math-related educational choices](women-shy-away-from-competition-education-choices.md)
+- [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](pisa-sex-differences-math-small-reading-three-times-larger.md)
+- [Women admitted to MIT with lower SAT math scores perform as well as men in freshman math classes](mit-lower-sat-math-scores-equal-performance.md)

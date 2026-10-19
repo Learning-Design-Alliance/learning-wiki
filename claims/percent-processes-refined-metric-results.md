@@ -43,4 +43,6 @@ Timeline-aligned comparison across the three channels for all 25 participants us
 
 
 ## Related Claims
--
+
+- [Adding eye-tracking data corrects inflated Organisation durations and re-distributes First-reading time relative to both other channels](eye-tracking-corrects-organisation-durations.md)
+- [Adding peripheral data to navigational logs sharply changes the detected distribution of SRL processes, revealing many more Organisation and far fewer First-reading processes](peripheral-data-changes-srl-process-distribution.md)

@@ -43,4 +43,5 @@ The article reports this as the outcome of Osland et al.'s (2013) ACTA study: tw
 
 
 ## Related Claims
--
+
+- [CDM study of emergency responders (31 participants, over 51 hours of interviews) generated a theoretical model of command-level indecision](cdm-emergency-command-indecision-model.md)

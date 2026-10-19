@@ -28,7 +28,11 @@ Go-Lab is an online ecosystem and teacher community that supports the creation, 
 - [Inquiry skills improved significantly only in the computer-based inquiry group, which outperformed the regular-classroom group at posttest](../claims/computer-based-ibl-inquiry-skills-gains.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Go-Lab ecosystem](go-lab-ecosystem.md)
+- [Metafora system](metafora-system.md)
+- [Virtual Collaborative Research Institute (VCRI) CSCL environment](virtual-collaborative-research-institute-vcri-cscl-environment.md)
+- [SCY-Lab](scy-lab.md)
 
 ## Key Sources
 - Ulrike Cress. (2020). The richness of CSCL environments. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-020-09335-1

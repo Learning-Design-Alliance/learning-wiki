@@ -39,6 +39,7 @@ The publication is framed as guidance for education agencies considering compute
 ## Related Strategies
 
 - [Adopt computerized adaptive testing to serve both low- and high-achieving students](adopt-cat-for-low-and-high-achievers.md)
+- [Efficiently test school report card design changes at scale before adopting them](test-report-card-designs-at-scale.md)
 
 ## Examples
 -

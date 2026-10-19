@@ -17,7 +17,7 @@ sources:
 # Co-teach the literacy unit by combining mild and intense interventions methods courses for six weeks
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Two faculty members, one specializing in severe disabilities and one in mild disabilities, combined their respective methods courses for six weeks and co-taught the literacy unit so candidates in both licensing programs would be prepared to teach literacy to a full range of students with disabilities. "The faculty members used a co-teaching model during these instructional sessions with one faculty member presenting information and the other faculty member then describing how it applied to her respective disability population and vice versa." The unit was taught live in one course and videotaped for playback with discussion in the other.
@@ -36,8 +36,14 @@ Two faculty members, one specializing in severe disabilities and one in mild dis
 ### Target Learning Goals
 - Preparing candidates to teach literacy to a full range of students with disabilities, from mild to severe cognitive and physical impairments
 
+## Claims
+
+- [Preservice special educators in the 2008 cohort showed significant pretest-to-posttest knowledge gains after the 6-week co-taught literacy unit](../claims/2008-cohort-significant-literacy-knowledge-gains.md) [+W]
+- [Preservice special educators in the 2009 cohort showed significant pretest-to-posttest knowledge gains, with instruction replicated consistently across years](../claims/2009-cohort-significant-literacy-knowledge-gains.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Add a field-based component and compare embedded versus semester-long literacy course delivery](field-based-followup-and-delivery-timeframe-research.md)
 
 ## Examples
 -

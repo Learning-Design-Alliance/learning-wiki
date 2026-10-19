@@ -46,6 +46,7 @@ Based on identified gaps, the review recommends that future reviews use "broader
 - [Adopt a conservative abstract-screening strategy with a 'maybe' category and keyword exclusion filters to prevent premature exclusion](conservative-abstract-screening-maybe-category.md)
 - [Adopt unified KPIs and rigorously assess learner diversity, recommender fairness, and long-term engagement when evaluating ITS](unified-kpis-longitudinal-its-evaluation.md)
 - [Diversify AIED: use diverse technologies, address big problems, and reuse existing resources rather than reinventing content](aied-diversify-technologies-big-problems-existing-resources.md)
+- [Future shared story reading research should extend to nonfiction texts, inclusive settings, and include practicality statements](shared-story-reading-future-research-directions.md)
 
 ## Examples
 -

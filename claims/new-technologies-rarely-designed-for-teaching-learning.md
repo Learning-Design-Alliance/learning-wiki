@@ -43,4 +43,5 @@ The abstract presents this as the paper's motivating observation about the misma
 
 
 ## Related Claims
--
+
+- [Collaborative technologies support learning by enabling learners to share and exchange both ideas and their own digital products](collaborative-technologies-enable-sharing-ideas-and-digital-products.md)

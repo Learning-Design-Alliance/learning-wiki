@@ -17,7 +17,7 @@ sources:
 # Use DFIT indices with empirically established cutoffs and iterative linking to screen polytomous tests for DIF and DTF
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 2 studies (2 causal), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The article outlines a practical workflow for test developers: estimate item parameters with PARSCALE, link the Reference Group metric to the Focal Group metric with a two-stage iterative linking procedure, compute C-DIF and NC-DIF, and apply an empirically established cutoff value (.016 in this study) to flag items. The authors suggest that "a test developercould examine the DTF,then determine which itemneeds to be eliminated based on its C-DIFvalue and its.overallcontribution to DTF."
@@ -39,8 +39,15 @@ The article outlines a practical workflow for test developers: estimate item par
 
 ### Affordances
 
+## Claims
+
+- [An iterative two-stage linking procedure improves identification of DIF items](../claims/iterative-linking-improves-dif-identification.md) [+W]
+- [The chi-square significance test for NC-DIF is overly sensitive at large sample sizes, requiring an empirical cutoff value](../claims/nc-dif-chi-square-overly-sensitive-large-samples.md) [+W]
+- [Item discrimination moderates detection differently by index: NCDIF benefits from high a-parameters only at large DIF magnitude](../claims/a-parameter-moderates-dif-detection-by-index.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Use a decision template weighing assumption fit, DIF uniformity, simultaneity, significance testing, and ease of use when choosing a DIF method for polytomous performance assessments](dif-method-selection-template-performance-assessments.md)
 
 ## Examples
 -

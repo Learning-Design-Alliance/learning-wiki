@@ -43,6 +43,7 @@ The report organizes newcomer schools into three structural types. "These newcom
 ## Related Designs
 
 - [Staff newcomer schools with skilled, purposeful, visionary leaders who build teams and innovate](newcomer-school-leadership-practices.md)
+- [Newcomer schools as self-contained learning environments for recently-arrived immigrant English Learners](newcomer-school-element.md)
 
 ## Examples
 -

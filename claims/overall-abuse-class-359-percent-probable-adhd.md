@@ -43,4 +43,6 @@ Chi-square analysis and cross-tabulations (Table 2) in the national survey of 2,
 
 
 ## Related Claims
--
+
+- [Males were significantly more likely than females to report probable ADHD in the young adult sample (OR=1.56)](males-more-likely-probable-adhd.md)
+- [The authors interpret the maltreatment–ADHD association as partly complicated by symptom overlap between ADHD and PTSD, which may make the two conditions difficult to distinguish](adhd-ptsd-symptom-overlap-misdiagnosis-risk.md)

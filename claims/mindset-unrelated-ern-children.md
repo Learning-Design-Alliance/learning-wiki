@@ -43,4 +43,5 @@ Repeated-measures ANOVA on ERN (0–100 ms post-response) across five midline si
 
 
 ## Related Claims
--
+
+- [Growth mindset endorsement is associated with larger Pe amplitude (greater attention to errors) in school-aged children](growth-mindset-larger-pe-children.md)

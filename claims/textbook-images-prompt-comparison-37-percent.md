@@ -43,4 +43,8 @@ Content analysis of 313 images sampled from two chapters each of the three most 
 
 
 ## Related Claims
--
+
+- [Intervening visual units were moderately common and appeared more often in structure diagrams than process diagrams](intervening-units-more-common-structure-diagrams.md)
+- [Comparison prompts are strongly concentrated in process diagrams (93%) and rare in photos (20%)](comparison-frequency-varies-by-image-type.md)
+- [Fewer than half of textbook images requiring comparison have an optimal spatial layout (direct placement) for structural alignment](fewer-than-half-images-direct-placement.md)
+- [Anatomy images were more likely than evolution images to have direct placement only](anatomy-more-direct-placement-than-evolution.md)

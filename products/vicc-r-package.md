@@ -32,7 +32,8 @@ The vICC R package is an R software implementation of Bayesian tests for within-
 - [Within-person variance in cognitive inhibition tasks is heterogeneous, with person-specific reliability differing up to tenfold](../claims/heterogeneous-within-person-variance-cognitive-inhibition-tasks.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [PerFit](perfit.md)
 
 ## Key Sources
 - Donald Williams, Stephen Martin, Phillipe Rast. (2021). Putting the individual into reliability: Bayesian testing of homogeneous within-person variance in hierarchical models. Behavior Research Methods. https://doi.org/10.3758/s13428-021-01646-x

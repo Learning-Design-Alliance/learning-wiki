@@ -25,7 +25,8 @@ The review organizes the school-based self-management literature by the specific
 - [Prompted self-monitoring is the most frequently used self-management configuration in school-based single-case research](../claims/prompted-self-monitoring-most-frequent-configuration.md) [+M]
 
 ## Related Research Methods
--
+
+- [Coding framework of metacognition intervention components and instructional methods](coding-framework-of-metacognition-intervention-components-and-instructional-methods.md)
 
 ## Key Sources
 - Briesch, A.M., Daniels, B. & Beneville, M. (2019). Unpacking the Term “Self-Management”: Understanding Intervention Applications Within the School-Based Literature. J Behav Educ 28, 54–77. https://doi.org/10.1007/s10864-018-9303-1

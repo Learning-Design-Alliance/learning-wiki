@@ -44,6 +44,7 @@ The Wellness Center, funded by the district and the Oakland Fund for Children an
 ## Related Designs
 
 - [District homeless programs provide a coordinated web of six support categories: essential items, transportation, academic services, health supports, specialized unaccompanied-youth support, and family supports](district-homeless-program-support-web.md)
+- [Grant-funded school-based Wellness Centers as accessible hubs for services](pusd-wellness-centers-hubs.md)
 
 ## Examples
 -

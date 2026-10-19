@@ -17,7 +17,7 @@ sources:
 # A federal right to education should include three essential protections: foundational opportunities, equitable provision, and a federal forum
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report proposes that, balancing state and local control with a limited federal role, the federal government provide "at least three essential protections through a federal right to education": recognition of a federal right requiring states to provide foundational educational opportunities necessary to be an engaged and effective citizen, a productive worker, and a college- and career-ready graduate; a requirement that states provide these opportunities equitably; and a federal forum so students and families can allege a state has failed to provide these opportunities or provided them inequitably.
@@ -37,6 +37,10 @@ The report proposes that, balancing state and local control with a limited feder
 - Citizenship preparation
 - College and career readiness
 - Equitable provision of educational opportunity
+
+## Claims
+
+- [The U.S. Supreme Court's 1973 Rodriguez decision held that the 14th Amendment neither explicitly nor implicitly guarantees a right to education](../claims/rodriguez-no-federal-right-to-education.md) [+W]
 
 ## Related Strategies
 

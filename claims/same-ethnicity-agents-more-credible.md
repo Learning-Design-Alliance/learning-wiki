@@ -43,4 +43,5 @@ The review reports, citing Baylor and Kim (2004), a study of Caucasian and Afric
 
 
 ## Related Claims
--
+
+- [PALs expressing positive mood were perceived as more facilitating, engaging, and intelligent than negative-mood PALs](positive-mood-pal-better-perceived.md)

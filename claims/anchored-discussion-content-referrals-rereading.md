@@ -43,4 +43,5 @@ Referral coding of the 36 discussion protocols (Table 3: referring to persons 34
 
 
 ## Related Claims
--
+
+- [Anchored discussion supports greater communicative efficiency but not higher mutual understanding](anchored-discussion-communicative-efficiency.md)

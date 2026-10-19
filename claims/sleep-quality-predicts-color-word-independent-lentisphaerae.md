@@ -43,6 +43,8 @@ Partial correlation analysis in 37 healthy older adults examining whether microb
 
 
 ## Related Claims
+
 - [Greater Lentisphaerae proportion is associated with better Stroop Color-Word performance independent of carbohydrate intake](lentisphaerae-proportion-associated-stroop-color-word-performance.md) — reports the opposite
 - [Poorer sleep quality is associated with poorer Stroop Word and Color-Word performance in healthy older adults after controlling for hypertension and carbohydrate intake](poorer-sleep-quality-associated-poorer-stroop-word-color-word-performance.md) — a broader claim this one bears on
 - [Poorer sleep quality is associated with lower proportions of the gut microbial phyla Verrucomicrobia and Lentisphaerae in healthy older adults](poorer-sleep-quality-lower-verrucomicrobia-lentisphaerae-proportions.md) — related
+- [Sleep quality and Verrucomicrobia are not independently associated with Stroop Word performance](sleep-quality-verrucomicrobia-not-independent-stroop-word.md)

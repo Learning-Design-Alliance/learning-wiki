@@ -43,4 +43,7 @@ Multilevel meta-analysis of polygenic score predictions of educational achieveme
 
 
 ## Related Claims
--
+
+- [Age at assessment and achievement measure moderate polygenic score predictions of educational achievement; the adjusted pooled estimate rises to ρ = 0.50](pgs-achievement-age-grade-moderators-rho-50.md)
+- [Polygenic scores based on the Lee et al. (2018) GWAS show a meta-analytic association of ρ = 0.27 with educational attainment](pgs-educational-attainment-rho-27-meta.md)
+- [Polygenic score predictions of education strengthen as GWAS discovery sample sizes increase](pgs-prediction-strength-grows-gwas-sample-size.md)

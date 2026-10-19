@@ -43,4 +43,5 @@ The pseudoword learning study reports the whole-word presentation effect "was af
 
 
 ## Related Claims
--
+
+- [Children recognise the orthographic form of a pseudoword more often when its entire letter string was available at once during reading.](whole-word-presentation-improves-orthographic-learning.md)

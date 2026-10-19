@@ -43,4 +43,6 @@ Step 2 of the first-year hierarchical regression: previous AP was the only signi
 
 
 ## Related Claims
--
+
+- [A reduced set of non-cognitive factors alone explains 17–25% of the variance in university GPA across three years of a degree](noncognitive-factors-explain-17-25-percent-gpa-variance-three-years.md)
+- [A latent global non-cognitive factor predicts a latent three-year GPA factor, explaining 27–29% of its variance](latent-noncognitive-factor-predicts-latent-gpa-27-29-percent.md)

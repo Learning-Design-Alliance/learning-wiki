@@ -59,9 +59,11 @@ Expectation communication works primarily through learner self-efficacy: express
 6. Use regular [Check-Ins](../principles/check-ins.md) to verify that learners are experiencing the tasks as challenging-but-achievable.
 
 ## Related Strategies
+
 - Growth Mindset Messaging — the belief-in-malleability framing that makes positive expectations credible
 - Equitable Participation Structures — the interactional mechanics through which expectations are transmitted
 - Mastery-Oriented Feedback — feedback framing that supports rather than undermines expressed belief
+- [Manipulate self-efficacy by combining social-comparative feedback with information about the malleability of the ability](social-comparative-feedback-plus-malleability-message.md)
 
 ## Examples
 - **[Responsive Classroom](../products/responsive-classroom.md)** (https://www.responsiveclassroom.org) — teacher language practices, including "positive imagining," that make high expectations explicit in daily interaction routines.

@@ -43,4 +43,6 @@ The commentary reports, citing Macedonia et al., an observational pandemic study
 
 
 ## Related Claims
--
+
+- [Adult detraining and bedrest studies suggest cessation of physical activity can worsen cognitive performance](adult-detraining-bedrest-cognitive-worsening.md)
+- [School-aged children show reduced physical activity and increased sedentary behavior during the summer break across multiple countries](summer-break-reduced-activity-increased-sedentary.md)

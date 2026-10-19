@@ -48,6 +48,7 @@ The article recommends designing authentic, scaffolded assessment activities inf
 - [Institutions should respond to generative AI in education with guided critical engagement rather than prohibition](guided-critical-engagement-over-prohibition-genai.md)
 - [Use structured reflection tables, learning journals, prompt variation, adversarial queries, and peer debate to cultivate AI intuition](reflection-tables-journals-debates-cultivate-ai-intuition.md)
 - [Provide explicit instruction in AI prompting and information verification alongside AI integration in laboratory courses](explicit-ai-prompting-verification-instruction.md)
+- [Provide teacher guidance on GenAI use, prompt engineering, ethics, and targeted classroom activities for translation](teacher-guidance-genai-translation-classroom-activities.md)
 
 ## Examples
 -

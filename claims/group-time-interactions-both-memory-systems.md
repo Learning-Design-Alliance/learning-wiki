@@ -62,4 +62,5 @@ Omnibus repeated-measures ANOVA on finger-tapping performance in the same random
 
 
 ## Related Claims
--
+
+- [Adolescents trained on a finger-tapping task in the evening show greater off-line gains in tapping speed than afternoon-trained adolescents at both 24 hours and 7 days](evening-encoding-greater-finger-tapping-speed-gains.md)

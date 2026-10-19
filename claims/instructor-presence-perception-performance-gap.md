@@ -81,4 +81,5 @@ Paired-samples t-test on perceived mental effort; the with condition reported lo
 
 
 ## Related Claims
--
+
+- [Skin conductance level did not differ significantly between instructor-presence conditions, though arousal patterns appeared to vary with content difficulty](instructor-presence-no-scl-difference.md)

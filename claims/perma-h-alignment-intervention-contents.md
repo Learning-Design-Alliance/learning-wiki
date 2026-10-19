@@ -62,4 +62,7 @@ The review's mapping found gaps in the PERMA-H coverage: it states no contents r
 
 
 ## Related Claims
--
+
+- [Most reviewed teacher well-being interventions (37 of 46) were categorised supportive, while 9 showed no significant impacts](most-teacher-wellbeing-interventions-supportive.md)
+- [A scoping review identified 46 peer-reviewed teacher well-being and burnout intervention studies covering 7369 participants in 15 countries, mostly quantitative](scoping-review-46-teacher-wellbeing-intervention-studies.md)
+- [Teacher well-being intervention content falls into seven activity themes, with professional development (n=20) and mindfulness/meditation (n=12) most common](seven-content-themes-teacher-wellbeing-interventions.md)

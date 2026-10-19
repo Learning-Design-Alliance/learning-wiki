@@ -33,6 +33,7 @@ WrAFT is a deployable, modular LLM-powered automated writing evaluation and feed
 ## Related Products and Programmes
 
 - [FOXGLOVE](foxglove.md)
+- [MALA (Modular Artificial Learning Assistance)](mala-modular-artificial-learning-assistance.md)
 
 ## Key Sources
 - Adnan Labib, Yixuan Huang, Jiahui Wu, John Maurice Gayed, Zheng Yuan, Qiao Wang. (2026). WrAFT: a Modularized Automated Writing Evaluation System for Argumentative Essays. arXiv preprint. https://arxiv.org/abs/2607.14524

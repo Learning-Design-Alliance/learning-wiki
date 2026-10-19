@@ -43,4 +43,8 @@ Treatment fidelity check on peer tutoring sessions: the first and fourth authors
 
 
 ## Related Claims
--
+
+- [Lesson-probe data paths showed clear separation favoring the peer tutoring condition for most probes across all eight participants](probe-data-path-separation-peer-tutoring.md)
+- [Teachers implemented Preschool PATHS with high fidelity and positive engagement in the trial](paths-preschool-high-implementation-fidelity.md)
+- [Teachers allocated on average five percent of intervention sessions to predicting and purpose setting, with fidelity of implementation averaging 45.4%](low-time-and-fidelity-engaged-reader-processes.md)
+- [Both included studies report high-fidelity implementation of eMINTS](emints-high-fidelity-implementation.md)

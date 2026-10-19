@@ -44,4 +44,5 @@ The editorial reports, on the Rodríguez-Triana et al. large-scale Go-Lab study 
 
 
 ## Related Claims
--
+
+- [ILS adoption rate increases across knowledge maturation stages, from 3.38% for individually created ILSs to 43.94% for published ILSs](ils-adoption-increases-across-maturation-stages.md)

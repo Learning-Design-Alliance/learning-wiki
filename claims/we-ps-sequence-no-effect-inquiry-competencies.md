@@ -65,6 +65,7 @@ MANCOVA on graphing application and transfer scores for 120 seventh-grade studen
 - [Algebraic Thinking](../learner-variables/algebraic-thinking.md) — outcome: instruction changes it
 
 ## Related Claims
+
 - [Student attributes showed no main effects on outcomes except interest in science in graphing, and did not interact with sequence](attributes-no-interaction-with-sequence.md) — related
 - [Students improved significantly from pre- to post-test in both topics, with a medium effect in experimental design and a small effect in graphing](pre-post-gains-inquiry-competencies.md) — related
 - [Prior knowledge strongly predicts post-test application and transfer scores in both topics](pretest-predicts-inquiry-outcomes.md) — related
@@ -75,3 +76,4 @@ MANCOVA on graphing application and transfer scores for 120 seventh-grade studen
 - [Practice-problem performance favored PS-I overall, but the advantage was concentrated on the first two worksheets (d = 0.52)](practice-problems-favor-ps-i-first-worksheets.md) — related
 - [Neither instructional sequence produced significant far-transfer effects in either experiment](no-significant-far-transfer-effect-either-sequence.md) — related
 - [For introductory biology students with low topic-specific prior knowledge, problem-solving-first (PS-I) outperformed instruction-first (I-PS) on a near-transfer test](ps-i-beats-i-ps-near-transfer-low-prior-knowledge.md) — related
+- [Problem order produced an order effect: solving basketball problems first improved performance on all problems, while school problems first lowered performance](basketball-problem-order-effect-on-performance.md)

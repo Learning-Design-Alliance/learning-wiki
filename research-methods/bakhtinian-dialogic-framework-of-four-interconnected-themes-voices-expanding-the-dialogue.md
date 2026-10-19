@@ -25,7 +25,10 @@ The article operationalizes dialogue through four Bakhtin-inspired themes used b
 - [The intervention significantly increased teachers' noticing of six dialogic attributes — persuasive interaction, one leads and another is led, agreement and collective attention, students have equal status, dialogic gap, and monologue — but not of dialogue-expansion attributes](../claims/six-dialogic-attributes-significant-gains.md) [+M]
 
 ## Related Research Methods
--
+
+- [Dialogical voice-synergy model of collaboration](dialogical-voice-synergy-model-of-collaboration.md)
+- [Theoretically productive classroom dialogue framework: five recurring themes plus the cross-cutting theme of high student contribution](theoretically-productive-classroom-dialogue-framework-five-recurring-themes-plus-the-cross.md)
+- [Dialogical self theory (DST) I-positions as a CSCL analytical framework](dialogical-self-theory-dst-i-positions-as-a-cscl-analytical-framework.md)
 
 ## Key Sources
 - Benzi Slakmon, Rotem Abdu. (2024). Learning to notice collaboration: examining the impact of professional development on mathematics teachers’ enhanced awareness in CSCL settings. Intern. J. Comput.-Support. Collab. Learn 19:137–155. https://doi.org/10.1007/s11412-024-09423-6

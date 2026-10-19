@@ -43,4 +43,7 @@ Independent-samples t-test in the same 55-participant sample comparing native si
 
 
 ## Related Claims
+
 - [Native signers (children of at least one Deaf parent) outperform non-native signers on ASL syntactic judgment and analogical reasoning tasks](native-signers-outperform-non-native-asl.md) — related
+- [Deaf adults in this sample read on average at a 5.8 grade level, ranging from grade 1.7 to post-college](deaf-sample-mean-reading-grade-5-8.md)
+- [Family communication mode and hearing status at birth were not significantly related to bilingual abilities](family-communication-mode-null-bilingual.md)

@@ -43,4 +43,7 @@ In the participants section of the training study, the authors report twelve sig
 
 
 ## Related Claims
--
+
+- [Pandemic-related missingness in the field study occurred at random with respect to the hypotheses and did not bias the analyzed sample](pandemic-missingness-at-random-no-bias.md)
+- [BFpack handles common statistical analyses with default priors and data missing at random](bfpack-default-priors-missing-data.md)
+- [The four aggregated non-hybrid training groups did not differ on the dependent variables of the analyses](non-hybrid-groups-no-difference-dependent-variables.md)

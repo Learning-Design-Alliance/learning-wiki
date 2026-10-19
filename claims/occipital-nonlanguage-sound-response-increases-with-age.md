@@ -43,4 +43,7 @@ In the developmental study of blind children aged 4–17 listening to stories, u
 
 
 ## Related Claims
--
+
+- [Occipital responses to spoken language in blind children are maximal by age 4 and unrelated to Braille learning](occipital-language-response-maximal-by-age-4.md)
+- [The \"visual\" cortices of young blind children, but not sighted children, respond to sound](blind-children-occipital-response-to-sound.md)
+- [Occipital plasticity for spoken language is independent of plasticity for Braille and for sound](occipital-language-plasticity-independent-of-braille-and-sound.md)

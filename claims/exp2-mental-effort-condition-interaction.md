@@ -43,4 +43,7 @@ Repeated measures ANOVA in Experiment 2 on mental effort found "an interaction e
 
 
 ## Related Claims
--
+
+- [In Experiment 2, neither self-assessment feedback plus correct answers nor plus contrasting own with correct answers improved test-phase self-assessment accuracy](exp2-feedback-correct-answers-no-gain.md)
+- [Across both experiments, self-assessment feedback failed to improve self-assessment accuracy in the absence of feedback, and learners' self-assessments did not track practice-driven performance gains](self-assessment-feedback-no-benefit-absence-of-feedback.md)
+- [Task sequence effects on mental effort reverse between learning phase and transfer test](effort-reversal-learning-versus-transfer-phase.md)

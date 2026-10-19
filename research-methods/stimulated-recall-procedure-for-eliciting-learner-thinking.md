@@ -12,7 +12,7 @@ generated:
 # Stimulated recall procedure for eliciting learner thinking
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The study used a stimulated recall procedure in which students' thinking processes during the tutorial group discussion were tapped, producing recall protocols analysed alongside verbatim transcripts of the group's verbal interaction. The article reports that "Thinking processes were tapped by means of a stimulated recall procedure." The method proved "sensitive for detecting conceptual change during problem analysis."
@@ -22,8 +22,10 @@ The study used a stimulated recall procedure in which students' thinking process
 - **Stimulated recall procedure for tapping thinking processes during PBL problem analysis**: The study used a stimulated recall procedure in which students' thinking processes during the tutorial group discussion were tapped, producing recall protocols analysed alongside verbatim transcripts of the group's verbal interaction. The article reports that "Thinking processes were tapped by means of a stimulated recall procedure." The method proved "sensitive for detecting conceptual change during problem analysis." (de Grave et al. (1996))
 
 ### Claims
+
 - [Conceptual change by students during PBL problem analysis can be made visible in stimulated recall protocols](../claims/stimulated-recall-makes-conceptual-change-visible.md) [+M]
 - [Stimulated recall provides unique information about hypothesis evaluation and meta-reasoning beyond group verbal interaction](../claims/stimulated-recall-unique-hypothesis-meta-reasoning.md) [+M]
+- [Verbal interaction in a PBL tutorial group shows only part of the underlying cognitive and metacognitive processes](../claims/pbl-verbal-interaction-tip-of-iceberg.md) [+W]
 
 ## Related Research Methods
 -

@@ -40,7 +40,8 @@ The v6m system instructions organize transcripts into distinct verbal and descri
 - V6M Gemini Lualatex Transcription Workflow [+M]
 
 ## Related Designs
-- 
+
+- [Mitigate LLM hallucinations in material generation by drastic context pruning and segmented, section-by-section generation rather than single-prompt deck generation](context-pruning-and-segmented-generation-mitigate-hallucinations.md)
 
 ## Examples
 -

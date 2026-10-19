@@ -43,9 +43,11 @@ Narrative review statement attributed to Baddeley (1996). The article notes some
 
 
 ## Related Claims
+
 - [The episodic buffer integrates multimodal representations from WM components and long-term memory, which is important for learning](episodic-buffer-multimodal-integration-learning.md) — related
 - [Same-construct memory task correlations exceed different-construct correlations](within-construct-span-correlations-larger.md) — a narrower finding that bears on this claim
 - [The two-factor STM/WM structure holds for both younger (8-10) and older (11-13) children](stm-wm-distinction-holds-across-childhood.md) — a narrower finding that bears on this claim
 - [Working memory, but not short-term memory, predicts word decoding skill in children](wm-predicts-word-decoding-stm-does-not.md) — a narrower finding that bears on this claim
 - [The central executive coordinates WM subsystems and supports higher-level language-learning functions such as attention switching and strategy switching](central-executive-coordinates-language-learning-functions.md) — related
 - [Cowan's three-factor embedded processes model fit young children's working memory data slightly better than Baddeley and Hitch's three-factor model and decisively better than Baddeley's four-factor episodic buffer model](cowan-embedded-processes-model-best-fit-young-children.md) — a narrower finding that bears on this claim
+- [Lesion evidence links written-language processes to language, working memory, and other cognitive skills](written-language-neural-instantiation-relates-cognitive-skills.md)

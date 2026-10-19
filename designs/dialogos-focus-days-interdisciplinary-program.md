@@ -17,7 +17,7 @@ sources:
 # DIALOGOS focus days: interdisciplinary dialogic argumentation program for Grade 7
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The DIALOGOS Center initiated a program in four schools in a mid-size Israeli town, with a teacher professional development program for Grade 7 in mathematics, humanities, and science. Each focus day "turned around a different societal issue; disciplinary sessions (in mathematics, science and philosophy) during which students learned about ideas relevant to the societal issue, preceded an interdisciplinary session" producing a joint product. About 130 students from four seventh grades participated, all from excellent classes.
@@ -37,10 +37,12 @@ The DIALOGOS Center initiated a program in four schools in a mid-size Israeli to
 - Interdisciplinary dialogic argumentation on societal issues such as vaccination mandates and genetic engineering
 
 ### Claims
-- 
+
+- [Subtle teacher guidance, not imposition, enables interdisciplinary integration in small-group deliberation](../claims/subtle-teacher-guidance-not-imposition-enables-interdisciplinary-integration.md) [+W]
 
 ## Related Designs
-- 
+
+- [Interdisciplinary Societal Dilemma Units](interdisciplinary-societal-dilemma-units.md)
 
 ## Examples
 -

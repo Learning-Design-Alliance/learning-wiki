@@ -41,4 +41,6 @@ Structural equation modeling of 180 children assessed at T1 (kindergarten) and T
 
 
 ## Related Claims
--
+
+- [Motivation's effect on later mathematical performance is indirect, mediated by executive functioning and early numeracy skills](motivation-indirect-effect-mediated-by-ef-and-numeracy.md)
+- [Initial motivation in kindergarten has no significant direct effect on mathematical performance two years later](no-direct-effect-of-kindergarten-motivation-on-math.md)

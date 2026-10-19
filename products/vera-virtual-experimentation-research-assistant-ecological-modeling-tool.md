@@ -25,7 +25,8 @@ A publicly available online ecological modeling tool hosted through the Smithson
 - [Self-directed online learners' modeling behaviors cluster into three patterns—Observation, Construction, and Exploration—differing in engagement level](../claims/three-behavioral-patterns-self-directed-modeling.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Cerrado Succession Hypothesis (CSH) qualitative model library](cerrado-succession-hypothesis-csh-qualitative-model-library.md)
 
 ## Key Sources
 - Sungeun An, Jennifer Hammock, Ashok Goel. (2025). How Online Learners Engage in Self-Directed Modeling: A Behavioral Analysis. International Journal of Artificial Intelligence in Education. https://doi.org/10.1007/s40593-025-00506-5

@@ -13,7 +13,7 @@ generated:
 # Geniventure
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Geniventure is a game-based learning environment developed for middle- and high-school introductory genetics instruction, using virtual drakes, scaffolded challenges, hints, and interaction tracing.
@@ -22,6 +22,8 @@ Geniventure is a game-based learning environment developed for middle- and high-
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
+- [Students demonstrated significant improvement in genetics knowledge from pre-test to post-test after playing Geniventure](../claims/geniventure-significant-pre-post-genetics-improvement.md) [+M]
 
 ## Related Products and Programmes
 -

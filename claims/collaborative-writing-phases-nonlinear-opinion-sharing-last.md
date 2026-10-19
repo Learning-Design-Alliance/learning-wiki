@@ -62,4 +62,6 @@ The editorial summarizes the process findings of the same collaborative-writing 
 
 
 ## Related Claims
--
+
+- [In a synchronous online environment, self-organization can be seen as a continuum, and there is strong interdependence between processes and content](self-organization-continuum-synchronous-online-interaction.md)
+- [All teams showed divergent-then-convergent idea improvement patterns across prototyping sessions](divergent-convergent-idea-improvement-prototyping.md)

@@ -34,7 +34,8 @@ A suite of three computer simulation programs developed by Tao et al. for explor
 - [Co-construction of shared understanding needed to be accompanied by students' personal construction and sense making for conceptual change to be stable over time](../claims/personal-construction-required-stable-conceptual-change.md) [~W]
 
 ## Related Products and Programmes
--
+
+- [Tailorshop microworld](tailorshop-microworld.md)
 
 ## Key Sources
 - Tao, Ping-Kee; Gunstone, Richard F. (1997). Conceptual Change in Science through Collaborative Learning at the Computer. Paper presented at the Annual Meeting of the National Association for Research in Science Teaching (70th, Oak Brook, IL, March 21-24, 1997). https://eric.ed.gov/?id=ED406151

@@ -43,8 +43,10 @@ The authors' characterization of the existing evidence base: prior studies "have
 
 
 ## Related Claims
+
 - [The national KIPP evaluation uses experimental and quasi-experimental methods to estimate effects of KIPP middle schools across the country](kipp-evaluation-experimental-quasi-experimental-design.md) — related
 - [KIPP charter schools have positive effects on mathematics achievement for middle and high school students](kipp-positive-math-achievement.md) — a narrower finding that bears on this claim
 - [A lottery-based randomized controlled trial of KIPP middle schools found statistically significant positive effects on state math and reading tests](kipp-rct-lottery-positive-effects.md) — a narrower finding that bears on this claim
 - [A lottery-based randomized experimental analysis confirms KIPP middle schools' positive impacts](kipp-lottery-experimental-analysis-confirms-impacts.md) — a narrower finding that bears on this claim
 - Methodological scope of existing research is limited: small samples, single courses, and short-term interventions — a broader claim this one bears on
+- [Prior charter school research shows mixed student achievement results, which the authors attribute to differing policy environments or methodological assumptions across studies](charter-achievement-mixed-results-attributed-to-policy-and-method-variation.md)

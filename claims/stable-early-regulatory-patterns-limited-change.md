@@ -43,4 +43,6 @@ The article reports this trajectory finding from its sequence and transition ana
 
 
 ## Related Claims
--
+
+- [Weekly group data on PBL interactions showed substantial between-group variability (ICC 0.4), requiring multilevel growth models](group-variability-icc-multilevel-growth-models.md)
+- [Model-based clustering of tied durations identifies four weekly regulation patterns in PBL group discussions](four-weekly-regulation-patterns-pbl.md)

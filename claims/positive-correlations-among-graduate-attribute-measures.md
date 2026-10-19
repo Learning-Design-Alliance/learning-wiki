@@ -43,4 +43,7 @@ Spearman correlation and hierarchical clustering analysis (Figures 1 and 2) of t
 
 
 ## Related Claims
--
+
+- [MAKQ dimensions correlate moderately with each other, with strategy knowledge only weakly related to the self-perception scales](makq-intercorrelations-self-strategy.md)
+- [Self-perceived communication competence and adaptability show small positive correlations with age, while resourcefulness and communicative adaptability do not](age-correlations-communication-adaptability-small.md)
+- [Graduate attribute attainment correlates only extremely weakly with years spent at university](weak-correlation-year-of-study-graduate-attributes.md)

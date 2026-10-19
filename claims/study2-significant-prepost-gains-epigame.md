@@ -43,4 +43,6 @@ Study 2, a classroom deployment in which 123 7th graders played EPIGAME for five
 
 
 ## Related Claims
--
+
+- [Improvement in conceptually-laden in-game challenges over gameplay is strongly moderated by prior physics knowledge](challenge-improvement-moderated-by-prior-knowledge.md)
+- [Students favoring fast iterative solution strategies achieved lower learning gains than students with slow, elaborate, or balanced play](fast-iterative-strategies-lower-learning-gains.md)

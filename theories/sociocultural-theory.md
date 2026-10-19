@@ -152,6 +152,7 @@ A related developmental mechanism is **private speech**: children's habit of tal
 - [Transparency theory: a holistic, tacit-skill account of learning and language acquisition](transparency-theory-learning-skill-acquisition.md)
 - [Theoretical grounding of LAD design in SCT, SRL, constructivism, social cognitive theory, and transformative learning](lad-theoretical-grounding-sct-srl-tl.md)
 - [Developmental relationships: experiences shape development most within strong, supportive, sustained relationships with adults and peers](developmental-relationships-context-sel.md)
+- [Sociocultural Model of L2 writing](sociocultural-model-l2-writing.md)
 
 ## Examples
 
@@ -165,6 +166,7 @@ A related developmental mechanism is **private speech**: children's habit of tal
 - Collaborative critique of alternative solutions.
 - [Teach AI through holistic, active, collaborative pedagogical strategies starting from real problem solving](../strategies/active-real-problem-solving-ai-teaching.md)
 - [Use learner skill levels to determine when to transition from worked examples to problem solving in tutoring systems](../strategies/skill-based-adaptive-fading-schedule.md)
+- [Functional system incorporating tools as the unit of analysis for CSCL microanalysis](../research-methods/functional-system-incorporating-tools-as-the-unit-of-analysis-for-cscl-microanalysis.md)
 
 ## Key Sources
 - Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes*. Harvard University Press.

@@ -62,4 +62,5 @@ Conditional effects showed a significant positive misconception effect in the co
 
 
 ## Related Claims
--
+
+- [Under reading-only, students with more misconceptions achieved better comprehension, but completing a think sheet removed this effect of misconceptions on comprehension](think-sheet-removes-misconception-effect-comprehension.md)

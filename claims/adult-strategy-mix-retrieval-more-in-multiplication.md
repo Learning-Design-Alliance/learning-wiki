@@ -43,4 +43,7 @@ Strategy-distribution ANOVAs on trial-by-trial verbal reports in the 25 dyslexia
 
 
 ## Related Claims
+
 - [Adults with DD rely on time-consuming back-up strategies like finger usage for single-digit arithmetic, with prolonged response latencies that appear number-specific](dd-adults-backup-strategies-prolonged-latencies.md) — related
+- [Adults with dyslexia execute both retrieval and procedural arithmetic strategies more slowly than controls](dyslexia-slower-strategy-execution.md)
+- [The association between phonological awareness and fact retrieval is prominent in multiplication but largely absent in subtraction at the subgroup level](phonological-awareness-multiplication-not-subtraction.md)

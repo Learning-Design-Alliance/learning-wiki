@@ -43,4 +43,7 @@ Independent-samples t-tests comparing K1 and K2 children on CVS and nonverbal re
 
 
 ## Related Claims
--
+
+- [CVS use relates positively to age but not to gender in kindergartners](cvs-use-age-not-gender.md)
+- [Dynamic assessment can teach kindergartners the CVS within a single session](dynamic-assessment-teaches-cvs-single-session.md)
+- [Mokken scale analysis establishes content validity of the ramp task as a unidimensional measure of CVS use](mokken-content-validity-ramp-task.md)

@@ -40,7 +40,9 @@ AdaPT decomposes lesson plans into four components: curriculum standards, learni
 - 
 
 ## Related Designs
+
 - Adapt Lesson Plan Transformer System
+- [ADDIE-based orchestration framework for curriculum-aligned LLM lesson generation with teacher validation gates](addie-orchestration-framework-llm-lesson-generation.md)
 
 ## Examples
 -

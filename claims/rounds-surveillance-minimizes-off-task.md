@@ -62,4 +62,5 @@ The paper observes that pupils "often quickly check whether the teacher is looki
 
 
 ## Related Claims
--
+
+- [During collaborative learning with computers, teachers' concerns of classroom management and pedagogy are typically intertwined](teacher-management-pedagogy-intertwined.md)

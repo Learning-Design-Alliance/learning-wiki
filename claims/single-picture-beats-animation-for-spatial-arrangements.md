@@ -43,4 +43,5 @@ Same three-group experiment (N = 88). On arrangement identification the single-p
 
 
 ## Related Claims
--
+
+- [Learners' mechanical ability and spatial ability were not significantly related to identification performance in the main study](spatial-mechanical-ability-null-relation.md)

@@ -43,4 +43,7 @@ In the same developmental neuroimaging sample of blind children, occipital respo
 
 
 ## Related Claims
--
+
+- [The \"visual\" cortices of young blind children, but not sighted children, respond to sound](blind-children-occipital-response-to-sound.md)
+- [Occipital plasticity for spoken language is independent of plasticity for Braille and for sound](occipital-language-plasticity-independent-of-braille-and-sound.md)
+- [Occipital responses to nonlanguage sounds in blind children increase between ages 4 and 17](occipital-nonlanguage-sound-response-increases-with-age.md)

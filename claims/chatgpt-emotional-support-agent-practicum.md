@@ -62,4 +62,5 @@ Participant quote from reflective essays and focus group interviews in the case 
 
 
 ## Related Claims
--
+
+- [Positive attitudes toward ChatGPT increased from before to during the practicum](chatgpt-attitudes-increased-during-practicum.md)

@@ -43,4 +43,5 @@ Path analysis of Study 2 data using Weiner-based ability and effort reason items
 
 
 ## Related Claims
--
+
+- [Preservice teachers judged the ethnic minority student more negatively than the ethnic majority student on parental support, achievement, and working behavior](ethnic-minority-student-judged-more-negatively-study1.md)

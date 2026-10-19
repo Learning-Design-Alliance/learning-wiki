@@ -43,4 +43,5 @@ Sidi, Ophir, and Ackerman had participants complete problem-solving tasks on com
 
 
 ## Related Claims
--
+
+- [Medium moderated disfluency effects on reasoning: disfluent text fostered calibration and performance on screen but not on paper](screen-paper-moderates-disfluency-reasoning.md)

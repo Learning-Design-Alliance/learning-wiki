@@ -30,7 +30,8 @@ A proposed federal programme to recognize highly effective K–12 public school 
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Augustus F. Hawkins Center for Excellence grant program](augustus-f-hawkins-center-for-excellence-grant-program.md)
 
 ## Key Sources
 - Steven Glazerman, Dan Goldhaber, Susanna Loeb, Douglas O. Staiger, Grover J. Whitehurst. (2010). America's Teacher Corps. Washington, DC: The Brookings Institution. https://www.brookings.edu/research/americas-teacher-corps

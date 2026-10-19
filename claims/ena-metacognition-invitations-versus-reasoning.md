@@ -43,6 +43,7 @@ Epistemic network analysis of co-occurrence among coded behaviors (model fit Pea
 
 
 ## Related Claims
+
 - [Semantic similarity between human and AI discourse is highest in the Delegated Reasoning profile and significantly lower in Concerted Interpretation](dr-highest-semantic-similarity-ci-lower.md) — related
 - [The Delegated Reasoning group significantly outperformed the Concerted Interpretation group on collaborative problem-solving task performance](dr-outperforms-ci-task-performance.md) — related
 - [Cluster analysis of student-AI dialogue identifies three distinct collaboration profiles: Delegated Reasoning, Concerted Interpretation, and Delegated Elaboration](three-human-ai-cps-profiles-dr-ci-de.md) — related
@@ -52,3 +53,4 @@ Epistemic network analysis of co-occurrence among coded behaviors (model fit Pea
 - [A secondary ENA adding ICAP engagement codes showed proactive interactions linked constructive engagement with adequate reasoning, while reactive dialogues emphasised procedural pairings](proactive-engagement-constructive-adequate-reasoning-link.md) — related
 - [The Most Improved profile showed an integrated AI-support pattern with strong ENA connections among coaching, modeling, and reflection and frequent model uptake in group discussion](most-improved-profile-integrated-ai-support-pattern.md) — related
 - [Epistemic network analysis provides a better account of temporal patterns between socio-cognitive events than coding-and-counting](ena-outperforms-coding-and-counting-temporality.md) — related
+- [Turn-level dialogue codes cluster into three components: Elaborated, Reasoned and Non-Dialogic](dialogue-codes-three-component-pca-solution.md)

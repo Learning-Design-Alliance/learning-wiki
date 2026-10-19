@@ -43,4 +43,6 @@ In the same 72-student experiment in Tarski's World, the manipulation variable w
 
 
 ## Related Claims
--
+
+- [Guidance in a computer-based logic environment significantly influences pre- to post-test scores for learning the conditional](guidance-improves-posttest-logic-conditional.md)
+- [The authors conclude that guidance combined with the possibility to manipulate objects supports acquisition of knowledge and skills in a domain](guidance-plus-manipulation-support-acquisition.md)

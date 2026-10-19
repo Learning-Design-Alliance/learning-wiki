@@ -17,7 +17,7 @@ sources:
 # Replace passive theoretical IT instruction with hands-on active technological creation and algorithmic troubleshooting
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 2 studies (1 associational, 1 design), `q1`–`q2` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 The article recommends that IT curricula move away from passive software navigation toward practical, creation-centered activity. It argues that "Fostering true digital resilience requires curricula centered on algorithmic trial-and-error, logical troubleshooting, and active technological creation", grounded in the confidence deficits and 76.5% student demand for hands-on practice its survey documented.
@@ -38,6 +38,13 @@ The article recommends that IT curricula move away from passive software navigat
 - algorithmic thinking and troubleshooting
 - programming and CAD creation skills
 - critical AI awareness
+
+## Claims
+
+- [Secondary students report near-maximum confidence in passive digital tasks but sharply lower confidence in active creation and algorithmic logic](../claims/confidence-competence-divide-passive-vs-active-creation.md) [+W]
+- [76.5% of students demand a shift toward hands-on practical computer activities over theoretical instruction](../claims/student-demand-hands-on-it-instruction.md) [+W]
+- [Technology-pathway students report higher active-creation self-efficacy than Arts and Humanities students (p < 0.001)](../claims/pathway-difference-active-creation-confidence.md) [+W]
+- [Embedded AI assistance enabled a novice student to troubleshoot in real time and stay in creative flow](../claims/copilot-embedded-support-real-time-troubleshooting.md) [+W]
 
 ## Related Strategies
 

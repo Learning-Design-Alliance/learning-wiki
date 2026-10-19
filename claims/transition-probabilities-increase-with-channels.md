@@ -43,4 +43,5 @@ Comparison of first-order Markov models built with pMineR from the three channel
 
 
 ## Related Claims
--
+
+- [Adding peripheral data to navigational logs sharply changes the detected distribution of SRL processes, revealing many more Organisation and far fewer First-reading processes](peripheral-data-changes-srl-process-distribution.md)

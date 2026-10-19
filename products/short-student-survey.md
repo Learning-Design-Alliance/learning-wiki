@@ -34,6 +34,7 @@ A study-specific student questionnaire created and administered by the evaluatio
 ## Related Products and Programmes
 
 - [Computing career intentions survey instrument (32-item full version and 12-item short form)](computing-career-intentions-survey-instrument-32-item-full-version-and-12-item-short-form.md)
+- [PERTS 15-item academic mindset survey with four subscales](perts-15-item-academic-mindset-survey-with-four-subscales.md)
 
 ## Key Sources
 - Perry, R., Nucci, D., Walters, K., McKinney, D., Nielsen, S., & Hannan, M. (2026). Measuring what matters: Considerations for measuring the implementation of high-quality instructional materials in mathematics. WestEd. https://www.wested.org

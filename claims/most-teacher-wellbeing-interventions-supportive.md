@@ -43,4 +43,7 @@ Outcome synthesis across the 46 studies, classified by the original authors' int
 
 
 ## Related Claims
--
+
+- [A scoping review identified 46 peer-reviewed teacher well-being and burnout intervention studies covering 7369 participants in 15 countries, mostly quantitative](scoping-review-46-teacher-wellbeing-intervention-studies.md)
+- [Teacher well-being intervention content falls into seven activity themes, with professional development (n=20) and mindfulness/meditation (n=12) most common](seven-content-themes-teacher-wellbeing-interventions.md)
+- [Intervention contents align with PERMA-H mainly through engagement (25), relationships (17), positive emotions (14) and health (8), with no content matching meaning or accomplishment](perma-h-alignment-intervention-contents.md)

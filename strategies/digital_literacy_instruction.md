@@ -63,6 +63,7 @@ Digital literacy is best taught through authentic tasks — real searches, real 
 - Media literacy and civic online reasoning programs — the evaluation-focused branch of digital literacy with the strongest outcome evidence
 - Inquiry-based research projects — the authentic-task context in which digital literacy skills are most durably applied
 - [Support digital inclusion through onboarding processes, device lending and technical support when deploying digital learning programmes with older adults](digital-inclusion-onboarding-device-lending.md)
+- [Parents and educators should search multiple sources — app stores, expert review sites, and producers' websites — when selecting literacy apps](cross-source-app-search-strategy.md)
 
 ## Examples
 - **Stanford History Education Group — Civic Online Reasoning curriculum** ([https://cor.stanford.edu](https://cor.stanford.edu)): free lessons teaching lateral reading, source checking, and evidence evaluation; field-tested in classrooms with measured pre/post gains.

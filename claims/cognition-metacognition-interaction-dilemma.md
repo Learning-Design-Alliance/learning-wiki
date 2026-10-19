@@ -43,4 +43,7 @@ Editorial argument, citing Winne (2018), that cognition and metacognition are ha
 
 
 ## Related Claims
--
+
+- [Whether metacognition is domain-general or domain-specific remains a major unresolved issue with implications for instruction and transfer](metacognition-domain-generality-specificity-open-issue.md)
+- [Distinguishing metacognitive knowledge from skills, and metacognition from self-regulated learning, is an unresolved field-wide issue](metacognition-knowledge-skills-distinction-unresolved.md)
+- [The field of metacognition lacks a unified definition, impeding theoretical integration across disciplines](metacognition-lacks-unified-definition.md)

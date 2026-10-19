@@ -17,7 +17,7 @@ sources:
 # Present problems before explanatory texts to arouse curiosity and situational interest in learners lacking prior knowledge
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 This strategy sequences instruction so learners encounter a problem they cannot yet explain before receiving the explanatory text, arousing both epistemic curiosity and situational interest through the knowledge gap. The article's experiment showed that "Only for the treatment group receiving the problem first, epistemic curiosity and situational interest were aroused and decreased after the explanatory text was studied." Presenting the explanation first eliminates the gap and prevents arousal, so the ordering matters for motivation.
@@ -42,8 +42,14 @@ This strategy sequences instruction so learners encounter a problem they cannot 
 ### Affordances
 - Knowledge Deprivation Account
 
+## Claims
+
+- [In the treatment condition, both epistemic curiosity and situational interest increased after problem presentation and decreased after the explanatory text](../claims/treatment-condition-arousal-decrease.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Pre Questioning](pre-questioning.md)
+- [Predicting](predicting.md)
 
 ## Examples
 -

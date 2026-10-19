@@ -43,4 +43,5 @@ Ethnographic observation of test-review sessions, e.g. Dan reciting masthead-lig
 
 
 ## Related Claims
--
+
+- [Participation in the quasi-community pedagogy was followed by very high success in the certification examination](quasi-community-high-certification-success.md)

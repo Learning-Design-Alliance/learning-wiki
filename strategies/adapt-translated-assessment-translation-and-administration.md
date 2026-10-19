@@ -17,7 +17,7 @@ sources:
 # Adapt translated assessments to the target jurisdiction's linguistic and cultural characteristics, and revise administration scripts and timing to fit test-takers unfamiliar with the format.
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 For the 2005 Puerto Rico NAEP administration, the report describes enhancements to translation and administration after 2003 data-quality concerns. Key changes were "the addition of two Puerto Rican mathematics teachers to the expert review panel" and "adaptation of topics and language usage to incorporate the unique linguistic and cultural characteristics of Puerto Rico." The administration script was revised to give explicit directions to move on and to explain item types, and testing time was extended from 50 to 70 minutes for the two mathematics sections.
@@ -38,8 +38,14 @@ For the 2005 Puerto Rico NAEP administration, the report describes enhancements 
 ### Target Learning Goals
 - Valid measurement of mathematics achievement in the language of instruction
 
+## Claims
+
+- [Preliminary analyses of the 2003 Puerto Rico data led to changes in administration and translation procedures for the 2005 assessment](../claims/preliminary-analyses-drove-2005-procedure-changes.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Integrate Puerto Rico into the national NAEP sample in future administrations](integrate-puerto-rico-national-naep-sample.md)
+- [Adapt English-language KEA administration so students may respond in Spanish or English, with bilingual directions and Spanish-adapted rather than merely translated prompts](linguistic-adaptations-spanish-english-kea-administration.md)
 
 ## Examples
 -

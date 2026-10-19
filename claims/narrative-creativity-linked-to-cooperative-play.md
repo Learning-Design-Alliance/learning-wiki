@@ -41,4 +41,6 @@ Study 2 correlational analysis assigning each child the group's narrative creati
 
 
 ## Related Claims
+
 - [Regression analysis showed creativity score was not dependent on active play](regression-null-active-play-creativity.md) — related
+- [The augmentation effect on cooperative play replicated in Study 2, with a large playset-by-behavior interaction and no overlap in confidence intervals](cooperative-play-replicated-study2-interaction.md)

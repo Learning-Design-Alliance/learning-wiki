@@ -85,3 +85,4 @@ Same mixed-effects analysis of within-session position for SRL functions. The au
 - [Robot embodiment changes verification and debugging: learners treat robot execution as perceptual evidence for hypothesis-driven revisions, while AI-Only learners rely on generic help-seeking](robot-embodiment-perceptual-evidence-debugging.md) — related
 - [Scaffolded task progression shifts novice reasoning from local completion toward diagnosis and systematic debugging as task demands increase](scaffolded-task-progression-diagnostic-shift.md) — related
 - The article treats metacognition and learning as a topic requiring explicit conceptual and methodological considerations — related
+- [Help seeking is guided by a wider variety of considerations beyond improving immediate answer accuracy than withholding answers is](help-seeking-multiple-considerations-beyond-accuracy.md)

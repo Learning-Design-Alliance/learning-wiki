@@ -43,6 +43,7 @@ Baseline equivalency test of grade 6 EOG math scores between randomized groups. 
 
 
 ## Related Claims
+
 - Propensity score matching produced comparison groups equivalent at baseline (within +/- 0.25 standard deviations) on all pretest achievement measures across the three QEDs — related
 - A virtual comparison group matched on pretest, locale, FRL, and test dates achieved baseline equivalence with the treatment group (effect size = -0.03) — related
 - [In the full-sample analysis, baseline demographic and prior-achievement differences between treatment and matched comparison groups were minimal, with effect sizes below the WWC threshold](air-tutors-full-sample-baseline-equivalence.md) — related
@@ -50,3 +51,4 @@ Baseline equivalency test of grade 6 EOG math scores between randomized groups. 
 - Baseline pre-assessment scores showed no statistical differences between treatment and control groups in either the matched or baseline sample. — related
 - Matched treatment and comparison grade-level clusters were balanced on observable baseline characteristics, with differences below a quarter of a standard deviation — related
 - [Across the full sample, students receiving the ASSISTments intervention performed comparably to their virtual comparison peers on end-of-year MAP Growth](assistments-full-sample-no-significant-effect.md) — related
+- [Randomization check found no significant pre-intervention differences between treatment and control groups on pre-test or 8th-grade merit rating](randomization-check-no-pre-differences-variation-study.md)

@@ -43,4 +43,5 @@ Cluster analysis (k-means after standardization and winsorization; NbClust 12/30
 
 
 ## Related Claims
--
+
+- [Diffusion-based centralities show moderate-to-strong statistically significant positive correlations with the frequency of information sharing and argumentation utterances in CSCL](diffusion-centralities-capture-information-exchange-argumentation.md)

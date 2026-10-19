@@ -61,4 +61,7 @@ Methodological characterisation of the 46 included studies in the review's Resul
 
 
 ## Related Claims
--
+
+- [Most reviewed teacher well-being interventions (37 of 46) were categorised supportive, while 9 showed no significant impacts](most-teacher-wellbeing-interventions-supportive.md)
+- [Intervention contents align with PERMA-H mainly through engagement (25), relationships (17), positive emotions (14) and health (8), with no content matching meaning or accomplishment](perma-h-alignment-intervention-contents.md)
+- [Teacher well-being intervention content falls into seven activity themes, with professional development (n=20) and mindfulness/meditation (n=12) most common](seven-content-themes-teacher-wellbeing-interventions.md)

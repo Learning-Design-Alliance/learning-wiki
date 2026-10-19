@@ -39,7 +39,8 @@ The article describes a tutoring model in which sessions occur during the school
 ### Claims
 
 ## Related Designs
-- 
+
+- [Embedded high-dosage tutoring pattern: small ratios, in-schedule sessions, and classroom-aligned sequencing](embedded-high-dosage-tutoring-pattern.md)
 
 ## Examples
 -

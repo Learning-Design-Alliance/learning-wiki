@@ -43,4 +43,6 @@ Explorative study of 46 secondary teachers judging 406 students; the article rep
 
 
 ## Related Claims
--
+
+- [The cue-diagnosticity intervention steered cue utilization: diagnostic cue use increased and non-diagnostic cue use decreased](diagnosticity-intervention-steers-cue-utilization.md)
+- [Teachers judging student performance mostly use performance cues and, to a lesser extent, student cues](teachers-mostly-use-performance-cues-judging-performance.md)

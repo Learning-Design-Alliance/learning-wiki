@@ -195,6 +195,7 @@ Better drafts with help, better final versions, better unaided writing on the ne
 - [Writing-integrated reading lesson pattern across teaching objectives, content, organization and assessment](../designs/writing-in-reading-four-aspects-pattern.md)
 - [Guide reading with targeted questions that direct attention to grammatical, lexical and structural features needed for the writing task](../strategies/guided-reading-questions-for-writing-tasks.md)
 - [Give students more chances to produce output and communicate during writing, with varied assignment types and clear sufficient feedback](../strategies/output-based-writing-teaching-suggestions.md)
+- [Argumentative Essay Writing online module with FeedbackFruits peer feedback](../designs/aew-module-feedbackfruits-peer-feedback.md)
 
 ## Key Sources
 - Hayes, J. R., & Flower, L. S. (1980). Identifying the organization of writing processes. In *Cognitive processes in writing* (pp. 3-30). Lawrence Erlbaum.

@@ -25,7 +25,8 @@ A domain-general computer-based figurative test for fifth-grade students that me
 - [The six-process structure of inductive reasoning fits fifth graders' figurative-test data better than a unidimensional model](../claims/six-process-model-fits-better-than-unidimensional.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Save the Tree of Life](save-the-tree-of-life.md)
 
 ## Key Sources
 - Pásztor, Attila, Andrea Magyar, Anita Pásztor-Kovács, and Attila Rausch. 2022. Online Assessment and Game-Based Development of Inductive Reasoning. Journal of Intelligence 10: 59. https://doi.org/10.3390/jintelligence10030059

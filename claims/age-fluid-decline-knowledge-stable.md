@@ -62,6 +62,8 @@ Narrative review of cross-sectional age trends in composite measures from the Sa
 
 
 ## Related Claims
+
 - [Measures of everyday functioning and independent living correlate with psychometric cognition, with stronger relations for fluid reasoning than for crystallized knowledge](fluid-cognition-predicts-independent-living.md) — related
 - [Curve estimation shows linear decline in processing speed after age 30, quadratic trajectories for category fluency and IQ, and no age change in letter fluency](curve-estimation-differential-age-trajectories.md) — related
 - [When relevant knowledge can be drawn upon, age trends in performance can reverse, with older adults outperforming younger adults on crossword puzzles](knowledge-relevance-reverses-age-trends.md) — related
+- [Borrowing decisions with the fewest fees occur for middle-aged adults, peaking around age 53, even after controlling for credit risk, home value, and income](financial-decision-peak-middle-age.md)

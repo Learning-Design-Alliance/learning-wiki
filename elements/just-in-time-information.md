@@ -72,10 +72,12 @@ Delivering information at the point of need reduces the burden of holding unappl
 - [Cognitive Load Reduction (CLT Scaffolding Approach)](../principles/cognitive-load-theory.md) — timing of information presentation is a primary load-management lever
 
 ## Examples
+
 - **[Use Worked Examples](../strategies/worked-examples-first.md)** — completion problems embed explanatory information at the exact step where the learner takes over from the model.
 - **[Khan Academy](https://www.khanacademy.org)** — hints in practice exercises reveal step-by-step information only when the learner requests it, delivering support at the point of need.
 - **Codecademy ([https://www.codecademy.com](https://www.codecademy.com))** — contextual hints and documentation panels appear inline as learners write code, triggered by the current exercise step.
 - **Duolingo ([https://www.duolingo.com](https://www.duolingo.com))** — grammar tips surface at the point in a lesson where the new structure is first encountered, rather than as upfront grammar lectures.
+- [Identify which suggested actions are beneficial at what time to inform scaffold design, and deliver scaffolds at natural breakpoints preceded by a notification.](../strategies/identify-beneficial-actions-and-timing-for-scaffolds.md)
 
 ## Key Sources
 - Kester, L., Kirschner, P. A., & van Merriënboer, J. J. G. (2004). Timing of information presentation in learning statistics. *Instructional Science, 32*(1–2), 1–29. [doi:10.1023/b:truc.0000024191.27560.e3](https://doi.org/10.1023/b:truc.0000024191.27560.e3)

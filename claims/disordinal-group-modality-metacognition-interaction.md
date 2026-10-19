@@ -43,4 +43,5 @@ The experiment's omnibus group*modality interaction on meta-d' was significant w
 
 
 ## Related Claims
--
+
+- [Inferential word learning accuracy differs between Arabic, Chinese and Portuguese speakers only in the visual modality, with Arabic speakers lower than both Chinese and Portuguese speakers](writing-script-visual-modality-word-learning-accuracy.md)

@@ -13,7 +13,7 @@ generated:
 # Four-pillar competency rubric
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 A rubric developed by Smith et al. for assessing manufacturing workforce readiness across digital and AI literacy, cyber-physical systems fluency, human-machine collaboration, and data-driven decision making.
@@ -22,6 +22,10 @@ A rubric developed by Smith et al. for assessing manufacturing workforce readine
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
+- [The WRL rubric transferred unchanged across four industry sectors, with research- and industry-mentored capstones yielding broadly comparable pillar profiles](../claims/wrl-rubric-transferred-across-sectors.md) [+W]
+- [P2 pillar means rose from 1.3 to 2.7 between two successive unmatched teams on the same sponsor problem](../claims/case3-p2-pillar-mean-rose-between-cohorts.md) [+W]
+- [The no-thin-pillar rule was diagnostically informative in three of four cases and the binding constraint in one](../claims/no-thin-pillar-rule-diagnostic-four-cases.md) [+W]
 
 ## Related Products and Programmes
 -

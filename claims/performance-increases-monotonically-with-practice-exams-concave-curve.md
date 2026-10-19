@@ -43,4 +43,5 @@ Panel regression analysis of 71,405 exams from 2,979 students at the University 
 
 
 ## Related Claims
--
+
+- [Area-of-law-specific and general exam practice contribute about equally and independently to performance development](area-specific-and-general-practice-contribute-equally.md)

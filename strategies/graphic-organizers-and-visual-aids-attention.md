@@ -87,6 +87,7 @@ Graphic organizers work by externalizing structure, reducing the working-memory 
 5. Fade the organizer as learners internalize the structure, eventually asking them to generate their own from raw material.
 
 ## Related Strategies
+
 - [Advance Organizers](../elements/advance-organizers.md) — the pre-instructional variant of this strategy, priming schema before exposure
 - [Chunking](../principles/chunking.md) — the underlying load-reduction mechanism that organizers enact
 - [Annotating](../principles/annotating.md) — a complementary attention strategy operating on the text itself rather than a separate visual artifact
@@ -94,6 +95,7 @@ Graphic organizers work by externalizing structure, reducing the working-memory 
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — organizers can serve as the activation surface, making existing schemas visible before new content lands
 - [Chunking Information](chunking_information.md) — organizers are the visual enactment of chunking: grouping related items into a single structured unit
 - [Note-Taking Structures](note-taking_structures.md) — structured notes (Cornell, matrices) are learner-generated organizers applied to lectures and readings
+- [Provide concept maps and hypermaps so learners see conceptual relationships and their own location in the system](concept-maps-hypermaps-navigation-support.md)
 
 ## Examples
 - **Inspiration / Kidspiration (https://www.inspiration.com)** — concept-mapping software widely used in K–12 for learner-constructed graphic organizers across content areas.

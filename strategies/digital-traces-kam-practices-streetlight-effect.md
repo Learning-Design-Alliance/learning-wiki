@@ -17,7 +17,7 @@ sources:
 # Log data from co-creation platforms can trace social practices of professional learning despite a streetlight effect
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (4 for, 1 mixed) · 2 studies (1 associational, 1 theoretical), `q2` · 0 of 2 report an effect size · 5 claims rest on one study
 
 ## Description
 The study demonstrates that traces from digital co-creation platforms can evidence social practices of knowledge appropriation, maturation and scaffolding at large scale, using ILSs as the unit of analysis and log-based indicators. The authors acknowledge a "'streetlight effect'": the analysis "relies only on the data already available about certain KAM practices mediated by Graasp, whereas additional interactions may have taken place through other face-to-face or digital channels." They recommend designing ICT tools with social-practice tracking in mind and gathering complementary evidence from other physical and digital spaces.
@@ -38,6 +38,14 @@ The study demonstrates that traces from digital co-creation platforms can eviden
 
 ### Affordances
 - Knowledge Appropriation Model Kam
+
+## Claims
+
+- [Expert scaffolding is associated with ILS adoption, but the fading stage shows a comparatively low rate (8.27%) and was a non-significant predictor](../claims/expert-scaffolding-associated-with-adoption-except-fading.md) [+W]
+- [ILS adoption rate increases across knowledge maturation stages, from 3.38% for individually created ILSs to 43.94% for published ILSs](../claims/ils-adoption-increases-across-maturation-stages.md) [+W]
+- [ILS reuse and edition as a proxy for knowledge appropriation relates to about four times higher adoption (19.77% vs 4.51%)](../claims/ils-reuse-appropriation-proxy-higher-adoption.md) [+W]
+- [Logistic regression shows all traced KAM practices except fading are significant positive predictors of adoption, with maturation strongest (odds ratios up to 12.36) and model AUC = 0.79](../claims/logistic-regression-kam-practices-predict-adoption.md) [+W]
+- [Engagement inferred from log data must be treated with caution because digital traces reflect unevenly distributed social and material conditions](../claims/log-data-engagement-inference-caution.md) [~W]
 
 ## Related Strategies
 - 

@@ -43,6 +43,7 @@ The brief advises schools to "use a strengths-based approach to help English lea
 - [Supports teachers need to enact formative assessment for English learners](teacher-supports-formative-assessment-el.md)
 - [Implement a tiered, prevention-first approach to reducing chronic absence that invests in positive conditions for learning](tiered-prevention-first-attendance-approach.md)
 - [Administrators sustain high-quality Tier 1 Core Instruction by creating conditions, structural supports, and a sitewide culture valuing dual-language learning](administrator-supports-tier1-core-instruction.md)
+- [Implement anti-bias curricular models with four goals to build culturally relevant, strength-based classrooms](anti-bias-curriculum-four-goals-strategy.md)
 
 ## Examples
 -

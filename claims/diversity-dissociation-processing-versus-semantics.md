@@ -46,7 +46,9 @@ The article's summary of its own combined PLDT and similarity-rating results: "T
 - [Processing Speed](../learner-variables/processing-speed.md) — outcome: instruction changes it
 
 ## Related Claims
+
 - [Words encountered in diverse contexts are recognized more accurately in a pseudolexical decision task](diverse-contexts-improve-pseudoword-recognition-accuracy.md) — related
 - [Uniform (redundant) contexts yield higher semantic similarity ratings than diverse contexts](redundant-contexts-improve-semantic-representations.md) — a narrower finding that bears on this claim
 - [Contextual diversity facilitates episodic recall but impairs recognition](cd-facilitates-recall-impairs-recognition.md) — reports the opposite
 - Semantic integration findings are constrained: integration occurs even with nonsense syllables, limiting schema-based interpretation — related
+- [High-variability passages receive longer study times than low-variability passages](high-variability-passages-longer-study-time.md)

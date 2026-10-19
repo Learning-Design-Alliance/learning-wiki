@@ -43,4 +43,5 @@ The article's title states its focus on "The relationship between approaches to 
 
 
 ## Related Claims
--
+
+- [A two-level structural equation model links approaches to teaching and approaches to studying to biology achievement in high school](two-level-sem-approaches-teaching-studying-biology-achievement.md)

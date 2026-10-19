@@ -17,7 +17,7 @@ sources:
 # Mixed genetic algorithm fitness function balancing homogeneous and heterogeneous grouping components
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article adapts a mixed genetic algorithm (inspired by Revelo Sanchez et al., 2021) for data-driven group formation. Input characteristics are divided into homogeneous and heterogeneous components, and the group fitness score F′(gk) is "calculated by subtracting the F(gk) score for the homogeneous component from that of the heterogeneous component" (Eq. 2), so desirable groups minimize variance on homogeneous features while maximizing it on heterogeneous ones. The score is interpreted relatively among candidates generated from the same input feature set, and negative values occur when homogeneous-feature variance exceeds heterogeneous-feature variance.
@@ -38,8 +38,11 @@ The article adapts a mixed genetic algorithm (inspired by Revelo Sanchez et al.,
 - Vocabulary learning and text comprehension through collaborative active reading
 
 ### Claims
+
 - [Marker Feature Distributions Differ Across Groups](../claims/marker-feature-distributions-differ-across-groups.md) [+M]
 - [Mixed Ga Grouping Greater Vocabulary Gain Efl](../claims/mixed-ga-grouping-greater-vocabulary-gain-efl.md) [+M]
+- [Group summary scores did not differ significantly between algorithm-formed and randomly formed groups on content, vocabulary, or grammar rubrics](../claims/group-summary-scores-no-significant-difference.md) [~W]
+- [Process mining of two fitness-typical groups suggests the group with more heterogeneous yellow markers and shared red markers worked more efficiently while both achieved the same summary outcome](../claims/process-mining-heterogeneous-yellow-group-more-efficient.md) [+W]
 
 ## Related Designs
 - 

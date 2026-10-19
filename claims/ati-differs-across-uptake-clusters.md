@@ -43,6 +43,8 @@ Comparison of Affinity for Technology Interaction scores (German ATI scale) acro
 
 
 ## Related Claims
+
 - [LLM learners are younger, more likely male, and score higher on technology affinity than non-learners](llm-learners-younger-male-higher-tech-affinity.md) — related
 - [AI-supported argumentative writing yields three distinct uptake clusters (text reproducers, text integrators, text reconstructors) based on recurring n-gram overlap](three-uptake-clusters-human-ai-cowriting.md) — related
 - [Current ChatGPT users were overrepresented among text reconstructors and underrepresented among text integrators (Cramér's V = 0.26)](current-chatgpt-use-associated-with-reconstructors.md) — related
+- [Affinity propagation clustering of gameplay attempts yielded an interpretable six-cluster solution (part.6)](affinity-propagation-six-cluster-solution.md)

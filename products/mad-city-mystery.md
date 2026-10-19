@@ -25,7 +25,9 @@ Mad City Mystery is a place-based augmented-reality environmental-science curric
 - [A place-based augmented reality game (Mad City Mystery) engaged students in scientific argumentation across three case studies of roughly 28 students total](../claims/mad-city-mystery-ar-argumentation-cases.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Mentira](mentira.md)
+- [Time Explorers](time-explorers.md)
 
 ## Key Sources
 - Squire, K.D., Jan, M. (2007). Mad City Mystery: Developing Scientific Argumentation Skills with a Place-based Augmented Reality Game on Handheld Computers. J Sci Educ Technol 16, 5–29. https://doi.org/10.1007/s10956-006-9037-z

@@ -81,4 +81,7 @@ Same Table 4 country analysis of citing articles. The authors read the US promin
 
 
 ## Related Claims
+
 - [Research on generative AI in secondary STEM education is concentrated in the Global North, with 73% of affiliations and the United States accounting for 30% of publications](global-north-concentration-generative-ai-stem-research.md) — related
+- [Instructional Science has accumulated 39,169 citations with an h-index of 86 and an average of 26.5 citations per paper as of July 2024](instructional-science-39169-citations-h-index-86.md)
+- [The journal's impact factor rose from 0.378 in 1997 to 2.7 in 2022, with consistent Q1 or upper-quartile ranking in Education & Educational Research](instructional-science-impact-factor-rise-q1.md)

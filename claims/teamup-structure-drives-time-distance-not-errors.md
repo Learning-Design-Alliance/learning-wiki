@@ -43,4 +43,5 @@ Intercorrelation analysis at team level (N=106) of team structure factors agains
 
 
 ## Related Claims
--
+
+- [Younger male gamers report more anti-social motivations; pro-social gaming is more prevalent in older gamers](younger-male-gamers-antisocial-motivations.md)

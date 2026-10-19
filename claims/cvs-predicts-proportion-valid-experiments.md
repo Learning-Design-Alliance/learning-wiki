@@ -43,6 +43,7 @@ Logistic regression at the trial level, where each trial comparing conditions A 
 
 
 ## Related Claims
+
 - [Cognitive factors explain about 49% of variance in simulation-based inquiry performance among young adults](cognitive-factors-explain-half-inquiry-variance.md) — related
 - [Cognitive inquiry skills are positively intercorrelated, but the functional thinking–CVS correlation diminishes when controlling for content knowledge](cognitive-skill-intercorrelations-conditional.md) — related
 - [Physical and virtual instructional materials are equally effective for teaching fourth- and fifth-graders to design unconfounded experiments when instructional method is controlled](physical-virtual-materials-equal-cvs-learning.md) — related
@@ -51,3 +52,4 @@ Logistic regression at the trial level, where each trial comparing conditions A 
 - [Latent profile analysis identifies three learner profiles differing in cognitive factors, self-concept, and extraneous load, with significant performance differences](three-inquiry-learner-profiles-lpa.md) — related
 - [Classroom expository CVS instruction dramatically increased fourth graders' CVS performance in individual hands-on interviews](classroom-cvs-instruction-interview-gains.md) — related
 - [Dispositional factors add little to predicting inquiry performance except physics self-concept, and extraneous load has a significant negative effect](dispositions-load-little-inquiry-prediction.md) — related
+- [In multiple regression, the percentage of exploratory experiments was the strongest predictor of performance success, negatively related to it](exploratory-experiments-negative-predictor-of-success.md)

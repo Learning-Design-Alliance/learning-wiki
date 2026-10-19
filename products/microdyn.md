@@ -13,7 +13,7 @@ generated:
 # MicroDYN
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study (1 associational), `q3` · 1 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 MicroDYN is Joachim Funke's scalable assessment system using linear structural-equation items to measure learners' exploration, mental-model externalization, and control of dynamic systems.
@@ -24,8 +24,15 @@ MicroDYN is Joachim Funke's scalable assessment system using linear structural-e
 
 ### Claims
 
+- [Stealth assessment estimates of problem solving in Use Your Brainz correlate significantly with external measures (Raven's and MicroDYN) in middle-school students](../claims/stealth-assessment-problem-solving-correlates-external-measures.md) [+W]
+- [Raven's and MicroDYN jointly explain 22% of variance in the stealth assessment estimate, with MicroDYN adding 5.7% unique variance beyond Raven's](../claims/regression-ravens-microdyn-unique-variance.md) [+W]
+- [Stealth assessment facets show good internal consistency (Cronbach's alpha = 0.76) while MicroDYN reliabilities were low in this middle-school sample](../claims/internal-consistency-stealth-versus-microdyn.md) [~W]
+- [MicroDYN is a stronger predictor of the in-game problem solving estimates than Raven's, with the rule-application facet more relevant than rule acquisition](../claims/microdyn-stronger-predictor-than-ravens.md) [+W]
+
 ## Related Products and Programmes
--
+
+- [Tailorshop microworld](tailorshop-microworld.md)
+- [Multi-strategy test (MST)](multi-strategy-test-mst.md)
 
 ## Key Sources
 - Joachim Funke. (2009). Complex problem solving: a case for complex cognition? Cogn Process. https://doi.org/10.1007/s10339-009-0345-0

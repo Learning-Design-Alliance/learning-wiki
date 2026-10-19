@@ -40,7 +40,10 @@ The paper develops a provisional framework in which an organism equipped with ma
 - Imaged Sequences As Surrogate Learning [+M]
 
 ## Related Theories
-- 
+
+- [Behaviorism](behaviorism.md)
+- [Programmed instruction framework: six-element operant-conditioning lesson format](programmed-instruction-six-element-framework.md)
+- [Three-hypothesis framework for the neural relationship between visual imagery and visual perception](three-hypotheses-imagery-perception-substrates.md)
 
 ## Examples
 -

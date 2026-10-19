@@ -43,6 +43,7 @@ Descriptive trend analysis shown in Figure 6 for high school graduating classes 
 
 
 ## Related Claims
+
 - CPS's four-year college graduation rate has remained relatively steady, hovering near 50 percent since 2003 — possibly the same claim (merge candidate)
 - The percent of CPS ninth-graders projected to earn a bachelor's degree within six years of high school graduation nearly doubled from 11 percent in 2006 to 20 percent in 2018 — related
 - [The 2017 CPS Bachelor's Degree Attainment Index is estimated at 19 percent, up from 11 percent in 2006, with the Direct Bachelor's DAI at 17 percent](cps-bachelors-dai-2017-19-percent.md) — related
@@ -74,3 +75,4 @@ Descriptive trend analysis shown in Figure 6 for high school graduating classes 
 - [Students who commit to a program of study within their first year are more likely to complete a credential or transfer within five years](early-program-entry-linked-to-completion.md) — related
 - [Community college credential completion rates are low and have slightly declined, with markedly lower rates for black and Hispanic students](low-community-college-completion-rates-declining.md) — related
 - About three-quarters of U.S. high school graduates go to college within two years, yet nearly half of college students take at least one remedial course, and students who required remediation graduated at lower rates — related
+- [Among the CPS class of 2009, 76 percent enrolled in college within six years, and delayed entry was concentrated among two-year starters rather than four-year starters](delayed-enrollment-concentrated-two-year-starters-2009.md)

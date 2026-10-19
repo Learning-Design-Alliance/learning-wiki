@@ -43,4 +43,6 @@ Document review finding of the seven-framework synthesis: "Only three of the sev
 
 
 ## Related Claims
--
+
+- [Communication is the most extensively operationalized domain, with over 80 individual outcomes across all seven frameworks](communication-most-operationalized-domain.md)
+- [Critical thinking, problem solving, and decision making appear in all seven reviewed frameworks](critical-thinking-in-all-seven-frameworks.md)

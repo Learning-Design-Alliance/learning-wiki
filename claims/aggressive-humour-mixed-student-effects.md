@@ -62,4 +62,8 @@ Narrative synthesis of interview studies (theme four); the review reports Pace's
 
 
 ## Related Claims
--
+
+- [Affiliative humour is associated with positive classroom climate, enjoyment and willingness to participate among adolescent students](affiliative-humour-positive-classroom-outcomes.md)
+- [Observed teacher humour differs from self-reports: sarcasm and mocking accounted for nearly two-thirds of observed teacher humour although teachers and students reported aggressive humour as least common](observed-sarcasm-mocking-underreported.md)
+- [Teachers' humour (unspecified) shows mixed observed effects on adolescent students' classroom experience, with reported benefits to environment and learning alongside reduced participation and loss of control](teacher-humour-unspecified-mixed-classroom-effects.md)
+- [Course-related humour is positively correlated and course-unrelated humour negatively correlated with students' perceptions of instructional interestingness and intrinsic motivation](course-related-vs-unrelated-humour-interest-motivation.md)

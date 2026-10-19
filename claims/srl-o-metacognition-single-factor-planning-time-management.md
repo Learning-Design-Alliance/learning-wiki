@@ -62,4 +62,5 @@ In the factor analyses, planning and time management formed one combined factor 
 
 
 ## Related Claims
--
+
+- [SRL-O subscales show convergent validity with corresponding MSLQ scales](srl-o-convergent-validity-mslq.md)

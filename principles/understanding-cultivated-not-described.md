@@ -159,11 +159,12 @@ Understanding shown in an oral explanation of one's own work, judgement of a new
 - [Peer Discussion](peer-discussion.md): discussion after an individual commitment.
 
 ## Examples
--
+
 - [Use discipline-specific clues as design problems to foster analyze and evaluate steps](../strategies/discipline-clues-as-design-problems.md)
 - [Guided Discovery Learning](inquiry-based-learning.md): a pattern in which prompts and questions lead learners' investigation toward a concept.
 - [Develop Understanding](../patterns/develop-understanding.md): a pattern that elicits learners' ideas, explains, and compares cases.
 - [Pair students to alternate presenting work and critically commenting on a partner's work to support each CRITO stage](../strategies/paired-alternating-presentation-and-critique.md)
+- [CREATE: a six-strategy meta-creative pedagogy for fostering creative thinking](../designs/create-meta-creative-pedagogy.md)
 
 ## Key Sources
 - Land, Susan M.; Hannafin, Michael J. (1996). Student-Centered Learning Environments: Foundations, Assumptions, and Implications. https://eric.ed.gov/?id=ED397810

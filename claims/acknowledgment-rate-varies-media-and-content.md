@@ -43,4 +43,6 @@ Exploratory study measuring acknowledgment rate, defined as "how often partners 
 
 
 ## Related Claims
--
+
+- [In multimodal collaboration, the whiteboard primarily represents the state of problem solving while chat grounds whiteboard content, contrary to the expectation that schemata on the whiteboard would disambiguate chat utterances](whiteboard-represents-problem-state-chat-grounds.md)
+- [More persistent information is exchanged through the more persistent medium: the whiteboard acts as a shared memory rather than a grounding tool](persistence-more-persistent-info-more-persistent-medium.md)

@@ -41,6 +41,8 @@ This model estimates the binary problem-to-KC assignment matrix within a neural 
 
 - [OptimNN: neural-network parameter generation (hypernetwork) for optimizing BKT](optimnn-hypernetwork-parameter-generation.md)
 - [dAFM: a neural-network fusion of psychometric and connectionist modeling enabling backpropagation-based Q-matrix refinement](dafm-qmatrix-refinement-framework.md)
+- [BKTransformer: transformer-based generation of temporally-evolving BKT parameters](bktransformer-temporal-bkt-parameters.md)
+- [BKT+IRT: Bayesian Knowledge Tracing augmented with multidimensional generalizable student abilities and problem effects](bkt-irt-multidimensional-generalizable-model.md)
 
 ## Examples
 -

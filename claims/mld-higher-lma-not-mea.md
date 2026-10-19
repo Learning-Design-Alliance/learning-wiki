@@ -58,7 +58,9 @@ The abstract and results report that MLD children scored higher in learning math
 
 
 ## Related Claims
+
 - [High achievers show the lowest math anxiety and MLD students the highest across achievement groups](high-achievers-lowest-anxiety-mld-highest.md) — a broader claim this one bears on
 - [Math anxiety differs significantly across achievement groups, with MLD students not differing from low achievers](math-anxiety-group-differences-mld-low-achievers.md) — reports the opposite
 - [Children with MLD score lower in self-image than typical and high achievers when IQ is partialled out](mld-lower-self-image-than-ta-ha.md) — related
 - [Self-image and learning mathematics anxiety, but not other metacognition dimensions or evaluation anxiety, predict mathematics achievement after controlling for IQ](self-image-lma-predict-math-achievement.md) — related
+- [The majority (77%) of children with high mathematics anxiety have average or above-average mathematics performance](high-math-anxiety-mostly-typical-performance.md)

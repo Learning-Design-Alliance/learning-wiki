@@ -43,4 +43,5 @@ Longitudinal correlational analysis of 36 mother-child dyads observed in dyadic 
 
 
 ## Related Claims
--
+
+- [Maternal contingency during infant play is consistent across toys at 12 months but shows no consistency over time](contingency-consistent-across-toys-not-over-time.md)

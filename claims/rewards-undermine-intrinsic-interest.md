@@ -43,4 +43,6 @@ The digest describes one representative study (Birch et al., 1984) in which youn
 
 
 ## Related Claims
--
+
+- [Most praise functions as a verbal reward, creating dependence on others' approval rather than self-generated criteria](praise-functions-as-verbal-reward.md)
+- [Autonomy, meaningful purpose, and interest improve intrinsic motivation and deeper processing](interest-autonomy-purpose-boost-motivation.md)

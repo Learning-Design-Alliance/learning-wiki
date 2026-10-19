@@ -26,7 +26,10 @@ The Multi-strategy test (MST) is an open-response, scenario-based assessment ins
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [SKT-SRL: a scenario-based conditional strategy knowledge test](skt-srl-a-scenario-based-conditional-strategy-knowledge-test.md)
+- [MicroDYN](microdyn.md)
+- [Generative AI Literacy Assessment Test (GLAT)](generative-ai-literacy-assessment-test-glat.md)
 
 ## Key Sources
 - Schuster, C., Stebner, F., Leutner, D., & Wirth, J. (2020). Transfer of metacognitive skills in self-regulated learning: an experimental training study. Metacognition and Learning. https://doi.org/10.1007/s11409-020-09237-5

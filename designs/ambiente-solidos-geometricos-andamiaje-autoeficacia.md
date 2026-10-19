@@ -41,7 +41,9 @@ Ambiente de aprendizaje computacional para geometría en educación básica prim
 ### Claims
 
 ## Related Designs
-- 
+
+- [Modelo de evaluación formativa para cursos virtuales de matemáticas integrado con analítica de aprendizaje](modelo-evaluacion-formativa-matematicas-virtuales.md)
+- [Proceso de diseño instruccional ADDIE de cinco fases para cursos virtuales con evaluación formativa](addie-cinco-fases-evaluacion-formativa-virtual.md)
 
 ## Examples
 -

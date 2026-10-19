@@ -42,6 +42,7 @@ The article recommends that efforts to support AI adoption "must help faculty co
 ## Related Strategies
 
 - [Design curricula giving students opportunities to critically engage with AI and AI-generated content through validation, interpretation, and revision tasks](critical-engagement-tasks-with-ai-generated-content.md)
+- [Staff development should make teaching principles explicit through articulation, reflection and evaluation, supported by institutional incentives and training](staff-development-articulate-teaching-principles.md)
 
 ## Examples
 -

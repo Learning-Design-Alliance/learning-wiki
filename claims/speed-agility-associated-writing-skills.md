@@ -43,4 +43,5 @@ Cross-sectional regression (Model 1) in 106 children with overweight/obesity. Sp
 
 
 ## Related Claims
--
+
+- [Field-based cardiorespiratory fitness is positively associated with writing and written expression skills in children with overweight/obesity](crf-associated-writing-skills-overweight-obese-children.md)

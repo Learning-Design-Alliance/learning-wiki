@@ -43,4 +43,8 @@ Observational analysis of closeness centrality correlations with performance acr
 
 
 ## Related Claims
--
+
+- [Multigraph indegree centrality is consistently and positively correlated with student performance across 12 PBL courses, with stronger correlations than other configurations in eight courses](multigraph-indegree-consistent-performance-correlation.md)
+- [Multigraph outdegree centrality is the most robust participation indicator, with significant positive correlations in all courses, while weighted outdegree was negatively correlated in two courses](multigraph-outdegree-most-robust-participation.md)
+- [Betweenness centrality shows the least consistent correlation with performance, being largely insignificant or negative across configurations except in one course](betweenness-centrality-least-consistent.md)
+- [Courses with a low number of forum interactions show inconsistent participation-dimension results, while eigenvector centrality remains robust there.](low-interaction-courses-inconsistent-participation-measures.md)

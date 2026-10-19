@@ -62,4 +62,6 @@ The review reports, citing studies such as Declerck, Koch, and Philipp (2012), t
 
 
 ## Related Claims
--
+
+- [Phonological processing is affected by and affects language control in switching, though effects are not uniform across studies](phonology-role-in-language-control.md)
+- [Switch costs and mixing costs are common empirical observations across language switching paradigms, except voluntary switching under certain circumstances](switch-and-mixing-costs-common-across-paradigms.md)

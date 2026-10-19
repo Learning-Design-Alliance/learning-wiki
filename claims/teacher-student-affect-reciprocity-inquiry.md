@@ -43,4 +43,6 @@ Questionnaire data at three measurement points from four teachers and 56 student
 
 
 ## Related Claims
--
+
+- [Teachers spent most CSCL class time on task management, content knowledge, technical support and observing, with minimal socio-emotional support](teacher-guidance-focus-distribution-cscl-science.md)
+- [Teachers' self-perceived guidance and affect varied across the three inquiry phases and between teachers](teacher-guidance-perceptions-vary-by-phase.md)

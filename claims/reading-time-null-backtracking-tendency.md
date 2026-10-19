@@ -43,4 +43,7 @@ Experiment 1 behavioral measures from the navigation file: reading time (459 s v
 
 
 ## Related Claims
--
+
+- [Writers revising in Page mode backtrack more than Scroll writers, with no difference in total revising time](page-revising-more-backtracking.md)
+- [Readers locate sentences more accurately after reading a text in page-by-page presentation than in scrolling presentation](page-presentation-better-sentence-locating.md)
+- [Page writers corrected significantly more coherence errors than Scroll writers, while surface and cohesion corrections did not differ](page-revising-coherence-corrections.md)

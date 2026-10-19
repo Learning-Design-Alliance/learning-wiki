@@ -62,4 +62,7 @@ Regression comparison in Study 1 with both stereotype types as simultaneous pred
 
 
 ## Related Claims
+
 - [Fixed mindsets predict stronger stereotyping and trait inferences, with experimental evidence of a causal role](fixed-mindset-predicts-stereotyping.md) — related
+- [Children in grades 3–7 endorse gender-interest stereotypes favoring boys in computer science, with boys endorsing more strongly than girls](children-endorse-gender-interest-stereotypes-cs-study1.md)
+- [Experimentally labeling a novel activity with a gender-interest stereotype causes 8-year-old girls to report lower interest and choose it less often](stereotype-label-causes-lower-girls-interest-novel-activity.md)

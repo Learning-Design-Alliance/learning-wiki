@@ -44,4 +44,5 @@ Repeated measures ANCOVA on coded messages from vocational education teams, with
 
 
 ## Related Claims
--
+
+- [High-coercion (Stringent) NTool increases explicit negotiation activities in secondary vocational collaborative problem-solving, though the verification effect was stronger in morning sessions](stringent-ntool-increases-negotiation.md)

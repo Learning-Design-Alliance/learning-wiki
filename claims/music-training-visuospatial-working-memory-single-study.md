@@ -41,4 +41,5 @@ The review reports that in the Frischen et al. (2021) RCT, 25 children received 
 
 
 ## Related Claims
--
+
+- [In adolescents, prior music training was associated with faster test completion times but no executive function performance differences](music-training-adolescents-faster-completion-times.md)

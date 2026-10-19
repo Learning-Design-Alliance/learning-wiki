@@ -43,4 +43,6 @@ Conversation-analytic coding of gallery walk breakout-room video in a 5th-grade 
 
 
 ## Related Claims
--
+
+- [Students disagreed more directly with invisible out-of-group peers than with present groupmates](direct-disagreement-invisible-versus-present-peers.md)
+- [Collaboration was sustained after both direct and soft disagreements, with no rude behaviors observed](collaboration-sustained-after-disagreements.md)

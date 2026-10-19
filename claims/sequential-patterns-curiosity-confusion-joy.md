@@ -84,9 +84,11 @@ With support reduced to 0.3, 31,090 subsequences were generated, of which 439 in
 - [Achievement Emotions](../learner-variables/achievement-emotions.md) — outcome: instruction changes it
 
 ## Related Claims
+
 - [Low-achieving students' emotions in Knowledge Building threads tended to transition to the same or similar emotions](emotion-transition-similar-emotions-lsa.md) — related
 - [Academically low-achieving students in Knowledge Building demonstrated high joy and low frustration and boredom, with emotions transitioning to similar states](low-achievers-emotions-knowledge-building.md) — related
 - [Low-achieving students in Knowledge Building predominantly expressed joy, with low percentages of frustration and boredom](low-achievers-joy-predominance-knowledge-building.md) — related
 - [Affective experience during situated collaborative problem solving is organized around a stable epistemic core linking curiosity, optimism, and confusion with short-range persistence](stable-epistemic-core-curiosity-optimism-confusion-cps.md) — related
 - [Faster CPS groups show stronger transitions among curiosity and optimism, while slower groups show stronger transitions among confusion, conflict, and frustration](faster-slower-groups-affective-transition-differences.md) — related
 - [Curiosity enhances learning, including for incidental material encountered during high-curiosity states](curiosity-enhances-learning.md) — related
+- [Confusion during learning is associated with facial action units 4, 7, and 12, with tightened lids tending to trigger a lowered brow](confusion-facial-action-units-4-7-12.md)

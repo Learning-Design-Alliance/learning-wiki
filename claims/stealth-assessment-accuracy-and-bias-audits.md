@@ -62,6 +62,8 @@ The review's abstract-level summary of stealth assessment performance across inc
 
 
 ## Related Claims
+
 - [LLMs show a systematic optimism bias in knowledge tracing, predicting far more accurately for students who answer correctly than for those who answer incorrectly](llm-optimism-bias-knowledge-tracing.md) — related
 - [AI-detection tools produce inequitable outcomes, disadvantaging non-native English speakers through false positives](ai-detection-tools-inequitable-false-positives.md) — related
 - [Prediction algorithms forecast student achievement from small windows of data, more accurately when data are enriched with instructional design and learning-process detail](enriched-data-improve-achievement-prediction.md) — a broader claim this one bears on
+- [Adding in-game strategy features to pre-test features substantially improves LSTM-based stealth assessment accuracy](in-game-strategy-features-improve-prediction-over-pretest-only.md)

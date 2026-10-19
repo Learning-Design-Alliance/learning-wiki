@@ -43,4 +43,5 @@ Spearman correlations between group-level gini coefficient and group-mean satisf
 
 
 ## Related Claims
--
+
+- [Neither a group awareness tool alone nor combined with adaptive prompts significantly changed the equality of participation in university online collaboration](gat-prompt-no-significant-equal-participation-effect.md)

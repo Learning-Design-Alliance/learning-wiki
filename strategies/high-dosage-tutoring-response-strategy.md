@@ -17,7 +17,7 @@ sources:
 # Deploy high dosage tutoring as a strategy to address post-pandemic academic risk
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The brief presents high dosage tutoring as "one strategy to address the needs" of the increased share of at-risk students after the pandemic. It recommends reviewing the research on the approach's benefits and implementation factors before adopting it, so that schools can respond at a scale matching the magnitude of the pandemic's impact.
@@ -35,6 +35,10 @@ The brief presents high dosage tutoring as "one strategy to address the needs" o
 
 ### Target Learning Goals
 - Accelerated academic growth
+
+## Claims
+
+- [High dosage tutoring can produce accelerated academic growth for academically at-risk students if implemented effectively and at proper scale](../claims/high-dosage-tutoring-accelerated-growth-at-risk.md) [+W]
 
 ## Related Strategies
 - 

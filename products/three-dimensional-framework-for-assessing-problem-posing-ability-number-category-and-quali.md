@@ -13,7 +13,7 @@ generated:
 # Three-dimensional framework for assessing problem posing ability: number, category, and quality
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A Dai et al. (2026) framework and coded rubric that assesses primary students’ science problem-posing questions by number, category breadth, and cognitive quality.
@@ -24,8 +24,11 @@ A Dai et al. (2026) framework and coded rubric that assesses primary students’
 
 ### Claims
 
+- [Pilot testing found the initial problem posing test response time too short, with most pilot students unable to complete all three items](../claims/pilot-response-time-insufficient-problem-posing-test.md) [+W]
+
 ## Related Products and Programmes
--
+
+- [Question Pot](question-pot.md)
 
 ## Key Sources
 - Dai, Z., Huang, F., Xiong, J., Yang, Y., Zhang, Q., & Peng, X. (2026). Inquiry-based learning in STEM education: the impact of generative AI-based Chatbots on primary school students’ problem posing ability in science. International Journal of STEM Education. https://doi.org/10.1186/s40594-026-00631-0

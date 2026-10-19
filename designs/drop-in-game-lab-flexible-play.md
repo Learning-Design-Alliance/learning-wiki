@@ -40,7 +40,8 @@ The study's delivery pattern was a supervised lab open on a drop-in basis (9am-5
 - [Game Intervention Gains All Three Graduate Skills](../claims/game-intervention-gains-all-three-graduate-skills.md) [+M]
 
 ## Related Designs
-- 
+
+- [Suite of eight selected commercial video games played in supervised drop-in game labs](commercial-game-suite-graduate-attributes-intervention.md)
 
 ## Examples
 -

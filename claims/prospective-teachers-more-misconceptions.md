@@ -62,8 +62,11 @@ Within-group change in misconception counts (max 7). Current faculty misconcepti
 
 
 ## Related Claims
+
 - [After training, better professional vision and reasoning are correlated with more learning-centered conception changes and fewer misconceptions](posttest-correlations-vision-conceptions.md) — related
 - [Reasoning scores of both prospective and current faculty teachers increased significantly during the short pedagogical training, but noticing did not improve significantly in either group](training-improves-reasoning-not-noticing.md) — related
 - [Before pedagogical training, prospective university teachers have lower professional vision scores than current faculty teachers](prospective-teachers-lower-professional-vision-pretest.md) — related
 - [After training, prospective teachers caught up with current faculty in reasoning but still had lower noticing scores](posttest-group-differences-reasoning-noticing.md) — related
 - [Prospective teachers notice fewer pedagogically significant incidents than current faculty teachers before training](prospective-teachers-notice-fewer-incidents-pretest.md) — related
+- [Misconceptions decreased over time in all three instructional methods, with no difference between methods](misconceptions-decreased-similarly-all-methods.md)
+- [Novice teachers hold misconceptions about differentiation, such as equating DI with personalized instruction](novice-teacher-di-misconceptions.md)

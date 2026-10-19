@@ -43,4 +43,7 @@ Randomized parallel-group experiment (25 per group) on a five-element finger-tap
 
 
 ## Related Claims
--
+
+- [Evening-trained adolescents show greater gains in finger-tapping accuracy (reduced error rate) than afternoon-trained adolescents at both retention intervals](evening-encoding-greater-finger-tapping-accuracy-gains.md)
+- [Learning timing produces Group X Time interactions in both memory systems: declarative consolidation time courses differ between afternoon and evening groups, and finger-tapping speed and accuracy show highly significant Group X Time interactions](group-time-interactions-both-memory-systems.md)
+- [Polysomnographic sleep parameters did not differ between afternoon- and evening-trained groups and did not correlate with memory consolidation measures](sleep-parameters-no-group-differences-no-correlations.md)

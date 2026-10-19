@@ -41,4 +41,5 @@ Review narrative of Calvo and Bialystok (2014) within the attention results: the
 
 
 ## Related Claims
--
+
+- [The bilingual effect tends to emerge in more complex experimental tasks with higher control demands](task-complexity-moderates-bilingual-effect.md)

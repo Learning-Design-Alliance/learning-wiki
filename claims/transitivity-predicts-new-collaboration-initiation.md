@@ -43,4 +43,7 @@ Meta-analysis across k = 12 workshops of RSiena transitivity (transTrip) effects
 
 
 ## Related Claims
--
+
+- [Researchers disagree substantially in their recall of previous collaborations with workshop peers](low-recall-agreement-of-previous-collaborations.md)
+- [Reciprocity predicts the initiation of new potential collaborations at scientific events](reciprocity-predicts-new-collaboration-initiation.md)
+- [Longer face-to-face contact during a scientific event increases the likelihood that a researcher selects the other as a new potential collaboration partner](contact-duration-predicts-new-collaboration-partner-selection.md)

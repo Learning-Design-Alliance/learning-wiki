@@ -29,6 +29,7 @@ SciEntsBank is a benchmark dataset of human-annotated student science short answ
 - [Rubric-aligned concept-annotated grading benchmarks (REC-CBM)](rubric-aligned-concept-annotated-grading-benchmarks-rec-cbm.md)
 - [SelfCode2.0 dataset of student and expert line-by-line code explanations](selfcode20-dataset-of-student-and-expert-line-by-line-code-explanations.md)
 - [NSMQ Riddles](nsmq-riddles.md)
+- [Gold and ultra-gold benchmark subsets](gold-and-ultra-gold-benchmark-subsets.md)
 
 ## Key Sources
 - Longwei Cong, Sonja Hahn, Sebastian Gombert, Leon Camus, Hendrik Drachsler, and Ulf Kroehne. (2026). Confidence Estimation in Automatic Short Answer Grading with LLMs. https://arxiv.org/abs/2605.00200

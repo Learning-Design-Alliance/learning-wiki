@@ -43,5 +43,7 @@ Interpretation of the second-order synthesis: the author states the minimal hope
 
 
 ## Related Claims
+
 - [A second-order synthesis of 12 CALL meta-analyses yields a mean effect size of d=.64, a medium effect of CALL on learning](call-meta-analyses-mean-effect-d-064.md) — a narrower finding that bears on this claim
 - [A meta-analysis of corpus use in language learning was published in Language Learning in 2017 by Boulton and Cobb.](boulton-cobb-2017-corpus-use-meta-analysis.md) — related
+- [Hattie's synthesis identifies lesson study, formative evaluation of teaching, discussion of learning, and feedback as instructional factors with high effect sizes on student learning](hattie-high-effect-size-instructional-factors.md)

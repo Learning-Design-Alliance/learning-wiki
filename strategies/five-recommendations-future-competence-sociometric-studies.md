@@ -17,7 +17,7 @@ sources:
 # Five-point research agenda for future studies of oral communicative competence and sociometric status
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review closes with five recommendations for future research: combine multiple methods (mixed methods) given the construct's complexity; conduct studies in non-western countries to examine cross-cultural differences; include larger samples, since most prior work was small-scale and exploratory; adopt longitudinal and experimental designs to establish the direction of the relation; and take the interactional context, gender, and age into account as factors that might influence the relation.
@@ -35,6 +35,10 @@ The review closes with five recommendations for future research: combine multipl
 
 ### Target Learning Goals
 - understanding how oral communicative competence relates to peer acceptance and rejection
+
+## Claims
+
+- [Oral communicative competence relates to peer acceptance only for boys and not to peer rejection, indicating gender as a moderator](../claims/gender-moderates-competence-acceptance-relation.md) [+W]
 
 ## Related Strategies
 - 

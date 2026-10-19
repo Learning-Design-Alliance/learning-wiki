@@ -39,7 +39,12 @@ Participants expected institutions to organize regular workshops and training se
 - systematic curriculum-based GenAI knowledge
 
 ## Related Strategies
-- 
+
+- [Provide teacher guidance on GenAI use, prompt engineering, ethics, and targeted classroom activities for translation](teacher-guidance-genai-translation-classroom-activities.md)
+- [Develop student AI literacy and institutional GenAI policies, guidelines and safeguards for responsible integration](genai-literacy-and-institutional-policy-strategy.md)
+- [Provide accessible guidelines, training materials, or workshops to help students understand responsible GenAI use](accessible-genai-guidelines-training-workshops.md)
+- [Build ethical AI integration on four coordinated levels: faculty professional development, ethics curricula, clear institutional guidelines, and interdisciplinary updating](four-level-ethical-ai-integration-strategy.md)
+- [Universities combine responsible AI use guidelines, accessible technical support, AI literacy training, and assessment-embedded critical evaluation activities to address AI learning anxiety](institutional-support-package-for-ai-learning-anxiety.md)
 
 ## Examples
 -

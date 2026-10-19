@@ -62,6 +62,7 @@ Charted educational levels of the 156 included studies. The review reports highe
 
 
 ## Related Claims
+
 - Research on GenAI and children's creative thinking is geographically concentrated in Southeast Asia, East Asia, and North America — related
 - Research on AI in VET is geographically clustered, with 17 of 26 included studies originating from Asia, and no study conducted in workplace settings — related
 - STEAM AI literacy research is geographically concentrated in North America, Europe and East Asia, led by the United States (23.5%) — related
@@ -71,3 +72,5 @@ Charted educational levels of the 156 included studies. The review reports highe
 - General academic motivation, engagement, and self-efficacy are the most studied motivational factors in AI-supported learning research — related
 - [Most AI-motivation studies lasted less than 10 weeks, raising novelty-effect concerns and leaving long-term effects unexamined](ai-motivation-studies-short-duration-novelty-effect.md) — related
 - [Research on generative AI in secondary STEM education is concentrated in the Global North, with 73% of affiliations and the United States accounting for 30% of publications](global-north-concentration-generative-ai-stem-research.md) — related
+- [AI-STEM research concentrated in higher education, technology and science content, lecture-based instruction, and face-to-face contexts](ai-stem-distribution-higher-ed-lecture-face-to-face.md)
+- [China has overtaken the US as the leading producer of AIEd higher education publications](china-overtakes-us-ai-ed-he-publications.md)

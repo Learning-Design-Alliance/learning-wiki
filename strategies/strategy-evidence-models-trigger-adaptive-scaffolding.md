@@ -17,7 +17,7 @@ sources:
 # Use strategy-based evidence models to trigger adaptive scaffolding toward more productive problem-solving strategies
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends that intelligent game-based learning environments use induced evidence models to infer students' problem-solving strategies from trace data and intervene when a strategy associated with poor outcomes is detected. When the environment detects a poor-outcome strategy, "it can intervene to guide students towards more productive strategies," and evidence models can work with knowledge modeling to support knowledge scaffolding, such as timely explanations of binary digit weights.
@@ -39,8 +39,14 @@ The article recommends that intelligent game-based learning environments use ind
 ### Affordances
 - [Strategy Based Temporal Analytics Stealth Assessment](../research-methods/strategy-based-temporal-analytics-framework-for-stealth-assessment-using-lstm-evidence-mod.md)
 
+## Claims
+
+- [An LSTM-based strategy temporal analytics framework outperforms random forest, SVM, and majority-class baselines for stealth assessment predictive accuracy](../claims/lstm-strategy-temporal-analytics-outperforms-baselines.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Use dynamic user models to recognize non-optimal learning behaviors and redirect students toward more effective behaviors](dynamic-user-models-redirect-non-optimal-behaviors.md)
+- [Adaptive Learning](adaptive-learning.md)
 
 ## Examples
 -

@@ -56,7 +56,8 @@ The chapter's organizing framework: learners study materials, a retrieval practi
 - 
 
 ## Examples
--
+
+- [EISEL](../products/eisel.md)
 
 ## Key Sources
 - Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9

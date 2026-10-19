@@ -43,4 +43,9 @@ Tukey HSD pairwise comparisons following the MANOVA of 104 children. Nonresponsi
 
 
 ## Related Claims
--
+
+- [Nonresponsive, sometimes responsive, and always responsive students differ reliably on problem behavior, vocabulary, naming speed, sentence imitation, syntactic awareness, and segmentation](responsiveness-groups-differ-child-characteristics.md)
+- [Always responsive students showed large effect-size advantages over nonresponsive students, with the largest effect sizes ranging from 0.58 to 1.72](nonresponders-large-effect-size-deficits.md)
+- [Naming speed, vocabulary, sentence imitation, problem behavior, and amount of intervention correctly classify most nonresponsive and always responsive students](discriminant-predictors-of-nonresponsiveness.md)
+- [Nonresponsive students were in classrooms with lower-quality Ladders implementation and lower fall first-grade PALS fidelity](fidelity-associated-with-responsiveness.md)
+- [Nonresponsiveness to kindergarten intervention is persistent and predicts school-identified reading problems through third grade](nonresponsiveness-persistent-predicts-disability.md)

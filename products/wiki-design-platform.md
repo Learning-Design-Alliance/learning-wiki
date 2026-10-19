@@ -13,7 +13,7 @@ generated:
 # Wiki Design Platform
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (1 causal, 1 qualitative), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 A collaborative-learning wiki platform developed by Gerry Stahl and colleagues that provides awareness, navigation, communication, and analysis components for online intersubjective work.
@@ -24,8 +24,14 @@ A collaborative-learning wiki platform developed by Gerry Stahl and colleagues t
 
 ### Claims
 
+- [A wiki with a thinking-together approach can provide a dialogic space in which students co-construct shared understanding](../claims/wiki-dialogic-space-co-construction.md) [+W]
+- [Wiki negotiation unfolds in four episodes with distinct intersubjective orientations, beginning with an exploratory orientation during content generation](../claims/four-episodes-exploratory-content-generation.md) [+W]
+
 ## Related Products and Programmes
--
+
+- [Mr. Vetro simulation framework](mr-vetro-simulation-framework.md)
+- [Knowledge Catalyser](knowledge-catalyser.md)
+- [Metafora system](metafora-system.md)
 
 ## Key Sources
 - Gerry Stahl & Friedrich Hesse. (2009). Paradigms of shared knowledge. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-009-9075-7

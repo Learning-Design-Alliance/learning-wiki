@@ -43,5 +43,7 @@ NLP analysis of the essays produced in the three groups across sessions, reporte
 
 
 ## Related Claims
+
 - [SFT and GRPO alignment gains reflect learned proficiency-conditioned generation rather than memorization or output collapse](no-memorization-or-generation-collapse-in-trained-simulators.md) — related
 - [In this experiment, drafts—human-written or AI-generated—anchored the final essay, with AI-generated drafts revised somewhat more but underlying phrases largely retained across conditions.](drafts-anchor-final-essay-text.md) — related
+- [Replacing context-specific terms with syntactic descriptors and entity categories allows NLP rules for argumentation-component segmentation that are less context dependent](nlp-argumentation-segmentation-entity-categories.md)

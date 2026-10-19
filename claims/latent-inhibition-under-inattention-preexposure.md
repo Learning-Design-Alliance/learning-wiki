@@ -43,6 +43,8 @@ Experiment comparing the two CS-preexposed groups (PE/M vs PE/NM) and the two no
 
 
 ## Related Claims
+
 - [The inattention manipulation was behaviorally verified: only one of 10 nonmonitored-ear subjects reported hearing the CS during preexposure versus eight of 10 monitored-ear subjects](inattention-manipulation-verified-by-report.md) — related
 - [Nonreinforced preexposure of a to-be-conditioned stimulus produces a strong latent inhibition effect in adult humans](latent-inhibition-adult-humans-instrumental-conditioning.md) — related
 - [Latent inhibition occurs irrespective of whether preexposure was to the monitored or the nonmonitored ear](latent-inhibition-irrespective-monitored-ear.md) — possibly the same claim (merge candidate)
+- [Selective attention reduces encoding of unattended information and induces learned inattention that makes future learning more difficult](selectivity-costs-learned-inattention.md)

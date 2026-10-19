@@ -43,4 +43,5 @@ Independent-samples t-tests on SPSIC scores in the 523-child sample: overall gir
 
 
 ## Related Claims
--
+
+- [Sex moderates bullying-related cognitive and brain differences, with effects in boys and girls appearing in different regions and tasks](bullying-sex-differences-cognition-brain-regions.md)

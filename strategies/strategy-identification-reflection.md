@@ -67,6 +67,7 @@ Naming strategies converts tacit, in-the-moment decisions into explicit, transfe
 - [Learning-by-Teaching](../strategies/learning-by-teaching.md) — explaining strategies to peers strengthens the explainer's own conditional knowledge
 - [Give students explicit prompts to think about group processes during PBL](explicit-prompts-group-processes-pbl.md)
 - [Use staged problem-solving reflection assignments to build metacognition around LLM use and surface student help-seeking perspectives](staged-problem-solving-reflections-llm-use.md)
+- [Classroom strategies to develop metacognition: reflective questions, decision diagrams, thinking aloud, reflective dialogue, and metacognitive argumentation](metacognition-classroom-strategies-set.md)
 
 ## Examples
 - **Cognitively Guided Instruction (CGI) math classrooms** — after children solve word problems, teachers publicly name and chart the strategies children used (direct modeling, counting on, derived facts), building a shared repertoire the class references in later problems ([CGI for Math](../principles/responsive-teaching.md)).

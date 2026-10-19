@@ -24,7 +24,8 @@ An online collective-intelligence platform developed by researchers at the Unive
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [MAIC platform](maic-platform.md)
 
 ## Key Sources
 - Tatiana Íñiguez-Berrozpe, Carmen Elboj-Saso, Francesco Marcaletti, Pablo Bautista-Alcaine. (2025). Learning to deal with hate speech: An online collective intelligence experiment on the Collective Learning platform. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09460-9

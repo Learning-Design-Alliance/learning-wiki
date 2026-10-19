@@ -43,4 +43,5 @@ T/ONA directionality analysis of networks for both tasks and the subtraction mod
 
 
 ## Related Claims
--
+
+- [Emotion–motivation regulation is the code most often connected to other codes in both tasks, linking to negotiation in SimSketch but to share/compare in Simua](emotion-motivation-regulation-central-both-tasks.md)

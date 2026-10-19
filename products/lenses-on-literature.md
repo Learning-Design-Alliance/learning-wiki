@@ -31,6 +31,7 @@ Lenses on Literature is a disciplinary-literacy curriculum program that provides
 ## Related Products and Programmes
 
 - [Lenses](lenses.md)
+- [Performance Assessment Resource Bank](performance-assessment-resource-bank.md)
 
 ## Key Sources
 - Lenses on Literature. (2013). Lenses on Literature. https://www.literacydesigncollaborative.org

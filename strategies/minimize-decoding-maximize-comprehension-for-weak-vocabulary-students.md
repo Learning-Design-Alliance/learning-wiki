@@ -17,7 +17,7 @@ sources:
 # For students who decode well but comprehend poorly, minimize decoding instruction and maximize comprehension instruction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 3 studies (1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q3` · 0 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 The guide's obstacle advice addresses students who read multisyllabic words effortlessly but perform poorly on reading tests because of weak vocabulary and comprehension difficulties. The panel advises that "teachers should minimize decoding and fluency instruction and maximize comprehension instruction," grouping these students where possible into interventions focused on oral language and reading comprehension that build world knowledge, word knowledge, and meaningful discussion of texts.
@@ -36,6 +36,11 @@ The guide's obstacle advice addresses students who read multisyllabic words effo
 
 ### Target Learning Goals
 - Improving vocabulary, world knowledge, and comprehension of complex texts
+
+## Claims
+
+- [Comprehension-building practices for struggling readers in grades 4–9 have strong evidence, based on 34 studies](../claims/strong-evidence-comprehension-building-practices-grades-4-9.md) [+M]
+- [Automatic word recognition frees resources for comprehension](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+W]
 
 ## Related Strategies
 - 

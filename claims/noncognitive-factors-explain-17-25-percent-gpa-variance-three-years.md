@@ -43,4 +43,8 @@ Hierarchical regression (Step 1) on first-year GPA in a sample of 386 Spanish un
 
 
 ## Related Claims
--
+
+- [Academic engagement and regulation of behavior and context show incremental validity over cognitive predictors of university GPA](engagement-and-behavior-context-regulation-incremental-validity.md)
+- [A latent global non-cognitive factor predicts a latent three-year GPA factor, explaining 27–29% of its variance](latent-noncognitive-factor-predicts-latent-gpa-27-29-percent.md)
+- [Previous academic performance is the strongest predictor of university GPA, and adding cognitive predictors raises explained variance to about 44–50%](previous-ap-strongest-predictor-gpa-up-to-50-percent.md)
+- [Trait emotional intelligence showed no significant association with university GPA, despite correlating with engagement, SRL strategies and self-efficacy](trait-ei-no-direct-association-university-gpa.md)

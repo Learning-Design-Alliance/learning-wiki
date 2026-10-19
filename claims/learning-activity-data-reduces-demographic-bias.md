@@ -50,3 +50,4 @@ Across the three-stage analysis of models trained on data from 215 AP Statistics
 - [Using demographic variables as predictors risks reinforcing biases embedded in training labels, including self-fulfilling prophecies](demographic-predictors-reinforce-training-label-bias.md) — a broader claim this one bears on
 - [Removing the sensitive race feature caused little impact on predictive performance at Stage 1 and no significant fairness differences, with mixed fairness effects](removing-race-feature-little-performance-impact.md) — related
 - [Stage 1 (after the first unit review assignment) is the optimal point for identifying at-risk students, balancing timeliness, accuracy, and fairness](stage1-optimal-early-at-risk-identification.md) — related
+- [Eighteen potential confounds were eliminated, including all participant demographics, for lack of association with dialogue or outcome](eighteen-potential-confounds-eliminated.md)

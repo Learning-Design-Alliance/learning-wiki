@@ -50,3 +50,4 @@ The review announces its scope as documenting frequency effects across eleven na
 - There is no direct evidence that comprehensible input is necessary for L2 acquisition; the input hypothesis remains untested — related
 - [Processing instruction produces significant gains in both sentence-level comprehension and production](processing-instruction-gains-comprehension-and-production.md) — related
 - [The phonological loop plays a significant role in vocabulary acquisition and second language learning](phonological-loop-vocabulary-acquisition-l2.md) — related
+- [Frequency plays a large part in explaining sociolinguistic variation and language change](frequency-explains-sociolinguistic-variation-and-change.md)

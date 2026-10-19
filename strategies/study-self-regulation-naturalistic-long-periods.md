@@ -37,7 +37,9 @@ The editors propose that because experiments in CSCL are time-limited, the field
 - development of self-regulation skills including planning, monitoring, and reflection
 
 ## Related Strategies
-- 
+
+- [Conduct more CSCL research at scale in authentic settings and follow collaborative learning over longer periods](cscl-studies-at-scale-in-authentic-settings-longer-periods.md)
+- [Three development directions for observational self-regulation measures: broader behaviors, cross-context observability, and clear operational definitions](observational-tool-development-three-directions.md)
 
 ## Examples
 -

@@ -43,4 +43,6 @@ Multivariate analysis of variance (Table 3) on the two dependent measures across
 
 
 ## Related Claims
--
+
+- [A pre-study confirmed learners could reliably distinguish the motions and arrangements used as response options in the main study](pre-study-distinguishability-check.md)
+- [Learners' mechanical ability and spatial ability were not significantly related to identification performance in the main study](spatial-mechanical-ability-null-relation.md)

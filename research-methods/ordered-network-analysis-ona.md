@@ -27,7 +27,8 @@ Ordered network analysis extends epistemic network analysis by incorporating tem
 - [Probe-caught affect reports show stronger self-loops among core epistemic states, while self-caught reports show more distributed transitions involving higher-arousal states](../claims/reporting-method-shapes-affective-network-structure.md) [+M]
 
 ## Related Research Methods
--
+
+- [Temporal network analysis](temporal-network-analysis.md)
 
 ## Key Sources
 - Sifatul Anindho, Videep Venkatesha, Jaclyn Ocumpaugh, and Nathaniel Blanchard. (2026). Ordered Network Analysis of Epistemic Emotions during Collaborative Problem Solving. https://arxiv.org/abs/2607.23317

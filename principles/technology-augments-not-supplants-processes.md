@@ -290,6 +290,9 @@ Assisted performance, unaided immediate performance, delayed retention, transfer
 - [Remora Free Body Diagram Require-GenAI task](../designs/remora-free-body-diagram-task.md)
 - [Open-ended data-interpretation task in which students define their own standards for locating a boundary in simulation results](../designs/open-ended-standard-defining-magnetopause-lab.md)
 - [Combine real people and artificial agents as complements in blended learning environments](../strategies/blending-human-teachers-and-agents.md)
+- [Two-hour classroom AI literacy workshop combining LLM concepts with agency-preserving regulation practice](../designs/two-hour-ai-literacy-regulation-workshop.md)
+- [Keep governance of teacher-AI design processes with teachers](../strategies/governance-of-design-processes-remains-with-teachers.md)
+- [Design learning-oriented LLM prompts around guided questions, step-by-step support, reflection, and a thinking partner rather than direct answers](../strategies/learning-oriented-llm-prompt-strategy.md)
 
 ## Key Sources
 - Land, Susan M.; Hannafin, Michael J. (1996). Student-Centered Learning Environments: Foundations, Assumptions, and Implications. https://eric.ed.gov/?id=ED397810

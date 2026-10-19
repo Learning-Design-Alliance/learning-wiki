@@ -43,7 +43,9 @@ Comparison analysis restricting PSID-CDS to ages 6–11 to mirror ECLS-K:2011: "
 
 
 ## Related Claims
+
 - [Male and female WM growth trajectories do not differ: sex-by-age interactions are non-significant after multiple-comparison correction](no-sex-differences-wm-growth.md) — related
 - [Verbal working memory shows non-linear growth from ages 3–19, with the most rapid growth during childhood and a brief accelerated period during early adolescence](wm-nonlinear-growth-childhood-acceleration-adolescence.md) — reports the opposite
 - [In a prospective longitudinal sample (ECLS-K:2011), numbers reversed performance follows a logarithmic growth pattern, decelerating over ages 6–11](wm-logarithmic-growth-ecls.md) — related
 - [Behavioral self-regulation development between ages three and seven is best described by an exponential (nonlinear) growth curve](exponential-growth-behavioral-self-regulation-early-childhood.md) — related
+- [No significant group difference in working memory as measured by the Digit Span Backward subtest](no-group-difference-working-memory-dsb.md)

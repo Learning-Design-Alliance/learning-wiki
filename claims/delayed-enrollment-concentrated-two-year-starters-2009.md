@@ -62,4 +62,12 @@ Sector breakdown of delayed entry in the same class-of-2009 tracking data. The r
 
 
 ## Related Claims
+
 - Among the CPS class of 2022, 60.8% immediately enrolled in college; four-year enrollment recovered to pre-pandemic levels while two-year enrollment only began recovering in 2022 — related
+- [Few CPS graduates who delay college entry or first enroll in a two-year college go on to earn a four-year degree](cps-delayed-and-two-year-paths-low-degree-completion.md)
+- [Delaying college enrollment was associated with low completion: only 8 percent of CPS students who delayed completed a degree or credential within six years](delayed-enrollment-lower-completion.md)
+- [Six-year college completion among the CPS class of 2015 varied sharply by enrollment pathway: 55.8% for immediate four-year enrollees, 32.5% for immediate two-year enrollees, and 7.8% for delayed/non-enrollees](cps-college-completion-2015-pathways.md)
+- [Immediate four-year enrollees were far more likely than immediate two-year enrollees to complete a four-year degree within six years (48 percent vs 7 percent)](four-year-immediate-enrollment-completion-advantage.md)
+- [Four-year college graduation rates remained flat at about 49 percent for direct four-year enrollees, with much lower rates for two-year (8 percent) and delayed enrollees (4 percent)](cps-four-year-graduation-flat-49-percent.md)
+- [CPS alumni college completion (48%) remains below the national average (64%), with 56% of immediate four-year and 32% of immediate two-year enrollees completing within six years](cps-college-completion-below-national.md)
+- [Six-year college completion rates for immediate four-year enrollees rose from 54 to 56 percent for the CPS class of 2013, double the rate for immediate two-year enrollees](cps-completion-four-year-double-two-year.md)

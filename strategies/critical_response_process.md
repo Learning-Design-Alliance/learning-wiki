@@ -59,8 +59,10 @@ CRP operationalizes learner agency in feedback, which matters because feedback t
 6. Close by having the creator state what they will do next, converting the exchange into a revision plan.
 
 ## Related Strategies
+
 - [Peer Review](../elements/peer-review.md) — CRP is a structured alternative to conventional peer review that shifts control to the author
 - [Workshop Model](../patterns/workshop-model.md) — CRP supplies the feedback protocol within writing and studio workshops
+- [Respond to theory critiques by building reconciliation rather than only cataloguing criticisms](constructive-critique-reconciliation-strategy.md)
 
 ## Related Elements
 - [Peer Feedback/Peer Review](../elements/peer-review.md) — the broader practice CRP structures and disciplines

@@ -17,7 +17,7 @@ sources:
 # Pinpoint heterogeneous-perception teams early and provide targeted support to the most at-risk teams
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 Based on the finding that divergent cohesion perceptions accompany lower feedback interaction, declining performance and dyadic motifs, the authors recommend instructors identify and support at-risk teams. They state "further investigation is necessary to pinpoint heterogeneous teams and forecast the signs that may lead to disagreements" so that "educators and instructors can offer targeted support to the most at-risk teams, helping to alleviate the negative impacts on their collaborative learning experience." The strategy treats perception divergence as an early-warning signal in collaborative learning teams.
@@ -37,6 +37,13 @@ Based on the finding that divergent cohesion perceptions accompany lower feedbac
 ### Target Learning Goals
 - Sustaining task cohesion
 - Maintaining collaborative team performance
+
+## Claims
+
+- [Week 3 performance differs by perception-transition group, with Aligned teams increasing and Multifaceted teams decreasing in scores](../claims/aligned-perceptions-performance-increase-multifaceted-decrease.md) [+W]
+- [Feedback engagement is the main activity distinguishing perception groups, with divergent-perception teams interacting less with feedback content](../claims/feedback-engagement-distinguishes-cohesion-perception-groups.md) [+W]
+- [Teams with similar cohesive perceptions report higher task cohesion scores than teams with different perceptions](../claims/similar-cohesive-perceptions-higher-task-cohesion-scores.md) [+W]
+- [Temporal network motif frequencies differ significantly between perception groups, with dyadic motifs characterising divergent-perception teams and triadic motifs aligned teams](../claims/temporal-motifs-differ-by-perception-group.md) [+W]
 
 ## Related Strategies
 - 

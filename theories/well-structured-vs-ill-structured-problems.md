@@ -45,6 +45,7 @@ Beyond recognizing structure, several general strategies help regardless of a pr
 ## Related Theories
 
 - [Algorithms defined as precise step-by-step plans with four characteristics: finite, inputs and outputs, effective, definite](algorithm-definition-four-characteristics-k2.md)
+- [Typology of limiting versus expansive problem-solving strategies in student reflections](limiting-versus-expansive-strategy-typology.md)
 
 ## Related Principles
 - [Analogical Reasoning](../principles/analogical-reasoning.md) — one of the general strategies useful across both well- and ill-structured problems

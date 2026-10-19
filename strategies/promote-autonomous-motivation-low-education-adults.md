@@ -17,7 +17,7 @@ sources:
 # Promote autonomous motivation in low-education adult learners by helping them grasp the meaning of education and providing choice and volition
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 4 studies (1 quant-synthesis, 1 review, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 4 report an effect size · 2 claims rest on one study
 
 ## Description
 The article proposes concrete practices for educators working with adults of lower educational levels, a group it identifies as particularly vulnerable. "Autonomous motivation can be promoted by helping adults grasp the meaning of education and its relation to their other goals and values, as well as by providing learners with a sense of choice and volition." Educators should also encourage deep-learning strategies and reinforce efforts and achievements to improve academic self-concept and self-efficacy.
@@ -41,6 +41,12 @@ The article proposes concrete practices for educators working with adults of low
 - promoting autonomous motivation
 - improving academic self-concept and self-efficacy
 - encouraging deep-learning strategies
+
+## Claims
+
+- [Autonomous regulation correlates positively with self-efficacy, learning strategies, and behavioral engagement, while controlled regulation shows no significant linear relations with these outcomes](../claims/autonomous-regulation-correlations-outcomes.md) [+W]
+- [Motivational profile membership significantly predicts self-efficacy, learning strategies, and behavioral engagement, with high-autonomous groups scoring higher](../claims/profiles-predict-self-efficacy-strategies-engagement.md) [+W]
+- [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]
 
 ## Related Strategies
 - 

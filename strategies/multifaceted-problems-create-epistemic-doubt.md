@@ -40,7 +40,8 @@ The article describes a method of creating epistemic doubt in large introductory
 - epistemological beliefs about problem-solving
 
 ## Related Strategies
-- 
+
+- [Structure AI-assisted grading to shift TA effort from routine low-judgment decisions toward conceptually rich responses](shift-ta-effort-to-conceptually-rich-responses.md)
 
 ## Examples
 -

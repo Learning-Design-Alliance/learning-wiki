@@ -43,4 +43,5 @@ The article's abstract states this as the opening premise of the paper, a concep
 
 
 ## Related Claims
--
+
+- [New technologies excite creative pedagogical ideas but are rarely designed with teaching and learning in mind](new-technologies-rarely-designed-for-teaching-learning.md)

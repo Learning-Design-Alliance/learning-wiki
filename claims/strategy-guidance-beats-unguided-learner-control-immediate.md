@@ -43,4 +43,5 @@ Single-factor between-subjects experiment with 90 undergraduates randomly assign
 
 
 ## Related Claims
--
+
+- [Strategy guidance yields better delayed recall performance and higher delayed-recall efficiency than continuous presentation](strategy-guidance-beats-continuous-presentation-delayed.md)

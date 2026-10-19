@@ -62,4 +62,7 @@ The review reports that three recent major reviews concluded social skills train
 
 
 ## Related Claims
--
+
+- [Children with ADHD show medium-to-large peer problems relative to typically developing youth, with effect sizes from d=.72 (no comorbidities) to d=1.25 (comorbid conduct problems)](adhd-peer-problems-effect-sizes-d072-d125.md)
+- [Children with ADHD show marked peer rejection and friendship impairment: approximately four times more likely to be rejected, 52–82% scoring over 1 SD above the classroom mean in rejection, and nearly twice as likely to have no classroom friends](adhd-peer-rejection-and-friendship-deficits.md)
+- [Peers hold the most negative automatic judgments about children displaying hyperactive/impulsive behaviors, and the ADHD label itself evokes social devaluation](peer-stigma-hyperactive-behaviors-and-adhd-label.md)

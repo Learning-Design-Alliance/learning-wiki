@@ -43,4 +43,6 @@ Pairwise between-group comparisons of attended-stream reconstruction accuracy pe
 
 
 ## Related Claims
--
+
+- [Monolingual and bilingual children perform the dichotic comprehension task equivalently, with both groups finding English–English interference hardest](equivalent-comprehension-monolingual-bilingual-children.md)
+- [Unattended Musical Rain streams were better reconstructed than unattended linguistic distractors in both groups, with stronger MuR encoding in monolinguals](unattended-mur-stronger-encoding.md)

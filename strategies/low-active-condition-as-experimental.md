@@ -38,7 +38,8 @@ Because intentionally reducing children's daily step count raises ethical concer
 - testing effects of temporary daily step count reduction on cognitive performance
 
 ## Related Strategies
-- 
+
+- [Use A-B-A withdrawal designs integrating the summer break to study reduced physical activity effects on cognition](aba-withdrawal-design-summer-break.md)
 
 ## Examples
 -

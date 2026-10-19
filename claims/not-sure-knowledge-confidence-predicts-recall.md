@@ -43,4 +43,5 @@ Binomial GLMM on 4010 trials (incorrect guesses only) from 100 adults; the artic
 
 
 ## Related Claims
--
+
+- [Curiosity did not significantly predict recall accuracy in the blurred-picture learning task](curiosity-did-not-predict-recall-accuracy.md)

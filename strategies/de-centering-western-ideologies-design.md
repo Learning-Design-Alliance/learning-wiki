@@ -17,7 +17,7 @@ sources:
 # De-centering: reject the focus on Western ideologies and promote the target audience's culture and learning needs
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 De-centering is a concrete team practice for limiting cultural bias in design. The book defines it: "De-centering is the process in which members of a team reject the focus on Western ideologies and try to promote a focus on the target audience's culture and learning needs." It is paired with seven starting steps for designers, beginning with developing a deeper understanding of your own culture, wiping out preconceived notions about the target audience, situating the design in context, applying ADDIE, and being creative.
@@ -41,8 +41,13 @@ De-centering is a concrete team practice for limiting cultural bias in design. T
 ### Affordances
 - [Culture Based Model Cbm](../products/culture-based-model-cbm.md)
 
+## Claims
+
+- [Culture impacts many instructional design procedures, from needs assessment to project management](../claims/culture-impacts-many-id-procedures.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Use cultural informants from the target community to buffer against stereotyping and bias](cultural-informants-buffer-against-stereotyping.md)
 
 ## Examples
 -

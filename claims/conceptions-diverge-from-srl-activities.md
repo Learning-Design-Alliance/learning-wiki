@@ -43,4 +43,5 @@ The commentary reports Loyens and colleagues' self-report questionnaire study re
 
 
 ## Related Claims
--
+
+- [Self-reports of achievement goal orientations diverge markedly from traced goal orientations, which predict reading achievement while self-reports do not](goal-orientation-self-reports-diverge-from-traces.md)

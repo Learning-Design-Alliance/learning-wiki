@@ -45,6 +45,7 @@ This strategy directs practitioners of predictive analytics in education to trea
 - [AI in Education Toolkit for Racial Equity](ai_in_education_toolkit_for_racial_equity.md)
 - [Evaluate AI systems in DLPs for fairness across learner groups, not just overall accuracy](evaluate-ai-fairness-across-learner-groups.md)
 - [Deploy ML-based early-warning prediction to shift retention support from reactive to proactive intervention](ml-early-warning-proactive-retention-support.md)
+- [Jointly investigate fairness in machine learning with core ML researchers when deploying adaptive collaborative learning support](cscl-ml-fairness-joint-investigation.md)
 
 ## Examples
 -

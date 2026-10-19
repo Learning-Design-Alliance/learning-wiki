@@ -43,4 +43,6 @@ Correlational analyses within the MTT group only, among participants showing inc
 
 
 ## Related Claims
--
+
+- [Older adults show reduced midline frontal theta power and frontal–posterior coherence relative to younger adults regardless of single- or multitasking condition](older-adults-baseline-theta-deficit-versus-younger.md)
+- [Multitasking training increased midline frontal theta power and frontal–posterior theta coherence in older adults only in the multitasking condition and only for the MTT group](training-remediates-frontal-theta-signatures-older-adults.md)

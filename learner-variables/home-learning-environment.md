@@ -100,6 +100,8 @@ The home learning environment is what families, caregivers and communities provi
 
 ## Examples
 
+- [Start early: foster a positive math climate at home and school to prevent the distal avoidance pathway](../strategies/early-positive-math-climate-prevention.md)
+
 ## Key Sources
 - Digital Promise. *Learner Variability Navigator*: Home Learning Environment (Building Math PK-2, Portrait of a Learner 4-8, Portrait of a Learner PK-3). [lvp.digitalpromiseglobal.org](https://lvp.digitalpromiseglobal.org/content-area/math-pk-2/factors/home-learning-environment-math-pk-2/summary). Licensed CC BY-NC 4.0.
 - Digital Promise. *Learner Variability Navigator*: Home Literacy Environment (Building Literacy PK-3). [lvp.digitalpromiseglobal.org](https://lvp.digitalpromiseglobal.org/content-area/literacy-pk-3/factors/home-literacy-environment-literacy-pk-3/summary). Licensed CC BY-NC 4.0.

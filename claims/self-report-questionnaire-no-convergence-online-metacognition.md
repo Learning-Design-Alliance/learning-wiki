@@ -43,4 +43,6 @@ Correlational analysis of three metacognition measures in a grade 5 sample (effe
 
 
 ## Related Claims
+
 - [No significant relationship found between DLC interaction and self-reported metacognitive abilities on the MSLQ](no-mslq-relationship-dlc.md) — a narrower finding that bears on this claim
+- [The VisA instrument predicts word problem solving performance in grade 5, explaining 23 percent of variance](visa-instrument-predicts-word-problem-solving.md)

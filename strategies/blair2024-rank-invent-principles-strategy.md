@@ -17,7 +17,7 @@ sources:
 # Rank-and-invent-principles activity over contrasting discussion transcripts
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A concrete implementable activity: pairs of learners receive short contrasting transcript cases printed on half sheets, rank the dialogs best to least good, and record "two to three principles that guided their ranking". Principles must explain the full ranking and be applicable to a new discussion. The ranking forces close pairwise comparisons that make the built-in contrasts stand out, and disagreements must be resolved. Supplemental new cases let learners test and refine their principles before a whole-class debrief and expert lecture.
@@ -40,6 +40,11 @@ A concrete implementable activity: pairs of learners receive short contrasting t
 
 ### Affordances
 - Blair2024 Contrasting Cases Synthesis Instruction
+
+## Claims
+
+- [All participant pairs ranked the fully student-led Dialog E best, and disagreement about the elaborative-revoicing Dialog B reflected differences in values rather than in noticing](../claims/blair2024-ranking-values-vs-noticing.md) [+W]
+- [Preservice teachers became more likely to notice the absence of students building on each other's ideas and marginally more likely to notice open-ended questions](../claims/blair2024-noticing-absences-increase.md) [+W]
 
 ## Related Strategies
 - 

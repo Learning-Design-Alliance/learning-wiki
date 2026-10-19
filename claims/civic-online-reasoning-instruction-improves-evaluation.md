@@ -132,3 +132,4 @@ Sixty-eight 11th-grade students took eight lessons on strategies for evaluating 
 - [Conversational synthesis can hide source plurality behind one voice, weakening verification relative to search](opaque-synthesis-hides-plurality.md) — related
 - [After the modules, students engaged in lateral reading far more often, rising from 3 of 87 students at pretest to 67 of 87 at posttest](lateral-reading-increased-post-intervention.md) — a narrower finding that bears on this claim
 - [The intervention improved students' sourcing in credibility judgments and in written products relative to controls](sourcing-intervention-improves-credibility-judgments-written-products.md) — related
+- [An analytical strategy training program embedded in a digital literacy course improved university students' performance on online search and evaluation tasks, though to varying extent.](analytical-strategy-training-improves-online-reading-performance.md)

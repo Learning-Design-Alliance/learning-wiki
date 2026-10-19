@@ -43,4 +43,6 @@ Parallel mediation SEM (Fig. 2) on the same sample; fit indexes acceptable (χ2/
 
 
 ## Related Claims
--
+
+- [Objective support was not significantly correlated with utilization of support or prosocial behavior](objective-support-null-correlation-prosocial.md)
+- [Social support partially mediates the relationship between empathy and prosocial behavior](social-support-partial-mediator-empathy-prosocial.md)

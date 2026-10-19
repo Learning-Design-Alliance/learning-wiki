@@ -24,7 +24,10 @@ Borge and Mercier propose this approach as an alternative to the four overarchin
 ### Claims
 
 ## Related Research Methods
--
+
+- [Event-centered analysis of CSCL processes](event-centered-analysis-of-cscl-processes.md)
+- [Lonchamp's three-level integration of dialog, knowledge, and action analysis for dual-interaction CSCL environments](lonchamps-three-level-integration-of-dialog-knowledge-and-action-analysis-for-dual-interac.md)
+- [Theory-driven units of analysis for educational dialogue across multiple timescales](theory-driven-units-of-analysis-for-educational-dialogue-across-multiple-timescales.md)
 
 ## Key Sources
 - U. Cress, C. P. Rosé, N. Law, S. Ludvigsen. (2019). Investigating the complexity of computer-supported collaborative learning in action. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-019-09305-2

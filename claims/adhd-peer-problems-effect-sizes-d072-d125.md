@@ -43,4 +43,8 @@ The review cites a meta-analysis comparing peer problems of children with ADHD t
 
 
 ## Related Claims
--
+
+- [Existing child-focused treatments for ADHD, including the MTA's intensive behavioral management and medication, and clinic-based social skills training, have not improved peers' liking of children with ADHD](existing-treatments-fail-improve-peer-regard-adhd.md)
+- [In a small randomized pilot study, children with ADHD showed better sociometric peer functioning when the MOSAIC classroom inclusion components were added to behavioral management and social skills training](mosaic-classroom-inclusion-pilot-gains.md)
+- [Peer rejection incrementally predicts subsequent behavioral, emotional, and academic maladjustment in children with ADHD beyond ADHD status itself](peer-rejection-predicts-subsequent-maladjustment-adhd.md)
+- [Peers hold the most negative automatic judgments about children displaying hyperactive/impulsive behaviors, and the ADHD label itself evokes social devaluation](peer-stigma-hyperactive-behaviors-and-adhd-label.md)

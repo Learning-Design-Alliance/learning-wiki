@@ -58,3 +58,4 @@ Human inter-rater reliability measured with Fleiss' κ among three researchers c
 - [The emergent LLM coding pipeline reaches substantial agreement with expert human coding (Cohen's κ = 0.78, raw agreement 84%) on a stratified 10% sample](llm-discourse-coding-kappa-078-expert-agreement.md) — related
 - [Inter-rater agreement among the 20 expert teachers was low, at or below chance across QM criteria](low-inter-rater-agreement-qm-criteria.md) — related
 - Think aloud coding achieved inter-rater reliability of k = .53-.65 (kmax = .81-.82) between two coders using ELAN software — related
+- [Human coding of other-oriented transacts in the debate corpus reached high inter-coder reliability (kappa 0.72 for reasoning, 0.7 for transactivity, 0.95 for self/other distinction)](transactivity-coding-kappa-reliability-debate-corpus.md)

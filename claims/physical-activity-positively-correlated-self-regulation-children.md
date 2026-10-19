@@ -43,4 +43,5 @@ Partial correlation analysis in a cross-sectional study of 1561 children aged 8â
 
 
 ## Related Claims
--
+
+- [Screen time is negatively correlated with self-regulation in Chilean children](screen-time-negatively-correlated-self-regulation-children.md)

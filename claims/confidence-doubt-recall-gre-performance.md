@@ -62,4 +62,7 @@ Within positive-thought participants in Study 3, validation produced higher GRE 
 
 
 ## Related Claims
--
+
+- [Metacognitive confidence moderates the effect of thought valence on academic performance: confidence amplifies positive thoughts' benefits and negative thoughts' harm](metacognitive-confidence-valence-interaction-academic-performance.md)
+- [Experimentally manipulated thought validation amplifies the performance impact of self-relevant thoughts on a geometric shapes task](thought-validation-manipulation-shapes-task-performance.md)
+- [Perceived thought validity mediates the effect of the confidence induction on performance](thought-validity-mediation-performance.md)

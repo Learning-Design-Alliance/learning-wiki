@@ -43,4 +43,6 @@ Linear regression models with gender and age in months entered simultaneously as
 
 
 ## Related Claims
--
+
+- [Second-year kindergartners outperform first-year kindergartners on CVS scores with large differences](k2-outperforms-k1-cvs-scores.md)
+- [Dynamic assessment can teach kindergartners the CVS within a single session](dynamic-assessment-teaches-cvs-single-session.md)

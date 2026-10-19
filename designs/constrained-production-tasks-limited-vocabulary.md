@@ -17,7 +17,7 @@ sources:
 # Constrained sentence-production tasks with limited color vocabulary (syntactic-priming and sentence-completion tasks)
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 1 study (1 associational), `q3` · 1 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 Two novel controlled production instruments for eliciting Korean passive sentences. The syntactic-priming task presents a two-part picture; the examiner describes the prime and the participant produces a target sentence after hearing a primed passive. The sentence-completion task provides the nouns and verb on the picture, with the examiner initiating the first noun phrase. Both use humanized color symbols ("the Red," "the Blue," and "the Yellow") as arguments to control lexical-semantic influence, with 40 stimuli total (20 per task, 10 per canonicity condition).
@@ -38,7 +38,11 @@ Two novel controlled production instruments for eliciting Korean passive sentenc
 - isolating syntactic planning from lexical-semantic processing
 
 ### Claims
-- 
+
+- [Age is significantly and negatively correlated with passive-sentence production accuracy across all four task conditions in Korean adults](../claims/age-negatively-correlated-passive-sentence-production.md) [+W]
+- [After controlling for age, WM correlates significantly only with the most demanding condition (priming task, noncanonical word order)](../claims/wm-partial-correlation-only-priming-noncanonical.md) [+W]
+- [The syntactic-priming task with noncanonical word order is the best single predictor of age among the four sentence-production conditions](../claims/priming-noncanonical-best-predictor-of-age.md) [+W]
+- [Working-memory capacity correlates positively with accuracy on all four sentence-production conditions](../claims/wm-positively-correlated-all-production-conditions.md) [+W]
 
 ## Related Designs
 - 

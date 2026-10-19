@@ -43,4 +43,5 @@ Conditional latent curve model on the BURN11 dataset (101 high-school students, 
 
 
 ## Related Claims
--
+
+- [Final achievement level and rate of achievement change were positively correlated: students with higher final levels experienced smaller achievement decrements](intercept-slope-positive-correlation.md)

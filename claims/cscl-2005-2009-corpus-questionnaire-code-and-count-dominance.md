@@ -44,4 +44,5 @@ The editorial reports findings from Jeong, Hmelo-Silver and Yu's analysis of CSC
 
 
 ## Related Claims
--
+
+- [Between 2005 and 2009 only around 11% of CSCL papers were underpinned by information processing theory, while constructivism (33%), socio-cultural theories (25%) and social psychology (15%) were most popular](cscl-theoretical-framework-distribution-2005-2009.md)

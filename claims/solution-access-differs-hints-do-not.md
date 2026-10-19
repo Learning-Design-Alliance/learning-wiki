@@ -62,4 +62,5 @@ The same Kruskal-Wallis frequency analysis of 482 students' trace data found "no
 
 
 ## Related Claims
--
+
+- [Frequency of correct quiz submissions differs across performance quartiles, with high performers submitting correct answers most often](correct-submissions-differ-across-quartiles.md)

@@ -17,7 +17,7 @@ sources:
 # Simulated classroom assessment with educational films, quizzes, and video/EEG monitoring
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (5 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 A laboratory analogue of a classroom used to measure learning, attention, and arousal objectively. Participants were "seated behind a table" viewing "30-minute educational films presented on a 19-inch television ~6 feet away", then completed 12-item multiple-choice quizzes; a subset was video-recorded and EEG-monitored. Inattentive behavior was coded by a condition-blind rater in 30-second epochs as look-aways of ≥3 consecutive seconds.
@@ -39,7 +39,12 @@ A laboratory analogue of a classroom used to measure learning, attention, and ar
 - classroom attention regulation
 
 ### Claims
-- 
+
+- [Five nights of sleep restriction cause lower quiz performance in a simulated classroom among adolescents](../claims/sleep-restriction-lowers-simulated-classroom-quiz-scores.md) [+W]
+- [Sleep restriction increases objectively coded inattentive behaviors in a simulated classroom](../claims/sleep-restriction-increases-inattentive-classroom-behaviors.md) [+W]
+- [Sleep restriction lowers tonic arousal (raises EEG theta power) in a simulated classroom, with a medium effect](../claims/sleep-restriction-lowers-tonic-arousal-classroom.md) [+W]
+- [Sleepy behaviors (eyes closed, head down) showed medium-sized but non-significant effects of sleep restriction](../claims/sleepy-behaviors-nonsignificant-medium-effects.md) [+W]
+- [Experimental sleep restriction causally extends adolescent sleep-loss effects beyond sleepiness to attention and learning](../claims/sleep-restriction-effects-extend-beyond-sleepiness.md) [+W]
 
 ## Related Designs
 - 

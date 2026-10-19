@@ -64,6 +64,7 @@ Texts function as identity-affirming and perspective-taking tools, but the benef
 - [Authentic Audiences and Purposes](../principles/authentic-audiences-purposes.md) — counter-narrative writing projects gain power when shared beyond the classroom
 - [Accessible Vocabulary and Syntax](../principles/accessible-vocabulary-syntax.md) — scaffolding that makes identity-rich texts tractable for multilingual learners
 - [Six recommendations for publishers and curriculum decision-makers to improve representational balance](representational-balance-six-recommendations.md)
+- [Schools lacking ethnic diversity with small Latino representation should implement programs recognizing and empowering Latino culture and identity](latino-culture-identity-programs-low-diversity-schools.md)
 
 ## Related Elements
 - [Assigned Readings](../elements/assigned-readings.md) — the delivery mechanism for the texts

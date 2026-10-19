@@ -46,6 +46,7 @@ Accelerated middle schools are self-contained academic programs for middle schoo
 ## Related Elements
 
 - [ALAS dropout prevention program](../products/alas-dropout-prevention-program.md)
+- [Philadelphia's accelerated schools: alternative high schools serving students at high risk of dropping out](philadelphia-accelerated-schools-program.md)
 
 ## Examples
 -

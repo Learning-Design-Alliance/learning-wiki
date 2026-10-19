@@ -43,4 +43,6 @@ Experiment 1, a central spatial cueing detection task with targets at 3° eccent
 
 
 ## Related Claims
+
 - [In an auditory number-cue detection task, both blind and sighted adults detect targets faster on number-size/location congruent trials, with no group difference](auditory-number-congruency-detection-both-groups.md) — related
+- [Detection is slower for targets within the foveola than in the parafovea despite equal detectability](foveolar-detection-slower-than-parafoveal.md)

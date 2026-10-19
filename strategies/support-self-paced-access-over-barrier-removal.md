@@ -17,7 +17,7 @@ sources:
 # Support adult self-directed learning by enabling self-paced, self-styled access rather than only removing barriers to taught classes
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Drawing on Penland's finding that autonomy-related motives dominate adults' preference for learning alone, the review reports Cross's (1981) conclusion that "incentives to help adults participate in taught classes by reducing transport and other financial barriers have been missing the mark". More appropriate strategies let learners start when they wish and learn at their own pace. Penland similarly argued self-planned learning deserves higher status and proposed "shopping-centre access to multi-disciplinary teams of learning consultants and information brokers".
@@ -35,6 +35,10 @@ Drawing on Penland's finding that autonomy-related motives dominate adults' pref
 
 ### Target Learning Goals
 - increasing adult participation in learning suited to learner autonomy
+
+## Claims
+
+- [Tough's 1971 study found nearly all adults had undertaken a learning project in the past year, 68% self-planned and under 1% for credit, with women's categories logging fewer hours](../claims/tough-1971-learning-projects-prevalence-self-planned.md) [+W]
 
 ## Related Strategies
 - 

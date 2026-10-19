@@ -38,7 +38,9 @@ The brief models a planning practice: compiling community-level descriptors abou
 - School planning and reform grounded in student community characteristics
 
 ## Related Strategies
-- 
+
+- [Evaluate charter school impacts by matching students to demographically and academically similar comparison students](matched-comparison-group-charter-evaluation-strategy.md)
+- [Use job center and commuter shed analysis to site and design magnet schools](commuter-shed-magnet-siting-strategy.md)
 
 ## Examples
 -

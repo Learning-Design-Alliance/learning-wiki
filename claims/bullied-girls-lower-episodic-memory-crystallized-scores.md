@@ -46,8 +46,10 @@ Cross-sectional ABCD analysis of sex-specific cognitive outcomes of bullying. Th
 - [Safety](../learner-variables/safety.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
 - [Boys are more likely than girls to be reported as bullied in preadolescence](boys-more-likely-bullied-than-girls-preadolescent.md) — related
 - [Bullied preadolescent children have lower cognitive scores than non-bullied peers](bullying-associated-with-lower-cognitive-scores.md) — a broader claim this one bears on
 - [Sex moderates bullying-related cognitive and brain differences, with effects in boys and girls appearing in different regions and tasks](bullying-sex-differences-cognition-brain-regions.md) — related
 - [Larger right fusiform surface area in bullied children partially suppresses the negative effect of bullying on crystallized composite and vocabulary scores](fusiform-surface-area-suppresses-bullying-cognition-effect.md) — related
 - [Bullied preadolescent children have poorer academic grades than non-bullied peers](bullying-associated-with-poorer-academic-grades.md) — related
+- [Bullied preadolescents show larger cortical volumes in left entorhinal, left superior parietal, and right fusiform regions than matched non-bullied peers](bullying-larger-cortical-volumes-entorhinal-parietal-fusiform.md)

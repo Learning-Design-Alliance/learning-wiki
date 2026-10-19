@@ -43,4 +43,5 @@ The chapter quotes Gee's own argument, in which the 'creativity of capitalism' l
 
 
 ## Related Claims
--
+
+- [Gee's engagement with game studies was instrumental multidisciplinarity, not substantive interdisciplinarity](gee-instrumental-multidisciplinarity-not-interdisciplinarity.md)

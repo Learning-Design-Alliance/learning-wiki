@@ -37,7 +37,8 @@ The editorial reports that Gemmini-Hornsby, Ainsworth, and O'Malley investigated
 - storytelling and question-asking skills
 
 ## Related Strategies
-- 
+
+- [Reciprocal Peer Tutoring](reciprocal-peer-tutoring.md)
 
 ## Examples
 -

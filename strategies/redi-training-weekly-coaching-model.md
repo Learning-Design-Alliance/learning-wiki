@@ -42,6 +42,7 @@ The article recommends a professional development model for REDI: two days of in
 - [Engage parents through home-learning packets with videos, tips, and activity suggestions](redi-parent-home-learning-packets.md)
 - [Support curriculum implementation with initial multi-day training plus ongoing onsite consultation during the school year](training-plus-onsite-consultation-support.md)
 - [Pair program adoption with two days of initial training and weekly coaching meetings](readable-english-training-and-weekly-coaching.md)
+- [Continue ADK with more teacher inservices, maintained recordkeeping documents, and increased evaluator classroom visitations](adk-continuation-recommendations-inservices-recordkeeping-visits.md)
 
 ## Examples
 -

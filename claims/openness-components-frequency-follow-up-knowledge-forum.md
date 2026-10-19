@@ -45,4 +45,6 @@ Coding study of Knowledge Forum contributions from two mixed cohorts of students
 
 
 ## Related Claims
--
+
+- [CATPCA of openness components yielded two dimensions largely matching the theoretical cognitive/social framework, with transactivity not included](catpca-two-dimensions-openness.md)
+- [Component frequencies: elaboration, other transactivity and expert authority are frequent; multiple justification, personal positioning and questioning are rare](openness-component-frequency-pattern.md)

@@ -43,4 +43,6 @@ Descriptive analysis of National Student Clearinghouse enrollment records for th
 
 
 ## Related Claims
--
+
+- [Among fall 2015 entrants, Asian students had the highest persistence rate (84.2 percent) and Black students the lowest (66.9 percent)](fall-2015-persistence-race-ethnicity-asian-highest-black-lowest.md)
+- [First-year persistence declines with age at entry: 78.2 percent for students 20 and under, 57.8 percent for ages over 20 to 24, and 52.7 percent for students over 24](persistence-declines-with-age-at-entry-fall-2015.md)

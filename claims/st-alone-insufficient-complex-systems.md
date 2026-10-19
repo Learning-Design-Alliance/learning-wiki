@@ -43,4 +43,7 @@ A theoretical argument in the introduction, citing prior empirical work (Cronin 
 
 
 ## Related Claims
--
+
+- [The framework treats systems thinking and computational thinking as co-equal, separate entities within the context of modeling](st-and-ct-co-equal-separate-entities.md)
+- [Problem decomposition, artifact creation, data practices, and testing/debugging appear in all 28 reviewed CT manuscripts, while iterative refinement appears in 17](ct-aspect-coverage-across-ct-literature.md)
+- [Identifying interconnections and feedback is the most universally reported systems thinking aspect, proposed by all 27 reviewed manuscripts](st3-feedback-universal-across-st-literature.md)

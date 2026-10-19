@@ -62,4 +62,6 @@ In the same main-study wiki log analysis, DDR articles had fewer errors per 100 
 
 
 ## Related Claims
--
+
+- [In the main study, the DDR script induced far more talk-page discussion contributions and fewer article edits than the BRD script](ddr-script-more-discussions-fewer-edits.md)
+- [In the main study, learning gains from pre-test to post-test were not directly influenced by the collaboration script, though all students improved significantly over time](script-no-direct-effect-learning-gains.md)

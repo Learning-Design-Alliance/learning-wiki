@@ -79,12 +79,15 @@ Retrieval practice produces substantially stronger long-term retention than rest
 6. Recycle missed items into later quizzes at expanding intervals so nothing is retrieved only once.
 
 ## Related Strategies
+
 - [Spaced Practice Scheduling](spaced-practice-scheduling.md) — cumulative quizzing is spacing operationalized through assessment
 - [Retrieval Practice](retrieval-practice-activities.md) — the underlying mechanism; cumulative quizzes are its most sustainable classroom implementation
 - [Interleaved Practice](interleaved-practice.md) — cumulative review naturally interleaves topics, improving discrimination between problem types
 - [Two-Stage Quizzes](two-stage-quizzes.md) — adds collaborative re-retrieval and peer explanation
 - [Spaced repetition](spaced-repetition-scheduling.md) — the scheduling algorithm that cumulative quizzing implements manually
 - [Frequent low-stakes testing](frequent-low-stakes-quizzes.md) — the assessment structure that makes cumulative quizzing sustainable
+- [Lecturers should implement online practice tests with automatically generated individual corrective item feedback and encourage steady participation](implement-online-practice-tests-with-corrective-feedback.md)
+- [Implement weekly low-stakes spaced recall quizzes cycling fundamental concepts monthly, with a plan to address student frustration](weekly-spaced-recall-quiz-strategy-fundamental-concepts.md)
 
 ## Examples
 - **[Team-Based Learning](https://www.teambasedlearning.org)** — Readiness Assurance Tests given at the start of each unit include items from all prior units, so earlier content is re-retrieved throughout the course.

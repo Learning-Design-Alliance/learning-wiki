@@ -37,7 +37,10 @@ The editorial closes with a forward-looking scenario: a collaborative intelligen
 - Domain-general and domain-specific metacognitive knowledge and skills, including metacognitive conditional knowledge
 
 ## Related Strategies
-- 
+
+- [Use AI-enabled immersive virtual environments to enrich project-based learning in vocational design education](ai-ive-pbl-vocational-design-strategy.md)
+- [Virtual Reality Immersive Training](virtual-reality-immersive-training.md)
+- [Virtual Reality Simulations](virtual-reality-simulations.md)
 
 ## Examples
 -

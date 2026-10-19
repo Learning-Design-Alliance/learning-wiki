@@ -62,8 +62,10 @@ Correlation analysis in the willingness results section reports "r = 0.189; p < 
 
 
 ## Related Claims
+
 - [Teachers' attitudes toward GenAI tools significantly predict their behavioural intention to integrate them](attitude-predicts-intention-genai.md) — a broader claim this one bears on
 - [Students express concerns about GenAI, with non-users (never/rarely) significantly more concerned than other users, and concerns uncorrelated with knowledge](genai-concerns-nonusers-differ.md) — related
 - [Students rate their ethical awareness of AI higher than instructors, while instructors report stronger willingness to experiment with AI tools and higher behavioural intention](students-higher-ethical-awareness-instructors-higher-intention.md) — related
 - [Chatbot users held more positive attitudes and reported greater perceived knowledge gains than non-users](chatbot-users-more-positive-than-non-users.md) — related
 - [Youth hold varied attitudes toward generative AI, with non-users citing concerns about helpfulness, academic integrity, knowledge, privacy, and awareness](youth-genai-attitudes-and-concerns.md) — related
+- [Students' knowledge of GenAI is positively correlated with their frequency of use](genai-knowledge-frequency-use-correlation.md)

@@ -43,4 +43,5 @@ SEM path analysis of fifth-grade data (n = 213) showed performance-avoidance goa
 
 
 ## Related Claims
--
+
+- [Domain knowledge predicts science achievement directly and indirectly via self-concept at all three grade levels](knowledge-predicts-achievement-via-self-concept.md)

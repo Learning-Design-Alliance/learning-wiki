@@ -159,6 +159,7 @@ Productive use in the tool, assisted performance, unaided immediate performance,
 ## Examples
 
 - [Five design principles: one artifact, dependency sequencing, progressive sim-hardware integration, scaffolded bounded choice, and paired collaboration with individual evidence](../designs/five-principles-robotics-course-framework.md)
+- [Two-hour classroom AI literacy workshop combining LLM concepts with agency-preserving regulation practice](../designs/two-hour-ai-literacy-regulation-workshop.md)
 
 ## Key Sources
 - Podolefsky, N. S., Moore, E. B., & Perkins, K. K. (2013). Implicit scaffolding in interactive simulations: Design strategies to support multiple educational goals. http://phet.colorado.edu/en/simulation/energy-skate-park-basics. [doi:10.48550/arxiv.1306.6544](https://doi.org/10.48550/arxiv.1306.6544)

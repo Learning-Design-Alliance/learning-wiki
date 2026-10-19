@@ -43,4 +43,7 @@ Preregistered within-subjects laboratory experiment with 50 8-year-old girls; de
 
 
 ## Related Claims
--
+
+- [Children in grades 3–7 endorse gender-interest stereotypes favoring boys in computer science, with boys endorsing more strongly than girls](children-endorse-gender-interest-stereotypes-cs-study1.md)
+- [Gender-interest stereotypes create a gender gap in interest in a computer science activity: girls, but not boys, show lower interest when the stereotype is present](stereotype-creates-gender-gap-cs-activity-study4.md)
+- [The more girls endorse gender-interest stereotypes favoring boys, the lower their own interest in computer science and engineering, and interest stereotypes predict girls' interest more strongly than ability stereotypes](gender-interest-stereotypes-predict-girls-lower-interest.md)

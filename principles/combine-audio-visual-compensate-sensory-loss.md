@@ -159,6 +159,8 @@ Speech comprehension in the room, use of new material, listening without print, 
 - [Multiple Ways to Perceive Information](../strategies/multiple_ways_to_perceive_information.md)
 - [Multisensory Encoding](../strategies/multisensory-encoding.md)
 - [Read Aloud with Highlighting](../strategies/read_aloud_with_highlighting.md)
+- [Five-stage spoken learning loop with supplementary visual affordances](../designs/five-stage-spoken-learning-loop.md)
+- [Use captioning to provide adaptable mobile messages across contexts, with font and placement guidelines](../strategies/captioning-guidelines-for-mlearning-messages.md)
 
 ## Key Sources
 - Schleppegrell, Mary. (1987). The Older Language Learner. ERIC Clearinghouse on Languages and Linguistics, Washington DC. https://eric.ed.gov/?id=ED287313

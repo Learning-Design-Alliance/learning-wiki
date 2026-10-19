@@ -16,7 +16,7 @@ sources:
 # Feedback-loop framework coupling a gradient-boosting enrollment classifier with an auto-start simulated-quenching optimizer for multi-objective financial aid allocation
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The framework treats aid allocation strategy as a searchable solution space of merit and need buckets and amounts. A classifier predicts enrollment and expected outcomes (enrollment, net revenue, unmet need, accessibility, ROI, achievement) from applicant features including promised award amounts; an optimizer evaluates a weighted multi-objective function and proposes revised strategies. The article explains: "The feedback loop is an iterative interaction between the classifier, which predicts expected outcomes, and an optimizer, which evaluates the outcomes and suggests a revised strategy with possibly better outcomes." Unlike fixed-feature settings, award and aid amounts are features updated during optimization. Its novelty is jointly allocating merit-based awards and need-based aid and including affordability and accessibility as objectives.
@@ -39,6 +39,7 @@ The framework treats aid allocation strategy as a searchable solution space of m
 
 ### Claims
 
+- [Students not on track for college enrollment and persistence can be classified with about 90 percent accuracy using a small set of predictors](../claims/college-offtrack-classified-90-percent-accuracy.md) [+W]
 
 ## Related Theories
 - 

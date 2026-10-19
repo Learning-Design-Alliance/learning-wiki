@@ -196,6 +196,7 @@ Observed practice, student achievement, teacher satisfaction and maintenance aft
 - [BMTN network resources: shared deep-engagement definitions and rubrics, a curated task library, and the Change Idea Summary Book](../elements/bmtn-shared-rubrics-task-library-resources.md)
 - [Support deep CI implementation through capacity inventories, gradual-release coaching, structured collaboration opportunities, and student voice](../strategies/nsi-implementation-support-strategies.md)
 - [Teaching is My Favorite Color: teacher-designed support network for teachers of color](../products/teaching-is-my-favorite-color.md)
+- [Weekly design meetings as key sites of teacher inquiry, collaboration, and knowledge creation](../strategies/weekly-design-meetings-teacher-inquiry.md)
 
 ## Key Sources
 - Ferraro, Joan M. (2000). Reflective Practice and Professional Development. ERIC Digest. https://eric.ed.gov/?id=ED449120

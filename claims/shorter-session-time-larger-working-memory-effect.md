@@ -41,4 +41,5 @@ Subgroup analysis of chronic exercise effects on working memory by exercise sess
 
 
 ## Related Claims
--
+
+- [Acute exercise significantly improves working memory in children and adolescents with a moderate effect size (SMD = −0.72)](acute-exercise-improves-working-memory-children.md)

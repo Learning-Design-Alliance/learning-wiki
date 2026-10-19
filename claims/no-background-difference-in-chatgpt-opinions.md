@@ -43,4 +43,10 @@ Chi-square comparison of questionnaire answers between African and Asian student
 
 
 ## Related Claims
--
+
+- [Academic use of ChatGPT correlates most strongly with its use for language-related tasks](chatgpt-academic-use-correlates-language-use.md)
+- [Familiarity with ChatGPT is positively correlated with frequency of academic use](chatgpt-familiarity-correlates-academic-use.md)
+- [Familiarity with ChatGPT among MSc computer science students is spread across levels, with about one-fifth not familiar at all](cs-students-chatgpt-familiarity-distribution.md)
+- [A majority of surveyed MSc computer science students had never used ChatGPT for academic purposes](msc-cs-students-rarely-use-chatgpt-academically.md)
+- [Most students favour allowing ChatGPT in assessments if tasks require original thinking or guidance is provided](students-favor-guided-chatgpt-allowed-assessments.md)
+- [Students see obtaining explanations for their doubts as ChatGPT's most useful role in learning computer science](students-rate-explanations-as-chatgpt-most-useful-learning-role.md)

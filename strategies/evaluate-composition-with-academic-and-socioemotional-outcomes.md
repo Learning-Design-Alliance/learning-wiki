@@ -17,7 +17,7 @@ sources:
 # Include both academic and socioemotional outcomes when evaluating school composition effects
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends broadening evaluation of school composition beyond test scores. The authors state: "recognizing the importance of both academic and socioemotional skills to long-term educational trajectories (Entwisle, Alexander, & Olson, 2005), we expand the standard test score focus to also consider key aspects of socioemotional development." This strategy proved analytically productive: composition effects differed by domain, with matching—but not diversity—predicting socioemotional adjustment, a pattern that would have been invisible in a test-score-only evaluation.
@@ -41,8 +41,16 @@ The article recommends broadening evaluation of school composition beyond test s
 ### Affordances
 - Diversity Belongingness Integrative Model
 
+## Claims
+
+- [Having more same-racial/ethnic school peers predicts fewer externalizing behaviors and stronger interpersonal skills in kindergarten, independent of school diversity](../claims/same-ethnic-peers-predict-socioemotional-adjustment.md) [+W]
+- [Socioemotional benefits of same-racial/ethnic peers show marginal group differences in interpersonal skills but no racial/ethnic differences for externalizing behavior](../claims/socioemotional-matching-group-differences-mixed.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Assess robustness of non-experimental composition findings with impact thresholds for confounding variables](itcv-robustness-check-for-composition-findings.md)
+- [Evaluate charter schools against longer-term outcomes such as college enrollment and completion, not only short-term achievement](evaluate-charters-on-longer-term-college-outcomes.md)
+- [Broaden measured outcomes beyond high-stakes assessments to include durable skills](broaden-outcomes-to-durable-skills.md)
 
 ## Examples
 -

@@ -43,4 +43,7 @@ The abstract summarizes results from the 167-student pretest-posttest study: the
 
 
 ## Related Claims
+
 - [Creativity estimate significantly predicts levels solved and silver coins but not gold coins, controlling for pretest](creativity-predicts-game-performance-selective.md) — related
+- [A game-based assessment of persistence predicts physics post-test gains for low-performing players after controlling for background and enjoyment](gap-predicts-learning-gains-struggling-players.md)
+- [The GAP correlates with an independent performance-based persistence measure and with physics post-test scores, supporting construct validity](gap-construct-validity-persistence-measures.md)

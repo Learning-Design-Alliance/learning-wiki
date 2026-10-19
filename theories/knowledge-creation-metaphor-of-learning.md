@@ -48,6 +48,7 @@ The paper reports that the Trialogical Approach emerged in response to the disti
 - [Seven basic characteristics of trialogical learning processes](trialogical-learning-design-characteristics.md)
 - [Knowledge Practices Environment (KPE): a platform for object-centred collaborative knowledge creation](../products/kpe.md)
 - [KP-Lab toolset supporting four types of mediation, including the Visual Model Editor and analytic mirroring tools](../products/kp-lab.md)
+- [Promote knowledge creation by coordinating group practices, technology affordances, interaction genres, community metaskills, and trialogical learning through design-based research](../strategies/coordinated-dbr-knowledge-creation-culture.md)
 
 ## Key Sources
 - Reynolds, S., & Camilleri, A. F. (2010). KP-LAB: Breaking New Ground on How to Create Knowledge Through Learning. EDEN 2010 Conference, Valencia.

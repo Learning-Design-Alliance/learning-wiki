@@ -62,4 +62,9 @@ Study 1 follow-up on teacher-focused codes found no change (d = 0.06), consisten
 
 
 ## Related Claims
--
+
+- [Preservice teachers became more likely to notice the absence of students building on each other's ideas and marginally more likely to notice open-ended questions](blair2024-noticing-absences-increase.md)
+- [Teacher valence codes showed a nominal non-significant interaction: presence codes decreased while absence/missed-opportunity codes increased](blair2024-teacher-valence-nominal-shift.md)
+- [After a dialogic-focused professional development intervention, mathematics teachers noticed student dialogue significantly more, in both attending (83 to 170 cases) and responding (24 to 71 cases)](pd-intervention-increases-teacher-dialogue-noticing.md)
+- [Individual trajectories varied: 9 of 14 teachers increased dialogic noticing per episode, while two teachers slightly decreased, which the authors attribute to limits of the nondirective intervention](individual-noticing-trajectories-vary.md)
+- [The intervention significantly increased teachers' noticing of six dialogic attributes — persuasive interaction, one leads and another is led, agreement and collective attention, students have equal status, dialogic gap, and monologue — but not of dialogue-expansion attributes](six-dialogic-attributes-significant-gains.md)

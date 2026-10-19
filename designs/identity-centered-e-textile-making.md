@@ -62,6 +62,10 @@ Participants design and build wearable, functional e-textile objects (bracelets,
 ### Affordances
 - [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md)
 
+## Related Designs
+
+- [Collaborative making project pattern: multi-material, digitally enhanced, holistic, thematically anchored](school-collaborative-making-project-pattern.md)
+
 ## Related Patterns
 - [Fostering Communities of Learning (FCL)](../patterns/fostering-communities-of-learning-fcl.md)
 

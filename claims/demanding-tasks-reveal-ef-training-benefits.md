@@ -43,6 +43,8 @@ Narrative review synthesis across EF-intervention studies (citing C. L. Davis et
 
 
 ## Related Claims
+
 - [Sustained aerobic exercise improves children's EFs, with dose-response benefits for the most EF-demanding task and math in the high-dose group only](aerobic-exercise-dose-response-ef.md) — a narrower finding that bears on this claim
 - [Tools of the Mind and Montessori curricula improve children's EFs, with Tools children outperforming controls especially on more EF-demanding conditions](tools-montessori-curricula-improve-efs.md) — a narrower finding that bears on this claim
 - [EF training demands must keep increasing as children improve, or few gains will be seen](progressive-challenge-ef-training.md) — related
+- [The bilingual effect tends to emerge in more complex experimental tasks with higher control demands](task-complexity-moderates-bilingual-effect.md)

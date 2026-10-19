@@ -32,7 +32,8 @@ The ACE-HE, developed by Graham et al., is a bilingual survey instrument measuri
 - [The ACE-HE measurement model of institutional support for ABC engagement also fits the data well](../claims/ace-he-institutional-support-model-good-fit.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [38-item engagement strategies survey instrument](38-item-engagement-strategies-survey-instrument.md)
 
 ## Key Sources
 - Graham, C., Borup, J., Tuiloma, S., Martínez Arias, A., Parra Caicedo, D., Larson, R. (2023). Institutional support for Academic Engagement in online and blended learning environments: Exploring affective, behavioral, and cognitive dimensions. Online Learning, 27(3), 4-40. https://doi.org/10.24059/olj.v27i3.4001

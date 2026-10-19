@@ -32,6 +32,7 @@ DrawEduMath is a benchmark dataset created by Li Lucy et al. that pairs authenti
 ## Related Products and Programmes
 
 - [MUSE: a 12-task benchmark of artistic image understanding for situated education](muse-a-12-task-benchmark-of-artistic-image-understanding-for-situated-education.md)
+- [Gold and ultra-gold benchmark subsets](gold-and-ultra-gold-benchmark-subsets.md)
 
 ## Key Sources
 - Li Lucy, Albert Zhang, Nathan Anderson, Ryan Knight, Kyle Lo. (2026). The Aftermath of DrawEduMath: Vision Language Models Underperform with Struggling Students and Misdiagnose Errors. https://arxiv.org/abs/2603.00925

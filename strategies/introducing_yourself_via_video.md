@@ -58,9 +58,11 @@ Video introductions build the instructor's social presence, which the [Community
 5. Refer back to the introduction ("as I mentioned in my intro video…") in early feedback to reinforce the personal connection.
 
 ## Related Strategies
+
 - [Welcome messages and course orientation](../strategies/welcome-messages.md) — the text-based companion to the video introduction
 - [Instructor presence in discussions](../strategies/instructor-presence-in-discussions.md) — sustaining the connection the introduction opens
 - [Icebreakers](../strategies/icebreakers.md) — structured activities that extend the introduction into peer-to-peer connection
+- [Instructors apply chatbots to support goal setting and social presence in fully online activities](instructor-strategy-chatbots-goal-setting-social-presence.md)
 
 ## Examples
 - **Flip (https://info.flip.com)** — commonly used for video introduction threads where instructor and students post short intro videos in a shared grid.

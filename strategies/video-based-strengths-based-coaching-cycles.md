@@ -17,7 +17,7 @@ sources:
 # Video-based coaching cycles in which teachers analyze their own discussions, practice talk moves, and reflect on effectiveness
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 During implementation, "teachers participated in up to four video-based coaching sessions (C1–4), which were organized as a coaching cycle and grounded in a strengths-based approach". Throughout the iterative process, teachers analyzed their own classroom interactions, practiced talk moves, and reflected on their effectiveness, with the goal of transforming discussion routines by bolstering observational and reflective skills. Coaching was conducted by three experienced teachers trained in a three-day QT workshop, and this professional development accompanied the practice shifts reported in the study's results.
@@ -40,8 +40,15 @@ During implementation, "teachers participated in up to four video-based coaching
 ### Affordances
 - Quality Talk Framework
 
+## Claims
+
+- [The intervention increased students' elaborated explanations and cumulative and exploratory talk](../claims/qt-increases-explanations-cumulative-exploratory-talk.md) [+M]
+- [The intervention increased teachers' talk moves but decreased authentic teacher questions, contradicting the dialogic-practice hypothesis for questions](../claims/qt-increases-talk-moves-decreases-authentic-teacher-questions.md) [+M]
+
 ## Related Strategies
-- 
+
+- [Peer Coaching](peer_coaching.md)
+- [Build Time for Self-Reflection](build_time_for_self-reflection.md)
 
 ## Examples
 -

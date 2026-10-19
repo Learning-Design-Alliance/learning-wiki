@@ -31,7 +31,8 @@ A Johns Hopkins University network that supports schools and districts in develo
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Four-Element Family Engagement Framework](four-element-family-engagement-framework.md)
 
 ## Key Sources
 - Attendance — National Network of Partnership Schools (NNPS). (2001). https://evidenceforessa.org/program/national-network-of-partnership-schools-nnps/

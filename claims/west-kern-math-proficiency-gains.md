@@ -43,4 +43,7 @@ WestEd, the consortium's external evaluator, compared founding districts' math p
 
 
 ## Related Claims
+
 - Every West Kern Consortium district improved ELA proficiency from 2021–22 to 2024–25, with four exceeding the county average — related
+- [Chronic absence in West Kern Consortium schools dropped 9 percentage points from its 2021–22 peak, with large district-level reductions](west-kern-chronic-absence-reduction.md)
+- [Students in three consortium districts reported positive experiences with the cross-grade mentorship program and with campus social workers](west-kern-student-climate-survey-outcomes.md)

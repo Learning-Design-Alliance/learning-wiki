@@ -17,7 +17,7 @@ sources:
 # Defense suite for persona skills: online sanitization, post-hoc adversarial obfuscation, and semantic backdoor watermarking
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 AntiSkillBench designs and evaluates four defense configurations intervening at different stages of the persona-skill lifecycle, covering "online versus post-hoc intervention and active risk suppression versus passive backdoor protection". Privacy Sanitization rewrites user queries online to remove private cues while preserving task intent; Adversarial Obfuscation appends conflicting private attributes post-hoc to mislead distillation; Semantic-level Backdoor Injection implants semantic watermarks in both settings so unauthorized skill reuse can later be traced.
@@ -35,6 +35,11 @@ AntiSkillBench designs and evaluates four defense configurations intervening at 
 
 ### Target Learning Goals
 - Protecting distilled persona skills against privacy leakage, impersonation, and unauthorized reuse
+
+## Claims
+
+- [Active defenses (Privacy Sanitization, Adversarial Obfuscation) reduce but do not eliminate persona-skill leakage, leaving personality and background exposed](../claims/active-defenses-limited-partial-protection.md) [+W]
+- [Passive backdoor defense (SBD) effectiveness is distillation-dependent, degrading under persona-centric abstraction](../claims/passive-sbd-defense-distillation-dependent.md) [+W]
 
 ## Related Strategies
 - 

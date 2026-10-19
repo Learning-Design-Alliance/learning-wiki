@@ -42,7 +42,8 @@ The article frames the complier average causal effect (CACE) parameter as the es
 
 
 ## Examples
--
+
+- [Ten-RCT empirical comparison of CACE variance formulas](../elements/ten-rct-cace-variance-comparison.md)
 
 ## Key Sources
 - Peter Z. Schochet, Hanley S. Chiang. (2011). Estimation and Identification of the Complier Average Causal Effect Parameter in Education RCTs. Journal of Educational and Behavioral Statistics, vol. 36, no. 3. https://eric.ed.gov/?q=Estimation and Identification of the Complier Average Causal Effect Parameter in Education RCTs

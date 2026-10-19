@@ -43,4 +43,9 @@ Regression on the interest/enjoyment subscale of the intrinsic motivation invent
 
 
 ## Related Claims
--
+
+- [In Study 1, a greater seductive detail amount linearly worsened recall performance (b = −0.11, p = .030)](sd-amount-linear-negative-recall-study1.md)
+- [In Study 2 with a longer text and five SD amounts, greater seductive detail amount again worsened recall (b = −0.33, p = .005)](sd-amount-negative-recall-study2.md)
+- [Seductive detail amount did not increase extraneous cognitive load in either study](sd-amount-no-extraneous-load-effect.md)
+- [Seductive detail amount did not significantly affect transfer performance in Study 1](sd-amount-no-transfer-effect-study1.md)
+- [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md)

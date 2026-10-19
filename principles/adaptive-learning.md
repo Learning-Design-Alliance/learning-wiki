@@ -205,6 +205,9 @@ Within-system performance, aligned achievement, standardised achievement, delaye
 - [Select iteration coefficients according to the proved convergence condition when implementing stochastic approximation](../strategies/coefficient-selection-strategy.md)
 - [Iteration-coefficient sequences as the controllable design element of stochastic approximation](../elements/iteration-coefficient-sequence.md)
 - [Design AI learning systems for inspectable, contestable use: provenance, represented uncertainty, user control and epistemic plurality](../strategies/design-contestable-ai-provenance-plurality.md)
+- [Self-improving mechanism: learning strategy-selection criteria from student model states by concept learning from examples](../designs/strategy-selection-criteria-from-student-model-states.md)
+- [For young learners, adapt instructional support level rather than only task difficulty, and investigate adaptive features in isolation](../strategies/adapt-support-not-just-difficulty-young-learners.md)
+- [Use strategy-based evidence models to trigger adaptive scaffolding toward more productive problem-solving strategies](../strategies/strategy-evidence-models-trigger-adaptive-scaffolding.md)
 
 ### Validated
 - **[ASSISTments](https://www.assistments.org)** — Free web-based math platform (grades 6–12) that adapts problem selection and hint delivery based on item-level responses. Randomized studies across Maine schools showed significant homework-related learning gains over business-as-usual conditions (Roschelle et al., 2016, *AERJ*).

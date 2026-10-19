@@ -41,7 +41,9 @@ The article conceptualizes workshop interactions among teachers, mentors, and AI
 ### Claims
 
 ## Related Designs
-- 
+
+- [AI-supported e-mentoring model integrating human mentoring with AI-driven support across engagement, analysis, feedback, and reflection cycles](ai-supported-e-mentoring-model-ismael-2026.md)
+- [Site coordinator role combining field supervision, coaching, seminar teaching, mentor training, and governance facilitation](site-coordinator-role-residency-element.md)
 
 ## Examples
 -

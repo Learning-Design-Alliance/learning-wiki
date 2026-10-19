@@ -39,7 +39,9 @@ One LEA created a fellowship for all of its Black male teachers, administrators,
 - 
 
 ## Related Designs
-- 
+
+- [Event design details—offsite venues, elevated BIPOC vendors, compelling speakers, and intentional branding—foster pride and engagement](event-design-details-foster-pride-and-engagement.md)
+- [Grow-Your-Own credential pathway for classified staff](grow-your-own-classified-staff-credential-pathway.md)
 
 ## Examples
 -

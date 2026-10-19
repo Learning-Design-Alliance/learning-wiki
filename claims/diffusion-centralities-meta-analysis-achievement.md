@@ -43,4 +43,8 @@ Correlation meta-analysis (17 meta-analyses, one per centrality measure) pooling
 
 
 ## Related Claims
--
+
+- [A worked network example shows diffusion-based centralities capturing uptake and argumentation more accurately than traditional centrality measures](worked-example-diffusion-captures-uptake.md)
+- [Multigraph indegree centrality is consistently and positively correlated with student performance across 12 PBL courses, with stronger correlations than other configurations in eight courses](multigraph-indegree-consistent-performance-correlation.md)
+- [Multigraph outdegree centrality is the most robust participation indicator, with significant positive correlations in all courses, while weighted outdegree was negatively correlated in two courses](multigraph-outdegree-most-robust-participation.md)
+- [Diffusion-based centralities show moderate-to-strong statistically significant positive correlations with the frequency of information sharing and argumentation utterances in CSCL](diffusion-centralities-capture-information-exchange-argumentation.md)

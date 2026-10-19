@@ -45,6 +45,7 @@ As technology shifts adult education toward student-centered learning, instructo
 
 - [Build institutional data-use practice: train instructors to analyze learner data and align product data to required assessments](instructor-data-use-training-alignment.md)
 - [Grow-your-own teacher pipelines and institutionalized peer-based professional learning to build a qualified newcomer-school workforce](grow-own-teacher-pipeline-newcomer-schools.md)
+- [Staff development should make teaching principles explicit through articulation, reflection and evaluation, supported by institutional incentives and training](staff-development-articulate-teaching-principles.md)
 
 ## Examples
 -

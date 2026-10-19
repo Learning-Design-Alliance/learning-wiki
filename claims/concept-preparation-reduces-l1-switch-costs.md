@@ -43,4 +43,7 @@ The review reports, citing Declerck et al. (2015a) with German-English bilingual
 
 
 ## Related Claims
--
+
+- [Sentence-level (lemma) processing affects language switching: switch costs occur between sentences and depend on syntactic structure](sentence-processing-affects-language-switching.md)
+- [Phonological processing is affected by and affects language control in switching, though effects are not uniform across studies](phonology-role-in-language-control.md)
+- [Switch costs and mixing costs are common empirical observations across language switching paradigms, except voluntary switching under certain circumstances](switch-and-mixing-costs-common-across-paradigms.md)

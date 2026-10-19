@@ -29,7 +29,8 @@ A longitudinal student-level dataset assembled by Ron Zimmer and colleagues cove
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Longitudinal student-level dataset on entry, exit, attrition, and replacement in KIPP middle schools](longitudinal-student-level-dataset-on-entry-exit-attrition-and-replacement-in-kipp-middle.md)
 
 ## Key Sources
 - Ron Zimmer, Brian Gill, Kevin Booker, Stephane Lavertu, Tim Sass, John Witte. (2009). Charter Schools in Eight States: Effects on Achievement, Attainment, Integration, and Competition. Santa Monica, CA: RAND Corporation. https://www.mathematica.org/publications/charter-schools-in-eight-states-effects-on-achievement-attainment-integration-and-competition

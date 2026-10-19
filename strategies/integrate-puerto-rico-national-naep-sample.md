@@ -38,7 +38,8 @@ The report's stated forward-looking plan is to "integrate Puerto Rico into the n
 - Mathematics achievement measurement in Spanish
 
 ## Related Strategies
-- 
+
+- [Adapt translated assessments to the target jurisdiction's linguistic and cultural characteristics, and revise administration scripts and timing to fit test-takers unfamiliar with the format.](adapt-translated-assessment-translation-and-administration.md)
 
 ## Examples
 -

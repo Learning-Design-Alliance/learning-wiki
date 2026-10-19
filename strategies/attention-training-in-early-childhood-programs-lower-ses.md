@@ -44,7 +44,8 @@ The article recommends that early childhood programs for children from lower soc
 - [The group difference in neural attentional modulation is tied to reduced distractor suppression in the unattended channel, not to differences in response to attended stimuli](../claims/ses-distractor-suppression-deficit-not-signal-enhancement.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Prioritize systematic developmental and longitudinal studies of attention control across a wide age range, including toddlers and kindergarten children](longitudinal-attention-control-wide-age-range.md)
 
 ## Examples
 -

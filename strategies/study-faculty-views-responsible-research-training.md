@@ -17,7 +17,7 @@ sources:
 # Study faculty advisors' and mentors' own views of their role in educating doctoral students about responsible research
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article describes a study designed with the Office of Research Integrity "to learn what role faculty advisors and mentors believe they play in educating doctoral students to conduct responsible research." The approach targets faculty members' own perspectives on their role and their institutions' role in developing responsible researchers, addressing a gap where only assertions of importance existed without focused studies of what faculty actually do.
@@ -35,6 +35,10 @@ The article describes a study designed with the Office of Research Integrity "to
 
 ### Target Learning Goals
 - Ethical research standards and responsible conduct of research
+
+## Claims
+
+- [Faculty advisors and mentors are considered pivotal in promoting doctoral students' development as responsible and ethical researchers](../claims/faculty-mentors-pivotal-responsible-research-development.md) [+W]
 
 ## Related Strategies
 - 

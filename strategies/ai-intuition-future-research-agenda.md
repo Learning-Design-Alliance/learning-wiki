@@ -44,6 +44,7 @@ The article closes with a four-part research agenda for the experiential dimensi
 ## Related Strategies
 
 - [Use structured reflection tables, learning journals, prompt variation, adversarial queries, and peer debate to cultivate AI intuition](reflection-tables-journals-debates-cultivate-ai-intuition.md)
+- [Research agenda for advancing transformative communication environments: sociocultural theory, conversational analysis, and beyond-face-to-face affordances](transformative-communication-research-agenda.md)
 
 ## Examples
 -

@@ -43,4 +43,5 @@ Mixed-design two-way MANOVA (group × motivation) with 30 ADHD and 30 TD childre
 
 
 ## Related Claims
--
+
+- [The motivation manipulation improved attention performance in children with ADHD but did not change TD children's performance](motivation-improves-adhd-not-td-performance.md)

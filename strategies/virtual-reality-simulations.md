@@ -66,6 +66,7 @@ VR's core pedagogical value is safe, repeatable practice of procedural and spati
 - [Video-based modeling](video-based-modeling.md) — a lower-cost observational alternative when manipulation is not required
 - [Use direct-experience formats — simulation games, extracurricular activities, action learning, peer teaching — to pursue relational-domain objectives](experiential-formats-relational-objectives.md)
 - [Structured activity design and moderate realism benefit shared VR learning environments](structured-activity-moderate-realism-vr.md)
+- [Use advanced immersive learning technologies as research and learning tools to deliver developmentally-appropriate metacognitive scaffolding](immersive-tech-metacognitive-scaffolding-strategy.md)
 
 ## Examples
 - **Osso VR** (https://ossovr.com) — surgical rehearsal platform; randomized studies showed orthopedic trainees using it outperformed conventionally trained peers on assessed procedure performance [+M]

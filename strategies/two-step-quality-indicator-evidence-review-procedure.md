@@ -37,7 +37,8 @@ The review used the NSTTAC two-step procedure: first applying a 20-item quality 
 - identifying evidence-based instructional practices
 
 ## Related Strategies
-- 
+
+- [Route items flagged for misfit through content and psychometric review before deciding whether to deactivate them](misfit-items-review-before-deactivation.md)
 
 ## Examples
 -

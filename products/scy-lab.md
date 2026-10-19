@@ -26,7 +26,14 @@ SCY-Lab is a digital learning environment developed by the SCY project that supp
 - [Cognitively oriented challenges dominated student help requests during computer-supported lab work, with 45.1% conceptual and 28.7% cognitive-regulation requests](../claims/help-requests-mostly-conceptual-cogreg.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Synthesis Lab](synthesis-lab.md)
+- [Virtual Collaborative Research Institute (VCRI) CSCL environment](virtual-collaborative-research-institute-vcri-cscl-environment.md)
+- [KP-Lab](kp-lab.md)
+- [KPE](kpe.md)
+- [Go-Lab online teacher community and Inquiry Learning Spaces](go-lab-online-teacher-community-and-inquiry-learning-spaces.md)
+- [WISE (Web-based Inquiry Science Environment)](wise-web-based-inquiry-science-environment.md)
+- [Go-Lab ecosystem](go-lab-ecosystem.md)
 
 ## Key Sources
 - Anniken Furberg. (2016). Teacher support in computer-supported lab work: bridging the gap between lab experiments and students' conceptual understanding. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-016-9229-3

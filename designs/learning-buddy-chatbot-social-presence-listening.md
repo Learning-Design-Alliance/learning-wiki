@@ -40,7 +40,8 @@ A chatbot used in Study 2 to support English-as-Foreign-Language learners comple
 - [Chatbots Positive Usefulness Ease Of Use Online](../claims/chatbots-positive-usefulness-ease-of-use-online.md) [+M]
 
 ## Related Designs
-- 
+
+- [Social presence framework with interpersonal, open, and cohesive communication as a design basis for educational chatbots](social-presence-framework-three-communication-types.md)
 
 ## Examples
 -

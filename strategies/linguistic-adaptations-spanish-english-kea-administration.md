@@ -17,7 +17,7 @@ sources:
 # Adapt English-language KEA administration so students may respond in Spanish or English, with bilingual directions and Spanish-adapted rather than merely translated prompts
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 This strategy modifies observation-based, English-language KEA protocols so Spanish–English bilinguals can demonstrate knowledge bilingually. The brief recommends that "assessments can include options to explicitly allow students to respond in Spanish or English as appropriate; test directions can be provided in both languages; and rather than just providing a Spanish translation of item prompts, the prompts can be adapted to Spanish as appropriate." Adaptations should reflect bilingual developmental trajectories, accept code-switching or Spanish-language responses, and be accompanied by Spanish–English-focused validity and reliability studies.
@@ -36,8 +36,13 @@ This strategy modifies observation-based, English-language KEA protocols so Span
 ### Target Learning Goals
 - Valid, reliable, culturally and linguistically responsive measurement of school readiness in language, literacy, and mathematics
 
+## Claims
+
+- [Spanish–English bilinguals performed better on kindergarten mathematics assessments when tested in Spanish](../claims/bilinguals-better-math-tested-in-spanish.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Adapt translated assessments to the target jurisdiction's linguistic and cultural characteristics, and revise administration scripts and timing to fit test-takers unfamiliar with the format.](adapt-translated-assessment-translation-and-administration.md)
 
 ## Examples
 -

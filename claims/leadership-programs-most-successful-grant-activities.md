@@ -43,6 +43,7 @@ Respondent-perception findings from interviews and site visits across grantee si
 
 
 ## Related Claims
+
 - [Respondents viewed local foundations, businesses, and community groups as promoting cross-sector collaboration, while competition, political divisions, and teachers' unions may hinder it](community-actors-promote-competition-unions-hinder-collaboration.md) — related
 - [Compact collaboration activities did not yield systemic change within the grant period but were perceived to have produced small-scale improvements in instructional quality and human capital practices and increased availability of school effectiveness information](compact-activities-small-scale-improvements-not-systemic-change.md) — related
 - [Educator grantees in the District-Charter Collaboration Grants cited collaborative work on classroom observation, operations alignment, and curriculum development as particularly helpful to their professional development](district-charter-collaboration-grants-educator-pd-benefits.md) — related
@@ -61,3 +62,4 @@ Respondent-perception findings from interviews and site visits across grantee si
 - [Cross-sector education partnerships that overcome common challenges are characterized by shared goals, mutually reinforcing activities, and effective communication](cross-sector-partnership-success-characteristics.md) — related
 - [Community schools funding availability and consistency strongly impacts continued implementation progress in Roswell](funding-availability-constrains-community-school-progress.md) — related
 - [The coordinated school health approach saw scattered US adoption, hindered by pressures on administrators and lack of integration into School Improvement Plans](csh-scattered-adoption-barriers.md) — related
+- [Most respondents found grant training useful, applied the information in their school, and shared it with others](grant-training-useful-applied-shared.md)

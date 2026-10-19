@@ -29,7 +29,9 @@ The KP-Lab toolset, developed by the European KP-Lab project, is a suite of digi
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [MEME (Modeling and Evidence Mapping Environment)](meme-modeling-and-evidence-mapping-environment.md)
+- [SCY-Lab](scy-lab.md)
 
 ## Key Sources
 - Reynolds, S., & Camilleri, A. F. (2010). KP-LAB: Breaking New Ground on How to Create Knowledge Through Learning. EDEN 2010 Conference, Valencia.

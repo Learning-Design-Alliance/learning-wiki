@@ -58,9 +58,11 @@ Feedback is among the most powerful influences on learning, but its effect depen
 5. Require revision in response to feedback, and have authors briefly note which comments they acted on and why ([Assessment](../elements/assessment.md) for learning, not just of it).
 
 ## Related Strategies
+
 - [Formative Assessment](../patterns/formative-assessment.md) — feedback is the mechanism that makes formative assessment work
 - [Collaborative Learning](../patterns/collaborative-learning.md) — peer feedback structures collaboration around authentic work products
 - [Self-Assessment](../elements/self-assessment.md) — the evaluative skills built by peer review transfer to judging one's own work
+- [Peer-delivered prompts in which students take over prompting, feedback, and assessment from an instructor](peer-to-peer-prompting-handover.md)
 
 ## Examples
 - **[Calibrated Peer Review](calibrated_peer_review.md) (CPR)** (https://calibratedpeerreview.org) — a web system in which students first review calibration documents with known instructor ratings, then review peers' work; used widely in undergraduate chemistry and writing courses.

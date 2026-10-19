@@ -62,4 +62,7 @@ Mixed ANOVA on transfer items (N = 155, immediate to 3-week delayed posttest) pr
 
 
 ## Related Claims
--
+
+- [Explicit CT instruction combined with practice improves students' unbiased reasoning on instructed and practiced heuristics-and-biases items from pretest to immediate posttest](ct-instruction-practice-improves-unbiased-reasoning.md)
+- [Solving practice problems invested less mental effort than contrasting or erroneous examples, contrary to the worked-example-effect hypothesis](practice-problems-lower-mental-effort.md)
+- [Time-on-task during practice was significantly higher for correct and erroneous examples than for contrasting examples and practice problems](time-on-task-example-conditions-higher.md)

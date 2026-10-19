@@ -62,4 +62,8 @@ Results section synthesis across the three schools: substantial assessment in PB
 
 
 ## Related Claims
--
+
+- [Six contextual factors mediate the influence of cultural factors on discussion behaviors, either inhibiting or enhancing discussion](six-contextual-factors-mediate-discussion.md)
+- [Four cultural factors inhibit students from speaking up, asking questions and challenging others in PBL discussions, with stronger impact in non-Western schools](four-cultural-factors-inhibit-discussion-behaviors.md)
+- [The scope of PBL implementation shaped discussion quality: hybrid lecture-based implementation reduced uncertainty but yielded less critical discussion than full PBL](scope-of-pbl-implementation-shapes-discussion.md)
+- [Tutor behavior had a major impact on students' discussion behaviors, with dominant or passive tutors both failing to stimulate lively discussion](tutor-behavior-major-impact-discussion.md)

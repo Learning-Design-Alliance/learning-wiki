@@ -43,4 +43,8 @@ Narrative review section on disease outcome, summarising clinically-based longit
 
 
 ## Related Claims
--
+
+- [At least 15% of children with ADHD continue to meet full diagnostic criteria by age 25 and a further 50% meet criteria in partial remission, with European estimates of persistence up to 80%](adhd-persistence-into-adulthood-subthreshold.md)
+- [Meta-analyses establish that ADHD is associated with poorer performance on tasks measuring inhibition, working memory, planning, and vigilance in children, with overall similar impairment patterns in adults and a strong association with reaction time variability](adhd-cognitive-deficits-children-adults.md)
+- [A third systematic review concluded ADHD medication reduced symptoms and impairments but found limited and inconsistent evidence for long-term medication effects on social functioning, academic achievement, employment status, and psychiatric comorbidity](adhd-medication-limited-long-term-functional-effects.md)
+- [About 25–40% of patients with ADHD have major reading and writing difficulties, many show co-existing language disorders, and there is considerable overlap with arithmetical skills disorders](adhd-reading-writing-difficulties-comorbidity.md)

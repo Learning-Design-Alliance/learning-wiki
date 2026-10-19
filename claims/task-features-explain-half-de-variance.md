@@ -43,4 +43,5 @@ Model-fit comparison in the Results section of the dynamic structural equation m
 
 
 ## Related Claims
--
+
+- [Disciplinary engagement at one interval positively predicts subsequent behavioral and collaborative engagement](de-predicts-subsequent-be-and-ce.md)

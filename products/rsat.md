@@ -24,7 +24,8 @@ RSAT is a computer-based online assessment developed by Gonny Schellings and col
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [58-item task-specific learning strategy questionnaire](58-item-task-specific-learning-strategy-questionnaire.md)
 
 ## Key Sources
 - Gonny Schellings & Bernadette Van Hout-Wolters. (2011). Measuring strategy use with self-report instruments: theoretical and empirical considerations. Metacognition and Learning. https://doi.org/10.1007/s11409-011-9081-9

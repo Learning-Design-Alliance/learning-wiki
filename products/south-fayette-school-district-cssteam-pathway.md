@@ -29,7 +29,8 @@ A CS/STEAM curriculum pathway developed and implemented by South Fayette School 
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Computational Thinking Pathways](computational-thinking-pathways.md)
 
 ## Key Sources
 - Computing in Rural America: Developing K-8 Coding Pathways for Kentucky Appalachia. (2020). Presentation slides, December 2nd 2020.

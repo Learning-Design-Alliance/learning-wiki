@@ -58,8 +58,10 @@ Quiet spaces work by lowering environmental stimulation during moments of arousa
 6. **Monitor and adjust** — track frequency, duration, and behavior before/after use; if use is rising or always coincides with a particular task, address that task instead.
 
 ## Related Strategies
+
 - [Acoustics and Noise Management](../strategies/acoustics_and_noise_management.md) — reduces the ambient stimulation that makes the quiet space necessary in the first place
 - [Brain Breaks](brain-breaks.md) — scheduled whole-class regulation breaks that reduce demand on the individual quiet space
+- [Add explicit study-skills instruction and dedicated quiet study spaces to prison college programs](study-skills-and-study-space-support-prison-programs.md)
 
 ## Related Elements
 - [Check-In](../elements/check-in.md) — the re-entry routine that converts time away into a self-regulation learning opportunity

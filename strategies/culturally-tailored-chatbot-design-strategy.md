@@ -45,6 +45,7 @@ The authors recommend designing AI chatbot applications differently across cultu
 ## Related Strategies
 
 - [Position AI chatbots for relatedness as companions that normalize help-seeking and connect students to human communities, not substitutes for them](ai-relatedness-companion-not-substitute-strategy.md)
+- [Use background-characteristic evidence to decide when and for whom to deploy game-based learning and whether to tailor instruction](tailor-game-based-learning-to-student-background.md)
 
 ## Examples
 -

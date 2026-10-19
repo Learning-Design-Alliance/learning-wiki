@@ -42,7 +42,9 @@ The report recommends five strategies for state and local chambers of commerce, 
 
 
 ## Related Strategies
-- 
+
+- [Use local resources to serve children birth through age 3 to stabilize community providers as 4-year-olds move into TK](serve-birth-through-3-to-stabilize-providers.md)
+- [Support coordinated enrollment across the mixed delivery system to ensure family choice and provider stability](coordinated-enrollment-mixed-delivery.md)
 
 ## Examples
 -

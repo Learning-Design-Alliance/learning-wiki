@@ -175,6 +175,7 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 
 **[User-Centered Design for Learning](../principles/user-centered-design-for-learning.md)** — applies CLT's extraneous-load concept to interface design: confusing navigation and inconsistent terminology impose extraneous load exactly as an unnecessarily split-attention diagram does.
 - [Manage the three load types: reduce extraneous load, optimize intrinsic load, and increase germane load](../principles/cognitive-load-management.md)
+- [Select interaction types based on content type rather than random variation to preserve format-meaning coherence](../strategies/content-type-based-interaction-selection.md)
 
 ## Key Sources
 - Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science, 12*(2), 257–285. [doi:10.1207/s15516709cog1202_4](https://doi.org/10.1207/s15516709cog1202_4)

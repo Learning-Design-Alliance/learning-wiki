@@ -30,7 +30,8 @@ ICNALE is a controlled learner corpus of argumentative English essays from Asian
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [IELTS Writing Scored Essays Dataset](ielts-writing-scored-essays-dataset.md)
 
 ## Key Sources
 - Hu, C., & Li, Y. (2015). Discourse Connectives in L1 and L2 Argumentative Writing. Higher Education Studies. https://doi.org/10.5539/hes.v5n4p30

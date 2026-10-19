@@ -62,9 +62,11 @@ Cumulative quizzing combines two of the most robust findings in learning science
 7. **Teach learners why** — a brief explanation of the testing and spacing effects improves buy-in and reduces quiz anxiety.
 
 ## Related Strategies
+
 - Spaced repetition scheduling — the item-level algorithmic version of the same principle
 - Interleaved practice — cumulative quizzing's sibling; both force discrimination between topics
 - Feedback-driven review — the corrective loop that makes quiz retrievals safe and productive
+- [Implement weekly low-stakes spaced recall quizzes cycling fundamental concepts monthly, with a plan to address student frustration](weekly-spaced-recall-quiz-strategy-fundamental-concepts.md)
 
 ## Examples
 - **Introductory statistics courses using weekly cumulative quizzes** — a common implementation in discipline-based education research; each quiz samples regression, descriptives, and probability from prior weeks alongside new material.

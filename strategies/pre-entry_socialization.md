@@ -58,8 +58,10 @@ Positive, personal teacher–student interactions at transitions improve engagem
 5. Monitor disruption frequency and engaged time at the start of lessons to evaluate whether the routine is paying off.
 
 ## Related Strategies
+
 - **Relationship-building practices** — pre-entry socialization is the daily, micro-level expression of the broader work of building teacher–student relationships
 - **Proactive classroom management** — positions prevention ahead of consequence-based responses
+- [Exchange personal and biographical information between speaker and students before the telelecture](exchange-personal-information-before-telelecture.md)
 
 ## Examples
 - **[Positive Greetings at the Door](positive-greetings-at-the-door.md) (Cook et al., 2018)** — Middle school teachers greeted each student by name with a brief positive interaction before entry; the intervention increased academic engaged time and reduced disruptive behavior in a controlled study.

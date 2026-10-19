@@ -62,5 +62,7 @@ Dataset scale reported in the Brain Dataset subsection. Two domain experts (E3-E
 
 
 ## Related Claims
+
 - [A DDQN-based attention quantification model trained on multimodal EEG-fNIRS features produces predicted attention levels at one-second temporal resolution](ddqn-multimodal-attention-quantification-accurate-stable.md) — related
 - [Two case studies and expert interviews with six experts demonstrated SAVVY's effectiveness and usability for identifying attention variations and supporting video optimization](savvy-case-studies-expert-interviews-effectiveness.md) — related
+- [Video dataset of 111 hours across one year underpins a 350-minute two-group episode analysis](makerspace-video-dataset-111hours-350min.md)

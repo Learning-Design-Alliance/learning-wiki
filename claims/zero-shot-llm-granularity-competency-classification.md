@@ -62,6 +62,7 @@ Same zero-shot benchmark at binary granularity: the article prints accuracies of
 
 
 ## Related Claims
+
 - [Curricular chain-of-thought prompting improves competency-classification accuracy over zero-shot, with gains concentrated in larger models, while definition-based prompting does not improve performance](curricular-cot-improves-accuracy-larger-models.md) — related
 - [Curriculum document type and competency framework significantly predict LLM prediction accuracy, and zero-shot LLMs systematically overestimate competency coverage](llm-accuracy-regression-overestimation-bias.md) — related
 - [ChatGPT zero-shot relevance extraction for instruction-quality assessment retrieves mostly irrelevant utterances and overestimates instruction quality](chatgpt-zero-shot-relevance-extraction-unreliable.md) — related
@@ -69,3 +70,4 @@ Same zero-shot benchmark at binary granularity: the article prints accuracies of
 - [Gemma and LLaMA produce higher-quality responses than GPT-2 by TIGERSCORE, with accuracy and comprehension gaps remaining](gemma-llama-outperform-gpt2-tigerscore.md) — related
 - Agentic frameworks built on GPT-3.5 and GPT-4 show significant performance gains on the HumanEval benchmark over zero-shot baselines — related
 - [LLMs perform competently at comparing item difficulty but fall below random chance on comparing item discrimination](llms-below-chance-item-discrimination.md) — related
+- [Reviewed studies reported good algorithm accuracy and efficiency for AI in STEM, with performance varying by algorithm and granularity](ai-stem-technological-effects-algorithm-accuracy.md)

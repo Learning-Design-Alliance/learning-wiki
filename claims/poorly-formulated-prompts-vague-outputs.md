@@ -43,4 +43,8 @@ Thematic analysis of reflective essays and both focus group interviews in the ca
 
 
 ## Related Claims
--
+
+- [More than half of participants' ChatGPT queries sought knowledge or advice, with methodological knowledge and classroom management the largest prompt categories](chatgpt-queries-sought-knowledge-advice.md)
+- [Some participants' ChatGPT interactions followed a pattern of inquiry-based learning with iterative prompt refinement](chatgpt-inquiry-based-learning-pattern.md)
+- [Students perceive GenAI-assisted translation as challenged by inadequate outputs, limited prompt engineering, and risks to creativity and employment](genai-translation-challenges-adequacy-prompting.md)
+- [Teacher-AI design collaboration faces recurring challenges including prompt literacy, curriculum misalignment, epistemic uncertainty, and explainability barriers](teacher-ai-codesign-challenges-prompt-literacy-alignment-trust.md)

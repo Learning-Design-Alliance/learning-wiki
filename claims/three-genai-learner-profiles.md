@@ -58,6 +58,7 @@ Stability check splitting the sample into two equal subsamples and repeating k-m
 
 
 ## Related Claims
+
 - [Profiles differ in self-perceived academic skills: Engaged and Literate users report the highest problem-solving and cognitive endurance gains, while Uncritical Reliant users report the highest independent thinking](profile-differences-academic-skills.md) — related
 - [Profiles differ in immediate usage behaviors: Engaged and Literate users verify most, while Skeptical Minimal users report the highest shortcut reliance](profile-differences-usage-behaviors.md) — related
 - [Exploratory K-means clustering identifies four heterogeneous student AI-user profiles differing in experience, competence, usefulness, trust, and control, but the solution's optimality and stability are not established](exploratory-four-cluster-student-ai-profiles.md) — related
@@ -71,3 +72,4 @@ Stability check splitting the sample into two equal subsamples and repeating k-m
 - [Latent Class Analysis identifies six provisional manager typologies with heterogeneous readiness and barrier profiles](six-provisional-manager-typologies-lca.md) — related
 - [Cluster analysis identifies two antagonistic student profiles differing in level of technology-supported self-regulated learning](two-srl-technology-profiles-high-and-low.md) — related
 - [Cluster analysis across both studies identifies three meta-attention knowledge profiles, including an overconfident group with a self-knowledge/strategy mismatch](makq-three-meta-attention-profiles.md) — related
+- [Affinity propagation clustering of gameplay attempts yielded an interpretable six-cluster solution (part.6)](affinity-propagation-six-cluster-solution.md)

@@ -62,4 +62,6 @@ SEM path analysis of the MSLQ model (N = 98); Table 4 reports a standardized est
 
 
 ## Related Claims
--
+
+- [Structural relations exist between students' conceptions of constructivist learning and their regulation and processing strategies](conceptions-constructivist-learning-relate-to-regulation-processing.md)
+- [Students who doubt their own learning capacity are at risk of adopting an inadequate lack-of-regulation strategy](self-perceived-inability-predicts-lack-of-regulation.md)

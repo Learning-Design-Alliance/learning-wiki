@@ -43,4 +43,7 @@ Detailed analysis of Case D, a 50-minute visit with 766 turns of talk. The autho
 
 
 ## Related Claims
--
+
+- [In encounters where both client and worker are predominantly defensive, the learning cycle stalls before implementing, reflecting and consolidating actions](both-defensive-cycles-stall-before-implementation.md)
+- [In 30 home care visits implementing the Mobility Agreement, the most common cycle combination was client-expansive and worker-expansive (40%), yet at least one party was predominantly defensive in 60% of cases](home-care-cycle-combination-distribution.md)
+- [Encounters with a mismatch between client's and worker's learning cycles typically contained all or almost all learning actions of the ideal-typical expansive cycle](mismatched-cycles-produce-fuller-learning-cycles.md)

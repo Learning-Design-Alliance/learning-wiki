@@ -42,6 +42,7 @@ The digest describes the behaviorist model derived from Skinner's operant condit
 
 - [Behaviorism](behaviorism.md)
 - [Gagne's nine Events of Instruction as a lesson-design schema](gagne-nine-events-of-instruction-schema.md)
+- [Reinforcement framework for cognitive learning: imagery as perception-like experience producing learning under ordinary principles](reinforcement-theory-of-cognitive-learning-framework.md)
 
 ## Examples
 

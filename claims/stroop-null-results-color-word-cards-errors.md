@@ -41,4 +41,8 @@ Kruskal–Wallis analyses of the Victoria Stroop test across the four groups fou
 
 
 ## Related Claims
--
+
+- [No significant group differences on Iowa Gambling Task block trends, overall trend, or Decks B, C, and D choices](igt-null-results-blocks-and-decks-bcd.md)
+- [Bully group children make more unfavorable Deck A choices on the Iowa Gambling Task than bully-victim children](bullies-more-unfavorable-igt-deck-a-choices.md)
+- [No significant group difference in working memory as measured by the Digit Span Backward subtest](no-group-difference-working-memory-dsb.md)
+- [Victim group children take longer on Trail Making Test Part B than bullies, indicating lower cognitive flexibility in victims](victims-longer-tmt-b-lower-cognitive-flexibility.md)

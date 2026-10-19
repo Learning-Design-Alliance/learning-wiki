@@ -17,7 +17,7 @@ sources:
 # Provide new and personalized support and policies for students most affected by pandemic disruptions to college enrollment and retention
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report's implications chapter argues that the decline in two-year college enrollment and retention in 2020, especially among students of color, "underscores the need for new and personalized support and policies for the students who may have been most affected by the pandemic." It directs district, higher education, and non-profit partners to support the classes of 2019, 2020, and 2021 through pandemic-disrupted application and enrollment processes.
@@ -35,6 +35,10 @@ The report's implications chapter argues that the decline in two-year college en
 
 ### Target Learning Goals
 - College enrollment and retention through postsecondary transitions
+
+## Claims
+
+- [Latinx two-year college students' spring-to-fall return rates declined most among race/ethnicity and gender groups in 2020](../claims/cps-2020-latinx-two-year-return-declines.md) [+W]
 
 ## Related Strategies
 - 

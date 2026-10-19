@@ -40,7 +40,8 @@ The review recommends that practitioners "design GBA according to their educatio
 - [Ecd Framework Game Based Assessment](../research-methods/evidence-centered-design.md)
 
 ## Related Strategies
-- 
+
+- [Use GBA data to identify perfunctory game moments and redesign them as reflective practices embedded in game-flow](gba-data-informs-reflective-redesign.md)
 
 ## Examples
 -

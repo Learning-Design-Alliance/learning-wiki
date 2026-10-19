@@ -71,3 +71,4 @@ Weighted-points analysis of the same Gradebook data: assessments 4.06 (42.87 vs.
 - [Gender differences in points earned remained statistically significant when comparing students in the same courses with the same weightings](gender-gap-persists-controlling-course-enrollment.md) — related
 - [Gender differences in ninth-grade math grades were similar across racial/ethnic groups, with young men earning fewer points in every group](gender-grade-gap-similar-across-race-ethnicity-ninth-grade-math.md) — related
 - [Prior achievement, attendance, and suspensions do not explain the gender difference in ninth-grade math grades](prior-achievement-attendance-suspensions-do-not-explain-gender-grade-gap.md) — related
+- [Women score lower than men in high-stakes final exams across advanced undergraduate STEM courses, with mean differences of 2.5 to ~7 points on a 100-point scale](gender-gap-high-stakes-exams-advanced-stem.md)

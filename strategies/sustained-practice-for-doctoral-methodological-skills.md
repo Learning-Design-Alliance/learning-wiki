@@ -17,7 +17,7 @@ sources:
 # Sustain doctoral methodological competence through continued practice, feedback, and authentic application rather than isolated short courses
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article recommends that doctoral programs support durable methodological capabilities through ongoing opportunities for technical application, retrieval, and feedback, since a one-shot course produced significant decay within a year. It argues the asymmetry between conceptual and procedural decay "underscores the importance of designing learning experiences that support both durable conceptual frameworks and sustained opportunities for technical application". Traditional isolated methodological courses yield immediate gains but limited long-term retention.
@@ -36,8 +36,16 @@ The article recommends that doctoral programs support durable methodological cap
 ### Target Learning Goals
 - retention of data-visualization competence and other methodological research skills
 
+## Claims
+
+- [The correlation between conceptual understanding and procedural execution weakened over time, becoming largely independent after one year](../claims/conceptual-procedural-correlation-weakens-over-time.md) [+W]
+- [Procedural losses were steepest for axis labeling and annotations, while conceptual losses were steepest for explanation of scales and terminology](../claims/criterion-level-decline-patterns-visualization.md) [+W]
+- [Procedural execution in data visualization declined significantly and more steeply than conceptual understanding over twelve months](../claims/procedural-visualization-execution-decays-faster.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Implement AI-supported STEM instruction through sustained, system-level integration of one to two months or more rather than isolated short interventions](sustained-system-level-ai-integration-stem.md)
+- [Prioritize sustained, pedagogically grounded faculty TPACK development over one-off technology workshops and infrastructure investment](sustained-faculty-tpack-development-programs.md)
 
 ## Examples
 -

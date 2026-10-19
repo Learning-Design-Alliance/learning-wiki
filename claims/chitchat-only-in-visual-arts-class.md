@@ -43,4 +43,5 @@ Narrative analysis of the Grade 10 Visual Arts view (19 students, 292 notes over
 
 
 ## Related Claims
--
+
+- [Only Grade 10 Liberal Studies students engaged in simple argumentation, complex argumentation, and theory-oriented interactions, possibly due to the subject's emphasis on argumentation](argumentation-only-in-liberal-studies.md)

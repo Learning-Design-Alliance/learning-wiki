@@ -43,4 +43,5 @@ Randomised trial comparing week 1 to week 8 score change on the 28-item Resource
 
 
 ## Related Claims
--
+
+- [Playing commercial video games for eight weeks improved self-reported communication skill more than control conditions in a randomised trial of undergraduates](video-games-improve-communication-skill-rct.md)

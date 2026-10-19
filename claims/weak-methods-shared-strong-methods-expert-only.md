@@ -43,4 +43,5 @@ The report attributes this to Glaser et al. (1985), who examined plan generation
 
 
 ## Related Claims
--
+
+- [Successful discoverers regulate learning more systematically, planning experiments and monitoring progress, while unsuccessful learners work unsystematically](regulation-distinguishes-successful-discoverers.md)

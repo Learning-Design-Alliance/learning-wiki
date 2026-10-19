@@ -25,7 +25,8 @@ A UNESCO global standard-setting framework that provides ethical principles and 
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [UNESCO's eight-component GenAI framework](unescos-eight-component-genai-framework.md)
 
 ## Key Sources
 - UNESCO. (2022). Recommendation on the Ethics of Artificial Intelligence. UNESCO. https://www.unesco.org

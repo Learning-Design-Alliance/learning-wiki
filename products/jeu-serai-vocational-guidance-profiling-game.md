@@ -13,7 +13,7 @@ generated:
 # JEU SERAI vocational guidance profiling game
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (1 for, 2 against) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 JEU SERAI is a serious game developed by a consortium of two companies, two universities, and an adult training association that uses mini-games and questionnaires to generate players' Holland RIASEC vocational-interest profiles.
@@ -22,6 +22,10 @@ JEU SERAI is a serious game developed by a consortium of two companies, two univ
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
+- [In JEU SERAI, questionnaire-like in-game items (diary ordering, mini game ranking, narrative questionnaires) correlated best with RIASEC questionnaire results, while other item types correlated poorly](../claims/jeu-serai-item-type-correlation-quality-ranking.md) [+W]
+- [The replay item in JEU SERAI indicated Realistic type affiliation regardless of the anticipated RIASEC type of the mini game replayed](../claims/jeu-serai-replay-item-measures-realistic-affiliation.md) [-W]
+- [Enterprising-type items in JEU SERAI did not work correctly, attributed to panel underrepresentation and weak action-verb rationalization](../claims/jeu-serai-enterprising-items-failed.md) [-W]
 
 ## Related Products and Programmes
 -

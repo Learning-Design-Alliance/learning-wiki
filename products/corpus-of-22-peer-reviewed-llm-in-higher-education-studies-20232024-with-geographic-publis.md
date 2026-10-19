@@ -27,6 +27,7 @@ A curated corpus of 22 English-language peer-reviewed journal studies on direct 
 ## Related Products and Programmes
 
 - [Corpus of 213 peer-reviewed journal articles on AI in business education (Dimensions, 2015–2024)](corpus-of-213-peer-reviewed-journal-articles-on-ai-in-business-education-dimensions-201520.md)
+- [PRISMA 2020 systematic review corpus of 27 studies on AI-based collaborative learning in higher education](prisma-2020-systematic-review-corpus-of-27-studies-on-ai-based-collaborative-learning-in-h.md)
 
 ## Key Sources
 - Martínez-Peláez, R.; Mena, L.J.; Toral-Cruz, H.; Ochoa-Brust, A.; Potes, A.G.; Flores, V.; Ostos, R.; Ramírez Pacheco, J.C.; Félix, R.A.; Félix, V.G. (2025). Can Large Language Models Foster Critical Thinking, Teamwork, and Problem-Solving Skills in Higher Education?: A Literature Review. Systems 2025, 13, 1013. https://doi.org/10.3390/systems13111013

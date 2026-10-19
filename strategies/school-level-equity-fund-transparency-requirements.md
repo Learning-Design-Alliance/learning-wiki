@@ -37,7 +37,8 @@ A fiscal accountability strategy ensuring equity-targeted dollars reach intended
 - Ensuring equity-targeted funding reaches classrooms serving high-need students and building evidence for continued equity-focused investment
 
 ## Related Strategies
-- 
+
+- [State-level advocacy actions to strengthen school improvement supports for identified schools](state-advocacy-actions-school-improvement-supports.md)
 
 ## Examples
 -

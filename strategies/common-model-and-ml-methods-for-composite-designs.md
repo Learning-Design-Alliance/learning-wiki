@@ -40,7 +40,8 @@ The editorial recommends that future research connect multiple studies through a
 - Cid Framework Composite Instructional Designs
 
 ## Related Strategies
-- 
+
+- [Prioritize process-data instrumentation, open collaboration, and dissemination in learning platforms](platform-instrumentation-open-research-recommendations.md)
 
 ## Examples
 -

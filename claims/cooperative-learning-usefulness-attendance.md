@@ -62,4 +62,5 @@ Attendance counts reported for Contemporary Biology after implementing graded co
 
 
 ## Related Claims
--
+
+- [Test questions reinforced by Warm Up questions or Cooperative Learning activities showed higher average normalized gains (~52%, ~60%) than questions discussed in class only (~15%)](jitt-higher-normalized-gains-reinforced-questions.md)

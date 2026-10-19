@@ -37,7 +37,8 @@ The article reports evidence that a surface approach to learning (shallow inform
 - reducing burnout and protecting academic achievement
 
 ## Related Strategies
-- 
+
+- [Combine individual and organisational interventions, plus burnout awareness-raising, to protect achievement](combined-individual-organisational-burnout-interventions.md)
 
 ## Examples
 -

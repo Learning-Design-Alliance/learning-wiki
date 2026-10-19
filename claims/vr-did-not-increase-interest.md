@@ -62,4 +62,7 @@ Exploratory subgroup breakdown (Benjamini–Hochberg corrected) over six school-
 
 
 ## Related Claims
--
+
+- [Neither the VR application nor the traditional lesson produced a significant positive change in pro-environmental attitudes](no-attitude-change-either-condition.md)
+- [Both a VR application and a traditional lesson increased students' self-appraised knowledge about the Amazon rainforest and biodiversity](vr-and-traditional-lesson-increase-self-appraised-knowledge.md)
+- [Knowledge-test scores differed strongly between German school types, with academic-track students scoring highest](knowledge-test-school-type-differences.md)

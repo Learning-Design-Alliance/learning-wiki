@@ -12,7 +12,7 @@ generated:
 # Group disciplinary engagement (GDE) framework
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The GDE framework conceptualizes engagement at the group rather than individual level, extending productive disciplinary engagement (Engle & Conant) with a situative perspective. The authors "define group's productive engagement as joint participation (behaviorally engaged) with a positive and inclusive interpersonal climate (socio-emotionally engaged), which together provide as an initial foundation to enable joint knowledge co-construction (collaborative engagement)", plus metacognitive and disciplinary engagement. Engagement is treated as co-negotiated norms unfolding dynamically over time and situated in curriculum, task, and instructional contexts.
@@ -22,6 +22,8 @@ The GDE framework conceptualizes engagement at the group rather than individual 
 - **Group disciplinary engagement (GDE) framework: engagement as collective, multidimensional, dynamic, and contextualized**: The GDE framework conceptualizes engagement at the group rather than individual level, extending productive disciplinary engagement (Engle & Conant) with a situative perspective. The authors "define group's productive engagement as joint participation (behaviorally engaged) with a positive and inclusive interpersonal climate (socio-emotionally engaged), which together provide as an initial foundation to enable joint knowledge co-construction (collaborative engagement)", plus metacognitive and disciplinary engagement. Engagement is treated as co-negotiated norms unfolding dynamically over time and situated in curriculum, task, and instructional contexts. (Rogat et al. (2026))
 
 ### Claims
+
+- [Group engagement dimensions are positively interrelated concurrently, except socioemotional engagement](../claims/gde-dimensions-positively-interrelated-except-se.md) [+W]
 
 ## Related Research Methods
 -

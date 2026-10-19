@@ -43,9 +43,11 @@ Observational comparison of CPS graduation cohorts' outcomes six years after hig
 
 
 ## Related Claims
+
 - Among 2014 CPS graduates who immediately enrolled in college, 46% completed a credential within six years, with large gaps by enrollment pathway — related
 - [Four-year college graduation rates remained flat at about 49 percent for direct four-year enrollees, with much lower rates for two-year (8 percent) and delayed enrollees (4 percent)](cps-four-year-graduation-flat-49-percent.md) — possibly the same claim (merge candidate)
 - [Delaying college enrollment was associated with low completion: only 8 percent of CPS students who delayed completed a degree or credential within six years](delayed-enrollment-lower-completion.md) — related
 - [Six-year college completion among the CPS class of 2015 varied sharply by enrollment pathway: 55.8% for immediate four-year enrollees, 32.5% for immediate two-year enrollees, and 7.8% for delayed/non-enrollees](cps-college-completion-2015-pathways.md) — related
 - [Immediate four-year enrollees were far more likely than immediate two-year enrollees to complete a four-year degree within six years (48 percent vs 7 percent)](four-year-immediate-enrollment-completion-advantage.md) — related
 - OneGoal students are 40% more likely to earn postsecondary degrees than students from similar backgrounds, per a University of Chicago study — related
+- [Among the CPS class of 2009, 76 percent enrolled in college within six years, and delayed entry was concentrated among two-year starters rather than four-year starters](delayed-enrollment-concentrated-two-year-starters-2009.md)

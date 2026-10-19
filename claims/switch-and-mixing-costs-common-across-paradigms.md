@@ -62,4 +62,13 @@ The review reports, citing numerous studies, that "performance is worse in mixed
 
 
 ## Related Claims
--
+
+- [Language proficiency moderates switch cost asymmetry, but highly proficient bilinguals still show n-2 language repetition costs consistent with inhibition](proficiency-moderates-switch-cost-asymmetry.md)
+- [Asymmetrical switch costs are not an unambiguous marker of inhibition: they depend on task type and bilingual profile, and admit non-inhibitory explanations](asymmetrical-switch-costs-not-unambiguous-inhibition-marker.md)
+- [Concept preparation reduces L1 switch costs, indicating language control can initiate at the concept level](concept-preparation-reduces-l1-switch-costs.md)
+- [N-2 language repetition costs are a less ambiguous marker of inhibition in language switching, though their pattern across languages is inconsistent](n2-language-repetition-costs-inhibition-marker.md)
+- [Orthographic specificity moderates comprehension-based switching costs: language-specific orthography can abolish or alter mixing and switch costs](orthography-role-in-comprehension-switching.md)
+- [Phonological processing is affected by and affects language control in switching, though effects are not uniform across studies](phonology-role-in-language-control.md)
+- [Sentence-level (lemma) processing affects language switching: switch costs occur between sentences and depend on syntactic structure](sentence-processing-affects-language-switching.md)
+- [Bilingually educated high-school students show smaller switching costs (greater cognitive flexibility) than regularly educated peers](bilingual-education-smaller-switching-costs.md)
+- [Bilingual 8-year-olds show no switching cost between blocked and mixed trial blocks, unlike monolinguals](bilingual-children-no-switching-cost-faces-task.md)

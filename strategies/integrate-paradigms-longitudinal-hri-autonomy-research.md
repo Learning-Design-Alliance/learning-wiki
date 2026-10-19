@@ -17,7 +17,7 @@ sources:
 # Integrate autonomy and agency paradigms, standardise instruments, probe non-demographic moderators, and extend evaluations to longitudinal real-world settings
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review derives four research and design recommendations for advancing autonomy-supportive robot design: integrating autonomy and agency paradigms in study designs, standardising definitions and instruments, probing moderating user traits beyond demographics, and extending evaluations beyond short laboratory tasks into longitudinal, real-world settings. The authors state these steps "could help advance autonomy-supportive robot design strategies that uphold ethical and psychological principles and foster user well-being in HRI."
@@ -36,8 +36,15 @@ The review derives four research and design recommendations for advancing autono
 ### Target Learning Goals
 - Fostering human autonomy and sense of agency, and user well-being, in human-robot interaction
 
+## Claims
+
+- [Robot exposure affects human autonomy and sense of agency, but no general conclusion about the direction of the effect can be drawn](../claims/robot-exposure-mixed-direction-autonomy-agency.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Prioritize inclusive-by-design architectures, interoperable agent frameworks, human-AI collaboration models, and real-world implementation studies](future-directions-inclusive-by-design-agentic-ai.md)
+- [Prioritise longitudinal validation, pedagogical grounding, governed adoption of agent infrastructures, and ethics with human oversight in educational agentic AI research](agentic-ai-education-future-priorities.md)
+- [Advance AI-motivation research through theory-driven, pedagogically explicit, longitudinal designs covering broader motivational constructs](future-ai-motivation-research-recommendations.md)
 
 ## Examples
 -

@@ -43,4 +43,5 @@ The editorial reports, citing Jaber (2021) and Jaber et al. (2022, 2024), that s
 
 
 ## Related Claims
--
+
+- [The role of affect in STEM teacher learning remains seriously underexplored despite growing research on teacher emotion](affect-in-stem-teacher-learning-underexplored.md)

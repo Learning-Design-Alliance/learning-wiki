@@ -46,6 +46,7 @@ The article recommends measuring inhibition with both experimental tasks and tea
 - [Evaluate AI literacy interventions with behavioral measures of LLM interaction in addition to self-reports](behavioral-measures-for-ai-literacy-evaluation.md)
 - [Future CB-PA research and practice should use standardized, ecologically valid outcome measures, objective activity parameters, and longitudinal designs](standardized-ecologically-valid-cbpa-measures-strategy.md)
 - [Assess executive functions in group-based naturalistic school settings rather than individualized lab-like sessions](group-based-ef-assessment-in-naturalistic-school-settings.md)
+- [Three development directions for observational self-regulation measures: broader behaviors, cross-context observability, and clear operational definitions](observational-tool-development-three-directions.md)
 
 ## Examples
 -

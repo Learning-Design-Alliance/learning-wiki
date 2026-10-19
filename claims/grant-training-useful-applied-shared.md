@@ -43,4 +43,9 @@ Educator survey from the District-Charter Collaboration Grant evaluation. Respon
 
 
 ## Related Claims
+
 - ADK program teachers rated the four September 1992 inservice meetings very positively, averaging 4.7 on a 5-point scale — related
+- [In cities with individually targeted grant activities, more than three-quarters of grant participants collaborated across sectors](individual-targeted-grants-three-quarters-cross-sector.md)
+- [In schoolwide grant-activity cities, about half of surveyed educators collaborated with educators from the opposite sector](schoolwide-grant-half-collaborated-across-sector.md)
+- [Cross-sector leadership programs were widely viewed as the most successful collaboration grant activities, while limited grant time period and scope and lack of goal clarity hindered implementation](leadership-programs-most-successful-grant-activities.md)
+- [Compact collaboration activities did not yield systemic change within the grant period but were perceived to have produced small-scale improvements in instructional quality and human capital practices and increased availability of school effectiveness information](compact-activities-small-scale-improvements-not-systemic-change.md)

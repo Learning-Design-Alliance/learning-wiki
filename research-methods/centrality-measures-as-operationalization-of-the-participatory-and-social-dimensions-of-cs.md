@@ -27,7 +27,9 @@ The article organizes SNA-based CSCL measurement around two dimensions. The part
 - [Betweenness centrality shows the least consistent correlation with performance, being largely insignificant or negative across configurations except in one course](../claims/betweenness-centrality-least-consistent.md) [~M]
 
 ## Related Research Methods
--
+
+- [Diffusion-based centrality framework for measuring uptake in CSCL discourse](diffusion-based-centrality-framework-for-measuring-uptake-in-cscl-discourse.md)
+- [Detailed methodological reporting for social network analysis in learning analytics](detailed-methodological-reporting-for-social-network-analysis-in-learning-analytics.md)
 
 ## Key Sources
 - Mohammed Saqr, et al. (2020). Capturing the participation and social dimensions of computer-supported collaborative learning through social network analysis: which method and measures matter? International Journal of Computer-Supported Collaborative Learning 15:227–248. https://doi.org/10.1007/s11412-020-09322-6

@@ -43,6 +43,7 @@ Descriptive analysis of November 2020 National Student Clearinghouse data for CP
 
 
 ## Related Claims
+
 - Immediate college enrollment declined from 62 percent for the CPS class of 2019 to 58 percent for the class of 2020, driven more by the drop in two-year than four-year enrollment — a broader claim this one bears on
 - Two-year enrollment declines were concentrated among Black and Latinx CPS graduates, while four-year rates held steady for these groups — related
 - CPS graduates in four-year colleges were slightly more likely to continue from spring to fall 2020 (80.6%) than in 2019 (79.0%) — related
@@ -51,3 +52,4 @@ Descriptive analysis of November 2020 National Student Clearinghouse data for CP
 - Two-year college enrollment rates sharply declined between 2019 and 2020 for CPS graduates in all disability categories — related
 - Among the CPS class of 2022, 60.8% immediately enrolled in college; four-year enrollment recovered to pre-pandemic levels while two-year enrollment only began recovering in 2022 — related
 - [CPS immediate college enrollment rate outperforms the most recent national rate by 5 percentage points (66% vs. 61%)](cps-college-enrollment-beats-national-5-points.md) — related
+- [The proportion of CPS graduates enrolling immediately in college rose gradually to 63 percent by 2018, with persistent disparities by race/ethnicity and gender](cps-immediate-college-enrollment-rose-to-63-percent-2018.md)

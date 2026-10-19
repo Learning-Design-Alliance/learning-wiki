@@ -43,5 +43,7 @@ This is the authors' analytical argument about their own proposed metric, not an
 
 
 ## Related Claims
+
 - Few AIED 2025 papers report computational costs or discuss environmental impacts, and reporting is non-standardized — related
 - Training large AI models carries substantial environmental and human labor costs — related
+- [The review reports that training a single deep learning model may have a carbon footprint comparable to several automobiles over their lifespan](deep-learning-training-carbon-footprint-comparable-automobiles.md)

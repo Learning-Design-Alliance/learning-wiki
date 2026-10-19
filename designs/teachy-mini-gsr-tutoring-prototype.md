@@ -41,7 +41,8 @@ Teachy Mini is a generative social robot tutoring prototype built on the open-so
 - [Kbd Manipulation Check Behavioral Differences Transcripts](../claims/kbd-manipulation-check-behavioral-differences-transcripts.md) [+M]
 
 ## Related Designs
-- 
+
+- [RALL-E robot-assisted language learning prototype](ralle-robot-language-learning-prototype.md)
 
 ## Examples
 -

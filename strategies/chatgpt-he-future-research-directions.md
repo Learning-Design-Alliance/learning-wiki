@@ -38,7 +38,11 @@ The review sets out directions for future research in higher education as part o
 - building an evidence base on ChatGPT use and impact in higher education
 
 ## Related Strategies
-- 
+
+- [Prioritise longitudinal validation, pedagogical grounding, governed adoption of agent infrastructures, and ethics with human oversight in educational agentic AI research](agentic-ai-education-future-priorities.md)
+- [Prioritize real-world testing of AI tools in university settings, environmental impact measurement, and integrated ethical-sustainability policies](test-ai-tools-real-university-settings-measure-impact.md)
+- [Evaluate GenAI declaration frameworks empirically and pair them with institutional guidance on which tools are in scope](evaluate-genai-declarations-and-scope-guidance.md)
+- [Future shared story reading research should extend to nonfiction texts, inclusive settings, and include practicality statements](shared-story-reading-future-research-directions.md)
 
 ## Examples
 -

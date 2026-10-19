@@ -25,7 +25,8 @@ Khurana et al.'s openly released Kaggle datasets contain raw EEG recordings and 
 
 
 ## Related Products and Programmes
--
+
+- [EEG familiarity benchmark dataset and evaluation framework (3960 samples, 23 participants, two validation protocols)](eeg-familiarity-benchmark-dataset-and-evaluation-framework-3960-samples-23-participants-tw.md)
 
 ## Key Sources
 - Kashika Khurana and Ally Liew. (2026). An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in high school students. https://www.kaggle.com/datasets/allyliew/participant-data

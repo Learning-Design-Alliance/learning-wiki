@@ -43,4 +43,6 @@ SEM path analysis of fifth-grade data (n = 213) showed knowledge directly predic
 
 
 ## Related Claims
--
+
+- [Epistemic beliefs about the development of scientific knowledge directly predict domain knowledge in science across grades 5, 8, and 11](development-epistemic-beliefs-predict-science-knowledge.md)
+- [Performance-avoidance goals negatively predict both self-concept and self-efficacy across all three grade levels](performance-avoidance-goals-negative-self-beliefs.md)

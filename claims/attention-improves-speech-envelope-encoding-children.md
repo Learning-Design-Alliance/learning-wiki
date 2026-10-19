@@ -43,4 +43,5 @@ Mixed-effects analysis of mTRF reconstruction accuracy (Pearson's r) from 48 chi
 
 
 ## Related Claims
--
+
+- [Attention and self-regulation skills are trainable in children, with reported behavioral and neural changes across curricula and intervention programs](attention-training-interventions-evidence-note.md)

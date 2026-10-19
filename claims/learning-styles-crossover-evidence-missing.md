@@ -43,4 +43,5 @@ Systematic literature search conducted by the review team for studies providing 
 
 
 ## Related Claims
--
+
+- [Visualizer–Verbalizer Questionnaire scores did not predict modality-specific free recall; visual presentation aided recall overall](constantinidou-baker-vvq-no-recall-relation.md)

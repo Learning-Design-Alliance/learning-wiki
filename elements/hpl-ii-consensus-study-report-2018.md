@@ -48,7 +48,8 @@ The featured publication of this activity is "How People Learn II: Learners, Con
 - [Sponsor consortium of seven funders supporting the study](hpl-ii-sponsor-consortium.md)
 
 ## Examples
--
+
+- [Specify directions for strategic investments in research and development to support learning](../strategies/hpl-ii-strategic-rd-investment-directions.md)
 
 ## Key Sources
 - National Academies of Sciences, Engineering, and Medicine. (2018). How People Learn II: Learners, Contexts, and Cultures. Consensus Study Report. https://www.nationalacademies.org/publications/24783

@@ -43,4 +43,8 @@ The review reports this study of university website design across cultures as ev
 
 
 ## Related Claims
+
 - [Cultural diversity does not increase schoolchildren's creativity when a divisional mindset emphasizing group distinctions is salient](divisional-mindset-nullifies-diversity-creativity-effect.md) — related
+- [Integrating culture in ICT design serves a broader scope than current methods recognise, from culture-neutral to culture-specific](culture-integration-broader-scope-than-current-methods.md)
+- [Hofstede's five-dimension cultural model is frequently mapped as a guide to user interface design in HCI](hofstede-five-dimensions-guide-ui-design.md)
+- [Preferred emphasis between the two Amico modes differed by context: Italian participants emphasized reflective dialogue while Chinese participants emphasized relational harmony, with AmicoMio valued for technical reliability](amico-cross-context-mode-preferences-differ.md)

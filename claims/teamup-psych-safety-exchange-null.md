@@ -43,4 +43,6 @@ Correlation analysis at team level (N=106) relating post-game questionnaire cons
 
 
 ## Related Claims
--
+
+- [TEAMUP in-game performance varies widely across teams, with errors ranging from 2 to 37](teamup-performance-wide-distribution.md)
+- [In-game time and distance are not very useful indicators of team quality because they are largely driven by team structure](teamup-time-distance-poor-quality-indicators.md)

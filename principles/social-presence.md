@@ -159,6 +159,7 @@ Perceived presence, participation, satisfaction, persistence and individual lear
 ## Examples
 
 - [Use personal progress messages, real-world examples, and reflection assignments to support online course satisfaction](../strategies/personal-messages-real-world-examples-reflection-online.md)
+- [Instructors apply chatbots to support goal setting and social presence in fully online activities](../strategies/instructor-strategy-chatbots-goal-setting-social-presence.md)
 
 ### Validated
 - Richardson, Maeda, Lv & Caskurlu (2017) meta-analyzed 51 studies of online courses and found social presence significantly related to student satisfaction (r ≈ .54) and perceived learning (r ≈ .45), with instructor presence behaviors among the strongest predictors [+S].

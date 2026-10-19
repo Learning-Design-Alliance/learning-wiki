@@ -30,7 +30,9 @@ Renzulli Learning is a cloud-based personalized-learning platform developed and 
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Beable](beable.md)
+- [Learner Variability Project](learner-variability-project.md)
 
 ## Key Sources
 - Renzulli Learning. (2024). Renzulli Learning program description. https://renzullilearning.com/en/Menus/21-technology

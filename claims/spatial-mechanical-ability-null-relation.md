@@ -43,4 +43,7 @@ In the main study (N = 88), mechanical ability (MeTeV, 12 motion verification ta
 
 
 ## Related Claims
--
+
+- [Learning from an animation is significantly more successful than learning from static pictures when identifying the specific motions of a gear mechanism's links](animation-beats-static-pictures-for-identifying-motions.md)
+- [Visualization format has a large multivariate and univariate effect on identifying motions and spatial arrangements](manova-omnibus-visualization-format-effect.md)
+- [Learning from a single static picture is significantly more successful than learning from an animation or four pictures when identifying spatial arrangements of joined links](single-picture-beats-animation-for-spatial-arrangements.md)

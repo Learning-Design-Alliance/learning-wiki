@@ -62,8 +62,10 @@ The review reports Veenman and Elshout's cross-study comparison, finding working
 
 
 ## Related Claims
+
 - [Scaffolded task progression shifts novice reasoning from local completion toward diagnosis and systematic debugging as task demands increase](scaffolded-task-progression-diagnostic-shift.md) — related
 - [PIA groups follow a strategic generate-options-to-implement cycle with fewer random idea attempts, while TFA groups loop through repeated metacognitive interactions and unproductive idea testing](pia-strategic-cycle-tfa-random-ideas.md) — related
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — a broader claim this one bears on
 - [Successful and unsuccessful listening performance in this study is associated with learners' strategic behaviour rather than with heritage or non-heritage status](strategy-use-not-group-status-explains-listening-success.md) — related
 - [Process models of successful students come closer to self-regulated learning theory expectations than those of unsuccessful students, who do not evaluate their learning](process-mining-successful-unsuccessful-srl-models.md) — related
+- [The report attributes to Glaser et al. (1985) that skilled and less skilled avionics technicians generated plans equally often but differed in plan quality, with experts deploying domain-particularized strong methods](weak-methods-shared-strong-methods-expert-only.md)

@@ -40,7 +40,8 @@ The paper recommends that educators give architects specifications describing in
 - [Goals Methods Facilities Planning Model](../theories/goals-methods-facilities-planning-model.md)
 
 ## Related Strategies
-- 
+
+- [Select a few goals per course rather than all-inclusive goal statements when designing facilities](select-few-goals-for-facility-design.md)
 
 ## Examples
 -

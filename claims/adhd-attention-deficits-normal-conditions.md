@@ -43,4 +43,5 @@ Simple main effects from the mixed-design MANOVA comparing 30 ADHD and 30 TD chi
 
 
 ## Related Claims
--
+
+- [Children with ADHD show higher external regulation, introjected regulation and amotivation, and lower intrinsic motivation and identified regulation, toward learning than TD children](adhd-motivation-profile-sdt-dimensions.md)

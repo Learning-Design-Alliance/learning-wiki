@@ -62,4 +62,5 @@ The review attributes this to Jamain (2019), a follow-up study with 13 primary s
 
 
 ## Related Claims
--
+
+- [The KEI threshold was accurate for the cohort despite large individual-level prediction errors (53% of proficient and 73% of non-proficient students correctly classified)](kei-threshold-individual-prediction-errors-large.md)

@@ -62,4 +62,6 @@ Supervised class-based TF-IDF analysis showed incorrect or AI-attributing judgme
 
 
 ## Related Claims
--
+
+- [Judgment-truth dissociation: the same cues that predict ground-truth identity are only weakly incorporated into explicit identity judgments](judgment-truth-dissociation-cues.md)
+- [Representational similarity analysis shows identity judgments are organised around subjective impressions, orthogonal to diagnostic cue structure](representational-dissociation-subjective-impressions.md)

@@ -43,4 +43,6 @@ Narrative synthesis of correlational survey studies (theme four); the review rep
 
 
 ## Related Claims
--
+
+- [Affiliative humour is associated with positive classroom climate, enjoyment and willingness to participate among adolescent students](affiliative-humour-positive-classroom-outcomes.md)
+- [Aggressive humour has mixed effects on adolescent students' educational experiences, with reported increases in anger, boredom and resistance but some students reporting sarcasm improved rapport](aggressive-humour-mixed-student-effects.md)

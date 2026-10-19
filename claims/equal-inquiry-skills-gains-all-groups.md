@@ -43,4 +43,5 @@ Four-level null model for inquiry skills from the same study, measured by a rubr
 
 
 ## Related Claims
--
+
+- [General-track students reported significantly lower initial interest in science than science-track students, with no difference in interest gain](general-track-lower-initial-interest.md)

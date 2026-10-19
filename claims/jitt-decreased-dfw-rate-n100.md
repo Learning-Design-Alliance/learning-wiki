@@ -43,4 +43,7 @@ Course-level retention comparison reported for Contemporary Biology N100 before 
 
 
 ## Related Claims
--
+
+- [Optional 'What is Biology Good For?' essays achieved >75% weekly participation and >90% of students reported they made science relevance clear](good-for-essays-relevance-motivation.md)
+- [Students self-reported less cramming and more class preparation in the JiTT course than in their non-JiTT courses, except students receiving D or F grades](jitt-improves-study-habits-self-report.md)
+- [Test questions reinforced by Warm Up questions or Cooperative Learning activities showed higher average normalized gains (~52%, ~60%) than questions discussed in class only (~15%)](jitt-higher-normalized-gains-reinforced-questions.md)

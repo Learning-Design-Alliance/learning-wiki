@@ -43,4 +43,5 @@ Evaluation of phase one of the Knowledge-Building Teacher Network comparing teac
 
 
 ## Related Claims
--
+
+- [Scaling up educational innovation requires attention to breadth of use, depth of understanding, sustainability, and teachers' ability to refine the innovation](scaling-up-dimensions-breadth-depth-sustainability.md)

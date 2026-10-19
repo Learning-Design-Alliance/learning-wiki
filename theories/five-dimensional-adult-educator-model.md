@@ -41,6 +41,7 @@ The adult educator is a professional who seeks to develop the educational potent
 
 - [Wilson et al.'s five functions of the adult educator committed to experiential approaches](five-functions-experiential-adult-educator.md)
 - [Two-dimensional model of group growth (community problems and group problems, with growth, regression, and plateaus)](two-dimensional-group-growth-model.md)
+- [Hierarchy of four educator styles: information provider, facilitator, demonstrator, and doer](four-educator-styles-hierarchy.md)
 
 ## Examples
 

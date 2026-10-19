@@ -52,6 +52,8 @@ The article introduces a multi-stage methodological framework for qualitative an
 - [Instruction-guided LLM annotation with human-in-the-loop prompt refinement for large-scale interaction labeling](../strategies/instruction-guided-llm-annotation-interaction-labels.md)
 - [Design AI decision-support systems that are transparent, context-sensitive, and hybrid-intelligence oriented](../strategies/design-transparent-context-sensitive-hybrid-intelligence-decision-support.md)
 - [Closed-loop qualitative coding mechanism for student mental health interviews](../elements/closed-loop-qualitative-coding-mechanism-mental-health-survey.md)
+- [Interpretable decision layer for outcome-independent coordination of teacher and student feedback](../designs/interpretable-decision-layer-feedback-mediation.md)
+- [Six discourse functions mapped onto inquiry-based knowledge construction categories](../research-methods/six-discourse-functions-mapped-onto-inquiry-based-knowledge-construction-categories.md)
 
 ## Key Sources
 - Teresa M. Ober, Karyssa A. Courey, Michael Flor. (2026). Integrating Topic Modeling and LLM Prompt Engineering into a Human-driven Approach to Analyze Interview Transcripts. Journal of Educational Data Mining, Volume 18, No 1. https://jedm.educationaldatamining.org/index.php/JEDM/article/view/1008

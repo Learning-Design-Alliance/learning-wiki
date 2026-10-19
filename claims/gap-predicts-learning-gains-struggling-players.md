@@ -43,6 +43,8 @@ Log-file analysis of 70 8th and 9th grade students who played Newton's Playgroun
 
 
 ## Related Claims
+
 - [The GAP correlates with an independent performance-based persistence measure and with physics post-test scores, supporting construct validity](gap-construct-validity-persistence-measures.md) — a broader claim this one bears on
 - [Gender, gaming frequency, and physics knowledge were not significant predictors of persistence](null-student-predictors-persistence.md) — related
 - [The usefulness of the GAP depends on players being sufficiently challenged in the game](gap-usefulness-depends-on-challenge.md) — related
+- [Creativity estimate significantly predicts physics learning and game enjoyment](creativity-predicts-learning-enjoyment.md)

@@ -43,4 +43,5 @@ The review reports Adi-Japha et al. (2007)'s study of ADHD children: "clinically
 
 
 ## Related Claims
--
+
+- [Middle school's escalated executive function demands cause a crash for students with ADHD/EDF, and 504 plans rarely meet EDF needs](middle-school-ef-demands-crash-504-inadequate.md)

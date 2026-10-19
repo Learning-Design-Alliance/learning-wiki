@@ -41,6 +41,7 @@ Item-level analysis of the concluding survey (Likert scale 1–10) administered 
 
 
 ## Related Claims
+
 - [Survey items on critical evaluation and validation of ChatGPT outputs (Q11–Q13) received the lowest scores in both courses despite explicit validation instructions](critical-evaluation-items-lowest-scores.md) — related
 - [In a voluntary group survey, all 12 module-activity items had a median of 4, with M5 implementation items rated highest](survey-positive-learning-value-m5-highest.md) — related
 - [Students in the mathematics and data science course rated acceptance of the AI tool higher on average than students in the biology course](math-course-higher-ai-acceptance-than-biology.md) — related
@@ -53,3 +54,4 @@ Item-level analysis of the concluding survey (Likert scale 1–10) administered 
 - [Voluntary classroom uptake of teacher-assigned AI discussions was high on average (85.0% classroom participation) but heterogeneous across teachers and discussions](high-but-heterogeneous-voluntary-ai-discussion-uptake.md) — related
 - [Teachers rated ChatGPT as improving lesson-planning efficiency, especially reducing planning time (average 4.2 on a 5-point scale)](chatgpt-improves-lesson-planning-efficiency-ratings.md) — related
 - [Preservice educators rate generative AI highest for logistical support (time saving, clarity, organizing thought) and lowest for epistemic trust, accuracy and consistency](preservice-educators-rate-ai-logistics-high-trust-low.md) — related
+- [Assignment support was the highest-rated Class Companion function (83% Effective/Very Effective, M = 3.38), while assessing knowledge and skills was the lowest (71%)](assignment-support-highest-rated-ai-companion-function.md)

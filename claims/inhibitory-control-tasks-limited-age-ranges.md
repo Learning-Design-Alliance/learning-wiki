@@ -43,5 +43,7 @@ Meta-analysis of 198 studies (327 study-by-measure combinations) computing perce
 
 
 ## Related Claims
+
 - [Performance on inhibitory control measures improves with age, with some tasks reaching performance plateaus beginning around 4 years of age](inhibitory-control-performance-improves-plateaus-age-4.md) — related
 - [The Shape Stroop, Bear/Dragon, and Tower tasks showed a pronounced drop in average performance from about 25 to 30 months of age, possibly reflecting systematic missingness rather than declining ability](inhibitory-tasks-performance-drop-25-30-months.md) — related
+- [BRIEF, CBCL, SDQ, and CBQ were the most frequently used measures across included studies](sr-most-used-measures-brief-cbcl-sdq-cbq.md)

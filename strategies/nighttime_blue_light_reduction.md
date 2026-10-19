@@ -63,6 +63,7 @@ Sleep deprivation and fragmentation degrade attention, working memory, and conso
 - [Acoustics and Noise Management](acoustics_and_noise_management.md) — the companion environmental strategy; both treat the study/sleep environment as a learning variable
 - [Achievable Micro-Goals](achievable_micro-goals.md) — small, specific behavioral targets ("devices out of bedroom by 10 pm") succeed where vague goals fail
 - [Daytime Blue Light Exposure](daytime_blue_light_exposure.md)
+- [Maintain a regular sleep schedule for children so that every night counts for morning cognitive performance](regular-sleep-schedule-every-night-counts.md)
 
 ## Examples
 - **Sleep-education curricula** such as the "Sleep for Success" programs used in school health courses teach circadian basics alongside screen-time reduction, with measurable gains in sleep duration [+W]

@@ -13,7 +13,7 @@ generated:
 # PSP-1
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 PSP-1 is a Croatian standardized behavioral test battery developed for screening auditory processing skills and auditory processing disorder in children aged 5.5–11.5 years.
@@ -23,7 +23,11 @@ PSP-1 is a Croatian standardized behavioral test battery developed for screening
 - **PSP-1 test battery for screening auditory processing disorder in Croatian children**: The PSP-1 is a standardized behavioral test battery for screening auditory processing disorder in Croatian children. The article states it "contains four subtests – filtered words, speech in noise, competing (dichotic) words, and competing (dichotic) sentences" and is "the only standardized behavioral assessment of auditory processing skills for children aged 5.5 – 11.5 years in Croatia." Subtests use recorded Croatian speech stimuli presented at 65 dB SPL in a 35–45 minute individual session. (Iva I. Hrastinski et al. (2023))
 
 ### Claims
+
 - [Approximately 2.9% of Croatian grade 1–4 pupils meet diagnostic criteria for auditory processing disorder on the PSP-1 screening battery](../claims/psp1-screening-apd-prevalence-2-9-percent.md) [+M]
+- [Dichotic listening subtests were the most challenging PSP-1 tasks, especially for children with auditory processing difficulties](../claims/dichotic-listening-tasks-most-challenging-psp1.md) [+W]
+- [PSP-1 performance increases with age across grades 1–4, with significant differences between adjacent age groups on total score](../claims/psp1-performance-increases-with-age.md) [+W]
+- [Teacher ratings of language and reading skills correlate significantly with PSP-1 total scores, whereas grade point average does not](../claims/teacher-ratings-correlate-psp1-gpa-does-not.md) [+W]
 
 ## Related Products and Programmes
 -

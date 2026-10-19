@@ -59,9 +59,11 @@ Well-designed performance tasks sit at the intersection of [Authentic Assessment
 6. **Pilot and calibrate scoring.** Test the task, have multiple raters score sample work, and revise the rubric where judgments diverge.
 
 ## Related Strategies
+
 - [Case-Based Learning](case-based-learning.md) — a common performance-task format built around realistic cases
 - [Project-Based Learning](project-based-learning-pbl.md) — extended performance tasks organized around a driving question and product
 - [Portfolio Assessment](portfolio-assessment.md) — aggregates performance evidence across tasks over time
+- [Federal policy should support authentic performance assessments used for improvement rather than punishment](federal-authentic-assessment-for-improvement.md)
 
 ## Examples
 - **[4C/ID](../patterns/4cid-four-component-instructional-design.md)** — whole learning tasks are the organizing unit; performance task design governs task-class sequencing from simple to complex with fading support.

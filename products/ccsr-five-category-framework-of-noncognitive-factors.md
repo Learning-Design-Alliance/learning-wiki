@@ -48,7 +48,8 @@ A research-synthesis framework developed by the University of Chicago Consortium
 - [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](../claims/growth-mindset-improves-achievement.md) [~M]
 
 ## Related Products and Programmes
--
+
+- [Mirenda's four-aspect framework for classroom participation](mirendas-four-aspect-framework-for-classroom-participation.md)
 
 ## Key Sources
 - Jenny Nagaoka, Camille A. Farrington, Melissa Roderick, Elaine Allensworth, Tasha Seneca Keyes, David W. Johnson, and Nicole O. Beechum. (2013). Readiness for College: The Role of Noncognitive Factors and Context. VUE (Voices in Urban Education), Fall 2013. https://www.annenberginstitute.org

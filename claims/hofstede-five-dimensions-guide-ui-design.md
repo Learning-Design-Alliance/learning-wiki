@@ -43,4 +43,6 @@ Narrative review section on HCI. The review reports that designers use 'models o
 
 
 ## Related Claims
+
 - [Integrating culture in ICT design serves a broader scope than current methods recognise, from culture-neutral to culture-specific](culture-integration-broader-scope-than-current-methods.md) — related
+- [Cross-cultural study of university websites found similar technical features and audience-significant cultural emphases](callahan-university-websites-similar-features.md)

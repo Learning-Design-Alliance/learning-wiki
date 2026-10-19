@@ -206,6 +206,7 @@ This pattern is scoped to changing one observable teaching practice through enac
 - [Redesign workshop structure, content, timing, and location in response to non-participant barriers](../strategies/redesign-pd-to-lower-participation-barriers.md)
 - [Teaching is My Favorite Color: teacher-designed support network for teachers of color](../products/teaching-is-my-favorite-color.md)
 - [Design educator preparation around pedagogical alignment, tightly linked clinical experiences, and a developmental approach to educator learning](../strategies/preparation-program-design-three-strategies.md)
+- [Video-based coaching cycles in which teachers analyze their own discussions, practice talk moves, and reflect on effectiveness](../strategies/video-based-strengths-based-coaching-cycles.md)
 
 ## Key Sources
 - Darling-Hammond, L., Hyler, M. E., & Gardner, M. (2017). Effective teacher professional development. *Learning Policy Institute*. [doi:10.54300/122.311](https://doi.org/10.54300/122.311)

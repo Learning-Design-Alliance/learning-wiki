@@ -27,7 +27,8 @@ A framework developed by Browning et al. (2022) that helps secondary school lead
 - [The paper reports that culturally responsive pedagogies are associated with more student engagement, agency, and responsibility for seeking information](../claims/crse-pedagogies-engagement-agency-claim.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Four-metric faculty equity grading framework](four-metric-faculty-equity-grading-framework.md)
 
 ## Key Sources
 - Browning, A., Kaminsky, C., & Gerzon, N. (2022). Moving toward instructional coherence: How four popular student-centered approaches deepen identity, agency, equity, and community. WestEd. https://www.wested.org

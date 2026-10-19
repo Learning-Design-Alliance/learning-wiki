@@ -43,4 +43,9 @@ Frequency analysis of measure use across the 1228 included studies. The article 
 
 
 ## Related Claims
--
+
+- [Some measures' evaluated self-regulation categories misalign with their intended theoretical orientation](sr-measure-intended-evaluated-category-misalignment.md)
+- [Systematic review identified 19 adult-reported self-regulation measures, 138 unique terms, 62 codes, and 25 facets](sr-review-19-measures-25-facets.md)
+- [Search of 7024 studies yielded 1228 eligible studies containing 133 unique measures](sr-screening-yield-7024-to-1228-studies.md)
+- [Behavioral inhibitory control tasks are useful for detecting individual differences over an average span of only 2.49 years, versus 6 years for the CBQ Inhibitory Control subscale](inhibitory-control-tasks-limited-age-ranges.md)
+- [Association strength between self-regulation and developmental outcomes varies by measurement type (review-attributed)](sr-outcome-associations-vary-by-measurement-type.md)

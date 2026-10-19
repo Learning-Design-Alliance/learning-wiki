@@ -43,7 +43,9 @@ Theoretical neurobiological argument in the review: rising catecholamines and co
 
 
 ## Related Claims
+
 - [Meditation expertise follows an inverted-U: moderate practice hours show greater attention-network activation than novices, while very high hours show reduced activation](meditation-expertise-inverted-u-neural-efficiency.md) — related
 - [Prolonged or overwhelming stress disrupts self-regulation development by physically changing brain wiring toward emotional reactivity](toxic-stress-disrupts-self-regulation-development.md) — related
 - [The relationship between effort and meaning follows an inverted U-shape: moderate friction enhances meaning and motivation while excessive friction overwhelms](effort-meaning-inverted-u-shape.md) — related
 - [Increased physiological arousal relates to less monitoring with neutral valence](arousal-negative-predictor-neutral-valence.md) — related
+- [Curiosity and confidence show an inverted U-shaped relationship, peaking at an intermediate confidence level](inverted-u-curiosity-confidence-relationship.md)

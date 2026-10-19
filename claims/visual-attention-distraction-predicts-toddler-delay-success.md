@@ -43,4 +43,10 @@ Logistic regression analyses (bootstrapped, 1000 resamples) with age as covariat
 
 
 ## Related Claims
--
+
+- [Older two- and three-year-olds have lower odds of failing delay-of-gratification tasks](age-predicts-toddler-delay-task-success.md)
+- [Teacher-rated, but not parent-rated, self-control relates to the occurrence and timing of delay behaviours in toddlers](teacher-rated-self-control-relates-toddler-delay-behaviours.md)
+- [Probability of visual attention distraction, alone or combined with hands withholding, prevails after about 10–30 seconds of delay](time-course-distraction-withholding-prevails-after-10-30s.md)
+- [Self-distraction and avoidance behaviours occur in nearly all successful toddlers but in a minority of unsuccessful ones](delay-behaviours-occur-in-successful-but-not-unsuccessful-toddlers.md)
+- [Actively withholding the hands from the reward predicts success on delay-of-gratification tasks in two- and three-year-olds](hands-withholding-predicts-toddler-delay-success.md)
+- [Successful two- and three-year-olds initiate distraction and withholding behaviours very early, within the first 10 seconds of delay on average](rapid-initiation-delay-behaviours-successful-toddlers.md)

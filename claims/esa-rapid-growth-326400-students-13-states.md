@@ -43,6 +43,8 @@ Landscape analysis of state ESA statutes and secondary sources reports that "13 
 
 
 ## Related Claims
+
 - [All ESA statutes list allowable uses of funds, but only 3 of 15 detail prohibited uses, and nearly all call for audits](esa-financial-accountability-allowable-uses-audits.md) — related
 - [Most ESA programs have flexible assessment requirements, and testing results are largely informational with only West Virginia imposing explicit performance benchmarks](esa-flexible-assessments-informational-results.md) — related
 - [Most ESA statutes require data collection and public reporting, and many states publish annual report data beyond statutory requirements](esa-data-reporting-beyond-statute.md) — related
+- [Arizona's ESA voucher program grew 409%, from 12,127 to 61,689 students, between the 2021–22 and 2022–23 school years, with nearly all growth from the new Universal ESA](arizona-esa-409-percent-growth-universal-expansion.md)

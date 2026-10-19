@@ -26,7 +26,8 @@ Cognitive episodes organize LLM reasoning traces into temporally ordered functio
 - [Episode-composition and transition features contribute predictive process evidence beyond semantics, with Epi.+Tran. reaching 0.136 permutation importance versus 0.084 for Sem. in the Both (Role) setting](../claims/episode-features-predictive-importance-beyond-semantics.md) [+M]
 
 ## Related Research Methods
--
+
+- [Coherence analysis framework and its six activity-trace measures](coherence-analysis-framework-and-its-six-activity-trace-measures.md)
 
 ## Key Sources
 - Chenguang Wang, Ming Li, Xinyue Zeng, Zhuochun Li, Hong Jiao, Tianyi Zhou, Dawei Zhou. (2026). Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction. https://arxiv.org/abs/2606.28186

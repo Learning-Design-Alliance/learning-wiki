@@ -17,7 +17,7 @@ sources:
 # Scaffold emotion regulation development in adolescence as a preventative target for psychopathology
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review proposes that adolescence, as a period of heightened neural plasticity and emotional reactivity, may be an opportune window for interventions that build adaptive emotion regulation strategies before psychopathology emerges. It states that "Targeting this window of opportunity could have positive long-term consequences for mental health", framing ER development as a preventative target for internalising and externalising disorders. This follows from its argument that adolescence is a period of heightened learning and flexibility.
@@ -39,6 +39,10 @@ The review proposes that adolescence, as a period of heightened neural plasticit
 
 ### Affordances
 - Extended Process Model Emotion Regulation Stages
+
+## Claims
+
+- [Instructed reappraisal success improves with age across ages 10-23, following linear and quadratic trends](../claims/instructed-reappraisal-success-improves-age-10-23.md) [+W]
 
 ## Related Strategies
 - 

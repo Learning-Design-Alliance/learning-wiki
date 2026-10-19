@@ -43,4 +43,5 @@ Multilevel Model 1 results for interest in science. The General Track coefficien
 
 
 ## Related Claims
--
+
+- [All student groups benefited equally in inquiry skills improvement after Web-based collaborative inquiry, with no significant effects of gender, achievement level, or academic track](equal-inquiry-skills-gains-all-groups.md)

@@ -41,7 +41,8 @@ The article argues that humanizer services are a diagnostic signal of a feedback
 - Dramaturgical Rubric Misconduct Services
 
 ## Related Strategies
-- 
+
+- [Formative Assessment Cycles](formative-assessment-cycles.md)
 
 ## Examples
 -

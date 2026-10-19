@@ -25,7 +25,8 @@ The study contributes an empirical framework, built on the socially shared regul
 - [Groups' progress during collaboration falls into four data-driven categories differing in sequence frequencies and the regulation phases groups return to](../claims/four-categories-group-progress-monitoring-sequences.md) [+M]
 
 ## Related Research Methods
--
+
+- [Four observable group-level emotion regulation strategies coding scheme](four-observable-group-level-emotion-regulation-strategies-coding-scheme.md)
 
 ## Key Sources
 - Sobocinski, M., Järvelä, S., Malmberg, J., Dindar, M., Isosalo, A., & Noponen, K. (2020). How does monitoring set the stage for adaptive regulation or maladaptive behavior in collaborative learning? Metacognition and Learning. https://doi.org/10.1007/s11409-020-09224-w

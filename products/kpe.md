@@ -29,7 +29,9 @@ KPE is a KP-Lab collaborative knowledge-creation platform that provides shared w
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Synthesis Lab](synthesis-lab.md)
+- [SCY-Lab](scy-lab.md)
 
 ## Key Sources
 - Reynolds, S., & Camilleri, A. F. (2010). KP-LAB: Breaking New Ground on How to Create Knowledge Through Learning. EDEN 2010 Conference, Valencia.

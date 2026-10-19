@@ -62,4 +62,5 @@ The appreciation analysis reports that group differences were scarce: "A Group e
 
 
 ## Related Claims
--
+
+- [Students' creative writing speed decreased in panel 1 except for students with relatively high Creative Self-Concept, and increased in panel 2](creative-writing-speed-panel-pattern-csc.md)

@@ -43,4 +43,8 @@ Parallel process latent growth curve model linking mothers' and children's growt
 
 
 ## Related Claims
--
+
+- [The rate of change in mothers' growth mindset predicted both children's later growth mindset level and children's own rate of change](maternal-mindset-change-predicts-child-trajectory.md)
+- [Fathers' and mothers' growth mindset also declined significantly over the two-and-a-half-year period](parent-growth-mindset-declines-longitudinally.md)
+- [Neither the initial level nor the decline of fathers' growth mindset significantly predicted children's growth mindset development](paternal-mindset-no-significant-prediction.md)
+- [Fathers' initial growth mindset predicted girls' later growth mindset but not boys', a gender-moderated path](paternal-mindset-predicts-girls-not-boys.md)

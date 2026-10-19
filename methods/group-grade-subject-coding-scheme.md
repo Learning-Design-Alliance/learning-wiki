@@ -39,6 +39,10 @@ Each resource entry carries three sets of codes on its last line: group codes (e
 ### Claims
 
 
+## Related Methods
+
+- [Standards Crosswalk](standards-crosswalk.md)
+
 ## Related Patterns
 - 
 

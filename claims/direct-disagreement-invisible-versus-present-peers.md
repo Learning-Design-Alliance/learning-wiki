@@ -43,4 +43,8 @@ Coded dissenting turns from the same gallery walk corpus were separated by addre
 
 
 ## Related Claims
--
+
+- [Fifth graders in peer critique predominantly used soft (implied and/or mitigated) rather than direct forms of disagreement](students-soft-disagreement-peer-critique.md)
+- [Mixed and exclusively soft disagreement episodes featured more extended turns and more perspectives than exclusively direct episodes](mixed-soft-episodes-longer-more-perspectives.md)
+- [Nearly all peer critique disagreements were resolved, mostly through concession, with co-construction appearing only in soft and mixed disagreements](disagreement-resolution-consensus-concession.md)
+- [Students' resolution of both direct and soft disagreements promoted collective knowledge advancement while maintaining a positive socio-emotional climate](resolution-promotes-collective-knowledge-advancement.md)

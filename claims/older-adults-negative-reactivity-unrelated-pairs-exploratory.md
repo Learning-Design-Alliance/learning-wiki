@@ -43,4 +43,5 @@ Exploratory post hoc tests following a non-significant three-way interaction: fo
 
 
 ## Related Claims
--
+
+- [Related word pairs were far better recalled than unrelated pairs, while younger and older adults recalled a similar overall proportion of pairs](relatedness-and-age-main-effects-recall.md)

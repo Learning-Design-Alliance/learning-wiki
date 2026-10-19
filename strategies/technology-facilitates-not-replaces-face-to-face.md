@@ -41,6 +41,7 @@ The article recommends deploying online technologies within experiential pedagog
 
 - [Collaborative Learning Space Design](collaborative_learning_space_design.md)
 - [Deploy spaced-repetition vocabulary practice as a low-burden daily supplement of a few minutes without changing existing pedagogy](low-burden-daily-supplemental-vocabulary-practice.md)
+- [Use technology-mediated learning to shift the trainer's role from knowledge provider to facilitator and foster reflection](technology-mediated-learning-for-teacher-reflection.md)
 
 ## Examples
 -

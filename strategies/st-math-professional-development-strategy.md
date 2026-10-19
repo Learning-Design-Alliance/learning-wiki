@@ -45,6 +45,7 @@ MIND Research Institute provides initial professional development: self-guided o
 - [Layered professional development for curriculum implementation (webinars, workshops, coaching)](stemscopes-layered-professional-development.md)
 - [Layered implementation support for teachers adopting a new science curriculum: preservice training, follow-up training, and a science coach](layered-teacher-implementation-support-science-curriculum.md)
 - [Multi-format teacher professional development for implementing the Facing History and Ourselves curriculum](fhao-teacher-professional-development.md)
+- [Ongoing math-specialist coaching and curriculum-based professional development for implementing teachers](thinking-math-coaching-pd-strategy.md)
 
 ## Examples
 -

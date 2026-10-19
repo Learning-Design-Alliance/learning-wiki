@@ -24,7 +24,10 @@ The Evans, Feenstra, Ryon and McNeill article provides analytic tools for collab
 ### Claims
 
 ## Related Research Methods
--
+
+- [Situated-interaction analysis of CSCL processes](situated-interaction-analysis-of-cscl-processes.md)
+- [Multimodal analysis](multimodal-analysis.md)
+- [Divergent Collaborative Learning Mechanisms (DCLM) framework](divergent-collaborative-learning-mechanisms-dclm-framework.md)
 
 ## Key Sources
 - Gerry Stahl & Friedrich Hesse. (2011). Let a hundred flowers bloom; let a hundred schools of thought contend. Computer-Supported Collaborative Learning, 6, 139-145. https://doi.org/10.1007/s11412-011-9118-8

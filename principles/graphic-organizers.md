@@ -170,6 +170,7 @@ A filled-in organizer, immediate comprehension, delayed retention, transfer and 
 - [Retrieval Practice](retrieval-practice.md) — rebuilding an organizer from memory is a retrieval task.
 
 ## Examples
+
 - **Cause-and-effect maps**: Learners trace how events, policies, or variables influence one another.
 - **Compare-contrast charts**: Learners organize similarities and differences before discussion or writing.
 - **Story or argument maps**: Learners outline structure before drafting or summarizing.
@@ -185,6 +186,7 @@ A filled-in organizer, immediate comprehension, delayed retention, transfer and 
 - [Text Illustrations With Graphic Organizers](../strategies/text_illustrations_with_graphic_organizers.md)
 - [Graphic Organizers as Text Illustrations](../strategies/graphic_organizers_as_text_illustrations.md)
 - [Graphic Organizers/Guided Notes](../strategies/graphic-organizers-and-guided-notes-processing-speed.md)
+- [Use tablet computers in Response to Intervention for self-recorded reading, electronic graphic organizers, and electronic text notation](../strategies/rti-tablet-reading-strategies-strategy.md)
 
 ## Key Sources
 - Hall, T., & Strangman, N. (2002). *Graphic organizers*. National Center on Accessing the General Curriculum.

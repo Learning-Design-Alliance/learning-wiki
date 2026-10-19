@@ -41,4 +41,9 @@ Mediation analysis following Baron and Kenny on the same longitudinal SEM sample
 
 
 ## Related Claims
--
+
+- [Executive functioning and early numeracy skills assessed in kindergarten directly predict mathematical performance in second grade, jointly explaining 57.3% of its variance](ef-and-early-numeracy-directly-predict-grade-2-math.md)
+- [Mindsets relate to kindergarteners' achievement indirectly through executive functions and classroom behavioral self-regulation as mediators](mindsets-achievement-indirect-via-self-regulation.md)
+- [Early language and executive skills at age 3–4 predict preschool counting and number knowledge, which mediate their influence on later arithmetic](language-executive-mediate-arithmetic-via-number-skills.md)
+- [Growth in task orientation partially mediates the association between executive function and mathematics achievement in preschoolers](task-orientation-partially-mediates-ef-math.md)
+- [Initial motivation in kindergarten has no significant direct effect on mathematical performance two years later](no-direct-effect-of-kindergarten-motivation-on-math.md)

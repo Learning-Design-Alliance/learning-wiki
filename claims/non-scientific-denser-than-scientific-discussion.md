@@ -62,4 +62,7 @@ Sociograms of co-contribution networks (Figs. 5 and 6) show all students joined 
 
 
 ## Related Claims
--
+
+- [Expert scientists fulfilled a crucial role in generating scientific discussion, with one expert holding the highest degree centrality in the scientific network](expert-scientists-drive-scientific-discussion.md)
+- [Participation in non-scientific discussion was weakly negatively related to participation in scientific discussion (r = 0.14, p < 0.05)](negative-qap-scientific-non-scientific.md)
+- [Students, not expert scientists, played the moderating role by asking questions and making assertions, with one student bridging scientists and students](students-moderating-bridging-role.md)

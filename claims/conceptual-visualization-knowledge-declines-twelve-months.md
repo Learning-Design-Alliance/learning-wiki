@@ -43,4 +43,6 @@ Longitudinal LMM analysis of 40 doctoral students' rubric scores at T0, T1, and 
 
 
 ## Related Claims
--
+
+- [The correlation between conceptual understanding and procedural execution weakened over time, becoming largely independent after one year](conceptual-procedural-correlation-weakens-over-time.md)
+- [Procedural losses were steepest for axis labeling and annotations, while conceptual losses were steepest for explanation of scales and terminology](criterion-level-decline-patterns-visualization.md)

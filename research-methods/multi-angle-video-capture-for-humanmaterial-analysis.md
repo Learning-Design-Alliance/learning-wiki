@@ -24,7 +24,8 @@ This capture pattern combines eye-level, bird's-eye-view, and close-up turntable
 ### Claims
 
 ## Related Research Methods
--
+
+- [Multimodal analysis](multimodal-analysis.md)
 
 ## Key Sources
 - Anna Keune. (2024). Learning within fiber-crafted algorithms: Posthumanist perspectives for capturing human-material collaboration. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-023-09412-1

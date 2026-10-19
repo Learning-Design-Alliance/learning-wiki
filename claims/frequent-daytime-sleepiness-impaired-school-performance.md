@@ -65,9 +65,11 @@ Same prospective cohort, baseline sleepiness predicting follow-up school perform
 - [Sleep](../learner-variables/sleep.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
 - [Daytime sleepiness is highly prevalent among Chinese school-aged children, affecting 64.44% (sometimes 37.50%, frequently 26.94%)](daytime-sleepiness-prevalence-chinese-children-64-percent.md) — related
 - [Delaying school start time by 30 or 60 minutes increased children's sleep duration and reduced daytime sleepiness over two years](delayed-school-start-time-increases-sleep-duration.md) — related
 - [Short sleep duration (<9 hours) at follow-up is associated with impaired academic achievement, while baseline sleep duration did not significantly predict later school performance](short-sleep-duration-academic-achievement-longitudinal.md) — related
 - [In the intervention trial, short sleep prevalence fell sharply in delayed-start schools (intervention 2: 40.47% to 11.87%) while sufficient-sleep prevalence remained low overall](delayed-start-reduced-short-sleep-prevalence.md) — related
 - [Sleepy behaviors (eyes closed, head down) showed medium-sized but non-significant effects of sleep restriction](sleepy-behaviors-nonsignificant-medium-effects.md) — related
 - [Persistent sleep problems (DIMS at both ages 7–9 and 11–13) increase the risk of poor academic performance even after adjusting for mental health, gender, pubertal status and SES](persistent-dims-poor-academic-performance.md) — related
+- [Sleep problems are common in school-aged children, with prevalence estimates ranging widely depending on assessment mode and definition](child-sleep-problem-prevalence-range.md)

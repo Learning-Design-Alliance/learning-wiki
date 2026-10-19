@@ -62,4 +62,6 @@ Mediation analysis using bullying-impacted regions from the LMMs. The article re
 
 
 ## Related Claims
+
 - [Bullied girls show lower episodic memory and crystallized composite cognitive scores than non-bullied girls](bullied-girls-lower-episodic-memory-crystallized-scores.md) — related
+- [Bullied preadolescents show larger cortical volumes in left entorhinal, left superior parietal, and right fusiform regions than matched non-bullied peers](bullying-larger-cortical-volumes-entorhinal-parietal-fusiform.md)

@@ -43,4 +43,5 @@ Manipulation check in Experiment 2 using the goal questionnaires: "the average r
 
 
 ## Related Claims
--
+
+- [Preparing for oral assessments changes student study habits toward understanding over memorization](oral-assessments-change-study-habits.md)

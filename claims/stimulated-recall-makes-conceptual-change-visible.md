@@ -43,4 +43,5 @@ Analysis of stimulated recall protocols from students in the PBL tutorial group 
 
 
 ## Related Claims
--
+
+- [PBL group discussion during problem analysis mainly concerns theory building, with less data exploration and meta-reasoning](pbl-discussion-mainly-theory-building.md)

@@ -52,6 +52,7 @@ As a practitioner implication, the article recommends designing debriefing conve
 - [Prevent closely knit homogeneous-attitude communities to reduce bias by increasing productive friction](prevent-homogeneous-communities-increase-productive-friction.md)
 - [Probing Questions](probing_questions.md)
 - [Perspective Taking Prompts](perspective-taking-prompts.md)
+- [Treat debriefing models as designable curricular artefacts that coordinate remembering, analysis, and planning](debriefing-as-epistemic-engineering-strategy.md)
 
 ## Examples
 -

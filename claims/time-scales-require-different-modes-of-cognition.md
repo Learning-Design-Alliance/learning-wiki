@@ -43,4 +43,6 @@ Theoretical argument in the editorial, drawing on Eraut's (1994) four processes 
 
 
 ## Related Claims
--
+
+- [In classroom video labeling, high raw agreement (often exceeding 90%) co-occurred with low chance-corrected κ due to temporal misalignment](raw-agreement-kappa-paradox-classroom-video.md)
+- [Epistemic network analysis provides a better account of temporal patterns between socio-cognitive events than coding-and-counting](ena-outperforms-coding-and-counting-temporality.md)

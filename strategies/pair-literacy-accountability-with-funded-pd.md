@@ -39,7 +39,10 @@ From the Ohio case study, the paper recommends treating literacy accountability 
 - early literacy outcomes and instructional change in K-3 reading
 
 ## Related Strategies
-- 
+
+- [Pair technology access with targeted investments in infrastructure, staffing, and support, and pilot initiatives with dedicated budgets](pair-access-with-infrastructure-investment.md)
+- [Invest in educator professional learning on experiential AI pedagogies using existing federal funding streams](fund-educator-ai-professional-learning.md)
+- [Invest in dedicated instructional technology leadership roles and role-specific professional learning for AI literacy](role-specific-ai-professional-learning-leadership.md)
 
 ## Examples
 -

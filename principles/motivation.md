@@ -245,6 +245,7 @@ Starting, effort, voluntary persistence, enjoyment, reported motivation and lear
 - [Raise serotonin through morning sunlight, timed tryptophan intake and exercise, and gratitude practices to support tolerance for failure](../strategies/sunlight-tryptophan-gratitude-serotonin-tools.md)
 - [Build autonomy-supportive learning contexts through perspective-taking, choice, self-initiation, and non-controlling language](../strategies/autonomy-supportive-context-components.md)
 - [Need-supportive 4C/ID learning environment with 12 integrated autonomy, competence and relatedness implementations](../designs/need-supportive-4cid-learning-environment.md)
+- [Design assessment as information, not reward and punishment, and provide an engaging curriculum with choice and community](../strategies/assessment-as-information-not-reward.md)
 
 ### Illustrative
 

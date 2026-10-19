@@ -45,4 +45,6 @@ Frequency: Attended supplemental instruction sessions 0.05 0.01 ***"
 
 
 ## Related Claims
--
+
+- [Chatbot outreach increased supplemental instruction tutoring attendance by about two percentage points, mediating a small share of the grade effect](chatbot-increases-tutoring-attendance.md)
+- [Drop-in one-to-one tutorial attendees improved P1X-to-P1Y marks while the class average declined](drop-in-tutorials-improve-p1y-marks.md)

@@ -17,7 +17,7 @@ sources:
 # Think first, ChatGPT later: a three-phase approach for guided human–AI collaboration in creative problem-solving
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 A structured approach guiding learners to interact collaboratively with ChatGPT during creative problem-solving. In Phase 1, learners independently generate their own initial ideas. In Phase 2, they interact collaboratively with ChatGPT to "improve, develop, and evaluate" those ideas using sample prompts that scaffold creative and metacognitive processes. In Phase 3, they independently propose a single best solution. The approach was tested against free ChatGPT use and independent work.
@@ -41,8 +41,17 @@ A structured approach guiding learners to interact collaboratively with ChatGPT 
 - original and useful idea generation
 - metacognitive regulation during creative tasks
 
+## Claims
+
+- [Collaborative prompt use mediated the regulated-AI group's advantage over the general-AI group in independent originality](../claims/collaborative-prompts-mediate-independent-originality.md) [+W]
+- [The general-AI group most often dictated ChatGPT to directly generate solutions while the regulated-AI group more frequently collaborated to improve self-generated ideas](../claims/prompt-type-differences-general-vs-regulated.md) [+W]
+- [The regulated 'think first, ChatGPT later' group outperformed both other groups in independent originality on the unassisted task despite no assisted-task advantage](../claims/regulated-ai-outperforms-independent-originality.md) [+W]
+- [The regulated-AI group sustained originality across tasks while both other groups declined from the easier to the more complex task](../claims/regulated-ai-sustains-originality-across-tasks.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Combine GAI tools with traditional methods in a hybrid approach to balance efficient collaboration and critical evaluation](hybrid-gai-traditional-dst-approach.md)
+- [Use ChatGPT as a tool for supporting students’ learning and promoting problem-solving skills](chatgpt-support-learning-problem-solving.md)
 
 ## Examples
 -

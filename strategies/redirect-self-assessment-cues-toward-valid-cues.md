@@ -17,7 +17,7 @@ sources:
 # Future self-assessment interventions should redirect students' attention from invalid cues toward valid, predictive cues rather than providing self-assessment accuracy feedback
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Because self-assessment feedback did not improve accuracy in either experiment, the authors propose a different approach: interventions that "redirect students’ attention from the invalid cues they used (i.e., cues that are not predictive of their actual performance) towards more valid (i.e., predictive) cues". The idea is that valid cues might better enable students to adjust their internal standards, yielding more accurate self-assessments even without feedback. The authors also suggest uncovering which cues students actually use would require process measures such as interviews or think-aloud protocols.
@@ -37,8 +37,15 @@ Because self-assessment feedback did not improve accuracy in either experiment, 
 - accurate self-assessment of problem-solving performance
 - accurate self-directed task selection
 
+## Claims
+
+- [In Experiment 1, task-selection accuracy during the no-feedback test phase did not differ between feedback and control conditions](../claims/exp1-test-phase-task-selection-null.md) [+W]
+- [In Experiment 2, neither self-assessment feedback plus correct answers nor plus contrasting own with correct answers improved test-phase self-assessment accuracy](../claims/exp2-feedback-correct-answers-no-gain.md) [+W]
+- [Across both experiments, self-assessment feedback failed to improve self-assessment accuracy in the absence of feedback, and learners' self-assessments did not track practice-driven performance gains](../claims/self-assessment-feedback-no-benefit-absence-of-feedback.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Direct SSA research toward the five identified known unknowns](ssa-research-agenda-five-known-unknowns.md)
 
 ## Examples
 -

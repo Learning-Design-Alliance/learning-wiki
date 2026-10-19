@@ -43,4 +43,7 @@ Descriptive statistics of second-by-second coded behaviours during snack delay (
 
 
 ## Related Claims
--
+
+- [Older two- and three-year-olds have lower odds of failing delay-of-gratification tasks](age-predicts-toddler-delay-task-success.md)
+- [Teacher-rated, but not parent-rated, self-control relates to the occurrence and timing of delay behaviours in toddlers](teacher-rated-self-control-relates-toddler-delay-behaviours.md)
+- [Percentage of time distracting visual attention away from the reward predicts success on delay-of-gratification tasks in two- and three-year-olds](visual-attention-distraction-predicts-toddler-delay-success.md)

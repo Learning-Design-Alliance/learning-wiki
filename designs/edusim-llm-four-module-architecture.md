@@ -17,7 +17,7 @@ sources:
 # Four-module architecture for language-driven robot control in educational simulation
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article describes a hierarchical instruction processing pipeline in which natural language is translated into executable robot behavior. The architecture "consist of four modules: (1) Natural language interface, (2) LLM-based instruction planner, (3) Simulation control backend, and (4) User interaction frontend." User instructions are sent to an LLM via structured prompts, and the LLM output is converted into Python control code executed in CoppeliaSim through action primitives such as moveForward, moveToXY, and closeGripper. The backend also implements 7-stage progressive deceleration with overshoot detection and maintains trajectory history for navigation.
@@ -39,7 +39,10 @@ The article describes a hierarchical instruction processing pipeline in which na
 - understanding language-to-action translation in robotics
 
 ### Claims
-- 
+
+- [A single natural-language command can be decomposed by an LLM into coordinated sequential action sequences for multiple robots](../claims/llm-decomposes-command-into-multi-robot-action-sequences.md) [+W]
+- [Natural language control requires less human operation time than manual control for all five complex tasks tested](../claims/natural-language-control-faster-than-manual-complex-tasks.md) [+W]
+- [LLM-generated robot control code succeeds on 100%, 94.4%, and 88.9% of simple, composite, and complex instructions respectively](../claims/llm-code-success-rate-declines-with-instruction-difficulty.md) [+W]
 
 ## Related Designs
 - Edusim Llm Platform

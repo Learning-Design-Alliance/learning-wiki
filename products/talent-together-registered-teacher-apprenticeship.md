@@ -27,6 +27,8 @@ Talent Together is a Michigan partnership programme that provides uncertified sc
 ## Related Products and Programmes
 
 - [Registered Teacher Apprenticeship Programs (RTAPs)](registered-teacher-apprenticeship-programs-rtaps.md)
+- [MiCareer Resource Hub](micareer-resource-hub.md)
+- [Teacher residency model](teacher-residency-model.md)
 
 ## Key Sources
 - Charlotte Pierce. (2026). Strong Start, Strong Teachers: Supporting Teacher Preparation Programs for a Brighter Future. EdTrust-Midwest. https://midwest.edtrust.org

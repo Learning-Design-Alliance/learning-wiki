@@ -43,4 +43,6 @@ Authors' interpretation (type e) of the mixed-model covariate results, where hig
 
 
 ## Related Claims
--
+
+- [Women score lower than men in high-stakes final exams across advanced undergraduate STEM courses, with mean differences of 2.5 to ~7 points on a 100-point scale](gender-gap-high-stakes-exams-advanced-stem.md)
+- [A gender gap of ~9 points appears even on a low-stakes diagnostic assessment, contradicting prior findings that the gap disappears in low-stakes assessments](gender-gap-persists-low-stakes-diagnostic.md)

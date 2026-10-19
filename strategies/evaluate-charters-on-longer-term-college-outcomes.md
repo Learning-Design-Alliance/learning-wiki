@@ -54,6 +54,7 @@ The brief recommends looking beyond immediate test-score impacts when judging ch
 ## Related Strategies
 
 - [Future research should examine factors supporting long-term student success beyond measured impacts](kipp-atlanta-future-research-success-factors.md)
+- [Include both academic and socioemotional outcomes when evaluating school composition effects](evaluate-composition-with-academic-and-socioemotional-outcomes.md)
 
 ## Examples
 -

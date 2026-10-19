@@ -25,7 +25,9 @@ Because the full ECD framework cannot be applied retrospectively to existing gam
 - [Affinity propagation clustering of gameplay attempts yielded an interpretable six-cluster solution (part.6)](../claims/affinity-propagation-six-cluster-solution.md) [+M]
 
 ## Related Research Methods
--
+
+- [Evidence-Centered Design](evidence-centered-design.md)
+- [Strategy-based temporal analytics framework for stealth assessment using LSTM evidence models](strategy-based-temporal-analytics-framework-for-stealth-assessment-using-lstm-evidence-mod.md)
 
 ## Key Sources
 - Martinez-Garza, M. M., & Clark, D. B. (2017). Investigating Epistemic Stances in Game Play with Data Mining. International Journal of Gaming and Computer-Mediated Simulations, 9(3). https://doi.org/10.4018/IJGCMS.2017070101

@@ -38,10 +38,12 @@ The how dimension of educator activity is captured by four styles derived primar
 ### Claims
 
 ## Related Theories
-- 
+
+- [Five-dimensional model of the adult educator with eight educator functions](five-dimensional-adult-educator-model.md)
 
 ## Examples
--
+
+- [Sequence for educators: establish trust, assess group motivation and leadership, then choose a matching style before performing functions](../strategies/educator-sequence-trust-assess-style.md)
 
 ## Key Sources
 - Campbell, M. Donald. (1978). Educator Influence on Group Growth in Community Problem Solving. Paper presented at the Adult Education Research Conference, San Antonio, Texas. https://eric.ed.gov/?id=ED152994

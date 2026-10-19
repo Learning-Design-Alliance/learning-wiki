@@ -18,7 +18,7 @@ sources:
 # Balloons: A Concepts About Print Assessment
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A locally constructed, criterion-referenced 17-item assessment in the Kindergarten Assessment Portfolio used by program teachers to measure kindergarten pupils' concepts about print.
@@ -28,6 +28,8 @@ A locally constructed, criterion-referenced 17-item assessment in the Kindergart
 - **Balloons: A Concepts About Print Assessment, a criterion-referenced 17-item measure from the Kindergarten Assessment Portfolio**: The Balloons test, locally constructed in 1991, is "a criterion-referenced measure from the Kindergarten Assessment Portfolio" used to assess kindergarten pupils' concepts about print. Its 17 scored objectives include knowing the front of the book, that print rather than pictures carries the message, left-to-right movement, one-to-one word match, and concepts of letter, word, and capital letter. Program teachers administered it the week of March 29, 1993; successful completion of at least 12 of 17 items was considered appropriate for promotion to grade 1. (Johnson (1994))
 
 ### Claims
+
+- [Criterion-referenced tests indicate whether a particular skill or objective has been achieved rather than comparing performance to other test takers](../claims/criterion-referenced-tests-measure-mastery-not-relative-standing.md) [+W]
 
 ## Related Products and Programmes
 -

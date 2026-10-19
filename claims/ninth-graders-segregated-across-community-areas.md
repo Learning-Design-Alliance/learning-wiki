@@ -43,5 +43,7 @@ Descriptive analysis of the racial/ethnic composition of the 2018–19 CPS ninth
 
 
 ## Related Claims
+
 - [Ninth-grade enrollment in school types differed by community-area racial/ethnic makeup: 22 of 30 majority-Black areas had at least 25 percent of ninth-graders in charter schools, and no majority-Latinx area had a quarter in selective enrollment](enrollment-school-types-differed-by-community-race.md) — related
 - [Universal PreK school-based classrooms are about as diverse as first-grade classrooms, while means-tested and community-based classrooms are more segregated](universal-prek-classroom-diversity.md) — related
+- [Schools in the United States have resegregated since 1988, with the share of intensely segregated non-white schools more than tripling from about 6% to 19% of all public schools](resegregation-intensely-segregated-schools-tripled.md)

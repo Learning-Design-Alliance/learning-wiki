@@ -44,4 +44,5 @@ Predictive modeling study of 316 students' gameplay logs in Geniventure, evaluat
 
 
 ## Related Claims
--
+
+- [Overlapping concepts (sharing post-test questions with other concepts) yield higher student scores and higher model R², and multi-task modeling across all concepts is detrimental for these concepts](overlapping-concepts-higher-performance-multi-task-detrimental.md)

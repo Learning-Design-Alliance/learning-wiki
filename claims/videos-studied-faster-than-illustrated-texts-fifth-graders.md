@@ -43,4 +43,5 @@ Mixed-effects analysis of frame-by-frame coded screen recordings from a within-s
 
 
 ## Related Claims
--
+
+- [Text amount and slide position strongly influenced studying durations, but picture type did not affect studying rate in either modality](slide-characteristics-drive-studying-duration.md)

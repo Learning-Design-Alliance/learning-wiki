@@ -168,8 +168,9 @@ Combining two methods, the share of time each gets, the order of the two, and th
 - [Blended Learning](../patterns/blended-learning.md) — how to split a course between online and in-person work.
 
 ## Examples
--
+
 - [Luminous Science Transdisciplinary Curriculum](../designs/luminous-science-transdisciplinary-curriculum.md)
+- [Mixed genetic algorithm fitness function balancing homogeneous and heterogeneous grouping components](../designs/mixed-genetic-algorithm-homogeneous-heterogeneous-fitness.md)
 
 ## Key Sources
 - Ediger, Marlow. (1995). To Every Action There Is an Opposite and Equal Reaction: An Essay on Teaching. https://eric.ed.gov/?id=ED386319

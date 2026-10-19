@@ -100,6 +100,7 @@ Reflection deepens learning by engaging learners in self-explanation and self-mo
 **Debriefing in simulation-based medical education** — Post-simulation debriefs (e.g., the Debriefing with Good Judgment approach at the Center for Medical Simulation, https://harvardmedsim.org) use facilitator-led structured inquiry to surface reasoning gaps; a well-established professional reflection format.
 
 **Kolb's Experiential Learning Cycle** — Published experiential curricula (Kolb, 1984) position reflective observation as the mandatory stage between concrete experience and abstract conceptualization.
+- [Use discussion forums with three reflection prompts to structure students' dialogic reflection after viewing visualisations](../strategies/three-prompt-reflection-forum-strategy.md)
 
 ## Key Sources
 - Schön, D. A. (1983). *The Reflective Practitioner: How Professionals Think in Action*. Basic Books. [doi:10.2307/1186923](https://doi.org/10.2307/1186923)

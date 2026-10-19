@@ -43,4 +43,7 @@ Multilevel analysis (students within groups) of 19,889 automatically coded chat 
 
 
 ## Related Claims
--
+
+- [Automatic DAC coding of dialogue acts agrees substantially with manual coding (79.0% agreement, kappa 0.75)](dac-automatic-coding-agrees-with-manual-coding.md)
+- [Automatically coded dialogue acts correlate with manually coded collaborative activities as expected](dac-correlates-with-manual-collaborative-activities.md)
+- [DAC reliability varies by category: Informatives (especially negative evaluations and nonsense statements) code poorly](dac-reliability-varies-by-category-informatives-weak.md)

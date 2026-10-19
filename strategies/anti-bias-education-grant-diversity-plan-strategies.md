@@ -42,6 +42,7 @@ Anti-Bias Education Grant Program funds address education about discrimination, 
 - [Implement ethnic studies curricula with locally grounded development, compensated education partners, and sustained professional learning](ethnic-studies-curricula-braided-implementation.md)
 - [Direct Special Education Learning Recovery Support funds to equitable supports for students with disabilities, with bias training and diverse curriculum review](special-education-recovery-funds-equity-strategies.md)
 - [Diverse hiring committees and intentional recruitment practices including HBCU/MSI outreach and higher-education partnerships](toc-diverse-hiring-committees-outreach.md)
+- [Implement anti-bias curricular models with four goals to build culturally relevant, strength-based classrooms](anti-bias-curriculum-four-goals-strategy.md)
 
 ## Examples
 -

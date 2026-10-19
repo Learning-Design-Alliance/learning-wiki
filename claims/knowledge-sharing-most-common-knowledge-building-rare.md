@@ -43,4 +43,6 @@ Narrative analysis of 69 units of analysis drawn from three KF discussion views 
 
 
 ## Related Claims
--
+
+- [Only Grade 10 Liberal Studies students engaged in simple argumentation, complex argumentation, and theory-oriented interactions, possibly due to the subject's emphasis on argumentation](argumentation-only-in-liberal-studies.md)
+- [The Bidea^ dimension was the most frequent (45.87% of total discourse), with Bfact^ dominant in Grade 5 Science and Bopinion^ dominant in Grade 10 Liberal Studies](idea-dimension-most-frequent-fact-vs-opinion.md)

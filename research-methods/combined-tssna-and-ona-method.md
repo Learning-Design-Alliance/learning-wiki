@@ -35,7 +35,8 @@ This analytic method combines temporal socio-semantic network analysis (tSSNA) a
 - [Each team showed statistically significant changes in shared epistemic agency across prototyping phases](../claims/within-team-phase-transitions-epistemic-agency.md) [+W]
 
 ## Related Research Methods
--
+
+- [Temporal network analysis](temporal-network-analysis.md)
 
 ## Key Sources
 - Ohsaki, A., Tan, Y., Eagan, B., Shaffer, D. W., & Swiecki, Z. (2026). Temporal Network Analysis of Collaborative Prototyping from a Knowledge Creation Perspective. Journal of Learning Analytics, 13(1), 190–207. https://doi.org/10.18608/jla.2026.8959

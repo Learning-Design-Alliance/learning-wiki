@@ -41,4 +41,5 @@ Exploratory enter-method regressions on science and maths separately (N = 81): S
 
 
 ## Related Claims
--
+
+- [Adolescents show lower accuracy and longer reaction times on counterintuitive misconception trials than on matched control trials in science and maths](misconception-trials-lower-accuracy-longer-rt-than-control.md)

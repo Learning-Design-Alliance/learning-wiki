@@ -43,4 +43,6 @@ Controlled comparison of two groups of Dutch high-school students, one taught in
 
 
 ## Related Claims
--
+
+- [Bilingually educated students show a decreased global precedence effect, indicating a more focused scope of attention](bilingual-education-decreased-global-precedence.md)
+- [Switch costs and mixing costs are common empirical observations across language switching paradigms, except voluntary switching under certain circumstances](switch-and-mixing-costs-common-across-paradigms.md)

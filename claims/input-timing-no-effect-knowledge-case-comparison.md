@@ -43,4 +43,5 @@ Null result from the same MANCOVA in the randomized 2×2 experiment (N = 181). T
 
 
 ## Related Claims
--
+
+- [Case comparison shifts student teachers' beliefs about operant conditioning toward more positive, regardless of experimental condition](case-comparison-shifts-beliefs-operant-conditioning.md)

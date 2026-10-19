@@ -43,4 +43,5 @@ Baseline balance check on the July pretest (50-problem multiple choice) in the U
 
 
 ## Related Claims
--
+
+- [Randomization check found no significant pre-intervention differences between treatment and control groups on pre-test or 8th-grade merit rating](randomization-check-no-pre-differences-variation-study.md)

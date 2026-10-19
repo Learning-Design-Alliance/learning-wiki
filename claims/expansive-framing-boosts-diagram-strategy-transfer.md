@@ -43,4 +43,6 @@ Randi A. Engle, Phi D. Nguyen, Adam Mendelson. (2011). The influence of framing 
 
 
 ## Related Claims
--
+
+- [General biology students in the expansive condition transferred more of what they learned about the differential pressure principle (d = 1.2)](general-biology-transfer-of-learning-differential-pressure.md)
+- [A non-significant trend favored expansive framing on transfer-of-learning of facts (36% vs. 13%, p = .09)](transfer-of-learning-facts-trend-expansive.md)

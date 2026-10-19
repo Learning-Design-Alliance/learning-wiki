@@ -212,6 +212,7 @@ Performance during practice, unaided performance at the end of the unit, delayed
 - Prospective mathematics and social-studies teachers used Gapminder and a Hans Rosling TED talk as the remix exemplar, then authored performances on topics like global CO2 emissions and national wealth/health measures.
 - [Concentrate beginning foreign language instruction on listening and speaking](../strategies/concentrate-beginning-instruction-listening-speaking.md)
 - A lesson opening with a short review of the prior day's content, an overview of the new topic, direct instruction, an explicit comparison ("this is like what we just did, except..."), and a closing application task
+- [Teach one-step equations in a hierarchical sequence: Type 1 without special features first, then Type 1 with special features, then Type 2 in the same order](../strategies/hierarchical-teaching-sequence-one-step-equations.md)
 
 ## Key Sources
 - Reigeluth, C. M. (1979). In search of a better way to organize instruction: The elaboration theory. *Journal of Instructional Development, 2*(3), 8-15. [doi:10.1007/bf02984374](https://doi.org/10.1007/bf02984374)

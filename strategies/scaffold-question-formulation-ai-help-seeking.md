@@ -44,6 +44,7 @@ Based on observed differences in inquiry behavior, the article recommends that "
 - [Embed metacognitive scaffolds in GenAI search systems — prompting sub-question formulation, guiding output comparison, and encouraging reflection on AI-user knowledge discrepancies](genai-metacognitive-scaffolds-for-laziness.md)
 - [Embed the KWL strategy across inquiry phases to guide question generation and question-quality monitoring](kwl-integrated-inquiry-question-generation.md)
 - [Provide explicit prompting instruction and expert scaffolding before or during novice LLM activities](explicit-prompting-instruction-before-llm-tasks.md)
+- [Support children's ecological active learning through explanation prompts, active control, and environment design rather than explicit strategy training](support-ecological-active-learning-strategies.md)
 
 ## Examples
 -

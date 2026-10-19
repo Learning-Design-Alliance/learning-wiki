@@ -62,9 +62,11 @@ Global Morris elementary-effects screening of behavioral overreliance across the
 
 
 ## Related Claims
+
 - [In the model, high-quality AI on hard tasks produces the highest regret despite moderate overreliance, because agents over-defer and rarely self-rely](high-regret-overdeferral-good-ai-hard-tasks.md) — related
 - [In the model, interventions that alter the feedback channel (verification visibility, social-proof damping) reduce overreliance and regret, while lowering verification cost alone does not lower regret](verification-visibility-counter-cascade-interventions.md) — related
 - [In the model, topology shifts aggregate reliance only under opinion dynamics, when influential hubs transmit correlated beliefs that move agents across the verify/use margin](opinion-dynamics-hubs-shift-consensus-trust.md) — related
 - [In the model, visible unverified peer use (social proof) suppresses verification and tips the population into collective overreliance, via a smooth crossover with no hysteresis](social-proof-verification-collapse-cascade.md) — related
 - [Theoretical quality of both theory-based and non-theory agents remains stable across Easy, Medium, and Hard scenario difficulty levels](theoretical-quality-stable-across-difficulty.md) — related
 - [In one quasi-experimental VR shooting study (n = 50), reported in a review, rule-based dynamic difficulty outperformed progressive difficulty](dda-adaptation-direction-determines-outcomes.md) — related
+- [Classroom verification norm is predicted to show threshold behavior and hysteresis rather than a smooth response to teacher-set requirements](verification-norm-threshold-hysteresis-prediction.md)

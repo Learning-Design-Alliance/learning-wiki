@@ -17,7 +17,7 @@ sources:
 # Buoyancy physics virtual lab with variable datasheet
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A physics virtual lab demonstrating buoyancy in a liquid tank, in which students "can change values of variables in the virtual lab to observe the process and conduct experiments about Buoyancy." It exposes variables such as liquid density, cube mass and volume, volume under liquid, displaced volume, and scale readings, and was paired with a critique worksheet presenting flawed experimental designs for students to evaluate before conducting their own inquiry.
@@ -39,7 +39,8 @@ A physics virtual lab demonstrating buoyancy in a liquid tank, in which students
 - scientific literacy
 
 ### Claims
-- 
+
+- [Critiquing problematic inquiry cases before virtual-lab inquiry augments the effect of virtual labs on middle school students' scientific literacy more than teacher demonstration](../claims/critique-before-virtual-lab-inquiry-augments-scientific-literacy.md) [+W]
 
 ## Related Designs
 - 

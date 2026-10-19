@@ -17,7 +17,7 @@ sources:
 # Three instructor practices for introducing AI agents in SDPBL: foundation-first tutorials, continuous monitoring with timely intervention, and accountability for AI-generated code
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Based on their SDPBL observations, the authors recommend three approaches for instructors adopting AI agents. The foundation-first approach designates early sessions as tutorials covering fundamentals, with reference sample applications so students can "understandin g and implement- ing code independently" before extensive AI use. Continuous monitoring uses regular assessments to detect comprehension drops early, since proactive intervention proved effective in lec09. Accountability for AI-generated code uses one-on-one interviews where students explain the logic behind any code they did not manually write, helping ensure implementation speed does not compromise understanding.
@@ -37,8 +37,13 @@ Based on their SDPBL observations, the authors recommend three approaches for in
 - maintaining code comprehension while using AI agents
 - preventing over-reliance on AI-generated code
 
+## Claims
+
+- [Team code comprehension dropped in lec09 when Implementation-phase AI usage peaked, and recovered in lec10 following instructor intervention](../claims/comprehension-dropped-lec09-recovered-after-intervention.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Computing instructors should approach GenAI slide generation as programmers: work iteratively with coding assistants and text-based slide toolchains](instructors-as-programmers-genai-slides.md)
 
 ## Examples
 -

@@ -40,7 +40,9 @@ The method's operational key tool in both units was a custom AI built on free-ti
 - No Ai Incidents Under Human In The Loop Policy [+M]
 
 ## Related Designs
-- 
+
+- [Seven unit-specific custom GPT chatbots for pharmaceutical science units](seven-co-created-cgpt-chatbots-pharmaceutical-science.md)
+- [Hybrid query-resolution platform routing queries across AI assistant, peer layer, curated FAQ corpus and administrator escalation](hybrid-query-resolution-platform-internship-onboarding.md)
 
 ## Examples
 -

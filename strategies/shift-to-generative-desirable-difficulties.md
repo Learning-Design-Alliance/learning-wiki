@@ -45,7 +45,8 @@ The editorial recommends redirecting disfluency research toward difficulties tha
 - [Disfluency affected metacognitive monitoring (JOLs) only under specific conditions: within-subjects manipulation with unrelated word pairs, or on screen rather than paper](../claims/disfluency-jol-boundary-conditions.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Do not recommend applying perceptual disfluency to study materials absent convincing evidence of a (moderated) effect](do-not-recommend-disfluency-materials.md)
 
 ## Examples
 -

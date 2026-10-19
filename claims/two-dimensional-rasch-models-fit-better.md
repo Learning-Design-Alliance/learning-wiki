@@ -43,4 +43,6 @@ Likelihood-ratio model comparison in ConQuest on the 128-item competence test (1
 
 
 ## Related Claims
--
+
+- [Perceived task difficulty ratings show a strong relation to Rasch-estimated relative task difficulty, supporting construct validity of the single-item scale](perceived-task-difficulty-correlates-with-relative-task-difficulty.md)
+- [Mokken scale analysis establishes content validity of the ramp task as a unidimensional measure of CVS use](mokken-content-validity-ramp-task.md)

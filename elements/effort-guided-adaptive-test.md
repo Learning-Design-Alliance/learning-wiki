@@ -17,7 +17,7 @@ sources:
 # Effort-guided adaptive test
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The effort-guided adaptive test is a proposed adaptive testing design that uses information about test-taker effort (such as rapid-guessing behavior) to guide item selection. It was "proposed and shown by a simulation study to alleviate item difficulty mistargeting caused by unmotivated test taking", addressing the problem that unmotivated responding causes the adaptive algorithm to misestimate ability and select inappropriately difficult items.
@@ -36,11 +36,16 @@ The effort-guided adaptive test is a proposed adaptive testing design that uses 
 ### Target Learning Goals
 - Accurate item difficulty targeting and achievement measurement under low test-taking motivation
 
+## Claims
+
+- [A proposed effort-guided adaptive test alleviates item difficulty mistargeting caused by unmotivated test taking, as shown by simulation](../claims/effort-guided-adaptive-test-alleviates-mistargeting.md) [+W]
+
 ## Related Elements
 - 
 
 ## Examples
--
+
+- [Use response time to identify test taker disengagement as rapid-guessing behavior](../strategies/response-time-identifies-rapid-guessing.md)
 
 ## Key Sources
 - Modeling student test-taking motivation in the context of an adaptive achievement test. (2016). Journal of Educational Measurement, 53(1), 86–105. https://www.nwea.org/research/publication/modeling-student-test-taking-motivation-in-the-context-of-an-adaptive-achievement-test/

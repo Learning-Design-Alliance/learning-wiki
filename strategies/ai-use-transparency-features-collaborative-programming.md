@@ -44,6 +44,7 @@ The article recommends designing learning analytics and pedagogical scaffolds th
 ## Related Strategies
 
 - [Use lightweight transparency cues about AI fallibility to encourage more cautious, help-seeking interaction strategies](lightweight-ai-fallibility-transparency-cues.md)
+- [Add an approval/confirmation function to RTC so learners choose whether to accept a collaborator's change](rtc-approval-confirmation-function.md)
 
 ## Examples
 -

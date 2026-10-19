@@ -40,7 +40,9 @@ ChemViz is one of three educational implementations of scientific visualization 
 - 
 
 ## Related Designs
-- 
+
+- [Undergraduate climatology course using scientific visualization at the University of Chicago](undergraduate-climatology-course-visualization.md)
+- [Image Processing for Teaching (IPT) project at the University of Arizona](image-processing-for-teaching-ipt.md)
 
 ## Examples
 -

@@ -27,7 +27,10 @@ DST holds that, as the article states, "the self is populated by other inner sel
 - [In group B, usage of I–we gradually increased and peaked in the final stage during critical evaluation, suggesting intrapersonal collective voice drives critical evaluation of evidence](../claims/iwe-usage-peaked-final-stage-group-b.md) [+M]
 
 ## Related Research Methods
--
+
+- [Dialogical voice-synergy model of collaboration](dialogical-voice-synergy-model-of-collaboration.md)
+- [Lonchamp's three-level integration of dialog, knowledge, and action analysis for dual-interaction CSCL environments](lonchamps-three-level-integration-of-dialog-knowledge-and-action-analysis-for-dual-interac.md)
+- [Bakhtinian dialogic framework of four interconnected themes — voices, expanding the dialogue, inter-animation, and relations](bakhtinian-dialogic-framework-of-four-interconnected-themes-voices-expanding-the-dialogue.md)
 
 ## Key Sources
 - Aaron J. Peltoniemi, Joni Lämsä, Sami Lehesvuori, Raija Hämäläinen. (2025). Understanding the role of I-positions facilitating knowledge construction in a computer-supported collaborative learning environment. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09447-6

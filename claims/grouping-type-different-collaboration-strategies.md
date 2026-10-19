@@ -44,4 +44,6 @@ Behavior sequential analysis (GSEQ) of the two heterogeneous groups' RTC logs, w
 
 
 ## Related Claims
+
 - [Students in homogeneous prior-knowledge groups made greater learning gains and showed more distributed collaboration than heterogeneous groups](homogeneous-groups-greater-learning-gains-than-heterogeneous.md) — related
+- [Overall CPSE did not differ significantly between individual programming and RTC-based collaborative programming](cpse-similar-individual-and-collaborative-programming.md)

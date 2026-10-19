@@ -43,4 +43,5 @@ Multiple linear regression across all tested subjects (mirroring the secondary-s
 
 
 ## Related Claims
--
+
+- [Declarative knowledge of movement features was not significantly related to actual improvements in physical execution of those features](declarative-knowledge-not-related-feature-performance.md)

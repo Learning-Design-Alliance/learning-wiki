@@ -66,6 +66,7 @@ Authentic audiences shift learners from performance-for-evaluation toward commun
 - **Publish-Your-Writing Workshops** — students submit work to real venues, from school blogs to peer-reviewed journals
 - **Service Learning** — community-identified needs supply both the audience and the purpose, coupling academic goals with civic outcomes
 - [Culminate engineering learning tasks in action within real contexts through industry, government, and NGO partnerships](real-context-action-tasks-engineering.md)
+- [Develop papers through successive preliminary presentations to gather peer feedback before journal submission](preliminary-presentations-before-journal-submission.md)
 
 ## Examples
 - **[PBLWorks (Buck Institute)](https://www.pblworks.org)** — Gold-standard project-based learning units culminating in public products presented to authentic audiences (experts, parents, community panels).

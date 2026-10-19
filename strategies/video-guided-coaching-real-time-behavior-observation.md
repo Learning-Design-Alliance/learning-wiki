@@ -41,7 +41,8 @@ The article's practical implication is a general suggestion for teacher educatio
 - [Warner Four Step Time Series Analysis Interactions](../theories/warner-four-step-time-series-analysis-interactions.md)
 
 ## Related Strategies
-- 
+
+- [Track interactional resources across levels as a research approach for CSCL](track-interactional-resources-across-levels.md)
 
 ## Examples
 -

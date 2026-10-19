@@ -25,7 +25,8 @@ A 38-item, five-point Likert survey developed by Ahmed et al. to measure univers
 - [The survey instrument's nine constructs show convergent and discriminant validity in this sample](../claims/genai-motivation-survey-measurement-validity.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [38-item engagement strategies survey instrument](38-item-engagement-strategies-survey-instrument.md)
 
 ## Key Sources
 - Ahmed A and Sultan A (2026) Examining the impact of generative AI on student motivation and engagement: the mediating role of autonomy-support and autonomous motivation in education. Front. Psychol. 17:1852265. https://doi.org/10.3389/fpsyg.2026.1852265

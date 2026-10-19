@@ -43,4 +43,5 @@ Mediation analysis testing the cognitive load hypothesis found the no-prompt vs.
 
 
 ## Related Claims
--
+
+- [An irrelevance prompt eliminates the recall cost of seductive details, supporting the diversion explanation](irrelevance-prompt-eliminates-seductive-details-recall-cost.md)

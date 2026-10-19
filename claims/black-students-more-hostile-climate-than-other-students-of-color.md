@@ -43,4 +43,6 @@ Comparative synthesis within the review's literature analysis, citing multiple p
 
 
 ## Related Claims
--
+
+- [Positive campus racial climate is vital for Black students' success, while negative climate remains detrimental to students of color in predominantly White schools](positive-campus-racial-climate-vital-black-student-success.md)
+- [A welcoming campus racial climate fosters African American students' sense of belonging and intent to continue enrollment in mostly White schools](welcoming-climate-belonging-enrollment-intent.md)

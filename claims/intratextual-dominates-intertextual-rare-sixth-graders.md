@@ -43,6 +43,8 @@ Analysis of 578 thematic units from 162 written products identified integration 
 
 
 ## Related Claims
+
 - [Nearly half of sixth graders' written products from multiple texts show poor integration quality](poor-integration-quality-sixth-graders-written-products.md) — related
 - [Reading comprehension measured with open questions uniquely predicts integration while cloze-measured comprehension does not](open-questions-comprehension-unique-predictor-integration.md) — related
 - [Sixth graders mostly select relevant ideas well from multiple online texts when using a snippet tool](sixth-graders-select-relevant-ideas-well-snippet-tool.md) — related
+- [Self-reported multiple-text strategies did not predict intratextual comprehension, where prior knowledge was the unique predictor](strategies-not-predict-intratextual-comprehension.md)

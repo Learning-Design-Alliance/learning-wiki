@@ -62,4 +62,6 @@ Qualitative contextualization of the SNA findings shows bridging students asked 
 
 
 ## Related Claims
--
+
+- [Participation in non-scientific discussion was weakly negatively related to participation in scientific discussion (r = 0.14, p < 0.05)](negative-qap-scientific-non-scientific.md)
+- [Non-scientific discussion was much denser than scientific discussion, with all students participating non-scientifically but only 12 scientifically](non-scientific-denser-than-scientific-discussion.md)

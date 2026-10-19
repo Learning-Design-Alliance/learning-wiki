@@ -43,4 +43,5 @@ Narrative literature review of peer-reviewed articles from 1990 to 2020 synthesi
 
 
 ## Related Claims
--
+
+- [Black students experience a more hostile campus racial climate than other students of color in schools](black-students-more-hostile-climate-than-other-students-of-color.md)

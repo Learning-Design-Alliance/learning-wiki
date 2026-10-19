@@ -43,4 +43,5 @@ Behavioural process measure from the between-subjects experiment: log counts of 
 
 
 ## Related Claims
--
+
+- [Strategy guidance yields better delayed recall performance and higher delayed-recall efficiency than continuous presentation](strategy-guidance-beats-continuous-presentation-delayed.md)

@@ -43,4 +43,6 @@ Thematic analysis (Atlas.ti, hermeneutic approach) of pre/post surveys, 40 inter
 
 
 ## Related Claims
--
+
+- [Individual and teamwork challenges (language barriers, personality, competition, skill screening, software, duration) can affect game jam learning processes](game-jam-challenges-4c-affected.md)
+- [Game jam activity unfolds in five phases (brainstorming, conceptualization, prototype creation, testing, pitch), each linked to different 4C skills](game-jam-five-phases-4c-links.md)

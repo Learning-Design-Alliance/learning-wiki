@@ -58,7 +58,9 @@ Inverse-efficiency ANOVA (Age × Equation type) on equations with letters: Equat
 
 
 ## Related Claims
+
 - [Students' difficulty rankings of equation types partly mismatch their measured performance, though metacognitive accuracy improves with age](equation-difficulty-self-ranks-mismatch-performance.md) — related
 - [Younger students solve letter equations less accurately than number equations, but this difference disappears by age 16–17](number-letter-accuracy-gap-disappears-by-16-17.md) — related
 - [Students become faster and more accurate in equation rearrangement over a short practice session even without feedback](short-practice-improves-equation-rearrangement.md) — related
 - [Girls were on average more accurate than boys in equation rearrangement, with no significant difference in speed](girls-more-accurate-equal-speed-equation-solving.md) — related
+- [High school teachers' rankings of algebra problem difficulty were uncorrelated with student performance, while middle school teachers' rankings were accurate](high-school-teacher-rankings-uncorrelated-student-performance.md)

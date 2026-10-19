@@ -43,4 +43,7 @@ One-way ANOVA on abuse typologies and overall ADHD score in the national survey.
 
 
 ## Related Claims
--
+
+- [The authors interpret the maltreatment–ADHD association as partly complicated by symptom overlap between ADHD and PTSD, which may make the two conditions difficult to distinguish](adhd-ptsd-symptom-overlap-misdiagnosis-risk.md)
+- [Males were significantly more likely than females to report probable ADHD in the young adult sample (OR=1.56)](males-more-likely-probable-adhd.md)
+- [In a national sample of young Danish adults, all three maltreatment latent classes showed significantly increased risk of probable ADHD relative to the non-abused class, strongest for the overall abuse class (OR=5.08), then emotional abuse (OR=3.09) and sexual abuse (OR=2.07)](maltreatment-classes-increased-probable-adhd-risk.md)

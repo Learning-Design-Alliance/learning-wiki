@@ -17,7 +17,7 @@ sources:
 # Use external instruments rather than teacher judgment to measure learning strategies for differentiation decisions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Because teachers are often biased in assessing students' cognitive level and wrongfully use it to indicate learning strategies, the article recommends external instruments for measuring learning strategies before deciding on differentiated instruction. The article states "it is important to use external instrument(s) to measure students' cognitive level/learning profile/learning strategies." The study implemented this by grouping students using five MSLQ scales.
@@ -36,8 +36,15 @@ Because teachers are often biased in assessing students' cognitive level and wro
 ### Target Learning Goals
 - Matching differentiated instruction to students' self-regulation and metacognitive profiles
 
+## Claims
+
+- [Group differentiation by students' learning strategies raises secondary school student performance by a small but significant margin](../claims/differentiation-learning-strategies-raises-performance.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Awareness of Implicit Biases](awareness_of_implicit_biases.md)
+- [Use SR and OB measures together as diagnostic tools in AI literacy professional development, before and after training](combined-sr-ob-diagnostics-in-pd.md)
+- [Evaluate AI literacy interventions with behavioral measures of LLM interaction in addition to self-reports](behavioral-measures-for-ai-literacy-evaluation.md)
 
 ## Examples
 -

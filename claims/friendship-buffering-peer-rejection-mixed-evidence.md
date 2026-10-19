@@ -43,5 +43,7 @@ The review reports conflicting findings: some studies of children with externali
 
 
 ## Related Claims
+
 - [Social support from friends and family does not buffer the effect of bullying on depressive symptoms](social-support-no-buffer-depression.md) — related
 - [Students perceive peer interaction—companionship, support as a social buffer, and cooperation toward shared goals—as a key element of fun in learning](peer-interaction-fun-element.md) — related
+- [Children with ADHD show marked peer rejection and friendship impairment: approximately four times more likely to be rejected, 52–82% scoring over 1 SD above the classroom mean in rejection, and nearly twice as likely to have no classroom friends](adhd-peer-rejection-and-friendship-deficits.md)

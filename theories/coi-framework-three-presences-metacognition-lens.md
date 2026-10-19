@@ -44,7 +44,10 @@ The Community of Inquiry (CoI) framework is used in this article as the theoreti
 - 
 
 ## Examples
--
+
+- [Online knowledge-building trajectory built on two tools and two processes](../designs/online-knowledge-building-tools-and-processes-pattern.md)
+- [Use the Deepening understanding Influence to nurture online learners' sense of belonging](../strategies/deepening-understanding-influence-sob-guidance.md)
+- [Use the Meaning-making Influence to nurture online learners' sense of belonging](../strategies/meaning-making-influence-sob-guidance.md)
 
 ## Key Sources
 - Sadaf, A., Kim, S. Y., & Olesova, L. (2022). Relationship between metacognition and online Community of Inquiry in an online case-based course. Online Learning, 26(4), 79-93. https://doi.org/10.24059/olj.v26i4.3474

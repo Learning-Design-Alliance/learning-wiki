@@ -43,4 +43,6 @@ Follow-up one-way ANOVAs within the younger adolescent group (n = 24) splitting 
 
 
 ## Related Claims
--
+
+- [Older adolescents (14.9–17.8 years) show lower relational reasoning accuracy when observed by a friend than by an experimenter, across task difficulty levels](older-adolescents-lower-accuracy-friend-versus-experimenter.md)
+- [Across all age groups, relational reasoning accuracy is lower in the friend-present condition than in the experimenter-present condition overall](overall-main-effect-social-condition-accuracy.md)

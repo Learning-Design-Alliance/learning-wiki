@@ -43,4 +43,6 @@ Qualitative analysis of the Wikipedia article "AIDS origin" history pages, traci
 
 
 ## Related Claims
--
+
+- [Wikipedia history analysis shows external assimilation: a user added only the CSILE/Knowledge Forum link without further changes](wikipedia-cscl-external-assimilation-example.md)
+- [Wikipedia clusters representing social and biomedical views on schizophrenia merged toward the integrative diathesis-stress model while the psychoanalytic cluster stayed isolated](schizophrenia-cluster-merger-diathesis-stress.md)

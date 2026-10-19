@@ -43,4 +43,5 @@ Bias check comparing retention index of students taught by the two study-lead in
 
 
 ## Related Claims
--
+
+- [The retention benefit of spaced recall quizzes holds regardless of instructor teaching experience](spaced-recall-effective-regardless-instructor-experience.md)

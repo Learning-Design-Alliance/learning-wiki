@@ -43,4 +43,6 @@ Standardized calculation test (HRT 1–4) administered to the 45 children with C
 
 
 ## Related Claims
--
+
+- [Children with cochlear implants are generally slower than hearing peers in multiplication and subtraction but show comparable error profiles](ci-children-general-slowing-multiplication-subtraction.md)
+- [Number line estimation error increases more strongly for children with cochlear implants when the range extends from 0–100 to 0–1000](ci-number-line-place-value-range-interaction.md)

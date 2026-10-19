@@ -51,3 +51,4 @@ Randomized field trial by McMaster et al. (2005) with 41 first-grade nonresponde
 - TRI shows an average effect size of +0.51 on Woodcock reading outcomes across two studies — related
 - [Only letter naming among rapid-naming measures showed significant correlation with reading and writing](letters-rapid-naming-significant-correlation-reading-writing.md) — related
 - [Alphabet instruction benefits did not transfer to letter-word identification, phonological awareness, emergent reading, or developmental spelling](alphabet-instruction-no-transfer-emergent-literacy.md) — related
+- [Early literacy intervention reduced the proportion of nonresponders to 7.05% versus 25.35% among controls](intervention-reduces-nonresponder-rate.md)

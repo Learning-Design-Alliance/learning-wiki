@@ -43,5 +43,8 @@ Multiple-group analysis by child gender with Wald tests of eight paths; only the
 
 
 ## Related Claims
+
 - [Gender moderates the link between educational processes and children's social–emotional competence, with stronger associations for girls than boys](gender-moderates-educational-processes-to-social-emotional-competence-link.md) — related
 - [Child gender at kindergarten entry predicts initial functioning: boys show more conflict and inattention/impulsivity, girls more closeness and school engagement](gender-predicts-relationships-and-behavior-at-entry.md) — related
+- [Mothers' initial growth mindset positively predicted children's growth mindset two-and-a-half years later](maternal-initial-mindset-predicts-child-later-mindset.md)
+- [Fathers' and mothers' growth mindset also declined significantly over the two-and-a-half-year period](parent-growth-mindset-declines-longitudinally.md)

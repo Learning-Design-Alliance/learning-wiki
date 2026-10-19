@@ -43,4 +43,11 @@ Analysis of Journal Citation Reports data (Table 2) tracking the journal's IF, 5
 
 
 ## Related Claims
+
 - [Instructional Science has accumulated 39,169 citations with an h-index of 86 and an average of 26.5 citations per paper as of July 2024](instructional-science-39169-citations-h-index-86.md) — related
+- [Annual output in Instructional Science rose markedly from around 2008, peaked at about 55 documents in the early 2010s, then declined to roughly 30–40 papers annually](instructional-science-publication-trend-2008-peak-decline.md)
+- [Instructional Science is cited across diverse disciplines including psychology, computer science and environmental sciences, indicating interdisciplinary appeal](interdisciplinary-citing-journals-instructional-science.md)
+- [The most prolific citing authors of the journal are Chin-Chung Tsai (128 publications) and Fred Paas (102); Utrecht University leads institutions with 335; the United States leads countries with 6,921 citing articles](leading-citing-authors-institutions-countries-instructional-science.md)
+- [The most cited papers in Instructional Science are Sadler's 1989 formative assessment paper (1,686 citations) and Marton's 1981 phenomenography paper (1,547 citations)](most-cited-instructional-science-papers-sadler-marton.md)
+- [Among references cited by Instructional Science publications, Cohen's 1988 Statistical Power Analysis (66 citations) and Sweller's 1998 cognitive load theory article are the most referenced works](most-cited-references-cohen-sweller-cognitive-load.md)
+- [ijCSCL ranked #11 of 203 ISI-ranked journals in Education and Educational Research, with a 2011 impact factor of 2.243](ijcscl-2011-impact-factor-ranking.md)

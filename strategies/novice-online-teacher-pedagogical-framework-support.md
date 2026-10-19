@@ -37,7 +37,9 @@ Drawing on Goodyear et al. (2001), the authors recommend that novice online teac
 - developing online tutoring competence and confidence
 
 ## Related Strategies
-- 
+
+- [Provide NLCs with repeated feedback on SNA, content and contextual analysis during their activity so they can reflect strategically on performance](repeated-sna-ca-feedback-to-nlcs.md)
+- [Design AI-related teacher professional development as practice-oriented, case-based and connected to teachers' real pedagogical decisions](practice-oriented-case-based-ai-professional-development.md)
 
 ## Examples
 -

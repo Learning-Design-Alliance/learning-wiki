@@ -43,4 +43,6 @@ Within-cohort comparison of vocabulary learning gain (15-item pre/post quizzes) 
 
 
 ## Related Claims
--
+
+- [The mixed algorithm produced groups differing significantly in marker-feature distributions, with shared (overlapping) yellow markers significantly lower than unique yellow markers](marker-feature-distributions-differ-across-groups.md)
+- [Process mining of two fitness-typical groups suggests the group with more heterogeneous yellow markers and shared red markers worked more efficiently while both achieved the same summary outcome](process-mining-heterogeneous-yellow-group-more-efficient.md)

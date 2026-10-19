@@ -17,7 +17,7 @@ sources:
 # Train older adults to self-test and selectively restudy unlearned items to improve associative learning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article describes a concrete intervention recipe: train older individuals "to monitor their learning via self-testing (which is akin to making highly accurate delayed JOLs)" and then "to use this self-testing as a basis for focusing restudy efforts on items that have not yet been learned." This metacognitive self-regulation training produced greater learning gains than traditional encoding-strategy training when study was self-paced, and it remains effective when delivered through an at-home training manual.
@@ -37,8 +37,14 @@ The article describes a concrete intervention recipe: train older individuals "t
 - improving paired-associate (associative) memory performance
 - effective allocation of restudy effort
 
+## Claims
+
+- [Training metacognitive self-regulation (self-testing plus selective restudy) produced greater paired-associate learning improvements in older adults than traditional encoding-strategy training when study was self-paced](../claims/metacognitive-selfregulation-training-beats-strategy-training.md) [+W]
+
 ## Related Strategies
+
 - Spared Monitoring Basis Compensatory Selfregulation
+- [Self Monitoring Strategies](self-monitoring-strategies.md)
 
 ## Examples
 -

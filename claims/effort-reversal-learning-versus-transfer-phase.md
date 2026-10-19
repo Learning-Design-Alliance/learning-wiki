@@ -43,9 +43,11 @@ ANCOVA on self-rated mental effort (Paas 9-point scale): during learning, EPEP s
 
 
 ## Related Claims
+
 - [Example–problem pairs are more efficient than problem–example pairs for both gifted and nongifted primary school students](example-problem-pairs-more-efficient-both-gifted-nongifted.md) — related
 - [Example–problem pairs raise perceived competence but not perceived autonomy or enjoyment](example-problem-pairs-raise-perceived-competence.md) — related
 - [Starting with an example strongly benefits first practice problem performance, with a larger effect for gifted students](first-practice-problem-sequence-interaction.md) — related
 - [Example-first conditions outperformed problem-first conditions on an immediate circuit test](worked-example-problem-sequences.md) — related
 - [Individual instructional design principles show small correlations with self-efficacy, mental effort, and transfer performance](individual-principles-small-correlations-motivation-effort.md) — related
 - [No differences were found on mental effort during instruction or on transfer across illusion-of-control and instruction-method conditions](no-mental-effort-differences.md) — related
+- [In Experiment 2, mental effort over time interacted with condition: the feedback + contrast condition increased effort from learning to test phase while other conditions decreased](exp2-mental-effort-condition-interaction.md)

@@ -40,7 +40,8 @@ A homework intervention in which students complete a five-column glossary form: 
 
 
 ## Related Elements
-- 
+
+- [Submission](submission.md)
 
 ## Examples
 -

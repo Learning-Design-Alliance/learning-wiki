@@ -62,6 +62,7 @@ Manual error analysis found missed nuanced evidence mainly in long learning acti
 
 
 ## Related Claims
+
 - [Curriculum document type and competency framework significantly predict LLM prediction accuracy, and zero-shot LLMs systematically overestimate competency coverage](llm-accuracy-regression-overestimation-bias.md) — related
 - LLM-assisted inductive qualitative coding carries risks of superficial themes, broad or redundant codes, and hallucinated interpretations, so LLMs should augment rather than replace human researchers — related
 - [ChatGPT zero-shot relevance extraction for instruction-quality assessment retrieves mostly irrelevant utterances and overestimates instruction quality](chatgpt-zero-shot-relevance-extraction-unreliable.md) — a narrower finding that bears on this claim
@@ -79,3 +80,4 @@ Manual error analysis found missed nuanced evidence mainly in long learning acti
 - [Vision-assisted extraction identified chart type in all sampled images but showed ±5–10% numeric estimation error and two failure modes correctable via mandatory review](llm-chart-extraction-accuracy-failure-modes.md) — related
 - [General-purpose LLMs show accuracy and reliability limits, including hallucinations and task-specific accuracy below perfect, making them risky as expert advice sources](llm-accuracy-hallucination-coaching-risk.md) — a broader claim this one bears on
 - [GenAI novices develop prompting strategies through trial and error, starting from zero-shot prompts and refining them after unsatisfactory outputs](novices-refine-prompts-trial-and-error.md) — related
+- [Leading LLMs hallucinated legal authorities in 58%-88% of tested cases while failing to recognise incorrect legal assumptions in prompts](llms-hallucinate-legal-authorities-58-88.md)

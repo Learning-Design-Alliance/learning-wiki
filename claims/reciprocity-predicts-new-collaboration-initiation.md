@@ -43,4 +43,6 @@ Meta-analysis across k = 12 workshops of RSiena effect estimates for reciprocity
 
 
 ## Related Claims
--
+
+- [Researchers disagree substantially in their recall of previous collaborations with workshop peers](low-recall-agreement-of-previous-collaborations.md)
+- [Transitivity predicts the initiation of new potential collaborations at scientific events](transitivity-predicts-new-collaboration-initiation.md)

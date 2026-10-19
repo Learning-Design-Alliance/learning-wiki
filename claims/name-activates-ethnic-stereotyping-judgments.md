@@ -43,4 +43,5 @@ In the Study 1 experiment, the two student vignettes differed only in name (Emre
 
 
 ## Related Claims
--
+
+- [Preservice teachers judged the ethnic minority student more negatively than the ethnic majority student on parental support, achievement, and working behavior](ethnic-minority-student-judged-more-negatively-study1.md)

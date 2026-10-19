@@ -39,7 +39,8 @@ For the number-processing pathway, the authors propose exposure-based therapy in
 - reduced anxiety responses to numerical stimuli
 
 ## Related Strategies
-- 
+
+- [Use magnitude-based number line games as candidate interventions for improving mental multi-digit subtraction](number-line-games-magnitude-intervention-strategy.md)
 
 ## Examples
 -

@@ -13,7 +13,7 @@ generated:
 # Registered Teacher Apprenticeship Programs (RTAPs)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A U.S. Department of Labor- or state-registered earn-and-learn teacher-preparation programme in which paid apprentices complete mentored, job-embedded training, related classroom instruction, and competency-based requirements toward teacher licensure.
@@ -24,9 +24,13 @@ A U.S. Department of Labor- or state-registered earn-and-learn teacher-preparati
 
 ### Claims
 
+- [Mentorship was important to apprentices, but mentor quality and time with mentors varied across programs](../claims/rtap-mentorship-value-and-variability.md) [+W]
+- [Mentors of color were especially valuable to apprentices of color, who wanted more intentional mentor matching](../claims/rtap-mentors-of-color-especially-valuable.md) [+W]
+
 ## Related Products and Programmes
 
 - [Talent Together registered teacher apprenticeship](talent-together-registered-teacher-apprenticeship.md)
+- [Scaling Apprenticeship and Closing the Skills Gap](scaling-apprenticeship-and-closing-the-skills-gap.md)
 
 ## Key Sources
 - Nathan Kriha, Diarese George, Jonathan Feinstein, and Anna Skubel. (2025). Building Futures: Strengthening the Educator Workforce Through Teacher Apprenticeships. EdTrust. https://edtrust.org

@@ -96,6 +96,7 @@ The article recommends that universities move away from rigid, top-down AI polic
 - [Tripartite institutional response: AI literacy, ethical infrastructure, and competence-based educator training](tripartite-agentic-ai-institutional-response.md)
 - [Develop student AI literacy and institutional GenAI policies, guidelines and safeguards for responsible integration](genai-literacy-and-institutional-policy-strategy.md)
 - [Teachers adopting EAI should address digital literacy and ethical design challenges identified for each AI dimension](teacher-challenges-eai-inclusion-digital-literacy-ethics.md)
+- [Define institutional value from the bottom up, incorporating learning outcomes, community engagement, and career readiness beyond earnings thresholds](bottom-up-value-definition-beyond-earnings.md)
 
 ## Examples
 -

@@ -49,7 +49,8 @@ A district policy introduced in fall 1997, effective 1998-99, that codified and 
 - [Two years after the comprehensive magnet school policy, overall enrollment patterns by student residence had not changed substantially](../claims/policy-did-not-change-overall-enrollment-patterns.md) [~W]
 
 ## Related Elements
-- 
+
+- [Map set of Pearce and Garcia attendance zones documenting survey response, support, and respondent ethnicity](pearce-garcia-attendance-zone-survey-maps.md)
 
 ## Examples
 -

@@ -43,6 +43,8 @@ The editorial reports, describing Tong and Chan's quasi-experimental contrast of
 
 
 ## Related Claims
+
 - [Collaborative analytics-supported reflective assessment helped pre-service teachers develop collaborative inquiry competencies](collaborative-analytics-reflective-assessment-pst-competencies.md) — related
 - [Group meta-discourse in Knowledge Forum is associated with higher individual learning among university students](meta-discourse-groups-higher-individual-learning.md) — related
 - [A small-scale pilot study explored the impact of a variety of roles on discussion-forum interaction across participative, social, cognitive, and teaching dimensions](role-playing-forum-interaction-pilot.md) — related
+- [Agency, information, linking, and meta-discourse dimensions appeared infrequently in the dataset despite their theoretical importance](agency-information-linking-meta-discourse-infrequent.md)

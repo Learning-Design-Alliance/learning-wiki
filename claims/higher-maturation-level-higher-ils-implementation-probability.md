@@ -43,4 +43,5 @@ The editorial reports a large-scale study tracing the development and use of abo
 
 
 ## Related Claims
--
+
+- [ILS adoption rate increases across knowledge maturation stages, from 3.38% for individually created ILSs to 43.94% for published ILSs](ils-adoption-increases-across-maturation-stages.md)

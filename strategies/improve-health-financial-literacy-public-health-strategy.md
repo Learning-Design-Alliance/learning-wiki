@@ -17,7 +17,7 @@ sources:
 # Strategies to improve health and financial literacy across the lifespan as a potential public health lever
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 Based on their finding that literacy is associated with health promoting behaviors and health status, the authors recommend literacy improvement as a public health strategy. They write that "strategies to improve health and financial literacy may have the potential to improve public health, even in advanced age," and, noting that chronic disease seeds are sown early, that "efforts to improve health and financial literacy should not only target older persons, but also persons of younger ages." They also cite the UK Foresight Program's recommendation of better financial management training to break the debt-mental illness cycle.
@@ -37,6 +37,13 @@ Based on their finding that literacy is associated with health promoting behavio
 ### Target Learning Goals
 - health literacy
 - financial literacy
+
+## Claims
+
+- [Financial literacy, but not health literacy, is associated with mental health indices in older adults without dementia](../claims/financial-literacy-associated-mental-health-older-adults.md) [+W]
+- [Literacy is associated with functional status in older adults, but after full adjustment total literacy remains associated only with instrumental activities of daily living and mobility disability](../claims/literacy-associated-functional-status-older-adults.md) [+W]
+- [Higher total literacy is associated with more frequent participation in cognitive, physical, and social activities in older adults without dementia](../claims/literacy-associated-health-promoting-behaviors-older-adults.md) [+W]
+- [The association of total literacy with physical activity is not statistically significant after adjustment for income and chronic medical conditions](../claims/literacy-physical-activity-null-fully-adjusted.md) [~W]
 
 ## Related Strategies
 - 

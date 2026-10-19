@@ -13,7 +13,7 @@ generated:
 # AutoTutor Script Authoring Tool (ASAT) and generic AutoTutor Conversation Engine (ACE)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 against) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The AutoTutor project’s ASAT authoring tool and ACE conversation engine let organizations create and deploy scripted conversational tutoring applications across domains.
@@ -24,8 +24,13 @@ The AutoTutor project’s ASAT authoring tool and ACE conversation engine let or
 
 ### Claims
 
+- [AutoTutor cannot handle most student questions, so student question frequency extinguishes quickly in tutoring sessions](../claims/autotutor-student-questions-extinguish.md) [-W]
+- [The talking head contributes little to AutoTutor's learning gains; the content of the conversation matters](../claims/autotutor-content-matters-not-talking-head.md) [+W]
+
 ## Related Products and Programmes
--
+
+- [Teacher-facing chatbot authoring platform with structured configuration components and testing features](teacher-facing-chatbot-authoring-platform-with-structured-configuration-components-and-tes.md)
+- [Generalized Intelligent Framework for Tutoring (GIFT)](generalized-intelligent-framework-for-tutoring-gift.md)
 
 ## Key Sources
 - Graesser, A. C. (2016). Conversations with AutoTutor Help Students Learn. International Journal of Artificial Intelligence in Education. https://doi.org/10.1007/s40593-015-0086-4

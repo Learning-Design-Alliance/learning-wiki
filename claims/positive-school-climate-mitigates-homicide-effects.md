@@ -43,6 +43,7 @@ OLS regressions related 5Essentials survey measures of school climate and organi
 
 
 ## Related Claims
+
 - [Some high schools mitigated the typical negative effects of proximity to homicide on student outcomes while most schools saw declines](some-schools-mitigate-homicide-effects.md) — related
 - [Positive teacher–student relationships are associated with greater student engagement and, more weakly, with achievement](teacher-student-relationships-improve-engagement.md) — related
 - [In schools characterized by high relational trust, educators were more likely to experiment with new practices and work together with parents to advance improvements](high-relational-trust-educators-experiment-and-partner-with-parents.md) — related
@@ -50,3 +51,4 @@ OLS regressions related 5Essentials survey measures of school climate and organi
 - [Living in close geographic proximity to homicide is followed by lower attendance, test scores, GPA, and more disciplinary incidents for CPS students](proximity-homicide-lowers-student-outcomes.md) — related
 - [Meaningful family and community engagement is associated with reduced absenteeism, improved academic outcomes, and more positive school climates](family-community-engagement-positive-outcomes.md) — related
 - [A positive school climate improves academic achievement and reduces the negative effects of poverty on achievement](positive-school-climate-improves-achievement.md) — related
+- [Homicides of school-aged children are far less likely to occur on school grounds than elsewhere](school-homicides-less-likely-on-school-grounds.md)

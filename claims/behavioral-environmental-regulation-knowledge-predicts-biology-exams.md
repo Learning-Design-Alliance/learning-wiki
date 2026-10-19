@@ -43,4 +43,6 @@ Study 1 path analysis of n = 49 treatment-condition students who completed all t
 
 
 ## Related Claims
--
+
+- [Completing the Science of Learning to Learn training conferred an effect of about one-third of a letter grade (d ~ 0.3) on subsequent quizzes and exams in the original randomized study](slll-training-letter-grade-effect.md)
+- [Declarative and conceptual levels of learning-skill mastery predicted biology exam performance, but application-level knowledge did not](declarative-conceptual-skill-mastery-predicts-exams-application-does-not.md)

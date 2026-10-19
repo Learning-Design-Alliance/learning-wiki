@@ -40,7 +40,8 @@ As a practical move, the article recommends testing proposed uses of digital tec
 - Pedagogical Framework Challenge Digital Technologies
 
 ## Related Strategies
-- 
+
+- [Justify GenAI integration through a when-how-why framework: proven contexts, specific implementation methods, and pedagogical reasoning](when-how-why-genai-integration-framework.md)
 
 ## Examples
 -

@@ -32,6 +32,7 @@ A corpus introduced by Liu et al. (2025) containing anonymized learner forum pos
 ## Related Products and Programmes
 
 - [Labelled corpus of 4,217 discussion posts](labelled-corpus-of-4217-discussion-posts.md)
+- [Dataset of 69 Qassim University PBL course offerings with coded forum interactions](dataset-of-69-qassim-university-pbl-course-offerings-with-coded-forum-interactions.md)
 
 ## Key Sources
 - Liu, Z., Xing, W., Jiao, X., & Li, C. (2025). Exploring Fairness and Explainability in LLM-Generated Support for Online Learning Discussion Forums. Journal of Learning Analytics, 12(3), 8–33. https://doi.org/10.18608/jla.2025.8885

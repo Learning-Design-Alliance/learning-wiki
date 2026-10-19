@@ -39,7 +39,8 @@ A lightweight narrow band (approximately 1.5 cm wide) worn around the lower fore
 - [Blv Wrist Alignment Undetectable In Action](../claims/blv-wrist-alignment-undetectable-in-action.md) [+M]
 
 ## Related Designs
-- 
+
+- [Augmented bow track with graded friction feedback](augmented-bow-track-graded-friction.md)
 
 ## Examples
 -

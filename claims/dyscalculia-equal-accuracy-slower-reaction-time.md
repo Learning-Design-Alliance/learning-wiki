@@ -67,6 +67,8 @@ Format main effect on accuracy in the same ANOVA: symbolic numbers were responde
 - [Processing Speed](../learner-variables/processing-speed.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
 - [Children with DD show slower reaction times than TD children during arithmetic problem solving, with no operation-specific RT effect](dd-slower-reaction-times-arithmetic.md) — related
 - [Spatial processing is preserved but slower in developmental dyscalculia, with slow trail-making and mental rotation speed attributed to WM/inhibition impairment](dd-spatial-processing-preserved-but-slow.md) — related
 - [No univariate activation-level differences between adults with dyscalculia and controls during symbolic or non-symbolic number processing](dyscalculia-no-univariate-activation-differences.md) — related
+- [Adolescents with ADHD respond more slowly than non-ADHD peers across all conditions, and color-shape binding slows responses in both groups](adhd-slower-rt-wm-binding-task.md)

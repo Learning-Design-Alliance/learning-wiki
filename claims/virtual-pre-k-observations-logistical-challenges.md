@@ -43,4 +43,7 @@ The pilot study's key findings report that while virtual Pre-K CLASS observation
 
 
 ## Related Claims
+
 - [Virtual Pre-K CLASS observations were practical in both centers and family child care homes in an Oregon pilot study](virtual-pre-k-class-observations-practical-centers-fccs.md) — related
+- [Training providers and instructors faced logistical challenges moving in-person apprenticeship training online but adapted quickly](providers-adapted-in-person-training-online.md)
+- [Online apprenticeship learning offers greater flexibility than in-person learning despite implementation challenges for hybrid or remote options](online-apprenticeship-learning-flexibility-tradeoffs.md)

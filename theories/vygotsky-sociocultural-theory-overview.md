@@ -57,12 +57,14 @@ The article presents Vygotsky's core theoretical position: unlike Piaget's focus
 - [Sociocultural account of CALL feedback as scaffolding toward desired performance](sociocultural-feedback-scaffolding-account.md)
 - [Vygotsky's genetic method: studying higher psychological functions across four time scales](vygotsky-genetic-method-four-time-scales.md)
 - [Zone of Proximal Development as learners' responsiveness to culturally appropriate mediation](zpd-responsiveness-to-mediation.md)
+- [Sociocultural Model of L2 writing](sociocultural-model-l2-writing.md)
 
 ## Examples
 
 - [Adult help should promote children as active agents of their own learning, not only subject-matter assimilation](../principles/scaffolding-and-fading.md)
 - [Assess children's cognitive development both when performing alone and when assisted](../principles/multiple-methods-of-assessment.md)
 - [Use scaffolding techniques to help students complete tasks within their zones of proximal development](../strategies/scaffolding-within-zpd-classroom-strategy.md)
+- [SMALLab mixed-reality design pivots on three principles: face-to-face interaction, distributed thought and action, and immediate consolidation](../designs/smallab-three-design-principles.md)
 
 ## Key Sources
 - Costley, K. C. (2012). An Overview of the Life, Central Concepts, Including Classroom Applications of Lev Vygotsky. https://eric.ed.gov/?id=ED529565

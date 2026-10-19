@@ -43,4 +43,5 @@ Trial-level Bayesian mixed-effects logistic regression on single-trial recall ac
 
 
 ## Related Claims
--
+
+- [Post-answer interest enhances trivia answer memory more strongly in adolescents than in children](post-answer-interest-memory-adolescents-more-than-children.md)

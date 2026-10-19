@@ -25,7 +25,9 @@ Metafora is a computer-supported collaborative-learning system developed by Schw
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Go-Lab online teacher community and Inquiry Learning Spaces](go-lab-online-teacher-community-and-inquiry-learning-spaces.md)
+- [Wiki Design Platform](wiki-design-platform.md)
 
 ## Key Sources
 - Gerry Stahl. (2015). Conceptualizing the intersubjective group. Intern. J. Comput.-Support. Collab. Learn 10:209–217. https://doi.org/10.1007/s11412-015-9220-4

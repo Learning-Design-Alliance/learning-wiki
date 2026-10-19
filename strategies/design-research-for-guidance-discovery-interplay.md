@@ -44,6 +44,7 @@ The article recommends design research (design-based research, design experiment
 ## Related Strategies
 
 - [Use in vivo experimentation: rigorous experimental contrasts embedded in operating courses with real students, real subject matter, and real contexts](in-vivo-experimentation-methodology.md)
+- [In vivo experimentation: combine design research with controlled experimentation to balance control and ecological validity](in-vivo-experimentation-design-process.md)
 
 ## Examples
 -

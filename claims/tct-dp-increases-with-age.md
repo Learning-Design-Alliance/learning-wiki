@@ -62,6 +62,8 @@ Kruskal-Wallis comparison of physical activity indicators across age groups (Tab
 
 
 ## Related Claims
+
 - [Active play correlates with creativity (TCT-DP score) in adolescents aged 14–17, but not in children aged 6–13](active-play-creativity-correlation-adolescents.md) — related
 - [The three physical activity indicators (active play, family/peers time, sedentary behavior) are all intercorrelated, with weak sedentary-behavior links](pa-indicators-intercorrelated.md) — related
 - [Regression analysis showed creativity score was not dependent on active play](regression-null-active-play-creativity.md) — related
+- [School-aged children show reduced physical activity and increased sedentary behavior during the summer break across multiple countries](summer-break-reduced-activity-increased-sedentary.md)

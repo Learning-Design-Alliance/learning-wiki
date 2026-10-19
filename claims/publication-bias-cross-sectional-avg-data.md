@@ -43,5 +43,7 @@ Publication bias detection in the cross-sectional meta-analysis using modified E
 
 
 ## Related Claims
+
 - [Egger's test indicates asymmetry bias in the cross-sectional ToM–achievement evidence base despite a right-skewed p-curve](egger-asymmetry-bias-tom-achievement.md) — possibly the same claim (merge candidate)
 - [A cluster-robust Egger-type test found no statistically detectable small-study effects, interpreted as absence of evidence rather than evidence of no publication bias](egger-test-no-detectable-small-study-effects.md) — related
+- [No significant moderators of the action video game effect were found in either meta-analysis](no-significant-moderators-avg-meta-analysis.md)

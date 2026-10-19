@@ -17,7 +17,7 @@ sources:
 # Incorporate reward prospect into inhibitory control training interventions to strengthen behaviour change effects
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (5 for) · 1 study (1 quant-synthesis), `q4` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 Given that reward prospect significantly improves IC, the authors propose using rewards within inhibitory control training (ICT): "Reward may be used to increase the value of health-related cues (e.g., healthy foods) or devalue unhealthy behaviour-related cues". The opportunity to gain rewards for avoiding health risk may improve associative learning and strengthen intervention effects, offering a route to more prolonged behavioural change.
@@ -40,8 +40,17 @@ Given that reward prospect significantly improves IC, the authors propose using 
 ### Affordances
 - Inhibitory Control Transient Motivation Sensitive State
 
+## Claims
+
+- [The effect of reward on inhibitory control is not moderated by participant age (children vs adults)](../claims/age-does-not-moderate-reward-effect-on-inhibitory-control.md) [+W]
+- [The effect of reward on inhibitory control is not moderated by clinical status, including ADHD and substance use disorder samples](../claims/clinical-status-does-not-moderate-reward-effect-on-inhibitory-control.md) [+W]
+- [The prospect of reward for successful inhibition significantly improves inhibitory control (SMD = 0.429) compared with no-reward conditions](../claims/reward-prospect-improves-inhibitory-control-meta-analysis.md) [+W]
+- [The effect of reward on inhibitory control is not moderated by reward type (monetary vs points vs other)](../claims/reward-type-does-not-moderate-inhibitory-control-effect.md) [+W]
+- [The reward effect on inhibitory control is significant across all six IC task types, but task type significantly moderates the effect, with the largest effect in Stroop tasks](../claims/task-type-moderates-reward-effect-on-inhibitory-control.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Use external reinforcement contingent on successful inhibitory control to improve behavioural regulation](reward-contingent-inhibitory-control-strategy.md)
 
 ## Examples
 -

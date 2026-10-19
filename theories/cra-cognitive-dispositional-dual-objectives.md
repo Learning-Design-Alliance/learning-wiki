@@ -46,6 +46,7 @@ The guide holds that learning in CRA involves both cognitive skills (understandi
 ## Examples
 
 - [Model CRA by co-designing course assessment with students through an in-class assessment conversation](../strategies/co-design-in-class-assessment-conversation.md)
+- [Four activity categories scaffold CRA learning from reflection to redesign](../designs/cra-four-activity-categories.md)
 
 ## Key Sources
 - Culturally Responsive Assessment Collaborative. (2025, November). Introduction to Culturally Responsive Assessment: A Graduate Course Design Guide. Digital Promise. https://doi.org/10.51388/20.500.12265/276/

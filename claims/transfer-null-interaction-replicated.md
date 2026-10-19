@@ -43,4 +43,9 @@ Regression analysis of transfer performance in the replication (N = 96; model N 
 
 
 ## Related Claims
--
+
+- [Disfluency shows no negative effects on learning; the common-sense hypothesis that it harms learning can be rejected](disfluency-no-negative-effects.md)
+- [In a pre-registered direct replication (N = 96), the disfluency × WMC interaction did not significantly predict retention, failing to replicate Lehmann et al. (2016)](replication-null-wmc-disfluency-interaction-retention.md)
+- [Across the four existing experiments on WMC moderation of disfluency, results are inconsistent: one finds the effect restricted to high-span, one to low-span, and two find null moderation](inconsistent-wmc-disfluency-moderation-literature.md)
+- [Working memory capacity moderated disfluency effects in one study but not another](wmc-moderates-disfluency-mixed.md)
+- [The primary study (Lehmann et al., 2016) had only about 45% power to detect its observed interaction effect; roughly 150 participants would be needed for 80% power](primary-study-underpowered-interaction-45-percent.md)

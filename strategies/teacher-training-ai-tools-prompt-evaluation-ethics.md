@@ -60,6 +60,8 @@ For policymakers incorporating AI tools such as ChatGPT into the English languag
 - [Automated assessment outputs must retain human monitoring and never serve as official grades or sole decision bases](human-monitoring-automated-assessment.md)
 - [Implement preventative measures: student awareness programs and regular professional development training for educators](chatbot-preventative-measures-strategy.md)
 - [Introduce computational thinking to preservice teachers within teacher education programs](ct-in-preservice-teacher-education.md)
+- [Integrate structured opportunities for critical engagement with AI into teacher education programs](structured-critical-ai-engagement-teacher-education.md)
+- [Provide teacher guidance on GenAI use, prompt engineering, ethics, and targeted classroom activities for translation](teacher-guidance-genai-translation-classroom-activities.md)
 
 ## Examples
 -

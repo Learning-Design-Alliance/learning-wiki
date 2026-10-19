@@ -37,7 +37,9 @@ The review distills organizational factors for quality implementation: clarifyin
 - reliable and acceptable peer assessment supporting formative learning gains
 
 ## Related Strategies
-- 
+
+- [Separate Product, Process, and Progress Criteria](separate-product-process-and-progress-criteria.md)
+- [Setting Goals](setting_goals.md)
 
 ## Examples
 -

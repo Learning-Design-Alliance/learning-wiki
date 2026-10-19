@@ -37,7 +37,8 @@ For labs whose background differs greatly from other experiments, the authors re
 - engaging with an unfamiliar research area without being inundated by background information
 
 ## Related Strategies
-- 
+
+- [Run laboratory investigations as ADI cycles: design a method, argue, write, peer review, revise](adi-lab-cycle-implementation-strategy.md)
 
 ## Examples
 -

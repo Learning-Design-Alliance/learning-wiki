@@ -43,4 +43,5 @@ SEM path analysis of fifth-grade data (n = 213) showed beliefs about development
 
 
 ## Related Claims
--
+
+- [Domain knowledge predicts science achievement directly and indirectly via self-concept at all three grade levels](knowledge-predicts-achievement-via-self-concept.md)

@@ -43,4 +43,6 @@ The current review reports, citing Robson et al. (2020), a meta-analytic review 
 
 
 ## Related Claims
--
+
+- [Some measures' evaluated self-regulation categories misalign with their intended theoretical orientation](sr-measure-intended-evaluated-category-misalignment.md)
+- [BRIEF, CBCL, SDQ, and CBQ were the most frequently used measures across included studies](sr-most-used-measures-brief-cbcl-sdq-cbq.md)

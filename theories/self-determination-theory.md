@@ -128,6 +128,7 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Digital Open Badges](../elements/digital-open-badges.md)
 - [Implement GenAI in higher education in ways that support autonomy, competence, relatedness, and value to sustain motivation and engagement](../strategies/motivation-supportive-genai-integration-higher-education.md)
 - [Need-supportive 4C/ID learning environment with 12 integrated autonomy, competence and relatedness implementations](../designs/need-supportive-4cid-learning-environment.md)
+- [Promote autonomous motivation in low-education adult learners by helping them grasp the meaning of education and providing choice and volition](../strategies/promote-autonomous-motivation-low-education-adults.md)
 
 ## Key Sources
 - Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227-268. [https://doi.org/10.1207/S15327965PLI1104_01](https://doi.org/10.1207/S15327965PLI1104_01)

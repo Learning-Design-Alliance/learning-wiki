@@ -46,6 +46,8 @@ The article proposes a project-based learning framework in which students work i
 
 - [Three design tensions from expert feedback: authenticity versus cognitive load, integration versus visible progress, and team construction versus individual accountability](three-design-tensions-robotics-curriculum.md)
 - [Project-based robotics + AI curriculum structured by P3 Task Taxonomy with backward design](p3-taxonomy-robotics-ai-curriculum.md)
+- [Scrum methodology as an educational scaffold: a project-management framework with ceremonies, roles and artefacts that structures planning, monitoring and reflection in complex context-based learning environments](scrum-methodology-educational-scaffold-framework.md)
+- [AI-driven talent cultivation reform framework with five interconnected components](ai-driven-talent-cultivation-reform-framework.md)
 
 ## Examples
 -

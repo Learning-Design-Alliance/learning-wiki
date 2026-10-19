@@ -61,9 +61,11 @@ Weekly reflection operationalizes the self-regulation cycle of forethought, perf
 6. **Fade the scaffolds.** Move from provided prompts to student-generated reflection questions as self-monitoring becomes habitual.
 
 ## Related Strategies
+
 - [Check-Ins](../elements/check-in.md) — the shorter, higher-frequency cousin; weekly reflection aggregates what daily check-ins sample
 - [Exit Tickets](../elements/assessment.md) — a single-session version focused on content rather than self-regulation
 - [Learning Journals](../principles/annotating.md) — a longer-format variant integrating reflection with course artifacts
+- [Classroom strategies to develop metacognition: reflective questions, decision diagrams, thinking aloud, reflective dialogue, and metacognitive argumentation](metacognition-classroom-strategies-set.md)
 
 ## Examples
 - **"Muddiest Point" weekly forms** — a classic Classroom Assessment Technique (Angelo & Cross): students name the least-clear idea of the week; the instructor opens the next class by addressing the most common muddles.

@@ -60,9 +60,11 @@ Math Art leverages dual coding — representing concepts both visually and verba
 5. Display and compare works so the class can see how one concept generates many designs, and highlight non-examples of the target property ([Provide Feedback](../elements/provide-feedback.md)).
 
 ## Related Strategies
+
 - [Manipulatives](../strategies/manipulatives.md) — Math Art is essentially learner-generated manipulative work; both make abstract structure physical and inspectable
 - [Pattern Recognition Activities](../strategies/pattern-recognition.md) — pattern identification is the core mathematical move in most Math Art tasks
 - [Jigsaw Method](../patterns/fostering-communities-of-learning-fcl.md) — different learners can master different pattern types and teach them through their artwork
+- [Use representational nudges and creative challenge-reflection cycles to move learners between mathematical exploration, conceptual reasoning, and pedagogical decision-making](representational-nudges-challenge-reflection-cycles.md)
 
 ## Examples
 - **Symmetry painting** — folding a paper in half, painting one side, and folding to produce a symmetric image; then counting and marking the lines of symmetry in the result.

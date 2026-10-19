@@ -107,3 +107,4 @@ A registered systematic review of single (acute) bouts of classroom movement bre
 - [The authors argue physical activity opportunities during the school day are being reduced despite evidence fitness may benefit scholastic achievement](school-physical-activity-reduced-despite-achievement-evidence.md) — related
 - [A 9-month afterschool physical activity program improved cardiorespiratory fitness and the cognitive control of working memory, with ERP evidence of more effective cognitive control](kamijo-afterschool-fitness-working-memory.md) — related
 - [Daily moderate-to-vigorous physical activity is associated with better executive functioning in boys with ADHD](mvpa-associated-executive-function-adhd-boys.md) — related
+- [Systematic reviews on regular physical activity and children's cognition reach conflicting conclusions, with math performance the most consistent beneficiary](pa-cognition-evidence-inconclusive-except-math.md)

@@ -43,4 +43,6 @@ Group-level analysis (unit of analysis: group, N=10) of absolute effort (average
 
 
 ## Related Claims
--
+
+- [Scripted conditions more often produced a discussion phase on differences between group members, but no quality differences in those discussions were detected](script-increases-discussion-on-differences.md)
+- [A three-phased collaboration script leads distance students to provide more and longer input in grounding discussions, with the structured interface further increasing input length](script-increases-grounding-input-amount-length.md)

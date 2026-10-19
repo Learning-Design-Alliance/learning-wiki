@@ -43,7 +43,11 @@ The article recommends classroom interventions to develop secondary teachers' sk
 - Academic Mindset Four Component Construct
 
 ## Related Strategies
-- 
+
+- [Three-part instructional strategy: build community, scaffold inquiry-based instruction while reducing cognitive load, and explicitly develop skills, habits, and mindsets](three-strategies-teach-way-students-learn.md)
+- [Growth Mindset Interventions](growth-mindset-interventions.md)
+- [Develop perseverance indirectly by shaping classroom context, mindsets, and learning strategies rather than targeting grit directly](develop-perseverance-through-context-mindsets-strategies.md)
+- [Promote a Growth Mindset](promote_a_growth_mindset.md)
 
 ## Examples
 -

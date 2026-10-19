@@ -43,4 +43,5 @@ Descriptive survey item from the cross-sectional study (N = 2145). The article r
 
 
 ## Related Claims
--
+
+- [Game jam activity unfolds in five phases (brainstorming, conceptualization, prototype creation, testing, pitch), each linked to different 4C skills](game-jam-five-phases-4c-links.md)

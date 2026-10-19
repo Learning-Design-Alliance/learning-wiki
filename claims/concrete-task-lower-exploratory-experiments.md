@@ -43,4 +43,5 @@ In the randomized three-task experiment, ANOVA showed a significant difference i
 
 
 ## Related Claims
--
+
+- [In multiple regression, the percentage of exploratory experiments was the strongest predictor of performance success, negatively related to it](exploratory-experiments-negative-predictor-of-success.md)

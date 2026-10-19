@@ -43,4 +43,5 @@ SMS-15 questionnaire comparison of the 30 ADHD and 30 TD children; the article r
 
 
 ## Related Claims
--
+
+- [Under normal conditions children with ADHD show deficits in vigilance, visual search and divided attention relative to TD children](adhd-attention-deficits-normal-conditions.md)

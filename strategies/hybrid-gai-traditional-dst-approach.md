@@ -50,6 +50,7 @@ The article recommends a hybrid approach in which GAI tools streamline collabora
 
 - [Use hybrid human–AI feedback models that combine AI's and instructors' complementary strengths](hybrid-human-ai-feedback-models.md)
 - [Non-prescriptive GAI feedback via sequenced guiding questions calibrated to cognitive challenge](non-prescriptive-guiding-question-feedback.md)
+- [Think first, ChatGPT later: a three-phase approach for guided human–AI collaboration in creative problem-solving](think-first-chatgpt-later-three-phase.md)
 
 ## Examples
 -

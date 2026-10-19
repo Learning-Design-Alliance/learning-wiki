@@ -37,7 +37,8 @@ The AIASA president's address calls on AIAA members to serve as club leaders in 
 - Leadership development, improved attitudes toward industrial arts, and learning to live in a technical world
 
 ## Related Strategies
-- 
+
+- [Student-led after-school club creation and student senate structures to expand student voice and engagement](student-led-clubs-and-senate-voice-strategy.md)
 
 ## Examples
 -

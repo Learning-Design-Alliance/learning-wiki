@@ -61,4 +61,6 @@ The class 2 exception on student autonomy arose because the teacher's perception
 
 
 ## Related Claims
--
+
+- [Co-designers' perceptions improved in some classes but unexpectedly decreased more than controls in others](pd-codesigner-perceptions-mixed.md)
+- [Teachers who held participatory design meetings reported changes in educational practice far more frequently than control teachers](pd-teachers-reported-more-changes.md)

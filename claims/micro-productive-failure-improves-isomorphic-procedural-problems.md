@@ -66,6 +66,7 @@ Same ANCOVA with a time factor (one-day vs one-week posttest); the article repor
 - [Problem Solving](../learner-variables/problem-solving.md) — outcome: instruction changes it
 
 ## Related Claims
+
 - [Micro productive failure showed no effect on conceptual explanation, but a condition × time interaction emerged as the I-PS mean advantage at one day reversed at one week](micro-pf-no-conceptual-explanation-effect.md) — related
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — a broader claim this one bears on
 - [The manipulation worked as intended: I-PS students largely succeeded on the problem-solving sheets while PS-I students largely failed](ps-i-manipulation-check-problem-solving-sheets.md) — related
@@ -73,3 +74,4 @@ Same ANCOVA with a time factor (one-day vs one-week posttest); the article repor
 - [Practice-problem performance favored PS-I overall, but the advantage was concentrated on the first two worksheets (d = 0.52)](practice-problems-favor-ps-i-first-worksheets.md) — related
 - [The self-study-before-discussion advantage persisted at one-week delayed tests, with lecture-condition scores declining over time while self-study-condition scores remained stable](self-study-discussion-long-term-retention-transfer.md) — related
 - [Order of worked examples and problem solving had no significant effect on application and transfer scores in experimental design or graphing](we-ps-sequence-no-effect-inquiry-competencies.md) — related
+- [Reflection on a prediction failure shifted students' isomorphism awareness from structural recognition to boundary awareness](prediction-failure-reflection-builds-boundary-awareness.md)

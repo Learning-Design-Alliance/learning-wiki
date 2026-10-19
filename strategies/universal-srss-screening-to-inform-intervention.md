@@ -39,6 +39,7 @@ The district implemented a universal screening process using the Student Risk Sc
 ## Related Strategies
 
 - [Response To Intervention](response-to-intervention.md)
+- [Establish student-led peer-based suicide prevention clubs using Sources of Strength](student-led-sources-of-strength-clubs.md)
 
 ## Examples
 -

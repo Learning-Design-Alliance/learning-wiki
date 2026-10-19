@@ -43,8 +43,10 @@ Correlation analysis relating Spanish receptive vocabulary (TVIP) to negative-pr
 
 
 ## Related Claims
+
 - [Monolinguals but not bilinguals show residual inhibition of phonological competitors on negative-priming probes](monolinguals-not-bilinguals-residual-competitor-inhibition.md) — related
 - [Monolinguals and bilinguals show similar within-language competitor activation during auditory word recognition](similar-within-language-competitor-activation-monolinguals-bilinguals.md) — related
 - [Target facilitation and competitor inhibition are strongly correlated in both groups](target-facilitation-competitor-inhibition-correlated-both-groups.md) — related
 - [Stroop inhibition correlates with linguistic competition resolution in bilinguals but not monolinguals](stroop-correlates-competitor-inhibition-bilinguals-not-monolinguals.md) — related
 - [Competitor activation relates to negative priming at different time windows in monolinguals and bilinguals](competitor-activation-priming-timecourse-group-differences.md) — related
+- [Language proficiency moderates switch cost asymmetry, but highly proficient bilinguals still show n-2 language repetition costs consistent with inhibition](proficiency-moderates-switch-cost-asymmetry.md)

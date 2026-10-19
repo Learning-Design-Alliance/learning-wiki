@@ -50,6 +50,7 @@ In the discussion the authors propose intervention research examining whether tr
 ## Related Strategies
 
 - [Training symbolic magnitude comparison skills is a speculative route to improving multiplication fact retrieval, especially for children with dyscalculia](train-symbolic-magnitude-comparison-for-fact-retrieval.md)
+- [Use exposure-based desensitization to numerical symbols to address the number-processing pathway of math anxiety](exposure-desensitization-numerical-symbols.md)
 
 ## Examples
 -

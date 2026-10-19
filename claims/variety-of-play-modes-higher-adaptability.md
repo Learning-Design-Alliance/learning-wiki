@@ -43,4 +43,7 @@ Cooperative-play analysis of the survey (Table 1). The article suggests players 
 
 
 ## Related Claims
--
+
+- [Self-perceived communication competence and adaptability show small positive correlations with age, while resourcefulness and communicative adaptability do not](age-correlations-communication-adaptability-small.md)
+- [Existing extracurricular video game play habits show no significant relationship with graduate attribute attainment among higher education students](no-significant-relationship-game-play-habits-graduate-attributes.md)
+- [Single noncollaborative, noncompetitive play shows the largest learning effects, significantly larger than single competitive play](single-noncompetitive-play-largest-media-effects.md)

@@ -86,4 +86,4 @@ Random-effects meta-analysis of 33 effect sizes from 21 articles comparing CSCL-
 
 ## Related Claims
 
--
+- [The editorial reports that a meta-analysis of 53 primary studies found CSCL collaboration scripts had a non-significant positive effect on motivation, countering criticism that scripts harm motivation](cscl-scripts-motivation-non-significant-meta-analysis.md)

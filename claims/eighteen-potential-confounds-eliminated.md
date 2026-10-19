@@ -43,4 +43,7 @@ Confound-dialogue screening via 11 backward elimination regressions, run twice (
 
 
 ## Related Claims
--
+
+- [School membership and time of recording showed negligible association with dialogue measures](school-and-timing-effects-on-dialogue-negligible.md)
+- [Prior attainment predicted several dialogue variables in preliminary regression analyses](prior-attainment-predicts-dialogue-frequencies.md)
+- [Incorporating more learning activity data reduced the potential bias caused by overreliance on demographic information](learning-activity-data-reduces-demographic-bias.md)

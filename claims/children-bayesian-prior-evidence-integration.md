@@ -62,6 +62,8 @@ Kushnir and Gopnik (2007) showed children initially assumed blocks must touch th
 
 
 ## Related Claims
+
 - [Preschoolers make probabilistic backward-blocking causal inferences, with capacities appearing by 18 months](backward-blocking-preschoolers-infants.md) — related
 - [Children aged 2-4 infer causal structure from covariation and use it to design effective interventions](children-infer-causal-structure-from-covariation-blicket.md) — related
 - [Children extend statistical causal learning to psychological causes, inferring others' desires by 20 months](statistical-causal-learning-psychological-domains.md) — a narrower finding that bears on this claim
+- [Four-year-olds infer unobserved hidden causes when observed variables cannot explain the evidence](children-infer-unobserved-causes.md)

@@ -18,7 +18,7 @@ sources:
 # Combined TRUST and Panorama Teacher and Staff Survey instrument
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A teacher-and-staff survey instrument assembled by Tommy Wells et al. from the TRUST and Panorama Education instruments, with added demographic and school-NSLP items, to measure educators’ emotion regulation, relationship management, well-being, and school-climate perceptions.
@@ -29,8 +29,12 @@ A teacher-and-staff survey instrument assembled by Tommy Wells et al. from the T
 
 ### Claims
 
+- [Most teacher survey domains and scales used by DCPS meaningfully differentiate among schools](../claims/teacher-survey-domains-differentiate-among-schools.md) [+W]
+
 ## Related Products and Programmes
--
+
+- [California Healthy Kids Survey (CHKS)](california-healthy-kids-survey-chks.md)
+- [Ten-item Greek-language trust questionnaire assembled from established HRI trust scales with Lawshe content validation](ten-item-greek-language-trust-questionnaire-assembled-from-established-hri-trust-scales-wi.md)
 
 ## Key Sources
 - Tommy Wells & Amy Auletto. (2024). Understanding the Impact of Educators' Social-emotional Learning (SEL) Skills on Student Academic Growth. E4 Center. https://e4.northwestern.edu/2024/08/21/understanding-the-impact-of-educators-social-emotional-learning-sel-skills-on-student-academic-growth/

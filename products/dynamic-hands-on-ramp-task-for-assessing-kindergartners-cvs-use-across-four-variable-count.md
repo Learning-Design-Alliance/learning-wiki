@@ -13,7 +13,7 @@ generated:
 # Dynamic hands-on ramp task for assessing kindergartners' CVS use across four variable-count levels
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A researcher-administered hands-on ramp-task assessment adapted from Chen and Klahr's ramp task to measure kindergartners' control-of-variables strategy through progressively complex experiment designs and feedback.
@@ -22,7 +22,9 @@ A researcher-administered hands-on ramp-task assessment adapted from Chen and Kl
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
 - [Mokken scale analysis establishes content validity of the ramp task as a unidimensional measure of CVS use](../claims/mokken-content-validity-ramp-task.md) [+M]
+- [Ramp task levels are ordered by difficulty: performance declines as the number of variables to set increases](../claims/cvs-level-difficulty-ordering.md) [+W]
 
 ## Related Products and Programmes
 -

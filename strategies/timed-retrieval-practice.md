@@ -65,6 +65,7 @@ Retrieval practice is among the most robustly supported learning strategies: tes
 - Low-stakes quizzing — the same mechanism without the timer, appropriate for anxious learners
 - Interleaved practice — mixing problem types within timed sessions improves discrimination between concepts
 - [Implement retrieval practice in class through everything-you-know recall, multi-representation flashcards, and practice test questions that differ from the actual test](retrieval-practice-three-classroom-strategies.md)
+- [Implement weekly low-stakes spaced recall quizzes cycling fundamental concepts monthly, with a plan to address student frustration](weekly-spaced-recall-quiz-strategy-fundamental-concepts.md)
 
 ## Examples
 - **Retrieval warm-ups**: opening a class with a 3-minute timed brain dump on the previous lesson before comparing against notes.

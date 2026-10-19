@@ -43,4 +43,9 @@ MANOVA across three judgment dimensions in the 108-participant vignette experime
 
 
 ## Related Claims
--
+
+- [Preservice teachers chose the easy video significantly more often for an ethnic minority student than for an ethnic majority student, all other information being equal](ethnic-minority-student-given-easy-video-study1.md)
+- [Simply inserting a name indicating Turkish-origin background produced less favorable judgments of otherwise identical student descriptions](name-activates-ethnic-stereotyping-judgments.md)
+- [Path analysis showed material choice reasons tracked attributions: text was chosen for perceived high ability and effort, video for low evaluations of both](attribution-paths-material-choice-study2.md)
+- [Student achievement level, not ethnic background, predicted preservice teachers' text-versus-video material choice in Study 2](achievement-level-predicts-material-choice-study2.md)
+- [Preservice teachers rated the video as simpler and more superficial than the text with the same content](video-rated-simpler-than-text-study2.md)

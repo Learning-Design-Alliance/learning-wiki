@@ -43,4 +43,6 @@ The study measured affective theory of mind across adolescence and reports that 
 
 
 ## Related Claims
--
+
+- [Affective theory of mind is positively related to inhibition, updating, and shifting](affective-tom-related-to-all-three-executive-functions.md)
+- [Inhibition explains the largest amount of variance in age-related differences in affective theory of mind](inhibition-explains-largest-variance-affective-tom.md)

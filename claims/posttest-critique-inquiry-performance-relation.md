@@ -43,4 +43,5 @@ Correlational finding reported in the study: "a close relation" among the three 
 
 
 ## Related Claims
--
+
+- [Eighth graders experiencing ADI instruction scored significantly higher on the post-test of demonstrated scientific literacy (SLA-D) than students experiencing structured inquiry](adi-higher-sla-d-posttest-than-structured-inquiry.md)

@@ -62,4 +62,8 @@ Same multilevel comparison; "Teachers reported using students' Dutch grade as a 
 
 
 ## Related Claims
--
+
+- [The cue-diagnosticity intervention improved teachers' calibration: confidence and judgment accuracy became more aligned](diagnosticity-intervention-improves-calibration.md)
+- [A brief cue-diagnosticity intervention did not significantly improve teachers' judgment accuracy, presumably because accuracy was already relatively high](diagnosticity-intervention-no-accuracy-gain.md)
+- [Teachers are largely aware which cues are diagnostic, but often mistakenly treat students' interest in the text topic as diagnostic](teacher-awareness-of-cue-diagnosticity-partial.md)
+- [When making accurate judgments, teachers used diagnostic cues to a greater extent, but also used non-diagnostic cues (IQ and reading self-concept)](accurate-judgments-greater-diagnostic-cue-use-plus-nondiagnostic.md)

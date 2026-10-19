@@ -41,4 +41,6 @@ Box-plot comparison of required CS and math credits across the three groups of 2
 
 
 ## Related Claims
--
+
+- [CS programs with higher structural curricular complexity have lower representation of women graduates (ANOVA across three representation groups)](cs-curricular-complexity-inversely-related-women-representation.md)
+- [Blocking factors of CS 1 and CS 2 differ significantly across women-representation groups, with lower-blocking programs having higher representation of women](cs1-cs2-blocking-factor-differs-by-women-representation.md)

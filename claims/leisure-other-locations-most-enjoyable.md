@@ -43,4 +43,6 @@ In the same seven-day experience-sampling comparison of activities across contex
 
 
 ## Related Claims
--
+
+- [Doing nothing at school was the least positively rated activity for students with visual impairments](doing-nothing-at-school-least-positive.md)
+- [Participants spent much of their out-of-school time alone at home](vi-students-alone-at-home-out-of-school.md)

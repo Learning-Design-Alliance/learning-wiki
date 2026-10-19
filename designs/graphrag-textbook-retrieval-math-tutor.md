@@ -43,6 +43,8 @@ The system implements Retrieval-Augmented Generation via the GraphRAG framework,
 
 - [Chain-of-Concept: topic-graph organisation of past assessments replacing similarity-based retrieval](chain-of-concept-topic-graph-memory.md)
 - [Retrieval-augmented generative AI learning platform for construction education](rag-generative-ai-platform-construction-education.md)
+- [Intelligent digital textbook framework with LLM-powered structured dialogue for reading comprehension support](intelligent-digital-textbook-llm-structured-dialogue.md)
+- [RAG-based GenAI chatbot used as the AI-assisted learning support in the external validity study](rag-genai-chatbot-learning-task.md)
 
 ## Examples
 -

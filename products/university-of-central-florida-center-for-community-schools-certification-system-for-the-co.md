@@ -25,7 +25,8 @@ A UCF Center for Community Schools certification and technical-assistance progra
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [UChicago Consortium's research-practice partnership model](uchicago-consortiums-research-practice-partnership-model.md)
 
 ## Key Sources
 - Germain, E., Maier, A., Espinoza, D., & Oakes, J. (2025). Community schools certification: An approach for implementation. Learning Policy Institute. https://doi.org/10.54300/220.412

@@ -44,6 +44,7 @@ Lantolf presents SCT as a dialectical, non-dualistic theory: humans begin with b
 - [Zone of Proximal Development as learners' responsiveness to culturally appropriate mediation](zpd-responsiveness-to-mediation.md)
 - [Vygotsky's sociocultural theory: development is historically situated, culturally determined, and proceeds through internalization of social interaction](vygotsky-sociocultural-theory-overview.md)
 - [Sociocultural Theory](sociocultural-theory.md)
+- [Sociocultural Model of L2 writing](sociocultural-model-l2-writing.md)
 
 ## Examples
 

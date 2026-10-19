@@ -32,7 +32,8 @@ Beable is a K–12 digital learning platform developed by Beable Life-Ready Lear
 - [Existing MLL-focused edtech overwhelmingly offers English and Spanish, with a third offering only those two languages](../claims/mll-edtech-landscape-english-spanish-dominant.md) [~W]
 
 ## Related Products and Programmes
--
+
+- [Renzulli Learning](renzulli-learning.md)
 
 ## Key Sources
 - Beable. (2024). Beable evidence rating: Promising. https://www.beable.com

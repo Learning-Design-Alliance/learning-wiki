@@ -43,4 +43,5 @@ The chapter cites Vaccaro et al.'s meta-analysis of over a hundred experimental 
 
 
 ## Related Claims
--
+
+- [Synergy is more likely in simpler content generation tasks and when humans exceed AI performance](synergy-conditions-task-complexity-human-superiority.md)

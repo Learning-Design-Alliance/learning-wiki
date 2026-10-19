@@ -62,4 +62,8 @@ Post-hoc comparison within the same repeated-measures ANOVA (N = 278) found no s
 
 
 ## Related Claims
--
+
+- [The presence of motivational problems reduces reported strategies at the co- and shared-level but not at the self-level](motivational-problems-reduce-co-and-shared-level-strategies.md)
+- [Students respond to motivational problems in study-group vignettes with more motivational but fewer cognitive regulation strategies](motivational-problems-shift-strategy-mix-toward-motivational.md)
+- [Students report regulation strategies mainly at the self- and shared-level, with significantly fewer strategies at the co-level](shared-and-self-level-dominate-over-co-level.md)
+- [Co-occurring motivational and comprehension-related problems did not produce the hypothesized highest combined strategy frequencies](simultaneous-problems-three-way-interaction-not-significant.md)

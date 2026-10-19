@@ -71,6 +71,10 @@ Unit (a single self-paced museum session, roughly 15 minutes in the source study
 ### Personalization
 - (not addressed in the source study — no adaptive difficulty or individual-differences variation was tested)
 
+## Related Designs
+
+- [SMALLab mixed-reality design pivots on three principles: face-to-face interaction, distributed thought and action, and immediate consolidation](smallab-three-design-principles.md)
+
 ## Related Patterns
 - (none yet linked)
 

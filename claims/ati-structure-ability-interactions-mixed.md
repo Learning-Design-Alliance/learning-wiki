@@ -43,4 +43,6 @@ Narrative review of the aptitude-by-treatment interaction literature, citing Cra
 
 
 ## Related Claims
+
 - [Effectiveness of pedagogical tools depends on learners' initial grasp of the object of learning (aptitude–treatment interaction)](tool-effectiveness-depends-initial-grasp.md) — a narrower finding that bears on this claim
+- [Visualizer–Verbalizer Questionnaire scores did not predict modality-specific free recall; visual presentation aided recall overall](constantinidou-baker-vvq-no-recall-relation.md)

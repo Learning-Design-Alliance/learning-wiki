@@ -24,7 +24,8 @@ Stahl draws on Austin and Geertz's notion of thick description: CSCL researchers
 ### Claims
 
 ## Related Research Methods
--
+
+- [Situated-interaction analysis of CSCL processes](situated-interaction-analysis-of-cscl-processes.md)
 
 ## Key Sources
 - Gerry Stahl. (2013). Transactive discourse in CSCL. Computer-Supported Collaborative Learning 8:145–147. https://doi.org/10.1007/s11412-013-9171-6

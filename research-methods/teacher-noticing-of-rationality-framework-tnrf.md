@@ -28,7 +28,8 @@ The TNRF builds on van Es and Sherin's expanded noticing framework of attending,
 - [The dominant within-dimension noticing transition varied by week: attending in Week 1, interpreting in Week 2, and shaping in Week 3](../claims/dominant-transitions-vary-by-week.md) [+W]
 
 ## Related Research Methods
--
+
+- [Teacher noticing framework: detection and interpretation of classroom situations](teacher-noticing-framework-detection-and-interpretation-of-classroom-situations.md)
 
 ## Key Sources
 - Selen Galiç, Mathias Tejera, Sebastián Parodi, Markus Hohenwarter, Zsolt Lavicza. (2026). Preservice mathematics teachers' noticing in AI-based simulations: transitions among attending, interpreting, and shaping. ZDM – Mathematics Education. https://doi.org/10.1007/s11858-026-01805-4

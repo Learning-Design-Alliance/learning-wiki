@@ -17,7 +17,7 @@ sources:
 # Lecturers should implement online practice tests with automatically generated individual corrective item feedback and encourage steady participation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (4 for, 1 mixed) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The article's closing recommendation for educators is that "practice tests plus automatically generated individual corrective item feedback can be implemented easily via online tests" and that the results "should encourage lecturers to provide students with practice tests". Because participation rates showed many students test only late in the term, the authors add that "educators might need to encourage students to steadily practice-test their knowledge". Feedback should give the correctness of the answer and the correct solution, beyond pure true/false feedback.
@@ -38,8 +38,18 @@ The article's closing recommendation for educators is that "practice tests plus 
 - final-exam performance
 - metacognitive judgment accuracy (absolute accuracy and sensitivity)
 
+## Claims
+
+- [Students who received corrective feedback post-processed practice tests more intensely and rated the tests as more useful for monitoring than students without feedback](../claims/feedback-raises-post-processing-and-perceived-usefulness.md) [+W]
+- [In authentic undergraduate courses, taking more voluntary practice tests predicts higher final-exam performance, with and without corrective feedback](../claims/practice-test-frequency-predicts-exam-performance.md) [+W]
+- [Without feedback, more practice-test participation predicts lower specificity (worse detection of incorrect answers); with corrective feedback this negative relation disappears](../claims/practice-test-specificity-negative-without-feedback.md) [~W]
+- [More frequent practice-test participation predicts higher absolute accuracy of item-specific judgments in the final exam, regardless of feedback](../claims/practice-tests-improve-absolute-judgment-accuracy.md) [+W]
+- [More frequent practice-test participation predicts higher sensitivity (better detection of correct answers) in final-exam judgments, with and without feedback](../claims/practice-tests-improve-judgment-sensitivity.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Frequent, Low-Stakes Quizzes](frequent-low-stakes-quizzes.md)
+- [Cumulative Review Quizzes](cumulative-review-quizzes.md)
 
 ## Examples
 -

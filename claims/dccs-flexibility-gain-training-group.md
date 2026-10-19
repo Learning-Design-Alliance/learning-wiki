@@ -41,4 +41,5 @@ Repeated-measures ANOVA on 108 experimental and 100 control children. The text c
 
 
 ## Related Claims
--
+
+- [CREATE does not produce a significant immediate interaction effect on flexibility, though the experimental group improved pre-to-post](create-immediate-flexibility-null-interaction.md)
