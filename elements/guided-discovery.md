@@ -18,7 +18,7 @@ sources:
 # Guided Discovery
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (4 for, 3 mixed) · 7 studies (3 quant-synthesis, 2 review, 1 causal, 1 design), `q2`–`q4` · 2 of 7 report an effect size · 4 claims rest on one study
+> **Evidence** · 8 claims (5 for, 3 mixed) · 8 studies (3 quant-synthesis, 2 review, 1 causal, 1 design, 1 theoretical), `q2`–`q4` · 2 of 8 report an effect size · 5 claims rest on one study
 
 ## Description
 Guided discovery is the element in which learners investigate, infer, or notice patterns for themselves, but with prompts, constraints, examples, or feedback that keep the exploration productive. It is useful when the goal is active sensemaking without leaving learners entirely unguided.
@@ -53,6 +53,7 @@ Guided discovery is the element in which learners investigate, infer, or notice 
 - [Age moderates discovery-learning effects: the explicit-instruction advantage over unassisted discovery is larger for adolescents than adults, and the enhanced-discovery benefit larger for adults than children](../claims/age-moderates-discovery-effects.md) [~W]
 - [Dependent measure moderates discovery effects: acquisition scores amplify the explicit-instruction advantage, and reaction-time measures reverse the enhanced-discovery advantage](../claims/dependent-measure-moderates-discovery-effects.md) [~W]
 - [Scaffolding must be balanced: too little led to confusion and overload, while too much reduced opportunities for critical thinking](../claims/scaffolding-balance-confusion-versus-critical-thinking.md) [~W]
+- [Guided discovery outperformed both unguided discovery and direct instruction in classic studies](../claims/guided-discovery-outperformed-both-extremes.md) [+W]
 
 ## The evidence by question
 - *Does discovery with guidance (prompts, feedback, worked examples, elicited explanations) produce more learning than unassisted discovery or other instruction?* [Enhanced discovery learning produces greater learning than other forms of instruction](../claims/enhanced-discovery-beats-other-instruction.md) [+M]

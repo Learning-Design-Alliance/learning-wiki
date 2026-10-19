@@ -12,7 +12,7 @@ generated:
 # Expertise Reversal Effect
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 9 claims (8 for, 1 mixed) · 8 studies (3 review, 2 causal, 2 theoretical, 1 quant-synthesis), `q1`–`q3` · 0 of 8 report an effect size · 7 claims rest on one study
+> **Evidence** · 10 claims (9 for, 1 mixed) · 9 studies (4 review, 2 causal, 2 theoretical, 1 quant-synthesis), `q1`–`q3` · 0 of 9 report an effect size · 8 claims rest on one study
 
 ## Description
 The expertise reversal effect is the idea that instructional guidance that helps novices can become redundant or counterproductive as learner expertise increases.
@@ -27,6 +27,7 @@ The expertise reversal effect is the idea that instructional guidance that helps
 - [The relative effectiveness of instructional methods reverses as levels of learner knowledge in a domain change (the expertise reversal effect)](../claims/expertise-reversal-effect-definition.md) [+W] — attached 2026-10-15 from Slava Kalyuga (2010), which proposed "Cognitive load imbalance account of the expertise reversal effect"; tests this page's relationship.
 - [Collaboration facilitates learning only under specific knowledge and experience conditions; with advanced learners it can be detrimental via the expertise reversal effect](../claims/collaboration-beneficial-conditions-expertise-reversal.md) [+W]
 - [Instructional method and prior knowledge interact on conceptual understanding of statistics (expertise reversal effect)](../claims/expertise-reversal-conceptual-understanding-statistics.md) [+W]
+- [The imagination effect (cognitive rehearsal of example procedures) enhances learning only for learners with prior knowledge](../claims/imagination-effect-expertise-reversal.md) [+W]
 
 ## The evidence by question
 - *For whom: does support that helps novices stop helping as task-specific expertise grows?* [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](../claims/expertise-reversal-effect.md) [+S]

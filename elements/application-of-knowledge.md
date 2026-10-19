@@ -13,7 +13,7 @@ generated:
 # Application of Knowledge
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 14 claims (10 for, 2 mixed, 2 against) · 27 studies (8 causal, 7 quant-synthesis, 5 review, 3 qualitative, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 5 of 27 report an effect size · 7 claims rest on one study
+> **Evidence** · 15 claims (11 for, 2 mixed, 2 against) · 28 studies (8 causal, 7 quant-synthesis, 5 review, 3 qualitative, 2 design, 2 theoretical, 1 associational), `q1`–`q4` · 5 of 28 report an effect size · 8 claims rest on one study
 
 ## Description
 Application of Knowledge asks learners to use newly acquired concepts, procedures, or principles to solve real-world problems, analyze case studies, or complete authentic tasks. Rather than ending instruction at recall or explanation, it requires learners to act on content — deciding, diagnosing, designing, or performing — which consolidates understanding and reveals gaps that passive study conceals.
@@ -57,6 +57,7 @@ Application is where learning consolidates: retrieving and using knowledge in va
 - [Students and faculty value real-world examples in gateway math, but limited resources and training often lead to procedural instruction](../claims/real-world-relevance-gateway-math-procedural-instruction.md) [~W]
 - [High school students report they learn best through interactive, hands-on projects, real-world applications, and discussions rather than lectures, note-taking, and worksheets](../claims/students-report-hands-on-learning-most-effective.md) [+W]
 - [A persistent theory-practice gap: students may develop conceptual AI understanding but lack opportunities to apply it in authentic contexts](../claims/ail-theory-practice-gap-he-programs.md) [-W]
+- [Training-data contamination motivates newly designed cases: models can reproduce popular tabular records that frequently appear in public notebooks](../claims/llm-tabular-data-contamination-motivation.md) [+W]
 
 ## The evidence by question
 

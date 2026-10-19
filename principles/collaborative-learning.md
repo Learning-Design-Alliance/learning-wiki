@@ -46,7 +46,7 @@ sources:
 # Collaborative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 65 claims (26 for, 35 mixed, 4 against) · 70 studies (15 causal, 13 review, 12 theoretical, 10 associational, 8 quant-synthesis, 8 qualitative, 4 design), `q1`–`q4` · 9 of 70 report an effect size · 59 claims rest on one study
+> **Evidence** · 69 claims (27 for, 38 mixed, 4 against) · 73 studies (16 causal, 13 review, 13 theoretical, 10 associational, 9 qualitative, 8 quant-synthesis, 4 design), `q1`–`q4` · 10 of 73 report an effect size · 63 claims rest on one study
 
 ## Conditional relationship
 
@@ -180,6 +180,10 @@ Group performance during the task, individual understanding straight after it, d
 - [In CLL, teachers perceive a trust erosion cycle, AI dominance in groups, collaborative hollowing, and a counselor's dilemma](../claims/cll-four-ethical-tensions.md) [-W]
 - [Sharing perceptual experiences through discussion improves individual performance beyond mere task practice](../claims/discussion-improves-individual-perception.md) [+W]
 - [Emergent group understanding is an empirical phenomenon arising from the interplay of a social object and a technology object, revealed by two subprocesses: spontaneous information provision and setting localized goals](../claims/emergent-group-understanding-phenomenon.md) [~W]
+- [In individual dialogue patterns, the dominant speaker learns more than the listening partner, potentially explaining null collaboration findings](../claims/individual-dialogue-dominant-speaker-learns-more.md) [~W]
+- [Human–human pair programming fostered the highest perceptions of collaboration and social presence, surpassing both AI-assisted and individual conditions](../claims/human-pairing-highest-collaboration-social-presence.md) [+W]
+- [Dyads collaborating via flexible written paper media exhibit invariant communicative practices across media, participants and topics](../claims/invariant-communicative-practices-artifact-mediated-collaboration.md) [~W]
+- [All four groups showed a tendency toward knowledge sharing, presenting information without interpretation or evaluation](../claims/information-sharing-without-interpretation-prevalent.md) [~W]
 
 ## Related Principles
 - Conditions for Productive Group Creativity — specializes collaborative learning's general quality-control problem for open-ended creative tasks specifically

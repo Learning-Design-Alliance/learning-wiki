@@ -12,7 +12,7 @@ generated:
 # Self-Efficacy Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 50 claims (35 for, 14 mixed, 1 against) · 40 studies (19 associational, 10 review, 9 causal, 1 design, 1 theoretical), `q1`–`q3` · 7 of 40 report an effect size · 49 claims rest on one study
+> **Evidence** · 54 claims (37 for, 16 mixed, 1 against) · 42 studies (20 associational, 11 review, 9 causal, 1 design, 1 theoretical), `q1`–`q3` · 8 of 42 report an effect size · 53 claims rest on one study
 
 ## Description
 Self-efficacy is "people's beliefs in their ability to perform a course of action required to achieve a specific task" (Bandura, 1977). The theory's central claim is specificity: self-efficacy is not a general trait like self-confidence or self-concept, and it is not the same as documented ability. A learner's self-efficacy for "correctly subtracting fractions" is a distinct belief from their self-efficacy for "writing a persuasive essay," even though both might contribute to a broader (and much less predictive) sense of being "good at school" (Seifert & Sutton, 2018). Because self-efficacy beliefs are self-constructed rather than measured, they can diverge from true capability in either direction; the most functional level is at or slightly above actual capacity (Bandura, 1997).
@@ -97,6 +97,10 @@ High self-efficacy for a task produces three effects, each with an upside and a 
 - [Computer self-efficacy significantly mediates the effect of computer anxiety on perceived ease of use of an LMS](../claims/cse-mediates-anxiety-peu-lms.md) [+W]
 - [CSE partially mediates anxiety's effect on PEU: the direct ANX–PEU path remains significant but weaker](../claims/cse-partial-mediation-anx-peu-weakened.md) [+W]
 - [Goal orientations moderate self-efficacy perceptions in ways not originally predicted by self-efficacy theory](../claims/goal-orientations-moderate-efficacy-perceptions.md) [~W]
+- [Descriptive patterns link infrequently reported experiences to initial self-efficacy: teaching others and no impact were reported by higher self-efficacy students, consulting a teacher by lower](../claims/infrequent-experiences-descriptive-self-efficacy-patterns.md) [~W]
+- [Lower initial self-efficacy significantly increased the odds of students reporting that getting help from peers increased their self-efficacy](../claims/lower-initial-self-efficacy-predicts-peer-help.md) [+W]
+- [Individual factors supportive of adolescent creativity include openness to experience, intrinsic motivation, creative self-efficacy, and external attributions for adversity](../claims/individual-supportive-factors-adolescent-creativity.md) [+W]
+- [Higher initial self-efficacy increased the odds of students reporting that accomplishing the problems increased their self-efficacy](../claims/higher-initial-self-efficacy-predicts-accomplishing-it.md) [~W]
 
 ## The evidence by question
 

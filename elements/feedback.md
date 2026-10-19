@@ -13,7 +13,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 158 claims (74 for, 71 mixed, 13 against) · 123 studies (47 causal, 19 quant-synthesis, 19 review, 14 associational, 9 qualitative, 9 design, 6 theoretical), `q1`–`q4` · 32 of 123 report an effect size · 137 claims rest on one study
+> **Evidence** · 160 claims (75 for, 72 mixed, 13 against) · 124 studies (47 causal, 20 review, 19 quant-synthesis, 14 associational, 9 qualitative, 9 design, 6 theoretical), `q1`–`q4` · 32 of 124 report an effect size · 139 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? (Hattie & Timperley, 2007). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -207,6 +207,8 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [GenAI-supported peer feedback groups produced more suggestions and explanations and less positive affective feedback than the PF group](../claims/genai-peer-feedback-shifts-feedback-quality-profile.md) [~W]
 - [AI-generated (GPT-4) feedback produced no greater linguistic progress than human tutor feedback among ENL students over six weeks](../claims/gpt4-feedback-no-superior-linguistic-progress-enl.md) [~W]
 - [Under blind conditions, students rated GenAI feedback more positively than tutor-generated feedback, with a statistically significant difference only on Genuineness favouring GenAI](../claims/genai-feedback-rated-higher-genuineness-blind.md) [+M]
+- [Learners prefer receiving corrective feedback more than teachers feel they should provide it](../claims/learners-prefer-cf-more-than-teachers-provide.md) [+W]
+- [Learners selectively filtered and adopted AI-generated feedback while maintaining pedagogical agency](../claims/learners-selectively-filter-ai-feedback-agency.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

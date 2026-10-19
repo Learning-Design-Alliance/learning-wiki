@@ -18,7 +18,7 @@ sources:
 # Erroneous Examples
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (4 for, 2 mixed) · 4 studies (2 causal, 1 quant-synthesis, 1 review), `q2`–`q3` · 0 of 4 report an effect size · 5 claims rest on one study
+> **Evidence** · 7 claims (4 for, 2 mixed, 1 against) · 4 studies (2 causal, 1 quant-synthesis, 1 review), `q2`–`q3` · 1 of 4 report an effect size · 6 claims rest on one study
 
 ## Description
 Erroneous examples are worked examples that intentionally contain a mistake for learners to identify, explain, and correct. They are useful when the design goal is to make misconceptions visible and strengthen conceptual discrimination, not just demonstrate a correct procedure.
@@ -53,6 +53,7 @@ Erroneous examples are worked examples that intentionally contain a mistake for 
 - [Erroneous examples were beneficial only in combination with elaborated feedback, not with corrective feedback alone](../claims/errex-beneficial-only-with-elaborated-feedback.md) [~W]
 - [Erroneous examples show no general learning benefit over correct examples in most comparisons, but outperform them for negative knowledge in some studies](../claims/errexs-vs-correx-mixed-benefit.md) [~W]
 - [The delayed erroneous-examples benefit holds for both low and high prior knowledge students](../claims/erroneous-examples-benefit-both-prior-knowledge-levels.md) [+W]
+- [Students like problem solving more than erroneous examples and find its interface easier, though it yields weaker delayed learning](../claims/liking-is-not-learning-decimals-tutor.md) [-W]
 
 ## Related Elements
 - [Worked Examples](worked-examples.md)

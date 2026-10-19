@@ -14,7 +14,7 @@ grain_size: course
 # Spaced Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 34 claims (16 for, 16 mixed, 1 against, 1 unmarked) · 25 studies (12 causal, 7 quant-synthesis, 3 review, 2 design, 1 theoretical), `q1`–`q4` · 9 of 25 report an effect size · 29 claims rest on one study
+> **Evidence** · 36 claims (16 for, 18 mixed, 1 against, 1 unmarked) · 26 studies (13 causal, 7 quant-synthesis, 3 review, 2 design, 1 theoretical), `q1`–`q4` · 9 of 26 report an effect size · 31 claims rest on one study
 
 ## Description
 
@@ -122,6 +122,8 @@ The examples are local design instances, not additional observations from those 
 - [The dropout schedule was particularly effective for initially incorrect items, an advantage not attributable to initial ISI length or item difficulty in Experiment 2](../claims/dropout-benefits-initially-incorrect-items.md) [~W]
 - [The authors' findings add to evidence that expanding-interval schedules are not more effective than fixed-interval schedules of practice](../claims/expanding-not-better-than-fixed-interval.md) [~W]
 - [Grade level and repetition spacing interact significantly in children's free recall](../claims/grade-by-spacing-interaction-free-recall.md) [~W]
+- [Recall of between-lists repeated words matched two-independent-representations predictions at short retention intervals but exceeded independence after long retention intervals](../claims/independence-to-nonindependence-between-lists-recall.md) [~W]
+- [When the orienting task prevented interitem associations, the within-list lag effect was attenuated after long retention intervals and this attenuation was not a floor effect](../claims/lag-effect-eliminated-long-retention-no-associations.md) [~W]
 
 ## Key Sources
 

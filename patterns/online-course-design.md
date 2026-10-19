@@ -15,7 +15,7 @@ grain_size: course
 # Online Course Design (Community of Inquiry)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 39 claims (18 for, 20 mixed, 1 against) · 25 studies (6 associational, 5 quant-synthesis, 4 causal, 3 review, 3 qualitative, 3 design, 1 theoretical), `q1`–`q4` · 5 of 25 report an effect size · 36 claims rest on one study
+> **Evidence** · 41 claims (20 for, 20 mixed, 1 against) · 27 studies (8 associational, 5 quant-synthesis, 4 causal, 3 review, 3 qualitative, 3 design, 1 theoretical), `q1`–`q4` · 5 of 27 report an effect size · 38 claims rest on one study
 
 ## Description and scope
 
@@ -158,6 +158,8 @@ This pattern is scoped to the shape of a mostly online course across a term. How
 - [Learner-instructor and learner-content engagement strategies are negatively associated with digital distraction in online courses](../claims/instructor-content-engagement-associated-lower-distraction.md) [~W]
 - [Collaborative learning opportunities largely disappeared when courses shifted to remote instruction](../claims/remote-shift-reduced-collaborative-learning.md) [+W]
 - [Disclosing personal histories related to course topics tends to lead to longer and deeper discussion threads, especially when instructors encourage such identity presence](../claims/identity-presence-deeper-discussion-threads.md) [~W]
+- [The Web-based learning literature supports the assumption that interaction is important for a successful online course, while questions remain about its nature, extent, and effects on performance.](../claims/interaction-assumed-important-online-course-questions-remain.md) [+W]
+- [Students rated icebreaker/introduction discussions and collaborative work with online communication tools as the most beneficial learner-to-learner strategies](../claims/icebreaker-collaboration-top-learner-learner-strategies.md) [+W]
 
 ## Related Patterns
 - [Blended Learning](blended-learning.md) — divides a course between online and in-person time; this pattern shapes the online course itself

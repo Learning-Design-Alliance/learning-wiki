@@ -18,7 +18,7 @@ sources:
 # Experience with Languaging Activities (ELAs) guided by a sequence of experience-based questions
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 12 claims (7 for, 5 mixed) · 21 studies (8 causal, 6 quant-synthesis, 6 review, 1 design), `q1`–`q4` · 8 of 21 report an effect size · 4 claims rest on one study
+> **Evidence** · 13 claims (8 for, 5 mixed) · 22 studies (8 causal, 7 review, 6 quant-synthesis, 1 design), `q1`–`q4` · 8 of 22 report an effect size · 5 claims rest on one study
 
 ## Description and scope
 
@@ -133,6 +133,10 @@ Record: **experience and the named content idea → each learner's account, and 
 [Reflection activities](../elements/reflection-activities.md), [metacognitive reflection](../elements/metacognitive-reflection.md), [individual reflection](../elements/individual-reflection.md), [journaling](../elements/journaling.md), [writing prompts](../elements/writing-prompts.md), [prompts](../elements/prompts.md), [question formulation](../elements/question-formulation.md), [structured discussion](../elements/structured-discussion.md), [class discussion](../elements/class-discussion.md) and [feedback](../elements/feedback.md). Principles it draws on: [Reflection](../principles/reflection.md), [Activation](../principles/activation.md), [Experiential Learning](../principles/experiential-learning.md), [Pre-reading Questioning](../principles/pre-reading-questioning.md), [Cultural and Life Experiences Connections](../principles/cultural-life-experiences-connections.md) and [Self-Monitoring](../principles/self-monitoring.md).
 
 This pattern is scoped to a short question routine applied to an experience or text in any subject. It does not supply the content (a learner who cannot make sense of the experience needs the content taught first), it is not a full experiential cycle with a second attempt ([Experiential Learning Cycle](experiential-learning-cycle.md)), and it is not a discussion protocol ([Discussion-Based Learning](../principles/collaborative-learning.md)). The policy supports observation and design reasoning; whether the four-question routine improves understanding over the same experiences with a content summary or open discussion, for which learners, at what time cost and at what horizon, remains to be tested.
+
+## Claims
+
+- [Guiding questions and student control over video movement improve learning outcomes and satisfaction](../claims/guiding-questions-and-video-control-improve-learning.md) [+W]
 
 ## Related Patterns
 

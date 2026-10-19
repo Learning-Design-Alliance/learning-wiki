@@ -18,7 +18,7 @@ sources:
 # Self-Directed Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 28 claims (12 for, 15 mixed, 1 against) · 36 studies (12 review, 7 causal, 7 theoretical, 5 quant-synthesis, 2 associational, 2 qualitative, 1 design), `q1`–`q4` · 6 of 36 report an effect size · 19 claims rest on one study
+> **Evidence** · 29 claims (12 for, 16 mixed, 1 against) · 37 studies (12 review, 7 causal, 7 theoretical, 5 quant-synthesis, 3 associational, 2 qualitative, 1 design), `q1`–`q4` · 6 of 37 report an effect size · 20 claims rest on one study
 
 ## Conditional relationship
 
@@ -136,6 +136,7 @@ Completion, achievement at the end of the course, self-reported autonomy or moti
 
 - [Process models of successful students come closer to self-regulated learning theory expectations than those of unsuccessful students, who do not evaluate their learning](../claims/process-mining-successful-unsuccessful-srl-models.md) [+W]
 - [The article hypothesizes that fostering self-determined, self-regulated and reflective adult educators and learners achieves the goal of creating people who know how to learn](../claims/fostering-three-factors-learning-how-to-learn.md) [~W]
+- [Journal analysis shows heavy GenAI reliance in secondary research and transcription but student autonomy in planning and interpretation of primary research](../claims/journals-secondary-research-heavy-genai-primary-autonomy.md) [~W]
 
 ## Related Principles
 - [Self-Regulated Learning](self-regulated-learning.md) — provides the mechanism-level account of how learners plan, monitor, and revise

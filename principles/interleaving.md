@@ -31,7 +31,7 @@ sources:
 # Interleaving
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (8 for, 9 mixed) · 14 studies (7 causal, 2 quant-synthesis, 2 review, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 5 of 14 report an effect size · 14 claims rest on one study
+> **Evidence** · 25 claims (13 for, 12 mixed) · 15 studies (7 causal, 3 quant-synthesis, 2 review, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 6 of 15 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 
@@ -134,6 +134,14 @@ The expectation should weaken if comparisons with comparable learners find no ad
 - [In the few studies that split by ability, learning techniques helped low-ability students and not high-ability students](../claims/learning-techniques-benefit-low-ability-not-high-ability-students.md) [~W]
 - [Interleaved practice improves delayed posttest performance compared with blocked practice](../claims/interleaved-practice-improves-posttest-performance.md) [+W]
 - [Accuracy in the mixed block decreases across trials while PES also decreases, independent of intelligence](../claims/accuracy-decreases-mixed-block-trials.md) [~W]
+- [At a 1-day test delay, interleaved practice yields a moderate benefit over blocked practice (d = 0.42)](../claims/interleaved-benefit-one-day-delay-d042.md) [+W]
+- [The interleaving benefit appears in three of four problem-type-by-delay comparisons; the slope-problem effect at 1 day was not statistically significant](../claims/interleaving-benefit-by-problem-type-and-delay.md) [~M]
+- [Interleaving benefits transfer to novel items from a learned category, with effect sizes of up to 0.66](../claims/interleaving-transfer-benefit-meta-analysis.md) [+W]
+- [The interleaving benefit is not caused by spacing, and the benefit extends to delayed tests](../claims/interleaving-not-spacing-persists-over-delay.md) [+W]
+- [Interleaving during concept learning benefits memory of studied items, with effect sizes (Hedges' g) of up to 0.65](../claims/interleaving-memory-benefit-meta-analysis.md) [+W]
+- [Interleaving is especially useful for inductive, subtle pattern learning without a clear verbal rule, but can equal or exceed blocking in rule-based domains too](../claims/interleaving-rule-based-learning-boundary.md) [+W]
+- [The interleaving literature is dominated by laboratory studies of university undergraduates, with no included study using high-school participants](../claims/interleaving-literature-lab-undergraduate-dominance.md) [~W]
+- [Interleaving is most useful when differences between items are subtle; blocking can be preferable when category members are diverse](../claims/interleaving-similarity-boundary-condition.md) [~W]
 
 ## Related Principles
 - [Spaced Learning](spaced-learning.md) — when practice of the same thing recurs; usually confounded with interleaving

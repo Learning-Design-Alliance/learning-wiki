@@ -27,7 +27,7 @@ sources:
 # Personalization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 64 claims (25 for, 28 mixed, 6 against, 5 unmarked) · 68 studies (23 review, 19 causal, 8 qualitative, 7 theoretical, 4 associational, 4 design, 3 quant-synthesis), `q1`–`q4` · 7 of 68 report an effect size · 59 claims rest on one study
+> **Evidence** · 66 claims (26 for, 29 mixed, 6 against, 5 unmarked) · 69 studies (23 review, 19 causal, 8 qualitative, 8 theoretical, 4 associational, 4 design, 3 quant-synthesis), `q1`–`q4` · 7 of 69 report an effect size · 61 claims rest on one study
 
 ## Conditional relationship
 
@@ -174,6 +174,8 @@ Engagement, immediate achievement on an aligned test, time saved, delayed retent
 - [ChatGPT-generated synthesis claims benefits for personalized tutoring, automated essay grading, language translation, interactive learning, and adaptive learning, citing supporting studies](../claims/chatgpt-education-benefits-taxonomy.md) [~W]
 - [Cook et al. (2009) found no support for sensing/intuitive style-by-sequence interaction in medical education](../claims/cook-medical-education-no-style-interaction.md) [-W]
 - [Preservice teachers chose the easy video significantly more often for an ethnic minority student than for an ethnic majority student, all other information being equal](../claims/ethnic-minority-student-given-easy-video-study1.md) [-W]
+- [The same learner context supplied to an AI tutor produces qualitatively different, persona-aligned explanations of the same problem](../claims/learner-context-personalizes-ai-tutor-explanations.md) [+W]
+- [Participants required GSR self-knowledge of an assertive, conscientious, friendly personality with a customizable role](../claims/gsr-self-knowledge-personality-role-requirements.md) [~W]
 
 ## Related Principles
 - [Adaptive Learning](adaptive-learning.md) — the system-driven end of the personalization spectrum, where algorithms adjust difficulty and sequencing

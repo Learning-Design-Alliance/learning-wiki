@@ -18,7 +18,7 @@ sources:
 # Immediate Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 review, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Immediate feedback is the element in which response information is delivered close to the learner's action so it can still shape the next step. This page captures the element-level implementation of the broader immediate-feedback principle.
@@ -48,6 +48,7 @@ Immediate feedback is the element in which response information is delivered clo
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Intelligent tutoring systems can improve learning outcomes, particularly with immediate actionable feedback](../claims/its-improve-learning-outcomes-with-actionable-feedback.md) [+W]
+- [Immediate-feedback tutors allow learning from errors but deny learning from their downstream consequences](../claims/immediate-feedback-limits-downstream-error-learning.md) [~W]
 
 ## Related Elements
 - [Feedback](feedback.md)

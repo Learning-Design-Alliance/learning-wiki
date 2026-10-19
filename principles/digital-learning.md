@@ -27,7 +27,7 @@ sources:
 # Digital Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 66 claims (30 for, 33 mixed, 3 against) · 72 studies (18 causal, 16 review, 12 quant-synthesis, 11 theoretical, 6 associational, 5 qualitative, 4 design), `q1`–`q4` · 13 of 72 report an effect size · 57 claims rest on one study
+> **Evidence** · 67 claims (30 for, 34 mixed, 3 against) · 73 studies (18 causal, 16 review, 12 quant-synthesis, 12 theoretical, 6 associational, 5 qualitative, 4 design), `q1`–`q4` · 13 of 73 report an effect size · 58 claims rest on one study
 
 ## Conditional relationship
 
@@ -191,6 +191,7 @@ Access, use, assisted success, unaided immediate performance, delayed retention 
 - [Graduate students can effectively develop interactive educational online software modules as a curriculum component of an advanced science course](../claims/graduate-students-develop-interactive-modules-as-course-project.md) [~W]
 - [Of 13 online learning practice variables examined, only use of a blended approach and expanded time on task significantly influenced effectiveness; the other 11 did not.](../claims/eleven-of-thirteen-practice-variables-nonsignificant.md) [~W]
 - [A systematic search found almost no rigorous studies contrasting online and face-to-face instruction for K–12 students: none with computable effect sizes through 2006, and only five meeting meta-analysis criteria through July 2008.](../claims/few-rigorous-k12-online-studies.md) [~W]
+- [MAIC-UI, generating interactive STEM courseware from instructor documents, reported gains in learning agency in classroom deployment (attributed)](../claims/maic-ui-learning-agency-gains-attributed.md) [~W]
 
 ## Related Principles
 - [Flipped Learning](flipped-learning.md) — digital delivery often makes pre-class access and replayable initial exposure possible

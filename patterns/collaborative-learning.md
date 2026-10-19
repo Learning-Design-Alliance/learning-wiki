@@ -14,7 +14,7 @@ grain_size: lesson
 # Collaborative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 39 claims (14 for, 23 mixed, 2 against) · 35 studies (10 causal, 5 review, 5 qualitative, 5 theoretical, 4 quant-synthesis, 3 associational, 3 design), `q1`–`q4` · 5 of 35 report an effect size · 37 claims rest on one study
+> **Evidence** · 42 claims (16 for, 24 mixed, 2 against) · 38 studies (11 causal, 5 review, 5 associational, 5 qualitative, 5 theoretical, 4 quant-synthesis, 3 design), `q1`–`q4` · 7 of 38 report an effect size · 40 claims rest on one study
 
 ## Description and scope
 
@@ -132,6 +132,9 @@ This pattern is scoped to pairs and small groups where each member's individual 
 - [Solution quantity does not mediate the effect of collaboration on conceptual knowledge in PF](../claims/pf-solution-quantity-no-mediation.md) [~W]
 - [Teacher orchestration of collaborative-learning scripts is at least as important as the quality of the script design itself](../claims/teacher-orchestration-over-script-design.md) [~W]
 - [Collaborative inquiry learners obtain significantly higher post-test overall scores than individual learners](../claims/collaborative-inquiry-outperforms-individual-overall.md) [+W]
+- [Human–human pair programming fostered the highest perceptions of collaboration and social presence, surpassing both AI-assisted and individual conditions](../claims/human-pairing-highest-collaboration-social-presence.md) [+W]
+- [Students' self-efficacy for quantitative biology tasks significantly increased after completing collaborative group work assignments, with large effect sizes](../claims/group-work-increased-quantitative-self-efficacy.md) [+W]
+- [Leadership moves are distributed among members of children's collaborative learning groups rather than concentrated in a single leader](../claims/leadership-moves-distributed-among-group-members.md) [~W]
 
 ## Related Patterns
 - [Collaborative Inquiry](../principles/inquiry-based-learning.md)

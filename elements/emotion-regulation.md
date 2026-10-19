@@ -13,7 +13,7 @@ generated:
 # Emotion Regulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 20 claims (11 for, 9 mixed) · 24 studies (6 causal, 5 quant-synthesis, 5 associational, 3 review, 2 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 9 of 24 report an effect size · 15 claims rest on one study
+> **Evidence** · 23 claims (11 for, 12 mixed) · 27 studies (6 causal, 6 associational, 5 quant-synthesis, 5 review, 2 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 9 of 27 report an effect size · 18 claims rest on one study
 
 ## Description
 Emotion regulation in learning design refers to the deliberate integration of strategies and supports that help learners recognize and manage their emotional responses to academic demands. Drawing on Gross's process model, regulation can target the situation (choosing or modifying tasks), attention (redirecting focus), cognition (reappraising the meaning of stress), or response (calming techniques) [Gross, 1998]. In instructional contexts, the designer's role is to build regulation opportunities into the learning environment rather than assuming learners arrive with these skills.
@@ -69,6 +69,9 @@ Emotions are not noise around learning — they shape attention, working memory 
 - [An emotion-control strategy is expected to lower state anxiety early in training, with a stronger negative relationship for trainees high in trait anxiety](../claims/emotion-control-lowers-state-anxiety-trait-moderation.md) [+W]
 - [Emotion regulation variables predict academic outcomes (GPA and academic honors) beyond Big Five personality traits and gender in high school students](../claims/era-predicts-academic-outcomes-beyond-big-five.md) [+W]
 - [Above-FPL children improved more in staying calm and in control as family resilience increased, but no significant FPL moderated-mediation effects emerged](../claims/fpl-moderation-calm-control-no-moderated-mediation.md) [~W]
+- [Instructed reappraisal success improves with age across ages 10-23, following linear and quadratic trends](../claims/instructed-reappraisal-success-improves-age-10-23.md) [~W]
+- [Information Seekers with Low Emotional Strain showed the highest proportion of students capable of managing affect and the most effective coping and feedback-processing strategies](../claims/information-seekers-managing-affect.md) [~W]
+- [Effortful regulation is maximized at moderate levels of emotional and physiological reactivity and declines at very low or very high levels](../claims/inverted-u-arousal-executive-function.md) [~W]
 
 ## The evidence by question
 - *Does a brief regulation exercise before an evaluation (writing about worries, relabelling the feeling) protect anxious learners' performance?* [Brief expressive writing before an exam can raise test-anxious students' scores, but across the wider literature its effect on test performance is negligible](../claims/expressive-writing-improves-exam-performance.md) [~S]

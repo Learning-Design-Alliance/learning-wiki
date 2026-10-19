@@ -14,7 +14,7 @@ grain_size: course
 # Mentor Support in Self-Paced Online Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 99 claims (52 for, 41 mixed, 6 against) · 78 studies (16 associational, 15 causal, 12 review, 11 quant-synthesis, 9 qualitative, 8 theoretical, 7 design), `q1`–`q4` · 11 of 78 report an effect size · 89 claims rest on one study
+> **Evidence** · 100 claims (52 for, 42 mixed, 6 against) · 79 studies (16 causal, 16 associational, 12 review, 11 quant-synthesis, 9 qualitative, 8 theoretical, 7 design), `q1`–`q4` · 12 of 79 report an effect size · 90 claims rest on one study
 
 ## Description and scope
 
@@ -142,6 +142,7 @@ This pattern is scoped to support around self-paced online courses and programme
 - [Learners heed proactive promptings more systematically when a human tutor is accessible than when it is not](../claims/promptings-heeded-more-with-human-tutor.md) [+W]
 - [Learners use navigational help less when a human tutor is accessible, contradicting the expected direction](../claims/human-tutor-presence-reduces-navigational-help-use.md) [~M]
 - [Support demand across participants is concentrated: the most active decile accounts for 34.6% of queries and 42.9% of participants raised exactly one query](../claims/demand-concentration-across-participants-lorenz-gini.md) [~W]
+- [People value emotional and esteem support more from close humans than from AI systems, with no significant difference for informational support](../claims/humans-valued-emotional-esteem-support-over-ai.md) [~W]
 
 ## Related Patterns
 

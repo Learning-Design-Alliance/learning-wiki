@@ -19,7 +19,7 @@ sources:
 # Summative Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 65 claims (15 for, 38 mixed, 12 against) · 53 studies (16 associational, 12 theoretical, 7 review, 6 causal, 6 qualitative, 4 design, 2 quant-synthesis), `q1`–`q4` · 4 of 53 report an effect size · 64 claims rest on one study
+> **Evidence** · 67 claims (15 for, 40 mixed, 12 against) · 55 studies (17 associational, 13 theoretical, 7 review, 6 causal, 6 qualitative, 4 design, 2 quant-synthesis), `q1`–`q4` · 4 of 55 report an effect size · 66 claims rest on one study
 
 ## Conditional relationship
 
@@ -158,6 +158,8 @@ A summative score at the end of a course, retention months later, transfer to a 
 - [State tests under NCLB measured little higher-order thinking, with only 2 percent of math items qualifying](../claims/nclb-tests-low-higher-order-content.md) [-W]
 - [Summative examinations have a dual function: measuring achieved learning while also shaping and supporting learning through engagement with tasks](../claims/summative-assessment-dual-function-measure-and-support-learning.md) [+W]
 - [For all θ < 0.75, AI-generated exams were on average more informative than the standardized exams, with I(0) = 3.36 versus 2.5](../claims/ai-exams-informative-below-average-ability.md) [~W]
+- [The Key Stage 3 ICT assessment has more potential than CWRA and PISA to measure the full range of 21st century capabilities](../claims/key-stage-3-assessment-potential-advantage.md) [~W]
+- [Logistic regression can identify the ELP score at which students have a probability of 0.5 of being proficient on the academic content assessment, as a candidate English-proficient standard](../claims/logistic-regression-half-probability-criterion.md) [~W]
 
 ## Related Principles
 - [Formative Assessment](formative-assessment.md)

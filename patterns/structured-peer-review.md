@@ -24,7 +24,7 @@ grain_size: lesson
 # Structured Peer Review
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 36 claims (19 for, 16 mixed, 1 against) · 49 studies (13 causal, 10 quant-synthesis, 8 associational, 7 review, 4 qualitative, 4 theoretical, 3 design), `q1`–`q4` · 8 of 49 report an effect size · 23 claims rest on one study
+> **Evidence** · 37 claims (19 for, 17 mixed, 1 against) · 50 studies (13 causal, 10 quant-synthesis, 9 associational, 7 review, 4 qualitative, 4 theoretical, 3 design), `q1`–`q4` · 8 of 50 report an effect size · 24 claims rest on one study
 
 ## Description and scope
 
@@ -160,6 +160,7 @@ This pattern is scoped to peers commenting on an individual's draft that the aut
 - [Receiving positive affective feedback from peers is a significant predictor of assessees' project performance](../claims/receiving-positive-affective-feedback-predicts-assessee-performance.md) [~W]
 - [Reported reviser scores interact with episode for reading the assignment, with the effect reversing from episode 2 onwards](../claims/reviser-score-episode-reading-assignment.md) [~W]
 - [Higher-scoring students tend to be more reliable graders (except the very best), and students are least biased when grading peers with similar scores](../claims/grader-grade-relates-to-grading-reliability.md) [~W]
+- [Students rated peers' work from their own country 3.6% higher than work from elsewhere](../claims/in-group-favoritism-peer-grading-country.md) [~W]
 
 ## Related Patterns
 - [Collaborative Evaluation](collaborative-evaluation.md)

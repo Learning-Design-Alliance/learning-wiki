@@ -25,7 +25,7 @@ grain_size: unit
 # Self-Regulated Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 52 claims (19 for, 30 mixed, 3 against) · 47 studies (18 causal, 8 review, 8 associational, 6 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 13 of 47 report an effect size · 45 claims rest on one study
+> **Evidence** · 55 claims (19 for, 33 mixed, 3 against) · 49 studies (19 causal, 9 associational, 8 review, 6 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 13 of 49 report an effect size · 48 claims rest on one study
 
 ## Description and scope
 
@@ -152,6 +152,9 @@ This pattern is scoped to regulation attached to subject-matter tasks over a uni
 - [Teachers' SRL&T module scores improved modestly over the year, with Adam improving more (three to six points) than Ben (five to six)](../claims/srlt-module-scores-improvement-adam-ben.md) [~W]
 - [Empirical studies support Zimmerman's SRL models, including expert-novice differences and phase-training effects](../claims/empirical-support-zimmerman-srl-models.md) [+W]
 - [Explicit group regulation in online PBL was infrequent, emerged in response to challenges, and often involved teacher support](../claims/explicit-regulation-infrequent-challenge-responsive.md) [~W]
+- [Low-prior-knowledge students struggle to deploy key self-regulatory processes during learning](../claims/low-prior-knowledge-students-struggle-self-regulation.md) [~W]
+- [Teachers allocated on average five percent of intervention sessions to predicting and purpose setting, with fidelity of implementation averaging 45.4%](../claims/low-time-and-fidelity-engaged-reader-processes.md) [~W]
+- [Learners often fail to regulate their own learning in computer-based learning environments](../claims/learners-fail-self-regulation-in-cbles.md) [~W]
 
 ## Key Sources
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64-70. [https://doi.org/10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

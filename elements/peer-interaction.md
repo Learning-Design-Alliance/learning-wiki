@@ -13,7 +13,7 @@ generated:
 # Peer Interaction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 16 claims (9 for, 7 mixed) · 20 studies (6 review, 5 causal, 3 associational, 2 quant-synthesis, 2 qualitative, 2 theoretical), `q1`–`q4` · 2 of 20 report an effect size · 14 claims rest on one study
+> **Evidence** · 19 claims (9 for, 10 mixed) · 23 studies (6 review, 5 causal, 5 associational, 3 qualitative, 2 quant-synthesis, 2 theoretical), `q1`–`q4` · 3 of 23 report an effect size · 17 claims rest on one study
 
 ## Description
 Peer interaction places learners in direct engagement with one another through discussion, debate, peer teaching, or collaborative task work. It functions as a social engine for learning: learners articulate ideas, encounter alternative perspectives, and negotiate shared understanding rather than receiving instruction passively.
@@ -66,6 +66,9 @@ Peer interaction supports learning when it requires learners to actively constru
 - [Nearly all peer critique disagreements were resolved, mostly through concession, with co-construction appearing only in soft and mixed disagreements](../claims/disagreement-resolution-consensus-concession.md) [~W]
 - [More unequal distribution of participation in online collaboration groups is associated with lower satisfaction with the collaboration](../claims/unequal-participation-lower-satisfaction.md) [~W]
 - [Sharing perceptual experiences through discussion improves individual performance beyond mere task practice](../claims/discussion-improves-individual-perception.md) [+W]
+- [First-language heterogeneity is negatively related to time spent getting to know each other and positively related to time spent on task-related communication](../claims/heterogeneity-correlates-with-initial-activity-time-patterns.md) [~W]
+- [Individual anger trajectories rose alongside science talk until an inflection point, after which engagement dropped sharply](../claims/individual-anger-inflection-lisa.md) [~W]
+- [The study examined how LLMs affected group dynamics, idea generation, consensus building, and overall productivity in team-based projects](../claims/llm-effects-on-group-dynamics-idea-generation-consensus-productivity.md) [~W]
 
 ## The evidence by question
 - *Does class time spent with learners talking, explaining and discussing, rather than listening, change what they think about and understand, and does more talk alone do it?* [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](../claims/discussion-promotes-more-active-thought-than-lecture.md) [+S]

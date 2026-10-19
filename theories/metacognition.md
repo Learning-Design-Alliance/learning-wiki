@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 314 claims (155 for, 141 mixed, 18 against) · 167 studies (89 causal, 38 associational, 11 review, 10 qualitative, 10 theoretical, 6 quant-synthesis, 3 design), `q1`–`q4` · 60 of 167 report an effect size · 308 claims rest on one study
+> **Evidence** · 329 claims (161 for, 150 mixed, 18 against) · 168 studies (90 causal, 38 associational, 11 review, 10 qualitative, 10 theoretical, 6 quant-synthesis, 3 design), `q1`–`q4` · 62 of 168 report an effect size · 323 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -356,6 +356,21 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Metacognition profile classifications differ between second and fourth graders](../claims/grade-level-differences-metacognition-profiles.md) [+W]
 - [The foresight bias has behavioral consequences: learners allocate similar study time to backward and forward pairs despite markedly lower recall for backward pairs](../claims/foresight-bias-distorts-study-time-allocation.md) [-W]
 - [GenAI access reduces perceived difficulty of the assisted reasoning task](../claims/genai-reduces-perceived-task-difficulty.md) [~W]
+- [Han students' metacognitive knowledge scores were significantly higher than Yao students' at each of four annual measurements from grade 3 to grade 6](../claims/han-higher-mck-than-yao-each-year.md) [~W]
+- [Higher-achieving students tend to be more accurate but more underconfident in calibration than lower-achieving students](../claims/higher-achievers-more-accurate-underconfident-calibration.md) [+W]
+- [Hard-easy effect: students are more accurate but underconfident on easy items and less accurate but overconfident on difficult items](../claims/hard-easy-effect-calibration.md) [+W]
+- [Older adults show lower JOL resolution only when recollection-based responses are contrasted with pooled familiarity and new responses, an outcome attributed to age-related decreases in strong recollective experiences at test](../claims/lower-jol-resolution-recollection-contrast.md) [~W]
+- [Low-confidence judgments on one problem predict better strategy selection on the immediately following problem, equally in young and older adults](../claims/low-confidence-regulates-next-item-strategy-selection.md) [+W]
+- [Combined with adolescent data, the lifespan profile of perceptual metacognitive efficiency is an inverted-U](../claims/inverted-u-lifespan-profile-of-metacognition.md) [~W]
+- [Individual differences in metacognitive knowledge expressions relate to children's mathematical competence and verbalization style](../claims/individual-differences-metacognitive-expressions.md) [+W]
+- [Monitoring resolution improves with study–test practice, with larger gains for backward than for forward pairs](../claims/jol-resolution-improves-with-practice.md) [+W]
+- [JoL–mastery accuracy trajectories over the five weeks rose in the elicit condition, declined in the none condition, and were mixed in the tell condition](../claims/jol-accuracy-trajectories-by-condition.md) [~W]
+- [Little or no relation between absolute and relative accuracy in metacomprehension research](../claims/little-relation-absolute-relative-accuracy.md) [~W]
+- [MAKQ dimensions correlate moderately with each other, with strategy knowledge only weakly related to the self-perception scales](../claims/makq-intercorrelations-self-strategy.md) [~W]
+- [Judging words as likely to be forgotten enhanced their recall relative to unselected words under simultaneous presentation with fixed or self-paced study time](../claims/judging-forgetting-enhances-recall-reactivity.md) [+W]
+- [Incentives significantly improved calibration accuracy only among lower-achieving students in a college-course quasi-experiment](../claims/incentives-improve-calibration-lower-achievers.md) [~W]
+- [The MAKQ self-knowledge items show a stable two-factor structure: meta-attention control (15 items) and meta-attention monitoring (5 items)](../claims/makq-two-factor-self-knowledge-structure.md) [~W]
+- [Generating delayed keywords does not reduce bias in comprehension judgments](../claims/keyword-generation-does-not-reduce-bias.md) [~W]
 
 ## The evidence by question
 

@@ -26,7 +26,7 @@ sources:
 # Text underlining and annotating
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 13 claims (2 for, 8 mixed, 3 against) · 9 studies (4 causal, 2 quant-synthesis, 2 associational, 1 review), `q2`–`q4` · 3 of 9 report an effect size · 12 claims rest on one study
+> **Evidence** · 14 claims (3 for, 8 mixed, 3 against) · 10 studies (4 causal, 2 quant-synthesis, 2 associational, 1 review, 1 design), `q1`–`q4` · 3 of 10 report an effect size · 13 claims rest on one study
 
 ## Description
 A study aid involving marking text to indicate importance. Underlining (or highlighting) designates important information within the text; annotating adds marginal notes or written responses that go beyond selection to interpretation. The two differ in cognitive depth: underlining is a selection activity, while annotating is a generative one.
@@ -76,6 +76,7 @@ Underlining alone is one of the weakest studied techniques for durable learning;
 - [Initiating annotation frequency strongly correlates with re-annotation frequency across groups (Kendall's tau = 0.95)](../claims/initiating-and-reannotation-strong-correlation.md) [~W]
 - [When every word was judged, words circled as to-be-remembered were recalled better and words underlined as to-be-forgotten worse than a no-instruction control group's recall](../claims/judging-every-item-remember-enhanced-forget-impaired.md) [~W]
 - [Engagement via annotation (underlining, highlighting, notes) shows no significant effect on comprehension](../claims/annotation-engagement-no-comprehension-effect.md) [-W]
+- [After introduction, the student used the INSERT text-marking strategy consistently and independently, suggesting transfer](../claims/insert-strategy-independent-use-transfer-case.md) [+W]
 
 ## The evidence by question
 - *Does asking learners to highlight or underline while reading improve learning over reading alone, and for which outcomes?* [Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here](../claims/annotating-improves-learning.md) [+S]

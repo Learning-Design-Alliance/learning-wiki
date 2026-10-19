@@ -17,7 +17,7 @@ sources:
 # Administer universal early literacy screening three times per year plus dyslexia-characteristics screening in K–2
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 14 claims (6 for, 7 mixed, 1 against) · 10 studies (8 associational, 1 causal, 1 design), `q2`–`q3` · 0 of 10 report an effect size · 14 claims rest on one study
+> **Evidence** · 15 claims (7 for, 7 mixed, 1 against) · 11 studies (8 associational, 2 design, 1 causal), `q2`–`q3` · 0 of 11 report an effect size · 15 claims rest on one study
 
 ## Description
 The toolkit prescribes universal early literacy screeners for all K–3 students "administered three times per year with progress monitoring along the way," serving as a "first alert" that a student may need extra help and helping teachers tailor instruction. It additionally requires screening all students for characteristics of dyslexia at the end of Kindergarten and the beginning of 1st and 2nd grades, with diagnosis reserved to licensed professionals.
@@ -55,6 +55,7 @@ The toolkit prescribes universal early literacy screeners for all K–3 students
 - [Kindergarten DIBELS subtests significantly predict first-grade TerraNova vocabulary, language, and reading outcomes](../claims/dibels-predict-terranova-first-grade.md) [+W]
 - [Kindergarten DIBELS subtests predict first-grade instructional reading, with Letter Naming Fluency the strongest predictor](../claims/dibels-predict-first-grade-reading.md) [+W]
 - [Students from low income backgrounds, English learners, students receiving special education services, and Black and Hispanic students were more often identified as at significant risk](../claims/disparities-in-early-literacy-risk-identification-massachusetts.md) [~W]
+- [Universal screening data from full-implementation schools show average fall-to-spring gains in reading and math, largest in kindergarten](../claims/kansas-mtss-screening-gains-full-implementation.md) [+W]
 
 ## The evidence by question
 - *Do early literacy screeners accurately identify which students will go on to struggle in reading?* [Literacy screener benchmarks predict which grade 3 students will not meet MCAS ELA expectations, but not necessarily who will meet them](../claims/screeners-predict-mcas-failure-not-success.md) [~W]

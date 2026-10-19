@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 147 claims (75 for, 66 mixed, 6 against) · 123 studies (45 associational, 36 causal, 12 review, 11 quant-synthesis, 7 theoretical, 6 qualitative, 6 design), `q1`–`q4` · 32 of 123 report an effect size · 132 claims rest on one study
+> **Evidence** · 150 claims (77 for, 67 mixed, 6 against) · 125 studies (46 associational, 37 causal, 12 review, 11 quant-synthesis, 7 theoretical, 6 qualitative, 6 design), `q1`–`q4` · 32 of 125 report an effect size · 135 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -194,6 +194,9 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Some interventions brought more improvements in self-regulation measures of those with lower baseline scores, offering promise for resource-constrained settings.](../claims/greater-sr-gains-for-lower-baseline-scores.md) [+W]
 - [The robotics task prompted longer group-level regulation of emotion–motivation than the conceptual physics task](../claims/emotion-motivation-regulation-longer-robotics.md) [~W]
 - [Exploratory learning is expected to raise metacognitive activity, which in turn increases strategic knowledge and adaptive transfer](../claims/exploratory-learning-metacognition-adaptive-transfer-pathway.md) [+W]
+- [Low-prior-knowledge students struggle to deploy key self-regulatory processes during learning](../claims/low-prior-knowledge-students-struggle-self-regulation.md) [+W]
+- [There is a lack of consensus regarding student-, intervention-, and setting-level variables supporting self-monitoring use in schools](../claims/lack-of-consensus-sm-variables.md) [~W]
+- [L1 writing metacognitive strategies transfer to L2 writing, invariant across L2 proficiency and academic major groups](../claims/l1-l2-transfer-of-writing-metacognitive-strategies-invariant.md) [+W]
 
 ## The evidence by question
 

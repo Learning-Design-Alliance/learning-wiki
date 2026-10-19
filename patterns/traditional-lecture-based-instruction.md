@@ -21,7 +21,7 @@ sources:
 # Traditional Lecture-Based Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 22 claims (2 for, 14 mixed, 6 against) · 31 studies (10 review, 6 causal, 6 theoretical, 4 quant-synthesis, 4 qualitative, 1 design), `q1`–`q4` · 4 of 31 report an effect size · 16 claims rest on one study
+> **Evidence** · 24 claims (2 for, 14 mixed, 8 against) · 33 studies (10 review, 7 causal, 6 theoretical, 4 quant-synthesis, 4 qualitative, 1 associational, 1 design), `q1`–`q4` · 4 of 33 report an effect size · 18 claims rest on one study
 
 ## Description and scope
 
@@ -144,6 +144,8 @@ This pattern is scoped to courses where a lecturer's explanation to a whole grou
 ## Claims
 
 - [Objective feedback is neither necessary nor sufficient for the group advantage; discussion is the critical factor](../claims/feedback-not-needed-for-group-advantage.md) [+W]
+- [The authors conclude that students in Just-in-Time Teaching courses better understand Newton's Third Law after instruction than students in traditional lecture courses](../claims/jitt-better-newtons-third-law-understanding.md) [-W]
+- [Predominantly lecture-based courses are associated with less engagement, while class discussion and group work time are associated with more](../claims/lecture-decreases-discussion-groupwork-increase-engagement.md) [-W]
 
 ## Related Patterns
 - [Direct Instruction](direct-instruction.md) — the explain, model, guided-practice and hand-over policy; a lecture segment is its explanation step delivered to a large group

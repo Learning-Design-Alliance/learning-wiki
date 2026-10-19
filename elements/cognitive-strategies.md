@@ -26,7 +26,7 @@ sources:
 # Cognitive Strategies
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 12 claims (8 for, 3 mixed, 1 against) · 19 studies (6 causal, 6 review, 4 quant-synthesis, 2 associational, 1 theoretical), `q1`–`q4` · 6 of 19 report an effect size · 7 claims rest on one study
+> **Evidence** · 13 claims (8 for, 4 mixed, 1 against) · 20 studies (7 review, 6 causal, 4 quant-synthesis, 2 associational, 1 theoretical), `q1`–`q4` · 6 of 20 report an effect size · 8 claims rest on one study
 
 ## Description
 Cognitive strategies are deliberate mental procedures learners apply to process information: **rehearsal** (repeating or copying), **elaboration** (connecting new material to prior knowledge), **organization** (imposing structure such as outlines or hierarchies), and **comprehension monitoring** (checking understanding while working). As an instructional element, cognitive strategy instruction means explicitly teaching these procedures — naming them, modeling them, and prompting their use — rather than assuming learners will discover them independently.
@@ -72,6 +72,7 @@ Strategy instruction improves learning most when strategies are taught explicitl
 - [Students emphasising rehearsal and memorisation techniques showed lower conceptual understanding and less DLC interaction](../claims/rehearsal-negative-concept-dlc-interaction.md) [-W]
 - [Successful hypermedia learners showed more orientation and planning before processing content, deeper elaboration, constant monitoring, and evaluation compared to less successful students](../claims/process-mining-successful-learners-orientation-planning.md) [+W]
 - [During revision, supported groups (AI, human expert, checklist) engage more in elaboration, organisation and orientation, while AI and human-expert groups read less than the control group](../claims/agent-support-srl-frequency-differences-revision.md) [+W]
+- [The imagination effect (cognitive rehearsal of example procedures) enhances learning only for learners with prior knowledge](../claims/imagination-effect-expertise-reversal.md) [~W]
 
 ## The evidence by question
 

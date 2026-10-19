@@ -13,7 +13,7 @@ generated:
 # Self-Monitoring
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (4 for, 4 mixed) · 11 studies (5 quant-synthesis, 4 causal, 2 associational), `q2`–`q4` · 3 of 11 report an effect size · 4 claims rest on one study
+> **Evidence** · 11 claims (4 for, 7 mixed) · 12 studies (5 quant-synthesis, 4 causal, 2 associational, 1 theoretical), `q2`–`q4` · 3 of 12 report an effect size · 7 claims rest on one study
 
 ## Description
 Self-monitoring is the element in which learners track their own attention, behavior, progress, or accuracy during learning.
@@ -34,6 +34,9 @@ Self-monitoring is the element in which learners track their own attention, beha
 - [Self-scoring improves regulation accuracy for the whole sample, but not significantly for low- and high-performing students on division tasks](../claims/self-scoring-regulation-accuracy-limited-division.md) [~W]
 - [Self-scoring improves primary students' monitoring accuracy on math problem-solving tasks to near-accurate levels](../claims/self-scoring-improves-monitoring-accuracy-math.md) [+W]
 - [Better calibration (lower Absolute Accuracy Index) is associated with higher Word Reading and Composite achievement scores](../claims/absolute-accuracy-index-predicts-reading-composite.md) [~W]
+- [Higher-achieving students tend to be more accurate but more underconfident in calibration than lower-achieving students](../claims/higher-achievers-more-accurate-underconfident-calibration.md) [~W]
+- [Incentives significantly improved calibration accuracy only among lower-achieving students in a college-course quasi-experiment](../claims/incentives-improve-calibration-lower-achievers.md) [~W]
+- [Little or no relation between absolute and relative accuracy in metacomprehension research](../claims/little-relation-absolute-relative-accuracy.md) [~W]
 
 ## The evidence by question
 - *Does having learners record their own on-task behaviour at set intervals improve that behaviour, and for whom?* [Self Monitoring Improves On Task Behavior](../claims/self-monitoring-improves-on-task-behavior.md) [+S]

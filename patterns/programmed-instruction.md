@@ -15,7 +15,7 @@ grain_size: lesson
 # Programmed Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 18 claims (5 for, 11 mixed, 2 against) · 17 studies (8 quant-synthesis, 3 causal, 3 associational, 2 theoretical, 1 review), `q1`–`q4` · 5 of 17 report an effect size · 14 claims rest on one study
+> **Evidence** · 19 claims (5 for, 12 mixed, 2 against) · 18 studies (8 quant-synthesis, 3 causal, 3 associational, 2 review, 2 theoretical), `q1`–`q4` · 5 of 18 report an effect size · 15 claims rest on one study
 
 ## Description and scope
 
@@ -140,6 +140,7 @@ This pattern is scoped to well-defined content whose steps have checkable answer
 ## Claims
 
 - [Guidance, immediate feedback, and system-directed control showed unadjusted moderator signals that did not survive multiplicity adjustment, making them hypothesis-generating only](../claims/design-moderators-unadjusted-only-hypothesis-generating.md) [~W]
+- [Immediate-feedback tutors allow learning from errors but deny learning from their downstream consequences](../claims/immediate-feedback-limits-downstream-error-learning.md) [~W]
 
 ## Related Patterns
 

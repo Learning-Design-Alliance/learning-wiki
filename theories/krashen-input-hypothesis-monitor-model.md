@@ -12,7 +12,7 @@ generated:
 # Krashen's input hypothesis and Monitor Model of second language acquisition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 8 claims (5 for, 1 mixed, 2 against) · 10 studies (3 quant-synthesis, 3 review, 1 causal, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q3` · 2 of 10 report an effect size · 7 claims rest on one study
+> **Evidence** · 9 claims (5 for, 1 mixed, 3 against) · 11 studies (3 quant-synthesis, 3 review, 2 causal, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q3` · 2 of 11 report an effect size · 8 claims rest on one study
 
 <!-- Hub page (2026-09-30). The Description is compiled from the fetched articles that discuss this theory: eric-ed226607, eric-ed294203, eric-ed242194, eric-ej1071042, eric-ed338037, eric-ed367161, eric-ej1095572, eric-ej420159, eric-ej912917, eric-ed512082, eric-ej1051487. The primary works in Key Sources were verified against Crossref but not read. -->
 
@@ -48,6 +48,7 @@ The critiques are sharper than the defences. Adamson argues that the absolute sp
 - [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](../claims/comprehensible-input-insufficient-grammar-acquisition.md) [-M]
 - [Mere exposure to the target language does not automatically lead to native-like communicative competence in adult learners](../claims/mere-exposure-insufficient-advanced-l2-communicative-competence.md) [-W]
 - [Participants incidentally acquired an average of 3.19 of 20 target words after reading two passages](../claims/incidental-acquisition-rate-3-of-20-words.md) [+W]
+- [Implicit learners do not outperform other learners on complex second language rules](../claims/implicit-not-superior-complex-rules.md) [-W]
 
 ## The evidence by question
 - *Is exposure to meaningful input enough for learners to acquire L2 grammar, or do some forms need explicit instruction and practice?* [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](../claims/comprehensible-input-insufficient-grammar-acquisition.md) [-M]

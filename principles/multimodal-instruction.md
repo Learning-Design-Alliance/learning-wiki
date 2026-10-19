@@ -31,7 +31,7 @@ sources:
 # Multimodal Instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 20 claims (7 for, 10 mixed, 3 against) · 31 studies (13 causal, 9 review, 5 quant-synthesis, 2 associational, 1 qualitative, 1 design), `q2`–`q4` · 7 of 31 report an effect size · 14 claims rest on one study
+> **Evidence** · 21 claims (7 for, 11 mixed, 3 against) · 32 studies (14 causal, 9 review, 5 quant-synthesis, 2 associational, 1 qualitative, 1 design), `q2`–`q4` · 7 of 32 report an effect size · 15 claims rest on one study
 
 ## Conditional relationship
 
@@ -145,6 +145,7 @@ A learner's preference for a mode, immediate comprehension, the ability to trans
 - [No significant medium, context, or interaction effects on integration of information across complementary texts or videos](../claims/no-medium-context-effect-integration.md) [-W]
 - [Complex additions are more accurate in visual than auditory format, with the auditory deficit shrinking with age](../claims/auditory-format-accuracy-deficit-complex-additions.md) [~W]
 - [Folk-tales were used in every session, with photos (78%), videos (74%), songs (67%), classical tales (70%) and crafts (55%) as multimodal materials](../claims/folktale-program-material-frequencies-multimodal.md) [+W]
+- [The effect of learning mode on children’s SSI applications was largest among elementary school children](../claims/learning-mode-effect-largest-elementary-children.md) [~W]
 
 ## Related Principles
 - [Creating Visual Representations](dual-coding.md) — multimodal instruction often incorporates learner-generated visuals and explanations.

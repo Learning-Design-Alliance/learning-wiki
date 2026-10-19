@@ -13,7 +13,7 @@ generated:
 # Prompts
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 23 claims (9 for, 12 mixed, 2 against) · 31 studies (14 causal, 6 quant-synthesis, 5 review, 2 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 6 of 31 report an effect size · 17 claims rest on one study
+> **Evidence** · 24 claims (9 for, 13 mixed, 2 against) · 32 studies (15 causal, 6 quant-synthesis, 5 review, 2 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 7 of 32 report an effect size · 18 claims rest on one study
 
 ## Description
 A prompt is a cue, question, or instruction embedded in a learning task that directs learner attention, elicits a response, or scaffolds a cognitive process at the moment it is needed. Prompts range from simple procedural reminders ("check your units") to elaborative questions ("why does this solution work?") to metacognitive self-questioning stems ("what strategy am I using, and is it working?").
@@ -70,6 +70,7 @@ Prompts work by triggering self-explanations and strategic processing that learn
 - [Combining cognitive and metacognitive prompts optimizes germane processing; metacognitive prompts alone help only when remedial planning is prompted and remediation is possible](../claims/combine-cognitive-metacognitive-prompts.md) [~W]
 - [The effectiveness of CSCL scripts for domain learning does not significantly depend on the number of different collaborative activities prompted](../claims/cscl-effectiveness-independent-of-number-of-activity-prompts.md) [~W]
 - [Cognitive and metacognitive prompts in learning journals helped early in a term but became detrimental by its end; adaptive fading-out mitigated this](../claims/expertise-reversal-writing-journal-prompts-fading.md) [~W]
+- [Framing reminders as losses reduces, but does not eliminate or reverse, the reminder bias in both between- and within-participants designs](../claims/loss-framing-reduces-reminder-bias.md) [~W]
 
 ## The evidence by question
 

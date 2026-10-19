@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 23 claims (14 for, 9 mixed) · 23 studies (6 associational, 5 review, 4 theoretical, 2 causal, 2 quant-synthesis, 2 qualitative, 2 design), `q1`–`q4` · 3 of 23 report an effect size · 22 claims rest on one study
+> **Evidence** · 28 claims (17 for, 11 mixed) · 27 studies (7 associational, 6 review, 5 theoretical, 3 causal, 3 design, 2 quant-synthesis, 1 qualitative), `q1`–`q4` · 3 of 27 report an effect size · 27 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -58,6 +58,11 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [Emerging technologies show a small-to-moderate positive overall effect on TEFL outcomes (g = 0.38, corrected to 0.28 for publication bias)](../claims/emerging-tech-tefl-pooled-effect-g038.md) [+W]
 - [GenAI tools are already widely used in the academic work of the surveyed undergraduates](../claims/genai-widely-used-in-student-academic-work.md) [+W]
 - [Across three physics assessments, students who declared GenAI use scored slightly higher than non-users, but none of the differences were statistically significant](../claims/genai-users-slightly-higher-scores-not-significant-physics.md) [~W]
+- [Students reported high satisfaction with GenAI in STEAM learning, following gradual-improvement and fluctuation patterns](../claims/high-satisfaction-genai-steam-gradual-and-fluctuating.md) [~W]
+- [A preliminary iPad case study confirmed the creative potential of the elderly and tablets' potential to overcome ICT adoption challenges](../claims/ipad-case-study-elderly-creative-collaboration.md) [+W]
+- [Students using LecturaAgents reported stronger perceived understanding, assessment readiness, and future learning support than comparison-tool users](../claims/lecturaagents-student-survey-perceptions.md) [+W]
+- [Large language models can support learning and teaching across education levels, from reading and writing support for elementary students to professional training](../claims/llm-support-learning-across-education-levels.md) [+W]
+- [A struggling fifth-grade reader with ADHD gained one full grade level in reading over six weeks of iPad-mediated tutoring](../claims/ipad-tutoring-one-grade-level-growth-six-weeks-adhd-case.md) [~W]
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]

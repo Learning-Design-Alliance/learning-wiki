@@ -17,7 +17,7 @@ sources:
 # Four-Phase Taxonomy of Knowledge Tracing Variants
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 2 studies (1 review, 1 design), `q2` · 0 of 2 report an effect size · 6 claims rest on one study
 
 ## Description
 The survey's second organizing axis groups extensions of the fundamental models by the learning phase they add: "we classify and review current variants of fundamental KT models into four categories" — individualization before learning, engagement during learning, forgetting after learning, and side information across learning. Examples include student-node BKT and DKT-DSC clustering, KAT and EEG-BKT, BKT-Forget and DKT-forget, and FAST and EKT.
@@ -37,10 +37,12 @@ The survey's second organizing axis groups extensions of the fundamental models 
 - Monitoring students' evolving knowledge states on knowledge concepts and predicting performance on future exercises
 
 ### Claims
+
 - [Individualized Bkt Reduces Questions Needed For Mastery](../claims/individualized-bkt-reduces-questions-needed-for-mastery.md) [+W]
 - [Engagement Covariates Improve Deep Knowledge Tracing](../claims/engagement-covariates-improve-deep-knowledge-tracing.md) [+W]
 - [Bkt Overestimates Accuracy After A Day Elapses](../claims/bkt-overestimates-accuracy-after-a-day-elapses.md) [+W]
 - [Language Proficiency Side Information Improves Kt Models](../claims/language-proficiency-side-information-improves-kt-models.md) [+W]
+- [Customizing knowledge-node priors from pretest scores improves model accuracy, but tailoring SE-tendency priors yields no significant improvement](../claims/knowledge-priors-help-se-tendency-priors-do-not.md) [~W]
 
 ## The evidence by question
 - *Does extending a knowledge-tracing model with individual parameters, engagement signals, forgetting or other side information improve how well it predicts learners' answers?* [The survey reports, citing Pavlik et al., that no single knowledge tracing model was always the best, and that a better model must consider multiple student features and the learning context.](../claims/no-single-knowledge-tracing-model-is-always-best.md) [+W]

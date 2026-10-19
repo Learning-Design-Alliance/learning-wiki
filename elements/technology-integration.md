@@ -13,7 +13,7 @@ generated:
 # Technology Integration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 65 claims (28 for, 32 mixed, 5 against) · 60 studies (13 associational, 10 qualitative, 9 causal, 9 review, 7 quant-synthesis, 7 design, 5 theoretical), `q1`–`q4` · 11 of 60 report an effect size · 63 claims rest on one study
+> **Evidence** · 66 claims (28 for, 33 mixed, 5 against) · 61 studies (14 associational, 10 qualitative, 9 causal, 9 review, 7 quant-synthesis, 7 design, 5 theoretical), `q1`–`q4` · 11 of 61 report an effect size · 64 claims rest on one study
 
 ## Description
 Technology integration is the element in which digital tools are used in direct service of learning goals, feedback, access, or collaboration.
@@ -90,6 +90,7 @@ Technology integration is the element in which digital tools are used in direct 
 - [Learning gains were uncorrelated with prior self-reported AI literacy and database literacy, suggesting AI integration benefited students irrespective of prior perceptions](../claims/gains-uncorrelated-with-prior-literacy.md) [+W]
 - [Nearly four in five Chinese HSS students perceived academic performance gains from GenAI, which the authors caution may reflect assessment limitations](../claims/genai-performance-gains-assessment-caution.md) [~W]
 - [GenAI-supported writing instruction yields a statistically significant positive pooled effect on L2/EFL writing performance (g = 0.80) with very high heterogeneity](../claims/genai-writing-instruction-pooled-effect-g-080.md) [~W]
+- [LLM usage varied across assignments and tasks, increasing for later assignments (especially discussion points), while Low-Reliance students concentrated use early and reduced it after Midterm 2](../claims/llm-usage-trends-across-assignments.md) [~W]
 
 ## The evidence by question
 - *Does building AI tools into instruction raise achievement over teaching the same content without them, and in which settings?* [AI-supported instruction has a moderate positive effect on student achievement in STEM education (g = 0.670 under a random effects model)](../claims/ai-instruction-stem-moderate-positive-effect.md) [+M]

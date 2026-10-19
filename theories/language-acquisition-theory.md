@@ -12,7 +12,7 @@ generated:
 # Language Acquisition Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 8 claims (7 for, 1 mixed) · 6 studies (3 associational, 2 review, 1 causal), `q2`–`q3` · 0 of 6 report an effect size · 7 claims rest on one study
+> **Evidence** · 10 claims (8 for, 2 mixed) · 8 studies (4 associational, 3 review, 1 causal), `q2`–`q3` · 0 of 8 report an effect size · 9 claims rest on one study
 
 ## Description
 How children acquire language so quickly and reliably, without formal instruction, is a long-running theoretical debate with three main competing accounts.
@@ -48,6 +48,8 @@ The current consensus among researchers is that no single account is sufficient 
 - [Prosodic and sound-level features of child-directed speech support infants' phoneme discrimination, word segmentation, and word learning](../claims/cds-prosody-supports-phoneme-segmentation.md) [+W] — attached 2026-10-17 from Schwab Jessica F. (2016), which proposed "Child-directed speech as a multi-feature input register whose prosodic, structural, and social characteristics differentially drive early language learning"; tests this page's relationship.
 - [Social contingency in parent–child interaction supports early language learning, and infants actively elicit higher-quality input through a social feedback loop](../claims/social-feedback-loop-contingency-language.md) [+W] — attached 2026-10-17 from Schwab Jessica F. (2016), which proposed "Child-directed speech as a multi-feature input register whose prosodic, structural, and social characteristics differentially drive early language learning"; tests this page's relationship.
 - [Infants' preference for and learning benefit from child-directed speech change over development, with CDS advantages diminishing by the third year](../claims/cds-benefits-vary-developmental-window.md) [~W] — attached 2026-10-17 from Schwab Jessica F. (2016), which proposed "Child-directed speech as a multi-feature input register whose prosodic, structural, and social characteristics differentially drive early language learning".
+- [Input quantity at 18 months predicts child vocabulary at 30 months over and above SES and prior vocabulary skill](../claims/input-quantity-18-months-predicts-vocabulary-30-months.md) [+W]
+- [Child maltreatment has a documented independent negative impact on children's language development](../claims/maltreatment-independent-impact-language.md) [~W]
 
 ## Related Theories
 

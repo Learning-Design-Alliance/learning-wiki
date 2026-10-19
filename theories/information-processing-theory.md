@@ -17,7 +17,7 @@ sources:
 # Information Processing Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 64 claims (34 for, 30 mixed) · 45 studies (16 causal, 15 associational, 8 review, 3 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 10 of 45 report an effect size · 62 claims rest on one study
+> **Evidence** · 72 claims (38 for, 34 mixed) · 50 studies (17 causal, 17 associational, 10 review, 3 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 10 of 50 report an effect size · 69 claims rest on one study
 
 ## Description
 Information Processing Theory treats learning as the movement and transformation of information through attention, working memory, encoding, storage, and retrieval. In broad terms, the theory asks what learners notice, how much they can actively process at once, how they organize new information, and how it becomes retrievable later.
@@ -127,6 +127,14 @@ Information processing models are often criticized as overly linear and serial, 
 - [Developmental differences in selective attention are related to neural systems for deploying attention and managing response conflict, while deployed selective attention acts through similar neural mechanisms across ages](../claims/developmental-selective-attention-deployment-mechanisms.md) [~W]
 - [The focus of attention factor was the only significant predictor of both fluid reasoning and visual processing intelligence when all three working memory factors were entered](../claims/focus-of-attention-predicts-gf-gv-children.md) [~W]
 - [Eye tracking shows fluency does not affect recall but learners spend more time on later sentences of degraded text](../claims/eye-tracking-degraded-text-later-sentences.md) [~W]
+- [Irrelevant changing-state sounds impair children's serial recall of visually presented items, with developmental evidence pointing to two mechanisms](../claims/irrelevant-sound-effect-children-serial-recall.md) [+M]
+- [Working memory load degrades discrimination accuracy and slows responses in youth](../claims/load-degrades-discrimination-and-slows-responses.md) [+W]
+- [Large arrays exceed young children's attentional resources, preventing optimal allocation to relevant items](../claims/large-arrays-exceed-childrens-attentional-resources.md) [+W]
+- [Low working memory span individuals are more affected by Stroop task lapses and report more task-related mind-wandering](../claims/low-span-staying-on-task-deficits.md) [~W]
+- [Math anxiety impairs numeracy primarily through working memory, with no significant indirect effect through number processing](../claims/ma-wm-pathway-numeracy.md) [~W]
+- [The relative strength of MA's pathways varies by mathematical task type: WM dominates for numeracy, both WM and number processing operate for arithmetic](../claims/ma-pathways-vary-by-task-type.md) [~W]
+- [Hearing children significantly outscored the deaf group as a whole on Spatial Span Backward and Odd One Out](../claims/hearing-outscore-deaf-executive-loaded-nvwm.md) [~W]
+- [Math anxiety has a statistically significant indirect effect on arithmetic calculation through working memory (affective drop pathway)](../claims/ma-indirect-effect-wm-arithmetic.md) [+W]
 
 ## The evidence by question
 - *How large should a unit be, and does grouping static material help?* [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S]

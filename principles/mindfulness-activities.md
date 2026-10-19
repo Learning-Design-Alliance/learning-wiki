@@ -26,7 +26,7 @@ sources:
 # Mindfulness Activities
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 18 claims (8 for, 9 mixed, 1 against) · 10 studies (4 review, 3 quant-synthesis, 1 causal, 1 design, 1 theoretical), `q1`–`q4` · 3 of 10 report an effect size · 16 claims rest on one study
+> **Evidence** · 19 claims (8 for, 10 mixed, 1 against) · 11 studies (4 quant-synthesis, 4 review, 1 causal, 1 design, 1 theoretical), `q1`–`q4` · 3 of 11 report an effect size · 17 claims rest on one study
 
 ## Conditional relationship
 
@@ -139,6 +139,10 @@ For example, a secondary teacher's objective may be a faster start to a mathemat
 The expectation should weaken further if classroom comparisons of a short routine against the same lesson with an equally consistent, non-mindfulness opening show no difference in time to settle or time on task, as the tutor experiment showed no difference in learning or anxiety. It should strengthen if such comparisons show faster settling and more time on task, especially for learners who start unsettled, with no loss of practice time. If programme-level benefits for regulation turn out to come from multi-week teaching of the skill and not from the daily routine, the routine should be reframed as one part of a regulation programme rather than a stand-alone support. If reports of distress during inward-focus practice are frequent in a population, the outward-focus option should become the default there. Do not protect the model by calling every null "too short" or "not practised enough" after the fact.
 
 Settling at the start of a task, sustained attention, lower anxiety, learning on the task, and a self-regulation habit used without a cue are separate claims. The present evidence establishes no dose, no best practice and no effect of a single routine on learning.
+
+## Claims
+
+- [Individual differences and program characteristics impact receptivity and effectiveness of school-based mindfulness training](../claims/individual-differences-program-characteristics-shape-mindfulness-effectiveness.md) [~W]
 
 ## Related Principles
 - [Check-ins](check-ins.md) — mindfulness routines can function as a brief transition or readiness check-in.

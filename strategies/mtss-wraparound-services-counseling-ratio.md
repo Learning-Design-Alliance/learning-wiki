@@ -17,7 +17,7 @@ sources:
 # MTSS wraparound services with adequate counseling ratios and continuous improvement monitoring
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 associational, 1 design), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The brief describes multi-tiered or integrated systems of support (MTSS), also known as wraparound services, as frameworks that connect students to resources to overcome academic and non-academic barriers to success. Recommendations include guidance and funding for evidence-based MTSS, authorizing districts to bill Medicaid for all enrolled students without IEP or IFSP documentation, expanding school meals and anti-bullying policy, and mandating school counseling at no greater than the 250:1 student-to-school counselor ratio recommended by the American School Counselor Association.
@@ -40,6 +40,7 @@ The brief describes multi-tiered or integrated systems of support (MTSS), also k
 ## Claims
 
 - [Staff agreement that schools provide adequate counseling and support services rose from 59 percent in 2021 to 70 percent in 2023](../claims/cal-well-staff-adequate-services-59-to-70-percent.md) [+W]
+- [Nearly half of Kansas public schools and two-thirds of districts have participated in formal MTSS training, with no state mandate](../claims/kansas-mtss-broad-training-reach.md) [~W]
 
 ## Related Strategies
 

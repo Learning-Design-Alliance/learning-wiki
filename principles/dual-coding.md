@@ -27,7 +27,7 @@ sources:
 # Dual Coding
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 24 claims (13 for, 7 mixed, 4 against) · 37 studies (15 causal, 11 review, 8 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 12 of 37 report an effect size · 15 claims rest on one study
+> **Evidence** · 25 claims (13 for, 8 mixed, 4 against) · 38 studies (15 causal, 12 review, 8 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 12 of 38 report an effect size · 16 claims rest on one study
 
 ## Conditional relationship
 
@@ -142,6 +142,7 @@ Comprehension while the visual is in view, recall a week later, transfer to a ne
 - [Text-only students based draw judgments on internal mental images while image-condition students recalled external visuals](../claims/internal-vs-external-visual-cue-use-draw-judgments.md) [~W]
 - [Congruent pictures paired with text facilitate reading comprehension better than text alone or pictures alone](../claims/congruent-pictures-with-text-facilitate-comprehension.md) [+W]
 - [Drawing provided no benefit for lower-order recognition knowledge, and the local support condition scored significantly lower than control](../claims/drawing-no-recognition-benefit-local-worse.md) [-W]
+- [Empirical evidence on learner-generated drawing is inconsistent, and the review organizes it around hypotheses grounded in cognitive and strategic processing](../claims/inconsistent-drawing-evidence-organized-by-hypotheses.md) [~W]
 
 ## Related Principles
 - [Multimodal Instruction](multimodal-instruction.md)

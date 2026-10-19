@@ -14,7 +14,7 @@ grain_size: course
 # Continuous Improvement of Learning Materials
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 9 claims (7 for, 1 mixed, 1 against) · 13 studies (4 causal, 4 quant-synthesis, 2 review, 2 design, 1 qualitative), `q2`–`q4` · 4 of 13 report an effect size · 6 claims rest on one study
+> **Evidence** · 10 claims (7 for, 2 mixed, 1 against) · 14 studies (4 causal, 4 quant-synthesis, 2 review, 2 design, 1 associational, 1 qualitative), `q2`–`q4` · 4 of 14 report an effect size · 7 claims rest on one study
 
 ## Description
 Most design processes end at release. Continuous improvement begins there: the shipped course is treated as the current best hypothesis, instrumented so that every subsequent cohort produces evidence about which of its parts are working, and revised in small, targeted increments rather than in periodic wholesale rewrites.
@@ -79,6 +79,7 @@ This is a *design* process, not an analytics dashboard. Its precondition is a li
 - [Cumulative rapid experimentation improved next-item correctness by 10% and cognitive engagement by 14% over five months](../claims/rapid-experimentation-cumulative-metric-gains.md) [+W]
 - [Qualitative analysis confirms the agent can identify confusing lesson content and provide actionable feedback for designers](../claims/agent-identifies-confusing-content-actionable-feedback.md) [+W]
 - [Stakeholder survey rated achievability lowest across Framework elements, especially Element 5 (continuous improvement)](../claims/framework-achievability-ratings-low.md) [-W]
+- [HMH Personal Math Trainer use was associated with math gains in grades 4, 5, and 8 but negatively associated in grade 7, and teacher-created assignments showed the strongest association](../claims/hmh-usage-grade-pattern-teacher-created-strongest.md) [~W]
 
 #### Supporting
 - [Feedback is most effective when directed at the task and process rather than the self.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S] — the loop is feedback to the *design*, and the same conditions apply: task-level and specific beats global and evaluative

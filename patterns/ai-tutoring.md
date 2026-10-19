@@ -14,7 +14,7 @@ grain_size: course
 # AI Tutoring
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 280 claims (137 for, 97 mixed, 46 against) · 197 studies (71 causal, 41 review, 22 design, 22 theoretical, 19 quant-synthesis, 11 associational, 11 qualitative), `q1`–`q4` · 43 of 197 report an effect size · 266 claims rest on one study
+> **Evidence** · 293 claims (142 for, 105 mixed, 46 against) · 203 studies (73 causal, 42 review, 24 theoretical, 23 design, 19 quant-synthesis, 11 associational, 11 qualitative), `q1`–`q4` · 43 of 203 report an effect size · 279 claims rest on one study
 
 ## Description and scope
 
@@ -288,6 +288,19 @@ This pattern is scoped to the tutor's moves within tasks and the handoff to peop
 - [Under blind conditions, students rated GenAI feedback more positively than tutor-generated feedback, with a statistically significant difference only on Genuineness favouring GenAI](../claims/genai-feedback-rated-higher-genuineness-blind.md) [~M]
 - [GenAI access reduces perceived difficulty of the assisted reasoning task](../claims/genai-reduces-perceived-task-difficulty.md) [~W]
 - [AI-generated (GPT-4) feedback produced no greater linguistic progress than human tutor feedback among ENL students over six weeks](../claims/gpt4-feedback-no-superior-linguistic-progress-enl.md) [~W]
+- [Gradient-based GRPO alignment of a 7B model outperforms prompt engineering on scaffolding effectiveness (0.633 vs 0.400) despite the smaller backbone](../claims/grpo-parameter-training-beats-prompt-engineering-socratic.md) [+W]
+- [Hint Factory MDP-generated hints gave correct next-step hints over 80% of the time and a pilot showed students solved more logic proofs with hints](../claims/hint-factory-mdp-hints-effective.md) [+W]
+- [Intelligent Novice error-correction tutoring produced better delayed transfer and immediate isomorphic performance than the Expert tutor in spreadsheet learning](../claims/intelligent-novice-error-correction-better-transfer.md) [~W]
+- [Students who preferred human tutor feedback cited face-to-face interaction, engagement, follow-up questions, and speaking practice](../claims/human-feedback-preference-face-to-face-reasons.md) [~W]
+- [Against no-treatment controls, ITS produce a large statistically significant effect (g = 1.23) under a random-effects model](../claims/its-versus-no-treatment-controls-g-1-23.md) [+W]
+- [Interpretable, well-specified AI mechanisms tend to produce clearer learning benefits than technically sophisticated but pedagogically underspecified ones](../claims/interpretable-ai-mechanisms-clearer-benefits.md) [+W]
+- [The prompting intervention did not reduce general propagation of user errors into AI advice](../claims/intervention-did-not-reduce-error-propagation.md) [~W]
+- [Learners selectively filtered and adopted AI-generated feedback while maintaining pedagogical agency](../claims/learners-selectively-filter-ai-feedback-agency.md) [~W]
+- [LLM use for seeking additional explanations does not significantly impact final grades](../claims/llm-explanations-no-significant-grade-impact.md) [~W]
+- [The same learner context supplied to an AI tutor produces qualitatively different, persona-aligned explanations of the same problem](../claims/learner-context-personalizes-ai-tutor-explanations.md) [+W]
+- [Llama Guard models misclassify subtle, context-dependent unsafe education prompts (e.g., exam-answer and cheating requests) as safe](../claims/llama-guard-failure-cases-subtle-education-risks.md) [~W]
+- [Longitudinal studies of trust and reliance in AI advice examine whether users rely appropriately over time but not whether independent reasoning capacity is maintained](../claims/longitudinal-trust-studies-omit-skill-outcomes.md) [~W]
+- [A combination of LSA, frequency-weighted word overlap, and regular expressions is AutoTutor's best semantic matcher; syntactic parsers proved not useful](../claims/lsa-word-overlap-regex-best-semantic-matcher.md) [~W]
 
 ## Related Patterns
 

@@ -13,7 +13,7 @@ generated:
 # Audience Analysis
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 16 claims (10 for, 6 mixed) · 22 studies (7 associational, 5 theoretical, 4 causal, 3 review, 2 quant-synthesis, 1 qualitative), `q1`–`q4` · 2 of 22 report an effect size · 12 claims rest on one study
+> **Evidence** · 17 claims (11 for, 6 mixed) · 23 studies (7 associational, 5 theoretical, 4 causal, 3 review, 2 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 2 of 23 report an effect size · 13 claims rest on one study
 
 ## Description
 Audience analysis (often called learner analysis) is the systematic investigation of who the learners are — their prior knowledge, skills, motivations, language proficiency, demographics, and learning context — conducted before designing instruction. It functions as the evidence base for decisions about sequencing, vocabulary, examples, pacing, and support, replacing designer assumptions with data about the actual audience.
@@ -65,6 +65,7 @@ Audience analysis improves learning primarily by aligning instruction with learn
 - [A review of four major CALL journals found 50% of articles targeting 'advanced' proficiency levels had learner populations of only B1 level](../claims/call-journals-advanced-claim-b1-populations.md) [~W]
 - [Education level shows differential associations with perceived benefits, with master's students perceiving higher psychological support and leisure benefits than doctoral students](../claims/education-level-differential-benefit-associations.md) [~W]
 - [Early elementary characteristics predict 71% of variance in high school language outcomes of CI users](../claims/early-predictors-ci-high-school-language.md) [~W]
+- [ICCSD's enrollment data showed its high school CS courses were not attracting a student demographic representative of the wider district](../claims/iccsd-cs-enrollment-unrepresentative.md) [+W]
 
 ## The evidence by question
 
