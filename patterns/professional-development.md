@@ -29,7 +29,7 @@ sources:
 # Professional Development
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 47 claims (31 for, 12 mixed, 4 against) · 40 studies (9 review, 9 qualitative, 7 causal, 7 quant-synthesis, 4 design, 3 theoretical, 1 associational), `q1`–`q4` · 7 of 40 report an effect size · 41 claims rest on one study
+> **Evidence** · 49 claims (31 for, 14 mixed, 4 against) · 42 studies (9 review, 9 qualitative, 8 causal, 7 quant-synthesis, 4 design, 3 theoretical, 2 associational), `q1`–`q4` · 7 of 42 report an effect size · 43 claims rest on one study
 
 ## Description and scope
 
@@ -163,6 +163,8 @@ This pattern is scoped to changing one observable teaching practice through enac
 - [Teachers who worked with the model of contingent teaching increased their teaching quality more than teachers who did not participate, especially on the contingent-teaching steps](../claims/mct-pd-increased-teaching-quality-more-than-control.md) [+W]
 - [Program teachers showed more complete cycles of contingent teaching at postmeasurement than the other teachers](../claims/mct-pd-more-complete-contingent-teaching-cycles.md) [+W]
 - [All 35 reviewed studies used models or modeling, and curriculum without PD support yielded worse outcomes than older curriculum with none](../claims/pd-models-and-curriculum-support.md) [+W]
+- [Classroom observations confirmed that SRI teachers modeled and evaluated strategies more frequently than control teachers](../claims/sri-implementation-observations-modeling-evaluation.md) [~W]
+- [SQU ELT trainers encouraged peer observation and same-day feedback sessions, with 78.9% of trainees agreeing trainers encouraged class visits and 81.9% agreeing feedback came the same day as observation](../claims/squ-trainers-encouraged-peer-observation-and-same-day-feedback.md) [~W]
 
 ## Related Patterns
 

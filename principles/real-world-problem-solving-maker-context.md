@@ -17,7 +17,7 @@ sources:
 # Involve students in real-world problem solving to deepen engagement, retention, and understanding
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (4 for) · 4 studies (2 qualitative, 1 associational, 1 theoretical), `q2` · 0 of 4 report an effect size · 4 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 5 studies (2 qualitative, 1 associational, 1 design, 1 theoretical), `q2` · 0 of 5 report an effect size · 5 claims rest on one study
 
 ## Description
 The paper argues that achieving high levels of engagement, increasing graduation rates, and deepening understanding of content requires involving students in meaningful problem solving embedded into their daily classes. Providing meaning through relevant context for learning directly affects the retention and success of all students, especially those who are more at risk, and maker education is presented as a way to provide a relevant context for learning.
@@ -43,6 +43,7 @@ The paper argues that achieving high levels of engagement, increasing graduation
 - [In one extreme case, two sixth-graders with a choice-rich, ungraded STEAM infrastructure extended a game-design challenge into a year-long self-directed project well beyond its designed scope](../claims/choice-rich-infrastructure-supports-productive-deviation-and-learning.md) [+W]
 - [Student engagement is higher during PBL than during traditional instruction](../claims/pbl-engagement-higher-than-traditional.md) [+W]
 - [Students rated real-world projects and discussions with structured or guiding questions as the most beneficial learner-to-content strategies](../claims/real-world-projects-structured-questions-top-content-strategies.md) [+W]
+- [Talladega County Schools' graduation rate rose from just above 70 percent in 2008 to 93 percent after its transition to project-based learning supported by digital technologies](../claims/talladega-graduation-rate-70-to-93-pbl-digital.md) [+W]
 
 ## Related Principles
 

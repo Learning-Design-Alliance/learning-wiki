@@ -19,7 +19,7 @@ sources:
 # Knowledge Organization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 24 claims (16 for, 8 mixed) · 27 studies (10 causal, 6 review, 5 quant-synthesis, 2 design, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 4 of 27 report an effect size · 19 claims rest on one study
+> **Evidence** · 25 claims (16 for, 9 mixed) · 27 studies (10 causal, 6 review, 5 quant-synthesis, 2 design, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 4 of 27 report an effect size · 20 claims rest on one study
 
 ## Conditional relationship
 
@@ -146,6 +146,7 @@ Assisted sorting, unaided rebuilding, integrative-task performance, detail recal
 - [The Timeline condition's advantage was concentrated in time-related test items and disappeared in the long run](../claims/timeline-advantage-driven-by-time-related-items.md) [~W]
 - [Cooperative concept mapping produces better meaningful learning than individualistic concept mapping](../claims/cooperative-concept-mapping-better-than-individual.md) [~W]
 - [Well-organized texts following rhetorical schemata are better remembered than disorganized texts, and high-structure information is more likely to be recalled](../claims/organized-text-high-structure-recall-advantage.md) [+W]
+- [Structural signals show no consistent recall benefits but can aid deeper understanding measured by problem-solving tests](../claims/structural-signals-aid-problem-solving-not-recall.md) [~W]
 
 ## Related Principles
 - [Cognitive Load Management](cognitive-load-management.md) — knowledge organization is often one concrete route to load reduction

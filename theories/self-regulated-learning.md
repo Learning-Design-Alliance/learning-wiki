@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 161 claims (78 for, 75 mixed, 8 against) · 133 studies (47 associational, 40 causal, 14 review, 12 quant-synthesis, 7 qualitative, 7 theoretical, 6 design), `q1`–`q4` · 33 of 133 report an effect size · 146 claims rest on one study
+> **Evidence** · 179 claims (86 for, 85 mixed, 8 against) · 141 studies (50 associational, 41 causal, 15 review, 13 quant-synthesis, 8 qualitative, 7 design, 7 theoretical), `q1`–`q4` · 35 of 141 report an effect size · 164 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -208,6 +208,24 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Self-assessment accuracy in PBL depends on achievement level: low achievers graded generously, high achievers accurately](../claims/self-assessment-accuracy-achievement-level-pbl.md) [~W]
 - [At scale level, the questionnaire's Elaboration & evaluation scale correlated significantly with the same think-aloud scale (r=.60) while the Orientation & planning scale did not (r=.24)](../claims/scale-level-correlations-elaboration-versus-orientation.md) [~W]
 - [Within-group analyses show significant increases on several affective and metacognitive dimensions in Scrum classes, while the comparison group showed no significant increases or decreases.](../claims/scrum-classes-significant-within-group-perception-increases.md) [~W]
+- [Conceptions of self-regulated learning had small, non-significant relationships with actual reported self-regulation activities](../claims/srl-conceptions-nonsignificant-with-reported-srl.md) [~W]
+- [Self-regulation interventions showed positive associations with distal outcomes: academic achievement in 11 of 13 studies (85%), substance abuse in 4 of 5 (80%), and conduct disorders, social skills, depression, behavioral problems, and school suspensions in all reporting studies.](../claims/sr-interventions-positive-distal-outcomes-academic-substance-conduct.md) [+M]
+- [The SKT-SRL shows low, mostly non-significant correlations with SRL microanalysis (online measure)](../claims/skt-srl-microanalysis-low-correlation.md) [~W]
+- [Self-regulatory activities mediate the relationship between person, context, and achievement](../claims/srl-activities-mediate-person-context-achievement.md) [+W]
+- [Stronger self-reported SRL skills manifest in more revisiting of previously completed course materials, especially assessments](../claims/srl-manifests-in-revisiting-assessments.md) [~W]
+- [SRL scaffolds in computer-based learning environments produce a medium, significantly positive effect on academic performance (ES = 0.438)](../claims/srl-scaffolds-positive-effect-academic-performance.md) [+W]
+- [Training effects vary across specific SRL strategies, ranging from .23 (rehearsal) to .61 (attention and concentration)](../claims/srl-strategy-specific-effects-range.md) [+W]
+- [SRL interventions are effective in improving both SRL activity and achievement in higher education](../claims/srl-interventions-improve-activity-achievement.md) [+W]
+- [Extended SRL training programs enhance university students' academic performance, SRL strategies, and motivation (overall g = .38)](../claims/srl-training-university-students-overall-g38.md) [+W]
+- [Students use strategies to regulate their own motivation and affect](../claims/students-regulate-motivation-affect-strategies.md) [+W]
+- [Self-reported SRL strategies vary by individual learner characteristics including demographics, prior experience, and motivations](../claims/srl-varies-by-individual-characteristics.md) [~W]
+- [SRL training programs targeting older students and students with lower prior academic achievement show larger effects on resource management strategies](../claims/student-characteristics-moderate-resource-management-effects.md) [~W]
+- [Retrospective metacognitive accuracy for strategy selection is higher in the selection-only task than the selection-execution task and on homogeneous than heterogeneous unit-digit problems](../claims/task-and-problem-effects-rcj-accuracy.md) [~W]
+- [Superficial information use with limited processing is the most used technology-based SRL strategy, while self-evaluation is among the least used](../claims/superficial-use-highest-self-evaluation-lowest-srl-strategies.md) [~W]
+- [Self-regulated learning facets that are conceptually common across three popular questionnaires appear empirically disparate](../claims/srl-questionnaire-facets-empirically-disparate.md) [~W]
+- [Teachers' SRL&T implementation efficacy depended on developing SRL understanding and autonomy in designing SRL-enriched modules](../claims/teacher-srlt-efficacy-depends-on-understanding-and-autonomy.md) [~W]
+- [Transformative feedback attenuated the positive association between joy and regulatory behavior, and adaptive feedback moderation was otherwise limited, not supporting H2](../claims/transformative-feedback-attenuates-joy-regulation-link.md) [~W]
+- [Cluster analysis identifies two antagonistic student profiles differing in level of technology-supported self-regulated learning](../claims/two-srl-technology-profiles-high-and-low.md) [+W]
 
 ## The evidence by question
 

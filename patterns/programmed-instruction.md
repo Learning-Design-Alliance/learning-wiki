@@ -15,7 +15,7 @@ grain_size: lesson
 # Programmed Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 20 claims (5 for, 13 mixed, 2 against) · 19 studies (8 quant-synthesis, 4 causal, 3 associational, 2 review, 2 theoretical), `q1`–`q4` · 5 of 19 report an effect size · 16 claims rest on one study
+> **Evidence** · 21 claims (5 for, 14 mixed, 2 against) · 19 studies (8 quant-synthesis, 4 causal, 3 associational, 2 review, 2 theoretical), `q1`–`q4` · 5 of 19 report an effect size · 17 claims rest on one study
 
 ## Description and scope
 
@@ -142,6 +142,7 @@ This pattern is scoped to well-defined content whose steps have checkable answer
 - [Guidance, immediate feedback, and system-directed control showed unadjusted moderator signals that did not survive multiplicity adjustment, making them hypothesis-generating only](../claims/design-moderators-unadjusted-only-hypothesis-generating.md) [~W]
 - [Immediate-feedback tutors allow learning from errors but deny learning from their downstream consequences](../claims/immediate-feedback-limits-downstream-error-learning.md) [~W]
 - [Final recall does not differ reliably between participant-controlled and computer-controlled feedback skipping](../claims/participant-computer-controller-no-recall-difference.md) [~W]
+- [Participants' feedback-skipping decisions diverge from the optimal computer algorithm: they skip after some incorrect responses and fail to skip after many correct responses](../claims/skipping-decisions-diverge-from-computer.md) [~W]
 
 ## Related Patterns
 

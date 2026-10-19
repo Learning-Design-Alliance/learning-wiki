@@ -13,7 +13,7 @@ generated:
 # Self Efficacy
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 55 claims (32 for, 21 mixed, 1 against, 1 unmarked) · 46 studies (21 associational, 11 review, 9 causal, 2 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 12 of 46 report an effect size · 51 claims rest on one study
+> **Evidence** · 59 claims (34 for, 23 mixed, 1 against, 1 unmarked) · 50 studies (22 associational, 11 review, 10 causal, 3 quant-synthesis, 3 design, 1 qualitative), `q1`–`q4` · 13 of 50 report an effect size · 55 claims rest on one study
 
 ## Description
 Self efficacy is a learner's belief in their capability to succeed at a specific task or domain, not a general sense of self-worth. It functions as a proximal driver of learning: learners with higher efficacy set more ambitious goals, persist longer through difficulty, and recover faster from failure [Bandura, 1997]. Because it is domain-specific and malleable, it is a design target rather than a fixed learner trait.
@@ -103,6 +103,10 @@ Instructional design shapes self efficacy primarily through the four sources Ban
 - [In the structural equation model, both supports directly predict innovative competence and strongly predict the mediators](../claims/sem-direct-paths-dual-supports-innovative-competence.md) [~W]
 - [Self-modeling raised self-efficacy for learning, motivation, and posttest skill among below-grade-level children](../claims/self-modeling-raises-efficacy-and-skill.md) [+W]
 - [Profile sizes: 29.4% low, 41.2% moderate, and 29.4% high academic self-efficacy among students with motor disabilities](../claims/self-efficacy-profile-distribution-102-students.md) [~W]
+- [Greater SLD stigma is generally associated with less optimal psychological adjustment (anxiety, depression, coping, self-efficacy, quality of life), though most associations could not be meta-analytically pooled](../claims/sld-stigma-psychological-adjustment-broader.md) [~W]
+- [An 8-hour SRL teacher training improved teachers' self-efficacy to foster SRL and perceived SRL practice, but not student-level outcomes](../claims/srl-training-teacher-level-not-student-level-effects.md) [+W]
+- [Transformational leadership's protective effect against harassment operates among women but not men, while its self-efficacy effect operates among men but not women (exploratory)](../claims/transformational-leadership-gender-specific-pathways.md) [~W]
+- [Teachers reported increased motivation and confidence leading groups and new instructional strategies from using the TEC curriculum](../claims/tec-summer-teacher-outcome-gains.md) [+W]
 
 ## The evidence by question
 

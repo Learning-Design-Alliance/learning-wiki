@@ -17,7 +17,7 @@ sources:
 # Belonging
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 25 claims (17 for, 7 mixed, 1 against) · 22 studies (6 review, 4 qualitative, 4 theoretical, 3 causal, 2 quant-synthesis, 2 associational, 1 design), `q1`–`q4` · 2 of 22 report an effect size · 22 claims rest on one study
+> **Evidence** · 29 claims (21 for, 7 mixed, 1 against) · 23 studies (6 review, 5 theoretical, 4 qualitative, 3 causal, 2 quant-synthesis, 2 associational, 1 design), `q1`–`q4` · 2 of 23 report an effect size · 26 claims rest on one study
 
 ## Description
 Belonging is a learner's subjective sense of being a valued member of a learning community — accepted by peers and instructors, and confident that they fit there. It is not an activity but a psychological state that instructional designs can foster or undermine. Because belonging shapes persistence, engagement, and interpretation of difficulty, it functions as a motivational foundation on which other elements depend.
@@ -83,6 +83,10 @@ Belonging uncertainty — doubt about whether one fits in a setting — dispropo
 - [National racial violence significantly reduced belonging and confidence among Black and Latinx STEM students relative to white peers](../claims/national-racial-violence-racialized-belonging-declines.md) [-W]
 - [Racism has negative psychological implications for Black students' sense of belonging, self-identity, and academic success in schools](../claims/racism-psychological-implications-belonging.md) [+W]
 - [School ethnic diversity moderates the representation-change association: declining same-ethnic representation predicts lower belonging and GPA only in less diverse middle schools](../claims/school-ethnic-diversity-buffers-representation-decline.md) [~W]
+- [Brief social-belonging interventions improve academic outcomes and well-being, especially for students facing identity threat, but risk being used to fix students rather than structures](../claims/social-belonging-intervention-improves-outcomes-but-misuse-risk.md) [+W]
+- [Students of color majoring in STEM report significantly lower sense of belonging than white majors](../claims/students-of-color-report-less-belonging-than-white-majors.md) [+W]
+- [A sense of belonging is firmly linked with improved student attainment, increased learners' satisfaction and reduced attrition rates in campus-based learning](../claims/sob-linked-attainment-satisfaction-attrition.md) [+W]
+- [The teacher-student relationship has the strongest link with students' sense of belonging at school and mediates the link between egalitarianism and SOBAS](../claims/teacher-student-relationship-strongest-sobas-link.md) [+W]
 
 ## The evidence by question
 - *Do brief interventions that address belonging uncertainty improve achievement and persistence, and for whom?* [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+S]

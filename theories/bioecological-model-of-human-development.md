@@ -12,7 +12,7 @@ generated:
 # Bioecological Model of Human Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 23 claims (12 for, 10 mixed, 1 against) · 20 studies (12 associational, 5 review, 3 quant-synthesis), `q2`–`q3` · 3 of 20 report an effect size · 21 claims rest on one study
+> **Evidence** · 25 claims (13 for, 11 mixed, 1 against) · 22 studies (13 associational, 5 review, 3 quant-synthesis, 1 theoretical), `q2`–`q3` · 4 of 22 report an effect size · 23 claims rest on one study
 
 ## Description
 Urie Bronfenbrenner's bioecological model holds that human development results from **proximal processes** — "stimulating, regular face-to-face interactions over extended periods with people, objects, or symbols" (Bronfenbrenner, 1994) — that realize a person's biological, psychological, and social potential. A parent shaping a child through parenting behaviors, modeling, and encouragement is a proximal process. Development is **transactional and bidirectional**: children affect their immediate contexts as much as contexts affect children — insecurely attached children are more emotionally demanding, and language-delayed children elicit less verbal exchange from adults.
@@ -64,6 +64,8 @@ The model also emphasizes **experience**: "the scientifically relevant features 
 - [Fathers' initial growth mindset predicted girls' later growth mindset but not boys', a gender-moderated path](../claims/paternal-mindset-predicts-girls-not-boys.md) [~W]
 - [Poverty predicts children's cortisol and executive function, partially mediated by parental sensitive caregiving](../claims/poverty-cortisol-executive-function-mediation.md) [~W]
 - [Parents' naturalistic process praise at child ages 14-38 months predicts children's incremental motivational frameworks at age 7-8](../claims/process-praise-toddlerhood-predicts-incremental-frameworks.md) [~W]
+- [Quality of the kindergarten teacher–child relationship moderates the preschool-to-kindergarten development of math ability on the ECLS-K Math battery but not the Applied Problems subtest](../claims/teacher-relationship-moderates-ecls-k-math-growth.md) [+W]
+- [Social norms shape role positioning in parent-child dyads playing an educational video game, with children sometimes more expert](../claims/social-norms-role-positioning-parent-child-game.md) [~W]
 
 ## The evidence by question
 - *Is closer parent involvement in a child's schooling associated with better student outcomes, and does the form of involvement matter?* [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](../claims/parent-involvement-improves-achievement.md) [+M]

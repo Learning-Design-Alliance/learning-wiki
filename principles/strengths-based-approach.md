@@ -43,7 +43,7 @@ sources:
 # Strengths-based Approach
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 24 claims (15 for, 7 mixed, 2 against) · 27 studies (10 review, 5 causal, 4 qualitative, 4 theoretical, 2 design, 1 quant-synthesis, 1 associational), `q1`–`q4` · 2 of 27 report an effect size · 18 claims rest on one study
+> **Evidence** · 25 claims (16 for, 7 mixed, 2 against) · 28 studies (10 review, 5 causal, 5 qualitative, 4 theoretical, 2 design, 1 quant-synthesis, 1 associational), `q1`–`q4` · 2 of 28 report an effect size · 19 claims rest on one study
 
 ## Conditional relationship
 
@@ -163,6 +163,7 @@ Teacher expectations, recognized competence in a familiar form, self-efficacy, p
 - [An immersive storybook taught entirely in French was designed to help teachers recognize multilingual learners' assets](../claims/french-storybook-immersive-multilingual-experience.md) [+W]
 - [Strict emotional regimes contribute to the production of vulnerability that can precipitate deficit narratives from asset-oriented teachers](../claims/emotional-regimes-vulnerability-deficit-narratives.md) [~W]
 - [In Case 2, persistent strong negative self-critique led teachers to assign deficit narratives to students as having missed opportunities, serving as foils for teachers](../claims/case2-students-foils-missed-opportunities.md) [-W]
+- [A preschool teacher's professional growth in guiding children's mathematical learning was identified in three areas: recognizing demonstrated understanding, using mathematical language, and systematic assessment](../claims/teacher-growth-three-areas-guiding-preschool-math.md) [+W]
 
 ## Related Principles
 

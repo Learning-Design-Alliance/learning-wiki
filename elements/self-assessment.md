@@ -22,7 +22,7 @@ sources:
 # Self-Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 48 claims (12 for, 23 mixed, 13 against) · 38 studies (20 causal, 8 associational, 3 quant-synthesis, 3 review, 3 theoretical, 1 qualitative), `q2`–`q4` · 14 of 38 report an effect size · 45 claims rest on one study
+> **Evidence** · 51 claims (12 for, 26 mixed, 13 against) · 40 studies (21 causal, 9 associational, 3 quant-synthesis, 3 review, 3 theoretical, 1 qualitative), `q2`–`q4` · 15 of 40 report an effect size · 48 claims rest on one study
 
 ## Description
 Self-assessment is the element in which learners judge their own work, understanding, or progress against explicit criteria. It is useful when the goal is not only better immediate performance, but stronger self-monitoring and more accurate judgments about what to improve next.
@@ -98,6 +98,9 @@ Self-assessment is the element in which learners judge their own work, understan
 - [Self-assessment accuracy in PBL depends on achievement level: low achievers graded generously, high achievers accurately](../claims/self-assessment-accuracy-achievement-level-pbl.md) [~W]
 - [Young and older adults make accurate retrospective confidence judgments but not prospective ease-of-selection judgments about their arithmetic strategy selections](../claims/retrospective-not-prospective-accuracy-strategy-selection.md) [-W]
 - [Under sequential presentation with Likert ratings for every word, no memory benefit emerged for items judged likely to be forgotten; negative ratings predicted the poorest recall](../claims/sequential-likert-no-forget-reactivity.md) [-W]
+- [Tell and no-agent conditions showed no significant JoL–confidence correlations, with mixed results for progress and mastery](../claims/tell-none-conditions-mixed-jol-correlations.md) [~W]
+- [Text topic moderates judgment bias: the CLT text produced higher overconfidence for application performance than the CVT text](../claims/text-topic-moderates-application-overconfidence.md) [~W]
+- [Children evaluated their own performance as worse when they were slower in Grades 3 and 4](../claims/slower-children-rate-own-performance-worse-grades-3-4.md) [~W]
 
 ## The evidence by question
 

@@ -13,7 +13,7 @@ generated:
 # Inquiry-Based Exploration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 13 claims (9 for, 2 mixed, 2 against) · 21 studies (6 causal, 6 review, 5 quant-synthesis, 3 associational, 1 theoretical), `q1`–`q4` · 6 of 21 report an effect size · 9 claims rest on one study
+> **Evidence** · 14 claims (9 for, 3 mixed, 2 against) · 21 studies (6 causal, 6 review, 5 quant-synthesis, 3 associational, 1 theoretical), `q1`–`q4` · 6 of 21 report an effect size · 10 claims rest on one study
 
 ## Description
 Inquiry-based exploration places learners in front of an open-ended problem, question, or phenomenon and asks them to investigate it — gathering information, forming hypotheses, testing ideas, and generating solutions — rather than first receiving a fully worked explanation. The instructor's role shifts from transmitter to designer of the problem and facilitator of the investigation.
@@ -61,6 +61,7 @@ Inquiry can build deep conceptual understanding and durable engagement because l
 - [Learners have a strong natural tendency to induce a rationale from discovered relations, which can evoke erroneous hypotheses about undiscovered relations and reduce inquiry success](../claims/natural-tendency-to-induce-rationale-evokes-error-prone-hypotheses.md) [-W]
 - [Open-ended tasks are associated with higher subsequent disciplinary engagement](../claims/open-ended-tasks-higher-disciplinary-engagement.md) [+W]
 - [In open-ended constructivist activities, task success or failure is not a reliable indicator of learning, so learner models based only on performance risk misjudging learners](../claims/performance-not-indicator-learning-open-ended.md) [~W]
+- [Task type did not affect time on task, number of unique experiments, duplicated experiments, or percentage of unspecified hypotheses](../claims/task-type-no-effect-time-and-experiment-counts.md) [~W]
 
 ## The evidence by question
 - *Does inquiry-based teaching raise science achievement over the usual instruction?* [Inquiry Based Teaching Improves Science Achievement](../claims/inquiry-based-teaching-improves-science-achievement.md) [+S]

@@ -13,7 +13,7 @@ generated:
 # Addressing Student Misconceptions
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 20 claims (16 for, 4 mixed) · 17 studies (6 causal, 4 associational, 2 quant-synthesis, 2 review, 2 qualitative, 1 design), `q2`–`q4` · 6 of 17 report an effect size · 17 claims rest on one study
+> **Evidence** · 21 claims (17 for, 4 mixed) · 17 studies (6 causal, 4 associational, 2 quant-synthesis, 2 review, 2 qualitative, 1 design), `q2`–`q4` · 8 of 17 report an effect size · 17 claims rest on one study
 
 ## Description
 Activating students' prior knowledge is usually beneficial, but it is a mixed blessing when that prior knowledge is itself misleading or wrong — a common situation at any grade level, not just among young children. A kindergartner may think the sun literally "rises" (echoing adult speech) or that the earth is flat because it looks flat from the ground; a high school student may believe a boulder falls faster than a pebble, or that an object dropped from a moving car falls straight down rather than continuing to travel alongside the car as it falls.
@@ -65,6 +65,7 @@ Second, and just as important: **treat students' existing beliefs with respect**
 - [All three instructional methods reduced misconceptions, and comprehension and transfer effects were stable at delayed testing one week later](../claims/misconception-reduction-stable-delayed-testing.md) [+W]
 - [Readers with misconceptions engage in more conceptual change strategies than readers without misconceptions, but only when reading a refutation text](../claims/misconception-refutation-conceptual-change-strategies.md) [+W]
 - [Readers with misconceptions spend more time reading law sentences than readers without misconceptions, but only in refutation texts](../claims/misconception-slower-reading-refutation-law-sentences.md) [+M]
+- [The true-versus-false statement accuracy difference is larger for misconception than control trials, and significant for science but not maths](../claims/trial-statement-interaction-science-not-maths.md) [+M]
 
 ## The evidence by question
 - *Does instruction that names and confronts a science misconception change learners' conceptions more than standard exposition?* [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](../claims/misconceptions-interfere-with-new-learning.md) [+S]

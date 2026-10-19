@@ -13,7 +13,7 @@ generated:
 # Constructed-Response Assessment Items
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 43 claims (12 for, 29 mixed, 2 against) · 34 studies (13 design, 9 associational, 6 causal, 3 review, 2 theoretical, 1 qualitative), `q1`–`q3` · 6 of 34 report an effect size · 43 claims rest on one study
+> **Evidence** · 44 claims (12 for, 30 mixed, 2 against) · 34 studies (13 design, 9 associational, 6 causal, 3 review, 2 theoretical, 1 qualitative), `q1`–`q3` · 6 of 34 report an effect size · 44 claims rest on one study
 
 ## Description
 Constructed-response items ask students to recall information and produce their own answer rather than recognize a provided one, which reduces guessing compared with [selected-response items](selected-response-assessment-items.md). Two major kinds are used: **completion/short-answer** items (answerable in a word, phrase, number, or symbol — the same underlying format whether phrased as a statement to complete or a question to answer) and **extended-response** items (answers ranging from a paragraph to several pages, often called essay questions when they run long).
@@ -87,6 +87,7 @@ The central disadvantage of extended-response items is unreliable scoring: diffe
 - [Ensembles of operational raters outperform the LLMs: two raters suffice on average across aspects, but larger ensembles are needed for individual aspects](../claims/rater-ensembles-outperform-llms-feedback.md) [~W]
 - [Rubric-enhanced prompting (Variant 2) raises LLM assigned scores relative to the no-rubric baseline, with model-specific gaps at particular taxonomy levels](../claims/rubric-prompting-raises-llm-assigned-scores.md) [~W]
 - [On assessment item Q10, describing a TinkerPlots plot, 32% of students achieved the maximum score of 4 and 70% achieved half marks or better](../claims/q10-plot-description-scores.md) [~W]
+- [Removing detailed rubric explanations from prompts improved grading accuracy across all approaches in an ablation study](../claims/simplified-prompts-outperform-detailed-rubrics.md) [~W]
 
 ## The evidence by question
 - *Which practice format: short answer, multiple choice, or matching the final test?* [Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference](../claims/short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed.md) [~M]

@@ -17,7 +17,7 @@ sources:
 # Knowledge Tracing as a Learner-Modeling Task
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The survey defines knowledge tracing (KT) as a learner-modeling task over sequences of exercise interactions: "knowledge tracing aims to monitor students’ evolving knowledge states during the learning process and predict their performance on future exercises." Each interaction pairs an exercise, its knowledge concepts, a correctness label and side information, and the traced states can then be used to individualize students' learning schemes.
@@ -37,7 +37,8 @@ The survey defines knowledge tracing (KT) as a learner-modeling task over sequen
 - Monitoring students' evolving knowledge states on knowledge concepts and predicting performance on future exercises
 
 ### Claims
-- 
+
+- [Standard knowledge tracing models in use do not allow individual learning rates or individualized initial knowledge](../claims/standard-knowledge-tracing-lacks-individualization.md) [~W]
 
 ## Related Theories
 - Adaptive Learning

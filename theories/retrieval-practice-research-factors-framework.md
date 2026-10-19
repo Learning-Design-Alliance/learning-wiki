@@ -17,7 +17,7 @@ sources:
 # Retrieval Practice Experiment Architecture and Factors
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 10 claims (4 for, 6 mixed) · 13 studies (8 causal, 3 quant-synthesis, 2 review), `q3`–`q4` · 7 of 13 report an effect size · 9 claims rest on one study
+> **Evidence** · 12 claims (6 for, 6 mixed) · 14 studies (9 causal, 3 quant-synthesis, 2 review), `q3`–`q4` · 7 of 14 report an effect size · 11 claims rest on one study
 
 ## Description
 The chapter's organizing framework: learners study materials, a retrieval practice condition completes initial retrieval activities while a control does not, and all take a final criterial assessment. The factors explored include "aspects of the initial retrieval practice conditions, the conditions of the ﬁnal criterial assessment, characteristics of the learners, the nature of the materials, and the setting of the study", which structure the chapter's sections.
@@ -49,6 +49,8 @@ The chapter's organizing framework: learners study materials, a retrieval practi
 - [Complete operational definitions of conditions were provided in fewer than half of comparisons (42% conventional, 50% IVR)](../claims/operational-definitions-incomplete-in-ivr-studies.md) [~W]
 - [Quiz accuracy declines from immediate to 1-week delayed testing regardless of text medium](../claims/quiz-accuracy-declines-after-one-week-delay.md) [+W]
 - [Information retrieval questions were consistently easier than comprehension questions across both visualisation formats](../claims/retrieval-easier-than-comprehension-questions.md) [~W]
+- [The retrieval benefit holds at both short (5 min) and long (24 h) retention delays](../claims/ttst-advantage-not-different-at-5min-24h.md) [+W]
+- [Testing effects are stronger when practice and final test formats are identical (g = 0.63) than dissimilar (g = 0.53), supporting transfer-appropriate processing](../claims/tap-identical-formats-stronger-effect.md) [+W]
 
 ## Related Theories
 - 

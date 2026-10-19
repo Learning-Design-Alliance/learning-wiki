@@ -25,7 +25,7 @@ sources:
 # Framework of five essential supports and contextual resources for school improvement
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 48 claims (33 for, 15 mixed) · 37 studies (21 associational, 6 qualitative, 5 review, 3 design, 2 causal), `q1`–`q3` · 2 of 37 report an effect size · 47 claims rest on one study
+> **Evidence** · 49 claims (33 for, 16 mixed) · 38 studies (22 associational, 6 qualitative, 5 review, 3 design, 2 causal), `q1`–`q3` · 2 of 38 report an effect size · 48 claims rest on one study
 
 ## Description
 The CCSR framework holds that five in-school supports are all essential for improving student learning: leadership acting as a catalyst, parent-community ties, professional capacity, student-centered learning climate, and ambitious instruction. Leadership is inclusive, instruction-focused, and strategic, and it stimulates the other four supports; instruction is "the single most direct factor that affects student learning," but providing it depends on strength in the other supports. The supports are anchored in contextual resources: relational trust, structural factors such as school size and student stability, and local community social capital. The framework was developed with Chicago educators in the mid-1990s and used to guide CPS school-improvement planning and self-assessment.
@@ -105,6 +105,7 @@ The CCSR framework holds that five in-school supports are all essential for impr
 - [Teachers reporting higher leadership effectiveness and supports have lower predicted turnover (9.0% vs. 18.7% for low-leadership teachers)](../claims/school-leadership-associated-with-lower-turnover.md) [+W]
 - [For DCPS students in grades 6 to 8, achievement gains under new principals were larger and statistically significant in both math and reading](../claims/dcps-grades-6-8-gains-significant-both-subjects.md) [+W]
 - [Program content focused on instruction, collegial organizations, and data use is associated with positive school outcomes](../claims/principal-program-content-instruction-collegial-data.md) [+W]
+- [Schools with high teacher turnover and large proportions of underprepared teachers are associated with lower achievement for all students and for students experiencing homelessness, after accounting for other factors](../claims/teacher-turnover-underprepared-teachers-lower-achievement-homeless.md) [~W]
 
 ## The evidence by question
 - *Are schools strong on several of the five essential supports more likely to improve student learning than schools weak on them?* [Elementary schools strong in three or more of the five essential supports were ten times more likely to substantially improve student math and reading scores (attributed to Bryk et al., 2010)](../claims/schools-strong-three-plus-supports-ten-times-more-likely-improve.md) [+M]

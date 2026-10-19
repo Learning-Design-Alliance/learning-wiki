@@ -14,7 +14,7 @@ generated:
 # Rubrics
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 21 claims (11 for, 7 mixed, 3 against) · 19 studies (8 causal, 4 review, 4 associational, 2 quant-synthesis, 1 design), `q2`–`q3` · 4 of 19 report an effect size · 18 claims rest on one study
+> **Evidence** · 22 claims (11 for, 7 mixed, 4 against) · 20 studies (9 causal, 4 review, 4 associational, 2 quant-synthesis, 1 design), `q2`–`q3` · 4 of 20 report an effect size · 19 claims rest on one study
 
 ## Description
 Rubrics are the element in which criteria and performance levels are made explicit to guide quality work and evaluation.
@@ -51,6 +51,7 @@ Rubrics are the element in which criteria and performance levels are made explic
 - [Holistic peer feedback correlated significantly with tutor marks while specific-criteria rubric feedback did not in the PEARS system](../claims/pears-holistic-feedback-correlates-tutor-marks-specific-does-not.md) [-W]
 - [Rationale-first evaluation improves depth alignment under the initial rubric but yields only limited gains for openness](../claims/rationale-first-limited-gains-openness.md) [~W]
 - [Rubric-enhanced prompting (Variant 2) raises LLM assigned scores relative to the no-rubric baseline, with model-specific gaps at particular taxonomy levels](../claims/rubric-prompting-raises-llm-assigned-scores.md) [+W]
+- [Removing detailed rubric explanations from prompts improved grading accuracy across all approaches in an ablation study](../claims/simplified-prompts-outperform-detailed-rubrics.md) [-W]
 
 ## The evidence by question
 - *Does giving learners the criteria, and having them apply them to their own or peers' work, improve the work?* [Self-assessing against a rubric improved the quality of student work in two non-randomised studies, one of which also found more stress and performance-avoidance](../claims/rubrics-improve-student-work.md) [+M]

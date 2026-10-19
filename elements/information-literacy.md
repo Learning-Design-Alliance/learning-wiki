@@ -13,7 +13,7 @@ generated:
 # Information Literacy
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 13 claims (4 for, 6 mixed, 3 against) · 14 studies (5 causal, 3 qualitative, 2 review, 2 theoretical, 1 associational, 1 design), `q1`–`q3` · 1 of 14 report an effect size · 12 claims rest on one study
+> **Evidence** · 15 claims (5 for, 7 mixed, 3 against) · 16 studies (5 causal, 4 qualitative, 2 review, 2 associational, 2 theoretical, 1 design), `q1`–`q3` · 1 of 16 report an effect size · 14 claims rest on one study
 
 ## Description
 Information literacy is the element in which learners identify information needs, locate sources, evaluate credibility, and use information responsibly. It is useful when tasks require judgment about evidence rather than mere retrieval.
@@ -49,6 +49,8 @@ Information literacy is the element in which learners identify information needs
 - [Students used AI mainly for retrieving pharmacological mechanisms, generating PPT outlines, and clarifying concepts under rules requiring verification and student responsibility for AI outputs](../claims/guided-ai-use-verification-rules.md) [~W]
 - [A student maintained critical distance from GenAI outputs through a paradoxical trust in their untrustworthiness, deriving practical value while staying sceptical](../claims/paradoxical-trust-untrustworthy-genai.md) [+W]
 - [Pre-service teachers rate ChatGPT-generated texts higher on structure but often fail to identify AI authorship, indicating limited critical AI literacy](../claims/preservice-teachers-limited-critical-ai-literacy.md) [-W]
+- [The predominant student evaluation of LLMs (42%) is positive but conditional on the student's own verification work](../claims/students-positive-with-caveat-llm-evaluation.md) [~W]
+- [Sysadmins shift from producing solutions to evaluating, correcting, and refining GenAI output, which still requires human expertise](../claims/sysadmin-expertise-shifts-to-validating-genai-output.md) [+W]
 
 ## The evidence by question
 - *Does teaching learners how to check a source improve their judgments of unfamiliar sources, and how much can one session do?* [Civic Online Reasoning Instruction Improves Evaluation](../claims/civic-online-reasoning-instruction-improves-evaluation.md) [+S]

@@ -37,7 +37,7 @@ grain_size: course, unit
 # Cognitive Apprenticeship
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 22 claims (9 for, 9 mixed, 3 against, 1 unmarked) · 23 studies (9 causal, 4 qualitative, 3 quant-synthesis, 3 review, 2 associational, 1 design, 1 theoretical), `q1`–`q4` · 2 of 23 report an effect size · 18 claims rest on one study
+> **Evidence** · 23 claims (9 for, 10 mixed, 3 against, 1 unmarked) · 24 studies (9 causal, 4 quant-synthesis, 4 qualitative, 3 review, 2 associational, 1 design, 1 theoretical), `q1`–`q4` · 2 of 24 report an effect size · 19 claims rest on one study
 
 ## Description and scope
 
@@ -140,6 +140,7 @@ This pattern is general across domains; a clinical round, a writing workshop or 
 - [Model-observer gender combination affects mental effort invested during example study: male students invest less effort with a male model, female students more effort with a male model](../claims/gender-interaction-mental-effort-example-study.md) [~W]
 - [No significant differences in learning measures across teacher-coached, researcher-coached, and BioWorld-alone conditions](../claims/bioworld-coaching-condition-null-manova.md) [-W]
 - [Students start with video modeling examples but shift toward worked examples and practice problems as the learning phase progresses](../claims/video-examples-first-shift-to-worked-examples.md) [~W]
+- [Scaffold effects peak at 2–4 weeks of treatment and decrease dramatically for treatments lasting 9–24 weeks](../claims/treatment-duration-moderates-scaffold-effects.md) [~W]
 
 ## Related Patterns
 - [Four-Component Instructional Design](4cid-four-component-instructional-design.md) — shares the principle of worked examples fading to full tasks; provides more formal scaffolding design rules for complex learning

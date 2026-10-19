@@ -39,7 +39,7 @@ sources:
 # Cognitive Load Management
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 50 claims (21 for, 26 mixed, 3 against) · 48 studies (22 causal, 11 review, 8 quant-synthesis, 6 theoretical, 1 design), `q1`–`q4` · 16 of 48 report an effect size · 42 claims rest on one study
+> **Evidence** · 54 claims (22 for, 29 mixed, 3 against) · 50 studies (23 causal, 11 review, 9 quant-synthesis, 6 theoretical, 1 design), `q1`–`q4` · 18 of 50 report an effect size · 46 claims rest on one study
 
 ## Conditional relationship
 
@@ -148,6 +148,10 @@ A learning-phase efficiency gain, immediate performance, near transfer, delayed 
 - [GCL-raising activations did not improve learning outcomes: neither prompted imagination nor disfluency produced a significant task-performance advantage](../claims/gcl-activation-no-task-performance-effect.md) [-W]
 - [Students' self-reports of task effortfulness do not validly indicate a task's object-level cognitive requirements](../claims/effort-self-reports-not-valid-cognitive-requirements.md) [~W]
 - [High experienced effort-by-complexity is not necessarily indicative of better learning outcomes](../claims/high-effort-not-indicative-better-learning.md) [~W]
+- [Titration of storage task difficulty substantially reduces age differences in both single-task and dual-task memory accuracy](../claims/titration-reduces-age-differences-storage-dual-task.md) [+W]
+- [Optimal task design determined in laboratory studies may depend on learners' level of effort-by-allocation](../claims/task-design-depends-on-effort-allocation.md) [~W]
+- [In a combined meta-regression, titration but not domain overlap reduces age differences in dual-task performance, with no interaction between the two factors](../claims/titration-dominates-domain-overlap-combined-metaregression.md) [~W]
+- [Both expert and negative example standards increase perceived mental effort during example evaluation, and negative standards increase perceived task difficulty](../claims/standards-increase-cognitive-load-evaluation.md) [~W]
 
 ## Related Principles
 - [Segmenting Principle](segmenting.md)

@@ -35,7 +35,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 209 claims (89 for, 105 mixed, 15 against) · 162 studies (56 associational, 43 design, 24 review, 18 theoretical, 16 causal, 3 qualitative, 2 quant-synthesis), `q1`–`q3` · 13 of 162 report an effect size · 203 claims rest on one study
+> **Evidence** · 214 claims (92 for, 107 mixed, 15 against) · 163 studies (56 associational, 43 design, 25 review, 18 theoretical, 16 causal, 3 qualitative, 2 quant-synthesis), `q1`–`q3` · 13 of 163 report an effect size · 208 claims rest on one study
 
 ## Conditional relationship
 
@@ -307,6 +307,11 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [Model accuracy of vision-based proctoring systems can vary across demographics, lighting conditions, and hardware setups, potentially disadvantaging some students](../claims/proctoring-accuracy-demographic-bias.md) [-W]
 - [Identifying rapid guessing is important for the validity of achievement test scores, particularly with low-stakes tests](../claims/rapid-guessing-identification-important-for-score-validity.md) [+W]
 - [RRRP scores were fairly stable across fall to spring in third grade, with a slight decrease in Part 1 and no change in Part 2](../claims/rrrp-scores-stable-fall-to-spring.md) [~W]
+- [The SKT-SRL shows acceptable-to-very good internal consistency across subscales](../claims/skt-srl-reliability.md) [+W]
+- [The SKT-SRL shows low, mostly non-significant correlations with SRL microanalysis (online measure)](../claims/skt-srl-microanalysis-low-correlation.md) [~W]
+- [SKT-SRL scores did not correlate significantly with high school GPA in the pilot and validation studies](../claims/skt-srl-no-gpa-correlation.md) [~W]
+- [Stealth assessment in AI-GBL achieves accurate prediction of learner states, with bias auditing demonstrated without accuracy loss](../claims/stealth-assessment-accuracy-and-bias-audits.md) [+W]
+- [The full survey's test-retest reliability coefficient is 0.79, considered acceptable bordering on good](../claims/test-retest-reliability-079-full-survey.md) [+W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

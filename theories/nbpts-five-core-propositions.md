@@ -13,7 +13,7 @@ generated:
 # NBPTS Five Core Propositions for Accomplished Teaching
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The National Board for Professional Teaching Standards proposes five core propositions that provide a vision for accomplished teaching and form the basis for National Board Certification:
@@ -37,6 +37,10 @@ The National Board for Professional Teaching Standards proposes five core propos
 
 ### Target Learning Objectives
 - Equitable, well-monitored student learning grounded in genuine subject and pedagogical expertise, sustained by ongoing reflection and professional collaboration
+
+## Claims
+
+- [Mathematical hallucinations were rare but teachers used professional knowledge to adjust mathematical properties](../claims/teachers-adjust-mathematical-properties-llm-problems.md) [+W]
 
 ## Related Principles
 

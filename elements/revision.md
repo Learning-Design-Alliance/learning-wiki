@@ -13,7 +13,7 @@ generated:
 # Revision
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 17 claims (11 for, 5 mixed, 1 against) · 23 studies (10 causal, 3 quant-synthesis, 3 associational, 3 qualitative, 2 design, 1 review, 1 theoretical), `q1`–`q4` · 2 of 23 report an effect size · 13 claims rest on one study
+> **Evidence** · 18 claims (12 for, 5 mixed, 1 against) · 24 studies (10 causal, 4 qualitative, 3 quant-synthesis, 3 associational, 2 design, 1 review, 1 theoretical), `q1`–`q4` · 2 of 24 report an effect size · 14 claims rest on one study
 
 ## Description
 Revision is the process by which learners rework a product — a text, design, solution, or argument — in response to [Feedback](feedback.md) and their own [Self-Assessment](self-assessment.md). It treats the first attempt as a draft rather than a final answer, making improvement itself the object of learning.
@@ -67,6 +67,7 @@ Revision converts feedback into measurable learning gains only when learners act
 - [Comment revision effort concentrates on Multi-Step-Block and other procedural constructs, with the widest flows ending in Heavy Modification](../claims/revision-hotspots-multi-step-block-heavy-modification.md) [~W]
 - [Process mining shows the ChatGPT group's revision loop centred on consulting ChatGPT, while the human-expert group strengthened connections between revising and reading, orientation and evaluation](../claims/chatgpt-process-map-loop-metacognitive-disengagement.md) [~W]
 - [Improvement across critique axes during iterative UI generation is not monotonic](../claims/non-monotonic-improvement-across-critique-axes.md) [~W]
+- [Struggling adult writers show limited planning and revision in their writing process, similar to younger writers](../claims/struggling-adult-writers-limited-planning-revision.md) [+W]
 
 ## The evidence by question
 - *Does teaching writing as a staged process with feedback on drafts raise writing quality, and what has to be inside it for the gain to appear?* [Process Writing Improves Writing Quality](../claims/process-writing-improves-writing-quality.md) [+M]

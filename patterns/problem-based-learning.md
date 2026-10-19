@@ -29,7 +29,7 @@ grain_size: unit
 # Problem-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 53 claims (14 for, 35 mixed, 4 against) · 42 studies (14 causal, 8 review, 7 theoretical, 5 qualitative, 4 quant-synthesis, 2 associational, 2 design), `q1`–`q4` · 6 of 42 report an effect size · 48 claims rest on one study
+> **Evidence** · 55 claims (15 for, 36 mixed, 4 against) · 43 studies (14 causal, 8 review, 7 theoretical, 5 qualitative, 4 quant-synthesis, 3 design, 2 associational), `q1`–`q4` · 6 of 43 report an effect size · 50 claims rest on one study
 
 ## Description and scope
 
@@ -158,6 +158,8 @@ This pattern is scoped to problem-centred units in which an explicit consolidati
 - [Learning through the experience of solving problems can build both content knowledge and thinking strategies](../claims/problem-experience-builds-content-and-thinking-strategies.md) [+W]
 - [Self-generation of learning issues improves studied materials, self-study time, and reporting time in PBL](../claims/self-generated-learning-issues-benefit-pbl.md) [~W]
 - [The scope of PBL implementation shaped discussion quality: hybrid lecture-based implementation reduced uncertainty but yielded less critical discussion than full PBL](../claims/scope-of-pbl-implementation-shapes-discussion.md) [~W]
+- [Tutorial group size moderates SDL gains in PBL: small and medium groups gained SDL, large groups declined](../claims/tutorial-group-size-moderates-sdl.md) [~W]
+- [One student asked for a disciplinary explanation twelve times during a 53-minute problem-solving process without anyone clarifying it sufficiently](../claims/twelve-unanswered-conceptual-questions.md) [+W]
 
 ## Related Patterns
 - [Anchored Instruction](anchored-instruction.md)

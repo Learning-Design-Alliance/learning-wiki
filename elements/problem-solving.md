@@ -14,7 +14,7 @@ generated:
 # Problem Solving
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 17 claims (9 for, 6 mixed, 2 against) · 25 studies (9 causal, 5 theoretical, 3 review, 3 design, 2 quant-synthesis, 2 qualitative, 1 associational), `q1`–`q4` · 6 of 25 report an effect size · 13 claims rest on one study
+> **Evidence** · 19 claims (9 for, 8 mixed, 2 against) · 26 studies (9 causal, 5 theoretical, 4 review, 3 design, 2 quant-synthesis, 2 qualitative, 1 associational), `q1`–`q4` · 6 of 26 report an effect size · 15 claims rest on one study
 
 ## Description
 Problem solving is the element in which learners identify, analyze, and respond to a challenge by generating and evaluating possible solutions. It is useful when the instructional goal is not only recall, but reasoned action in the face of constraints.
@@ -65,6 +65,8 @@ Problem solving is the element in which learners identify, analyze, and respond 
 - [Older adults describe less effective problem-solving solutions, producing fewer relevant steps than younger adults](../claims/aging-fewer-relevant-steps-meps.md) [~W]
 - [Problem isomorphs with identical structure differ greatly in difficulty; Monster Change took 16 times as long to solve as the standard problem](../claims/isomorph-difficulty-rule-learning-working-memory.md) [~W]
 - [MicroDYN is a stronger predictor of the in-game problem solving estimates than Raven's, with the rule-application facet more relevant than rule acquisition](../claims/microdyn-stronger-predictor-than-ravens.md) [~W]
+- [Successful and unsuccessful complex problem solvers differ in transition frequencies between questions and decisions](../claims/transition-frequencies-differ-successful-solvers.md) [~W]
+- [Providing subgoals did not help on the Missionaries and Cannibals problem but facilitated performance on an extended 5-Missionaries and 5-Cannibals variant](../claims/subgoals-facilitate-performance-larger-problem-space.md) [~W]
 
 ## The evidence by question
 - *How much guidance do novices need inside a problem-centred design?* [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [+S]

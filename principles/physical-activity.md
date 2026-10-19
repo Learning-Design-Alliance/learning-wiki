@@ -26,7 +26,7 @@ sources:
 # Physical Activity
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (15 for, 9 mixed, 2 against) · 24 studies (10 causal, 7 review, 3 quant-synthesis, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 4 of 24 report an effect size · 20 claims rest on one study
+> **Evidence** · 27 claims (16 for, 9 mixed, 2 against) · 24 studies (10 causal, 7 review, 3 quant-synthesis, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 4 of 24 report an effect size · 21 claims rest on one study
 
 ## Conditional relationship
 
@@ -157,6 +157,7 @@ Claims this page cited before it was rewritten as a conditional model, and other
 - [In the highest-quality reviewed study, classroom MVPA was negatively associated with students being off task or inattentive (β = −0.17; p = 0.042)](../claims/mvpa-negatively-associated-off-task-carlson.md) [+W]
 - [Physical activity is positively correlated with self-regulation in Chilean children aged 8–12](../claims/physical-activity-positively-correlated-self-regulation-children.md) [+W]
 - [School-setting studies show no overall significant difference between active and classroom lessons, but subgroup effects emerge](../claims/school-setting-acute-pa-attention-subgroups.md) [~W]
+- [Over a three-year CB-PA intervention, the percent of time spent in MVPA was significantly associated with the percent of time on task (p < 0.01)](../claims/three-year-cbpa-mvpa-time-on-task.md) [+W]
 
 ## Related Principles
 - [Mindfulness Activities](mindfulness-activities.md) — both can function as readiness and regulation supports before or during learning.

@@ -24,7 +24,7 @@ grain_size: lesson
 # Structured Peer Review
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 40 claims (21 for, 18 mixed, 1 against) · 51 studies (13 causal, 10 quant-synthesis, 9 associational, 8 review, 4 qualitative, 4 theoretical, 3 design), `q1`–`q4` · 8 of 51 report an effect size · 27 claims rest on one study
+> **Evidence** · 42 claims (22 for, 19 mixed, 1 against) · 51 studies (13 causal, 10 quant-synthesis, 9 associational, 8 review, 4 qualitative, 4 theoretical, 3 design), `q1`–`q4` · 8 of 51 report an effect size · 29 claims rest on one study
 
 ## Description and scope
 
@@ -164,6 +164,8 @@ This pattern is scoped to peers commenting on an individual's draft that the aut
 - [Multiple peer reviews produced greater improvement between draft and final paper than a single expert reviewer in a SWoRD evaluation](../claims/multiple-peer-reviews-beat-single-expert-reviewer-sword.md) [+W]
 - [Quality control in peer assessment can be exercised proactively or reactively on students and their assessments](../claims/peer-assessment-quality-control-proactive-reactive.md) [~W]
 - [An accountability feature allowing students to grade received reviews improved the correlation between expert and peer marks in peerScholar](../claims/peerscholar-accountability-improves-expert-peer-correlation.md) [+W]
+- [Peer ratings of programming assignments correlated significantly with instructor ratings, with students more accurate on objective than subjective judgements](../claims/sitthiworachart-peer-ratings-objective-judgements.md) [+W]
+- [Students focused more on errors than on pluses both when providing and when processing peer-feedback](../claims/students-focus-more-on-errors-than-pluses.md) [~W]
 
 ## Related Patterns
 - [Collaborative Evaluation](collaborative-evaluation.md)

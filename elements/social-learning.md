@@ -13,7 +13,7 @@ generated:
 # Social Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 19 claims (12 for, 7 mixed) · 17 studies (6 qualitative, 4 quant-synthesis, 3 causal, 1 review, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 4 of 17 report an effect size · 17 claims rest on one study
+> **Evidence** · 20 claims (12 for, 8 mixed) · 18 studies (6 qualitative, 4 causal, 4 quant-synthesis, 1 review, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 4 of 18 report an effect size · 18 claims rest on one study
 
 ## Description
 Social learning is the element in which interaction with peers, models, or communities is treated as a direct source of learning.
@@ -43,6 +43,7 @@ Social learning is the element in which interaction with peers, models, or commu
 - [Perceived collaboration among peers positively predicts academic engagement, but competitive climates can undercut collaboration](../claims/peer-collaboration-predicts-engagement.md) [+W]
 - [Perceived partner competence does not predict how often learners change the direction of their assumptions](../claims/perceived-competence-no-impact-on-adjustment.md) [~W]
 - [Proactive PALs yielded higher recall than responsive PALs, with the advantage differing by learner academic strength](../claims/proactive-pal-higher-recall-than-responsive.md) [~W]
+- [Students preferred robot-assisted storytelling and some students treated the robot as a more equal communication partner than the instructor](../claims/students-prefer-and-trust-robot-storytelling-partner.md) [~W]
 
 ## The evidence by question
 - *Does structured cooperative group work raise achievement more than individualistic, competitive or traditional whole-class instruction?* [Cooperative Learning Improves Achievement](../claims/cooperative-learning-improves-achievement.md) [+S]

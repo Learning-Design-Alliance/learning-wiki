@@ -43,7 +43,7 @@ sources:
 # Motivation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 75 claims (43 for, 29 mixed, 3 against) · 76 studies (21 review, 18 causal, 9 qualitative, 9 theoretical, 8 associational, 7 quant-synthesis, 4 design), `q1`–`q4` · 9 of 76 report an effect size · 61 claims rest on one study
+> **Evidence** · 76 claims (43 for, 30 mixed, 3 against) · 77 studies (21 review, 18 causal, 9 associational, 9 qualitative, 9 theoretical, 7 quant-synthesis, 4 design), `q1`–`q4` · 9 of 77 report an effect size · 62 claims rest on one study
 
 ## Conditional relationship
 
@@ -224,6 +224,7 @@ Starting, effort, voluntary persistence, enjoyment, reported motivation and lear
 - [Positive attitudes towards English and high motivation are associated with better pronunciation outcomes](../claims/motivation-associated-better-pronunciation-outcomes.md) [+W]
 - [Motivation modulates anticipatory attentional processing: high-interest stimuli produced larger LDAP-period amplitude over right parieto-occipital cortex](../claims/motivation-modulates-ldap-right-parieto-occipital.md) [+W]
 - [Increased motivation eliminated ADHD–TD differences on most attention measures but differences persisted in complex multitasking and commission errors](../claims/motivation-reduces-but-not-eliminates-adhd-deficits.md) [~M]
+- [A majority of adolescents (about 63%) followed stable trajectories of physics and chemistry motivation across middle and high school](../claims/stable-motivation-majority-adolescents.md) [~W]
 
 ## Related Principles
 - [Learner Choice](autonomy.md) — one route to stronger ownership and autonomy

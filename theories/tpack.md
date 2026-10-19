@@ -18,7 +18,7 @@ sources:
 # TPACK (Technological Pedagogical Content Knowledge)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 28 claims (13 for, 15 mixed) · 15 studies (5 associational, 3 causal, 3 theoretical, 2 design, 1 review, 1 qualitative), `q1`–`q3` · 4 of 15 report an effect size · 28 claims rest on one study
+> **Evidence** · 29 claims (13 for, 16 mixed) · 16 studies (5 associational, 3 causal, 3 theoretical, 2 design, 1 quant-synthesis, 1 review, 1 qualitative), `q1`–`q3` · 5 of 16 report an effect size · 29 claims rest on one study
 
 ## Description
 TPACK (Koehler & Mishra, 2009) extends Shulman's concept of Pedagogical Content Knowledge (PCK) — the specialized knowledge of how to teach a particular subject — by adding technology as a third interacting knowledge domain. Teaching with technology is treated as an ill-structured problem: there is no single best way to integrate a given technology into a curriculum, because content, pedagogy, and technology constrain and reshape one another differently in every classroom context.
@@ -80,6 +80,7 @@ TPACK is not additive — a teacher cannot be TPACK-competent by separately mast
 - [Teachers reported that students needed dedicated time to learn and explore technologies before being expected to gain mathematics understanding from them](../claims/students-need-time-learn-technology-first.md) [~W]
 - [Pre-service teachers' second-order knowledge integration is mediated by their first-order knowledge integration](../claims/first-order-knowledge-integration-mediation.md) [~W]
 - [The serial mediation model explains 32.5–37.0% of variance in AI-TPACK, self-efficacy, and AI integration intention](../claims/model-explained-variance-ai-integration-outcomes.md) [~W]
+- [Science-related subject areas (mathematics, science, medical science) show larger effects than programming technology and other fields](../claims/subject-area-moderates-cps-critical-thinking-effects.md) [~W]
 
 ## The evidence by question
 

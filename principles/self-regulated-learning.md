@@ -35,7 +35,7 @@ sources:
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 123 claims (54 for, 62 mixed, 7 against) · 89 studies (31 causal, 18 review, 14 associational, 13 quant-synthesis, 9 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 22 of 89 report an effect size · 112 claims rest on one study
+> **Evidence** · 134 claims (58 for, 69 mixed, 7 against) · 94 studies (31 causal, 18 review, 17 associational, 14 quant-synthesis, 10 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 25 of 94 report an effect size · 123 claims rest on one study
 
 ## Conditional relationship
 
@@ -215,6 +215,17 @@ Gains in strategy knowledge, self-reported regulation, self-efficacy, study time
 - [Metacognitive prompts during collaboration improve communication of knowledge and its underlying assumptions](../claims/metacognitive-prompts-improve-collaborative-communication.md) [~W]
 - [Self-assessment accuracy in PBL depends on achievement level: low achievers graded generously, high achievers accurately](../claims/self-assessment-accuracy-achievement-level-pbl.md) [~W]
 - [Children's self-efficacy for planning did not significantly moderate plan quality improvements after feedback](../claims/self-efficacy-does-not-moderate-feedback-gains.md) [~W]
+- [SRL interventions are effective in improving both SRL activity and achievement in higher education](../claims/srl-interventions-improve-activity-achievement.md) [+W]
+- [Conceptions of self-regulated learning had small, non-significant relationships with actual reported self-regulation activities](../claims/srl-conceptions-nonsignificant-with-reported-srl.md) [~W]
+- [Stronger self-reported SRL skills manifest in more revisiting of previously completed course materials, especially assessments](../claims/srl-manifests-in-revisiting-assessments.md) [~W]
+- [SRL scaffolds in computer-based learning environments produce a medium, significantly positive effect on academic performance (ES = 0.438)](../claims/srl-scaffolds-positive-effect-academic-performance.md) [+W]
+- [Training effects vary across specific SRL strategies, ranging from .23 (rehearsal) to .61 (attention and concentration)](../claims/srl-strategy-specific-effects-range.md) [+W]
+- [Teachers' SRL promotion is not significantly associated with students' perceived cost of using strategies at class or student level](../claims/srl-promotion-not-linked-to-student-cost.md) [~W]
+- [Extended SRL training programs enhance university students' academic performance, SRL strategies, and motivation (overall g = .38)](../claims/srl-training-university-students-overall-g38.md) [+W]
+- [Superficial information use with limited processing is the most used technology-based SRL strategy, while self-evaluation is among the least used](../claims/superficial-use-highest-self-evaluation-lowest-srl-strategies.md) [~W]
+- [Self-monitoring of work quality requires three student capacities: appreciation of high quality, evaluative skill, and a store of modification tactics](../claims/three-capacities-for-evaluative-self-monitoring.md) [~W]
+- [SRL training programs targeting older students and students with lower prior academic achievement show larger effects on resource management strategies](../claims/student-characteristics-moderate-resource-management-effects.md) [~W]
+- [Task motivation and time on task are proposed as factors potentially influencing SRL intervention effectiveness](../claims/task-motivation-time-on-task-moderators-hypothesis.md) [~W]
 
 ## Related Principles
 - [Goal Setting & Monitoring](goal-setting-monitoring.md)

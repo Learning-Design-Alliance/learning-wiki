@@ -13,7 +13,7 @@ generated:
 # Attention
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 20 claims (14 for, 3 mixed, 3 against) · 32 studies (11 causal, 9 review, 7 quant-synthesis, 2 associational, 2 qualitative, 1 design), `q1`–`q4` · 5 of 32 report an effect size · 13 claims rest on one study
+> **Evidence** · 23 claims (15 for, 5 mixed, 3 against) · 33 studies (11 causal, 10 review, 7 quant-synthesis, 2 associational, 2 qualitative, 1 design), `q1`–`q4` · 5 of 33 report an effect size · 16 claims rest on one study
 
 ## Description
 Attention is the gateway to learning: information that is not attended to is not encoded, regardless of its quality or presentation. As an instructional element, "attention" refers to the deliberate design moves — signaling, salience, segmentation, and distraction management — that direct learners' limited attentional resources toward the content and interactions that matter.
@@ -65,6 +65,9 @@ Because working memory is severely limited and attention is selective, instructi
 - [Perceptual attention is probably necessary but not sufficient for encoding stimuli into working memory](../claims/perceptual-attention-necessary-not-sufficient-wm-encoding.md) [+W]
 - [A separation prompt does not improve learning with seductive details, and higher integration avoidance predicts worse transfer, disfavouring the disruption explanation](../claims/separation-prompt-fails-disruption-disfavored.md) [~W]
 - [Predictive cues aid transfer of perceptual representations into working memory via pre-encoding top-down modulation](../claims/predictive-cues-pre-encoding-modulation-wm-benefit.md) [+W]
+- [Performance was unrelated to dwell time on the graph but increased with dwell time on the problem statement](../claims/statement-dwell-predicts-performance.md) [+W]
+- [Task-irrelevant negative images disrupt no-go accuracy specifically in early-mid adolescence](../claims/task-irrelevant-negative-images-disrupt-early-adolescent-inhibition.md) [~W]
+- [Evidence that perceptual attention and WM maintenance share a limited resource is not yet convincing](../claims/shared-resource-perceptual-attention-wm-unconvincing.md) [~W]
 
 ## The evidence by question
 - *Do cues that highlight the essential material and its organisation improve learning, and by how much?* [Signaling Improves Learning](../claims/signaling-improves-learning.md) [+S]

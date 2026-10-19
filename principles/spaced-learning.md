@@ -71,7 +71,7 @@ sources:
 # Spaced Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 51 claims (26 for, 23 mixed, 1 against, 1 unmarked) · 39 studies (22 causal, 8 quant-synthesis, 8 review, 1 theoretical), `q1`–`q4` · 11 of 39 report an effect size · 44 claims rest on one study
+> **Evidence** · 53 claims (28 for, 23 mixed, 1 against, 1 unmarked) · 39 studies (22 causal, 8 quant-synthesis, 8 review, 1 theoretical), `q1`–`q4` · 11 of 39 report an effect size · 46 claims rest on one study
 
 ## Description
 
@@ -466,6 +466,8 @@ The article concludes that AI-generated podcasts are best positioned as a 'mobil
 - [When the orienting task prevented interitem associations, the within-list lag effect was attenuated after long retention intervals and this attenuation was not a floor effect](../claims/lag-effect-eliminated-long-retention-no-associations.md) [~W]
 - [The interleaving benefit is not caused by spacing, and the benefit extends to delayed tests](../claims/interleaving-not-spacing-persists-over-delay.md) [-W]
 - [Recall of words repeated across lists spaced up to 1 week follows a proportionality rule: recall is better after short spacing at short retention intervals but better after long spacing at long retention intervals](../claims/proportionality-rule-long-spacing-weeks.md) [~M]
+- [Distributed presentations are recalled better than massed presentations in free recall (the spacing effect), and requiring likelihood ratings does not alter this effect](../claims/spacing-effect-free-recall-dp-beats-mp.md) [+W]
+- [Research findings show that various types of learning benefit from spaced study, with demonstrations of these benefits in educational settings](../claims/spacing-benefits-diverse-learning-educational-settings.md) [+W]
 
 ## Key Sources
 

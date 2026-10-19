@@ -17,7 +17,7 @@ sources:
 # Social Constructivism
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 18 claims (10 for, 5 mixed, 3 unmarked) · 28 studies (6 quant-synthesis, 5 causal, 5 review, 5 qualitative, 4 theoretical, 3 associational), `q1`–`q4` · 3 of 28 report an effect size · 13 claims rest on one study
+> **Evidence** · 19 claims (11 for, 5 mixed, 3 unmarked) · 29 studies (6 quant-synthesis, 6 qualitative, 5 causal, 5 review, 4 theoretical, 3 associational), `q1`–`q4` · 3 of 29 report an effect size · 14 claims rest on one study
 
 ## Description
 Social constructivism is the principle that learners build understanding through interaction with other people, language, and shared activity. It emphasizes that knowledge formation is not only individual but also social, mediated by dialogue, tools, and participation.
@@ -73,6 +73,7 @@ Social constructivism is strongest when learning depends on language, comparison
 - [The editorial reports the squib's argument that ambitious learning practices can empower students, support shared meaning-making, and potentially disrupt social inequality](../claims/ambitious-learning-practices-argument.md) [+W]
 - [Collaborative technologies support learning by enabling learners to share and exchange both ideas and their own digital products](../claims/collaborative-technologies-enable-sharing-ideas-and-digital-products.md) [+W]
 - [Online concept-mapping behaviour may play a critical role in transforming verbal-discourse knowledge into deep-level co-construction; Type 3's lowest behavioural knowledge construction accompanied its lowest performance](../claims/online-behaviour-transforms-discourse-knowledge.md) [+W]
+- [Tacit knowledge in CSCL is co-constructed through socialization, externalization, combination, and internalization processes](../claims/tacit-knowledge-four-processes-cscl.md) [+W]
 
 ## The evidence by question
 

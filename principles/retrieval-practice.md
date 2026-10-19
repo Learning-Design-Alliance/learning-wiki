@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 80 claims (44 for, 34 mixed, 1 against, 1 unmarked) · 37 studies (13 causal, 9 quant-synthesis, 8 review, 3 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 12 of 37 report an effect size · 73 claims rest on one study
+> **Evidence** · 85 claims (47 for, 36 mixed, 1 against, 1 unmarked) · 38 studies (14 causal, 9 quant-synthesis, 8 review, 3 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 12 of 38 report an effect size · 78 claims rest on one study
 
 ## Conditional relationship
 
@@ -213,6 +213,11 @@ A within-session quiz score, delayed recall, transfer to new questions and value
 - [Multiple-choice testing improves later cued recall of prose facts, a benefit that persists though reduced after a one-week delay](../claims/mc-testing-prose-cued-recall-benefit.md) [+W]
 - [The retrieval benefit occurs at the level of individual items, not through general practice at retrieval](../claims/retrieval-benefit-item-level.md) [+W]
 - [The testing effect is largest at a retention interval of 1–6 days (g = 0.82) and robust across all intervals](../claims/retention-interval-one-to-six-days-largest.md) [+W]
+- [Testing effects are stronger when practice and final test formats are identical (g = 0.63) than dissimilar (g = 0.53), supporting transfer-appropriate processing](../claims/tap-identical-formats-stronger-effect.md) [~W]
+- [Participants' willingness to skip feedback after correct responses increases substantially across retrieval-practice cycles](../claims/skipping-after-correct-increases-across-cycles.md) [~W]
+- [Repeated test-restudy trials produced higher final cued recall than study-only or single test-restudy controls across both experiments](../claims/test-restudy-beats-controls.md) [+M]
+- [The retrieval benefit holds at both short (5 min) and long (24 h) retention delays](../claims/ttst-advantage-not-different-at-5min-24h.md) [+W]
+- [The TTST advantage replicates with meaningful Eskimo/English word pairs (Experiment 2)](../claims/ttst-beats-pure-st-eskimo-pairs.md) [+W]
 
 ## Related Principles
 - [Pretesting (Prequestions Before Study)](pretesting.md)

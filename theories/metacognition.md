@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 364 claims (176 for, 167 mixed, 21 against) · 178 studies (92 causal, 41 associational, 13 review, 12 theoretical, 10 qualitative, 6 quant-synthesis, 4 design), `q1`–`q4` · 64 of 178 report an effect size · 358 claims rest on one study
+> **Evidence** · 374 claims (180 for, 173 mixed, 21 against) · 182 studies (92 causal, 44 associational, 13 review, 12 theoretical, 10 qualitative, 7 quant-synthesis, 4 design), `q1`–`q4` · 66 of 182 report an effect size · 368 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -406,6 +406,16 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Under sequential presentation with Likert ratings for every word, no memory benefit emerged for items judged likely to be forgotten; negative ratings predicted the poorest recall](../claims/sequential-likert-no-forget-reactivity.md) [-W]
 - [High-achieving students describe selective AI use for clarification, summarisation, and workflow support while verifying outputs and keeping them subordinate to their own judgment](../claims/qualitative-selective-verification-intensive-use.md) [~W]
 - [Second-order metacognitive judgments of subjective uncertainty show a small high-confidence error/correct difference, smaller than curiosity ratings show](../claims/second-order-metacognition-smaller-error-difference.md) [~W]
+- [Children evaluated their own performance as worse when they were slower in Grades 3 and 4](../claims/slower-children-rate-own-performance-worse-grades-3-4.md) [~W]
+- [Social comparison information affects the magnitude of metacognitive judgments, with greater magnitude for higher peer performance](../claims/social-comparisons-affect-metacognitive-judgments.md) [+W]
+- [Repeated study–test practice reduces the foresight bias for backward pairs, with the illusion of competence disappearing by the fourth presentation](../claims/study-test-practice-reduces-foresight-bias.md) [+W]
+- [Strategy perseveration: prior offloading experience biases later offloading choices](../claims/strategy-perseveration-offloading.md) [~W]
+- [Retrospective metacognitive accuracy for strategy selection is higher in the selection-only task than the selection-execution task and on homogeneous than heterogeneous unit-digit problems](../claims/task-and-problem-effects-rcj-accuracy.md) [+W]
+- [Technology-supported educational interventions are associated with higher metacognitive outcomes on average (g = 0.653), with substantial between-study heterogeneity](../claims/technology-interventions-positive-pooled-metacognition-effect.md) [+W]
+- [Estimation errors for partner AI use are directionally biased for specific task types at t2 but not at t3](../claims/task-type-directional-bias-partner-ai-estimates.md) [~W]
+- [Technology type did not significantly moderate effects on metacognitive outcomes, though generative-AI interventions showed a descriptively larger estimate](../claims/technology-type-did-not-moderate-metacognition-effects.md) [~W]
+- [Suddenness and Certainty ratings decrease as RAPM item difficulty increases, with Certainty showing a strong effect](../claims/suddenness-certainty-decrease-rapm-difficulty.md) [~W]
+- [Tell and no-agent conditions showed no significant JoL–confidence correlations, with mixed results for progress and mastery](../claims/tell-none-conditions-mixed-jol-correlations.md) [~W]
 
 ## The evidence by question
 

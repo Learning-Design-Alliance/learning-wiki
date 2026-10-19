@@ -13,7 +13,7 @@ generated:
 # Technology Integration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 72 claims (30 for, 37 mixed, 5 against) · 68 studies (17 associational, 13 qualitative, 10 causal, 9 review, 7 quant-synthesis, 7 design, 5 theoretical), `q1`–`q4` · 13 of 68 report an effect size · 69 claims rest on one study
+> **Evidence** · 86 claims (37 for, 42 mixed, 7 against) · 80 studies (20 associational, 16 qualitative, 12 review, 11 causal, 8 quant-synthesis, 8 design, 5 theoretical), `q1`–`q4` · 14 of 80 report an effect size · 83 claims rest on one study
 
 ## Description
 Technology integration is the element in which digital tools are used in direct service of learning goals, feedback, access, or collaboration.
@@ -97,6 +97,20 @@ Technology integration is the element in which digital tools are used in direct 
 - [Low- and intermediate-proficiency students report higher perceived usefulness, ease of use, and satisfaction for AI-assisted English tools than high-proficiency students](../claims/proficiency-group-acceptance-differences.md) [~M]
 - [Students initially perceived GenAI explanation features and dashboard visualizations positively in introductory lab sessions](../claims/positive-initial-perceptions-genai-feedback-functionalities.md) [~W]
 - [Explainability/trustworthiness and accessibility/equal access of AI agents rank prominently in impact and importance but carry high challenge ratings](../claims/responsible-equitable-ai-themes-prominent-high-challenge.md) [~W]
+- [Instruction in STEAM AI literacy is predominantly technology-enhanced (82.1% of studies) rather than unplugged (17.9%)](../claims/steam-ai-literacy-instruction-technology-enhanced-dominant.md) [+W]
+- [Students perceive GenAI tools as beneficial for academic engagement, particularly for overcoming language barriers and accessing up-to-date resources](../claims/students-perceive-genai-academic-benefits.md) [+W]
+- [Staff recognise substantial opportunities to use GenAI to enhance teaching through streamlined administrative processes, improved curriculum and assessment design, and student-centred learning activities.](../claims/staff-see-genai-opportunities-teaching-enhancement.md) [+W]
+- [Students preferred robot-assisted storytelling and some students treated the robot as a more equal communication partner than the instructor](../claims/students-prefer-and-trust-robot-storytelling-partner.md) [~W]
+- [The main student use of GAI tools consistently in view was supporting language-usage and text production](../claims/student-gai-use-text-production.md) [~W]
+- [Students perceive LLM chatbots as useful for learning but requiring critical use, reporting hallucinations, overconfidence, and dependency risks](../claims/students-view-llms-useful-but-requiring-critical-use.md) [~W]
+- [Teacher use of LA for DBDM makes DLS use more effective for learning, and teacher support increases student usage](../claims/teacher-dbdm-use-increases-dls-effectiveness.md) [+W]
+- [Teachers' digital competence is a critical factor influencing both AI tool adoption and its pedagogical effectiveness](../claims/teacher-digital-competence-critical-ai-adoption.md) [+W]
+- [Teacher roles vary by orchestration type, with content-related and ethical roles prominent when the teacher intervenes in AI-generated feedback, and a knowledge-transmitter role emerging in explain-the-screen](../claims/teacher-roles-vary-by-orchestration-type.md) [~W]
+- [Technology-supported educational interventions are associated with higher metacognitive outcomes on average (g = 0.653), with substantial between-study heterogeneity](../claims/technology-interventions-positive-pooled-metacognition-effect.md) [+W]
+- [Turkish-language prompts produced poorer EDBL alignment than English prompts, revealing a linguistic equity limitation of AI lesson-planning tools](../claims/turkish-prompts-yield-poorer-edbl-alignment-than-english.md) [-W]
+- [All participants intended to continue integrating AI into teaching and to recommend the institute, and 70% had already begun implementing AI-enhanced tools or assignments](../claims/ubridge-implementation-intentions.md) [+W]
+- [Technology type did not significantly moderate effects on metacognitive outcomes, though generative-AI interventions showed a descriptively larger estimate](../claims/technology-type-did-not-moderate-metacognition-effects.md) [~W]
+- [Teachers' access to and professional use of technology improved considerably from 2001 to 2003, but did not translate into proportionate increases in technology-rich student assignments](../claims/teacher-access-use-rose-assignments-modest.md) [-W]
 
 ## The evidence by question
 - *Does building AI tools into instruction raise achievement over teaching the same content without them, and in which settings?* [AI-supported instruction has a moderate positive effect on student achievement in STEM education (g = 0.670 under a random effects model)](../claims/ai-instruction-stem-moderate-positive-effect.md) [+M]

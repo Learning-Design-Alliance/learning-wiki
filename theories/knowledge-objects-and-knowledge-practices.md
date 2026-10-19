@@ -17,7 +17,7 @@ sources:
 # Knowledge Objects and Knowledge Practices
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 41 claims (30 for, 10 mixed, 1 against) · 33 studies (11 qualitative, 7 associational, 5 review, 5 design, 4 theoretical, 1 causal), `q1`–`q3` · 0 of 33 report an effect size · 41 claims rest on one study
+> **Evidence** · 42 claims (31 for, 10 mixed, 1 against) · 33 studies (11 qualitative, 7 associational, 5 review, 5 design, 4 theoretical, 1 causal), `q1`–`q3` · 0 of 33 report an effect size · 42 claims rest on one study
 
 ## Description
 Drawing on Knorr Cetina's (2001) concept of epistemic objects, a **knowledge object (KO)** is an evolving, materially mediated artifact or representation — a report, a proposal, a logo, a plan — that is shaped through participants' interaction and, in turn, structures what the group does next. Unlike a finished document, a knowledge object is treated as perpetually unfinished: it raises awareness of understanding gaps, makes group progress visible, and prompts reflection precisely because it keeps changing. A **knowledge practice (KP)** is a recurring, dynamic epistemic activity through which a group jointly creates knowledge around an open-ended, complex problem — not limited to talk, but including the embodied and materially mediated practices (writing on a flip chart, restructuring a shared document) that channel a group's collective effort.
@@ -79,6 +79,7 @@ This is a distinct lens from [boundary crossing](boundary-crossing-learning.md):
 - [High-literacy students' ENA networks center on links among AI Improvement Commands, Clarification Questions, and Meta-Commands, described as a collaborative, epistemic approach](../claims/high-literacy-collaborative-refinement-network.md) [+W]
 - [Online concept-mapping behaviour may play a critical role in transforming verbal-discourse knowledge into deep-level co-construction; Type 3's lowest behavioural knowledge construction accompanied its lowest performance](../claims/online-behaviour-transforms-discourse-knowledge.md) [+W]
 - [A regularity view of causation is less suited than practice analysis to explaining how interaction patterns unfold over time](../claims/regularity-view-less-suited-interaction-explanations.md) [~W]
+- [The reconstruction phase produced two interdependent objects: a social object leading to a role-play script and a technology object leading to a Minecraft building](../claims/social-and-technology-objects-reconstruction-phase.md) [+W]
 
 ## Related Theories
 

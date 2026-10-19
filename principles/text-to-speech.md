@@ -30,7 +30,7 @@ sources:
 # Text-to-Speech
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 13 claims (2 for, 11 mixed) · 22 studies (8 review, 6 quant-synthesis, 5 causal, 3 theoretical), `q1`–`q4` · 6 of 22 report an effect size · 6 claims rest on one study
+> **Evidence** · 14 claims (3 for, 11 mixed) · 23 studies (8 review, 6 causal, 6 quant-synthesis, 3 theoretical), `q1`–`q4` · 6 of 23 report an effect size · 7 claims rest on one study
 
 ## Conditional relationship
 
@@ -152,6 +152,7 @@ Understanding with speech on, understanding without it, reading the words unaide
 ## Claims
 
 - [Treatment effect interacts with exam sub-section, with oral comprehension showing the largest LWPA advantage](../claims/lwpa-by-exam-subsection-interaction.md) [+W]
+- [In retrospective within-subject comparison, no core metric distinguished synthesized TTS narration from recorded instructor voice, and equivalence testing supported non-inferiority](../claims/tts-narration-equivalent-instructor-voice-retrospective.md) [+W]
 
 ## Related Principles
 - [Accessible Vocabulary & Syntax](accessible-vocabulary-syntax.md) — simpler language and audio support often work together.

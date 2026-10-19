@@ -13,7 +13,7 @@ generated:
 # Learning Analytics-Driven Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 51 claims (19 for, 23 mixed, 9 against) · 45 studies (14 review, 13 associational, 7 theoretical, 4 causal, 4 design, 3 qualitative), `q1`–`q3` · 4 of 45 report an effect size · 48 claims rest on one study
+> **Evidence** · 53 claims (19 for, 25 mixed, 9 against) · 47 studies (14 review, 14 associational, 7 theoretical, 4 causal, 4 qualitative, 4 design), `q1`–`q3` · 4 of 47 report an effect size · 50 claims rest on one study
 
 ## Description
 In face-to-face instruction, a teacher can visually notice disengagement or confusion; a distance instructor cannot, and many learners fail to recognize their own need for help or fail to seek it even when it is available (Baker & Inventado, 2016). Educational data mining (EDM) and learning analytics (LA) address this by mining the large amounts of interaction data online and distance courses generate — content-management, discussion-forum, gradebook, and clickstream data — to build models that predict which learners are at risk and to surface feedback that would otherwise depend on an instructor noticing in person.
@@ -97,6 +97,8 @@ These models feed three uses that benefit learners directly: **automated feedbac
 - [School and district factors relate to risk identification: low income concentration correlates with repeated risk identification, and segregation modestly increases it, though some schools outperform model predictions](../claims/massachusetts-school-segregation-risk-identification.md) [~W]
 - [Automated detectors of disengaged behaviors inferred from interaction-log data alone reached AUC over 0.8 for gaming and correlated 0.55 with observed off-task behavior](../claims/sensor-free-disengagement-detectors-accuracy.md) [+W]
 - [Sequence analysis of online course logs found group coordination predicted successful outcomes better than raw activity levels (review-attributed to Hoppe et al., 2021)](../claims/sequence-analysis-coordination-predicts-group-outcomes.md) [+W]
+- [The single-task Random Forest achieves the best average predictive performance but is optimal for only 7 of 15 concepts](../claims/single-task-rf-best-average-not-universally-optimal.md) [~W]
+- [Tutors reason differently about effort versus progress goals in ways that mirror the target-specific feature patterns, and trust clearly defined feature-backed explanations](../claims/tutors-reason-by-target-type-mirroring-feature-patterns.md) [~W]
 
 ## The evidence by question
 

@@ -13,7 +13,7 @@ generated:
 # Representational Drawing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (1 for, 3 mixed) · 4 studies (3 causal, 1 quant-synthesis), `q2`–`q3` · 2 of 4 report an effect size · 4 claims rest on one study
+> **Evidence** · 5 claims (2 for, 3 mixed) · 5 studies (4 causal, 1 quant-synthesis), `q2`–`q3` · 3 of 5 report an effect size · 5 claims rest on one study
 
 ## Description
 Representational drawing is the element in which learners sketch, diagram, or draw structures and relationships to support understanding.
@@ -27,3 +27,4 @@ Representational drawing is the element in which learners sketch, diagram, or dr
 - [Students using representation-based cues showed higher draw relative accuracy than those using heuristic cues](../claims/representation-based-cues-support-draw-relative-accuracy.md) [~W]
 - [Expansive framing increased spontaneous transfer of the diagram-drawing learning strategy (7 of 12 vs. 1 of 12 students)](../claims/expansive-framing-boosts-diagram-strategy-transfer.md) [~W]
 - [Lay producers of argument diagrams spontaneously create well-formed global structures, with 80% of diagrams having basic circle or square geometry](../claims/producers-well-formed-argument-diagram-structure.md) [~W]
+- [Sketching and viewing animations produced the best understanding of a geoscience text, while the photograph condition produced the worst](../claims/sketching-animation-best-understanding-photograph-worst.md) [+W]

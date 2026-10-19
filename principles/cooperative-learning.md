@@ -13,7 +13,7 @@ generated:
 # Cooperative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (9 for, 17 mixed) · 26 studies (11 quant-synthesis, 10 causal, 3 review, 2 design), `q2`–`q4` · 11 of 26 report an effect size · 19 claims rest on one study
+> **Evidence** · 27 claims (10 for, 17 mixed) · 26 studies (11 quant-synthesis, 10 causal, 3 review, 2 design), `q2`–`q4` · 11 of 26 report an effect size · 20 claims rest on one study
 
 ## Conditional relationship
 
@@ -97,6 +97,7 @@ Immediate group performance, individual achievement at the end of a unit, delaye
 - [Cooperative learning reduced disparities between students' critical thinking scores, with lower performers gaining most](../claims/cooperative-learning-reduces-score-disparities.md) [+W]
 - [Cooperative learning arrangements predict larger SRL training effects for cognitive and metacognitive strategies](../claims/cooperative-learning-moderates-srl-training-effects.md) [~W]
 - [Cooperative learning gains were large for observation and interpretation but small for analysis in 4th graders](../claims/cooperative-learning-skill-specific-ct-gains.md) [~W]
+- [Cooperative learning with Think-Pair-Share and RoundTable produces significantly larger critical thinking gains than traditional teaching in 4th graders](../claims/tps-roundtable-cooperative-learning-critical-thinking-gains.md) [+W]
 
 ## Related Principles
 

@@ -12,7 +12,7 @@ generated:
 # Expectancy-Value Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 11 claims (5 for, 6 mixed) · 10 studies (3 causal, 3 qualitative, 2 associational, 1 design, 1 theoretical), `q2`–`q3` · 3 of 10 report an effect size · 10 claims rest on one study
+> **Evidence** · 12 claims (5 for, 7 mixed) · 10 studies (3 causal, 3 qualitative, 2 associational, 1 design, 1 theoretical), `q2`–`q3` · 4 of 10 report an effect size · 11 claims rest on one study
 
 ## Description
 Expectancy-Value Theory (Wigfield & Eccles, 2000) proposes that achievement behavior is most immediately predicted by two beliefs: **expectancy for success** (whether the learner believes they will do well on an upcoming task) and **task value** (why the learner believes the task is worth doing). Expectancy for success is conceptually distinct from present-tense **ability beliefs** — expectancy is about future potential, ability belief is about current competence — though the two are closely related in practice.
@@ -69,6 +69,7 @@ The theory is explicitly integrative — it is often used as the organizing fram
 - [The review tutorial yields higher post-training task relevance than the control, but no condition effect on self-efficacy](../claims/review-condition-raises-task-relevance-not-self-efficacy.md) [~W]
 - [Girls started with lower interest in science than boys but gained significantly more, resulting in equal post-intervention interest](../claims/girls-lower-initial-interest-higher-gain.md) [~W]
 - [Students perceiving high task value exert greater effort and achieve more than students perceiving low value](../claims/high-task-value-effort-achievement.md) [+W]
+- [Teachers' SRL promotion is not significantly associated with students' perceived cost of using strategies at class or student level](../claims/srl-promotion-not-linked-to-student-cost.md) [~W]
 
 ## Related Theories
 

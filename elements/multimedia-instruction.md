@@ -13,7 +13,7 @@ generated:
 # Multimedia Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 19 claims (13 for, 6 mixed) · 25 studies (10 causal, 7 quant-synthesis, 6 review, 1 design, 1 theoretical), `q1`–`q4` · 9 of 25 report an effect size · 14 claims rest on one study
+> **Evidence** · 21 claims (14 for, 7 mixed) · 26 studies (11 causal, 7 quant-synthesis, 6 review, 1 design, 1 theoretical), `q1`–`q4` · 10 of 26 report an effect size · 16 claims rest on one study
 
 ## Description
 Multimedia instruction is the element in which teaching combines spoken or written language with visuals, diagrams, animation, or other media in a coordinated instructional sequence. It is useful when multiple representations clarify explanation and support comprehension.
@@ -55,6 +55,8 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [Media comparison results favor games in some studies but favor slideshows for games with intrusive narrative themes](../claims/media-comparison-game-versus-conventional-media-mixed.md) [~W]
 - [Media-rich videos combining text, pictures and voiceovers are rated more engaging than text-only videos](../claims/media-rich-videos-more-engaging-than-text-only.md) [+W]
 - [Evidence of publication bias exists, but the pooled video effects are robust to it](../claims/publication-bias-present-but-effects-robust.md) [~W]
+- [In retrospective within-subject comparison, no core metric distinguished synthesized TTS narration from recorded instructor voice, and equivalence testing supported non-inferiority](../claims/tts-narration-equivalent-instructor-voice-retrospective.md) [~W]
+- [Adding supplementary video to existing teaching produces strong learning benefits (g = 0.88)](../claims/supplementary-video-strong-benefit.md) [+W]
 
 ## The evidence by question
 - *Do words with a relevant picture beat words alone?* [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+S]

@@ -18,7 +18,7 @@ sources:
 # Combine intentional and incidental vocabulary learning rather than relying on incidental learning alone
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 22 claims (16 for, 5 mixed, 1 against) · 14 studies (5 quant-synthesis, 5 review, 4 causal), `q2`–`q3` · 2 of 14 report an effect size · 17 claims rest on one study
+> **Evidence** · 23 claims (16 for, 6 mixed, 1 against) · 15 studies (5 quant-synthesis, 5 review, 4 causal, 1 associational), `q2`–`q3` · 2 of 15 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 
@@ -139,6 +139,7 @@ Words recognised at the end of a session, words recalled at a delay, words used 
 ## Claims
 
 - [The probability of learning an unknown word from a single natural-context exposure is roughly .05 to .11, supporting an extrapolated 750 to 5,500 words learned per year from reading](../claims/one-exposure-context-learning-probability-extrapolation.md) [~W]
+- [Total reading time independently contributed to the learning of word meaning](../claims/total-reading-time-predicts-word-meaning.md) [~W]
 
 ## Related Principles
 - 

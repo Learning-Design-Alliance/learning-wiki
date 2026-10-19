@@ -26,7 +26,7 @@ sources:
 # Problem-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 39 claims (12 for, 24 mixed, 3 against) · 38 studies (10 review, 9 causal, 6 quant-synthesis, 6 theoretical, 5 qualitative, 1 associational, 1 design), `q1`–`q4` · 5 of 38 report an effect size · 34 claims rest on one study
+> **Evidence** · 42 claims (13 for, 26 mixed, 3 against) · 40 studies (10 review, 9 causal, 7 quant-synthesis, 6 theoretical, 5 qualitative, 2 associational, 1 design), `q1`–`q4` · 6 of 40 report an effect size · 37 claims rest on one study
 
 ## Conditional relationship
 
@@ -140,6 +140,9 @@ At the curriculum level, the expectation of a small and variable average should 
 - [The scope of PBL implementation shaped discussion quality: hybrid lecture-based implementation reduced uncertainty but yielded less critical discussion than full PBL](../claims/scope-of-pbl-implementation-shapes-discussion.md) [~W]
 - [Self-generation of learning issues improves studied materials, self-study time, and reporting time in PBL](../claims/self-generated-learning-issues-benefit-pbl.md) [+W]
 - [Learning through the experience of solving problems can build both content knowledge and thinking strategies](../claims/problem-experience-builds-content-and-thinking-strategies.md) [+W]
+- [Most PBL groups settled into stable regulatory patterns early in the course, with transitions usually between similar patterns](../claims/stable-early-regulatory-patterns-limited-change.md) [~W]
+- [One review reports that more teacher guidance within inquiry is associated with larger advantages over traditional instruction, though the two meta-analyses it cites differ in magnitude](../claims/teacher-guided-inquiry-larger-effects.md) [+M]
+- [Tutorial group size moderates SDL gains in PBL: small and medium groups gained SDL, large groups declined](../claims/tutorial-group-size-moderates-sdl.md) [~W]
 
 ## Related Principles
 - [Inquiry-based Learning](inquiry-based-learning.md) — PBL is one inquiry form centered on authentic problems.

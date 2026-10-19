@@ -12,7 +12,7 @@ generated:
 # Executive Function Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 159 claims (76 for, 79 mixed, 4 against) · 90 studies (52 associational, 15 review, 14 causal, 7 quant-synthesis, 2 theoretical), `q1`–`q4` · 38 of 90 report an effect size · 151 claims rest on one study
+> **Evidence** · 177 claims (82 for, 91 mixed, 4 against) · 95 studies (56 associational, 17 review, 13 causal, 7 quant-synthesis, 2 theoretical), `q1`–`q4` · 40 of 95 report an effect size · 169 claims rest on one study
 
 ## Description
 Executive functions are the self-regulatory processes that let a person inhibit an impulsive response, flexibly shift between tasks or perspectives, hold and manipulate information in mind, and organize behavior toward a goal rather than react automatically to the immediate situation. They emerge gradually starting in early childhood and continue developing through adolescence, driven both by brain maturation — particularly of the prefrontal cortex, which matures later than most other brain regions — and by experience (Fay-Stammbach, Hawes, & Meredith, 2014).
@@ -200,6 +200,24 @@ Executive function is closely tied to, but distinct from, adolescent risk-taking
 - [Functional coupling development during inhibition is sex-specific: striatal-motor coupling increases with age in girls, frontostriatal coupling increases with age in boys](../claims/sex-specific-inhibition-coupling-development.md) [~W]
 - [rTMS of right IFJ causally reduces top-down modulation during encoding and working memory accuracy](../claims/rtms-ifj-causal-top-down-modulation-wm.md) [+W]
 - [Children with better selective attention were more flexible (used more different conceptual categories) in the Alternative Uses Task](../claims/selective-attention-predicts-flexibility.md) [+W]
+- [Shifting is moderately to strongly associated with reading comprehension, with large associations when reading-specific shifting tasks are paired with literal comprehension measures](../claims/shifting-reading-comprehension-moderate-strong.md) [+W]
+- [Shifting shows small to moderate associations with listening comprehension (r = .12 to .45) across three studies](../claims/shifting-listening-comprehension-small-moderate.md) [~W]
+- [Children who slept <9 hours/day at ages 5-7 years had worse maternal-reported executive function and behavioral difficulties at age 7 than children sleeping ≥10 hours/day](../claims/short-sleep-5-7-years-worse-maternal-neurobehavioral.md) [~W]
+- [Shifting is generally moderately to strongly associated with word reading, with reading-specific shifting tasks most strongly linked to accuracy-based word reading assessments](../claims/shifting-word-reading-moderate-strong.md) [+W]
+- [Children who slept <10 hours/day at ages 3-4 years had worse maternal-reported executive function and behavioral difficulties at age 7 than children with age-appropriate sleep](../claims/short-sleep-3-4-years-worse-maternal-neurobehavioral-age-7.md) [~W]
+- [Previous night's sleep quality and time in bed predict children's morning working memory performance fluctuations](../claims/sleep-quality-time-in-bed-predict-morning-working-memory.md) [~W]
+- [Spontaneous flexibility, but not reactive flexibility, significantly predicts children's reading comprehension and writing](../claims/spontaneous-flexibility-predicts-academic-skills.md) [~W]
+- [SSRT was faster in the cancellation task than in the restraint task, supporting inhibition as a non-unitary construct](../claims/ssrt-faster-cancellation-than-restraint.md) [~W]
+- [Sport-specific disciplines relate to distinct executive functions: tennis and football with inhibitory control and working memory, with a larger tennis association in males](../claims/sport-disciplines-executive-functions-tennis-football.md) [+W]
+- [Social communication skills uniquely predict kindergarten executive functions after accounting for vocabulary, which does not predict EF](../claims/social-communication-uniquely-predicts-kindergarten-executive-functions.md) [~W]
+- [Total childhood ADHD symptoms predict longer adolescent SSRT, but neither symptom domain shows specificity and early precursors do not predict SSRT](../claims/ssrt-predicted-by-total-childhood-adhd-symptoms-only.md) [~W]
+- [Stroop inhibition correlates with linguistic competition resolution in bilinguals but not monolinguals](../claims/stroop-correlates-competitor-inhibition-bilinguals-not-monolinguals.md) [~W]
+- [Task-switching ability matures earlier than task maintenance and selection abilities in childhood](../claims/switching-matures-earlier-than-maintenance.md) [+W]
+- [Task-irrelevant negative images disrupt no-go accuracy specifically in early-mid adolescence](../claims/task-irrelevant-negative-images-disrupt-early-adolescent-inhibition.md) [+W]
+- [Threat of an aversive scream lowers verbal working memory accuracy at low and medium load but not at high load in both adolescents and adults](../claims/threat-impairs-accuracy-low-medium-not-high-load.md) [~W]
+- [Task-relevant emotions affect response inhibition more strongly than task-irrelevant emotions, especially in young children](../claims/task-relevant-emotions-stronger-response-inhibition-effect.md) [~W]
+- [Tools of the Mind and Montessori curricula improve children's EFs, with Tools children outperforming controls especially on more EF-demanding conditions](../claims/tools-montessori-curricula-improve-efs.md) [+W]
+- [Current daytime tiredness predicts children's afternoon working memory performance fluctuations](../claims/tiredness-predicts-afternoon-working-memory.md) [~W]
 
 ## Related Theories
 

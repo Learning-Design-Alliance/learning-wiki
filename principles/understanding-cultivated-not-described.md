@@ -27,7 +27,7 @@ sources:
 # Understanding must be cultivated through exploration, not described or told
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 20 claims (12 for, 5 mixed, 3 against) · 24 studies (7 causal, 4 quant-synthesis, 4 review, 3 qualitative, 3 design, 3 theoretical), `q1`–`q4` · 5 of 24 report an effect size · 15 claims rest on one study
+> **Evidence** · 21 claims (12 for, 5 mixed, 4 against) · 25 studies (7 causal, 4 quant-synthesis, 4 review, 4 design, 3 qualitative, 3 theoretical), `q1`–`q4` · 5 of 25 report an effect size · 16 claims rest on one study
 
 ## Conditional relationship
 
@@ -146,6 +146,7 @@ Understanding shown in an oral explanation of one's own work, judgement of a new
 
 - [Contrasting cases without explicit guidance on their use do not improve conceptual understanding or solution-attempt quality](../claims/unguided-contrasting-cases-no-learning-effect.md) [-W]
 - [Empirical case of martial arts instruction grounds the argument that practice can support discovery](../claims/martial-arts-instruction-case-practice-discovery.md) [+W]
+- [One student asked for a disciplinary explanation twelve times during a 53-minute problem-solving process without anyone clarifying it sufficiently](../claims/twelve-unanswered-conceptual-questions.md) [-W]
 
 ## Related Principles
 

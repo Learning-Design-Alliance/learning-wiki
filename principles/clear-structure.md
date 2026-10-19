@@ -31,7 +31,7 @@ sources:
 # Clear Structure
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 30 claims (22 for, 8 mixed) · 34 studies (12 causal, 7 quant-synthesis, 7 review, 5 qualitative, 3 theoretical), `q1`–`q4` · 8 of 34 report an effect size · 21 claims rest on one study
+> **Evidence** · 31 claims (22 for, 9 mixed) · 34 studies (12 causal, 7 quant-synthesis, 7 review, 5 qualitative, 3 theoretical), `q1`–`q4` · 8 of 34 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 
@@ -124,6 +124,7 @@ A gain on an immediate test, a change in what is recalled, delayed retention, tr
 - [Under unclear presentation, a more complex concept structure lessens students' ability to identify concepts](../claims/unclear-presentation-complex-structure-penalty.md) [+W]
 - [Maker Education Assessment Principles Practices Framework](../theories/maker-education-assessment-principles-practices-framework.md) [+M]
 - [Well-organized texts following rhetorical schemata are better remembered than disorganized texts, and high-structure information is more likely to be recalled](../claims/organized-text-high-structure-recall-advantage.md) [+W]
+- [Structural signals show no consistent recall benefits but can aid deeper understanding measured by problem-solving tests](../claims/structural-signals-aid-problem-solving-not-recall.md) [~W]
 
 ## Related Principles
 
