@@ -13,7 +13,7 @@ generated:
 # Intelligence Testing: Uses and Limits
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 12 claims (6 for, 6 mixed) · 13 studies (8 associational, 4 review, 1 theoretical), `q1`–`q3` · 1 of 13 report an effect size · 11 claims rest on one study
+> **Evidence** · 15 claims (8 for, 7 mixed) · 14 studies (9 associational, 4 review, 1 theoretical), `q1`–`q3` · 1 of 14 report an effect size · 14 claims rest on one study
 
 ## Description
 The first intelligence test, the Binet-Simon test, grew out of Alfred Binet's 1904 appointment as France's Minister of Public Education, where he sought a way to identify children with developmental disabilities so they could receive appropriate support — Binet believed "abnormality" could be remediated, and strongly supported special education on that basis. It was the first test to distinguish "normal" children from those with developmental disabilities, and its later revision became the Stanford-Binet, one of the most widely used intelligence tests (Zimmerman & Schunk, 2003). Binet's original purpose — identifying students who need support — sits in some tension with how intelligence-test scores are more often used today, as a general ranking or classification device (see Constraints below).
@@ -63,6 +63,9 @@ Despite this psychometric strength, intelligence tests and the definitions of in
 - [Full-scale IQ predicts reading comprehension more strongly than word reading, and working memory and processing speed remain significant predictors after IQ is controlled](../claims/iq-predicts-comprehension-more-than-word-reading.md) [+W]
 - [High performance in old age is associated with higher education, foreign language use and IQ, but not physical activity or personality](../claims/high-performance-linked-education-language-iq.md) [+W]
 - [Complexity of children's naturalistic memory reports predicts reading ability over and above IQ](../claims/memory-report-complexity-predicts-reading-ability.md) [+W]
+- [When previous academic achievement is controlled, intelligence predicts only later reading comprehension and age-10 mathematics, and WMC predicts nothing additionally](../claims/precursors-reduce-iq-wmc-prediction.md) [+W]
+- [Processing speed has a significant effect on both letter and category fluency in older adults, while IQ does not](../claims/processing-speed-significant-covariate-both-fluencies.md) [~W]
+- [In latent-variable SEM models, intelligence — not working memory — is the significant direct predictor of academic outcomes in both childhood and early adulthood](../claims/sem-iq-only-significant-predictor.md) [+W]
 
 ## Related Principles
 - [Supporting Gifted and Talented Students](../principles/supporting-gifted-and-talented-students.md) — giftedness classification is conventionally IQ-threshold-based, inheriting all of this principle's measurement caveats

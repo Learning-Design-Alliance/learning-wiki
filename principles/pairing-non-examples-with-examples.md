@@ -22,7 +22,7 @@ sources:
 # Pairing Non-examples with Examples
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 14 claims (8 for, 6 mixed) · 20 studies (9 causal, 5 review, 3 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 2 of 20 report an effect size · 9 claims rest on one study
+> **Evidence** · 15 claims (8 for, 7 mixed) · 20 studies (9 causal, 5 review, 3 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 2 of 20 report an effect size · 10 claims rest on one study
 
 ## Conditional relationship
 
@@ -136,6 +136,7 @@ Classification of labelled pairs, classification of new unlabelled cases, explan
 ## Claims
 
 - [In the acquisition of negative knowledge, erroneous examples outperformed correct examples](../claims/errex-negative-knowledge-advantage.md) [+W]
+- [Prior knowledge moderates the effectiveness of erroneous and contrasting erroneous examples, with low-prior-knowledge learners benefiting in several studies but findings contradictory](../claims/prior-knowledge-moderates-errex-effectiveness.md) [~W]
 
 ## Related Principles
 - [Error Analysis](error-analysis.md) — pairing examples with non-examples is one concrete way to analyze and correct misconceptions.

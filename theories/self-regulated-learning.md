@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 156 claims (78 for, 71 mixed, 7 against) · 130 studies (47 associational, 39 causal, 13 review, 12 quant-synthesis, 7 theoretical, 6 qualitative, 6 design), `q1`–`q4` · 33 of 130 report an effect size · 141 claims rest on one study
+> **Evidence** · 161 claims (78 for, 75 mixed, 8 against) · 133 studies (47 associational, 40 causal, 14 review, 12 quant-synthesis, 7 qualitative, 7 theoretical, 6 design), `q1`–`q4` · 33 of 133 report an effect size · 146 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -203,6 +203,11 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [No group differences appear in self-regulation, strategies, or motivation across the four mathematics achievement groups](../claims/no-group-differences-other-metacognition.md) [~W]
 - [Adequacy of regulation decisions did not depend on misconceptions or instructional method](../claims/no-effect-regulation-decision-adequacy.md) [~W]
 - [The field lacks micro-level S-SRL theory and methodological guidelines, and studies have not connected temporal/sequential characteristics to learning gains](../claims/need-micro-level-theory-and-method-guidelines-ssrl.md) [-W]
+- [Case analysis shows regulation strategies did not always align with the challenges faced, leading to recurring difficulties within the group](../claims/regulation-misalignment-recurring-group-difficulties.md) [-W]
+- [Physiological synchrony among collaborating students related only to cognitive regulation, while motivational regulation changes related to achievement](../claims/physiological-synchrony-cognitive-regulation-dindar.md) [~W]
+- [Self-assessment accuracy in PBL depends on achievement level: low achievers graded generously, high achievers accurately](../claims/self-assessment-accuracy-achievement-level-pbl.md) [~W]
+- [At scale level, the questionnaire's Elaboration & evaluation scale correlated significantly with the same think-aloud scale (r=.60) while the Orientation & planning scale did not (r=.24)](../claims/scale-level-correlations-elaboration-versus-orientation.md) [~W]
+- [Within-group analyses show significant increases on several affective and metacognitive dimensions in Scrum classes, while the comparison group showed no significant increases or decreases.](../claims/scrum-classes-significant-within-group-perception-increases.md) [~W]
 
 ## The evidence by question
 

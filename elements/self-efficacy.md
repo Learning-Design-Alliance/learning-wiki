@@ -13,7 +13,7 @@ generated:
 # Self Efficacy
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 47 claims (27 for, 18 mixed, 1 against, 1 unmarked) · 42 studies (18 associational, 11 review, 8 causal, 2 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 11 of 42 report an effect size · 43 claims rest on one study
+> **Evidence** · 55 claims (32 for, 21 mixed, 1 against, 1 unmarked) · 46 studies (21 associational, 11 review, 9 causal, 2 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 12 of 46 report an effect size · 51 claims rest on one study
 
 ## Description
 Self efficacy is a learner's belief in their capability to succeed at a specific task or domain, not a general sense of self-worth. It functions as a proximal driver of learning: learners with higher efficacy set more ambitious goals, persist longer through difficulty, and recover faster from failure [Bandura, 1997]. Because it is domain-specific and malleable, it is a design target rather than a fixed learner trait.
@@ -95,6 +95,14 @@ Instructional design shapes self efficacy primarily through the four sources Ban
 - [Individual factors supportive of adolescent creativity include openness to experience, intrinsic motivation, creative self-efficacy, and external attributions for adversity](../claims/individual-supportive-factors-adolescent-creativity.md) [+W]
 - [Peer models raised self-efficacy and skill better than teacher models, but model-competence findings conflict across studies](../claims/peer-model-similarity-effects-mixed-evidence.md) [+W]
 - [The serial mediation model explains 32.5–37.0% of variance in AI-TPACK, self-efficacy, and AI integration intention](../claims/model-explained-variance-ai-integration-outcomes.md) [~W]
+- [Programming self-efficacy and programming literacy did not significantly moderate the trust–appropriate reliance relationship](../claims/programming-measures-no-moderation.md) [~W]
+- [School-family balance is predicted by both academic and parental self-efficacy and in turn predicts school and family satisfaction](../claims/school-family-balance-predicted-by-efficacy-predicts-satisfaction.md) [+W]
+- [Changes in self-efficacy correlate with changes in visual discrimination sensitivity after regressing out objective ability and baseline self-efficacy](../claims/self-efficacy-change-correlates-vds-change.md) [+W]
+- [Self-efficacy is positively associated with acceptance outcomes for AI-assisted English learning tools in adjusted regression models](../claims/self-efficacy-positive-ai-english-acceptance.md) [+W]
+- [Self-efficacy correlates positively with subsequent motivation and performance across cognitive and sport domains](../claims/self-efficacy-predicts-motivation-and-performance.md) [+W]
+- [In the structural equation model, both supports directly predict innovative competence and strongly predict the mediators](../claims/sem-direct-paths-dual-supports-innovative-competence.md) [~W]
+- [Self-modeling raised self-efficacy for learning, motivation, and posttest skill among below-grade-level children](../claims/self-modeling-raises-efficacy-and-skill.md) [+W]
+- [Profile sizes: 29.4% low, 41.2% moderate, and 29.4% high academic self-efficacy among students with motor disabilities](../claims/self-efficacy-profile-distribution-102-students.md) [~W]
 
 ## The evidence by question
 

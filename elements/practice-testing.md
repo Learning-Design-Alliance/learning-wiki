@@ -13,7 +13,7 @@ generated:
 # Practice Testing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 35 claims (21 for, 14 mixed) · 23 studies (10 causal, 6 quant-synthesis, 5 review, 1 associational, 1 qualitative), `q1`–`q4` · 13 of 23 report an effect size · 31 claims rest on one study
+> **Evidence** · 38 claims (24 for, 14 mixed) · 25 studies (11 causal, 6 quant-synthesis, 5 review, 2 associational, 1 qualitative), `q1`–`q4` · 13 of 25 report an effect size · 34 claims rest on one study
 
 ## Description
 Practice testing (retrieval practice) asks learners to recall or apply information from memory — via low- or no-stakes quizzes, flashcards, free recall, or problem-solving — before or instead of restudying. The act of successful retrieval itself strengthens memory and reveals gaps, making testing a learning event rather than merely an assessment event.
@@ -86,6 +86,9 @@ Retrieval practice produces substantially larger and more durable learning gains
 - [Test condition did not affect pre-post learning-outcome differences, but school type was a significant factor in the multivariate model](../claims/school-type-significant-condition-not.md) [~W]
 - [Taking a multiple-choice test boosts performance on later tests compared with nontested control conditions, including with complex SAT II materials](../claims/mc-testing-boosts-later-performance.md) [+W]
 - [Multiple-choice testing improves later cued recall of prose facts, a benefit that persists though reduced after a one-week delay](../claims/mc-testing-prose-cued-recall-benefit.md) [+W]
+- [More frequent practice-test participation predicts higher sensitivity (better detection of correct answers) in final-exam judgments, with and without feedback](../claims/practice-tests-improve-judgment-sensitivity.md) [+W]
+- [The testing effect is largest at a retention interval of 1–6 days (g = 0.82) and robust across all intervals](../claims/retention-interval-one-to-six-days-largest.md) [+W]
+- [The retrieval benefit occurs at the level of individual items, not through general practice at retrieval](../claims/retrieval-benefit-item-level.md) [+W]
 
 ## The evidence by question
 - *Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?* [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]

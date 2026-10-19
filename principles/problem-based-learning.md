@@ -26,7 +26,7 @@ sources:
 # Problem-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 36 claims (10 for, 23 mixed, 3 against) · 36 studies (9 causal, 9 review, 6 quant-synthesis, 6 theoretical, 4 qualitative, 1 associational, 1 design), `q1`–`q4` · 5 of 36 report an effect size · 31 claims rest on one study
+> **Evidence** · 39 claims (12 for, 24 mixed, 3 against) · 38 studies (10 review, 9 causal, 6 quant-synthesis, 6 theoretical, 5 qualitative, 1 associational, 1 design), `q1`–`q4` · 5 of 38 report an effect size · 34 claims rest on one study
 
 ## Conditional relationship
 
@@ -137,6 +137,9 @@ At the curriculum level, the expectation of a small and variable average should 
 - [PBL offers potential to help students develop flexible understanding and lifelong learning skills](../claims/pbl-potential-flexible-understanding-lifelong-learning.md) [~W]
 - [Student engagement is higher during PBL than during traditional instruction](../claims/pbl-engagement-higher-than-traditional.md) [+W]
 - [Research on PBL covers flexible knowledge, problem-solving, and SDL skills but little on collaboration and motivation](../claims/pbl-evidence-uneven-across-goals.md) [~W]
+- [The scope of PBL implementation shaped discussion quality: hybrid lecture-based implementation reduced uncertainty but yielded less critical discussion than full PBL](../claims/scope-of-pbl-implementation-shapes-discussion.md) [~W]
+- [Self-generation of learning issues improves studied materials, self-study time, and reporting time in PBL](../claims/self-generated-learning-issues-benefit-pbl.md) [+W]
+- [Learning through the experience of solving problems can build both content knowledge and thinking strategies](../claims/problem-experience-builds-content-and-thinking-strategies.md) [+W]
 
 ## Related Principles
 - [Inquiry-based Learning](inquiry-based-learning.md) — PBL is one inquiry form centered on authentic problems.

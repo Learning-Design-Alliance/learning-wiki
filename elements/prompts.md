@@ -13,7 +13,7 @@ generated:
 # Prompts
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 28 claims (10 for, 16 mixed, 2 against) · 33 studies (15 causal, 6 quant-synthesis, 5 review, 3 theoretical, 2 associational, 2 qualitative), `q1`–`q4` · 8 of 33 report an effect size · 22 claims rest on one study
+> **Evidence** · 31 claims (11 for, 18 mixed, 2 against) · 34 studies (15 causal, 6 quant-synthesis, 6 review, 3 theoretical, 2 associational, 2 qualitative), `q1`–`q4` · 8 of 34 report an effect size · 25 claims rest on one study
 
 ## Description
 A prompt is a cue, question, or instruction embedded in a learning task that directs learner attention, elicits a response, or scaffolds a cognitive process at the moment it is needed. Prompts range from simple procedural reminders ("check your units") to elaborative questions ("why does this solution work?") to metacognitive self-questioning stems ("what strategy am I using, and is it working?").
@@ -75,6 +75,9 @@ Prompts work by triggering self-explanations and strategic processing that learn
 - [Correlations between the number of prompt mistakes and number of messages sent were non-significant or weak, giving little evidence that mistake count influenced prompting effort](../claims/mistake-count-message-count-weak-correlation.md) [~W]
 - [Metacognitive prompts during collaboration improve communication of knowledge and its underlying assumptions](../claims/metacognitive-prompts-improve-collaborative-communication.md) [+W]
 - [Navigation features and self-explanation prompts do not interact in their effect on video learning](../claims/no-interaction-navigation-prompts-learning.md) [~W]
+- [Task accuracy is far higher with reminders than internal memory and is unaffected by reminder framing](../claims/reminder-accuracy-unaffected-by-framing.md) [+W]
+- [Explicit training in constraint-seeking questions showed only moderate, non-generalizing benefits, whereas prompting explanation supports better question asking](../claims/question-asking-interventions-mixed-success.md) [~W]
+- [Participants show a significant reminder bias (overuse of reminders relative to the optimal strategy) when reminders are framed as gains](../claims/reminder-bias-under-gain-framing.md) [~W]
 
 ## The evidence by question
 

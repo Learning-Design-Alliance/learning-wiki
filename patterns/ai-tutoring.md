@@ -14,7 +14,7 @@ grain_size: course
 # AI Tutoring
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 298 claims (143 for, 109 mixed, 46 against) · 206 studies (74 causal, 42 review, 25 design, 24 theoretical, 19 quant-synthesis, 11 associational, 11 qualitative), `q1`–`q4` · 43 of 206 report an effect size · 284 claims rest on one study
+> **Evidence** · 309 claims (146 for, 116 mixed, 47 against) · 210 studies (76 causal, 43 review, 25 design, 25 theoretical, 19 quant-synthesis, 11 associational, 11 qualitative), `q1`–`q4` · 44 of 210 report an effect size · 295 claims rest on one study
 
 ## Description and scope
 
@@ -306,6 +306,17 @@ This pattern is scoped to the tutor's moves within tasks and the handoff to peop
 - [Reducing Math Agent output and disabling it for non-math courses reduced latency and increased behavioral engagement](../claims/math-agent-reduction-livelatency-engagement-gains.md) [~W]
 - [Education-oriented tuning produces the largest gains in scaffolded instruction and use of longitudinal student evidence, with LongTutor Evidence averages rising sharply at all scales](../claims/omniedu-largest-gains-scaffolding-longitudinal-evidence.md) [+W]
 - [Neither tutoring mode nor human tutor access affects learners' use of conceptual help tools](../claims/no-tutoring-effect-on-conceptual-help-use.md) [~W]
+- [Counterfactual probabilities of necessity and sufficiency quantify the causal effect of hints and skills on task performance](../claims/pn-ps-counterfactuals-help-and-skill-effects.md) [~W]
+- [Prior genAI use shows some evidence of poorer subsequent unaided reasoning, confined to the no-incentive condition](../claims/prior-genai-use-poorer-unaided-reasoning.md) [~W]
+- [Within prompt–response AI interfaces, students without guidance rarely move beyond prompt tuning, yielding interactions of limited educational value and increased reliance on outputs](../claims/prompt-response-interface-limits-learning-value.md) [+W]
+- [Policy in reviewed systems is commonly expressed as a set of assistance boundaries, concentrated on response constraints, scaffolding, and personalization](../claims/policy-multilabel-concentrated-constraints-scaffolding-personalization.md) [+W]
+- [Tutor promptings and information items explain only a limited share of variance in help tool use](../claims/promptings-limited-explanatory-power-help-use.md) [~W]
+- [Scenario-based tutor lessons produced a significant pooled 7.4% learning gain, driven by three lessons with established construct validity while three newer lessons showed no significant gains](../claims/scenario-lessons-pooled-74-percent-gain.md) [+W]
+- [Next-turn recovery from impasses declines steadily as impasse depth increases, with help-seeking impasses declining most sharply](../claims/recovery-declines-with-impasse-depth.md) [~W]
+- [LLM scaffolding level is associated with the student's next dialogue act, and the association persists within broad request categories](../claims/scaffolding-associated-with-next-student-move.md) [~W]
+- [Early reliance is associated with both academic benefit and negative impact, while cognitive reliance is associated with positive impact](../claims/reliance-type-differential-outcomes-regression.md) [-W]
+- [The adaptive router reduces turns in long conversations (turns≥5) but not across the unfiltered dataset](../claims/router-reduces-turns-long-conversations.md) [~W]
+- [Structured prompting raises perceived interaction clarity and dependability but reduces perceived novelty of AI-supported learning](../claims/prompting-raises-perspicuity-dependability-lowers-novelty.md) [~W]
 
 ## Related Patterns
 

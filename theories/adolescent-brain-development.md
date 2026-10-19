@@ -12,7 +12,7 @@ generated:
 # Adolescent Brain Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 11 claims (7 for, 4 mixed) · 9 studies (4 review, 3 associational, 2 causal), `q2`–`q3` · 2 of 9 report an effect size · 11 claims rest on one study
+> **Evidence** · 13 claims (7 for, 5 mixed, 1 against) · 10 studies (4 review, 4 associational, 2 causal), `q2`–`q3` · 3 of 10 report an effect size · 13 claims rest on one study
 
 ## Description
 The adolescent brain undergoes substantial restructuring between roughly ages 10 and 25, and the *sequence* of that restructuring — not just its extent — has direct implications for how adolescents learn, take risks, and regulate emotion. The **limbic system**, which governs reward-seeking and emotional response, matures years ahead of the **prefrontal cortex**, which governs executive functions such as impulse control, planning, emotion regulation, and sustained attention. Steinberg (2008) describes this as "a powerful engine before the braking system is in place" — adolescents have an adult-level capacity for reward-seeking and emotional intensity well before they have an adult-level capacity to regulate it.
@@ -49,6 +49,8 @@ Executive functions — impulse control, cognitive flexibility, working memory, 
 - [Executive-function brain circuitry takes more than twenty years to fully mature, leaving school-age youth with underdeveloped long-run decision systems](../claims/executive-function-maturation-over-twenty-years.md) [+W]
 - [Viewing Instagram pictures with many Likes recruits the reward network and reduces cognitive-control activation in adolescents](../claims/instagram-likes-recruit-adolescent-reward-network.md) [+W]
 - [Mid-adolescents show attenuated right vlPFC response to rejection-themed words relative to adults](../claims/mid-adolescent-attenuated-vlpfc-rejection-stroop.md) [~W]
+- [Frequent and longer screen-based media use, including Internet-related addictive behaviors, is related to a less efficient cognitive control system in adolescence](../claims/screen-time-less-efficient-cognitive-control-adolescence.md) [-W]
+- [Functional coupling development during inhibition is sex-specific: striatal-motor coupling increases with age in girls, frontostriatal coupling increases with age in boys](../claims/sex-specific-inhibition-coupling-development.md) [~W]
 
 ## Related Theories
 - [Stages of Cognitive Development](stages-of-cognitive-development.md) — formal operational reasoning and adolescent risk-taking co-occur; the capacity for abstract, hypothetical reasoning does not by itself guarantee its consistent application under emotional or social pressure

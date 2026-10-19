@@ -17,7 +17,7 @@ sources:
 # Information Processing Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 76 claims (40 for, 36 mixed) · 52 studies (18 associational, 17 causal, 11 review, 3 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 10 of 52 report an effect size · 73 claims rest on one study
+> **Evidence** · 86 claims (44 for, 42 mixed) · 55 studies (20 associational, 17 causal, 12 review, 3 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 11 of 55 report an effect size · 83 claims rest on one study
 
 ## Description
 Information Processing Theory treats learning as the movement and transformation of information through attention, working memory, encoding, storage, and retrieval. In broad terms, the theory asks what learners notice, how much they can actively process at once, how they organize new information, and how it becomes retrievable later.
@@ -139,6 +139,16 @@ Information processing models are often criticized as overly linear and serial, 
 - [Deaf children's working memory disadvantage is task-dependent: no group differences on Spatial Span Forward or narrative measures](../claims/nvwm-group-differences-task-dependent.md) [~W]
 - [Perceptual attention is probably necessary but not sufficient for encoding stimuli into working memory](../claims/perceptual-attention-necessary-not-sufficient-wm-encoding.md) [+W]
 - [Adults with greater memory capacity, measured by WAIS Digits Backward, produced more complex utterances and used more right- and left-branching clauses](../claims/memory-capacity-linked-utterance-complexity.md) [+W]
+- [Phonological short-term memory capacity selectively predicts new vocabulary learning](../claims/phonological-memory-predicts-vocabulary-learning.md) [+W]
+- [Processing speed is linked to working memory in both studies, but its link to short-term memory is inconsistent across studies](../claims/processing-speed-links-wm-consistent-stm-inconsistent.md) [~W]
+- [Memory-based strategy use continues to increase from childhood through adolescence into adulthood](../claims/retrieval-development-through-adolescence-adulthood.md) [+W]
+- [Predictive cues aid transfer of perceptual representations into working memory via pre-encoding top-down modulation](../claims/predictive-cues-pre-encoding-modulation-wm-benefit.md) [+W]
+- [rTMS of right IFJ causally reduces top-down modulation during encoding and working memory accuracy](../claims/rtms-ifj-causal-top-down-modulation-wm.md) [+W]
+- [Longer inter-item response times follow larger semantic distances in children's semantic search paths](../claims/semantic-distance-predicts-longer-response-times.md) [~W]
+- [Retro-cues during maintenance dynamically modulate working memory representations and confer large performance benefits](../claims/retro-cues-dynamically-modulate-wm-maintenance.md) [~W]
+- [Serial order STM shows raw concurrent and longitudinal correlations with vocabulary at both ages](../claims/serial-order-stm-raw-correlations-vocabulary.md) [~W]
+- [Phonological memory gains disappeared when central executive was controlled, but visuospatial memory gains remained substantial, suggesting different underlying mechanisms](../claims/phonological-gains-strategy-based-visuospatial-gains-persist.md) [~W]
+- [Distinct brain systems support learning of information consistent versus inconsistent with existing knowledge](../claims/prior-knowledge-consistency-brain-systems-memory.md) [~W]
 
 ## The evidence by question
 - *How large should a unit be, and does grouping static material help?* [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S]

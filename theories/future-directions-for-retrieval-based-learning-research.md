@@ -17,7 +17,7 @@ sources:
 # Future Directions for Retrieval-Based Learning Research
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 mixed) · 3 studies (1 causal, 1 quant-synthesis, 1 review), `q2`–`q3` · 1 of 3 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 mixed) · 4 studies (2 review, 1 causal, 1 quant-synthesis), `q2`–`q3` · 1 of 4 report an effect size · 2 claims rest on one study
 
 ## Description
 The chapter closes by "highlighting four possible avenues": deepening understanding of mechanisms and linking them to global models of memory; resolving how to balance retrieval success and effort; adopting a contextual perspective that tests whether effects interact with learners, materials, and assessments; and integrating retrieval practice into educational activities beyond classroom quizzing.
@@ -38,8 +38,10 @@ The chapter closes by "highlighting four possible avenues": deepening understand
 - Develop new educational activities that incorporate retrieval
 
 ### Claims
+
 - [Short Answer Versus Multiple Choice Retrieval Practice Evidence Is Mixed](../claims/short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed.md) [~W]
 - [Expanding Retrieval Schedules Are Not Superior To Equal Or Contracting Schedules](../claims/expanding-retrieval-schedules-are-not-superior-to-equal-or-contracting-schedules.md) [~W]
+- [A graded left superior parietal retrieval-success effect emerges by age 12 but is absent in 8-year-olds](../claims/ppc-retrieval-success-effect-emerges-age-12.md) [~W]
 
 ## Related Theories
 - 

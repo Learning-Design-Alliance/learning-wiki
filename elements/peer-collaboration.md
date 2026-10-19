@@ -13,7 +13,7 @@ generated:
 # Peer Collaboration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 46 claims (16 for, 29 mixed, 1 against) · 42 studies (9 causal, 9 associational, 9 qualitative, 6 theoretical, 5 review, 4 quant-synthesis), `q1`–`q4` · 4 of 42 report an effect size · 44 claims rest on one study
+> **Evidence** · 47 claims (16 for, 30 mixed, 1 against) · 43 studies (10 qualitative, 9 causal, 9 associational, 6 theoretical, 5 review, 4 quant-synthesis), `q1`–`q4` · 4 of 43 report an effect size · 45 claims rest on one study
 
 ## Description
 Peer collaboration places two or more learners in joint work on a shared task, requiring them to explain, question, negotiate, and build on each other's thinking. It functions as a social engine for learning: the value comes not from proximity but from the elaboration, conflict, and mutual regulation that genuine joint work provokes.
@@ -96,6 +96,7 @@ Collaboration supports learning when it forces learners to articulate reasoning 
 - [Group performance can be predicted with advanced machine-learning techniques, and collaboration synergy depends on skill diversity, equal workload distribution and high interaction concurrency](../claims/machine-learning-predicts-group-performance-synergy.md) [~W]
 - [MOR comprised the majority of social MR turns in both less and more successful outcome groups in Finnish senior high school science](../claims/mor-majority-finnish-high-school.md) [~W]
 - [Low and high social challenge dyads do not differ in the frequency of metacognitive activities](../claims/no-frequency-difference-metacognitive-activities.md) [~W]
+- [Process mining of two fitness-typical groups suggests the group with more heterogeneous yellow markers and shared red markers worked more efficiently while both achieved the same summary outcome](../claims/process-mining-heterogeneous-yellow-group-more-efficient.md) [~W]
 
 ## The evidence by question
 

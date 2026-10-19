@@ -38,7 +38,7 @@ sources:
 # Pretesting (Prequestions Before Study)
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 24 claims (6 for, 15 mixed, 3 against) · 22 studies (10 causal, 5 quant-synthesis, 4 review, 3 theoretical), `q1`–`q4` · 11 of 22 report an effect size · 18 claims rest on one study
+> **Evidence** · 25 claims (6 for, 16 mixed, 3 against) · 23 studies (10 causal, 5 quant-synthesis, 4 review, 3 theoretical, 1 associational), `q1`–`q4` · 11 of 23 report an effect size · 19 claims rest on one study
 
 ## Conditional relationship
 
@@ -159,6 +159,7 @@ The expectation should weaken if classroom comparisons with comparable learners 
 ## Claims
 
 - [Adults report greater curiosity about answers on incorrect-answer trials than on correct-answer trials](../claims/curiosity-higher-incorrect-than-correct-trials.md) [~M]
+- [Positive information prediction errors enhance memory for low-curiosity answers increasingly with age](../claims/positive-ipe-memory-low-curiosity-answers-increase-with-age.md) [~W]
 
 ## Related Principles
 

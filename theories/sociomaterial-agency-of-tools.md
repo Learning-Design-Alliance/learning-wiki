@@ -17,7 +17,7 @@ sources:
 # Sociomaterial Agency of Tools
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 25 claims (18 for, 7 mixed) · 18 studies (8 qualitative, 4 causal, 3 theoretical, 2 review, 1 design), `q1`–`q3` · 2 of 18 report an effect size · 25 claims rest on one study
+> **Evidence** · 26 claims (19 for, 7 mixed) · 19 studies (9 qualitative, 4 causal, 3 theoretical, 2 review, 1 design), `q1`–`q3` · 2 of 19 report an effect size · 26 claims rest on one study
 
 ## Description
 Drawing on new materialist and posthumanist theory (Barad's concept of intra-action, in which matter and meaning co-constitute each other rather than matter being a passive backdrop to human intention), this perspective treats instructional tools and materials as active participants in learning, not neutral vehicles for a lesson's content. Materials carry forward cultural histories and associations — including gendered ones, such as sewing being coded feminine and circuit-building coded masculine — that shape who feels invited to use them and how they think while using them. The practical implication for design is that choosing "neutral" materials is not actually possible; material choices always carry some cultural coding, and thoughtful design can use that fact deliberately (e.g., pairing historically feminine-coded craft materials with rigorous technical content) rather than pretending it away.
@@ -60,6 +60,7 @@ Drawing on new materialist and posthumanist theory (Barad's concept of intra-act
 - [Students' courses of action differed by instrumentation: photogate and tape-timer groups centred on numbers and dots with motion concepts rare, while probeware groups centred on motion concepts](../claims/lab-discourse-differs-by-instrumentation.md) [+W]
 - [LLM-based tools may interfere with reading comprehension and retention despite learners finding them helpful](../claims/llm-tools-interfere-comprehension-retention.md) [+W]
 - [Learners perceived male PALs more positively and recalled more with them than with female PALs, reflecting gender stereotypes](../claims/male-pal-favored-over-female-pal.md) [~W]
+- [Learners using standard keyboard-based LLM workflows during pen-based study face a Referential Barrier and an Expressive Barrier](../claims/referential-expressive-barriers-standard-llm-workflow.md) [+W]
 
 ## The evidence by question
 - *Does the choice of physical materials for a hands-on task change what learners come to understand and who takes part?* [Material choice shapes conceptual learning and who feels invited to learn](../claims/material-choice-shapes-conceptual-learning-and-participation.md) [+M]

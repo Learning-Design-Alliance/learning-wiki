@@ -31,7 +31,7 @@ sources:
 # Cognitive Activation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (10 for, 13 mixed, 2 against) · 30 studies (13 causal, 4 quant-synthesis, 4 review, 4 associational, 3 theoretical, 2 design), `q1`–`q4` · 5 of 30 report an effect size · 19 claims rest on one study
+> **Evidence** · 27 claims (12 for, 13 mixed, 2 against) · 32 studies (14 causal, 4 quant-synthesis, 4 review, 4 associational, 4 theoretical, 2 design), `q1`–`q4` · 5 of 32 report an effect size · 21 claims rest on one study
 
 ## Conditional relationship
 
@@ -152,6 +152,8 @@ Immediate understanding, near transfer, delayed retention and use in the setting
 - [Student teachers struggled to self-explain expert features from faded double-content examples and to transfer them to their analyses](../claims/struggled-self-explain-faded-examples.md) [-W]
 - [Comparison prompts are strongly concentrated in process diagrams (93%) and rare in photos (20%)](../claims/comparison-frequency-varies-by-image-type.md) [~W]
 - [Assisting self-explanation prompts particularly foster conceptual knowledge, an effect mediated by self-explanations on the rationale of a principle](../claims/assisting-prompts-foster-conceptual-knowledge.md) [+W]
+- [Static self-explanation prompts in the Geometry Cognitive Tutor produced greater gains on Reason and Not Enough Info test items than problem-solving practice alone](../claims/self-explanation-prompts-geometry-tutor-robust-learning.md) [+W]
+- [Prompting self-explanation in a physics electricity unit led to accelerated future learning in a subsequent magnetism unit](../claims/self-explanation-accelerated-future-learning-physics.md) [+W]
 
 ## Related Principles
 - [Active Learning](active-learning.md) — active learning becomes more valuable when the activity is cognitively demanding rather than merely participatory

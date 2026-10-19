@@ -31,7 +31,7 @@ sources:
 # Chunking
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 16 claims (10 for, 6 mixed) · 15 studies (6 causal, 5 review, 2 quant-synthesis, 1 qualitative, 1 design), `q1`–`q3` · 3 of 15 report an effect size · 13 claims rest on one study
+> **Evidence** · 17 claims (11 for, 6 mixed) · 15 studies (6 causal, 5 review, 2 quant-synthesis, 1 qualitative, 1 design), `q1`–`q3` · 3 of 15 report an effect size · 14 claims rest on one study
 
 ## Conditional relationship
 
@@ -116,6 +116,7 @@ Easier study, immediate performance on a unit, recombined whole-task performance
 - [The highest decomposition level (five segments) performed slightly worse than the three-segment approach, suggesting non-monotonic benefits of decomposition](../claims/five-segment-decomposition-slightly-worse-than-three.md) [~W]
 - [Students reported that long recorded lectures impeded focus, and one student appreciated an instructor's choice to break lectures into shorter videos](../claims/long-recorded-lectures-impeded-focus.md) [+W]
 - [High CPC students outperform low CPC students only on the delayed posttest under the chunking method](../claims/cpc-difference-delayed-posttest-only.md) [~W]
+- [The segmentation advantage is maintained across repeated readings and is widespread across participants](../claims/segmentation-effect-maintained-repeated-readings.md) [+W]
 
 ## Related Principles
 

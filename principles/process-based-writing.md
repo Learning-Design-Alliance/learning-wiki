@@ -23,7 +23,7 @@ sources:
 # Process-based Writing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 27 claims (15 for, 12 mixed) · 43 studies (14 causal, 9 quant-synthesis, 6 review, 5 theoretical, 4 associational, 3 qualitative, 2 design), `q1`–`q4` · 10 of 43 report an effect size · 17 claims rest on one study
+> **Evidence** · 28 claims (15 for, 13 mixed) · 44 studies (15 causal, 9 quant-synthesis, 6 review, 5 theoretical, 4 associational, 3 qualitative, 2 design), `q1`–`q4` · 10 of 44 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 
@@ -149,6 +149,7 @@ Better drafts with help, better final versions, better unaided writing on the ne
 - [Synchronous AI suggestions shape subsequent writing, offering new ideas but risking influence over the writer's voice and argument](../claims/synchronous-suggestions-shape-subsequent-writing.md) [~W]
 - [AI-assisted peer feedback enhanced lexical diversity only in the first writing task, with the group advantage disappearing by the second task](../claims/lexical-diversity-advantage-first-task-only.md) [~W]
 - [Teachers adapt feedback focus across draft stages in five types while the best model shows significant changes in only three](../claims/teacher-draft-stage-adaptivity-exceeds-llms.md) [+W]
+- [Revision conditions offering more reader insight produced contrasting benefits for young writers' descriptive revision](../claims/reader-insight-conditions-contrasting-benefits.md) [~W]
 
 ## Related Principles
 - [Journaling](journaling.md) — journaling can provide low-stakes writing practice and reflection that feeds larger writing tasks.

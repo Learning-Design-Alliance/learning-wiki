@@ -12,7 +12,7 @@ generated:
 # Adolescent Peer Group Structure
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Adolescent peer relationships operate through several distinct, overlapping structures, each studied somewhat separately in developmental psychology.
@@ -40,6 +40,8 @@ Adolescent peer relationships operate through several distinct, overlapping stru
 - Not a content-objective framework — it informs classroom and group-formation design (e.g., how to form work groups without amplifying existing status hierarchies, or without triggering peer contagion among high-risk students grouped together)
 
 ## Claims
+
+- [Rejected and disliked children communicate less responsively and less coherently than popular or liked peers](../claims/rejected-children-less-responsive-communication.md) [~W]
 
 ## Related Theories
 

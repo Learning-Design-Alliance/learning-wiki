@@ -18,7 +18,7 @@ sources:
 # Self-Explanation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 15 claims (7 for, 7 mixed, 1 against) · 12 studies (6 causal, 3 associational, 2 quant-synthesis, 1 review), `q2`–`q4` · 2 of 12 report an effect size · 14 claims rest on one study
+> **Evidence** · 17 claims (9 for, 7 mixed, 1 against) · 14 studies (8 causal, 3 associational, 2 quant-synthesis, 1 review), `q2`–`q4` · 2 of 14 report an effect size · 16 claims rest on one study
 
 ## Description
 Self-explanation is the element in which learners explain to themselves why something is true, why a step works, or how a solution fits the problem. It is useful when the goal is to deepen understanding beyond surface completion.
@@ -54,6 +54,8 @@ Self-explanation is the element in which learners explain to themselves why some
 - [Hurst exponents predict daily training self-explanation quality over and above pretest self-explanation ability](../claims/hurst-predicts-daily-self-explanation-above-pretest.md) [~W]
 - [Hurst exponents do not significantly predict retention self-explanation quality over and above pretest scores](../claims/hurst-not-predict-retention-above-pretest.md) [~W]
 - [Deterministic interaction patterns relate to delayed retention self-explanation quality but not posttest performance](../claims/hurst-relates-to-retention-not-posttest.md) [~W]
+- [Adding a self-explanation feature to a base game improved transfer performance](../claims/self-explanation-feature-improved-game-transfer.md) [+W]
+- [Static self-explanation prompts in the Geometry Cognitive Tutor produced greater gains on Reason and Not Enough Info test items than problem-solving practice alone](../claims/self-explanation-prompts-geometry-tutor-robust-learning.md) [+W]
 
 ## The evidence by question
 - *Does prompting learners to explain what they study or solve improve their understanding, and on which outcomes?* [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]

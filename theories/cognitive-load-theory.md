@@ -33,7 +33,7 @@ sources:
 # Cognitive Load Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 75 claims (45 for, 22 mixed, 8 against) · 62 studies (30 causal, 12 review, 10 quant-synthesis, 9 theoretical, 1 design), `q1`–`q4` · 11 of 62 report an effect size · 65 claims rest on one study
+> **Evidence** · 76 claims (45 for, 23 mixed, 8 against) · 62 studies (30 causal, 12 review, 10 quant-synthesis, 9 theoretical, 1 design), `q1`–`q4` · 11 of 62 report an effect size · 66 claims rest on one study
 
 ## Description
 Cognitive Load Theory (CLT) proposes that learning is constrained by the limited capacity of working memory. When the total cognitive demand of a learning task exceeds that capacity, learning breaks down — not because the learner lacks ability, but because the instructional design has exhausted the resources available for processing. The theory distinguishes three sources of load and argues that effective instruction reduces unnecessary load to free capacity for the mental work that actually builds schema.
@@ -143,6 +143,7 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - [Self-reported intrinsic and germane cognitive load correlate positively among college students solving algebra problems](../claims/intrinsic-and-germane-cognitive-load-correlate-positively-in-algebra.md) [~W]
 - [Working memory load degrades discrimination accuracy and slows responses in youth](../claims/load-degrades-discrimination-and-slows-responses.md) [+W]
 - [Learning with multiple representations imposes high demands and often fails to produce expected results because learners do not integrate the representations](../claims/multi-representational-learning-integration-failure.md) [+W]
+- [Children too young to use attentional refreshing are limited by retention interval duration, while older children and adults are limited by cognitive load](../claims/refreshing-phase-change-in-childhood.md) [~W]
 
 ## The evidence by question
 

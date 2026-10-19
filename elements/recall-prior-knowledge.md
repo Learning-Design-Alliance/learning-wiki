@@ -13,7 +13,7 @@ generated:
 # Recall prior knowledge
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 7 studies (2 causal, 2 quant-synthesis, 2 associational, 1 qualitative), `q2`–`q4` · 2 of 7 report an effect size · 3 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 8 studies (3 causal, 2 quant-synthesis, 2 associational, 1 qualitative), `q2`–`q4` · 2 of 8 report an effect size · 4 claims rest on one study
 
 ## Description
 Recall prior knowledge is an instructional element that prompts learners to retrieve and surface what they already know before encountering new material. By activating existing schemas, it gives new information points of attachment, making it easier to encode, organize, and later retrieve. It typically appears early in a learning sequence — as opening questions, brainstorming, concept mapping, or analogy — and functions as the "activation" phase in several canonical instructional models.
@@ -54,6 +54,7 @@ Activating prior knowledge improves comprehension and retention because new info
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Adult learners perceive AI-generated warm-up activities as activating prior knowledge for solution generation](../claims/ai-warmups-activate-prior-knowledge-solution-generation.md) [+W]
 - [Elaborating with relevant prior knowledge yielded significantly higher immediate recall than elaborating without relevant prior knowledge](../claims/elaboration-with-prior-knowledge-beats-elaboration-without.md) [+W]
+- [New facts related to students' prior disciplinary knowledge are better remembered after 24 hours than schema-unrelated facts](../claims/schema-related-facts-better-remembered.md) [+W]
 
 ## Related Elements
 - [Concept Mapping](concept-mapping.md) — a structured format for externalizing and organizing recalled knowledge

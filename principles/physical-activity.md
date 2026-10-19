@@ -26,7 +26,7 @@ sources:
 # Physical Activity
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 24 claims (14 for, 8 mixed, 2 against) · 23 studies (10 causal, 7 review, 3 quant-synthesis, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 3 of 23 report an effect size · 18 claims rest on one study
+> **Evidence** · 26 claims (15 for, 9 mixed, 2 against) · 24 studies (10 causal, 7 review, 3 quant-synthesis, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 4 of 24 report an effect size · 20 claims rest on one study
 
 ## Conditional relationship
 
@@ -155,6 +155,8 @@ Claims this page cited before it was rewritten as a conditional model, and other
 - [No significant differences in attention or working memory were found between intervention and control groups at either follow-up](../claims/no-attention-working-memory-effects-social-media-training.md) [-W]
 - [In a randomized three-arm trial, medication but not physical exercise or neurofeedback was related to improved response inhibition and reduced theta power in children with ADHD](../claims/medication-not-exercise-improved-response-inhibition-janssen.md) [-W]
 - [In the highest-quality reviewed study, classroom MVPA was negatively associated with students being off task or inattentive (β = −0.17; p = 0.042)](../claims/mvpa-negatively-associated-off-task-carlson.md) [+W]
+- [Physical activity is positively correlated with self-regulation in Chilean children aged 8–12](../claims/physical-activity-positively-correlated-self-regulation-children.md) [+W]
+- [School-setting studies show no overall significant difference between active and classroom lessons, but subgroup effects emerge](../claims/school-setting-acute-pa-attention-subgroups.md) [~W]
 
 ## Related Principles
 - [Mindfulness Activities](mindfulness-activities.md) — both can function as readiness and regulation supports before or during learning.

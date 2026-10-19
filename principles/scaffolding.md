@@ -27,7 +27,7 @@ sources:
 # Scaffolding
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 64 claims (19 for, 36 mixed, 9 against) · 46 studies (24 causal, 7 review, 5 quant-synthesis, 4 theoretical, 3 design, 2 associational, 1 qualitative), `q1`–`q4` · 13 of 46 report an effect size · 58 claims rest on one study
+> **Evidence** · 65 claims (19 for, 37 mixed, 9 against) · 46 studies (24 causal, 7 review, 5 quant-synthesis, 4 theoretical, 3 design, 2 associational, 1 qualitative), `q1`–`q4` · 13 of 46 report an effect size · 59 claims rest on one study
 
 ## Conditional relationship
 
@@ -159,6 +159,7 @@ Assisted performance, unassisted immediate performance, delayed retention, trans
 - [Metacognitive scaffolding plus executive attention training yields significant increases in the N2 ERP component associated with conflict processing in preschoolers](../claims/metacognitive-scaffolding-n2-erp-increase-children.md) [~W]
 - [Multiple kinds of scaffolds are more effective than a unique scaffold for academic performance](../claims/multiple-scaffolds-outperform-unique.md) [+W]
 - [In Experiment 1, the CSCL script condition significantly affected domain-specific MAS, with only the maximal script significantly outperforming the minimal script](../claims/maximal-cscl-script-outperformed-minimal-domain-specific-mas.md) [~W]
+- [Problematizing scaffolds elicit constructive, interaction-embedded metacognitive activities, whereas structuring scaffolds elicit application of examples](../claims/problematizing-scaffolds-elicit-constructive-interaction.md) [~W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md)

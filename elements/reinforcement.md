@@ -13,7 +13,7 @@ generated:
 # Reinforcement
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (3 mixed, 1 against) · 6 studies (2 causal, 2 review, 1 quant-synthesis, 1 theoretical), `q1`–`q4` · 1 of 6 report an effect size · 3 claims rest on one study
+> **Evidence** · 10 claims (3 for, 4 mixed, 3 against) · 10 studies (3 causal, 3 review, 2 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 3 of 10 report an effect size · 9 claims rest on one study
 
 ## Description
 Reinforcement is the contingent delivery of a consequence following a target behavior, making that behavior more likely to recur. Rooted in operant conditioning [Behaviorism](../theories/behaviorism.md), it encompasses positive reinforcement (adding a desirable outcome — points, praise, privileges), negative reinforcement (removing an undesirable condition), and the scheduling of these consequences (continuous vs. intermittent). In learning design, reinforcement overlaps with but is distinct from [Feedback](feedback.md): reinforcement strengthens behavior; feedback supplies information about performance quality.
@@ -56,6 +56,12 @@ Reinforcement reliably increases the frequency and persistence of the behaviors 
 - [An effort-based reward did not significantly reduce answer offloading or improve unaided performance](../claims/effort-based-reward-no-effect-offloading-or-unaided-performance.md) [-W]
 - [Extrinsic incentives have mixed results on effort and achievement, working better when immediate and larger](../claims/extrinsic-incentives-mixed-results-effort-achievement.md) [~W]
 - [High reinforcement improves STM and WM performance in both ADHD subtypes but not in controls](../claims/high-reinforcement-improves-stm-wm-adhd.md) [~W]
+- [Most praise functions as a verbal reward, creating dependence on others' approval rather than self-generated criteria](../claims/praise-functions-as-verbal-reward.md) [-W]
+- [Process praise effects persist after controlling for overall parent talk and SES, suggesting they are not proxies for general engagement](../claims/praise-effects-robust-to-parent-talk-and-ses-controls.md) [+W]
+- [Reward improves the speed of inhibitory control (SSRT) in both cancellation and restraint tasks in children and adolescents](../claims/reward-improves-ssrt-cancellation-and-restraint.md) [+W]
+- [The prospect of reward for successful inhibition significantly improves inhibitory control (SMD = 0.429) compared with no-reward conditions](../claims/reward-prospect-improves-inhibitory-control-meta-analysis.md) [+W]
+- [People expecting a reward for a task perform worse than those expecting nothing, especially on tasks requiring cognitive sophistication and open-ended thinking](../claims/rewards-reduce-task-performance.md) [-W]
+- [Go-trial accuracy was lower under reward conditions, an effect mediated by task version and administration order](../claims/reward-lowered-go-trial-accuracy-order-dependent.md) [~W]
 
 ## Related Elements
 - [Feedback](feedback.md) — informational counterpart; reinforcement changes probability, feedback changes understanding, and the two are most powerful combined

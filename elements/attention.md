@@ -13,7 +13,7 @@ generated:
 # Attention
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 18 claims (13 for, 2 mixed, 3 against) · 31 studies (10 review, 9 causal, 7 quant-synthesis, 2 associational, 2 qualitative, 1 design), `q1`–`q4` · 5 of 31 report an effect size · 11 claims rest on one study
+> **Evidence** · 20 claims (14 for, 3 mixed, 3 against) · 32 studies (11 causal, 9 review, 7 quant-synthesis, 2 associational, 2 qualitative, 1 design), `q1`–`q4` · 5 of 32 report an effect size · 13 claims rest on one study
 
 ## Description
 Attention is the gateway to learning: information that is not attended to is not encoded, regardless of its quality or presentation. As an instructional element, "attention" refers to the deliberate design moves — signaling, salience, segmentation, and distraction management — that direct learners' limited attentional resources toward the content and interactions that matter.
@@ -63,6 +63,8 @@ Because working memory is severely limited and attention is selective, instructi
 - [Irrelevant changing-state sounds impair children's serial recall of visually presented items, with developmental evidence pointing to two mechanisms](../claims/irrelevant-sound-effect-children-serial-recall.md) [+M]
 - [Large arrays exceed young children's attentional resources, preventing optimal allocation to relevant items](../claims/large-arrays-exceed-childrens-attentional-resources.md) [+W]
 - [Perceptual attention is probably necessary but not sufficient for encoding stimuli into working memory](../claims/perceptual-attention-necessary-not-sufficient-wm-encoding.md) [+W]
+- [A separation prompt does not improve learning with seductive details, and higher integration avoidance predicts worse transfer, disfavouring the disruption explanation](../claims/separation-prompt-fails-disruption-disfavored.md) [~W]
+- [Predictive cues aid transfer of perceptual representations into working memory via pre-encoding top-down modulation](../claims/predictive-cues-pre-encoding-modulation-wm-benefit.md) [+W]
 
 ## The evidence by question
 - *Do cues that highlight the essential material and its organisation improve learning, and by how much?* [Signaling Improves Learning](../claims/signaling-improves-learning.md) [+S]

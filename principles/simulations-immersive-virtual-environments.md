@@ -79,7 +79,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 87 claims (34 for, 46 mixed, 7 against) · 62 studies (17 causal, 14 review, 12 quant-synthesis, 9 qualitative, 5 theoretical, 4 design, 1 associational), `q1`–`q4` · 15 of 62 report an effect size · 82 claims rest on one study
+> **Evidence** · 89 claims (34 for, 48 mixed, 7 against) · 62 studies (17 causal, 14 review, 12 quant-synthesis, 9 qualitative, 5 theoretical, 4 design, 1 associational), `q1`–`q4` · 15 of 62 report an effect size · 84 claims rest on one study
 
 ## Conditional relationship
 
@@ -278,6 +278,8 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [Virtual labs showed a limitation in helping students transfer what they learned from teacher demonstration to new inquiry contexts](../claims/virtual-lab-transfer-from-demonstration-limited.md) [-W]
 - [The advantage of simulation games shrinks or reverses when the comparison group learns via active instructional methods](../claims/active-comparison-instruction-reverses-simulation-game-advantage.md) [~M]
 - [Students treated the genAI avatar as a sophisticated question base rather than a virtual patient, using predominantly closed-ended, efficiency-focused questioning](../claims/genai-avatar-treated-as-question-base.md) [~W]
+- [Published studies of simulation games report substantially larger effects than unpublished studies, indicating publication bias](../claims/publication-bias-in-simulation-games-research.md) [~M]
+- [VET teachers use the real machine as the benchmark of legitimacy for simulator instruction and shift between teacher and future-colleague positions.](../claims/real-machine-benchmark-and-colleague-positioning.md) [~W]
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md) — simulations provide structured experiences that later reflection can interpret.

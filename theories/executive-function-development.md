@@ -12,7 +12,7 @@ generated:
 # Executive Function Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 142 claims (65 for, 74 mixed, 3 against) · 84 studies (49 associational, 13 causal, 13 review, 7 quant-synthesis, 2 theoretical), `q1`–`q4` · 34 of 84 report an effect size · 134 claims rest on one study
+> **Evidence** · 159 claims (76 for, 79 mixed, 4 against) · 90 studies (52 associational, 15 review, 14 causal, 7 quant-synthesis, 2 theoretical), `q1`–`q4` · 38 of 90 report an effect size · 151 claims rest on one study
 
 ## Description
 Executive functions are the self-regulatory processes that let a person inhibit an impulsive response, flexibly shift between tasks or perspectives, hold and manipulate information in mind, and organize behavior toward a goal rather than react automatically to the immediate situation. They emerge gradually starting in early childhood and continue developing through adolescence, driven both by brain maturation — particularly of the prefrontal cortex, which matures later than most other brain regions — and by experience (Fay-Stammbach, Hawes, & Meredith, 2014).
@@ -183,6 +183,23 @@ Executive function is closely tied to, but distinct from, adolescent risk-taking
 - [Training benefits did not extend to processing speed tasks, indicating specificity to cognitive control processes](../claims/no-transfer-processing-speed-tasks.md) [~W]
 - [Curriculum add-ons PATHS and CSRP improve children's EFs and related outcomes in regular classrooms, with CSRP's academic gains mediated largely via EF improvement](../claims/paths-csrp-addon-ef-improvement.md) [+W]
 - [The proportion of perseverators declines steeply across the preschool period, from 38% at age 3;9 to 8% at age 5;3](../claims/perseverator-proportion-declines-preschool.md) [+W]
+- [Physical activity is positively correlated with self-regulation in Chilean children aged 8–12](../claims/physical-activity-positively-correlated-self-regulation-children.md) [+W]
+- [Specific physical fitness components are differentially associated with specific executive function domains in adolescents](../claims/pf-components-map-onto-ef-domains.md) [~W]
+- [Poverty predicts children's cortisol and executive function, partially mediated by parental sensitive caregiving](../claims/poverty-cortisol-executive-function-mediation.md) [~W]
+- [Pre-adolescent children already exhibit proactive inhibitory control, slowing responses as stop-signal probability increases](../claims/proactive-inhibition-present-pre-adolescence.md) [+W]
+- [Physical activity is positively correlated with children's working memory, and integrated exercise with gestures yields the best preschool foreign-language vocabulary learning](../claims/physical-activity-working-memory-vocabulary.md) [+W]
+- [When PSID-CDS data are restricted to ages 6–11, backward digit span growth is best characterized by a quadratic (not cubic) function](../claims/quadratic-best-fit-restricted-age-range.md) [+W]
+- [Processing speed is linked to working memory in both studies, but its link to short-term memory is inconsistent across studies](../claims/processing-speed-links-wm-consistent-stm-inconsistent.md) [~W]
+- [Children too young to use attentional refreshing are limited by retention interval duration, while older children and adults are limited by cognitive load](../claims/refreshing-phase-change-in-childhood.md) [+W]
+- [Reactive inhibition speed and accuracy improve with age between 8 and 11 years, while proactive response slowing does not increase with age](../claims/reactive-inhibition-improves-age-8-11.md) [+W]
+- [Successful two- and three-year-olds initiate distraction and withholding behaviours very early, within the first 10 seconds of delay on average](../claims/rapid-initiation-delay-behaviours-successful-toddlers.md) [+W]
+- [The prospect of reward for successful inhibition significantly improves inhibitory control (SMD = 0.429) compared with no-reward conditions](../claims/reward-prospect-improves-inhibitory-control-meta-analysis.md) [~W]
+- [Smaller response-time differences between incongruent and congruent trials (better inhibition) correlate with higher mathematics scores](../claims/rt-congruency-difference-correlates-with-math.md) [+W]
+- [Reward improves the speed of inhibitory control (SSRT) in both cancellation and restraint tasks in children and adolescents](../claims/reward-improves-ssrt-cancellation-and-restraint.md) [+W]
+- [Frequent and longer screen-based media use, including Internet-related addictive behaviors, is related to a less efficient cognitive control system in adolescence](../claims/screen-time-less-efficient-cognitive-control-adolescence.md) [-W]
+- [Functional coupling development during inhibition is sex-specific: striatal-motor coupling increases with age in girls, frontostriatal coupling increases with age in boys](../claims/sex-specific-inhibition-coupling-development.md) [~W]
+- [rTMS of right IFJ causally reduces top-down modulation during encoding and working memory accuracy](../claims/rtms-ifj-causal-top-down-modulation-wm.md) [+W]
+- [Children with better selective attention were more flexible (used more different conceptual categories) in the Alternative Uses Task](../claims/selective-attention-predicts-flexibility.md) [+W]
 
 ## Related Theories
 

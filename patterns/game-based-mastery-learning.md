@@ -16,7 +16,7 @@ grain_size: lesson
 # Game-Based Mastery Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 22 claims (12 for, 9 mixed, 1 against) · 28 studies (8 causal, 8 review, 7 quant-synthesis, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 4 of 28 report an effect size · 16 claims rest on one study
+> **Evidence** · 23 claims (12 for, 10 mixed, 1 against) · 29 studies (9 causal, 8 review, 7 quant-synthesis, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 5 of 29 report an effect size · 17 claims rest on one study
 
 ## Description and scope
 
@@ -145,6 +145,10 @@ Record: **level, its target and criterion → placement result → lessons taken
 [Adaptive mastery learning](../elements/adaptive-mastery-learning.md), [adaptive difficulty](../elements/adaptive-difficulty.md), [feedback](../elements/feedback.md), [practice](../elements/practice.md), [reassessment](../elements/reassessment.md), [formative assessment](../elements/formative-assessment.md), [progress tracking](../elements/progress-tracking.md) and [gamification](../elements/gamification.md). Principles the pattern draws on: [Mastery Learning](../principles/mastery-learning.md), [Gamification](../principles/gamification.md), [Game-Based Learning](../principles/game-based-learning.md), [Immediate Feedback](../principles/immediate-feedback.md), [Spaced Learning](../principles/spaced-learning.md) and [Self-monitoring](../principles/self-monitoring.md).
 
 This pattern is scoped to cumulative skills that break into items scored on the spot. Open-ended performances, contested judgement and programme-level certification need other configurations ([competency-based learning](competency-based-learning.md), [epistemic games](epistemic-games.md)). The policy supports observation and design reasoning; whether a gamified mastery course produces better outside-app performance than the same levelled practice without the game layer, for which learners, at what cost in drop-off and at what horizon, remains to be tested.
+
+## Claims
+
+- [Point values and point order altered item selection and recall: Easy First order produced higher recall, and points increased goal pursuit but appeared to hurt recall](../claims/point-values-order-alter-selection-recall.md) [~W]
 
 ## Related Patterns
 - [Programmed Instruction](programmed-instruction.md) — the historic ancestor of this pattern's small-step, immediate-feedback, self-paced core

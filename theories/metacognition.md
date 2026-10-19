@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 353 claims (172 for, 162 mixed, 19 against) · 174 studies (91 causal, 40 associational, 13 review, 11 theoretical, 10 qualitative, 6 quant-synthesis, 3 design), `q1`–`q4` · 64 of 174 report an effect size · 347 claims rest on one study
+> **Evidence** · 364 claims (176 for, 167 mixed, 21 against) · 178 studies (92 causal, 41 associational, 13 review, 12 theoretical, 10 qualitative, 6 quant-synthesis, 4 design), `q1`–`q4` · 64 of 178 report an effect size · 358 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -395,6 +395,17 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Peer interactions supported both children's metacognitive tasks and strategies, with children organizing performance using others' directions and evaluating others' performance](../claims/peer-interactions-support-metacognitive-tasks-strategies.md) [+W]
 - [The Not Sure state of Knowledge Confidence predicts better recall of object names, consistent with the region of proximal learning framework](../claims/not-sure-knowledge-confidence-predicts-recall.md) [+W]
 - [Perceptual metacognitive efficiency declines with age in healthy adults aged 18–84, even when task performance is controlled](../claims/perceptual-metacognitive-efficiency-declines-with-age.md) [~W]
+- [Individuals show a systematic positive reminder bias, setting more reminders than optimal](../claims/positive-reminder-bias.md) [~W]
+- [Postdictions of performance are typically more accurate than predictions](../claims/postdictions-more-accurate-than-predictions.md) [~W]
+- [More frequent practice-test participation predicts higher sensitivity (better detection of correct answers) in final-exam judgments, with and without feedback](../claims/practice-tests-improve-judgment-sensitivity.md) [+W]
+- [Collecting metacognitive judgments did not disrupt typical strategy selection and execution: both age groups selected the better strategy more on rounding-up homogeneous problems and executed rounding-down faster on homogeneous problems](../claims/problem-features-replicated-strategy-selection-execution.md) [~W]
+- [The acquired strategy-selection knowledge did not make PROTO-TEG more efficient in terms of student performance](../claims/proto-teg-self-improvement-no-student-performance-gain.md) [-W]
+- [Reading instructions without further instructional support are not sufficient to help students accurately judge their text comprehension](../claims/reading-instructions-alone-insufficient-for-accurate-judgments.md) [+W]
+- [Students who formulated their own rules for when to use AI performed better on assignments in both conditions](../claims/self-set-ai-rules-better-assignments.md) [+W]
+- [Words participants said they would remember were recalled earlier in output than words predicted to be forgotten or words not given a prediction](../claims/remember-predictions-recall-and-output-order.md) [+M]
+- [Under sequential presentation with Likert ratings for every word, no memory benefit emerged for items judged likely to be forgotten; negative ratings predicted the poorest recall](../claims/sequential-likert-no-forget-reactivity.md) [-W]
+- [High-achieving students describe selective AI use for clarification, summarisation, and workflow support while verifying outputs and keeping them subordinate to their own judgment](../claims/qualitative-selective-verification-intensive-use.md) [~W]
+- [Second-order metacognitive judgments of subjective uncertainty show a small high-confidence error/correct difference, smaller than curiosity ratings show](../claims/second-order-metacognition-smaller-error-difference.md) [~W]
 
 ## The evidence by question
 

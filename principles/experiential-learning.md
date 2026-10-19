@@ -27,7 +27,7 @@ sources:
 # Experiential Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 24 claims (15 for, 9 mixed) · 35 studies (10 causal, 8 quant-synthesis, 6 qualitative, 4 review, 4 theoretical, 2 associational, 1 design), `q1`–`q4` · 7 of 35 report an effect size · 18 claims rest on one study
+> **Evidence** · 25 claims (16 for, 9 mixed) · 35 studies (10 causal, 8 quant-synthesis, 6 qualitative, 4 review, 4 theoretical, 2 associational, 1 design), `q1`–`q4` · 7 of 35 report an effect size · 19 claims rest on one study
 
 ## Conditional relationship
 
@@ -148,6 +148,7 @@ An engaging experience, an immediate skill gain, an explanation, near transfer, 
 - [Microgenetic analysis showed the reflection condition diverged from the control condition in Weakening-Other usage only after reflective activities were introduced](../claims/microgenetic-divergence-weakening-other-after-reflection.md) [~W]
 - [Sufficient clinical feedback predicts TPA passing for preservice candidates but not for internship candidates](../claims/clinical-feedback-predicts-tpa-passing-preservice-only.md) [~W]
 - [High school students in a project-based robotics + AI curriculum developed robotics understanding by troubleshooting hardware and operational factors of physical robots](../claims/hardware-troubleshooting-builds-robotics-understanding.md) [+W]
+- [Playful and creative engagement with robots supported students' learning of robotics and AI, including recognizing that robot behavior is driven by sensor data rather than human-like perception](../claims/playful-exploration-supports-robotics-ai-learning.md) [+W]
 
 ## Related Principles
 - [Debriefing](debriefing.md) — a core mechanism for making experience educative

@@ -17,7 +17,7 @@ sources:
 # Preschool curricula should include executive function (and theory of mind) training to foster language development
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 6 claims (3 for, 2 mixed, 1 against) · 2 studies (1 causal, 1 associational), `q2`–`q3` · 0 of 2 report an effect size · 6 claims rest on one study
+> **Evidence** · 7 claims (3 for, 3 mixed, 1 against) · 3 studies (1 causal, 1 review, 1 associational), `q2`–`q3` · 0 of 3 report an effect size · 7 claims rest on one study
 
 ## Description
 The article recommends that preschool institutions modernize curricula to include activities fostering executive functions and theory of mind, because both relate to semantic fluency, which predicts later school success. It states "it is of utmost importance to offer different curricula in preschool institutions that would take into consideration the importance of EF and TOM", citing curricula such as Tools of the Mind and Reflection Training as examples shown to improve EF.
@@ -44,6 +44,7 @@ The article recommends that preschool institutions modernize curricula to includ
 - [Theory of mind effect on semantic fluency in preschool children is statistically non-significant but approaches significance](../claims/tom-marginal-non-significant-semantic-fluency.md) [-W]
 - [DCCS training in preschoolers transfers to false-belief understanding](../claims/dccs-training-transfers-false-belief.md) [+W]
 - [Lower-baseline participants often benefit more from executive-function training (compensation effects), and individual differences moderate training gains](../claims/compensation-effects-ef-training.md) [~W]
+- [EF training demands must keep increasing as children improve, or few gains will be seen](../claims/progressive-challenge-ef-training.md) [~W]
 
 ## The evidence by question
 - *Do young children's executive functions (and theory of mind) predict their language and early academic skills?* [Executive function performance significantly predicts semantic fluency in preschool children](../claims/ef-significant-effect-semantic-fluency-preschool.md) [+M]

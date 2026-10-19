@@ -46,7 +46,7 @@ sources:
 # Collaborative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 70 claims (27 for, 39 mixed, 4 against) · 74 studies (16 causal, 13 review, 13 theoretical, 10 associational, 9 quant-synthesis, 9 qualitative, 4 design), `q1`–`q4` · 10 of 74 report an effect size · 64 claims rest on one study
+> **Evidence** · 72 claims (28 for, 39 mixed, 5 against) · 75 studies (17 causal, 13 review, 13 theoretical, 10 associational, 9 quant-synthesis, 9 qualitative, 4 design), `q1`–`q4` · 11 of 75 report an effect size · 66 claims rest on one study
 
 ## Conditional relationship
 
@@ -185,6 +185,8 @@ Group performance during the task, individual understanding straight after it, d
 - [Dyads collaborating via flexible written paper media exhibit invariant communicative practices across media, participants and topics](../claims/invariant-communicative-practices-artifact-mediated-collaboration.md) [~W]
 - [All four groups showed a tendency toward knowledge sharing, presenting information without interpretation or evaluation](../claims/information-sharing-without-interpretation-prevalent.md) [~W]
 - [Measuring outcomes at the individual versus group level did not significantly moderate CSCL script effects](../claims/measurement-level-moderator-not-significant.md) [~W]
+- [In the pre-study, dyads using the DDR script were far more likely to integrate their partner's evidence into their answers on the main topic question](../claims/prestudy-ddr-perspective-integration.md) [+W]
+- [In the main study, learning gains from pre-test to post-test were not directly influenced by the collaboration script, though all students improved significantly over time](../claims/script-no-direct-effect-learning-gains.md) [-W]
 
 ## Related Principles
 - Conditions for Productive Group Creativity — specializes collaborative learning's general quality-control problem for open-ended creative tasks specifically

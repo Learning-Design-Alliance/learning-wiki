@@ -17,7 +17,7 @@ sources:
 # Analyze terminal behavior and objectives before manipulating teaching methods in instructional design
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 10 claims (7 for, 3 mixed) · 10 studies (5 associational, 2 causal, 2 theoretical, 1 design), `q1`–`q3` · 1 of 10 report an effect size · 10 claims rest on one study
+> **Evidence** · 12 claims (9 for, 3 mixed) · 12 studies (6 associational, 3 causal, 2 theoretical, 1 design), `q1`–`q3` · 1 of 12 report an effect size · 12 claims rest on one study
 
 ## Description
 Glaser's design orientation sets a task sequence: specify the terminal performance standard, determine student entry characteristics and prerequisites, construct procedures and materials to move the learner from one state to the other with provisions for motivation, and assess achieved competence against criteria. He argues analysis of behavior has been neglected yet has been the most influential element in recent instructional improvements, more so than manipulations of teaching method.
@@ -49,6 +49,8 @@ Glaser's design orientation sets a task sequence: specify the terminal performan
 - [Teacher-student interaction quality may reflect pre-existing student characteristics rather than teacher skill unless prior achievement is accounted for](../claims/interaction-quality-confounded-by-prior-achievement.md) [~W]
 - [Providing a learner profile shifts an LLM's selected instructional strategies from content-focused to learner-centered](../claims/learner-profile-shifts-llm-instructional-strategy-selection.md) [+W]
 - [Non-STEM majors in conceptual physics and astronomy courses score significantly lower pre-instruction on the LCTSR than STEM majors](../claims/non-stem-lower-lctsr-pre-scores-than-stem.md) [+W]
+- [Before the intervention, most students could not write assumptions and conclusions, and only one student achieved the maximum pre-test score](../claims/pretest-assumption-conclusion-difficulties.md) [+W]
+- [Prior mathematical accuracy is the dominant propensity factor: over half of January accuracy variance and under one-fifth of fluency variance predicted June performance](../claims/prior-math-accuracy-dominant-propensity-factor.md) [+W]
 
 ## Related Principles
 - 

@@ -24,7 +24,7 @@ sources:
 # Multimedia Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 65 claims (32 for, 31 mixed, 2 against) · 52 studies (28 causal, 10 quant-synthesis, 8 review, 2 associational, 2 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 16 of 52 report an effect size · 56 claims rest on one study
+> **Evidence** · 67 claims (32 for, 33 mixed, 2 against) · 54 studies (30 causal, 10 quant-synthesis, 8 review, 2 associational, 2 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 16 of 54 report an effect size · 58 claims rest on one study
 
 ## Description and scope
 
@@ -151,6 +151,8 @@ This pattern is scoped to explanations of structures, processes and relations pr
 - [Matching modality by conveying complementary information through auditory and visual channels increases retention, transfer, and engagement](../claims/modality-matching-complementary-channels-video.md) [+W]
 - [Multimedia-only stories benefit story comprehension, whereas stories that also include interactive features do not](../claims/multimedia-only-benefits-interactive-features-detrimental.md) [~W]
 - [Learning with multiple representations imposes high demands and often fails to produce expected results because learners do not integrate the representations](../claims/multi-representational-learning-integration-failure.md) [~W]
+- [Readers judge a diagram's argumentative position above chance in all conditions except when both text and color are absent, and deleting graphics is more detrimental than deleting text](../claims/reading-position-judgments-cue-conditions.md) [~W]
+- [The segmentation advantage is maintained across repeated readings and is widespread across participants](../claims/segmentation-effect-maintained-repeated-readings.md) [~W]
 
 ## Examples
 

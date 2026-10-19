@@ -17,7 +17,7 @@ sources:
 # Deep Learning Knowledge Tracing Models
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 7 claims (2 for, 4 mixed, 1 against) · 5 studies (3 design, 1 causal, 1 review), `q1`–`q2` · 0 of 5 report an effect size · 7 claims rest on one study
+> **Evidence** · 8 claims (3 for, 4 mixed, 1 against) · 6 studies (3 design, 1 causal, 1 review, 1 associational), `q1`–`q2` · 0 of 6 report an effect size · 8 claims rest on one study
 
 ## Description
 The survey reviews deep learning KT in four sub-categories: deep knowledge tracing with recurrent networks, memory-aware tracing such as DKVMN with key and value matrices, attentive tracing such as SAKT, SAINT and AKT built on self-attention, and graph-based tracing over knowledge-concept graphs. It argues deep learning is suited to "modeling complex learning processes, particularly when a significant amount of learning interaction data" is available.
@@ -47,6 +47,7 @@ The survey reviews deep learning KT in four sub-categories: deep knowledge traci
 - [Under causally valid, tuned settings, code-level embeddings do not consistently improve performance: rectified Code-DKT underperforms tuned DKT on several assignments, while ECKT remains competitive](../claims/code-embeddings-inconsistent-under-rectified-settings.md) [~M]
 - [Injecting the collaborative prior redistributes AKT's attention from local recency bias toward long-range dependencies](../claims/mbp-kt-attention-recency-to-long-range.md) [~W]
 - [Supplementary nonlinear models yield only modest AUC gains over the calibrated logistic baseline](../claims/nonlinear-models-modest-auc-gains-over-logistic-baseline.md) [-W]
+- [Sequential deep learning models outperform static models for concepts mapped to multiple post-test questions](../claims/sequential-models-outperform-static-multi-question-concepts.md) [+W]
 
 ## The evidence by question
 

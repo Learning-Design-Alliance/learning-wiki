@@ -22,7 +22,7 @@ sources:
 # Self-Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 44 claims (11 for, 22 mixed, 11 against) · 34 studies (18 causal, 8 associational, 3 quant-synthesis, 2 review, 2 theoretical, 1 qualitative), `q2`–`q4` · 13 of 34 report an effect size · 41 claims rest on one study
+> **Evidence** · 48 claims (12 for, 23 mixed, 13 against) · 38 studies (20 causal, 8 associational, 3 quant-synthesis, 3 review, 3 theoretical, 1 qualitative), `q2`–`q4` · 14 of 38 report an effect size · 45 claims rest on one study
 
 ## Description
 Self-assessment is the element in which learners judge their own work, understanding, or progress against explicit criteria. It is useful when the goal is not only better immediate performance, but stronger self-monitoring and more accurate judgments about what to improve next.
@@ -94,6 +94,10 @@ Self-assessment is the element in which learners judge their own work, understan
 - [Negative example standards do not reliably improve judgment accuracy and significantly decrease relative accuracy in evaluating self-generated examples](../claims/negative-example-standards-inconsistent-effects.md) [-W]
 - [Self-assessed creative performance and self-assessed idea creativity are moderately correlated but empirically distinct judgments](../claims/performance-and-idea-self-assessments-moderately-related.md) [~W]
 - [The reduction in perceived difficulty does not mediate the benefits of rubrics on self-assessment accuracy](../claims/perceived-difficulty-does-not-mediate-rubric-accuracy-benefits.md) [~W]
+- [Postdictions of performance are typically more accurate than predictions](../claims/postdictions-more-accurate-than-predictions.md) [+W]
+- [Self-assessment accuracy in PBL depends on achievement level: low achievers graded generously, high achievers accurately](../claims/self-assessment-accuracy-achievement-level-pbl.md) [~W]
+- [Young and older adults make accurate retrospective confidence judgments but not prospective ease-of-selection judgments about their arithmetic strategy selections](../claims/retrospective-not-prospective-accuracy-strategy-selection.md) [-W]
+- [Under sequential presentation with Likert ratings for every word, no memory benefit emerged for items judged likely to be forgotten; negative ratings predicted the poorest recall](../claims/sequential-likert-no-forget-reactivity.md) [-W]
 
 ## The evidence by question
 

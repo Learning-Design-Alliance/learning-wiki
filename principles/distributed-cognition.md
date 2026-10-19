@@ -13,7 +13,7 @@ generated:
 # Distributed Cognition
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 45 claims (24 for, 21 mixed) · 41 studies (12 theoretical, 9 review, 8 causal, 6 qualitative, 3 design, 2 associational, 1 quant-synthesis), `q1`–`q4` · 5 of 41 report an effect size · 40 claims rest on one study
+> **Evidence** · 47 claims (25 for, 22 mixed) · 42 studies (12 theoretical, 9 causal, 9 review, 6 qualitative, 3 design, 2 associational, 1 quant-synthesis), `q1`–`q4` · 6 of 42 report an effect size · 42 claims rest on one study
 
 ## Conditional relationship
 
@@ -161,6 +161,8 @@ Claims the earlier page cited, each now placed above (in the model, the evidence
 - [Externalizing knowledge into a wiki can itself produce individual learning through deeper processing](../claims/externalization-produces-individual-learning.md) [~W]
 - [Joint attention is a group phenomenon not reducible to either individual's mental representations](../claims/joint-attention-group-phenomenon.md) [+W]
 - [The number of items groups placed in their representations was negatively correlated with the average quality of those items.](../claims/item-quantity-quality-tradeoff-representations.md) [~W]
+- [Task accuracy is far higher with reminders than internal memory and is unaffected by reminder framing](../claims/reminder-accuracy-unaffected-by-framing.md) [+W]
+- [Participants still offload more than optimal under loss framing](../claims/reminder-bias-persists-under-loss-framing.md) [~W]
 
 ## Related Principles
 - [Social Learning](../theories/sociocultural-theory.md) — distributed cognition often depends on learning through interaction with others

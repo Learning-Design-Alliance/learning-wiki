@@ -27,7 +27,7 @@ sources:
 # Memory Consolidation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 20 claims (11 for, 7 mixed, 2 against) · 33 studies (19 causal, 7 quant-synthesis, 5 review, 1 associational, 1 theoretical), `q1`–`q4` · 9 of 33 report an effect size · 13 claims rest on one study
+> **Evidence** · 21 claims (12 for, 7 mixed, 2 against) · 34 studies (20 causal, 7 quant-synthesis, 5 review, 1 associational, 1 theoretical), `q1`–`q4` · 9 of 34 report an effect size · 14 claims rest on one study
 
 ## Conditional relationship
 
@@ -157,6 +157,7 @@ End-of-session performance, delayed recall, use in later tasks and use in the se
 - [Mastery learning gains persist at follow-up examinations about eight weeks after instruction](../claims/mastery-learning-gains-persist-at-follow-up.md) [+M]
 - [Participating in a relevant group discussion, whether explaining or listening, raises immediate recall relative to an irrelevant discussion, but this advantage does not persist one month later](../claims/relevant-discussion-immediate-recall-advantage-fades.md) [~W]
 - [Performance on practiced reasoning items and on transfer items continued to improve after 3-week and 9-month delays](../claims/ct-performance-improves-further-after-delay.md) [+W]
+- [Quiz accuracy declines from immediate to 1-week delayed testing regardless of text medium](../claims/quiz-accuracy-declines-after-one-week-delay.md) [+W]
 
 ## Related Principles
 - [Spaced Learning](spaced-learning.md) — consolidation often depends on how review is distributed over time

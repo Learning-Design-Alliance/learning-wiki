@@ -39,7 +39,7 @@ sources:
 # Epistemic Cognition
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (11 for, 12 mixed, 2 against) · 37 studies (16 causal, 5 review, 5 theoretical, 4 quant-synthesis, 4 qualitative, 2 associational, 1 design), `q1`–`q4` · 4 of 37 report an effect size · 17 claims rest on one study
+> **Evidence** · 26 claims (11 for, 13 mixed, 2 against) · 38 studies (16 causal, 5 review, 5 theoretical, 4 quant-synthesis, 4 qualitative, 3 associational, 1 design), `q1`–`q4` · 4 of 38 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 
@@ -160,6 +160,7 @@ A shift in the reasons learners write, a better verdict on new material, durabil
 - [Idea unit standards do not enhance judgment accuracy in evaluating self-generated examples](../claims/idea-unit-standards-ineffective-example-generation.md) [-W]
 - [AI intuition emphasizes epistemic judgment rather than output optimization, distinguishing it from prompt engineering](../claims/ai-intuition-epistemic-judgment-not-prompt-engineering.md) [~W]
 - [Epistemic beliefs about the development of scientific knowledge directly predict domain knowledge in science across grades 5, 8, and 11](../claims/development-epistemic-beliefs-predict-science-knowledge.md) [~W]
+- [Scientific reasoning levels are linked directly to sophistication of epistemological beliefs among Malaysian Muslim students](../claims/scientific-reasoning-linked-epistemological-sophistication.md) [~W]
 
 ## Related Principles
 - [Evaluating Sources](evaluating-sources.md) — directly operationalizes epistemic judgment around credibility and evidence

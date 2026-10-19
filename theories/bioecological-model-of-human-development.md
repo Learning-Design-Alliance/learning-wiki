@@ -12,7 +12,7 @@ generated:
 # Bioecological Model of Human Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 21 claims (12 for, 8 mixed, 1 against) · 18 studies (11 associational, 4 review, 3 quant-synthesis), `q2`–`q3` · 2 of 18 report an effect size · 19 claims rest on one study
+> **Evidence** · 23 claims (12 for, 10 mixed, 1 against) · 20 studies (12 associational, 5 review, 3 quant-synthesis), `q2`–`q3` · 3 of 20 report an effect size · 21 claims rest on one study
 
 ## Description
 Urie Bronfenbrenner's bioecological model holds that human development results from **proximal processes** — "stimulating, regular face-to-face interactions over extended periods with people, objects, or symbols" (Bronfenbrenner, 1994) — that realize a person's biological, psychological, and social potential. A parent shaping a child through parenting behaviors, modeling, and encouragement is a proximal process. Development is **transactional and bidirectional**: children affect their immediate contexts as much as contexts affect children — insecurely attached children are more emotionally demanding, and language-delayed children elicit less verbal exchange from adults.
@@ -62,6 +62,8 @@ The model also emphasizes **experience**: "the scientifically relevant features 
 - [Neighborhood context is a transient ecological setting, with many families moving between neighborhood disadvantage quintiles during childhood](../claims/neighborhood-context-transient-frequent-mobility.md) [~W]
 - [Parental presence and support buffer children's neurobiological stress responses, mitigating adversity effects when support is high](../claims/parental-presence-support-buffers-stress.md) [+W]
 - [Fathers' initial growth mindset predicted girls' later growth mindset but not boys', a gender-moderated path](../claims/paternal-mindset-predicts-girls-not-boys.md) [~W]
+- [Poverty predicts children's cortisol and executive function, partially mediated by parental sensitive caregiving](../claims/poverty-cortisol-executive-function-mediation.md) [~W]
+- [Parents' naturalistic process praise at child ages 14-38 months predicts children's incremental motivational frameworks at age 7-8](../claims/process-praise-toddlerhood-predicts-incremental-frameworks.md) [~W]
 
 ## The evidence by question
 - *Is closer parent involvement in a child's schooling associated with better student outcomes, and does the form of involvement matter?* [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](../claims/parent-involvement-improves-achievement.md) [+M]

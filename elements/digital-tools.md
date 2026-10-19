@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 31 claims (17 for, 14 mixed) · 30 studies (8 associational, 7 review, 5 theoretical, 4 design, 3 causal, 2 quant-synthesis, 1 qualitative), `q1`–`q4` · 3 of 30 report an effect size · 30 claims rest on one study
+> **Evidence** · 33 claims (17 for, 16 mixed) · 32 studies (8 associational, 7 review, 6 theoretical, 4 design, 3 causal, 2 quant-synthesis, 2 qualitative), `q1`–`q4` · 3 of 32 report an effect size · 32 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -66,6 +66,8 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [Non-users cite lack of training, distrust of responses, preference for teaching staff, academic-integrity fear and lack of interest as reasons for not using chatbots](../claims/non-user-reasons-training-trust-integrity.md) [~W]
 - [Distributing hardware without capable software produced no measurable effect on mathematics or language scores in a large randomized evaluation, as the article reports citing Cristia et al.](../claims/olpc-randomized-hardware-null-no-score-effect.md) [~M]
 - [In second-language teaching for pupils with special educational needs, Pepper was associated with higher participation than digital tablets](../claims/pepper-vs-tablets-higher-participation-sen-language.md) [~W]
+- [Integrating scientific visualization into secondary education faces three named problems: basic scientific practices, classroom-format incompatibility, and infrastructure needs](../claims/scivis-secondary-integration-problems.md) [~W]
+- [Switching to an updated synchronous platform catalysed the teacher's ongoing teaching innovation](../claims/platform-switch-catalyses-teaching-innovation.md) [~W]
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]

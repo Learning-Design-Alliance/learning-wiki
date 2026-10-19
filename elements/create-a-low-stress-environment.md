@@ -13,7 +13,7 @@ generated:
 # Create a Low-Stress Environment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (6 for, 1 mixed) · 8 studies (5 review, 1 causal, 1 quant-synthesis, 1 associational), `q1`–`q3` · 2 of 8 report an effect size · 6 claims rest on one study
+> **Evidence** · 8 claims (6 for, 2 mixed) · 9 studies (6 review, 1 causal, 1 quant-synthesis, 1 associational), `q1`–`q3` · 2 of 9 report an effect size · 7 claims rest on one study
 
 ## Description
 Create a low-stress environment is the element of designing routines, norms, and spaces that reduce unnecessary anxiety during learning.
@@ -29,6 +29,7 @@ Create a low-stress environment is the element of designing routines, norms, and
 - [AI reduces foreign language anxiety and strengthens self-efficacy and self-confidence, supporting the Affective Foundation Pathway](../claims/ai-reduces-fl-anxiety-private-practice.md) [+M]
 - [Strong early-warning monitoring systems paired with strong norms and routines help students recover emotionally and engage academically](../claims/early-warning-systems-norms-routines-support-recovery.md) [~W]
 - [Studying flashcards in pairs raised negative affect in Experiment 1, an effect eliminated by an icebreaker and relaxed feedback rules in Experiment 2](../claims/paired-flashcards-negative-affect-icebreaker.md) [+W]
+- [Lower-than-average math ability, low working memory capacity, susceptibility to public embarrassment, and a nonsupportive teacher are proposed risk factors for developing math anxiety](../claims/risk-factors-for-developing-math-anxiety.md) [~W]
 
 ## The evidence by question
 

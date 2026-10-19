@@ -64,7 +64,7 @@ sources:
 # Coherence Principle
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 31 claims (12 for, 18 mixed, 1 against) · 33 studies (16 causal, 5 quant-synthesis, 5 review, 3 theoretical, 2 associational, 1 qualitative, 1 design), `q1`–`q4` · 9 of 33 report an effect size · 24 claims rest on one study
+> **Evidence** · 32 claims (12 for, 18 mixed, 2 against) · 33 studies (16 causal, 5 quant-synthesis, 5 review, 3 theoretical, 2 associational, 1 qualitative, 1 design), `q1`–`q4` · 9 of 33 report an effect size · 25 claims rest on one study
 
 ## Conditional relationship
 
@@ -180,6 +180,7 @@ The expectation should weaken if independent comparisons with comparable learner
 - [Extraneous cognitive load did not mediate the detrimental effect of seductive details in this online study](../claims/ecl-mediation-not-replicated-online.md) [+W]
 - [Low-WMC readers recall fewer correct causes when text contains seductive illustrations compared with nonillustrated text](../claims/low-wmc-seductive-essay-detriment.md) [+W]
 - [No seductive details effect on transfer was observed, and no definitive conclusions about comprehension effects can be drawn from the multiple-choice transfer data](../claims/no-transfer-effect-seductive-details.md) [-W]
+- [Seductive detail amount did not significantly affect transfer performance in Study 1](../claims/sd-amount-no-transfer-effect-study1.md) [-W]
 
 ## Related Principles
 - [Modality Principle](modality.md)

@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 78 claims (42 for, 34 mixed, 1 against, 1 unmarked) · 37 studies (13 causal, 9 quant-synthesis, 8 review, 3 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 12 of 37 report an effect size · 71 claims rest on one study
+> **Evidence** · 80 claims (44 for, 34 mixed, 1 against, 1 unmarked) · 37 studies (13 causal, 9 quant-synthesis, 8 review, 3 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 12 of 37 report an effect size · 73 claims rest on one study
 
 ## Conditional relationship
 
@@ -211,6 +211,8 @@ A within-session quiz score, delayed recall, transfer to new questions and value
 - [Incorrect information learned from a multiple-choice test is applied and reasoned with on conceptually related transfer questions](../claims/lures-transfer-erroneous-reasoning.md) [~W]
 - [Taking a multiple-choice test boosts performance on later tests compared with nontested control conditions, including with complex SAT II materials](../claims/mc-testing-boosts-later-performance.md) [+W]
 - [Multiple-choice testing improves later cued recall of prose facts, a benefit that persists though reduced after a one-week delay](../claims/mc-testing-prose-cued-recall-benefit.md) [+W]
+- [The retrieval benefit occurs at the level of individual items, not through general practice at retrieval](../claims/retrieval-benefit-item-level.md) [+W]
+- [The testing effect is largest at a retention interval of 1–6 days (g = 0.82) and robust across all intervals](../claims/retention-interval-one-to-six-days-largest.md) [+W]
 
 ## Related Principles
 - [Pretesting (Prequestions Before Study)](pretesting.md)

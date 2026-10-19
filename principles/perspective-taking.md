@@ -17,7 +17,7 @@ sources:
 # Perspective-Taking
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (3 mixed) · 7 studies (2 causal, 2 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 7 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (1 for, 3 mixed) · 8 studies (2 causal, 2 quant-synthesis, 2 theoretical, 1 associational, 1 qualitative), `q2`–`q4` · 1 of 8 report an effect size · 2 claims rest on one study
 
 ## Description
 Perspective-taking is the principle of intentionally examining a situation, text, problem, or decision from viewpoints other than one's own. It supports empathy, argument quality, and more flexible reasoning by forcing learners to compare assumptions, evidence, and consequences across positions.
@@ -51,6 +51,7 @@ Perspective-taking helps learners move beyond their default frame by requiring t
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — perspective-taking improves analysis when learners explain another viewpoint rather than merely naming it
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — novices often need structured roles or prompts before perspective-taking becomes analytically useful
 - [HPT is not a simple shedding of presentist perspectives: multiple selves of one learner intertwine with the target's perspective](../claims/hpt-multiple-selves-intertwined.md) [~W]
+- [Perspective taking increases the creativity of dyadic interactions](../claims/perspective-taking-increases-dyad-creativity.md) [+W]
 
 ## Related Principles
 - [Perspective-Seeking/Multiple Perspectives](cognitive-flexibility.md)

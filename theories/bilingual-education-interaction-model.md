@@ -17,7 +17,7 @@ sources:
 # Model of bilingual education: outcomes as interaction of background, child input, and educational treatment factors
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 review, 1 theoretical), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (1 for, 2 mixed) · 3 studies (2 review, 1 theoretical), `q2` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 The paper integrates its two hypotheses into an overall model of bilingual education in which "educational outcomes are explained as a function of the interaction between background, child input, and educational treatment factors." Two child input factors are examined as intervening variables that interact with school program factors and mediate sociocultural background effects: conceptual-linguistic knowledge and motivation to learn L2 and maintain L1. The model assigns a central role to the interaction between sociocultural, linguistic, and school program factors, and is offered as the framework the paper finds missing from existing bilingual education research.
@@ -41,6 +41,7 @@ The paper integrates its two hypotheses into an overall model of bilingual educa
 
 - [Bilingual Evaluations Ignore Interactions](../claims/bilingual-evaluations-ignore-interactions.md) [+M]
 - [Household and community factors—parenting knowledge, stress, depression, and resource scarcity—may mediate or constrain SES-related differences in input and learning](../claims/household-community-factors-constrain-input.md) [~W]
+- [Socioeconomic status differences between bilingual and monolingual groups may determine study outcomes](../claims/ses-moderates-bilingual-executive-function-results.md) [~W]
 
 ## Related Theories
 - 

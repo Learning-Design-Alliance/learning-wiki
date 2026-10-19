@@ -14,7 +14,7 @@ grain_size: course
 # Spaced Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 36 claims (16 for, 18 mixed, 1 against, 1 unmarked) · 26 studies (13 causal, 7 quant-synthesis, 3 review, 2 design, 1 theoretical), `q1`–`q4` · 9 of 26 report an effect size · 31 claims rest on one study
+> **Evidence** · 38 claims (16 for, 20 mixed, 1 against, 1 unmarked) · 26 studies (13 causal, 7 quant-synthesis, 3 review, 2 design, 1 theoretical), `q1`–`q4` · 9 of 26 report an effect size · 33 claims rest on one study
 
 ## Description
 
@@ -124,6 +124,8 @@ The examples are local design instances, not additional observations from those 
 - [Grade level and repetition spacing interact significantly in children's free recall](../claims/grade-by-spacing-interaction-free-recall.md) [~W]
 - [Recall of between-lists repeated words matched two-independent-representations predictions at short retention intervals but exceeded independence after long retention intervals](../claims/independence-to-nonindependence-between-lists-recall.md) [~W]
 - [When the orienting task prevented interitem associations, the within-list lag effect was attenuated after long retention intervals and this attenuation was not a floor effect](../claims/lag-effect-eliminated-long-retention-no-associations.md) [~W]
+- [Recall of words repeated across lists spaced up to 1 week follows a proportionality rule: recall is better after short spacing at short retention intervals but better after long spacing at long retention intervals](../claims/proportionality-rule-long-spacing-weeks.md) [~M]
+- [With constant judgment standards, the same-different orienting task at repetitions did not affect the within-list lag effect, arguing against inattention and encoding-variability explanations](../claims/same-different-task-no-lag-interaction.md) [~W]
 
 ## Key Sources
 

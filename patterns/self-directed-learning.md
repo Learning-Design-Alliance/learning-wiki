@@ -15,7 +15,7 @@ grain_size: course
 # Self-Directed Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 17 claims (9 for, 7 mixed, 1 against) · 26 studies (9 quant-synthesis, 7 causal, 5 review, 4 theoretical, 1 associational), `q1`–`q4` · 8 of 26 report an effect size · 8 claims rest on one study
+> **Evidence** · 18 claims (9 for, 7 mixed, 2 against) · 27 studies (9 quant-synthesis, 7 causal, 5 review, 4 theoretical, 2 associational), `q1`–`q4` · 8 of 27 report an effect size · 9 claims rest on one study
 
 ## Description and scope
 
@@ -136,6 +136,10 @@ Record: **what was handed over and what stayed fixed → probe score, prediction
 [Learning contracts](../elements/learning-contracts.md), [goal setting](../elements/goal-setting.md), [learning goals](../elements/learning-goals.md), [learner choice](../elements/learner-choice.md), [choice boards](../elements/choice-boards.md), [progress tracking](../elements/progress-tracking.md), [check-ins](../elements/check-in.md), [self-monitoring](../elements/self-monitoring.md), [self-assessment](../elements/self-assessment.md), [reflection](../elements/reflection.md), [portfolio](../elements/portfolio.md), [fading scaffolding](../elements/fading-scaffolding.md) and [mastery progression](../elements/mastery-progression.md). Principles it draws on: [Self-Directed Learning](../principles/self-directed-learning.md), [Self-Regulated Learning](../principles/self-regulated-learning.md), [Autonomy](../principles/autonomy.md) and [Goal Setting and Monitoring](../principles/goal-setting-monitoring.md).
 
 This pattern is scoped to a course or unit in which control is handed to learners in stages within a structured environment. Fully open networked learning, informal learning outside any course, adaptive systems that make the choices for the learner, and within-task prompting are other configurations. Whether a staged hand-over of goals, resources and pace produces better course outcomes or completion than the same course teacher-directed, for which learners and at what horizon, remains to be tested; the release criteria above are proposals to observe, not thresholds.
+
+## Claims
+
+- [Student choice about learning content and path was limited: most teachers did not report high levels of student choice, and two-thirds to three-quarters of students reported rarely or never choosing](../claims/pl-student-choice-limited-teacher-driven.md) [-W]
 
 ## Related Patterns
 - [Self-Regulated Learning](self-regulated-learning.md) — the within-task plan–monitor–act prompting this pattern uses in its teaching step

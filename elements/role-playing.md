@@ -13,7 +13,7 @@ generated:
 # Role-Playing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 5 studies (2 review, 1 causal, 1 qualitative, 1 theoretical), `q1`–`q2` · 1 of 5 report an effect size · 5 claims rest on one study
+> **Evidence** · 7 claims (4 for, 3 mixed) · 7 studies (2 review, 2 qualitative, 1 causal, 1 associational, 1 theoretical), `q1`–`q2` · 2 of 7 report an effect size · 7 claims rest on one study
 
 ## Description
 Role-playing is the element in which learners adopt roles and act through a scenario, interaction, or decision process from that perspective. It is useful when learning depends on situational judgment, empathy, communication, or applied decision-making.
@@ -41,6 +41,8 @@ Role-playing is the element in which learners adopt roles and act through a scen
 - [Tangible puppetry role-play shifted microteaching discourse from formal planned utterances toward informal student voices, and the shift persisted into a subsequent self-performed role-play](../claims/puppetry-shifts-role-play-toward-informal-student-voices.md) [+W] — attached 2026-10-18 from Mochizuki et al. (2022), which proposed "Tangible puppetry tabletop role-play system with LED mood indicators and recorded bird's-eye animation".
 - [Children aged 6–8 combining augmented reality with socio-dramatic play make significant progress toward explicit physics discourse](../claims/augmented-reality-play-physics-trajectory-young-children.md) [+W]
 - [Role-playing in a ship simulator constitutes an activity context whose ephemeral resources can collapse](../claims/role-play-activity-context-simulator.md) [~W]
+- [Role framing shifts toward non-use in team contexts, with non-use more than doubling](../claims/role-framing-shifts-toward-non-use-in-teams.md) [~W]
+- [Shifts among self perspectives are locatable moments of learning in which the self develops and expands](../claims/self-perspective-shifts-as-learning.md) [~W]
 
 ## Related Elements
 - [Decision-Making](decision-making.md)

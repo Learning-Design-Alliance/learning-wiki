@@ -17,7 +17,7 @@ sources:
 # Retrieval Practice Experiment Architecture and Factors
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 8 claims (3 for, 5 mixed) · 11 studies (6 causal, 3 quant-synthesis, 2 review), `q3`–`q4` · 6 of 11 report an effect size · 7 claims rest on one study
+> **Evidence** · 10 claims (4 for, 6 mixed) · 13 studies (8 causal, 3 quant-synthesis, 2 review), `q3`–`q4` · 7 of 13 report an effect size · 9 claims rest on one study
 
 ## Description
 The chapter's organizing framework: learners study materials, a retrieval practice condition completes initial retrieval activities while a control does not, and all take a final criterial assessment. The factors explored include "aspects of the initial retrieval practice conditions, the conditions of the ﬁnal criterial assessment, characteristics of the learners, the nature of the materials, and the setting of the study", which structure the chapter's sections.
@@ -47,6 +47,8 @@ The chapter's organizing framework: learners study materials, a retrieval practi
 - [Practice retrieval performance did not differ significantly between the three retrieval strategy conditions](../claims/practice-retrieval-scores-no-condition-differences.md) [~W]
 - [Final recall does not differ reliably between participant-controlled and computer-controlled feedback skipping](../claims/participant-computer-controller-no-recall-difference.md) [~W]
 - [Complete operational definitions of conditions were provided in fewer than half of comparisons (42% conventional, 50% IVR)](../claims/operational-definitions-incomplete-in-ivr-studies.md) [~W]
+- [Quiz accuracy declines from immediate to 1-week delayed testing regardless of text medium](../claims/quiz-accuracy-declines-after-one-week-delay.md) [+W]
+- [Information retrieval questions were consistently easier than comprehension questions across both visualisation formats](../claims/retrieval-easier-than-comprehension-questions.md) [~W]
 
 ## Related Theories
 - 

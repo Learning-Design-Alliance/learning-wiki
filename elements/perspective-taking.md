@@ -13,7 +13,7 @@ generated:
 # Perspective-Taking
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 11 studies (4 causal, 3 quant-synthesis, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 2 of 11 report an effect size · 4 claims rest on one study
+> **Evidence** · 7 claims (5 for, 1 mixed, 1 against) · 12 studies (4 causal, 3 quant-synthesis, 3 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 2 of 12 report an effect size · 5 claims rest on one study
 
 ## Description
 Perspective-taking asks learners to adopt, articulate, and reason from viewpoints other than their own — historical actors, stakeholders in a policy dispute, or holders of opposing positions on a controversy. It functions both as a social-affective goal (empathy, reduced stereotyping) and a cognitive one (flexible, multi-angle understanding of contested content).
@@ -58,6 +58,7 @@ Perspective-taking deepens learning when learners must actively construct the ot
 - [Qualitative analysis of viewpoint-switching scenes indicated the 3D perspective-taking manipulatives bolstered perspective-taking via the nonverbal LED-status representations of students' states](../claims/3d-viewpoint-switching-bolsters-nonverbal-perspective-taking.md) [+M] — attached 2026-10-18 from Mochizuki et al. (2022), which proposed "3D manipulable animation as a perspective-taking manipulative for reflective discussion"; tests this page's relationship.
 - [Intersubjective understanding can be achieved through inter-animation of persistently opposed perspectives without convergence](../claims/intersubjectivity-amid-persistently-opposed-perspectives.md) [+W]
 - [HPT is not a simple shedding of presentist perspectives: multiple selves of one learner intertwine with the target's perspective](../claims/hpt-multiple-selves-intertwined.md) [~W]
+- [Perspective taking increases the creativity of dyadic interactions](../claims/perspective-taking-increases-dyad-creativity.md) [+W]
 
 ## Related Elements
 - [Debate](debate.md) — the formalized contest format that operationalizes perspective-taking under time and role constraints

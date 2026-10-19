@@ -35,7 +35,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 205 claims (88 for, 103 mixed, 14 against) · 159 studies (55 associational, 42 design, 22 review, 19 theoretical, 16 causal, 3 qualitative, 2 quant-synthesis), `q1`–`q3` · 13 of 159 report an effect size · 199 claims rest on one study
+> **Evidence** · 209 claims (89 for, 105 mixed, 15 against) · 162 studies (56 associational, 43 design, 24 review, 18 theoretical, 16 causal, 3 qualitative, 2 quant-synthesis), `q1`–`q3` · 13 of 162 report an effect size · 203 claims rest on one study
 
 ## Conditional relationship
 
@@ -303,6 +303,10 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [The MAKQ dimensions show acceptable internal consistency across both studies (alphas 0.77-0.93)](../claims/makq-reliability-alphas.md) [+W]
 - [Logistic regression can identify the ELP score at which students have a probability of 0.5 of being proficient on the academic content assessment, as a candidate English-proficient standard](../claims/logistic-regression-half-probability-criterion.md) [~W]
 - [Peer assessment of professional skills shows adequate reliability including in medicine, with outcomes generally at least equivalent to teacher assessment](../claims/peer-professional-skills-reliability-outcomes.md) [~W]
+- [Studies finding grades less predictive often use restricted samples or weighted or self-reported GPAs, which are less accurate](../claims/restricted-samples-explain-divergent-grade-predictions.md) [~W]
+- [Model accuracy of vision-based proctoring systems can vary across demographics, lighting conditions, and hardware setups, potentially disadvantaging some students](../claims/proctoring-accuracy-demographic-bias.md) [-W]
+- [Identifying rapid guessing is important for the validity of achievement test scores, particularly with low-stakes tests](../claims/rapid-guessing-identification-important-for-score-validity.md) [+W]
+- [RRRP scores were fairly stable across fall to spring in third grade, with a slight decrease in Part 1 and no change in Part 2](../claims/rrrp-scores-stable-fall-to-spring.md) [~W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

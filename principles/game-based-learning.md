@@ -43,7 +43,7 @@ sources:
 # Game-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 31 claims (14 for, 17 mixed) · 35 studies (13 quant-synthesis, 8 causal, 7 review, 3 associational, 3 theoretical, 1 design), `q1`–`q4` · 13 of 35 report an effect size · 25 claims rest on one study
+> **Evidence** · 34 claims (14 for, 20 mixed) · 35 studies (13 quant-synthesis, 8 causal, 7 review, 3 associational, 3 theoretical, 1 design), `q1`–`q4` · 13 of 35 report an effect size · 28 claims rest on one study
 
 ## Conditional relationship
 
@@ -161,6 +161,9 @@ A gain in the game, a gain on an aligned outside test, delayed retention, transf
 - [Game mechanics difficulty positively predicts persistence in Physics Playground problems](../claims/gm-difficulty-positively-predicts-persistence.md) [~W]
 - [Multi-session game interventions show significantly larger learning benefits than single-session interventions, while total play duration shows no association with effect size](../claims/multiple-sessions-moderator-games.md) [~W]
 - [Multi-session game conditions outperform nongame conditions while single-session games do not, though total play duration shows no association with effect size](../claims/multiple-sessions-benefit-single-session-null.md) [~W]
+- [School level moderates cognitive effects of game-based learning in STEM: games are less effective for secondary than primary school students](../claims/school-level-moderates-game-cognitive-effects.md) [~W]
+- [Descriptive analyses suggest game-based learning may be less beneficial for cognitive outcomes in low-SES students than high-SES students, but this is preliminary](../claims/ses-descriptive-lower-cognitive-benefit-low-ses.md) [~W]
+- [Published studies of simulation games report substantially larger effects than unpublished studies, indicating publication bias](../claims/publication-bias-in-simulation-games-research.md) [~M]
 
 ## Related Principles
 - [Simulations & Immersive Virtual Environments](simulations-immersive-virtual-environments.md) — simulations overlap with game-based learning when the experience models a system learners must navigate.

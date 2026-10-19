@@ -12,7 +12,7 @@ generated:
 # Supporting Students with Autism Spectrum Disorder
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (1 review, 1 associational), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 3 studies (2 review, 1 associational), `q2` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 **Autism spectrum disorder (ASD)** involves early-appearing, functionally impairing disturbances in three domains (APA, 2013): **social interaction** (not initiating conversation, avoiding eye contact, apparent preference for being alone); **communication** (ranging from absent speech to one-word responses, echoed speech, or difficulty reciprocating conversation and reading nonverbal cues like facial expression and gesture); and **repetitive behavior or interests** (stereotyped movements like rocking, marked distress at small changes in routine, or unusually intense, narrowly fixated interests). The "spectrum" qualifier reflects genuinely wide variation in severity — the DSM-5 dropped the earlier separate Asperger's disorder diagnosis (previously described as a milder form, with average-or-higher intelligence and strong vocabulary but social/communication impairment) once research failed to show it differed qualitatively from the broader autism spectrum. ASD is not the same condition as intellectual disability, though the two can co-occur, and the DSM-5 specifies ASD symptoms are not caused or explained by intellectual disability.
@@ -41,6 +41,7 @@ ASD affects an estimated 1 in 88 U.S. children, about 5 times more common in boy
 
 - [Aided AAC systems show advantages over manual signs for acquiring requests, and motor imitation and matching skills predict manual sign acquisition](../claims/aided-systems-advantage-over-manual-signs.md) [+M]
 - [Parents of children with autism using AAC commonly report perceived benefits, most frequently increased communication opportunities](../claims/parents-report-high-perceived-aac-benefits-nablus.md) [+W]
+- [In a pilot randomized trial, children whose parents received Parental Friendship Coaching were reported by parents and by blind teachers to show better social behaviors and greater peer acceptance than control children](../claims/pfc-parent-coaching-pilot-gains.md) [~W]
 
 ## Related Principles
 - [Supporting Students with Intellectual Disabilities](supporting-students-with-intellectual-disabilities.md) — a genuinely distinct condition that can co-occur with ASD but is not implied by it

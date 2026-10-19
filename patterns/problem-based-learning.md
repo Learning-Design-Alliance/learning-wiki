@@ -29,7 +29,7 @@ grain_size: unit
 # Problem-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 50 claims (13 for, 33 mixed, 4 against) · 40 studies (14 causal, 7 review, 7 theoretical, 4 quant-synthesis, 4 qualitative, 2 associational, 2 design), `q1`–`q4` · 6 of 40 report an effect size · 45 claims rest on one study
+> **Evidence** · 53 claims (14 for, 35 mixed, 4 against) · 42 studies (14 causal, 8 review, 7 theoretical, 5 qualitative, 4 quant-synthesis, 2 associational, 2 design), `q1`–`q4` · 6 of 42 report an effect size · 48 claims rest on one study
 
 ## Description and scope
 
@@ -155,6 +155,9 @@ This pattern is scoped to problem-centred units in which an explicit consolidati
 - [PBL offers potential to help students develop flexible understanding and lifelong learning skills](../claims/pbl-potential-flexible-understanding-lifelong-learning.md) [~W]
 - [Research on PBL covers flexible knowledge, problem-solving, and SDL skills but little on collaboration and motivation](../claims/pbl-evidence-uneven-across-goals.md) [~W]
 - [PBL is superior to conventional instruction for skill development and for satisfaction of students and teachers](../claims/pbl-superior-skill-development-satisfaction.md) [+W]
+- [Learning through the experience of solving problems can build both content knowledge and thinking strategies](../claims/problem-experience-builds-content-and-thinking-strategies.md) [+W]
+- [Self-generation of learning issues improves studied materials, self-study time, and reporting time in PBL](../claims/self-generated-learning-issues-benefit-pbl.md) [~W]
+- [The scope of PBL implementation shaped discussion quality: hybrid lecture-based implementation reduced uncertainty but yielded less critical discussion than full PBL](../claims/scope-of-pbl-implementation-shapes-discussion.md) [~W]
 
 ## Related Patterns
 - [Anchored Instruction](anchored-instruction.md)

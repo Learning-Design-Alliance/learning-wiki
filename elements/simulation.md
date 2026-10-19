@@ -14,7 +14,7 @@ generated:
 # Simulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 50 claims (31 for, 16 mixed, 3 against) · 49 studies (12 causal, 12 review, 11 quant-synthesis, 7 design, 4 qualitative, 2 theoretical, 1 associational), `q1`–`q4` · 11 of 49 report an effect size · 40 claims rest on one study
+> **Evidence** · 51 claims (31 for, 17 mixed, 3 against) · 49 studies (12 causal, 12 review, 11 quant-synthesis, 7 design, 4 qualitative, 2 theoretical, 1 associational), `q1`–`q4` · 11 of 49 report an effect size · 41 claims rest on one study
 
 ## Description
 A simulation is an interactive model of a real or hypothetical system — physical, biological, economic, social, or procedural — in which learners take actions, observe the consequences, and adjust their approach. Unlike a [Demonstration](demonstration.md), which presents expert performance for observation, a simulation makes the learner the actor, embedding practice inside a simplified environment where errors are safe and consequences are visible.
@@ -105,6 +105,7 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [The advantage of simulation games shrinks or reverses when the comparison group learns via active instructional methods](../claims/active-comparison-instruction-reverses-simulation-game-advantage.md) [~M]
 - [Independent expert teachers accepted 86% of generated STEM learning interactives, rating most as good or excellent, with biology simulations weakest on aesthetics and UX](../claims/expert-rating-40-requests-86-percent-acceptance.md) [~W]
 - [In an open simulation game with wide scope and low distance, second-order interventions effectively elicited second-order responses](../claims/open-sg-sol-interventions-elicit-sol-responses.md) [~W]
+- [Published studies of simulation games report substantially larger effects than unpublished studies, indicating publication bias](../claims/publication-bias-in-simulation-games-research.md) [~M]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

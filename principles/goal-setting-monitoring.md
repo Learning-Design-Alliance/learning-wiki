@@ -26,7 +26,7 @@ sources:
 # Goal Setting & Monitoring
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 8 claims (4 for, 4 mixed) · 14 studies (5 quant-synthesis, 4 review, 3 theoretical, 2 causal), `q1`–`q4` · 3 of 14 report an effect size · 2 claims rest on one study
+> **Evidence** · 9 claims (5 for, 4 mixed) · 15 studies (5 quant-synthesis, 5 review, 3 theoretical, 2 causal), `q1`–`q4` · 3 of 15 report an effect size · 3 claims rest on one study
 
 ## Conditional relationship
 
@@ -119,6 +119,10 @@ For example, in an adult online language course the designer's objective may be 
 The expectation should weaken if comparable learners given specific, accepted goals with progress feedback show no gain over a "do your best" comparison on an aligned learning outcome under a defensible comparison. The process-before-outcome sequence should be revised if novices given outcome goals learn the process as well, or if the switch point cannot be observed reliably. If goal setting changes completion or on-task behaviour but never the learning outcome, the page should say goals act on engagement, not learning. If if-then plans help only some learners (as the field experiments suggest), the default should become conditional on the obstacle each learner names. Do not protect the model by calling every failure low commitment.
 
 Effects on effort, persistence, completion, on-task behaviour, self-efficacy, immediate task performance and delayed learning are separate claims. The present evidence does not establish an optimal goal difficulty for a learner, a criterion for switching from process to outcome goals, a monitoring frequency, or durable effects once goal support is removed.
+
+## Claims
+
+- [Proximal goals produced higher motivation, skill, self-efficacy, and intrinsic interest than distant or general goals](../claims/proximal-goals-benefit-efficacy-and-skill.md) [+W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — goals provide the structure that can be scaffolded and then faded.
