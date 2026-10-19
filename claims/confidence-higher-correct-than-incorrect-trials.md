@@ -43,4 +43,4 @@ Experiment 1 (65 Hungarian adults, 40 general-knowledge trials with two answer o
 
 
 ## Related Claims
--
+- [Pre-monitoring and retrospective confidence judgments are highly consistent, with most agreement at the highest scale level regardless of correctness](pre-monitoring-confidence-judgment-consistency.md) — related

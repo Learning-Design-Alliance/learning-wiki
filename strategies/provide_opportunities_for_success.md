@@ -59,9 +59,11 @@ Early success builds efficacy beliefs that sustain motivation through later diff
 6. Frame goals in terms of process and progress rather than comparison with others [Process goals outperform outcome goals for novices.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M].
 
 ## Related Strategies
+
 - [Achievable Micro-Goals](../strategies/achievable_micro-goals.md) — the task-decomposition mechanism that raises success frequency
 - [Action-Oriented Feedback](action-oriented-feedback.md) — the feedback style that converts attempts into earned successes
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — ensures the first task builds on what learners can already do
+- [Reframe failure as part of success, break long-term goals into short-term controllable action goals, and use randomized intermittent external rewards](reframe-failure-short-term-goals-intermittent-rewards.md)
 
 ## Examples
 - **Mastery learning programs** (e.g., Bloom's "Learning for Mastery" implementations): learners continue with corrective instruction and parallel [Practice](../elements/practice.md) until they meet the criterion, guaranteeing a success experience before progression [Kulik, C.-L. C., Kulik, J. A., & Bangert-Drowns, R. L. (1990). Effectiveness of mastery learning programs: A meta-analysis. *Review of Educational Research, 60*(2), 265–299](https://doi.org/10.3102/00346543060003265).

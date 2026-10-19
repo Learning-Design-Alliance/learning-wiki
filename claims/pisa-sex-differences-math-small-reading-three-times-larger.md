@@ -86,3 +86,4 @@ Same PISA secondary analysis, Results section. The article reports the average r
 - [Math anxiety levels do not differ significantly by gender among third graders](math-anxiety-no-gender-difference-third-graders.md) — related
 - [The gender gap in reading is three times bigger than the gender gap in math](reading-gender-gap-three-times-math-gap.md) — possibly the same claim (merge candidate)
 - [Girls scored lower than boys on fifth grade Numerical Operations, with the gap smaller in earlier grades, but no sex difference in fifth grade word reading](sex-difference-fifth-grade-numerical-operations.md) — a narrower finding that bears on this claim
+- [The learning benefit of mathematics test practice is larger for boys than for girls](math-practice-effect-larger-for-boys.md) — a narrower finding that bears on this claim

@@ -49,3 +49,4 @@ Longitudinal comparative analysis of three proficiency cohorts stratified by pre
 - [BKT scaffolding significantly benefits low prior knowledge students, who outperformed low prior knowledge controls](bkt-benefits-low-prior-knowledge-students.md) — related
 - [DRL scaffolding significantly benefits high prior knowledge students while BKT does not, and condition-by-prior-knowledge interactions are not significant](drl-benefits-high-prior-knowledge-students.md) — related
 - [Proportions of significant CT gains vary by instructional approach, but approach alone does not determine effectiveness](instructional-approach-alone-does-not-determine-ct-effectiveness.md) — related
+- [The effect of mathematics test practice varies across prior-achievement levels, with significant effects at intermediate-to-high levels (levels 3 and 4) but not at the lowest or highest](practice-effect-varies-by-prior-achievement.md) — related

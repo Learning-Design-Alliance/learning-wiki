@@ -48,3 +48,5 @@ Conditional linear mixed model on absolute monitoring accuracy showed measuremen
 - [In Experiment 2, signed metacognitive bias scores showed no significant group effect or linear trend, failing to replicate the Experiment 1 signed-bias finding](exp2-signed-metacognitive-bias-not-replicated.md) — related
 - [Children's ability to discriminate between correct and incorrect answers did not change over training regardless of group](discrimination-unchanged-after-training.md) — related
 - [Neither monitoring feedback nor performance feedback improved kindergarteners' monitoring accuracy relative to an active control](feedback-training-no-improvement-kindergarten-monitoring-accuracy.md) — related
+- [Monitoring discrimination and overconfidence improve with age between kindergarten and second grade](monitoring-accuracy-improves-kindergarten-to-second-grade.md) — related
+- [Pre-monitoring judgments before recognition increase rather than decrease overconfidence in kindergartners and second graders](pre-monitoring-increases-overconfidence-children.md) — reports the opposite

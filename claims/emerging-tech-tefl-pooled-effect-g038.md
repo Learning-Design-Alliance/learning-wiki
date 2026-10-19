@@ -49,3 +49,5 @@ Random-effects meta-analysis of 33 experimental and quasi-experimental studies (
 - [GenAI-supported writing instruction yields a statistically significant positive pooled effect on L2/EFL writing performance (g = 0.80) with very high heterogeneity](genai-writing-instruction-pooled-effect-g-080.md) — related
 - Mobile and ubiquitous learning was the most prevalent technology category in TEFL studies (10 of 33 studies), with AI/NLP second (7 studies) and VR/AR concentrated in tertiary education — related
 - [Using computerized systems as a differentiation tool has small to moderate positive effects on primary students' language and math performance](computerized-differentiation-systems-positive-effects-primary.md) — related
+- [Publication bias is present in the mathematics–writing literature, though the pooled estimate is robust in sensitivity analyses](publication-bias-math-writing-meta-analysis.md) — related
+- [Technology-supported educational interventions are associated with higher metacognitive outcomes on average (g = 0.653), with substantial between-study heterogeneity](technology-interventions-positive-pooled-metacognition-effect.md) — related

@@ -58,9 +58,11 @@ Intrinsic motivation is a stronger predictor of persistence, depth of engagement
 5. **Reflect on the feeling.** Close with brief reflection — students articulate how their positive action made them feel, closing the loop and reinforcing the cycle.
 
 ## Related Strategies
+
 - [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md) — a structured routine for giving students autonomy over their learning
 - [Achievable Micro-Goals](achievable_micro-goals.md) — builds the competence experiences that fuel intrinsic motivation
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — connects new tasks to what students already value and know
+- [Combine metacognitive strategy information with motivational interventions that increase task value, and reduce need frustration](combine-metacognitive-info-with-value-interventions.md)
 
 ## Examples
 - A teacher opens a writing unit by letting students choose their topic and audience, then runs brief daily check-ins where students name one negative thought about writing, reframe it, and note how completing a draft step felt.

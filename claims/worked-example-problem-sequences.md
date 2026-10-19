@@ -132,3 +132,5 @@ Do not conflate example→problem pairs with completion problems: the latter omi
 - [Task sequence effects on mental effort reverse between learning phase and transfer test](effort-reversal-learning-versus-transfer-phase.md) — related
 - [Example–problem pairs are more efficient than problem–example pairs for both gifted and nongifted primary school students](example-problem-pairs-more-efficient-both-gifted-nongifted.md) — a narrower finding that bears on this claim
 - [Order of worked examples and problem solving had no significant effect on application and transfer scores in experimental design or graphing](we-ps-sequence-no-effect-inquiry-competencies.md) — related
+- [The relationship between learners' prior knowledge and the optimal instructional sequence may not be straightforward](prior-knowledge-sequence-relationship-not-straightforward.md) — reports the opposite
+- [For introductory biology students with low topic-specific prior knowledge, problem-solving-first (PS-I) outperformed instruction-first (I-PS) on a near-transfer test](ps-i-beats-i-ps-near-transfer-low-prior-knowledge.md) — related

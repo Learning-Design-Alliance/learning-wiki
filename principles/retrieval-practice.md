@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 64 claims (34 for, 28 mixed, 1 against, 1 unmarked) · 33 studies (11 causal, 9 quant-synthesis, 7 review, 2 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 12 of 33 report an effect size · 57 claims rest on one study
+> **Evidence** · 67 claims (36 for, 29 mixed, 1 against, 1 unmarked) · 35 studies (12 causal, 9 quant-synthesis, 7 review, 3 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 12 of 35 report an effect size · 60 claims rest on one study
 
 ## Conditional relationship
 
@@ -103,6 +103,9 @@ None at present: every claim listed here was read against the model on 2026-10-1
 - [Permitting feedback skipping increases the number of retrieval attempts completed within a fixed learning time](../claims/skipping-permits-more-retrieval-attempts.md) [+W] — attached 2026-10-16 from Matthew Jensen Hays et al. (2010), which proposed "When study time is fixed, skip feedback after successful retrieval in favor of additional retrieval attempts".
 - [Targeted retrieval via specific short-answer tasks improves retention of directly targeted information more than holistic retrieval via free-recall tasks](../claims/targeted-retrieval-improves-targeted-information-retention.md) [+W] — attached 2026-10-18 from Tino Endres et al. (2020), which proposed "Match the type of retrieval-practice task to the educational goal and the breadth of the learning content".
 - [Holistic retrieval via free-recall improves retention of non-targeted information, but only on the free-recall posttest](../claims/holistic-retrieval-improves-non-targeted-information-free-recall-posttest.md) [+W] — attached 2026-10-18 from Tino Endres et al. (2020), which proposed "Match the type of retrieval-practice task to the educational goal and the breadth of the learning content".
+- [In authentic undergraduate courses, taking more voluntary practice tests predicts higher final-exam performance, with and without corrective feedback](../claims/practice-test-frequency-predicts-exam-performance.md) [+W] — attached 2026-10-19 from Nick Naujoks et al. (2022), which proposed "Meaningful classroom practice-test setting: voluntary participation, lecture-aligned content, criterial-test format, and corrective feedback"; tests this page's relationship.
+- [Greater mathematics content in a practice test improves subsequent mathematics performance by a small amount (~2% of a standard deviation per hour of practice)](../claims/math-practice-test-improves-math-performance-small-effect.md) [+W] — attached 2026-10-19 from Avvisati et al. (2020), which proposed "Use content-relevant practice tests to produce small domain-specific learning gains, without expecting improvements in general reasoning"; tests this page's relationship.
+- [Mathematics test practice does not improve domain-general problem-solving ability](../claims/math-practice-no-effect-domain-general-problem-solving.md) [~W] — attached 2026-10-19 from Avvisati et al. (2020), which proposed "Use content-relevant practice tests to produce small domain-specific learning gains, without expecting improvements in general reasoning".
 
 ## Objective and learner-valued goal
 

@@ -49,3 +49,4 @@ Multilevel analysis of absolute metacomprehension accuracy (judgment and student
 - [Drawing after learning, both from scratch and with spatial scaffolds, improves absolute monitoring accuracy (calibration) compared with a time-matched mental reactivation control condition](drawing-after-learning-improves-absolute-monitoring-accuracy.md) — related
 - [Diagramming scaffold improves relative metacomprehension accuracy for causal relations in expository texts](diagramming-improves-relative-metacomprehension-accuracy.md) — related
 - [Self-assessments of diagram boxes are more accurate than comprehension judgments and strongly correlated with them in the diagramming paradigm](self-assessments-more-accurate-than-comprehension-judgments.md) — related
+- [Situation-model-approach interventions produce a medium positive average effect (g = 0.46) on relative metacomprehension accuracy](situation-model-interventions-medium-average-effect-metacomprehension.md) — related

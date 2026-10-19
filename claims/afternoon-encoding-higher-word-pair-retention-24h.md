@@ -63,3 +63,4 @@ Same randomized two-group experiment, second retention interval. The Day 1 to Da
 
 ## Related Claims
 - [Sleep and consolidation support semantic memory development, suggesting delayed school start times may benefit memory](sleep-consolidation-semantic-memory-school-start-times.md) — related
+- [In Experiment 3, individual learners showed greater forgetting over 24 hours than paired learners](condition-by-delay-interaction-experiment-3.md) — related

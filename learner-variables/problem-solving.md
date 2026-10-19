@@ -12,7 +12,7 @@ generated:
 # Problem Solving
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 51 claims (43 show a difference, 4 mixed, 4 no difference) · 43 studies (22 causal, 5 review, 5 associational, 3 qualitative, 3 design, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 13 of 43 report an effect size · 49 claims rest on one study
+> **Evidence** · 53 claims (43 show a difference, 5 mixed, 5 no difference) · 45 studies (24 causal, 5 review, 5 associational, 3 qualitative, 3 design, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 13 of 45 report an effect size · 51 claims rest on one study
 
 ## Description
 Problem solving is the ability to work through a challenge that has no ready answer: defining the goal, drawing on relevant [prior knowledge](prior-knowledge.md), resources and skills, generating options and choosing among them. The LVN record (written for adult learners) treats it broadly, covering everyday, career and academic problems and conflicts, and includes both critical and creative thinking within it. It can be measured with scenario-based tasks in which learners analyse realistic problems from home, family and work life.
@@ -88,6 +88,8 @@ For adults, problem solving bears on navigating personal, workplace and educatio
 - [Video-graph analysis shows scaffolded tasks produced more diverse process episodes, more fluent transitions between processes, and more P3–P4 oscillation than non-scaffolded tasks](../claims/scaffolds-video-graph-episode-diversity-transitions.md) [+M] — instruction changes it
 - [Studying instructional and video modeling examples improved heredity problem-solving performance and self-assessment accuracy from pretest to posttest](../claims/video-modeling-pretest-posttest-gains.md) [+M] — instruction changes it
 - [Frequent use of reflective prompts related to better strategic problem-solving and conceptual understanding](../claims/reflective-prompts-frequency-problem-solving.md) [+M] — instruction changes it
+- [In Experiment 1, I-PS students solved the initial problem better but PS-I students learned more from the subsequent instructional video](../claims/exp1-process-measures-problem-solving-and-quiz.md) [~M] — instruction changes it
+- [Mathematics test practice does not improve domain-general problem-solving ability](../claims/math-practice-no-effect-domain-general-problem-solving.md) [-M] — instruction changes it
 
 ## Measures
 - **Everyday Problem Solving Inventory** (Cornelius & Capsi, 1987): task-based assessment in which learners analyse 48 real-life scenarios about family, home, conflict and managing information.

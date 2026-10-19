@@ -52,3 +52,4 @@ Moderator analysis in the three-level meta-analysis testing five regions. Europe
 - Included AI-in-higher-education studies were geographically concentrated in North America and Asia, with medicine, computer science, and engineering as leading disciplines — related
 - GAI research in education is geographically concentrated in Europe, the United States, and Asia — related
 - AI-SRL research is dominated by quantitative methods, short durations, and limited geographic representation — related
+- [The ToM–achievement association is significantly weaker in European samples than in Asian and North American samples](european-samples-weaker-tom-achievement-link.md) — related

@@ -48,3 +48,5 @@ MANCOVA in the experimental design topic (n = 113) found pre-test a significant 
 - [Students improved significantly from pre- to post-test in both topics, with a medium effect in experimental design and a small effect in graphing](pre-post-gains-inquiry-competencies.md) — related
 - [Prior Knowledge Determines New Learning](prior-knowledge-determines-new-learning.md) — a broader claim this one bears on
 - [Order of worked examples and problem solving had no significant effect on application and transfer scores in experimental design or graphing](we-ps-sequence-no-effect-inquiry-competencies.md) — related
+- [The relationship between learners' prior knowledge and the optimal instructional sequence may not be straightforward](prior-knowledge-sequence-relationship-not-straightforward.md) — related
+- [For introductory biology students with low topic-specific prior knowledge, problem-solving-first (PS-I) outperformed instruction-first (I-PS) on a near-transfer test](ps-i-beats-i-ps-near-transfer-low-prior-knowledge.md) — related

@@ -71,3 +71,4 @@ Contrast analyses on the same log-file time measure: "differences between adjace
 - [Self Regulated Learning Predicts Achievement](self-regulated-learning-predicts-achievement.md) — a broader claim this one bears on
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — a broader claim this one bears on
 - [SRL intervention groups had significantly lower dropout than control in a MOOC, with no difference between the two intervention modes](srl-interventions-reduced-mooc-dropout.md) — related
+- [For self-regulated learning outcomes, rubrics combined with both self- and peer assessment show a significantly larger effect than rubrics with self-assessment alone](rubrics-srl-self-plus-peer-assessment-larger-effect.md) — related

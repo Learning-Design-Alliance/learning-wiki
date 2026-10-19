@@ -276,3 +276,4 @@ Open questions that evidence entries should address include: how retrieval pract
 - [Repeated test-restudy trials produced higher final cued recall than study-only or single test-restudy controls across both experiments](test-restudy-beats-controls.md) — a narrower finding that bears on this claim
 - [Active control over the learning experience enhances recognition memory from age 7 into adulthood](active-control-enhances-memory-development.md) — related
 - [Retrieval practice conditions produced significantly higher cognitive load than rereading](retrieval-practice-increases-cognitive-load.md) — related
+- [Retrieval practice produces better retention than restudying, with meta-analytic reviews reporting people 2.5 times as likely to remember tested information and medium-to-large classroom effects](retrieval-practice-beats-restudying.md) — related

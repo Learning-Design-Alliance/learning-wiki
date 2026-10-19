@@ -12,7 +12,7 @@ generated:
 # Personality Traits
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 18 claims (8 show a difference, 4 mixed, 4 no difference, 2 unmarked) · 10 studies (5 associational, 3 review, 2 causal), `q2`–`q3` · 4 of 10 report an effect size · 18 claims rest on one study
+> **Evidence** · 22 claims (9 show a difference, 6 mixed, 5 no difference, 2 unmarked) · 11 studies (5 associational, 3 review, 2 causal, 1 quant-synthesis), `q2`–`q3` · 5 of 11 report an effect size · 22 claims rest on one study
 
 ## Description
 Personality traits are relatively stable individual differences, most often measured on the Big Five dimensions. For learning, conscientiousness (being organised, persistent and self-controlled) is the trait most consistently associated with achievement, and openness (curiosity, breadth of interests) the second; agreeableness, extraversion and neuroticism show little association. Traits correlate with other variables here, such as [self-regulation](self-regulation.md) and [need for cognition](need-for-cognition.md).
@@ -52,6 +52,10 @@ Personality traits are relatively stable individual differences, most often meas
 - [Openness to experience predicts creative metaphor quality, and controlling for personality reduces Gc's creative-metaphor effect to zero](../claims/openness-predicts-creative-metaphor.md) [+W] — learners who differ on it differ in outcomes
 - [Big Five personality factors show few consistent effects on metacognitive judgments in domain-specific tests](../claims/big-five-few-consistent-effects-on-judgments.md) [~W] — learners who differ on it differ in outcomes
 - [Motivational and personality variables relate more strongly to global than to local postdicted judgments](../claims/global-judgments-more-trait-driven-than-local.md) [+M] — learners who differ on it differ in outcomes
+- [A prior meta-analysis found only a small teacher personality–effectiveness relationship (r = .08), attributed to treating personality as unidimensional and pooling effectiveness measures](../claims/prior-teacher-personality-meta-analysis-small-effect.md) [+W] — learners who differ on it differ in outcomes
+- [Associations between teacher personality and effectiveness are strongest for evaluations of teaching and near zero for academic achievement and classroom observation](../claims/effectiveness-measure-moderates-personality-association.md) [~M] — learners who differ on it differ in outcomes
+- [Teacher Big Five domains show their largest associations with burnout for emotional stability and conscientiousness, but none of the burnout effects are statistically significant](../claims/teacher-personality-burnout-null-findings.md) [-M] — learners who differ on it differ in outcomes
+- [Teacher extraversion, conscientiousness, emotional stability, and openness are each positively associated with teacher effectiveness, while agreeableness is not a significant correlate](../claims/big-five-teacher-effectiveness-meta-analysis.md) [~W] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

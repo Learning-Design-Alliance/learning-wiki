@@ -46,3 +46,4 @@ Gamma correlations between self-assessments and performance across the four crit
 - [Expert example standards did not significantly enhance relative accuracy in evaluating self-generated examples](expert-standards-relative-accuracy-null.md) — related
 - [The benefits of rubrics on self-assessment accuracy do not depend on the inferential level of the assessment criteria](rubric-benefits-independent-of-inferential-level.md) — related
 - [Structured criteria in peer assessment are not shown to improve its effect on academic performance over freeform review](peer-assessment-structured-criteria-improve-learning.md) — related
+- [Using rubrics has a positive, moderate effect on students' academic performance (corrected g = 0.45; standardized mean change = 0.38)](rubrics-moderate-positive-effect-academic-performance.md) — related

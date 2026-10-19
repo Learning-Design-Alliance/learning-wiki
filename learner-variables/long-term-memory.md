@@ -12,7 +12,7 @@ generated:
 # Long-Term Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 75 claims (51 show a difference, 17 mixed, 7 no difference) · 52 studies (21 causal, 12 review, 11 quant-synthesis, 4 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 21 of 52 report an effect size · 68 claims rest on one study
+> **Evidence** · 77 claims (52 show a difference, 17 mixed, 8 no difference) · 53 studies (22 causal, 12 review, 11 quant-synthesis, 4 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 21 of 53 report an effect size · 70 claims rest on one study
 
 ## Description
 Long-term memory holds information, such as words, facts, events, concepts and procedures, so that it can be retrieved and used later, over spans from hours to decades, and in principle indefinitely. Skills and knowledge get there through repeated practice and use, and stay accessible while they continue to be used. It matters for learning because what is stored there is the base for everything that follows: the [prior knowledge](prior-knowledge.md) and vocabulary that support reading and writing, and the arithmetic facts and procedures that free a learner to work on new mathematics problems. It develops through childhood and adolescence as the brain systems supporting it mature, and older learners lean more on memory-based strategies, for example in mathematics. It is measured with standardised memory batteries that ask learners to recall stories, lists or figures after a delay. It is distinct from [working memory](working-memory.md), which holds information briefly while it is being used; rehearsal and use move material from one to the other.
@@ -109,6 +109,8 @@ Long-term memory holds information, such as words, facts, events, concepts and p
 - [No significant differences between conditions on the retention test, and scores of the Visual and Timeline conditions decreased significantly from post-test to retention](../claims/timeline-effect-disappears-at-retention.md) [~W] — instruction changes it
 - [Relationships between individual differences and final test performance were nonsignificant in retrieval practice conditions but significant in the rereading condition](../claims/individual-difference-correlations-vary-by-strategy-condition.md) [~M] — learners who differ on it differ in outcomes
 - [The self-study-before-discussion advantage persisted at one-week delayed tests, with lecture-condition scores declining over time while self-study-condition scores remained stable](../claims/self-study-discussion-long-term-retention-transfer.md) [+M] — instruction changes it
+- [In Experiment 3, individual learners showed greater forgetting over 24 hours than paired learners](../claims/condition-by-delay-interaction-experiment-3.md) [+W] — instruction changes it
+- [Individual and paired flashcard learning yield comparable final cued-recall test performance](../claims/paired-vs-individual-flashcards-similar-test-performance.md) [-W] — instruction changes it
 
 ## Measures
 - **Wechsler Memory Scale (WMS)** (Wechsler, 2010): its logical memory subtest asks for details of a story heard once, as a measure of declarative memory.

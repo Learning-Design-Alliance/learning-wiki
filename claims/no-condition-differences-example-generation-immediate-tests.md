@@ -48,3 +48,4 @@ Univariate ANOVA on the ratio of correctly solved problems averaged over the six
 - [Practice-problem performance favored PS-I overall, but the advantage was concentrated on the first two worksheets (d = 0.52)](practice-problems-favor-ps-i-first-worksheets.md) — related
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
 - [Erroneous examples and problem solving do not differ significantly on an immediate posttest](erroneous-examples-no-immediate-difference.md) — related
+- [In Experiment 1, I-PS students solved the initial problem better but PS-I students learned more from the subsequent instructional video](exp1-process-measures-problem-solving-and-quiz.md) — reports the opposite

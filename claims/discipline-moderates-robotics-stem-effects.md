@@ -47,3 +47,4 @@ Omnibus moderator analysis across 30 effect sizes in the multilevel model. Disci
 - [Educational robotics has a moderate positive overall effect on K-16 students' STEM learning compared to non-robotics instruction](educational-robotics-moderate-overall-effect-stem-learning.md) — related
 - [Educational robotics has a moderate-to-large effect on students' STEM learning performance](educational-robotics-effect-learning-performance.md) — related
 - [Educational robotics shows no significant effect on students' computational thinking in STEM education](educational-robotics-no-significant-ct-effect.md) — related
+- [Pedagogical tool significantly moderates the CT gender gap, with programming and robots associated with male-favoring gaps and other tools (e.g., web-based) showing a negative significant effect](pedagogical-tool-moderates-ct-gender-gap.md) — related

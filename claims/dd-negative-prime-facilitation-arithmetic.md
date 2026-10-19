@@ -43,4 +43,4 @@ Controlled experiment with 12 children with DD and 11 controls completing an ari
 
 
 ## Related Claims
--
+- [Negative priming effects are generally larger in mathematics than in language or science, particularly in arithmetic tasks](np-effects-larger-mathematics-arithmetic.md) — related

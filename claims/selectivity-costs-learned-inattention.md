@@ -45,3 +45,4 @@ Theoretical argument in the General Discussion, citing Rock & Gutman (1981) and 
 ## Related Claims
 - [Early (within ~100 ms) attentional modulation during encoding predicts subsequent working memory accuracy](early-encoding-modulation-predicts-wm-accuracy.md) — related
 - [With constant judgment standards, the same-different orienting task at repetitions did not affect the within-list lag effect, arguing against inattention and encoding-variability explanations](same-different-task-no-lag-interaction.md) — related
+- [Acetylcholine gates memory encoding: surprising outcomes drive high release that encodes new memories distinct from prior ones, and focus lags alertness by several minutes](acetylcholine-surprise-encoding-focus-lag.md) — related

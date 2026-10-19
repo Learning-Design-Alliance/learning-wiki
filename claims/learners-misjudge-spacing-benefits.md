@@ -123,3 +123,4 @@ Participants used a web-based programme to learn GRE-type vocabulary word pairs,
 - [When exemplars are already interleaved, larger temporal spacing between same-category exemplars yields better inductive learning than smaller spacing](larger-spacing-better-interleaved-induction.md) — related
 - [Learners overwhelmingly judge blocking more effective than interleaving even when their test performance favors interleaving](metacognitive-illusion-blocking-interleaving.md) — a narrower finding that bears on this claim
 - [Performance on final tests of learning is improved when multiple study sessions are spaced apart in time rather than massed in immediate succession](spacing-improves-final-test-performance.md) — related
+- [Learners tend to feel restudying confers more learning than being tested even though the opposite is true, per the review](metacognitive-disconnect-restudy-vs-testing.md) — related

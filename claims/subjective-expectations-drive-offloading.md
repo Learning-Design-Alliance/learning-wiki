@@ -52,3 +52,4 @@ Experimental study (Dunn & Risko, 2016) manipulating word rotation and layout fr
 - [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) — related
 - [In Experiment 1, lower confidence predicted greater offloading beyond objective performance in the no-feedback group, but not in the feedback group](confidence-predicts-offloading-no-feedback-only.md) — a narrower finding that bears on this claim
 - [Metacognitive confidence triggers intention offloading independently of objective memory need](metacognition-triggers-offloading.md) — a narrower finding that bears on this claim
+- [Students' self-reports of task effortfulness do not validly indicate a task's object-level cognitive requirements](effort-self-reports-not-valid-cognitive-requirements.md) — related

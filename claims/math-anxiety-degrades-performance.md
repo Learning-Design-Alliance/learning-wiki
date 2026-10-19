@@ -103,3 +103,4 @@ Multilevel meta-analysis of 223 studies published 1992–2018, modeling 747 corr
 - [Math anxiety's negative impact on math achievement is limited to more difficult math, emerging around late elementary school content](math-anxiety-impact-limited-to-difficult-math.md) — a narrower finding that bears on this claim
 - [Math anxiety correlates negatively with math achievement, grades, enjoyment, motivation, and amount of math taken](math-anxiety-negative-correlations-achievement.md) — possibly the same claim (merge candidate)
 - [Lower-than-average math ability, low working memory capacity, susceptibility to public embarrassment, and a nonsupportive teacher are proposed risk factors for developing math anxiety](risk-factors-for-developing-math-anxiety.md) — related
+- [Mathematics anxiety does not moderate the effect of mathematics test practice on subsequent performance](math-anxiety-does-not-moderate-practice-effect.md) — related

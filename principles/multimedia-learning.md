@@ -23,7 +23,7 @@ sources:
 # Multimedia Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 38 claims (19 for, 19 mixed) · 35 studies (17 causal, 9 quant-synthesis, 6 review, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 10 of 35 report an effect size · 30 claims rest on one study
+> **Evidence** · 39 claims (20 for, 19 mixed) · 36 studies (17 causal, 9 quant-synthesis, 6 review, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 10 of 36 report an effect size · 31 claims rest on one study
 
 ## Conditional relationship
 
@@ -98,6 +98,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [The spoken–written advantage over spoken-only presentation appears for system-paced but not learner-paced materials](../claims/system-paced-moderates-verbal-redundancy.md) [+W] — attached 2026-10-13 from Adesope et al. (2012), which proposed "Add spoken–written redundancy for system-paced, picture-free multimedia aimed at low-knowledge or less fluent readers, using written key terms rather than verbatim text"; tests this page's relationship.
 - [Verbal redundancy does not facilitate learning when materials include images or animation](../claims/images-animation-eliminate-redundancy-benefit.md) [~W] — attached 2026-10-13 from Adesope et al. (2012), which proposed "Add spoken–written redundancy for system-paced, picture-free multimedia aimed at low-knowledge or less fluent readers, using written key terms rather than verbatim text"; tests this page's relationship.
 - [Related prior knowledge is the single most powerful influence mediating subsequent learning, so multimedia should layer information by complexity](../claims/prior-knowledge-most-powerful-influence-multimedia-layering.md) [+W] — attached 2026-10-16 from Innwoo Park et al. (1993), which proposed "Embed structural aids and generative activities so learners construct their own meaning".
+- [The voluntary/involuntary attention distinction in the embedded-processes model maps onto signaling, coherence, and split-attention principles](../claims/voluntary-involuntary-attention-distinction-explains-multimedia-principles.md) [+W] — attached 2026-10-19 from Judith Schweppe et al. (2015), which proposed "Base multimedia learning theory on a working-memory framework that unifies attention, working memory, and long-term memory".
 
 ## Objective and learner-valued goal
 

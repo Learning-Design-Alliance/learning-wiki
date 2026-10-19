@@ -48,3 +48,4 @@ Between-group analysis of five-week change scores in the follow-up sample (N = 1
 - [The experiential group showed a delayed, continued within-group increase in regulation of cognition that the instructional group did not show](experiential-delayed-mrc-increase.md) — related
 - [Both groups showed large sustained five-week gains in AI engagement](sustained-aie-gains-both-groups.md) — related
 - [Instructional lecture produced no immediate significant change in metacognitive knowledge or regulation of cognition](instructional-no-immediate-mkc-mrc-change.md) — related
+- [Guidance, immediate feedback, and system-directed control showed unadjusted moderator signals that did not survive multiplicity adjustment, making them hypothesis-generating only](design-moderators-unadjusted-only-hypothesis-generating.md) — related

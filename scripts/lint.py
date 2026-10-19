@@ -116,7 +116,9 @@ def check_broken_links(pages: dict[str, Path]) -> list[dict]:
             # "broken" links were this false positive (the '%27what%27s_my_
             # emotion%3F%27_game_check-in.md' family), all of them links that
             # build fine under `mkdocs build --strict`.
-            target_path = (path.parent / urllib.parse.unquote(target)).resolve()
+            # The fragment is check_dead_anchors' job; only the file is tested here.
+            file_part = target.split("#", 1)[0]
+            target_path = (path.parent / urllib.parse.unquote(file_part)).resolve()
             if not target_path.exists():
                 issues.append({
                     "file": str(path.relative_to(WIKI_ROOT)),

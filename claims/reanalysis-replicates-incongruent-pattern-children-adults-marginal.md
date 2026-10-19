@@ -43,4 +43,4 @@ Reanalysis of previously-published data from Inglis and colleagues involving chi
 
 
 ## Related Claims
--
+- [Incongruent items in school-topic tasks are generally associated with longer response times and lower accuracy, patterns consistent with inhibitory control recruitment](incongruent-items-longer-rt-lower-accuracy.md) — a broader claim this one bears on

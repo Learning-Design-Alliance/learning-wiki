@@ -42,3 +42,4 @@ The article reports, citing Mnguni et al. (2024b), that zero-order associations 
 
 ## Related Claims
 - Geographic distribution of the selected sample shows Asia (18 studies) and North America strongly represented, with Europe, Africa, and South America underrepresented — related
+- [The ToM–achievement association is significantly weaker in European samples than in Asian and North American samples](european-samples-weaker-tom-achievement-link.md) — related

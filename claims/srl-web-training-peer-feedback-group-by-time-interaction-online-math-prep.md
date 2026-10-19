@@ -109,3 +109,4 @@ Follow-up univariate repeated-measures ANOVAs in the same randomized trial: SRL 
 - [In a randomised control study, university students in the combined condition (online SRL training with mobile-app diaries) improved more than participants in the other conditions](combined-srl-training-with-app-diaries-improved-more.md) — related
 - [Combining a structured learning diary with instruction on self-regulated learning increased students' strategy use and self-efficacy](diary-plus-srl-instruction-raises-strategy-use-self-efficacy.md) — related
 - [No group differences appear in self-regulation, strategies, or motivation across the four mathematics achievement groups](no-group-differences-other-metacognition.md) — reports the opposite
+- [For self-regulated learning outcomes, rubrics combined with both self- and peer assessment show a significantly larger effect than rubrics with self-assessment alone](rubrics-srl-self-plus-peer-assessment-larger-effect.md) — related

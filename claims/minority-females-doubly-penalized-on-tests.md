@@ -54,3 +54,4 @@ The entry reports one year of score averages for one group (Black test-takers) f
 - [PSAT-based National Merit scholarship selection distributes awards disproportionately to boys, with girls receiving 36 percent of scholarships](psat-national-merit-awards-skew-male.md) — related
 - [Research on minority group testing has focused on test bias, linguistic minorities, and culture-fair tests, rarely on alternative symbolic forms](minority-testing-research-neglects-alternative-symbolic-forms.md) — related
 - [Women admitted to MIT with lower SAT math scores perform as well as men in freshman math classes](mit-lower-sat-math-scores-equal-performance.md) — related
+- [Intersectional brilliance stereotypes show mixed patterns, supporting both intersectional invisibility and double jeopardy accounts](intersectional-brilliance-stereotypes-mixed.md) — related

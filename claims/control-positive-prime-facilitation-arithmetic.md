@@ -43,4 +43,4 @@ Same priming experiment, control group planned comparisons. Positive primes faci
 
 
 ## Related Claims
--
+- [Negative priming effects are generally larger in mathematics than in language or science, particularly in arithmetic tasks](np-effects-larger-mathematics-arithmetic.md) — related

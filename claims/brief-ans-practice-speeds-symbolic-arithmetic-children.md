@@ -53,3 +53,4 @@ Experiment 1 assigned 96 first graders quasi-randomly to four training condition
 - [Children succeed at non-symbolic approximate addition above chance with a ratio effect, without relying on non-numerical strategies](kindergartners-succeed-nonsymbolic-addition-ratio-effect.md) — related
 - [Both numerical training conditions improve magnitude processing more than a story-understanding control condition](numerical-magnitude-training-beats-control.md) — related
 - [Symbolic number magnitude training, but not non-symbolic training, significantly improves preschoolers' exact arithmetic](symbolic-magnitude-training-improves-preschool-arithmetic.md) — related
+- [Greater mathematics content in a practice test improves subsequent mathematics performance by a small amount (~2% of a standard deviation per hour of practice)](math-practice-test-improves-math-performance-small-effect.md) — related

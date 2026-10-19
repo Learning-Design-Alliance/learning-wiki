@@ -49,3 +49,4 @@ Experiments with Grade 10 novices and Shakespearean experts reading extracts wit
 - [Reviews report that the split-attention benefit for novices reverses into a redundancy effect for more experienced learners: Kalyuga et al. (2003) cite Kalyuga et al. (1998) and Yeung et al. (1998), and Ginns (2006) cites Kalyuga et al. (1998)](expertise-reversal-split-attention-redundancy-review.md) — possibly the same claim (merge candidate)
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md) — a broader claim this one bears on
 - [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) — related
+- [The expertise reversal effect reflects the strength of experts' knowledge base resisting redundant external information, and a motivation-related form is predicted](expertise-reversal-evolutionary-interpretation.md) — a broader claim this one bears on

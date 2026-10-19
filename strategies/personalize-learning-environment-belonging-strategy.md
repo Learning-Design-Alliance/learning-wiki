@@ -49,6 +49,7 @@ The guide's fifth schoolwide recommendation creates a personalized learning envi
 - [Target school-climate improvement within individual schools and communities, using schoolwide behavior systems, social-emotional learning, and compensatory supports](school-climate-improvement-strategies-for-equity.md)
 - [Design schools for strong, personalized relationships through small learning communities, looping, advisory systems, teaching teams, and longer grade spans](personalized-relationship-structures-strategy.md)
 - [School-level strategies for improving school climate](school-climate-improvement-strategies.md)
+- [Interventions targeting both brilliance beliefs and belonging concerns to foster educational equity](counter-brilliance-beliefs-foster-belonging-interventions.md)
 
 ## Examples
 -

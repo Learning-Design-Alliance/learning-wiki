@@ -46,3 +46,5 @@ Moderator analyses of five non-significant factors in the meta-analysis. Descrip
 - [AI literacy interventions show a large, statistically significant overall positive effect on student AI literacy outcomes (g = 0.837)](ai-literacy-interventions-large-overall-effect.md) — the general claim this finding bears on, with the studies behind it
 - [AI literacy directly and positively predicts learning engagement among university students](ai-literacy-predicts-learning-engagement.md) — related
 - [Participation in the short INSIGHT training session is associated with a significant pre-post increase in teachers’ perceived ease of use of AI-based technologies](insight-training-increases-perceived-ease-of-use-ai.md) — related
+- [Intervention types (cue-generation encoding-based, retrieval-based, cue-attention, cue-selection) do not substantially differ in effectiveness](intervention-types-no-substantial-difference.md) — related
+- [Technology type did not significantly moderate effects on metacognitive outcomes, though generative-AI interventions showed a descriptively larger estimate](technology-type-did-not-moderate-metacognition-effects.md) — related

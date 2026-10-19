@@ -44,3 +44,4 @@ The review's conclusion from multiple experimental sources: surprise memory test
 
 ## Related Claims
 - [Early (within ~100 ms) attentional modulation during encoding predicts subsequent working memory accuracy](early-encoding-modulation-predicts-wm-accuracy.md) — related
+- [Acetylcholine gates memory encoding: surprising outcomes drive high release that encodes new memories distinct from prior ones, and focus lags alertness by several minutes](acetylcholine-surprise-encoding-focus-lag.md) — related

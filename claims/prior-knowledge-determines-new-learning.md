@@ -99,3 +99,4 @@ This claim is one of the most robust premises in educational psychology, but its
 - [mPFC activity during schema-related encoding predicts normalized second-year course grades, with no such relation for MTL activity](mpfc-schema-encoding-predicts-grades.md) — related
 - [Pretest performance and average math grade correlate with conceptual knowledge but not procedural knowledge posttest scores](pretest-grade-correlate-conceptual-not-procedural.md) — a narrower finding that bears on this claim
 - [Prior knowledge strongly predicts post-test application and transfer scores in both topics](pretest-predicts-inquiry-outcomes.md) — a narrower finding that bears on this claim
+- [The relationship between learners' prior knowledge and the optimal instructional sequence may not be straightforward](prior-knowledge-sequence-relationship-not-straightforward.md) — related

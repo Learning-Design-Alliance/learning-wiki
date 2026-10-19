@@ -45,3 +45,4 @@ Multi-group analysis after partial MICOM measurement invariance across the three
 
 ## Related Claims
 - [Measurement invariance across gender is supported, but full structural equivalence is rejected, with differences localized to transformational-leadership paths](measurement-invariance-gender-structural-equivalence-rejected.md) — related
+- [The ToM–achievement association is significantly weaker in European samples than in Asian and North American samples](european-samples-weaker-tom-achievement-link.md) — related

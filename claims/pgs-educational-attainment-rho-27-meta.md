@@ -1,0 +1,46 @@
+---
+type: claim
+title: Polygenic scores based on the Lee et al. (2018) GWAS show a meta-analytic association of ρ = 0.27 with educational attainment
+description: Polygenic scores based on the Lee et al.
+id: pgs-educational-attainment-rho-27-meta
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-19
+evidence_strength: strong
+sources:
+  - id: wilding-2024
+    resource: "https://doi.org/10.1007/s10648-024-09928-4"
+    title: "Wilding, K., Wright, M., & von Stumm, S. (2024). Using DNA to Predict Education: a Meta-analytic Review. Educational Psychology Review. https://doi.org/10.1007/s10648-024-09928-4"
+    author: "Wilding, K., Wright, M., & von Stumm, S."
+    q: 4
+    i: 2
+    kind: quant-synthesis
+    rigour: 2
+---
+
+# Polygenic scores based on the Lee et al. (2018) GWAS show a meta-analytic association of ρ = 0.27 with educational attainment
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · quant-synthesis `r2` · `q4` · `i2` medium
+
+## Subclaims
+`q4 i2` Across 20 estimates from 16 samples, polygenic scores are positively associated with educational attainment with a pooled ρ = 0.27 (95% CI 0.22–0.32). [→ Wilding 2024](#wilding-2024)
+
+## Evidence
+
+### Wilding 2024
+
+Wilding, K., Wright, M., & von Stumm, S. (2024). Using DNA to Predict Education: a Meta-analytic Review. Educational Psychology Review. https://doi.org/10.1007/s10648-024-09928-4
+
+`q4 · i2` · `quant-synthesis · r2`
+
+Preregistered three-level multilevel meta-analysis (metafor rma.mv) of studies reporting associations between polygenic scores from the Lee et al. (2018) GWAS and educational attainment; the pooled estimate was ρ = 0.27, p < 0.001, "reflecting a positive relation of large effect size".
+
+> "The meta-analytic association between polygenic scores and educational attainment was ρ = 0.27, p < 0.001 (95% CI from 0.22 to 0.32), reflecting a positive relation of large effect size"
+
+## Discussion
+
+
+## Related Claims
+-

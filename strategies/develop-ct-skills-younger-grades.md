@@ -42,6 +42,7 @@ The report recommends developing CT skills early: "In younger grades (K–3), st
 
 - [Design early learning (K-3) CT opportunities both plugged and unplugged, with devices leveraged where appropriate](plugged-and-unplugged-early-ct-skills.md)
 - [Integrate computational thinking into existing disciplinary teaching across grade bands rather than adding it on](integrate-ct-into-disciplinary-learning.md)
+- [Use a phased unplugged-to-plugged progression to build girls' CT confidence before introducing digital tools](phased-unplugged-to-plugged-progression.md)
 
 ## Examples
 -

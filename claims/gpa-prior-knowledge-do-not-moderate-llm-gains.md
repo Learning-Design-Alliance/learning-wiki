@@ -49,3 +49,4 @@ Interaction analyses in the randomized experiment testing whether conventional a
 - [AI Interaction Competence, not GPA or prior knowledge, is the decisive moderator of LLM-assisted learning gains](aic-moderates-llm-learning-gains.md) — related
 - [LLM-assisted self-study yields higher post-intervention exam performance than traditional resources among early-career knowledge workers](llm-self-study-beats-traditional-resources-exam-performance.md) — related
 - [Most reviewed studies reported significantly positive AI effects on STEM learning performance, with two null results](ai-positive-learning-performance-effects-two-nulls.md) — related
+- [Prior knowledge score did not significantly moderate the sequence effect within either experiment, though each experiment covered a restricted prior-knowledge range](prior-knowledge-not-significant-moderator-within-experiments.md) — related

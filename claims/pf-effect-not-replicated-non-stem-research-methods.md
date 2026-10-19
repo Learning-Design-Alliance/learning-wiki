@@ -50,3 +50,4 @@ The authors' two quasi-experimental studies with 212 and 152 10th graders, condu
 - [Students who generated their own solutions or observed the full process did not significantly outperform students who only viewed the outcomes of failed solution attempts on conceptual knowledge](pf-vf-process-not-superior-to-vf-outcome.md) — related
 - [Observing the complete problem-solving-and-failing process (VF-process) was more effective for conceptual knowledge acquisition than generating one's own failed solutions (PF) prior to instruction](vf-process-outperforms-pf-conceptual-knowledge.md) — related
 - [PF students outperformed direct-instruction students on conceptual understanding and transfer without compromising procedural fluency](pf-outperformed-di-variance-conceptual-transfer.md) — reports the opposite
+- [Productive failure before instruction outperforms instruction followed by problem-solving](productive-failure-before-instruction-strong-effect.md) — related

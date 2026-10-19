@@ -12,7 +12,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 137 claims (79 show a difference, 39 mixed, 16 no difference, 3 unmarked) · 106 studies (32 causal, 22 review, 15 associational, 13 theoretical, 8 quant-synthesis, 8 qualitative, 8 design), `q1`–`q4` · 18 of 106 report an effect size · 122 claims rest on one study
+> **Evidence** · 141 claims (80 show a difference, 41 mixed, 17 no difference, 3 unmarked) · 109 studies (34 causal, 22 review, 15 associational, 14 theoretical, 8 quant-synthesis, 8 qualitative, 8 design), `q1`–`q4` · 18 of 109 report an effect size · 126 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -184,6 +184,10 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [Pretest accuracy moderated the training effect for typical full-fledged arguments: students with high pretest scores benefited most](../claims/pretest-accuracy-moderates-typical-argument-training.md) [+M] — an instructional effect differs with it
 - [Prior knowledge, but not interest or estimated prior knowledge, predicts use of learner control options](../claims/prior-knowledge-predicts-interactive-behavior.md) [+M] — learners who differ on it differ in outcomes
 - [University students without qualitative-reasoning experience improved their Cerrado ecology domain knowledge after interacting with VISIGARP](../claims/visigarp-domain-knowledge-gains.md) [+W] — instruction changes it
+- [Prior knowledge score did not significantly moderate the sequence effect within either experiment, though each experiment covered a restricted prior-knowledge range](../claims/prior-knowledge-not-significant-moderator-within-experiments.md) [-M] — an instructional effect differs with it
+- [The effect of mathematics test practice varies across prior-achievement levels, with significant effects at intermediate-to-high levels (levels 3 and 4) but not at the lowest or highest](../claims/practice-effect-varies-by-prior-achievement.md) [~M] — an instructional effect differs with it
+- [The expertise reversal effect reflects the strength of experts' knowledge base resisting redundant external information, and a motivation-related form is predicted](../claims/expertise-reversal-evolutionary-interpretation.md) [+W] — an instructional effect differs with it
+- [The relationship between learners' prior knowledge and the optimal instructional sequence may not be straightforward](../claims/prior-knowledge-sequence-relationship-not-straightforward.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]
