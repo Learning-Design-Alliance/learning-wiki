@@ -104,7 +104,7 @@ A shared metalanguage converts tacit design intuitions into discussable, revisab
 - Serafini, F. (2014). *Reading the Visual: An Introduction to Teaching Multimodal Literacy*. Teachers College Press.
 - Mayer, R. E. (2014). Cognitive theory of multimedia learning. In R. E. Mayer (Ed.), *The Cambridge Handbook of Multimedia Learning* (2nd ed., pp. 43–71). Cambridge University Press. [doi:10.1017/CBO9781139547369.005](https://doi.org/10.1017/CBO9781139547369.005)
 - Bezemer, J., & Kress, G. (2008). Writing in multimodal texts: A social semiotic account of designs for learning. *Written Communication, 25*(2), 166–195. [doi:10.1177/0741088307313177](https://doi.org/10.1177/0741088307313177)
-- Paivio, A. (1986). *Mental Representations: A Dual Coding Approach*. Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)
+- Paivio, A. (1990). *Mental Representations: A Dual Coding Approach*. Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)
 
 <!-- merged 2026-10-13 from strategies/creating_a_common_language_for_multimodal_composition ("Creating a Common Language for Multimodal Composition"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 
@@ -169,5 +169,5 @@ Shared terminology reduces the working-memory and communication costs of peer ta
 - New London Group. (1996). A pedagogy of multiliteracies: Designing social futures. *Harvard Educational Review, 66*(1), 60–92. [doi:10.17763/haer.66.1.17370n67v22j160u](https://doi.org/10.17763/haer.66.1.17370n67v22j160u)
 - Bezemer, J., & Kress, G. (2008). Writing in multimodal texts: A social semiotic account of designs for learning. *Written Communication, 25*(2), 166–195. [doi:10.1177/0741088307313177](https://doi.org/10.1177/0741088307313177)
 - Serafini, F. (2014). *Reading the Visual: An Introduction to Teaching Multimodal Literacy*. Teachers College Press.
-- Paivio, A. (1986). *Mental Representations: A Dual Coding Approach*. Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)
+- Paivio, A. (1990). *Mental Representations: A Dual Coding Approach*. Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)
 -->

@@ -10,7 +10,7 @@ generated:
 evidence_strength: weak
 sources:
   - id: allensworth-2020
-    resource: "https://consortium.uchicago.edu/publications/high-school-GPAs-and-ACT-scores-as-predictors-of-college-completion-er-article"
+    resource: "https://doi.org/10.3102/0013189x20902110"
     title: "Allensworth, E. M., & Clark, K. (2020). High school GPAs and ACT scores as predictors of college completion: Examining assumptions about consistency across high schools. Educational Researcher, 49(3), 198-211. [doi:10.3102/0013189x20902110](https://doi.org/10.3102/0013189x20902110) https://consortium.uchicago.edu/publications/high-school-GPAs-and-ACT-scores-as-predictors-of-college-completion-er-article"
     author: "Allensworth, E. M., & Clark, K."
     q: 1

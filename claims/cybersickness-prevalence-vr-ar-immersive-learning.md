@@ -18,7 +18,7 @@ sources:
     kind: review
     rigour: "?"
   - id: ross-2025-2
-    resource: "https://orcid.org/0000-0002-5092-6798"
+    resource: "https://doi.org/10.31234/osf.io/e6smh_v1"
     title: "Ross, M., & Kaspar, K. (2026). Learning with pedagogical agents in extended reality: A conceptual research-based framework of agent-centered learning in immersive media environments (ACLIME). https://orcid.org/0000-0002-5092-6798 [doi:10.31234/osf.io/e6smh_v1](https://doi.org/10.31234/osf.io/e6smh_v1)"
     author: "Ross, M., & Kaspar, K."
     q: 2

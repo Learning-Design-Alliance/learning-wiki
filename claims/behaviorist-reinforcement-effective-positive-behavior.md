@@ -45,7 +45,7 @@ The review reports, citing John Dawning, Tedd Keating and Karl Bennett (2005), t
 
 ## Related Claims
 
-- [Planned contingency-of-reinforcement designs can raise academic achievement above normal classroom levels across a wide range of children](contingency-reinforcement-raises-achievement.md) — the general claim this finding bears on, with the studies behind it
+- Planned contingency-of-reinforcement designs can raise academic achievement above normal classroom levels across a wide range of children — the general claim this finding bears on, with the studies behind it
 - Behaviorism holds that the mind does not help a person acquire knowledge; learning is driven by the external environment — related
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — reports the opposite
 - [Positive Greetings At The Door Improve Engagement](positive-greetings-at-the-door-improve-engagement.md) — related

@@ -18,7 +18,7 @@ sources:
     kind: design
     rigour: 3
   - id: corcoran-2003-2
-    resource: "https://eric.ed.gov/?id=ED480404"
+    resource: "https://doi.org/10.1037/e383112004-001"
     title: "Corcoran, Tom. (2003). The Merck Institute for Science Education: A Successful Intermediary for Education Reform. CPRE Research Report Series RR-052. https://eric.ed.gov/?id=ED480404 [doi:10.1037/e383112004-001](https://doi.org/10.1037/e383112004-001)"
     author: Corcoran, Tom
     q: 2

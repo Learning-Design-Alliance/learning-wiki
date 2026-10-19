@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 31 claims (13 for, 16 mixed, 2 against) · 41 studies (15 causal, 11 review, 10 quant-synthesis, 3 associational, 1 design, 1 theoretical), `q1`–`q4` · 9 of 41 report an effect size · 23 claims rest on one study
+> **Evidence** · 30 claims (12 for, 16 mixed, 2 against) · 40 studies (15 causal, 10 quant-synthesis, 10 review, 3 associational, 1 design, 1 theoretical), `q1`–`q4` · 9 of 40 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 
@@ -125,7 +125,7 @@ Claims read against this model that do not change it. Each says what it is and w
 
 - [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+M] — (not about this page) two randomised brief belonging interventions at entry to college (92 students; 26,911 students at 22 institutions), which reframe doubts about belonging; the earlier page cited it for team and community mechanics, but neither study involves game mechanics.
 - [Game-based vocabulary practice produced larger gains than traditional instruction for newly arrived migrant children.](../claims/game-based-practice-outperforms-traditional-l2-vocabulary-instruction.md) [+W] — 48 Ukrainian children aged 6–7, Kahoot! and outdoor games against traditional teaching over four weeks (171.9 against 139.3 words, no standardised effect size); confounds format, novelty, competition and being outdoors, and is a game used as the activity rather than a layer added to practice. Belongs mainly to [Game-based Learning](game-based-learning.md); too confounded to support the child row.
-- [Planned contingency-of-reinforcement designs can raise academic achievement above normal classroom levels across a wide range of children](../claims/contingency-reinforcement-raises-achievement.md) [+W] — a 1970 narrative survey of behaviour-modification studies, no effect sizes; the behaviourist side of the reward question. It does not separate rewards for accuracy from rewards for activity and does not test later free-choice engagement, so it does not change step 2.
+- Planned contingency-of-reinforcement designs can raise academic achievement above normal classroom levels across a wide range of children [+W] — a 1970 narrative survey of behaviour-modification studies, no effect sizes; the behaviourist side of the reward question. It does not separate rewards for accuracy from rewards for activity and does not test later free-choice engagement, so it does not change step 2.
 
 ## Objective and learner-valued goal
 

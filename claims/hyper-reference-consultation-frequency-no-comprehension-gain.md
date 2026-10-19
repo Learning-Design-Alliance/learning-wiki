@@ -44,4 +44,4 @@ The dissertation reports, citing Aust, Kelley and Roby (1993), a study of 80 fif
 
 ## Related Claims
 - [Earlier meta-analyses, as reported second-hand, find that glosses improve L2 vocabulary learning and that text-and-picture glosses outperform single-mode glosses](glossing-medium-large-effects-l2-vocabulary.md) — related
-- [Mobile language learning apps are used mainly for vocabulary learning among surveyed app users](mall-vocabulary-most-supported-skill.md) — related
+- Mobile language learning apps are used mainly for vocabulary learning among surveyed app users — related

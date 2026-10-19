@@ -44,7 +44,7 @@ Experiment with 191 fifth-grade children randomly assigned to Control, Immediate
 
 ## Related Claims
 
-- [Planned contingency-of-reinforcement designs can raise academic achievement above normal classroom levels across a wide range of children](contingency-reinforcement-raises-achievement.md) — the general claim this finding bears on, with the studies behind it
+- Planned contingency-of-reinforcement designs can raise academic achievement above normal classroom levels across a wide range of children — the general claim this finding bears on, with the studies behind it
 
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — the general claim this finding bears on, with the studies behind it
 - [Rewarding only 'good' ideas in a final task produced no incentive effect, but this condition was confounded and excluded from the main analysis](good-idea-reward-no-incentive-effect.md) — related

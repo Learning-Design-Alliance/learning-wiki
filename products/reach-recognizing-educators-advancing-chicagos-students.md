@@ -30,7 +30,7 @@ sources:
 # REACH (Recognizing Educators Advancing Chicago's Students)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 32 claims (19 for, 9 mixed, 4 against) · 11 studies (9 associational, 1 design, 1 theoretical), `q1`–`q3` · 0 of 11 report an effect size · 28 claims rest on one study
+> **Evidence** · 32 claims (19 for, 9 mixed, 4 against) · 10 studies (8 associational, 1 design, 1 theoretical), `q1`–`q3` · 0 of 10 report an effect size · 28 claims rest on one study
 
 ## Description
 REACH is Chicago Public Schools' teacher-evaluation programme combining classroom observations using a modified Danielson Framework rubric with student-growth measures and evaluator certification.

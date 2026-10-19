@@ -43,5 +43,5 @@ Quasi-d statistics were created by transforming ARIMA t values from six field st
 
 ## Related Claims
 
-- [Planned contingency-of-reinforcement designs can raise academic achievement above normal classroom levels across a wide range of children](contingency-reinforcement-raises-achievement.md) — the general claim this finding bears on, with the studies behind it
+- Planned contingency-of-reinforcement designs can raise academic achievement above normal classroom levels across a wide range of children — the general claim this finding bears on, with the studies behind it
 - [Variance terms in multi-armed RCT estimators need slight adjustment under the finite-population framework, which can reduce precision](variance-adjustment-reduces-precision-multi-armed.md) — related

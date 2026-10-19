@@ -46,4 +46,4 @@ Coding of spontaneous spatial/hierarchical content in answers to open-ended adde
 - [Adding a teachable agent to the standard science curriculum improved fourth-graders' learning gains on both curriculum tests and researcher-designed hierarchical reasoning tests](ta-improves-basic-and-added-value-gains-fourth-grade.md) — a broader claim this one bears on
 - [A hierarchical internal knowledge organization facilitates performance on complex recall and problem-solving tasks more than a single-level organization of the same knowledge](hierarchical-organization-improves-complex-task-performance.md) — a broader claim this one bears on
 - [Information at higher levels of an acquired hierarchical organization is recalled better than information at lower levels](higher-hierarchy-levels-recalled-better.md) — related
-- [Free-response LOA techniques produce high non-response rates because many respondents answer in non-hierarchical or uncodable terms](free-response-loa-high-nonresponse.md) — related
+- Free-response LOA techniques produce high non-response rates because many respondents answer in non-hierarchical or uncodable terms — related
