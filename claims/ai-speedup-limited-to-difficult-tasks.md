@@ -47,6 +47,6 @@ In the completion-sample analysis, "task completion with AI assistance was faste
 
 ## Related Claims
 - [AI assistance reduces subjective mental effort across all tasks even when it does not reduce completion time, dissociating time and effort](ai-effort-reduction-time-effort-dissociation.md) — related
-- [People significantly underestimate AI-assisted completion times even though actual AI-assisted and independent completion times do not differ (the speedup illusion)](speedup-illusion-ai-assisted-time-underestimation.md) — related
+- [People significantly underestimate AI-assisted completion times on simple cognitive tasks, even though AI assistance saves little or no actual time (the speedup illusion)](speedup-illusion-ai-assisted-time-underestimation.md) — related
 - [No AI participants spent roughly 1.5 times as long on the assessment as AI-Assisted participants, descriptively reported as a marker of offloading](no-ai-longer-time-on-task-descriptive.md) — related
 - [AI assistance provides no significant overall time savings and can slow completion on easy task variants, with chat-interface friction (prompting time) dominating on trivial tasks](ai-no-efficiency-gain-simple-tasks.md) — related

@@ -44,4 +44,4 @@ Interview-based counterstory analysis. Katia used Spanish to comprehend problems
 
 ## Related Claims
 - [Fluent bilingualism is linked to metalinguistic awareness of how the two languages relate](bilingual-fluency-enhances-metalinguistic-awareness.md) — related
-- [Cross-linguistic transfer is skill-specific: phonological awareness and print concepts transfer across languages, vocabulary and comprehension do not](cross-linguistic-transfer-skill-specific.md) — related
+- [Cross-linguistic transfer is skill-specific: phonological awareness and print concepts are more likely to transfer across languages, while vocabulary and comprehension are more language-dependent](cross-linguistic-transfer-skill-specific.md) — related

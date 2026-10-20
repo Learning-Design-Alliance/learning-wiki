@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Higher teacher-student conflict is associated with lower metacognitive skills, while closeness is positively associated with metacognition in upper elementary school
-description: Higher teacher-student conflict is associated with lower metacognitive skills, while closeness is positively associated with metacognition in upper elementary school
+title: Higher teacher-student conflict is associated with lower levels of specific metacognitive skills, while closeness is positively associated with metacognition in upper elementary school
+description: Higher teacher-student conflict is associated with lower levels of specific metacognitive skills, while closeness is positively associated with metacognition in upper elementary school
 id: dyadic-conflict-lower-metacognition
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 2
 ---
 
-# Higher teacher-student conflict is associated with lower metacognitive skills, while closeness is positively associated with metacognition in upper elementary school
+# Higher teacher-student conflict is associated with lower levels of specific metacognitive skills, while closeness is positively associated with metacognition in upper elementary school
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
-`q2 i?` Students with higher conflict in their teacher relationships displayed lower levels of metacognition such as independent participation and task-orientation, while closer relationships were associated with better metacognitive abilities. [→ Niels J. de Ruig 2023](#niels-j-de-ruig-2023)
+`q2 i?` Students with higher conflict in their teacher relationships displayed lower levels of specific metacognitive skills (independent participation, task-orientation), while closer relationships were associated with better metacognitive abilities; in one of the two studies, students' own perception of conflict was not associated with their overall metacognition. [→ Niels J. de Ruig 2023](#niels-j-de-ruig-2023)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Niels J. de Ruig, Peter F. de Jong, Marjolein Zee. (2023). Stimulating Elementar
 
 `q2 · i?` · `review · r2`
 
-Two cross-sectional studies in grades 3-6 within the review's metacognition set (N range 106-996). The review separately reports student-perceived closeness r = .37 versus teacher-perceived closeness r = .36 with independent participation (Huang, 2010); no effect size is printed in the quoted conflict finding itself.
+Two cross-sectional studies in grades 3-6 (Huang 2010; Zee & de Bree 2017; mean 388 students, range 370-407), part of the review's seven metacognition studies (N range 106-996). The review notes that in Zee & de Bree (2017) students' self-reported conflict was not associated with their overall metacognition, so the conflict finding holds for specific skills. The review separately reports student-perceived closeness r = .37 versus teacher-perceived closeness r = .36 with independent participation (Huang, 2010); no effect size is printed in the quoted conflict finding itself.
 
 > "Furthermore, both studies reported that students with higher levels of conflict in the relationship with their teachers were more likely to display lower levels of metacognition, such as independent participation (i.e., independent, self-directed behavior in the classroom; Huang, 2010) and task-orientation (Zee & de Bree, 2017)."
 

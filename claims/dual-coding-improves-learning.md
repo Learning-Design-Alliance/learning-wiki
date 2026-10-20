@@ -114,8 +114,8 @@ The experiments tested whether pictures are remembered better than words because
 | Alty 2002 | q3 · causal · r? | i? | [In one 37-student classroom experiment, recall and retention differ across media combinati](media-combinations-affect-recall-and-retention.md) (supports) |
 | [Restrepo Ramos 2015](https://doi.org/10.15446/profile.v17n1.43957) | q2 · review · r2 | i? | [Combining textual and pictorial glosses improves incidental vocabulary learning more than ](multimodal-glosses-improve-incidental-vocabulary-learning.md) (supports) |
 | Ceballos & Nutta 2022 | q2 · review · r2 | i? | [A practice article reports that the studies it cites found better post-test outcomes from ](multimedia-principle-words-and-pictures-outcomes.md) (supports) |
-| [Nesbit & Adesope 2006](https://doi.org/10.3102/00346543076003413) | q4 · quant-synthesis · r2 | i2 · medium effect, g=0.60 overall (0.37 for studying maps) | [Graphic Organizers Support Novice Comprehension](graphic-organizers-support-novice-comprehension.md) (qualifies) |
-| [Schroeder et al. 2018](https://doi.org/10.1007/s10648-017-9403-9) | q4 · quant-synthesis · r? | i2 · medium effect, g=0.58 | [Graphic Organizers Support Novice Comprehension](graphic-organizers-support-novice-comprehension.md) (qualifies) |
+| [Nesbit & Adesope 2006](https://doi.org/10.3102/00346543076003413) | q4 · quant-synthesis · r2 | i2 · medium effect, g=0.60 overall (0.37 for studying maps) | [Graphic organizers such as concept maps improve comprehension and retention with a medium ](graphic-organizers-support-novice-comprehension.md) (qualifies) |
+| [Schroeder et al. 2018](https://doi.org/10.1007/s10648-017-9403-9) | q4 · quant-synthesis · r? | i2 · medium effect, g=0.58 | [Graphic organizers such as concept maps improve comprehension and retention with a medium ](graphic-organizers-support-novice-comprehension.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

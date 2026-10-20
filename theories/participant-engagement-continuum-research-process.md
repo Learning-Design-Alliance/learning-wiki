@@ -37,7 +37,7 @@ The brief conceptualizes how study participants and community members are involv
 
 ### Claims
 
-- [Brief 1–2 day training moved participants from Stage 0–1 toward Stage 1–2, while sustained courses supported progression toward Stages 3–4 (observational)](../claims/ncstate-brief-training-stage-movement.md) [+W]
+- [After brief 1–2 day training, participants showed behaviors consistent with movement from Stage 0–1 toward Stage 1–2, and sustained courses were associated with Stage 3–4 behaviors (observational; no pre/post measure or comparison group)](../claims/ncstate-brief-training-stage-movement.md) [+W]
 
 ## Related Theories
 

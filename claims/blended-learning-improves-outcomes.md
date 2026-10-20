@@ -71,7 +71,7 @@ A meta-analysis (part of a US Department of Education-commissioned review) synth
 
 - [In a low-certainty meta-analysis of 44 studies with very high heterogeneity (I² = 98%), undergraduate health professional students in flipped classes score higher than those in traditional classes (SMD = 0.57)](flipped-classroom-improves-academic-performance-hpe.md) — the general claim this finding bears on, with the studies behind it
 
-- [Grades are lower both for courses taken online and in future courses](online-course-lower-grades-current-and-future.md) — the general claim this finding bears on, with the studies behind it
+- [For college students who can choose between online and in-person sections, taking a course online lowers grades both in that course and in future courses](online-course-lower-grades-current-and-future.md) — the general claim this finding bears on, with the studies behind it
 
 - [Adaptive learning improves outcomes.](adaptive-learning-improves-outcomes.md) — adaptive online components are a common mechanism proposed for blended designs
 - [Active learning improves exam performance.](active-learning-improves-exam-performance.md) — freed-up face-to-face time in blended models is often spent on active learning

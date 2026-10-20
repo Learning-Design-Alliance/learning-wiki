@@ -47,4 +47,4 @@ Secondary regression analysis replacing the composite child health index with it
 
 ## Related Claims
 - [A cumulative risk index and nonverbal IQ together account for 31% of variance in reading readiness at school entry](cumulative-risk-iq-31-percent-reading-readiness.md) — a broader claim this one bears on
-- [Home literacy environment and child health predict reading readiness at school entry, with socioeconomic status effects mediated by home literacy environment](hle-child-health-predict-reading-readiness.md) — a broader claim this one bears on
+- [Home literacy environment and child health predict reading readiness at school entry, and socioeconomic status stops being a significant predictor once home literacy environment is entered (suggestive of mediation, not tested)](hle-child-health-predict-reading-readiness.md) — a broader claim this one bears on

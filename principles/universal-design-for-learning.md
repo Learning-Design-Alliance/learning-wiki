@@ -151,7 +151,7 @@ The expectation should weaken if comparisons of a design with several routes aga
 ## Claims
 
 - [Educators' adaptations of the modified Hero Elementary resources, including accommodations and modifications, provided students with greater access to the virtual learning content](../claims/educator-adaptations-greater-access-virtual-content.md) [+W]
-- [Animated videos were the easiest and most engaging Hero Elementary component to implement virtually, providing an accessible shared entry point for students with IEPs and English learners](../claims/animated-videos-easiest-engaging-virtual-component.md) [+W]
+- [Teachers found the animated videos the easiest Hero Elementary component to implement virtually and fun and engaging for students, and described them as an equal, shared platform for students with IEPs and English learners](../claims/animated-videos-easiest-engaging-virtual-component.md) [+W]
 - [Educators' understanding of UDL shifted from a static framework to a dynamic way of thinking emphasizing moment-to-moment responsiveness to students' access needs](../claims/udl-reconceived-moment-to-moment-responsiveness.md) [~W]
 
 ## Related Principles

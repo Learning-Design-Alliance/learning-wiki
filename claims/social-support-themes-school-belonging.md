@@ -49,5 +49,5 @@ Systematic review phase of the meta-analysis, identifying the ten themes includi
 ## Related Claims
 - [Contextual themes (extracurricular activities, environmental/school safety) are associated with school belonging](contextual-themes-school-belonging.md) — related
 - [Individual-difference themes (academic motivation, emotional stability, gender, race and ethnicity) are associated with school belonging](individual-difference-themes-school-belonging.md) — related
-- [Teacher support is the strongest predictor of school belonging](teacher-support-strongest-predictor-school-belonging.md) — related
+- [Teacher support is among the strongest predictors of school belonging](teacher-support-strongest-predictor-school-belonging.md) — related
 - [Positive personal characteristics are among the strongest predictors of school belonging](personal-characteristics-strong-predictor-school-belonging.md) — related

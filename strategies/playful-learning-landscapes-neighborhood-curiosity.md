@@ -41,7 +41,7 @@ The authors recommend community-based interventions that transform everyday neig
 
 ## Claims
 
-- [Living in a very safe neighborhood eliminates the curiosity gap between lower-resourced and higher-resourced children](../claims/very-safe-neighborhood-closes-curiosity-gap.md) [+W]
+- [In very safe neighborhoods, curiosity does not differ between lower-resourced and higher-resourced children, while a gap appears in fairly safe neighborhoods](../claims/very-safe-neighborhood-closes-curiosity-gap.md) [+W]
 - [Living in a very safe neighborhood is associated with higher kindergarten curiosity, but only for lower- and middle-resourced children](../claims/very-safe-neighborhood-higher-curiosity-lower-middle-ses.md) [+W]
 - [Communities and neighborhoods rich in social networks have lower rates of crime, delinquency, and child abuse](../claims/community-social-networks-lower-problem-rates.md) [+W]
 

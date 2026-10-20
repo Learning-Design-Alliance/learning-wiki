@@ -66,7 +66,7 @@ Number sense is a learner's grasp of how large numbers are and how they relate t
 - [Symbolic approximate addition is predicted by nonsymbolic number line estimation, the VSSP and the CE, consistent with transcoding to the nonsymbolic code](../claims/transcoding-in-symbolic-approximate-addition.md) [+M] — learners who differ on it differ in outcomes
 - [Symbolic exact addition is predicted by symbolic number line representation and the phonological loop, reflecting phonological storage of numerical information](../claims/phonological-storage-symbolic-exact-addition.md) [+M] — learners who differ on it differ in outcomes
 - [Symbolic number comparison accuracy is the only number sense measure with a significant partial correlation with math](../claims/symbolic-comparison-partial-correlation-math.md) [+M] — learners who differ on it differ in outcomes
-- [Symbolic numerical magnitude comparison contributes more uniquely to subtraction performance than number line estimation](../claims/magnitude-comparison-more-unique-than-number-line.md) [+M] — learners who differ on it differ in outcomes
+- [Symbolic numerical magnitude comparison has a more unique association than number line estimation with children's speed on indirect-addition subtraction items](../claims/magnitude-comparison-more-unique-than-number-line.md) [+M] — learners who differ on it differ in outcomes
 - [Symbolic numerical magnitude processing is a powerful unique predictor of arithmetic fact retrieval](../claims/symbolic-nmp-strong-predictor-fact-retrieval.md) [+M] — learners who differ on it differ in outcomes
 - [Symbols-only training improved kindergarteners' performance on difficult place value items, but base-10 blocks training did not](../claims/symbols-only-training-improves-difficult-items.md) [~M] — instruction changes it
 - [The association between numerical magnitude processing and subtraction is more prominent for items eliciting indirect addition than for direct subtraction items](../claims/magnitude-processing-stronger-indirect-addition-items.md) [~M] — learners who differ on it differ in outcomes
@@ -104,7 +104,7 @@ Number sense is a learner's grasp of how large numbers are and how they relate t
 - [The association between one-digit comparison and mathematics achievement decreases across grades, while the two-digit association remains stable](../claims/one-digit-math-association-decreases-with-grade.md) [~M] — learners who differ on it differ in outcomes
 - [The authors hypothesize DD children's first deficit is dysfunction in building the exact representation of symbolic numbers, with reduced ANS acuity as a consequence rather than a cause](../claims/dd-first-deficit-exact-representation-ans-secondary.md) [+W] — learners who differ on it differ in outcomes
 - [Training effects on the non-symbolic number line are size-specific: non-symbolic training improves large numerosities, symbolic training small numerosities](../claims/number-line-training-size-specific-effects.md) [~M] — instruction changes it
-- [Typically achieving children outperform children with mathematical learning difficulties on both SYMP subtests in all grades except Grade 6](../claims/symp-mld-lower-except-grade-6.md) [~M] — instruction changes it
+- [Typically achieving children outperform children with mathematical learning difficulties on the SYMP one-digit subtest in Grades 1–5 and the two-digit subtest in Grades 2–5, but not in Grade 6](../claims/symp-mld-lower-except-grade-6.md) [~M] — instruction changes it
 
 ## Related Learner Variables
 

@@ -43,7 +43,7 @@ The review commits to outlining potential strategies and technological intervent
 - [Over-reliance on AI dialogue systems reduces students' critical and analytical thinking skills, especially when they become overly dependent on AI-generated content](../claims/overreliance-ai-dialogue-reduces-critical-analytical-thinking.md) [+W]
 - [Excessive dependence on AI may reduce human interaction and dehumanize adult education](../claims/over-reliance-ai-reduces-human-interaction.md) [+W]
 - [Over-reliance on AI scaffolding risks learned helplessness, so focus should shift to fostering self-regulated AI interaction](../claims/ai-scaffolding-fading-learned-helplessness.md) [+W]
-- [Among 245 Indonesian undergraduates, majorities reported potential reduction of critical thinking when depending on AI (75%), excessive reliance risk (73%), misinformation (70%), unintentional plagiarism (69%) and algorithmic bias (40%)](../claims/malik-student-perceptions-ai-writing-percentages.md) [+W]
+- [Among 245 Indonesian undergraduates, majorities reported concern about reduced critical thinking when depending on AI (75%), excessive reliance (73%), misinformation (70%) and unintentional plagiarism (69%), and 40% about algorithmic bias](../claims/malik-student-perceptions-ai-writing-percentages.md) [+W]
 
 ## Related Strategies
 

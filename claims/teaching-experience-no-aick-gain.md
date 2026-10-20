@@ -42,12 +42,12 @@ Comparison of experienced (with teaching practice in an educational institution)
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does teachers' technology-integration knowledge rise with teaching experience, grade or age, or differ by gender?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **2 distinct studies** (2 associational), `q2`, 1 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does teachers' technology-integration knowledge rise with teaching experience, grade or age, or differ by gender?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **2 distinct studies** (2 associational), `q2`, 0 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Meijuan Xie 2025](https://doi.org/10.48550/arxiv.2503.13533) | q2 · associational · r? | i? | this claim; [AI-TPACK component scores show no significant differences across MTES grades, while self-e](no-grade-differences-in-aick.md) (supports) |
-| [Sutedjo A 2026](https://doi.org/10.3389/feduc.2026.1913310) | q2 · associational · r2 | i?; i2 | [Self-perceived TPACK-21 domain scores do not differ significantly by faculty age group or ](no-age-or-career-type-differences-tpack-genai.md) (supports); [Male faculty report modestly higher self-perceived GenAI knowledge than female faculty in ](gender-differences-technological-genai-knowledge-small-effects.md) (qualifies); [Faculty report high self-perceived knowledge in traditional TPACK domains but substantiall](faculty-high-traditional-low-technology-integrated-genai-knowledge.md) (qualifies) |
+| [Sutedjo A 2026](https://doi.org/10.3389/feduc.2026.1913310) | q2 · associational · r2 | i? | [Self-perceived TPACK-21 domain scores do not differ significantly by faculty age group or ](no-age-or-career-type-differences-tpack-genai.md) (supports); [Male faculty report modestly higher self-perceived GenAI knowledge than female faculty in ](gender-differences-technological-genai-knowledge-small-effects.md) (qualifies); [Faculty report high self-perceived knowledge in traditional TPACK domains but substantiall](faculty-high-traditional-low-technology-integrated-genai-knowledge.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

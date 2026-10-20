@@ -42,7 +42,7 @@ Before testing, instructors tell learners that upcoming tests will assess deeper
 
 ## Claims
 
-- [All seven situation-model interventions except self-explaining significantly improved relative metacomprehension accuracy](../claims/individual-interventions-effective-except-self-explaining.md) [+W]
+- [Five of seven situation-model interventions significantly improved relative metacomprehension accuracy, concept mapping only marginally (p = .097), and self-explaining not significantly](../claims/individual-interventions-effective-except-self-explaining.md) [+W]
 - [Intervention effects on relative metacomprehension accuracy did not differ between school and university students](../claims/intervention-effects-school-university-students-no-difference.md) [~W]
 - [Intervention types (cue-generation encoding-based, retrieval-based, cue-attention, cue-selection) do not substantially differ in effectiveness](../claims/intervention-types-no-substantial-difference.md) [~W]
 - [Situation-model-approach interventions also directly improved comprehension, albeit with a small effect](../claims/situation-model-interventions-improve-comprehension-small-effect.md) [+W]

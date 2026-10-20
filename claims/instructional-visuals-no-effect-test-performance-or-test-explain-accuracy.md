@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Instructional visuals did not affect test performance or test and explain relative metacomprehension accuracy
-description: Instructional visuals did not affect test performance or test and explain relative metacomprehension accuracy
+title: In Studies 1a and 2, instructional visuals produced no significant difference in test performance or in test and explain relative metacomprehension accuracy
+description: In Studies 1a and 2, instructional visuals produced no significant difference in test performance or in test and explain relative metacomprehension accuracy
 id: instructional-visuals-no-effect-test-performance-or-test-explain-accuracy
 status: review
 generated:
@@ -27,14 +27,14 @@ sources:
     rigour: 2
 ---
 
-# Instructional visuals did not affect test performance or test and explain relative metacomprehension accuracy
+# In Studies 1a and 2, instructional visuals produced no significant difference in test performance or in test and explain relative metacomprehension accuracy
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Mean test performance did not significantly differ between text-with-image and text-only conditions in Study 1a or Study 2. [→ Jaeger 2024](#jaeger-2024)
-`q3 i?` Test and explain relative accuracy did not significantly differ between conditions in either study. [→ Jaeger 2024 (2)](#jaeger-2024-2)
+`q3 i?` Test relative accuracy did not significantly differ between conditions in either study; explain relative accuracy showed only a marginal difference favouring text-only in Study 1a (p = 0.06) and none in Study 2. Non-significant differences do not show that visuals had no effect. [→ Jaeger 2024 (2)](#jaeger-2024-2)
 
 ## Evidence
 
@@ -44,7 +44,7 @@ Jaeger, A. J., & Fiorella, L. (2024). Metacognitive effects of instructional vis
 
 `q3 · i?` · `causal · r2`
 
-Study 1a online experiment with 163 undergraduates reading biology texts. Test performance was equivalent across conditions: "t(161) = 0.07, p = 0.95, d = 0.01". Study 2 similarly found no difference, t(46) = 0.21, p = 0.84, d = 0.06.
+Study 1a online experiment with 163 undergraduates reading biology texts. Test performance did not significantly differ between conditions (non-significant tests, not a test of equivalence): "t(161) = 0.07, p = 0.95, d = 0.01". Study 2 similarly found no difference, t(46) = 0.21, p = 0.84, d = 0.06.
 
 > "mean test performance did not significantly differ between the text-with-image and text-only conditions, t(161) = 0.07, p = 0.95, d = 0.01."
 

@@ -51,7 +51,7 @@ Hierarchical regression, 102 fourth graders: grammar explained syntactic complex
 ## Related Claims
 - [Inhibition and updating directly predict narrative text length in fourth graders over and above transcription and language skills](inhibition-updating-directly-predict-text-length.md) — related
 - [Planning shows no contribution to any level of narrative composition in fourth graders](planning-no-contribution-narrative-composition.md) — a narrower finding that bears on this claim
-- [Handwriting fluency mediates the relation between inhibition/updating and all narrative outcomes (text length, syntactic complexity, story content)](handwriting-fluency-mediates-ef-narrative-writing.md) — related
+- [In a cross-sectional path model of fourth graders, handwriting fluency statistically mediated the relation between inhibition/updating and all narrative outcomes (text length, syntactic complexity, story content)](handwriting-fluency-mediates-ef-narrative-writing.md) — related
 - [Transcription skills are not longitudinally predictive of syntactic complexity in the upper elementary grades, consistent with their declining influence as handwriting and spelling automatize](transcription-skills-decline-upper-grades.md) — related
 - [Sixth-grade syntactic complexity of narrative writing is predicted by fourth-grade oral grammar, inhibition, and planning in addition to initial syntactic complexity](oral-grammar-inhibition-planning-predict-later-syntactic-complexity.md) — reports the opposite
 - [Syntactic complexity of narrative writing increases significantly between fourth and sixth grade, while text length and story content do not](syntactic-complexity-develops-upper-elementary-not-length-content.md) — related

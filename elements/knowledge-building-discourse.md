@@ -65,7 +65,7 @@ Structured discourse deepens conceptual understanding because articulating and d
 - [Group meta-discourse in Knowledge Forum is associated with higher individual learning among university students](../claims/meta-discourse-groups-higher-individual-learning.md) [+W]
 - [Cross-class super notes in Knowledge Forum prompt rise-above syntheses and serve as an epistemic ladder supporting deeper understanding](../claims/super-notes-epistemic-ladder-cross-class-knowledge-building.md) [+W]
 - [The more skilled adult partners displayed skilled counterargument, evidence use, frequent questioning, and meta-talk about the discourse](../claims/skilled-partner-discourse-moves.md) [+W]
-- [At the discourse-act level, expression of uncertainty predicts more follow-up while community orientation predicts less, and notes lacking building-knowledge openness receive less follow-up](../claims/uncertainty-discourse-act-more-followup.md) [~W]
+- [At the discourse-act level, notes expressing uncertainty are associated with more follow-up and notes open on community orientation with less, and notes lacking building-knowledge openness receive less follow-up](../claims/uncertainty-discourse-act-more-followup.md) [~W]
 
 ## The evidence by question
 

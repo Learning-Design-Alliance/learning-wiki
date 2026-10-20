@@ -52,5 +52,5 @@ Post-interaction usability assessment in the validation experiment: 26 adults we
 - [Special-education practitioners rated AdaptED Stories as strongly usable, with a mean SUS score of 86.8 corresponding to an A grade](adapted-stories-high-sus-usability-practitioners.md) — related
 - [Participants identified children under 10 as the intended target group for the storytelling robot, significantly more than all other age groups](icub-storytelling-target-under-10-children.md) — related
 - [System usability was rated low in both conditions, with no significant difference between them](low-usability-both-conditions.md) — related
-- [The system receives a good average usability rating (SUS 69.7, grade B) but with wide individual variation attributed to UI consistency issues](photon-fusion-sus-good-but-variable-usability.md) — related
+- [The system receives a good average usability rating (SUS 69.7, grade B) but with wide individual variation, which the authors take to suggest UI consistency issues](photon-fusion-sus-good-but-variable-usability.md) — related
 - [Learner acceptance of AI simulations is generally high, with System Usability Scale scores of 61.6 to 78.56 and 72%-93% willingness to recommend](ai-simulation-high-learner-acceptance.md) — related

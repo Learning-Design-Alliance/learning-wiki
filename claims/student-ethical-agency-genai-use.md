@@ -65,7 +65,7 @@ The review reports, citing Barus et al. (2025), that the policy and training vac
 
 - Research on student voices on academic integrity in GenAI use is nascent and methodologically immature, with most instruments self-developed and all reviewed studies cross-sectional — related
 - Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs — related
-- [Engineering students treat GenAI as acceptable when it stimulates reflection but view directly copying outputs as cheating, leveraging its fallibility to prompt double-checking](genai-ethics-reflection-versus-copying-boundaries.md) — a narrower finding that bears on this claim
+- [In interviews with 25 engineering students at one Swedish university, students described GenAI as acceptable when it stimulates reflection and directly copying its outputs as cheating, and one used its fallibility as a prompt to double-check](genai-ethics-reflection-versus-copying-boundaries.md) — a narrower finding that bears on this claim
 - Practitioners hold near-universal commitments to human oversight and critical evaluation of AI outputs — related
 - Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs — related
 - [Panelists strongly agreed human oversight must remain central in academic decisions involving GenAI, with clear accountability assignments](human-oversight-central-genai-academic-decisions.md) — related

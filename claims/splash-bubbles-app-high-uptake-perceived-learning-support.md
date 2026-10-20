@@ -62,7 +62,7 @@ Survey ratings on a 1 (not very helpful) to 5 (very helpful) scale of app suppor
 
 
 ## Related Claims
-- [Families who used the app's features more extensively internalized its purpose and reported stronger changes in joint media engagement and science attitudes](deeper-app-use-linked-stronger-attitude-changes.md) — related
+- [In interviews, families who used the app's features more extensively seemed to have better internalized its purpose, and those who explored it most reported stronger self-reported changes in joint media engagement and science](deeper-app-use-linked-stronger-attitude-changes.md) — related
 - [Most families used the Activities section and rated it highly helpful, with many completing two or more activities](splash-bubbles-activities-section-high-ratings-multiple-completion.md) — a narrower finding that bears on this claim
 - [Families used multiple sections of the Splash and Bubbles for Parents app, with Dive In the most used and Let's Talk About It conversation starters rated most helpful within it](splash-bubbles-app-section-use-dive-in-conversation-starters.md) — a narrower finding that bears on this claim
 - [Families showed widespread variability in which Ocean Guide and Activities components they found most helpful, often citing child age and interest](splash-bubbles-app-section-variability-by-child-age-interest.md) — related

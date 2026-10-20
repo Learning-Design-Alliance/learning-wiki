@@ -49,6 +49,6 @@ ANOVA/Welch's tests across the four latent profiles of 416 L2 student writers. T
 ## Related Claims
 - [L2 student writers' writing achievement goals form four latent profiles: Low All Goals, Mastery High, Average All Goals, and High All Goals](four-l2-writing-achievement-goal-profiles-lpa.md) — related
 - [Students use strategies to regulate their own motivation and affect](students-regulate-motivation-affect-strategies.md) — a broader claim this one bears on
-- [Motivational profile membership significantly predicts self-efficacy, learning strategies, and behavioral engagement, with high-autonomous groups scoring higher](profiles-predict-self-efficacy-strategies-engagement.md) — related
+- [Adult learners' motivational profiles differ significantly in self-efficacy, learning strategies and behavioral engagement: the good-quality motivation group scores higher on all three, the high-quantity group on strategies and engagement only](profiles-predict-self-efficacy-strategies-engagement.md) — related
 - [The predictive effects of writing self-efficacy and motivation regulation strategies on writing achievement vary across achievement goal profiles and writing genre](profile-varying-predictive-effects-writing-achievement.md) — related
 - [The four achievement goal profiles differ significantly in all four dimensions of writing self-efficacy](goal-profiles-differ-writing-self-efficacy.md) — related

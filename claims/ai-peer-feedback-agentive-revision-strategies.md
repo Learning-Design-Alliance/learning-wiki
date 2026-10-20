@@ -40,7 +40,7 @@ Liu W (2026) AI-peer integrated feedback in second language writing classes: exp
 
 `q2 · i?` · `causal · r2`
 
-Qualitative analysis of interviews, reflective journals, and first versus revised drafts from 16 focal students per group, coded inductively. Control students predominantly confined themselves to direct correction or no correction; the experimental group showed a broader repertoire including substitution and addition, which the authors read as movement "beyond surface-level error fixing toward more substantive textual refinement".
+Qualitative analysis of interviews, reflective journals, and first versus revised drafts from 16 focal students per group; interviews and journals were coded inductively, and revision operations in the drafts were classified with Zhang and Hyland's (2018) six-category scheme. Control students predominantly confined themselves to direct correction or no correction; the experimental group showed a broader repertoire including substitution and addition, which the authors read as movement "beyond surface-level error fixing toward more substantive textual refinement".
 
 > "direct correction or no correction, while the experimental group students exhibited a broader repertoire, encompassing"
 

@@ -52,4 +52,4 @@ Multi-level model M2 (Table 4) on test anxiety in proctored and non-proctored on
 - [Students taking online and proctored online exams report higher test anxiety than students taking on-campus exams and non-proctored online exams](proctored-online-exams-increase-test-anxiety.md) — related
 - [Lack of study space and financial issues are associated with higher test anxiety in online exams, and reliable technology with lower](contextual-factors-increase-test-anxiety.md) — related
 - [Learning strategies relate to test anxiety: persistence positively, environmental structuring negatively, time management not significantly, and women report higher test anxiety](learning-strategies-test-anxiety-effects.md) — related
-- [Test anxiety is negatively related to exam performance, and proctoring does not moderate this relation](test-anxiety-negative-exam-performance.md) — related
+- [Test anxiety is negatively associated with exam performance, and no moderation by proctoring was detected](test-anxiety-negative-exam-performance.md) — related

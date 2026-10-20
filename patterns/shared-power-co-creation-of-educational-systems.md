@@ -111,7 +111,7 @@ Do not read participants' satisfaction as evidence that power was shared or that
 ## The evidence by question
 
 - *Does giving an excluded group a body with decision standing and a process redesigned around it sustain its participation and change what is decided, where outreach and gathering its views do not?* [In one participatory budgeting case, Latino immigrant participation lapsed under outreach with interpretation and was sustained only after the activity structure was redesigned](../claims/resolving-participation-double-bind-requires-redesigned-activity-structures.md) [+M]
-- *What keeps a co-created arrangement going after the pilot: handing facilitation over, embedding it in standing structures, or the people who championed it?* [After the Inclusive Innovation pilots, district-community teams sustained solutions through multi-level buy-in, implementation iteration, embedding in existing systems, and demonstrating benefits](../claims/inclusive-innovation-sustainability-factors.md) [+M]
+- *What keeps a co-created arrangement going after the pilot: handing facilitation over, embedding it in standing structures, or the people who championed it?* [Interviews after the Inclusive Innovation pilots identified multi-level buy-in, implementation iteration, embedding in existing systems, and demonstrating benefits as key lessons for sustaining district-community solutions](../claims/inclusive-innovation-sustainability-factors.md) [+M]
 
 ## Further evidence, not yet read against this model
 

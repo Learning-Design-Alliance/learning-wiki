@@ -51,6 +51,6 @@ PLS-SEM bootstrapped path analysis (5,000 subsamples) in the 434-teacher sample 
 - [Teachers' attitudes toward GenAI tools significantly predict their behavioural intention to integrate them](attitude-predicts-intention-genai.md) — related
 - [Behavioural intention to use GenAI tools significantly predicts in-service teachers' self-reported pedagogical digital competence for curriculum planning](bi-predicts-genai-digital-competence.md) — related
 - [Importance-performance mapping identifies behavioural intention as the strategic priority for raising teachers' GenAI digital competence](ipma-bi-strategic-priority-genai-competence.md) — related
-- [Teacher self-efficacy has its largest effect on perceived enjoyment of GenAI tools](self-efficacy-drives-perceived-enjoyment-genai.md) — related
+- [Teacher self-efficacy is most strongly associated with perceived enjoyment of GenAI tools](self-efficacy-drives-perceived-enjoyment-genai.md) — related
 - [Perceived usefulness and perceived ease of use of GenAI tools significantly predict teachers' attitudes and behavioural intention](usefulness-ease-predict-attitude-intention-genai.md) — related
 - [Performance expectancy, social influence, novelty value, and creative competence positively predict art and design students' behavioral intention to use T2I GenAI tools](pe-si-nv-cc-positive-predict-bi-t2i.md) — related

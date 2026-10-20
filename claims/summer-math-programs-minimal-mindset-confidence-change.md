@@ -47,7 +47,7 @@ The brief's key findings state that despite grade gains, "evidence of changes in
 
 ## Related Claims
 
-- [The growth mindset intervention reduced fixed-mindset beliefs among lower-achieving adolescents, with effects homogeneous across schools](growth-mindset-reduces-fixed-mindset-beliefs.md) — the general claim this finding bears on, with the studies behind it
+- [The growth mindset intervention reduced fixed-mindset beliefs among lower-achieving adolescents, with no significant variation in this effect detected across schools](growth-mindset-reduces-fixed-mindset-beliefs.md) — the general claim this finding bears on, with the studies behind it
 - [An NSF-funded replication of Math Corps operated in three new cities across summers 2017–2019 with independent evaluation](math-corps-nsf-funded-three-city-replication.md) — related
 - [Students in three summer math programs showed large improvements in grades the semester after the program](summer-math-programs-large-grade-improvements-next-semester.md) — related
 - [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](growth-mindset-improves-achievement.md) — related

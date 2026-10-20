@@ -70,7 +70,7 @@ A meta-analysis of the single-session expressive-writing literature (the paradig
 |---|---|---|---|
 | [Ramirez and Beilock 2011](https://doi.org/10.1126/science.1199427) | q3 · causal · r2 | i2 · medium effect, d=0.57 | this claim |
 | [O'Meara and Lovett 2026](https://doi.org/10.1080/10615806.2025.2552857) | q4 · quant-synthesis · r3 | i0 · negligible effect, r=.06 (n.s.) on performance after outlier removal; r=−.05/−.10 on anxiety | this claim |
-| [Conijn 2022](https://doi.org/10.1111/jcal.12651) | q2 · associational · r2 | i? | [Test anxiety is negatively related to exam performance, and proctoring does not moderate t](test-anxiety-negative-exam-performance.md) (qualifies) |
+| [Conijn 2022](https://doi.org/10.1111/jcal.12651) | q2 · associational · r2 | i? | [Test anxiety is negatively associated with exam performance, and no moderation by proctori](test-anxiety-negative-exam-performance.md) (qualifies) |
 | [Barroso et al. 2021](https://doi.org/10.1037/bul0000307) | q3 · quant-synthesis · r2 | i2 · medium effect, r=-.28 | [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28)](math-anxiety-degrades-performance.md) (qualifies) |
 | [Kircanski et al. 2012](https://doi.org/10.1177/0956797612443830) | q3 · causal · r2 | i2 · medium-to-large effect, d=0.64–0.85 at 1-week follow-up | [Emotion Labeling Improves Regulation](emotion-labeling-improves-regulation.md) (supports) |
 | [François PARLANT 2025](https://doi.org/10.35542/osf.io/bmh7k_v1) | q1 · theoretical · r2 | i? | [Micro-interventions work by targeting the cognitive appraisal sequence: altering primary a](micro-intervention-targets-cognitive-appraisal-sequence.md) (qualifies) |
@@ -93,7 +93,7 @@ A meta-analysis of the single-session expressive-writing literature (the paradig
 
 - [Students taking online and proctored online exams report higher test anxiety than students taking on-campus exams and non-proctored online exams](proctored-online-exams-increase-test-anxiety.md) — the general claim this finding bears on, with the studies behind it
 
-- [Test anxiety is negatively related to exam performance, and proctoring does not moderate this relation](test-anxiety-negative-exam-performance.md) — the general claim this finding bears on, with the studies behind it
+- [Test anxiety is negatively associated with exam performance, and no moderation by proctoring was detected](test-anxiety-negative-exam-performance.md) — the general claim this finding bears on, with the studies behind it
 
 - [Cognitive overload degrades learning.](cognitive-overload-degrades-learning.md) — the working-memory mechanism the writing intervention targets
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — another route to freeing capacity under load

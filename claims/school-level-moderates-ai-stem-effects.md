@@ -43,7 +43,7 @@ Subgroup analysis across school levels within the meta-analysis of 99 effect siz
 
 
 ## Related Claims
-- [AI-enabled personalized STEM education yields a medium-sized, statistically significant overall effect (g = 0.455) compared with traditional non-AI instruction in K-12 schools](ai-personalized-stem-overall-effect-g0455.md) — related
+- [AI-enabled personalized STEM education yields a statistically significant overall effect of g = 0.455, which its authors class as small, compared with traditional non-AI instruction in K-12 schools](ai-personalized-stem-overall-effect-g0455.md) — related
 - The effect of ChatGPT on learning performance is moderated by type of course, learning model, and duration, with problem-based learning and 4–8-week interventions showing the largest effects — related
 - [Subject significantly moderates effects, with AI-enabled personalized STEM education most effective in comprehensive courses (g = 2.161)](comprehensive-courses-largest-subject-effect.md) — related
 - [AR/VR tools show the largest effect among AI application types (g = 1.765), while ITS and personalized educational games show small effects](arvr-largest-effect-ai-application-type.md) — related

@@ -25,7 +25,7 @@ PROTO-TEG is a self-improving intelligent tutoring system for geometry that sele
 
 - [The acquired strategy-selection knowledge did not make PROTO-TEG more efficient in terms of student performance](../claims/proto-teg-self-improvement-no-student-performance-gain.md) [+M]
 - [An empirical experiment discovered applicability conditions for five of PROTO-TEG's nine didactic strategies](../claims/proto-teg-conditions-discovered-five-of-nine-strategies.md) [+M]
-- [System constraints have minimal effect on already-efficient task-selection strategies while strongly correcting inefficient ones](../claims/constraints-selectively-affect-inefficient-strategies.md) [+M]
+- [In simulated mastery learning, system constraints left most other task-selection strategies' overpractice stable while sharply reducing it under the outlier risk-averse strategy](../claims/constraints-selectively-affect-inefficient-strategies.md) [+M]
 
 ## Related Products and Programmes
 -

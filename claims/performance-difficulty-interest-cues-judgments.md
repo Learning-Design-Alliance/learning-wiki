@@ -50,4 +50,4 @@ The SEM results for the two creativity tasks showed "significant relationships b
 - [Perceived difficulty and task interest in Task 1 indirectly inform expectancy beliefs for Task 2](difficulty-interest-cues-subsequent-expectancy.md) — related
 - [Trait metacognitive awareness positively predicts perceived group performance while perceived task difficulty negatively predicts it](mai-and-task-difficulty-predict-perceived-group-performance.md) — related
 - [Perceived value of creativity informs judgments and expectancies primarily indirectly through task-specific variables, especially task interest](value-of-creativity-indirect-through-interest.md) — related
-- [Task interest remains stable across consecutive creativity tasks, driven directly by prior interest rather than mediated task experience](task-interest-stable-across-creativity-tasks.md) — related
+- [Task interest remains stable across consecutive creativity tasks: interest in one task is strongly and directly associated with interest in the next, with little mediation by task experience](task-interest-stable-across-creativity-tasks.md) — related

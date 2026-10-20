@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Specific processing speed measured in Grade 7 predicts mathematics achievement on the Grade 9 high school entrance examination two years later
-description: Specific processing speed measured in Grade 7 predicts mathematics achievement on the Grade 9 high school entrance examination two years later
+title: Specific processing speed measured at the start of Grade 7 predicts mathematics achievement on the high school entrance examination at the end of Grade 9
+description: Specific processing speed measured at the start of Grade 7 predicts mathematics achievement on the high school entrance examination at the end of Grade 9
 id: specific-processing-speed-predicts-grade9-entrance-exam-math
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 2
 ---
 
-# Specific processing speed measured in Grade 7 predicts mathematics achievement on the Grade 9 high school entrance examination two years later
+# Specific processing speed measured at the start of Grade 7 predicts mathematics achievement on the high school entrance examination at the end of Grade 9
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
@@ -35,7 +35,7 @@ Cheng Dazhi, Shi Kaihui, Wang Naiyi, Miao Xinyang, Zhou Xinlin. (2022). Examinin
 
 `q2 · i?` · `associational · r2`
 
-Longitudinal follow-up regression: cognitive tests administered at the start of Grade 7 predicted high school entrance examination mathematics at the end of Grade 9, after controlling for age, gender, and general cognitive abilities. The specific speed measures "accounted for 4.4%, 5.4% and 5.4% of the variances" in entrance examination mathematics.
+Longitudinal follow-up regression: cognitive tests administered at the start of Grade 7 predicted high school entrance examination mathematics at the end of Grade 9, after controlling for age, gender, and general cognitive abilities. The specific speed measures "accounted for 4.4%, 5.4% and 5.4% of the variances" in entrance examination mathematics, a span the authors describe as three years. The design is correlational, so prediction here is statistical, not causal.
 
 > "In the 9th grade, specific processing speed including word semantic, simple subtraction, and complex subtraction could predict mathematical achievements, and they accounted for 4.4%, 5.4% and 5.4% of the variances in mathematical achievement in the high school entrance examination."
 

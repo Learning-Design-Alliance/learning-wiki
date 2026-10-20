@@ -46,4 +46,4 @@ Supplementary SEM analyses (S1 Table, S1 Fig, S2 Fig) with the same 224-child sa
 
 ## Related Claims
 - [The direct path from mathematics anxiety to word problem solving is non-significant once metacognition is modeled](ma-direct-path-wps-nonsignificant.md) — related
-- [Mathematical metacognition mediates the effect of mathematics anxiety on children's word problem solving after controlling for IQ](metacognition-mediates-ma-wps-children.md) — related
+- [Mathematical metacognition statistically mediates the association between mathematics anxiety and children's word problem solving after controlling for IQ](metacognition-mediates-ma-wps-children.md) — related

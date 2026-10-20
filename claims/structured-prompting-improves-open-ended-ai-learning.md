@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
-`q3 i?` The prompted AI condition achieved significantly higher open-ended scores than both slide-based and unprompted AI conditions (F = 7.32, p = 0.0011). [→ Xiaoyu Hou 2026](#xiaoyu-hou-2026)
+`q3 i?` The prompted AI condition had the highest mean open-ended score (12.41, against 9.68 slide-based and 10.45 unprompted), and the omnibus one-way ANOVA across the three conditions was significant (F = 7.32, p = 0.0011); no pairwise post-hoc tests are reported. [→ Xiaoyu Hou 2026](#xiaoyu-hou-2026)
 `q3 i?` The unprompted AI condition showed no comparable improvement, indicating the benefit is not attributable to AI usage alone. [→ Xiaoyu Hou 2026](#xiaoyu-hou-2026)
 
 ## Evidence
@@ -36,7 +36,7 @@ Xiaoyu Hou, Bo Xiao, Hexu Liu and Shane Mueller. (2026). The Role of Instruction
 
 `q3 · i?` · `causal · r2`
 
-Randomized controlled experiment with a final sample of 95 undergraduates (33 slide-based, 29 prompted, 33 unprompted) after screening. Open-ended responses were rubric-scored by two blind raters (ICC = 0.91); the prompted group's "substantially higher mean score (12.41)" reached significance, F = 7.32, p = 0.0011.
+Randomized controlled experiment with a final sample of 95 undergraduates (33 slide-based, 29 prompted, 33 unprompted) after screening. Open-ended responses were rubric-scored by two blind raters (ICC = 0.91); the prompted group had a "substantially higher mean score (12.41)", and the one-way ANOVA across the three groups was significant, F = 7.32, p = 0.0011. That is an omnibus test; the article reports no pairwise post-hoc comparisons, so it does not establish that the prompted group differed significantly from each other group individually.
 
 > "The Prompted group achieves a substantially higher mean score (12.41) than the NA (9.68) and Unprompted (10.45) groups, with the difference reaching statistical significance (F = 7.32, p = 0.0011)."
 

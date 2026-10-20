@@ -49,7 +49,7 @@ In the path model on the 93-child longitudinal sample, paths from handwriting fl
 ## Related Claims
 - [Automaticity of handwriting predicts handwriting speed in fourth-grade children](automaticity-predicts-handwriting-speed.md) — related
 - [Executive functions do not directly predict syntactic complexity or story content once transcription and language skills are controlled](ef-no-direct-effect-syntactic-complexity-story-content.md) — related
-- [Handwriting fluency mediates the relation between inhibition/updating and all narrative outcomes (text length, syntactic complexity, story content)](handwriting-fluency-mediates-ef-narrative-writing.md) — related
+- [In a cross-sectional path model of fourth graders, handwriting fluency statistically mediated the relation between inhibition/updating and all narrative outcomes (text length, syntactic complexity, story content)](handwriting-fluency-mediates-ef-narrative-writing.md) — related
 - [Each narrative writing measure is longitudinally stable within itself across the upper elementary grades, with no significant cross-lagged relationships across measures](narrative-measures-stable-within-not-across.md) — a broader claim this one bears on
 - [Sixth-grade syntactic complexity of narrative writing is predicted by fourth-grade oral grammar, inhibition, and planning in addition to initial syntactic complexity](oral-grammar-inhibition-planning-predict-later-syntactic-complexity.md) — related
 - [Syntactic complexity of narrative writing increases significantly between fourth and sixth grade, while text length and story content do not](syntactic-complexity-develops-upper-elementary-not-length-content.md) — related

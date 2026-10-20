@@ -35,7 +35,7 @@ Shenqi Lu and Liangwei Zhang. (2026). EduSim-LLM: An Educational Platform Integr
 
 `q2 · i?` · `design · r2`
 
-Comparative simulation experiment in which five complex tasks were each executed once under manual keyboard-and-mouse control and once under natural language control. Timing covered human operation before command execution; natural language control won all five contrasts, consistent with Fig. 6 (A) showing lower average execution latency.
+Comparative simulation experiment in which five complex tasks were each executed once under manual keyboard-and-mouse control and once under natural language control. Timing ran from the start of command entry until the command was sent to the simulator, so it measures human operation time, not robot execution time; natural language control took less operation time in all five tasks (Fig. 6 (A)).
 
 > "For these five complex tasks, the human operation time under the manual control condition exceeds 29 s for all tasks, while the human operation time under the natural language control condition is less than 21 s for all tasks"
 

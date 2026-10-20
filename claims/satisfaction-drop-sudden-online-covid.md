@@ -49,4 +49,4 @@ National random-sample survey of 1,008 undergraduates whose in-person courses mo
 - [Expressed dissatisfaction with online technology, instruction, or content is not the primary reason for dropping](dissatisfaction-not-primary-drop-reason.md) — related
 - [STEM students' course satisfaction dropped sharply after courses moved fully online in spring 2020](stem-satisfaction-dropped-after-remote-shift-covid.md) — a narrower finding that bears on this claim
 - Students attributed online-course problems more to the unplanned move online (45%) than to inherent limitations of online learning (37%) — related
-- [Grades are lower both for courses taken online and in future courses](online-course-lower-grades-current-and-future.md) — related
+- [For college students who can choose between online and in-person sections, taking a course online lowers grades both in that course and in future courses](online-course-lower-grades-current-and-future.md) — related

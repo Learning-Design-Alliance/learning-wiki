@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Review-attributed evidence: ChatGPT use improved short-term essay scores but triggered metacognitive laziness with no significant knowledge-transfer gains"
-description: "Review-attributed evidence: ChatGPT use improved short-term essay scores but triggered metacognitive laziness with no significant knowledge-transfer gains"
+title: "As cited second-hand in an AI-literacy framework paper: ChatGPT use improved short-term essay scores but triggered metacognitive laziness with no significant knowledge-transfer gains"
+description: "As cited second-hand in an AI-literacy framework paper: ChatGPT use improved short-term essay scores but triggered metacognitive laziness with no significant knowledge-transfer gains"
 id: chatgpt-metacognitive-laziness-fan-2025
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 2
 ---
 
-# Review-attributed evidence: ChatGPT use improved short-term essay scores but triggered metacognitive laziness with no significant knowledge-transfer gains
+# As cited second-hand in an AI-literacy framework paper: ChatGPT use improved short-term essay scores but triggered metacognitive laziness with no significant knowledge-transfer gains
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
@@ -35,7 +35,7 @@ Liu, J. P., & Levy, R. (2026). Beyond Tool Adoption: A Practical Five-Stage Deve
 
 `q2 · i?` · `design · r2`
 
-The review reports this second-hand, citing Fan et al. (2025); the underlying randomized experiment was not read directly, so design details beyond those printed are not described. The finding motivates the article's Stage 1 concerns.
+A conceptual framework paper (a five-stage AI-literacy continuum, with a design-based observational implementation case), not a review; it reports this finding second-hand in its discussion of Stage 1 concerns, citing Fan et al. (2025); the underlying randomized experiment was not read directly, so design details beyond those printed are not described.
 
 > "Fan et al. (2025) demonstrated in a randomized experiment that ChatGPT use improved short-term essay scores but triggered "metacognitive laziness," with students showing reduced monitoring, evaluation, and orientation behaviors and no significant gains in knowledge transfer."
 

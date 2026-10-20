@@ -43,7 +43,7 @@ Across both experiments (227 undergraduates total), the 23-drop schedule matched
 
 
 ## Related Claims
-- [The dropout schedule was particularly effective for initially incorrect items, an advantage not attributable to initial ISI length or item difficulty in Experiment 2](dropout-benefits-initially-incorrect-items.md) — related
+- [The dropout schedule was particularly effective for initially incorrect items, an advantage not attributable to initial ISI length and, the authors judge, unlikely to be due to item difficulty in Experiment 2](dropout-benefits-initially-incorrect-items.md) — related
 - [Dropping initially correct items incurred a cost relative to a long-ISI conventional schedule in Experiment 2, but this was offset by gains on initially incorrect items](dropout-cost-for-initially-correct-items.md) — related
 - [A 23-item-ISI dropout schedule achieved final cued-recall performance similar to conventional schedules while using significantly fewer test-restudy trials in two experiments](dropout-long-isi-similar-performance-fewer-trials.md) — a narrower finding that bears on this claim
 - [A short-ISI dropout schedule (5-drop) used significantly fewer trials but yielded lower final test performance than conventional schedules in Experiment 1](short-isi-dropout-lower-performance.md) — a narrower finding that bears on this claim

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Long teacher commutes and isolated communities hampered teacher recruitment and retention in eight of nine rural SIG schools
-description: Long teacher commutes and isolated communities hampered teacher recruitment and retention in eight of nine rural SIG schools
+title: Administrators in eight of nine rural SIG schools reported rural-setting factors, chiefly long teacher commutes (six schools) or isolated communities (four), that hampered teacher recruitment or retention
+description: Administrators in eight of nine rural SIG schools reported rural-setting factors, chiefly long teacher commutes (six schools) or isolated communities (four), that hampered teacher recruitment or retention
 id: rural-teacher-commutes-hinder-staffing
 status: review
 generated:
@@ -27,7 +27,7 @@ sources:
     rigour: "?"
 ---
 
-# Long teacher commutes and isolated communities hampered teacher recruitment and retention in eight of nine rural SIG schools
+# Administrators in eight of nine rural SIG schools reported rural-setting factors, chiefly long teacher commutes (six schools) or isolated communities (four), that hampered teacher recruitment or retention
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`

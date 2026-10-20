@@ -90,7 +90,7 @@ An open question is how much of the benefit comes from the discussion itself ver
 - [Cognitive disequilibrium motivates conceptual change.](cognitive-disequilibrium-motivates-conceptual-change.md) — the proposed mechanism linking disagreement to conceptual restructuring
 - [Discussion-based learning](../principles/collaborative-learning.md) — the pattern-level design that operationalizes this claim
 - [Accountable talk](../strategies/accountable_talk.md) — a discourse protocol for keeping peer talk reasoning-focused
-- [Active and collaborative approaches promote higher-order thinking and complex reasoning (review attribution)](active-collaborative-approaches-higher-order-thinking.md) — related
+- [Active and collaborative approaches promote higher-order thinking and complex reasoning (attributed to earlier studies in a framework paper)](active-collaborative-approaches-higher-order-thinking.md) — related
 - [Classroom quizzing delivered by clickers, computer software, or paper improves student performance on classroom exams in middle school and college courses](classroom-quizzing-improves-exam-performance-across-grades-and-content.md) — related
 - Group tasks are the most frequent active learning activity in college science active learning conditions, followed by activity sheets — related
 - [Inquiry-first teaching stimulates interest, sharpens reading, and helps organize course work](inquiry-first-stimulates-interest-and-organizes-course.md) — related
@@ -106,7 +106,7 @@ An open question is how much of the benefit comes from the discussion itself ver
 - Research on educational technology commonly finds no difference in learner outcomes between schools that use or do not use a technology — reports the opposite
 - Teachers reported that technology-supported group work increased student engagement and helped them access students' thinking — related
 - [Two-part collaborative assessment, individual then group answering, transforms summative testing into a learning experience and may reduce test anxiety](two-part-collaborative-assessment-learning-experience.md) — related
-- [Collaborative learning opportunities largely disappeared when courses shifted to remote instruction](remote-shift-reduced-collaborative-learning.md) — related
+- [In case-study courses that shifted to remote instruction, few instructors offered collaborative learning activities, and some dropped ones used before](remote-shift-reduced-collaborative-learning.md) — related
 - [A remote individual working from photographs completed a full and physically correct ISLE cycle, but the inquiry was disembodied](remote-case-d-full-cycle-disembodied.md) — related
 - [Teachers reported redesigning instruction toward learner question formulation, comparison, and inquiry when using AI](designing-for-learner-agency-dimension.md) — related
 - [Dialogue evidence shows coach feedback induces genuine conceptual change, shifting the agent from misconception to conceptually correct explanation rather than superficial answer alignment](dialogue-feedback-induces-conceptual-change.md) — related

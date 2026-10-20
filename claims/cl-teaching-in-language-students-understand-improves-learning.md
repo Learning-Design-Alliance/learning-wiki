@@ -49,7 +49,7 @@ Narrative review of language-of-instruction evidence. The brief states the "evid
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | Foundational Learning 2023 | q2 · review · r? | i? | this claim |
-| [ev-4](https://doi.org/10.51388/20.500.12265/316) | q3 · review · r2 | i? | [Primary-language (Spanish) oral instructions yielded significantly higher English reading ](primary-language-support-higher-english-comprehension.md) (supports) |
+| [Taboada Barber 2026](https://doi.org/10.51388/20.500.12265/316) | q3 · review · r2 | i? | [Primary-language (Spanish) oral instructions yielded significantly higher English reading ](primary-language-support-higher-english-comprehension.md) (supports) |
 | Rolla 2024 | q2 · review · r2 | i? | [Spanish–English bilinguals performed better on kindergarten mathematics assessments when t](bilinguals-better-math-tested-in-spanish.md) (supports) |
 | Carrie Gillispie 2021 | q2 · qualitative · r2 | i? | [Dual language learners especially benefit from high-quality early care and dual language i](dual-language-learners-benefit-from-immersion-programs.md) (supports) |
 | el-1 | q2 / q3 · quant-synthesis · r1 | i?; i1 | [Literacy benefits of dual language programs did not extend to the English learner subsampl](dual-language-literacy-null-for-english-learners.md) (qualifies); [Dual language programs improved English literacy achievement, with a potentially positive ](dual-language-programs-improve-literacy-achievement.md) (supports); [The evidence base on dual language programs is thin: only two of 122 identified studies me](dual-language-evidence-base-thin-two-of-122.md) (qualifies) |

@@ -43,7 +43,7 @@ Combined SEM (Full Mediation for NO, Partial Mediation for MR) in 330 children; 
 
 
 ## Related Claims
-- [Attention problems negatively affect both non-verbal and verbal math performance only indirectly, through working memory (and, for MR, reading)](attention-problems-mediated-by-working-memory-math.md) — related
+- [In a cross-sectional model, attention problems relate to both non-verbal and verbal math performance only indirectly, through working memory (and, for MR, reading)](attention-problems-mediated-by-working-memory-math.md) — related
 - [Math Reasoning is more strongly correlated with reading comprehension than Numerical Operations is, and the two math measures are highly correlated](mr-reading-correlation-stronger-than-no.md) — possibly the same claim (merge candidate)
 - [Working memory fully mediates the effects of math anxiety and attention on children's non-verbal Numerical Operations](wm-fully-mediates-anxiety-attention-numerical-operations.md) — related
 - [Math anxiety relates more strongly to Mathematical Reasoning than to Numerical Operations in second and third graders](math-anxiety-stronger-mathematical-reasoning-than-numerical-operations.md) — related

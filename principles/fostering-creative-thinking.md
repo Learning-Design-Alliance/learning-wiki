@@ -161,7 +161,7 @@ Output during an activity, originality judged by raters, interest afterwards, un
 
 ## Claims
 
-- [Open-ended tasks are associated with higher subsequent disciplinary engagement](../claims/open-ended-tasks-higher-disciplinary-engagement.md) [~W]
+- [Open-ended tasks are associated with higher disciplinary engagement in the same observation interval](../claims/open-ended-tasks-higher-disciplinary-engagement.md) [~W]
 - [CREATE improves students' originality immediately after the intervention across all three originality scoring methods](../claims/create-immediate-originality-gain.md) [+W]
 - [Grades themselves, regardless of formula, detrimentally affect creative thinking, long-term retention, interest in learning, and preference for challenging tasks](../claims/grades-detrimental-creative-thinking-retention.md) [+W]
 - [PGR students rejected GenAI generation of research ideas, original arguments, or whole papers as violating authorship norms, while accepting surface-level support](../claims/genai-authorship-boundary-rejected-substitution.md) [+W]

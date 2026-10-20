@@ -13,7 +13,7 @@ generated:
 # Vocabulary
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 77 claims (57 show a difference, 10 mixed, 10 no difference) · 57 studies (19 causal, 18 associational, 12 quant-synthesis, 5 review, 1 qualitative, 1 design, 1 theoretical), `q1`–`q3` · 16 of 57 report an effect size · 74 claims rest on one study
+> **Evidence** · 77 claims (57 show a difference, 10 mixed, 10 no difference) · 58 studies (19 causal, 18 associational, 13 quant-synthesis, 5 review, 1 qualitative, 1 design, 1 theoretical), `q1`–`q3` · 16 of 58 report an effect size · 74 claims rest on one study
 
 ## Description
 Vocabulary is the store of words a learner understands (receptive vocabulary) and uses (expressive or productive vocabulary), together with the strategies they use to work out unfamiliar words. It is measured with picture-vocabulary tests, in which a learner picks the picture matching a spoken word, with language samples that count the number and variety of words used, and, for older students, with measures of academic language features in writing.
@@ -67,7 +67,7 @@ The page sits within the wiki's broader [reading and language](reading-and-langu
 - [Lexical units brought to the 'fully learned' stage by the tutor scored significantly lower on the posttest than units students already knew before introduction](../claims/learned-units-below-previously-known-units.md) [+W] — learners who differ on it differ in outcomes
 - [Morphological instruction improves word-level literacy outcomes (decoding, spelling, vocabulary, morphological knowledge) but shows no reliable effect on reading comprehension](../claims/morphological-instruction-improves-literacy.md) [+M] — instruction changes it
 - [Multimedia glosses improve EFL students' vocabulary retention two weeks after treatment relative to no glosses](../claims/multimedia-glosses-improve-efl-vocabulary-retention.md) [+W] — instruction changes it
-- [Multimedia-enhanced stories significantly improve expressive vocabulary for children disadvantaged by environmental factors such as low parental education](../claims/multimedia-expressive-vocabulary-environmentally-disadvantaged.md) [+M] — instruction changes it
+- [Technology-enhanced stories (any digital addition, not multimedia alone) significantly improve expressive vocabulary for children disadvantaged by environmental factors such as low parental education](../claims/multimedia-expressive-vocabulary-environmentally-disadvantaged.md) [+M] — instruction changes it
 - [Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone](../claims/pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone.md) [+M] — instruction changes it
 - [Participants incidentally acquired an average of 3.19 of 20 target words after reading two passages](../claims/incidental-acquisition-rate-3-of-20-words.md) [+W] — instruction changes it
 - [Prior vocabulary knowledge moderates vocabulary learning gains in an extensive reading program, with high-level learners gaining more than intermediate and low-level learners](../claims/prior-vocabulary-knowledge-moderates-extensive-reading-gains.md) [+M] — an instructional effect differs with it
@@ -116,7 +116,7 @@ The page sits within the wiki's broader [reading and language](reading-and-langu
 - [Students learned more from context about words not previously known, but this prior-knowledge interaction appeared only in the multiple-choice data](../claims/context-learning-prior-knowledge-interaction-mixed.md) [~W] — an instructional effect differs with it
 - [Vocabulary is the only unique predictor of global coherence inference making at all three ages, 6 through 10 years](../claims/vocabulary-only-unique-predictor-global-coherence-all-ages.md) [+W] — learners who differ on it differ in outcomes
 - [Vocabulary uniquely predicts local coherence inference making for 6- and 8-year-olds, but neither vocabulary nor working memory predicts it for 10-year-olds](../claims/vocabulary-unique-predictor-local-coherence-younger-children.md) [~W] — learners who differ on it differ in outcomes
-- [Family SES effects on children's reading are partially mediated in parallel by phonological awareness and vocabulary knowledge](../claims/ses-reading-partial-parallel-mediation-linguistic-skills.md) [+M] — learners who differ on it differ in outcomes
+- [The association between family SES and children's reading is partially mediated, statistically, in parallel by phonological awareness and vocabulary knowledge](../claims/ses-reading-partial-parallel-mediation-linguistic-skills.md) [+M] — learners who differ on it differ in outcomes
 - [SES longitudinally predicts later reading (r = 0.24), and phonological awareness and vocabulary jointly explain about 45% of that association](../claims/longitudinal-ses-predicts-reading-linguistic-skills-explain-variance.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures

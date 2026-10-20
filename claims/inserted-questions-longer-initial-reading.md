@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
-`q3 i2` Readers who will answer inserted questions read the text more slowly and carefully on first pass than readers expecting post-reading questions. [→ Alba Rubio 2022](#alba-rubio-2022)
+`q3 i2` Readers who will answer inserted questions spend longer reading the text on first pass than readers expecting post-reading questions (time was measured; carefulness was not). [→ Alba Rubio 2022](#alba-rubio-2022)
 
 ## Evidence
 

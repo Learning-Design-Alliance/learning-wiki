@@ -46,5 +46,5 @@ The review reports, citing Farrington, Porter, & Klugman (forthcoming), that "th
 
 ## Related Claims
 
-- [The growth mindset intervention reduced fixed-mindset beliefs among lower-achieving adolescents, with effects homogeneous across schools](growth-mindset-reduces-fixed-mindset-beliefs.md) — the general claim this finding bears on, with the studies behind it
+- [The growth mindset intervention reduced fixed-mindset beliefs among lower-achieving adolescents, with no significant variation in this effect detected across schools](growth-mindset-reduces-fixed-mindset-beliefs.md) — the general claim this finding bears on, with the studies behind it
 - [Students with more positively oriented academic mindsets show better academic behaviors and earn better grades than students for whom the mindset beliefs do not feel true](positive-mindsets-better-behaviors-grades.md) — a broader claim this one bears on

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Learning patterns relate to personal factors (personality, motivation, beliefs, prior education, age, gender) with weak-to-moderate associations indicating potential for change
-description: Learning patterns relate to personal factors (personality, motivation, beliefs, prior education, age, gender) with weak-to-moderate associations indicating potential for change
+title: Learning patterns are associated with personal factors (personality, motivation, beliefs, prior education, age, gender); their associations with personality are weak to moderate, indicating learning patterns are not stable traits
+description: Learning patterns are associated with personal factors (personality, motivation, beliefs, prior education, age, gender); their associations with personality are weak to moderate, indicating learning patterns are not stable traits
 id: learning-patterns-personal-factors
 status: review
 generated:
@@ -27,7 +27,7 @@ sources:
     rigour: 2
 ---
 
-# Learning patterns relate to personal factors (personality, motivation, beliefs, prior education, age, gender) with weak-to-moderate associations indicating potential for change
+# Learning patterns are associated with personal factors (personality, motivation, beliefs, prior education, age, gender); their associations with personality are weak to moderate, indicating learning patterns are not stable traits
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`

@@ -43,7 +43,7 @@ The article's stated focus for its nine rural SIG schools includes presenting "f
 
 
 ## Related Claims
-- [Long teacher commutes and isolated communities hampered teacher recruitment and retention in eight of nine rural SIG schools](rural-teacher-commutes-hinder-staffing.md) — a narrower finding that bears on this claim
+- [Administrators in eight of nine rural SIG schools reported rural-setting factors, chiefly long teacher commutes (six schools) or isolated communities (four), that hampered teacher recruitment or retention](rural-teacher-commutes-hinder-staffing.md) — a narrower finding that bears on this claim
 - [Traditional salary schedules may not reward effective teaching or give the most effective teachers incentives to work in high-need schools, motivating performance-based compensation](traditional-salary-schedules-may-not-reward-effective-teaching.md) — related
 - [Rural school settings' distance from urban areas and long commutes can exacerbate the challenges struggling rural schools face](rural-setting-exacerbates-school-improvement-challenges.md) — related
 - [Talent-system reforms, including an experience-based salary scale and earlier recruitment, coincided with retention of over 90 percent of effective teachers](perry-street-teacher-retention-talent-reforms.md) — related

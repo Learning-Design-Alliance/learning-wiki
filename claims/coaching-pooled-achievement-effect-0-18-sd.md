@@ -66,7 +66,7 @@ Supplemental analysis restricted to the ten studies using state standardized tes
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Kraft 2018](https://doi.org/10.3102/0034654318759268) | q2 / q4 · quant-synthesis · r2 | i0 · d=0.18 (below 0.2); i0 · d=0.12 (below 0.2); i? | this claim; [Coaching effects on instruction and achievement are positively correlated, but large instr](instruction-achievement-weak-link-coaching.md) (qualifies) |
-| Tina Ehsanipour & Florencia Gomez Zaccarelli 2017 | q3 · review · r2 | i? | [Meta-analytic evidence finds large positive effects of coaching on teachers' instructional](coaching-meta-analysis-positive-effects-instruction-achievement.md) (supports) |
+| Tina Ehsanipour & Florencia Gomez Zaccarelli 2017 | q3 · review · r2 | i? | [A practitioner review reports a meta-analysis of causal coaching studies as finding positi](coaching-meta-analysis-positive-effects-instruction-achievement.md) (supports) |
 | [Philip Oreopoulos 2024](https://doi.org/10.3386/w32388) | q3 · causal · r2 | i1 | [A teacher-coaching CAL program produces significant intent-to-treat gains in elementary an](cal-teacher-coaching-itt-math-gains-012-022-sd.md) (supports) |
 | [Darling-Hammond 2017](https://doi.org/10.54300/122.311) | q2 / q4 · review · r2 | i? | [Coaching and expert support appeared in 30 of 35 studies, with coached classrooms showing ](pd-coaching-expert-support-gains.md) (supports) |
 | Gall 1994 | q2 · review · r2 | i? | [Experimental staff development programs mostly raised student achievement relative to cont](experimental-staff-development-raises-student-achievement.md) (supports) |

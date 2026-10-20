@@ -44,4 +44,4 @@ Experimental study (Yeager et al., 2013) in an urban high school: six ~45-min fa
 
 ## Related Claims
 - [A CCSR research review concludes that four academic mindsets (belonging, growth beliefs, self-efficacy and value) increase perseverance and improve academic behaviors](four-academic-mindsets-increase-perseverance-and-behaviors.md) — a broader claim this one bears on
-- [The growth mindset intervention reduced fixed-mindset beliefs among lower-achieving adolescents, with effects homogeneous across schools](growth-mindset-reduces-fixed-mindset-beliefs.md) — related
+- [The growth mindset intervention reduced fixed-mindset beliefs among lower-achieving adolescents, with no significant variation in this effect detected across schools](growth-mindset-reduces-fixed-mindset-beliefs.md) — related

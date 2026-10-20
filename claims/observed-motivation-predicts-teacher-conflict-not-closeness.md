@@ -65,7 +65,7 @@ Regression on STRS conflict scores (R2 = .19); "less persistence predicted great
 - [Achievement Emotions](../learner-variables/achievement-emotions.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [Observed interest/arousal during challenging tasks predicts poorer teacher-rated social competence and more hyperactivity, with the top third of the distribution rated worst](observed-interest-arousal-predicts-poorer-readiness.md) — related
+- [Observed interest/arousal during challenging tasks predicts poorer teacher-rated social competence and more hyperactivity: the top third was rated least socially competent, and the top and middle thirds more hyperactive than the bottom third](observed-interest-arousal-predicts-poorer-readiness.md) — related
 - [Observed task persistence during challenging tasks predicts teacher-rated academic competence and learning-related behaviors in Head Start graduates](observed-persistence-predicts-school-readiness-head-start.md) — related
 - [Observed shame expressions during challenging tasks predict greater teacher-rated social competence, work-related skills, and academic skills](observed-shame-predicts-school-readiness.md) — related
 - [Low self-regulation (inattention and impulsivity) at kindergarten entry predicts greater teacher-child conflict by kindergarten spring, and this effect persists into first grade](low-self-regulation-predicts-teacher-conflict-persisting.md) — related

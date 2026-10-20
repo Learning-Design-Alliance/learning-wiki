@@ -23,8 +23,8 @@ sources:
 > **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
-`q2 i?` Perceived competence significantly and positively affects autonomous motivation for AI use (H4: β = 0.130, p < 0.05). [→ Ahmed A and Sultan A 2026](#ahmed-a-and-sultan-a-2026)
-`q2 i?` Perceived competence has a negligible, nonsignificant effect on autonomy support for AI use (H3). [→ Ahmed A and Sultan A 2026](#ahmed-a-and-sultan-a-2026)
+`q2 i?` In a cross-sectional PLS-SEM model, perceived competence had a significant positive path to autonomous motivation for AI use (H4: β = 0.130, p < 0.05), an association that cannot show cause. [→ Ahmed A and Sultan A 2026](#ahmed-a-and-sultan-a-2026)
+`q2 i?` The path from perceived competence to autonomy support for AI use was negligible and nonsignificant (H3: β = 0.010, p = 0.870); a nonsignificant path is not evidence of no relationship. [→ Ahmed A and Sultan A 2026](#ahmed-a-and-sultan-a-2026)
 
 ## Evidence
 
@@ -34,7 +34,7 @@ Ahmed A and Sultan A (2026) Examining the impact of generative AI on student mot
 
 `q2 · i?` · `associational · r1`
 
-Same PLS-SEM structural model of 297 students. The hypothesis-testing results show competence supported H4 ("β = 0.130, T = 2.150, p < 0.05") while H3 was "negligible and nonsignificant"; the article characterises the H3 effect as negligible, coding i = 0.
+Same PLS-SEM structural model of 297 students. The hypothesis-testing results show competence supported H4 ("β = 0.130, T = 2.150, p < 0.05") while H3 was "negligible and nonsignificant" (β = 0.010, T = 0.160, p = 0.870). The design is cross-sectional, so the paths are associations, not demonstrated effects.
 
 > "Perceived competence also showed significant positive effects on autonomous motivation (H4: β = 0.130, T = 2.150, p < 0.05), although its effect on autonomy support (H3) was negligible and nonsignificant."
 

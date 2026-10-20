@@ -14,7 +14,7 @@ sources:
     title: "Dunning, D. L., Griffiths, K., Kuyken, W., Crane, C., Foulkes, L., Parker, J., & Dalgleish, T. (2019). Research Review: The effects of mindfulness-based interventions on cognition and mental health in children and adolescents – a meta-analysis of randomized controlled trials. Journal of Child Psychology and Psychiatry. https://doi.org/10.1111/jcpp.12980"
     author: "Dunning, D. L., Griffiths, K., Kuyken, W., Crane, C., Foulkes, L., Parker, J., & Dalgleish, T."
     q: 3
-    i: "?"
+    i: 0
     kind: quant-synthesis
     rigour: 3
 ---
@@ -22,10 +22,10 @@ sources:
 # Across all RCTs, mindfulness-based interventions significantly improve mindfulness, executive functioning, attention, depression, anxiety/stress and negative behaviours in youth, with small effect sizes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i0` negligible
 
 ## Subclaims
-`q3 i?` Across all 33 RCTs, MBI participants improved significantly more than controls on Mindfulness, Executive Functions, Attention, Depression, Anxiety/Stress and Negative Behaviours, with small effect sizes ranging from .16 to .30. [→ Dunning 2019](#dunning-2019)
+`q3 i0` Across all 33 RCTs, MBI participants improved significantly more than controls on Mindfulness, Executive Functions, Attention, Depression, Anxiety/Stress and Negative Behaviours, with small effect sizes ranging from .16 to .30 (overall d = .19 across all measures). [→ Dunning 2019](#dunning-2019)
 
 ## Evidence
 
@@ -33,9 +33,9 @@ sources:
 
 Dunning, D. L., Griffiths, K., Kuyken, W., Crane, C., Foulkes, L., Parker, J., & Dalgleish, T. (2019). Research Review: The effects of mindfulness-based interventions on cognition and mental health in children and adolescents – a meta-analysis of randomized controlled trials. Journal of Child Psychology and Psychiatry. https://doi.org/10.1111/jcpp.12980
 
-`q3 · i?` · `quant-synthesis · r3`
+`q3 · i0 · overall d = .19` · `quant-synthesis · r3`
 
-Random effects meta-analysis of 33 RCTs including 3,666 children and adolescents, with outcomes categorized into cognitive, behavioural and emotional factors. The review reports "significant positive effects of MBIs, relative to controls" with small Cohen's d values ranging from .16 to .30; no single standardized effect size is printed for the overall finding.
+Random effects meta-analysis of 33 RCTs including 3,666 children and adolescents, with outcomes categorized into cognitive, behavioural and emotional factors. The review reports "significant positive effects of MBIs, relative to controls" with small Cohen's d values ranging from .16 to .30 across the significant categories; the overall effect across all measures is d = .19 (95% CI .14 to .23; Table 1).
 
 > "Across all RCTs we found significant positive effects of MBIs, relative to controls, for the outcome categories of Mindfulness, Executive Functioning, Attention, Depression, Anxiety/Stress and Negative Behaviours, with small effect sizes (Cohen’s d), ranging from .16 to .30."
 

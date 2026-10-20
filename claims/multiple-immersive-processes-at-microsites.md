@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
-`q2 i?` At many microsites, sensory, actional, narrative, and social immersions co-occurred during LOTM. [→ Heather Toomey Zimmerman 2023](#heather-toomey-zimmerman-2023)
+`q2 i?` At many microsites, families engaged in multiple immersive processes (drawn from sensory, actional, narrative and social immersion) during LOTM; the article does not report all four co-occurring at each. [→ Heather Toomey Zimmerman 2023](#heather-toomey-zimmerman-2023)
 `q2 i?` One ideal-use-case family's vignette was developed to illustrate intense co-occurrence of immersive processes at one microsite. [→ Heather Toomey Zimmerman 2023](#heather-toomey-zimmerman-2023)
 
 ## Evidence

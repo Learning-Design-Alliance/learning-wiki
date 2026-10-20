@@ -39,7 +39,7 @@ A policy strategy the brief draws from its finding that individual student perfo
 ## Claims
 
 - [Special education service concentration showed divergent patterns: similar ever-below-benchmark rates across quartiles but much higher persistence below benchmark in high-concentration schools](../claims/special-education-concentration-persistence-benchmark.md) [+W]
-- [School characteristics—percentage of low income students, teacher retention, and attendance—affect students' likelihood of being identified as at significant risk in early literacy screening](../claims/school-characteristics-affect-literacy-risk.md) [+W]
+- [School characteristics—percentage of low income students, teacher retention, and attendance—are associated with students' likelihood of being identified as at significant risk in early literacy screening](../claims/school-characteristics-affect-literacy-risk.md) [+W]
 
 ## Related Strategies
 

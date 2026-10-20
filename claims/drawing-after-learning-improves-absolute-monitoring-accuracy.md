@@ -46,7 +46,7 @@ Randomized experiment with 88 university students (29 control, 29 drawing-from-s
 - [Metacognition](../learner-variables/metacognition.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Scaffolded drawing does not improve absolute monitoring accuracy compared with drawing from scratch](scaffolded-drawing-no-better-than-scratch-absolute-monitoring.md) — related
+- [Scaffolded drawing showed no significant advantage over drawing from scratch for absolute monitoring accuracy](scaffolded-drawing-no-better-than-scratch-absolute-monitoring.md) — related
 - [Spatial thinking and generative activity reduced monitoring error while higher interest increased it](spatial-generative-reduce-error-interest-increases.md) — related
 - [Sketching during reading yielded the most accurate comprehension monitoring, with significantly less absolute error than photograph, no-image, and animation conditions](sketching-most-accurate-monitoring-absolute-error.md) — related
 - [Drawing quality predicted JOLs to a similar extent in both drawing conditions, contrary to the expectation that scaffolds would strengthen this cue use](drawing-quality-predicts-jols-similarly-both-conditions.md) — related

@@ -29,7 +29,7 @@ sources:
 
 `q2 i?` The math gap between students at high-poverty and low-poverty schools narrowed from 0.95 to 0.90 SD and the reading gap from 0.88 to 0.77 SD, both significantly. [→ Kuhfeld 2019](#kuhfeld-2019)
 
-`q3 i?` Inequalities at school entry by school poverty level decreased between 2010 and 2017. [→ Megan Kuhfeld 2020](#kuhfeld-2019)
+`q2 i?` Inequalities at school entry by school poverty level decreased between 2010 and 2017. [→ Kuhfeld 2019](#kuhfeld-2019)
 
 ## Evidence
 

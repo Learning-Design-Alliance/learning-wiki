@@ -45,7 +45,7 @@ Descriptive analysis of program records for 56 school-based tutoring sites (32 r
 ## Related Claims
 - [Sites offering tutoring during school were much more likely than out-of-school-hours sites to offer tutoring more than twice a week](ontrack-timing-frequency-association.md) — related
 - [Rural SIG schools were more likely than nonrural SIG schools to adopt the transformation model (95 versus 74 percent)](rural-sig-schools-favor-transformation-model.md) — related
-- [Long teacher commutes and isolated communities hampered teacher recruitment and retention in eight of nine rural SIG schools](rural-teacher-commutes-hinder-staffing.md) — related
+- [Administrators in eight of nine rural SIG schools reported rural-setting factors, chiefly long teacher commutes (six schools) or isolated communities (four), that hampered teacher recruitment or retention](rural-teacher-commutes-hinder-staffing.md) — related
 - [Rural SIG schools reported additional challenges from remote locations and large catchment areas beyond those reported by nonrural SIG schools](rural-sig-schools-additional-location-challenges.md) — related
 - Rural schools report school nurse shortages at more than twice the urban rate — related
 - Tennessee's education department notes tutoring during the school day is more effective than before- or after-school programming — related

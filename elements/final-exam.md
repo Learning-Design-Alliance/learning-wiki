@@ -58,7 +58,7 @@ Cumulative final exams leverage the testing effect: retrieving knowledge from ea
 - [Substantial proportions of students self-report cheating and misconduct during exams, with higher rates in high schools than colleges](../claims/self-reported-cheating-rates-college-high-school.md) [-W]
 
 ## The evidence by question
-- *Does anxiety about the end-point test lower the scores it records, and do the test's conditions change that?* [Test anxiety is negatively related to exam performance, and proctoring does not moderate this relation](../claims/test-anxiety-negative-exam-performance.md) [-M]
+- *Does anxiety about the end-point test lower the scores it records, and do the test's conditions change that?* [Test anxiety is negatively associated with exam performance, and no moderation by proctoring was detected](../claims/test-anxiety-negative-exam-performance.md) [-M]
 - *Should learners take a cheat sheet or notes into the final, and does making their own sheet help?* [Cheat sheet type was not significantly associated with exam performance on either exam, though a moderate non-significant trend favoured self-created sheets on the final](../claims/cheatsheet-type-no-significant-performance-difference.md) [~W]
 
 ## Related Elements

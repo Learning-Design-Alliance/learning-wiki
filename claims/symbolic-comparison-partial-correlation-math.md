@@ -47,7 +47,7 @@ Partial correlation analysis in the 98-child sample; the sole number sense measu
 
 ## Related Claims
 - [Number sense measures are non-significant predictors of math once more robust predictors are included](number-sense-non-predictor-of-math.md) — related
-- [Symbolic numerical magnitude comparison contributes more uniquely to subtraction performance than number line estimation](magnitude-comparison-more-unique-than-number-line.md) — related
+- [Symbolic numerical magnitude comparison has a more unique association than number line estimation with children's speed on indirect-addition subtraction items](magnitude-comparison-more-unique-than-number-line.md) — related
 - [Number line estimation and numerical magnitude comparison correlate with mathematics achievement (r = .24 to .44), with number line estimation more strongly related in older children](number-sense-tasks-correlate-with-math-achievement.md) — related
 - [Both symbolic and nonsymbolic magnitude processing correlate with subtraction accuracy, but subtraction speed is associated only with symbolic tasks](symbolic-nonsymbolic-accuracy-speed-dissociation.md) — related
 - [The three estimation tasks do not represent the same construct in young children and should not be combined into composites](estimation-tasks-not-same-construct-kindergarten.md) — related

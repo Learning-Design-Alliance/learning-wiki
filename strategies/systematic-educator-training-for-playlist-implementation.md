@@ -38,7 +38,7 @@ The article's conclusion recommends that implementing science playlists in infor
 
 ## Claims
 
-- [Educators rarely facilitated connections between playlist activities or to students' lives; introductions and debriefings focused on logistics rather than science content](../claims/educators-rarely-facilitated-connections-between-playlists.md) [+W]
+- [Educators rarely facilitated connections between playlist activities or to students' lives; introductions focused on instructions and logistics, and debriefings were often unstructured reviews of the activity](../claims/educators-rarely-facilitated-connections-between-playlists.md) [+W]
 - [Technical issues (login scanning, internet connectivity, projector setup, and glitches) frustrated students and created a significant barrier to playlist implementation](../claims/technical-issues-barrier-playlist-implementation.md) [+W]
 
 ## Related Strategies

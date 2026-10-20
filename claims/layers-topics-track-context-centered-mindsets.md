@@ -51,5 +51,5 @@ Topic-prevalence analysis of Layers responses (N = 7,429 sentence rows) against 
 - Teachers framed communication and digital literacy as foundational skills requiring clear, contextually relevant definitions — related
 - [Best leverage points for improving performance lie in teacher strategies for classroom context, mindsets, and learning strategies](leverage-points-context-mindsets-learning-strategies.md) — related
 - [IDC's interest cycle requires educators to treat interests as launching points for deeper immersion, not static topics](interest-cycle-triggering-immersing-extending.md) — related
-- [BIPOC students perceived statistics as a neutral subject and did not discern explicit racial or cultural inclusion in the courseware, generally viewing that neutrality as appropriate](students-perceive-statistics-as-neutral-subject.md) — related
+- [Interviewed introductory statistics students often described the subject as neutral, many saw the courseware's neutrality as appropriate, and some did not discern explicit racial or cultural inclusion in it](students-perceive-statistics-as-neutral-subject.md) — related
 - [Participants identified assessment redesign approaches for helping all students feel successful, centering relevance, lowered stakes, choice, emotional support, and preparation](assessment-redesign-insights-tlc-convening.md) — related

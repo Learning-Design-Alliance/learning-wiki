@@ -35,7 +35,7 @@ Xinfei Cen, Vincent Aleven, Kenneth R. Koedinger, Conrad Borchers, and Paulo F. 
 
 `q2 · i?` · `causal · r2`
 
-Omnibus three-way interaction from the linear mixed-effects model of learning gains (Table 1) in the 54-student study: "t(99.8) =−2.58,p=.011". No effect size printed; impact null.
+Omnibus three-way interaction from the linear mixed-effects model of learning gains (Table 1) in the 54-student analytic sample (of 97 students in the dataset): "t(99.8) =−2.58,p=.011" (unstandardized estimate −0.631, SE 0.245). No standardized effect size is printed, so the magnitude is coded `i?`; the interaction itself was significant.
 
 > "Thethree-wayinteractionbetweenself-efficacy,favorability,andtrainingcondition was also significant,t(99.8) =−2.58,p=.011, indicating that the impact of initial self-efficacy on learning gains varied based on both favorability and training condition."
 

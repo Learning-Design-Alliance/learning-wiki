@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Scaffolded drawing does not improve absolute monitoring accuracy compared with drawing from scratch
-description: Scaffolded drawing does not improve absolute monitoring accuracy compared with drawing from scratch
+title: Scaffolded drawing showed no significant advantage over drawing from scratch for absolute monitoring accuracy
+description: Scaffolded drawing showed no significant advantage over drawing from scratch for absolute monitoring accuracy
 id: scaffolded-drawing-no-better-than-scratch-absolute-monitoring
 status: review
 generated:
@@ -14,18 +14,18 @@ sources:
     title: "Julia Kollmer, Katrin Schleinschok, Katharina Scheiter, Alexander Eitel. (2020). Is drawing after learning effective for metacognitive monitoring only when supported by spatial scaffolds? Instructional Science. https://doi.org/10.1007/s11251-020-09521-6"
     author: Julia Kollmer, Katrin Schleinschok, Katharina Scheiter, Alexander Eitel
     q: 3
-    i: "?"
+    i: 0
     kind: causal
     rigour: 3
 ---
 
-# Scaffolded drawing does not improve absolute monitoring accuracy compared with drawing from scratch
+# Scaffolded drawing showed no significant advantage over drawing from scratch for absolute monitoring accuracy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r3` · `q3`
+> **Evidence** · 1 study · causal `r3` · `q3` · `i0` negligible
 
 ## Subclaims
-`q3 i?` There was no significant difference between the drawing-from-scratch and scaffolded-drawing conditions on absolute monitoring accuracy (d = 0.10, p = 0.36). [→ Julia Kollmer 2020](#julia-kollmer-2020)
+`q3 i0` There was no significant difference between the drawing-from-scratch and scaffolded-drawing conditions on absolute monitoring accuracy (d = 0.10, p = 0.36). [→ Julia Kollmer 2020](#julia-kollmer-2020)
 
 ## Evidence
 
@@ -33,9 +33,9 @@ sources:
 
 Julia Kollmer, Katrin Schleinschok, Katharina Scheiter, Alexander Eitel. (2020). Is drawing after learning effective for metacognitive monitoring only when supported by spatial scaffolds? Instructional Science. https://doi.org/10.1007/s11251-020-09521-6
 
-`q3 · i?` · `causal · r3`
+`q3 · i0 · negligible effect, d = 0.10` · `causal · r3`
 
-In the same linear mixed effects model on JOL minus performance, the second Helmert contrast compared drawing from scratch with scaffolded drawing and found "no significant difference between the two drawing conditions on absolute monitoring accuracy". Equivalence was not tested.
+In the same linear mixed effects model on JOL minus performance, the second Helmert contrast compared drawing from scratch with scaffolded drawing and found "no significant difference between the two drawing conditions on absolute monitoring accuracy". Equivalence was not tested, so a small difference cannot be ruled out.
 
 > "Results were not in line with this assumption, as they revealed no significant difference between the two drawing conditions on absolute monitoring accuracy, b = 1.27, SE = 1.39, t = 0.91, p = 0.36, d = 0.10."
 

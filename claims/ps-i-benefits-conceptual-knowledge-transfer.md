@@ -46,5 +46,5 @@ The article's narrative summary of the PS-I literature, attributing beneficial e
 - [PS-I instructional designs can improve conceptual understanding and transfer when design principles are met](ps-i-improves-conceptual-understanding-transfer.md) — possibly the same claim (merge candidate)
 - [PS-I with a virus transmission simulation showed better transfer of multivariable causality to a new context, despite similar end-of-intervention performance to I-PS](ps-i-simulation-better-mvc-transfer.md) — a narrower finding that bears on this claim
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — a narrower finding that bears on this claim
-- [Duration of the initial problem-solving phase reverses the PS-I versus WS-I transfer advantage](ps-phase-duration-reverses-ps-i-ws-i-transfer.md) — related
+- [Across two studies that differed in the duration of the initial problem-solving phase, the PS-I versus WS-I transfer advantage reversed](ps-phase-duration-reverses-ps-i-ws-i-transfer.md) — related
 - [PS-I sequence outperforms I-PS on conceptual knowledge only when instruction builds on student solutions](ps-i-superior-only-with-student-solutions.md) — related

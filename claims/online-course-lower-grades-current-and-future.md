@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Grades are lower both for courses taken online and in future courses
-description: Grades are lower both for courses taken online and in future courses
+title: For college students who can choose between online and in-person sections, taking a course online lowers grades both in that course and in future courses
+description: For college students who can choose between online and in-person sections, taking a course online lowers grades both in that course and in future courses
 id: online-course-lower-grades-current-and-future
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: "?"
 ---
 
-# Grades are lower both for courses taken online and in future courses
+# For college students who can choose between online and in-person sections, taking a course online lowers grades both in that course and in future courses
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
 
 ## Subclaims
-`q3 i?` Grades are lower for the course taken online relative to in-person, and lower in future courses as well. [→ Eric P. Bettinger 2017](#eric-p-bettinger-2017)
+`q3 i?` For students with access to both online and in-person options, grades are lower for the course taken online relative to in-person, and lower in future courses as well; the estimates may not apply to students for whom online courses are the only option. [→ Eric P. Bettinger 2017](#eric-p-bettinger-2017)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Eric P. Bettinger, Lindsay Fox, Susanna Loeb, Eric S. Taylor. (2017). Virtual Cl
 
 `q3 · i?` · `causal · r?`
 
-The key findings state that "Grades are lower both for the course taken online and in future courses," indicating the online format penalty carries over into subsequent coursework. No statistics are printed on this page.
+The key findings state that "Grades are lower both for the course taken online and in future courses," indicating the online format penalty carries over into subsequent coursework. The instrumental-variables estimates are, in the authors' words, "local average treatment effects for students with access to both online and in-person options; for other students, online classes may be the only option for accessing college-level courses." No statistics are printed on this page.
 
 > "Grades are lower both for the course taken online and in future courses."
 

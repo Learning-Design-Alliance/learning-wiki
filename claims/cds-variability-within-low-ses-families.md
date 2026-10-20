@@ -64,7 +64,7 @@ Correlational checks on the same 29-family sample: child-directed speech was als
 ## Related Claims
 - [Within low-SES samples, quality of mother–child communication predicts children's later expressive language more strongly than input quantity](within-ses-quality-over-quantity.md) — related
 - [Substantial variability in maternal talk existed within this primarily low-SES sample, and maternal talk was uncorrelated with SES](maternal-talk-variability-within-low-ses-sample.md) — related
-- [Conversational turn-taking predicts language development better than raw word count or socioeconomic status.](conversational-turns-predict-language-development.md) — related
+- [The number of conversational turns is more closely associated with children's language skills and language-related brain function than the raw number of words heard, regardless of family income or education.](conversational-turns-predict-language-development.md) — related
 - [Amount of child-directed speech at 19 months predicts expressive vocabulary size at 24 months in low-SES Spanish-learning infants](child-directed-speech-predicts-vocabulary-low-ses.md) — related
 - [LENA automated adult word counts are reliable for Spanish-language home environments](lena-adult-word-estimates-reliable-spanish.md) — related
 - [Overheard adult speech is unrelated to 24-month vocabulary, unlike child-directed speech](overheard-speech-unrelated-vocabulary.md) — related

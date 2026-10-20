@@ -45,5 +45,5 @@ Experiment 1, a controlled incidental-learning experiment with 48 subjects in fo
 ## Related Claims
 - [Recall of between-lists repeated words matched two-independent-representations predictions at short retention intervals but exceeded independence after long retention intervals](independence-to-nonindependence-between-lists-recall.md) — related
 - [When the orienting task prevented interitem associations, the within-list lag effect was attenuated after long retention intervals and this attenuation was not a floor effect](lag-effect-eliminated-long-retention-no-associations.md) — related
-- [A within-list lag effect persisted at all retention intervals (up to 7 days) when the orienting task allowed interitem associations, disconfirming a pure context-retrieval account for that condition](within-list-lag-persists-with-interitem-associations.md) — related
+- [A within-list lag effect persisted at all retention intervals (up to 7 days) when the orienting task allowed interitem associations, contrary to what a context-only retrieval account predicts for that condition](within-list-lag-persists-with-interitem-associations.md) — related
 - [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — a broader claim this one bears on

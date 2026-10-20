@@ -48,6 +48,6 @@ Adjusted main-effects regression on the weighted ECLS-B sample of 4,750 children
 
 ## Related Claims
 - [Living in a very safe neighborhood is associated with higher kindergarten curiosity, but only for lower- and middle-resourced children](very-safe-neighborhood-higher-curiosity-lower-middle-ses.md) — related
-- [Living in a very safe neighborhood eliminates the curiosity gap between lower-resourced and higher-resourced children](very-safe-neighborhood-closes-curiosity-gap.md) — related
+- [In very safe neighborhoods, curiosity does not differ between lower-resourced and higher-resourced children, while a gap appears in fairly safe neighborhoods](very-safe-neighborhood-closes-curiosity-gap.md) — related
 - [Higher-quality home environments are associated with higher parent-reported curiosity at kindergarten](home-environment-quality-associated-kindergarten-curiosity.md) — related
 - [More positive parenting is associated with higher parent-reported curiosity at kindergarten in a nationally representative US sample](positive-parenting-associated-higher-kindergarten-curiosity.md) — related

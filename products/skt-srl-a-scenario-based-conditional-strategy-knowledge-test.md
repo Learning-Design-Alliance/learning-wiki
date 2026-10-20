@@ -30,7 +30,7 @@ A scenario-based offline assessment developed by Laura Dörrenbächer-Ulrich and
 - [The SKT-SRL correlates moderately with self-reported SRL strategy usage (convergent validity)](../claims/skt-srl-convergent-validity-questionnaire.md) [+W]
 - [SKT-SRL scores did not correlate significantly with high school GPA in the pilot and validation studies](../claims/skt-srl-no-gpa-correlation.md) [~W]
 - [Adapting the scoring mechanism substantially reduced ceiling effects found in the pilot study](../claims/skt-srl-scoring-reduced-ceiling-effects.md) [+W]
-- [Each SRL component predicts GPA only via a specific assessment method: cognition via strategy knowledge test, motivation via questionnaire, metacognition via open-ended microanalytic question](../claims/different-methods-different-srl-components-achievement.md) [+W]
+- [Whether an SRL component correlates with GPA depends on how it is assessed: cognition via a strategy knowledge test, motivation via questionnaire, metacognition via an open-ended microanalytic question](../claims/different-methods-different-srl-components-achievement.md) [+W]
 - [SRL components show moderate correlations within one assessment level but no correlations across different assessment methods within one component](../claims/srl-monomethod-correlations-no-heteromethod.md) [~W]
 
 ## Related Products and Programmes

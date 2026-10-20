@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Quizzing outperforms no/filler activity, fewer-question testing, restudying, and other elaborative strategies, with the advantage shrinking as the control condition's reexposure increases."
-description: "Quizzing outperforms no/filler activity, fewer-question testing, restudying, and other elaborative strategies, with the advantage shrinking as the control condition's reexposure increases."
+title: "Quizzing outperforms no/filler activity, fewer-question testing and restudying, with a larger advantage over no/filler activity (low reexposure) than over restudying (high reexposure); against other elaborative strategies its advantage is small and not significant."
+description: "Quizzing outperforms no/filler activity, fewer-question testing and restudying, with a larger advantage over no/filler activity (low reexposure) than over restudying (high reexposure); against other elaborative strategies its advantage is small and not significant."
 id: quizzing-beats-restudying-and-elaborative-controls
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: "?"
 ---
 
-# Quizzing outperforms no/filler activity, fewer-question testing, restudying, and other elaborative strategies, with the advantage shrinking as the control condition's reexposure increases.
+# Quizzing outperforms no/filler activity, fewer-question testing and restudying, with a larger advantage over no/filler activity (low reexposure) than over restudying (high reexposure); against other elaborative strategies its advantage is small and not significant.
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i2` medium
 
 ## Subclaims
-`q4 i2` Testing is more effective than no/filler activity (g = 0.610), testing with fewer questions (g = 0.465), restudying (g = 0.330), and other elaborative strategies (g = 0.095) for classroom learning. [→ Yang 2020](#yang-2020)
+`q4 i2` In classroom studies, testing beats no/filler activity (g = 0.610), testing with fewer questions (g = 0.465) and restudying (g = 0.330); the advantage over no/filler activity is significantly larger than over restudying (p < .001), which the authors read as consistent with the additional-exposure account. Against other elaborative strategies the advantage is small and not significant (g = 0.095, 95% CI -0.005 to 0.194, p = .062). [→ Yang 2020](#yang-2020)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Yang, C., Luo, L., Vadillo, M. A., Yu, R., & Shanks, D. R. (2021). Testing (Quiz
 
 `q4 · i2` · `quant-synthesis · r?`
 
-Meta-analytic moderator analysis of control-condition strategy across classroom studies; the review reports testing is "a more powerful method to enhance classroom learning" against each named control, with printed effect sizes g = 0.610, g = 0.465, g = 0.330, and g = 0.095.
+Meta-analytic moderator analysis of control-condition strategy across classroom studies. Control strategy significantly moderated the effect (p < .001): g = 0.610 against no/filler activity (k = 345), 0.465 against fewer questions (k = 25), 0.330 against restudying (k = 162), all p < .001, and 0.095 against other elaborative strategies (k = 41, 95% CI -0.005 to 0.194, p = .062), which the authors call modest and describe as testing being "numerically" superior. Quizzing gained more against no/filler activity (low reexposure) than against restudying (high reexposure), p < .001.
 
 > "By comparison with no/filler activity ( g = 0.610), testing with fewer questions ( g = 0.465), restudying ( g = 0.330), and other elaborative strategies ( g = 0.095), testing is overall a more powerful method to enhance classroom learning."
 

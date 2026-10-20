@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Computer self-efficacy significantly mediates the effect of computer anxiety on perceived ease of use of an LMS
-description: Computer self-efficacy significantly mediates the effect of computer anxiety on perceived ease of use of an LMS
+title: In a cross-sectional survey, computer self-efficacy statistically mediates the association between computer anxiety and perceived ease of use of an LMS
+description: In a cross-sectional survey, computer self-efficacy statistically mediates the association between computer anxiety and perceived ease of use of an LMS
 id: cse-mediates-anxiety-peu-lms
 status: review
 generated:
@@ -13,19 +13,19 @@ sources:
     resource: "https://jite.org/documents/Vol8/JITEv8p177-191Saade708.pdf"
     title: "Saadé, R. G., & Kira, D. (2009). Computer Anxiety in E-Learning: The Effect of Computer Self-Efficacy. Journal of Information Technology Education, 8. https://jite.org/documents/Vol8/JITEv8p177-191Saade708.pdf"
     author: "Saadé, R. G., & Kira, D."
-    q: 3
+    q: 2
     i: "?"
     kind: associational
     rigour: 2
 ---
 
-# Computer self-efficacy significantly mediates the effect of computer anxiety on perceived ease of use of an LMS
+# In a cross-sectional survey, computer self-efficacy statistically mediates the association between computer anxiety and perceived ease of use of an LMS
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · associational `r2` · `q3`
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
-`q3 i?` CSE mediates the ANX–PEU relationship: the ANX–PEU path weakens from β = -0.276 to β = -0.094 when CSE is included, and the Sobel/Goodman test is significant. [→ Saadé 2009](#saade-2009)
+`q2 i?` In survey data, CSE statistically mediates the ANX–PEU association: the ANX–PEU path weakens from β = -0.276 to β = -0.094 when CSE is included, and the Sobel/Goodman test is significant. [→ Saadé 2009](#saade-2009)
 
 ## Evidence
 
@@ -33,9 +33,9 @@ sources:
 
 Saadé, R. G., & Kira, D. (2009). Computer Anxiety in E-Learning: The Effect of Computer Self-Efficacy. Journal of Information Technology Education, 8. https://jite.org/documents/Vol8/JITEv8p177-191Saade708.pdf
 
-`q3 · i?` · `associational · r2`
+`q2 · i?` · `associational · r2`
 
-Mediation analysis (Baron & Kenny criteria plus Sobel/Goodman test in XLSTAT) on survey data from 645 students. The ANX–PEU path dropped from β = -0.276 to β = -0.094 when CSE was added; the indirect-effect test yielded "a z-value = 342 with p<0.000001".
+Mediation analysis (Baron & Kenny criteria plus Sobel/Goodman test in XLSTAT) on cross-sectional questionnaire data from 645 university students; with all three constructs measured at one time, the mediation is statistical and cannot show that anxiety causes lower ease of use or that self-efficacy carries a causal effect. The ANX–PEU path dropped from β = -0.276 to β = -0.094 when CSE was added; the indirect-effect test yielded "a z-value = 342 with p<0.000001".
 
 > "These test yielded a z-value = 342 with p<0.000001, thereby supporting H2 in that CSE does mediate the relationship between ANX and PEU"
 

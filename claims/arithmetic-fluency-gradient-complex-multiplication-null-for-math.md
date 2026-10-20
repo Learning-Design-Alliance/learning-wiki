@@ -64,5 +64,5 @@ The same regression models show complex multiplication significantly predicting 
 ## Related Claims
 - [Specific processing speed generalises beyond mathematics, significantly predicting Chinese and English achievement in both Grade 7 and Grade 9](specific-processing-speed-generalises-to-all-academic-achievements.md) — related
 - [Specific processing speed (reading fluency and simple/complex subtraction fluency) makes a significant unique contribution to Grade 7 mathematics achievement after controlling for age, gender, and general cognitive abilities](specific-processing-speed-predicts-grade7-math.md) — related
-- [Specific processing speed measured in Grade 7 predicts mathematics achievement on the Grade 9 high school entrance examination two years later](specific-processing-speed-predicts-grade9-entrance-exam-math.md) — related
+- [Specific processing speed measured at the start of Grade 7 predicts mathematics achievement on the high school entrance examination at the end of Grade 9](specific-processing-speed-predicts-grade9-entrance-exam-math.md) — related
 - [General processing speed (choice reaction time and figure matching) does not significantly predict mathematics achievement in Grade 7 or Grade 9](general-processing-speed-does-not-predict-math.md) — related

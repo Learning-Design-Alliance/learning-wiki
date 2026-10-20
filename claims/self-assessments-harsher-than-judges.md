@@ -43,6 +43,6 @@ Comparison of self-assessed and judge-rated speech quality on the same 0-10 scal
 
 
 ## Related Claims
-- [Public speaking anxiety negatively affects judged speech performance only among individuals low in attentional control](attentional-control-buffers-speech-anxiety-performance.md) — related
+- [Public speaking anxiety is associated with poorer judged speech performance only among individuals low in attentional control](attentional-control-buffers-speech-anxiety-performance.md) — related
 - [Teachers of color are judged more harshly in evaluations: within the same schools, Black teachers were 50 percent more likely than white teachers to receive a low rating.](biased-teacher-evaluations.md) — related
 - [Participants rated the arithmetic-error peer agent more harshly than the conceptual-error peer agent, calibrating trust by error observability rather than severity](arithmetic-errors-rated-harsher-than-conceptual-errors.md) — related

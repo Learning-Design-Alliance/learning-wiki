@@ -82,6 +82,6 @@ A second meta-analysis reported in the same section found introjected and extern
 ## Related Claims
 - [Promoting autonomous motivation was linked to higher motivation, lower experienced cognitive load, and higher achievement, but causality cannot be interpreted](autonomous-motivation-lower-load-higher-achievement-cross-sectional.md) — related
 - [Autonomous regulation correlates positively with self-efficacy, learning strategies, and behavioral engagement, while controlled regulation shows no significant linear relations with these outcomes](autonomous-regulation-correlations-outcomes.md) — related
-- [Motivational profile membership significantly predicts self-efficacy, learning strategies, and behavioral engagement, with high-autonomous groups scoring higher](profiles-predict-self-efficacy-strategies-engagement.md) — related
+- [Adult learners' motivational profiles differ significantly in self-efficacy, learning strategies and behavioral engagement: the good-quality motivation group scores higher on all three, the high-quantity group on strategies and engagement only](profiles-predict-self-efficacy-strategies-engagement.md) — related
 - [Adult learners' motivation clusters into four profiles combining autonomous and controlled regulation, replicating the structure expected from SDT research with younger students](four-motivational-profiles-adult-learners.md) — related
 - [Dependent versus autonomous cognitive offloading to GenAI shows opposite motivational and cognitive outcome patterns](dependent-autonomous-offloading-genai.md) — related

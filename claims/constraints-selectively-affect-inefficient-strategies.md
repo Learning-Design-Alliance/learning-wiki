@@ -1,7 +1,7 @@
 ---
 type: claim
-title: System constraints have minimal effect on already-efficient task-selection strategies while strongly correcting inefficient ones
-description: System constraints have minimal effect on already-efficient task-selection strategies while strongly correcting inefficient ones
+title: In simulated mastery learning, system constraints left most other task-selection strategies' overpractice stable while sharply reducing it under the outlier risk-averse strategy
+description: In simulated mastery learning, system constraints left most other task-selection strategies' overpractice stable while sharply reducing it under the outlier risk-averse strategy
 id: constraints-selectively-affect-inefficient-strategies
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 2
 ---
 
-# System constraints have minimal effect on already-efficient task-selection strategies while strongly correcting inefficient ones
+# In simulated mastery learning, system constraints left most other task-selection strategies' overpractice stable while sharply reducing it under the outlier risk-averse strategy
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
-`q2 i?` Blocking, Interleaving, Strength Targeting, and Weakness Targeting maintained stable overpractice levels across constraint conditions, whereas constraints substantially reduced inefficiencies only for the risk-averse strategy. [→ Haley Noh 2026](#haley-noh-2026)
+`q2 i?` Blocking, Interleaving, Strength Targeting, and Weakness Targeting maintained stable overpractice levels across constraint conditions in simulations parameterized by student data, while constraints had their strongest effect on the risk-averse strategy (Minimize Worst Case Loss), cutting its overpractice from 30.28 to 1.83 and from 28.93 to 3.22 in the two datasets (Cohen's d 1.87 and 1.86). [→ Haley Noh 2026](#haley-noh-2026)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Haley Noh, Aarna Chowdhary, Jeroen Ooge, Vincent Aleven, Conrad Borchers. (2026)
 
 `q2 · i?` · `design · r2`
 
-Simulation comparison across constraint conditions (Figure 3) showing an asymmetry: constraints exert their strongest effects on risk-averse learners while "already efficient strategies show minimal change". No effect sizes are printed for the stable strategies.
+Simulation study (learner models parameterized with student interaction data; no intervention with real learners) comparing constraint conditions (Figure 3) and showing an asymmetry: constraints exert their strongest effects on risk-averse learners while "already efficient strategies show minimal change". Without constraints the risk-averse strategy overpracticed about 30 times, against an average of 1.7 and 3.2 for the other seven strategies (Strength Targeting was second-worst in equation solving). No effect sizes are printed for the stable strategies.
 
 > "By contrast, most other strategies were relatively unaffected by these constraints. Blocking, Interleaving, Strength Targeting, and Weakness Targeting all maintained stable levels of overpractice across conditions"
 

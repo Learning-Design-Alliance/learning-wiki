@@ -96,7 +96,7 @@ Belonging uncertainty — doubt about whether one fits in a setting — dispropo
 ## The evidence by question
 - *Do brief interventions that address belonging uncertainty improve achievement and persistence, and for whom?* [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+S]
 - *Does a learner's sense of belonging predict motivation, engagement, persistence and achievement?* [Belongingness is among the factors that most strongly and reliably affect learners' academic motivation and achievement](../claims/belongingness-strongly-affects-motivation-achievement.md) [+M]
-- *What in a school or course goes with a stronger sense of belonging?* [Teacher support is the strongest predictor of school belonging](../claims/teacher-support-strongest-predictor-school-belonging.md) [+M]
+- *What in a school or course goes with a stronger sense of belonging?* [Teacher support is among the strongest predictors of school belonging](../claims/teacher-support-strongest-predictor-school-belonging.md) [+M]
 
 ## Related Elements
 - [Check-In](check-in.md) — routine social-emotional temperature-taking that surfaces belonging problems early

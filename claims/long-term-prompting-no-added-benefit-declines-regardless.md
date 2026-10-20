@@ -67,5 +67,5 @@ Mixed ANOVA on self-reported metacognitive strategy use across t5–t8 comparing
 ## Related Claims
 - [Short-term prompting in weekly learning journals increases university students' self-reported cognitive strategy use over time](short-term-journal-prompts-increase-cognitive-strategy-use.md) — related
 - [Short-term prompting in weekly learning journals increases university students' self-reported metacognitive strategy use over time](short-term-journal-prompts-increase-metacognitive-strategy-use.md) — related
-- [Short-term prompting in learning journals does not change university students' self-efficacy](short-term-prompts-do-not-change-self-efficacy.md) — related
+- [University students' self-efficacy showed no significant change during a unit of short-term prompting in learning journals](short-term-prompts-do-not-change-self-efficacy.md) — related
 - [Self-efficacy, but not self-reported strategy use, predicts subsequent exam grades in the university course](self-efficacy-predicts-exam-grades-strategy-use-does-not.md) — related

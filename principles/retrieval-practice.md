@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 88 claims (46 for, 39 mixed, 2 against, 1 unmarked) · 40 studies (15 causal, 9 quant-synthesis, 8 review, 3 associational, 3 theoretical, 2 qualitative), `q1`–`q4` · 12 of 40 report an effect size · 81 claims rest on one study
+> **Evidence** · 88 claims (46 for, 39 mixed, 2 against, 1 unmarked) · 39 studies (15 causal, 8 quant-synthesis, 8 review, 3 associational, 3 theoretical, 2 qualitative), `q1`–`q4` · 12 of 39 report an effect size · 80 claims rest on one study
 
 ## Conditional relationship
 
@@ -84,7 +84,7 @@ Retain the comparator (restudy, rereading, filler or nothing), the item format, 
 Each question below links a general claim that gathers the studies behind it into one table, one row per distinct study, with each study's design and effect as recorded and no averaged verdict (`eval/synthesis/retrieval-practice.json`, `scripts/synthesize_claim.py`; a pilot, 2026-10-13). The count is of distinct studies across the claim and the narrower claims that bear on it.
 
 - Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it? [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]: 12 distinct studies.
-- How does the benefit depend on the delay before the final test? [Retention interval moderates the testing effect, with effects often smaller, null, or reversed at short intervals](../claims/retention-interval-moderates-testing-effect.md) [~M]: 5 distinct studies.
+- How does the benefit depend on the delay before the final test? [Retention interval moderates the testing effect: effects are larger after a day or more than at shorter intervals, where individual studies vary from reliable to null or reversed](../claims/retention-interval-moderates-testing-effect.md) [~M]: 5 distinct studies.
 - Does the benefit carry to new questions, inferences and applications, or only to the items practised? [Retrieval Practice Improves Transfer](../claims/retrieval-practice-improves-transfer.md) [+S]: 6 distinct studies.
 - Does feedback after retrieval add to the benefit? [Feedback Enhances Retrieval Practice](../claims/feedback-enhances-retrieval-practice.md) [+S]: 6 distinct studies.
 - Which practice format: short answer, multiple choice, or matching the final test? [Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference](../claims/short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed.md) [~M]: 5 distinct studies.
@@ -169,7 +169,7 @@ A within-session quiz score, delayed recall, transfer to new questions and value
 - [Whether initial retrieval practice enhances semantic organization in final free recall is unclear, with results that may depend on how retrieval practice is implemented](../claims/effects-of-retrieval-practice-on-semantic-organization-are-unclear.md) [~W]
 - [Whether prompting students to construct explanations during retrieval adds benefit beyond initial free recall is mixed across studies](../claims/adding-explanation-prompts-to-free-recall-retrieval-has-mixed-effects.md) [~W]
 - [Retrieval practice instructions led students to recall items to a criterion of about three correct retrievals before dropping them](../claims/instructions-promote-three-recall-criterion.md) [+W]
-- [Quizzing outperforms no/filler activity, fewer-question testing, restudying, and other elaborative strategies, with the advantage shrinking as the control condition's reexposure increases.](../claims/quizzing-beats-restudying-and-elaborative-controls.md) [+W]
+- [Quizzing outperforms no/filler activity, fewer-question testing and restudying, with a larger advantage over no/filler activity (low reexposure) than over restudying (high reexposure); against other elaborative strategies its advantage is small and not significant.](../claims/quizzing-beats-restudying-and-elaborative-controls.md) [+W]
 - [Repeated successful retrieval during learning predicted final recall in both experiments](../claims/repeated-retrieval-success-predicts-final-recall.md) [+W]
 - [Both preclass (g = 0.186) and postclass (g = 0.536) quizzes enhance learning, with postclass quizzes more effective; benefits increase with treatment duration.](../claims/postclass-quizzes-and-longer-duration-larger-gains.md) [~W]
 - [LLM-generated retrieval practice was practical to deploy and well received, but high correctness rates (about 70% of items at p=1.0) restricted score variance](../claims/llm-generated-retrieval-practice-deployable-but-high-accuracy-limits-variance.md) [~W]
@@ -180,7 +180,7 @@ A within-session quiz score, delayed recall, transfer to new questions and value
 - [Retrieval practice produces reliable positive effects at short delays, although some forgetting must set in so that the final test is not at ceiling](../claims/retrieval-practice-effects-occur-at-short-delays-when-final-tests-avoid-ceiling.md) [+W]
 - [The effect of retrieval practice format on reading comprehension does not differ significantly between an immediate and a three-week-delayed final test](../claims/retrieval-format-by-retention-interval-interaction-not-significant.md) [~W]
 - [Retrieval practice enhances learning across domains and the lifespan in applied educational settings](../claims/retrieval-practice-enhances-learning-applied-settings.md) [+W]
-- [A middle school math teacher replaced rereading with three retrieval-practice strategies after learning that rereading is not effective for long-term retention](../claims/retrieval-practice-implementation-case-newell.md) [+W]
+- [A math teacher whose students had typically prepared for tests by rereading notes implemented three retrieval-practice strategies after learning that rereading is not effective for long-term retention](../claims/retrieval-practice-implementation-case-newell.md) [+W]
 - [Retrieval practice enhances performance on final inference and transfer questions relative to restudying, although a single-word fill-in-the-blank task did not](../claims/retrieval-practice-improves-final-inference-and-transfer-questions.md) [~W]
 - [Retrieval practice format, levels of thinking and retention interval show no significant three-way interaction on undergraduates' reading comprehension](../claims/retrieval-format-levels-of-thinking-retention-interval-three-way-interaction-not-significant.md) [~W]
 - [Spaced retrieval practice (successive relearning) produced multi-year retention of foreign language vocabulary in adults, as reported by the review](../claims/spaced-retrieval-multiyear-vocabulary-retention.md) [+W]
@@ -210,7 +210,7 @@ A within-session quiz score, delayed recall, transfer to new questions and value
 - [Testing effects are stronger when practice and final test formats are identical (g = 0.63) than dissimilar (g = 0.53), supporting transfer-appropriate processing](../claims/tap-identical-formats-stronger-effect.md) [~W]
 - [Participants' willingness to skip feedback after correct responses increases substantially across retrieval-practice cycles](../claims/skipping-after-correct-increases-across-cycles.md) [~W]
 - [Repeated test-restudy trials produced higher final cued recall than study-only or single test-restudy controls across both experiments](../claims/test-restudy-beats-controls.md) [+M]
-- [The retrieval benefit holds at both short (5 min) and long (24 h) retention delays](../claims/ttst-advantage-not-different-at-5min-24h.md) [+W]
+- [The retrieval (TTST) advantage appeared at both short (5 min) and long (24 h) retention delays, with no reliable evidence that it differed between them](../claims/ttst-advantage-not-different-at-5min-24h.md) [+W]
 - [The TTST advantage replicates with meaningful Eskimo/English word pairs (Experiment 2)](../claims/ttst-beats-pure-st-eskimo-pairs.md) [+W]
 - [A systematic review of 50 classroom experiments found retrieval practice yields medium-to-large benefits in most cases, but only 6% were conducted in non-WEIRD countries](../claims/retrieval-practice-review-50-classroom-experiments.md) [~W]
 - [Correct-answer feedback alone was insufficient for generalization: significantly worse than lecture in Study 1, with the difference not significant in Study 2](../claims/correct-answer-feedback-insufficient-for-generalization.md) [~W]

@@ -90,7 +90,7 @@ Separate multi-level model on the same survey data comparing exam types. The stu
 ## Related Claims
 - [Familiarity with online and proctored exams, approximated by exam quartile, shows no effect on test anxiety](familiarity-no-effect-test-anxiety.md) — related
 - [Higher internet literacy is associated with lower test anxiety in online exams](internet-literacy-lower-test-anxiety.md) — related
-- [Test anxiety is negatively related to exam performance, and proctoring does not moderate this relation](test-anxiety-negative-exam-performance.md) — related
+- [Test anxiety is negatively associated with exam performance, and no moderation by proctoring was detected](test-anxiety-negative-exam-performance.md) — related
 - [Lack of study space and financial issues are associated with higher test anxiety in online exams, and reliable technology with lower](contextual-factors-increase-test-anxiety.md) — related
 - [Proctored online exams show no effect on students' perceived exam difficulty](proctoring-no-effect-exam-difficulty.md) — related
 - [Proctored online exams show no effect on students' exam performance](proctoring-no-effect-exam-performance.md) — related

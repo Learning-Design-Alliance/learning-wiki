@@ -44,6 +44,6 @@ Simulation study of 1,000 simulated learners per condition, grounded in AFM/BKT 
 
 ## Related Claims
 - [A closer-to-mastery task-selection constraint sharply reduces overpractice for the risk-averse strategy, with large Cohen's d effect sizes](closer-to-mastery-constraint-reduces-overpractice.md) — related
-- [System constraints have minimal effect on already-efficient task-selection strategies while strongly correcting inefficient ones](constraints-selectively-affect-inefficient-strategies.md) — a broader claim this one bears on
+- [In simulated mastery learning, system constraints left most other task-selection strategies' overpractice stable while sharply reducing it under the outlier risk-averse strategy](constraints-selectively-affect-inefficient-strategies.md) — a broader claim this one bears on
 - [A prefer-harder problem-selection constraint reduces overpractice for the risk-averse strategy in the equation-solving dataset](prefer-harder-constraint-reduces-overpractice.md) — a narrower finding that bears on this claim
 - [Weakness Targeting and Maximize Usual Case Improvement yield the lowest overpractice among unconstrained strategies in the equation-solving dataset](weakness-targeting-lowest-overpractice.md) — related

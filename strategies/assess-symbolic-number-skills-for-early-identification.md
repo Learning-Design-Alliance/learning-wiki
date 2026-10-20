@@ -42,7 +42,7 @@ The article recommends early identification of math risk through assessment of s
 - [Symbolic number predictors account for substantial additional variance in grade 1 math outcomes beyond counting and domain general predictors](../claims/symbolic-number-r2-change-grade1-math.md) [+W]
 - [Number line estimation and numerical magnitude comparison correlate with mathematics achievement (r = .24 to .44), with number line estimation more strongly related in older children](../claims/number-sense-tasks-correlate-with-math-achievement.md) [+W]
 - [Visuo-motor integration and Arabic-numeral knowledge also longitudinally predict kindergarten arithmetic](../claims/visuo-motor-integration-and-arabic-numerals-predict-arithmetic.md) [+W]
-- [Symbolic numerical magnitude comparison contributes more uniquely to subtraction performance than number line estimation](../claims/magnitude-comparison-more-unique-than-number-line.md) [+W]
+- [Symbolic numerical magnitude comparison has a more unique association than number line estimation with children's speed on indirect-addition subtraction items](../claims/magnitude-comparison-more-unique-than-number-line.md) [+W]
 
 ## Related Strategies
 

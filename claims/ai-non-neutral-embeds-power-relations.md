@@ -51,7 +51,7 @@ Theoretical assertion in the discussion, attributed by the article to Coeckelber
 | [Tan et al. 2026](https://doi.org/10.1145/3785022.3785113) | q2 · causal · r2 | i? | [Race prompts elicit culturally stereotyped feedback: Black, Hispanic, and Asian students a](race-prompts-cultural-stereotype-feedback.md) (supports) |
 | [Jean-Pierre Briot 2026](https://doi.org/10.48550/arxiv.2608.05176) | q2 · review · r1 | i? | [AI-assisted outputs are more similar to each other than purely human-authored ones, indica](ai-assisted-outputs-homogenization-risk.md) (supports) |
 | [Zhaozhe Wang 2025](https://doi.org/10.1016/j.compcom.2025.102933) | q2 · qualitative · r2 | i? | [Despite a student's claims of purely human authorial agency, posthumanist analysis of his ](zhimo-revision-meaning-negotiation.md) (supports) |
-| [Raigul Zheldibayeva 2025](https://doi.org/10.48550/arxiv.2605.17055) | q2 · qualitative · r3 | i? | [Interactive dialogue with the AI tool, available only in some sites, promoted deeper engag](interactive-genai-dialogue-promotes-engagement.md) (qualifies) |
+| [Raigul Zheldibayeva 2026](https://doi.org/10.48550/arxiv.2605.17055) | q2 · qualitative · r3 | i? | [Interactive dialogue with the AI tool, available only in some sites, promoted deeper engag](interactive-genai-dialogue-promotes-engagement.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

@@ -13,20 +13,20 @@ sources:
     resource: "https://doi.org/10.48550/arxiv.2605.16296"
     title: "Theodora, A., & Tselios, N. (2026). Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy. https://arxiv.org/abs/2605.16296 [doi:10.48550/arxiv.2605.16296](https://doi.org/10.48550/arxiv.2605.16296)"
     author: "Theodora, A., & Tselios, N."
-    q: 2
+    q: 1
     i: "?"
-    kind: review
-    rigour: 1
+    kind: theoretical
+    rigour: "?"
 ---
 
 # AI in adult education risks reinforcing existing inequalities via the digital divide, particularly for rural, low-income, and marginalized learners
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · review `r1` · `q2`
+> **Evidence** · 1 study · theoretical `r?` · `q1`
 
 ## Subclaims
-`q2 i?` Because AI-powered platforms depend on reliable internet access, devices, and technological literacy, AI risks reinforcing existing inequalities rather than reducing them for learners lacking these resources. [→ Theodora 2026](#theodora-2026)
-`q2 i?` Beyond infrastructure, a digital skills gap affects adults' ability to engage meaningfully with AI-supported environments, especially among older learners. [→ Theodora 2026](#theodora-2026)
+`q1 i?` Because AI-powered platforms depend on reliable internet access, devices, and technological literacy, AI risks reinforcing existing inequalities rather than reducing them for learners lacking these resources. [→ Theodora 2026](#theodora-2026)
+`q1 i?` Beyond infrastructure, a digital skills gap affects adults' ability to engage meaningfully with AI-supported environments, especially among older learners. [→ Theodora 2026](#theodora-2026)
 
 ## Evidence
 
@@ -34,9 +34,9 @@ sources:
 
 Theodora, A., & Tselios, N. (2026). Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy. https://arxiv.org/abs/2605.16296 [doi:10.48550/arxiv.2605.16296](https://doi.org/10.48550/arxiv.2605.16296)
 
-`q2 · i?` · `review · r1`
+`q1 · conceptual policy paper` · `i? · no effect size; an argument, not a study` · `theoretical · r?`
 
-The review argues, citing UNESCO and van Dijk, that because AI platforms depend on internet access, devices, and basic technological literacy that many adult learners lack, AI risks reinforcing inequalities. It adds that digital competence varies widely and older learners face additional barriers.
+This is a conceptual policy paper drawing on the literature and international policy frameworks, not a systematic or empirical review. It argues, citing UNESCO and van Dijk, that because AI platforms depend on internet access, devices, and basic technological literacy that many adult learners lack, AI risks reinforcing inequalities. It adds that digital competence varies widely and older learners face additional barriers.
 
 > "As a result, AI risks reinforcing existing inequalities rather than reducing them (UNESCO, 2024; van Dijk, 2020)."
 

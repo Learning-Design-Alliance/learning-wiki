@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
 
 ## Subclaims
-`q3 i2` Across three studies meeting WWC standards with reservations, Ladders to Literacy had potentially positive effects on alphabetics, averaging +25 percentile points (range +8 to +47) with a domain average effect size of 0.69. [→ What Works Clearinghouse 2007](#what-works-clearinghouse-2007)
+`q3 i2` Four studies meeting WWC standards with reservations examined alphabetics, and Ladders to Literacy was rated as having potentially positive effects; the average improvement index of +25 percentile points (range +8 to +47) and the domain average effect size of 0.69 come from the three studies with computable effect sizes (the fourth, Fuchs et al. 2001, had none). [→ What Works Clearinghouse 2007](#what-works-clearinghouse-2007)
 
 ## Evidence
 

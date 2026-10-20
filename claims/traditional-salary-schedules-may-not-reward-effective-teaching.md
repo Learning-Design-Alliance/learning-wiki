@@ -43,7 +43,7 @@ This is the report's stated rationale for performance-based compensation, presen
 
 
 ## Related Claims
-- [Long teacher commutes and isolated communities hampered teacher recruitment and retention in eight of nine rural SIG schools](rural-teacher-commutes-hinder-staffing.md) — related
+- [Administrators in eight of nine rural SIG schools reported rural-setting factors, chiefly long teacher commutes (six schools) or isolated communities (four), that hampered teacher recruitment or retention](rural-teacher-commutes-hinder-staffing.md) — related
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — related
 - [The average TIF bonus was about 4% of average teacher salary, below the 5% recommended by TIF grant guidance for substantial bonuses](tif-average-bonus-below-recommended-share.md) — related
 - [Districts implemented most components of the performance-based compensation system throughout all four years, but fewer than half planned to keep offering performance bonuses once the grant ended](tif-implementation-sustained-but-bonus-continuation-uncertain.md) — related

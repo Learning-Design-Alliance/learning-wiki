@@ -46,5 +46,5 @@ Final SEM path; subjective performance was also positively predicted by actual m
 - [Achievement Goal Orientation](../learner-variables/achievement-goal-orientation.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [Memory self-efficacy positively predicts memory performance, mediating the indirect effects of both goal orientations](memory-self-efficacy-predicts-performance-mediation.md) — related
+- [In a cross-sectional model of adults, memory self-efficacy is positively associated with memory performance and carries a significant indirect path from learning goals and a marginal one (p = .07) from performance goals](memory-self-efficacy-predicts-performance-mediation.md) — related
 - [Summary traces preserved task performance at the answer-only baseline while elevating subjective appraisal](summary-traces-preserve-performance-baseline.md) — related

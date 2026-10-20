@@ -44,5 +44,5 @@ Comparison of participants' actual selections with model-based selections comput
 
 ## Related Claims
 - [The AI+Robot condition is associated with lower perceived workload than AI-Only on effort, frustration, temporal demand, physical demand, and Raw TLX](ai-robot-condition-lower-workload.md) — related
-- [People significantly underestimate AI-assisted completion times even though actual AI-assisted and independent completion times do not differ (the speedup illusion)](speedup-illusion-ai-assisted-time-underestimation.md) — related
+- [People significantly underestimate AI-assisted completion times on simple cognitive tasks, even though AI assistance saves little or no actual time (the speedup illusion)](speedup-illusion-ai-assisted-time-underestimation.md) — related
 - [Secondary school students selecting tasks without guidance base most selections on content and rarely on difficulty or support level](students-select-tasks-mostly-on-content.md) — related

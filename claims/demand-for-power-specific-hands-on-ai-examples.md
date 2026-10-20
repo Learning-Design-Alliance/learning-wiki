@@ -62,7 +62,7 @@ Survey question on perceived relevance of image-based examples (e.g., MNIST) to 
 
 
 ## Related Claims
-- [Gamified security training showed stronger confidence and format-preference effects among female students than male students](gender-differences-gamified-security-training.md) — related
+- [After gamified security training, female students gave more positive confidence and format-preference ratings than male students (descriptive survey percentages, no inferential test)](gender-differences-gamified-security-training.md) — related
 - [AI-mediated feedback in hands-on exhibits improves learning and engagement](ai-mediated-feedback-in-hands-on-exhibits-improves-learning-and-engagement.md) — related
 - [College students overwhelmingly prefer short, mobile-friendly gamified security training over long desktop training or videos](students-prefer-mobile-gamified-security-training.md) — related
 - [76.5% of students demand a shift toward hands-on practical computer activities over theoretical instruction](student-demand-hands-on-it-instruction.md) — related

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: At the discourse-act level, expression of uncertainty predicts more follow-up while community orientation predicts less, and notes lacking building-knowledge openness receive less follow-up
-description: At the discourse-act level, expression of uncertainty predicts more follow-up while community orientation predicts less, and notes lacking building-knowledge openness receive less follow-up
+title: At the discourse-act level, notes expressing uncertainty are associated with more follow-up and notes open on community orientation with less, and notes lacking building-knowledge openness receive less follow-up
+description: At the discourse-act level, notes expressing uncertainty are associated with more follow-up and notes open on community orientation with less, and notes lacking building-knowledge openness receive less follow-up
 id: uncertainty-discourse-act-more-followup
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 2
 ---
 
-# At the discourse-act level, expression of uncertainty predicts more follow-up while community orientation predicts less, and notes lacking building-knowledge openness receive less follow-up
+# At the discourse-act level, notes expressing uncertainty are associated with more follow-up and notes open on community orientation with less, and notes lacking building-knowledge openness receive less follow-up
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
@@ -35,7 +35,7 @@ van Heijst, H., de Jong, F. P. C. M., van Aalst, J., de Hoog, N., & Kirschner, P
 
 `q3 · i?` · `associational · r2`
 
-Chi-square tests relating the four discourse acts to follow-up among the 594 analyzed units. The article reports "Notes having openness for both components of expression of uncertainty had more follow up than expected ( χ2(2) = 11.93, p <. 0 1 )" and notes open on community orientation had less follow-up (χ2(2) = 13.91).
+Chi-square tests relating the four discourse acts to follow-up among the 594 analyzed units. The article reports "Notes having openness for both components of expression of uncertainty had more follow up than expected ( χ2(2) = 11.93, p <. 0 1 )" and notes open on community orientation had less follow-up (χ2(2) = 13.91). These are observational associations from chi-square tests on existing discourse; they do not show that the discourse acts cause follow-up.
 
 > "For the social dimension, notes having openness for both components of community orientation had less follow-up than expected ( χ2(2) = 13.91, p < .01), while expression of self showed no significant association with follow-up. On the other hand, for the cognitive dimension, notes lacking openness for building knowledge had less follow-up than expected ( χ2(2) = 10.93, p < .01). Notes having openness for both components of expression of uncertainty had more follow up than expected ( χ2(2) = 11.93, p <. 0 1 ) ."
 

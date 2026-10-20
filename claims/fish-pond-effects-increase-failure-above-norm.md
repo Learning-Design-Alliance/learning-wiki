@@ -45,7 +45,7 @@ Logistic models predicting algebra pass rates for above-norm students post-polic
 ## Related Claims
 - [Below-norm students' pass rates improved post-policy because their skills relative to classroom peers improved under sorting](below-norm-pass-rates-improved-relative-skills.md) — related
 - [The double-dose algebra policy adversely affected non-targeted above-norm students: their algebra grades declined and failure rates increased post-policy](double-dose-policy-harmed-above-norm-grades.md) — related
-- [Algebra failure rates rose post-policy for above-norm students (~3 percentage points) but fell for below-norm students (~4 points), largely explained by classroom environment and peer ability](double-dose-failure-rates-divergent.md) — related
+- [Algebra failure rates rose post-policy for above-norm students (~3 percentage points) but fell for below-norm students (~4 points); classroom environment and peer ability explained most of the above-norm rise but not the below-norm fall](double-dose-failure-rates-divergent.md) — related
 - [Classroom peer skill levels explain about 20% of post-policy test score improvements among above-norm algebra students in Chicago](above-norm-score-gains-peer-ability-spillover.md) — related
 - [Failure rates increased and grades declined for higher-skill students in single-period algebra after the policy](grades-declined-higher-skill-single-period-students.md) — related
 - [Double-dose algebra support courses improved algebra test scores for targeted low-skilled students but only modestly affected grades and failure rates](double-dose-algebra-improved-test-scores-modest-grades-effects.md) — related

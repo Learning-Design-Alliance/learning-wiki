@@ -48,7 +48,7 @@ Path analysis results for grade 3 outcomes among 110 at-risk readers followed to
 - [Reading and Language](../learner-variables/reading-and-language.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [First-grade attention has no direct effect on third-grade reading comprehension but an indirect effect through word reading, not listening comprehension](attention-indirect-effect-comprehension-via-word-reading.md) — related
+- [In an observational path model of at-risk readers, first-grade attention had no significant direct path to third-grade reading comprehension but a significant indirect path through word reading, not listening comprehension](attention-indirect-effect-comprehension-via-word-reading.md) — related
 - [Teacher-rated attention does not significantly predict first-grade listening comprehension growth among at-risk readers](attention-not-predict-listening-comprehension-growth.md) — related
 - [Teacher-rated behavioral attention significantly predicts first-grade word reading growth among at-risk readers receiving intensive one-on-one intervention, controlling for literacy, language, cognitive, and behavioral covariates](attention-predicts-word-reading-growth-at-risk-first-graders.md) — related
 - [Attention is more strongly associated with reading and cognitive measures than hyperactivity, which correlates mainly with phonemic decoding and memory](attention-more-associated-reading-than-hyperactivity.md) — related

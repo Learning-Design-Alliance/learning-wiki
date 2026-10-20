@@ -98,7 +98,7 @@ A meta-analysis of 31 experiments and quasi-experiments (2,049 children) in whic
 - [Automatic word recognition frees resources for comprehension.](automatic-word-recognition-frees-resources-for-comprehension.md) — oral language built through dialogic reading underpins later decoding-to-comprehension transitions
 - [Audiobooks.](../elements/audiobooks.md) — a related but non-interactive read-aloud format lacking the dialogic feedback loop
 - [In teacher-led big-book reading, children exercise cognitive autonomy by making their own connections between spoken and written words within the activity's boundaries](big-book-reading-cognitive-autonomy.md) — related
-- [Conversational turn-taking predicts language development better than raw word count or socioeconomic status.](conversational-turns-predict-language-development.md) — related
+- [The number of conversational turns is more closely associated with children's language skills and language-related brain function than the raw number of words heard, regardless of family income or education.](conversational-turns-predict-language-development.md) — related
 - [Joint Book Reading Predicts Literacy Success](joint-book-reading-predicts-literacy-success.md) — related
 - [Parent Involvement Improves Early Reading](parent-involvement-improves-early-reading.md) — related
 - [Parent Coaching Outperforms Information Only](parent-coaching-outperforms-information-only.md) — related
@@ -115,4 +115,4 @@ A meta-analysis of 31 experiments and quasi-experiments (2,049 children) in whic
 - [Parent Implemented Intervention Improves Outcomes](parent-implemented-intervention-improves-outcomes.md) — related
 - [Intervention dosage moderates child language outcomes: brief interventions under 60 minutes show no significant effect](book-sharing-dosage-moderates-language-outcomes.md) — related
 - [Child age, caregiver education and country income level do not moderate book-sharing intervention effects on child language](book-sharing-effects-invariant-age-education-income.md) — related
-- [Multimedia-enhanced stories significantly improve expressive vocabulary for children disadvantaged by environmental factors such as low parental education](multimedia-expressive-vocabulary-environmentally-disadvantaged.md) — related
+- [Technology-enhanced stories (any digital addition, not multimedia alone) significantly improve expressive vocabulary for children disadvantaged by environmental factors such as low parental education](multimedia-expressive-vocabulary-environmentally-disadvantaged.md) — related

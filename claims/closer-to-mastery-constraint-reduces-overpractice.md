@@ -45,4 +45,4 @@ Simulation results (Figure 3) comparing constrained versus unconstrained task-se
 ## Related Claims
 - [A prefer-harder problem-selection constraint reduces overpractice for the risk-averse strategy in the equation-solving dataset](prefer-harder-constraint-reduces-overpractice.md) — related
 - [The risk-averse Minimize Worst Case Loss task-selection strategy produces far higher overpractice than other strategies in simulated mastery learning](risk-averse-task-selection-high-overpractice.md) — related
-- [System constraints have minimal effect on already-efficient task-selection strategies while strongly correcting inefficient ones](constraints-selectively-affect-inefficient-strategies.md) — a broader claim this one bears on
+- [In simulated mastery learning, system constraints left most other task-selection strategies' overpractice stable while sharply reducing it under the outlier risk-averse strategy](constraints-selectively-affect-inefficient-strategies.md) — a broader claim this one bears on

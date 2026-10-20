@@ -43,7 +43,7 @@ The review reports, citing Hammerly (1987), Swain (1985), and Spada and Lightbow
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Is exposure to meaningful input enough for learners to acquire L2 grammar, or do some forms need explicit instruction and practice?* This table gathers the studies behind this claim and the 9 narrower claims that bear on it: **12 distinct studies** (3 review, 3 theoretical, 3 quant-synthesis, 2 causal, 1 qualitative), `q1`–`q3`, 1 of 12 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Is exposure to meaningful input enough for learners to acquire L2 grammar, or do some forms need explicit instruction and practice?* This table gathers the studies behind this claim and the 9 narrower claims that bear on it: **12 distinct studies** (3 review, 3 theoretical, 3 quant-synthesis, 2 causal, 1 qualitative), `q1`–`q3`, 0 of 12 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -58,7 +58,7 @@ The review reports, citing Hammerly (1987), Swain (1985), and Spada and Lightbow
 | [Spada & Tomita 2010](https://doi.org/10.1111/j.1467-9922.2010.00562.x) | q3 · quant-synthesis · r? | i? | [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction](explicit-l2-grammar-instruction-superior-to-implicit.md) (supports) |
 | Calderon 1982 | q2 · theoretical · r1 | i? | [A 1982 bilingual-education teacher-training packet asserts, citing Krashen, that repetitiv](drill-and-grammar-focus-ineffective-for-l2-acquisition.md) (counts against) |
 | Young-Scholten 1999 | q2 · review · r1 | i? | [Successes of form-focused manipulation of input in adult L2 are illusory with respect to l](form-focused-input-manipulation-illusory-for-competence.md) (counts against) |
-| Adamson 1983 | q2 · causal · r1 | i0 | [Monitoring significantly improves a second language learner's accuracy on learnable rules ](monitoring-improves-learnable-rule-accuracy.md) (qualifies); [Monitoring lowers accuracy for unlearnable rules: preposition usage was significantly less](monitoring-lowers-preposition-accuracy.md) (qualifies) |
+| Adamson 1983 | q2 · causal · r1 | i? | [Monitoring significantly improves a second language learner's accuracy on learnable rules ](monitoring-improves-learnable-rule-accuracy.md) (qualifies); [Monitoring lowers accuracy for unlearnable rules: preposition usage was significantly less](monitoring-lowers-preposition-accuracy.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

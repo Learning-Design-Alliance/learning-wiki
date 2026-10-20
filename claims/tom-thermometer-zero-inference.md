@@ -43,4 +43,4 @@ Qualitative analysis of a preliminary clinical interview with one male sixth-gra
 
 
 ## Related Claims
-- [After a lesson series, students can flexibly switch between mathematically correct number-line reasoning and context-based absolute-value reasoning](post-lesson-flexible-perspective-switching.md) — related
+- [After a lesson series, two sixth graders could switch flexibly between perspectives when comparing negative integers; one distinguished number-line order from context-based absolute-value reasoning about debts](post-lesson-flexible-perspective-switching.md) — related

@@ -43,7 +43,7 @@ The review argues that because students' learning patterns are related to enviro
 
 - [Learning patterns relate to contextual factors including teaching strategies, perceptions of the learning environment, and discipline](../claims/learning-patterns-contextual-factors.md) [+M]
 - [Cross-country meta-analysis: meaning-directed, reproduction-directed and undirected patterns are universal, while application-directed, passive-idealistic and passive-motivational patterns are context-specific](../claims/learning-patterns-cross-country-universality.md) [+M]
-- [Learning patterns relate to personal factors (personality, motivation, beliefs, prior education, age, gender) with weak-to-moderate associations indicating potential for change](../claims/learning-patterns-personal-factors.md) [+M]
+- [Learning patterns are associated with personal factors (personality, motivation, beliefs, prior education, age, gender); their associations with personality are weak to moderate, indicating learning patterns are not stable traits](../claims/learning-patterns-personal-factors.md) [+M]
 - [Meaning-directed learning is positively related to academic performance while undirected learning is consistently negatively related](../claims/meaning-directed-positive-undirected-negative-performance.md) [+W]
 
 ## Related Strategies

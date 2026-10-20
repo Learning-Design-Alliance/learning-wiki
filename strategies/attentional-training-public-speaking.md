@@ -38,7 +38,7 @@ The authors suggest that "interventions aimed at improving public speaking might
 
 ## Claims
 
-- [Public speaking anxiety negatively affects judged speech performance only among individuals low in attentional control](../claims/attentional-control-buffers-speech-anxiety-performance.md) [+W]
+- [Public speaking anxiety is associated with poorer judged speech performance only among individuals low in attentional control](../claims/attentional-control-buffers-speech-anxiety-performance.md) [+W]
 - [Attentional shifting, but not focusing, significantly moderates the effect of speech anxiety on judged quality](../claims/attentional-shifting-moderates-anxiety-effect.md) [+W]
 - [Speech length mediates the anxiety-to-judged-quality link only for individuals low in attentional control](../claims/moderated-mediation-speech-length-low-acs.md) [+W]
 - [Greater public speaking anxiety correlates with shorter and more poorly received speeches](../claims/speech-anxiety-correlates-poorer-performance.md) [+W]

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Adding ACT scores to models with HSGPA does not improve prediction of college graduation or reduce between-school variability
-description: Adding ACT scores to models with HSGPA does not improve prediction of college graduation or reduce between-school variability
+title: Adding ACT scores to models with HSGPA contributes little to the prediction of college graduation and does not reduce between-school variability
+description: Adding ACT scores to models with HSGPA contributes little to the prediction of college graduation and does not reduce between-school variability
 id: act-adds-little-beyond-hsgpa
 aliases: [act-adds-little-beyond-hsgpa-graduation]
 status: review
@@ -28,17 +28,17 @@ sources:
     rigour: 3
 ---
 
-# Adding ACT scores to models with HSGPA does not improve prediction of college graduation or reduce between-school variability
+# Adding ACT scores to models with HSGPA contributes little to the prediction of college graduation and does not reduce between-school variability
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r3` · `q2`
 
 ## Subclaims
 
-`q2 i?` When HSGPA and ACT are entered together, the ACT coefficient shrinks from 0.129 to a nonsignificant -0.016 while the HSGPA coefficient is essentially unchanged (0.708 vs 0.703). [→ Allensworth 2019](#allensworth-2019)
+`q2 i?` When HSGPA and ACT are entered together, the linear ACT coefficient shrinks from 0.129 to a nonsignificant -0.016 (a quadratic ACT term, -0.108, remains in the model) while the HSGPA coefficient is essentially unchanged (0.708 vs 0.703). [→ Allensworth 2019](#allensworth-2019)
 `q2 i?` School-level variance in the combined model (0.622) is similar to the HSGPA-only model (0.603), so individual ACT scores do not reduce high school variability in predicting graduation. [→ Allensworth 2019 (2)](#allensworth-2019-2)
 
-`q3 i?` In combined models the ACT coefficient shrinks to a nonsignificant -0.016 while the HSGPA coefficient is essentially unchanged, and school-level variance is similar (0.622 vs 0.603). [→ Allensworth 2019](#allensworth-2019)
+`q2 i?` In combined models the linear ACT coefficient shrinks to a nonsignificant -0.016 while the HSGPA coefficient is essentially unchanged, and school-level variance is similar (0.622 vs 0.603). [→ Allensworth 2019](#allensworth-2019)
 
 ## Evidence
 
@@ -48,7 +48,7 @@ Allensworth, Elaine M., & Clark, Kallie. (2019). Are GPAs an Inconsistent Measur
 
 `q2 · i?` · `associational · r3`
 
-Joint hierarchical model entering standardized HSGPA and ACT with quadratic terms (n=17,753). The ACT slope still varies significantly by high school (0.213), ranging from negative to positive across schools.
+Joint hierarchical model entering standardized HSGPA and ACT with quadratic terms (n=17,753). The linear ACT coefficient becomes nonsignificant, though a quadratic ACT term (-0.108) remains, so the authors describe ACT as contributing little to the prediction rather than nothing. The ACT slope still varies significantly by high school (0.213), ranging from negative to positive across schools.
 
 > "The main HSGPA coefficient does not change substantially relative to the model without ACT scores in Table 2 (0.708 vs 0.703), but the main ACT coefficient shrinks considerably from the model without HSGPA (from 0.129 to a nonsignificant -0.016)."
 

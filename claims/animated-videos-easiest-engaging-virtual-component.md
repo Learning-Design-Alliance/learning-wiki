@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Animated videos were the easiest and most engaging Hero Elementary component to implement virtually, providing an accessible shared entry point for students with IEPs and English learners
-description: Animated videos were the easiest and most engaging Hero Elementary component to implement virtually, providing an accessible shared entry point for students with IEPs and English learners
+title: Teachers found the animated videos the easiest Hero Elementary component to implement virtually and fun and engaging for students, and described them as an equal, shared platform for students with IEPs and English learners
+description: Teachers found the animated videos the easiest Hero Elementary component to implement virtually and fun and engaging for students, and described them as an equal, shared platform for students with IEPs and English learners
 id: animated-videos-easiest-engaging-virtual-component
 status: review
 generated:
@@ -19,14 +19,14 @@ sources:
     rigour: "?"
 ---
 
-# Animated videos were the easiest and most engaging Hero Elementary component to implement virtually, providing an accessible shared entry point for students with IEPs and English learners
+# Teachers found the animated videos the easiest Hero Elementary component to implement virtually and fun and engaging for students, and described them as an equal, shared platform for students with IEPs and English learners
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
-`q2 i?` Teachers consistently found the videos the easiest activity to implement and reported high student engagement, with episodes acting as an equalizer for special education and English learner students. [→ Li 2022](#li-2022)
+`q2 i?` Teachers consistently found the videos the easiest activity to implement and reported that students found them fun and engaging (no comparison of engagement across components was made), with episodes acting as an equalizer for special education and English learner students. [→ Li 2022](#li-2022)
 
 ## Evidence
 

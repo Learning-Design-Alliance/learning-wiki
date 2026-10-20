@@ -35,7 +35,7 @@ Traci Sitzmann. (2011). A Meta-Analytic Examination of the Instructional Effecti
 
 `q3 · i2` · `quant-synthesis · r2`
 
-Meta-analytic publication-status moderator analysis from Table 2: 44 published samples (N = 3,032) yielded d = .52 while 16 unpublished samples (N = 993) yielded d = −.10, with QB = 64.91 significant, indicating a file drawer problem in this literature.
+Meta-analytic publication-status moderator analysis from Table 2: 44 effect sizes from published studies (N = 3,032) yielded d = .52 while 16 effect sizes from unpublished studies (N = 993) yielded d = −.10, with QB = 64.91 significant, indicating a file drawer problem in this literature.
 
 > "Published .52 .04 44 3,032 .44 .59 64 .91∗ 287.50∗ Unpublished −.10 .07 16 993 −.23 .03"
 

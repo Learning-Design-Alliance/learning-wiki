@@ -47,4 +47,4 @@ Meta-analytic finding across 51 studies (N = 67,378) of adolescent school belong
 
 ## Related Claims
 - [Social support factors (parent, peer, teacher) are among the themes associated with adolescent school belonging](social-support-themes-school-belonging.md) — related
-- [Teacher support is the strongest predictor of school belonging](teacher-support-strongest-predictor-school-belonging.md) — related
+- [Teacher support is among the strongest predictors of school belonging](teacher-support-strongest-predictor-school-belonging.md) — related

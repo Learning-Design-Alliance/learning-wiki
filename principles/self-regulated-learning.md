@@ -220,7 +220,7 @@ Gains in strategy knowledge, self-reported regulation, self-efficacy, study time
 - [Stronger self-reported SRL skills manifest in more revisiting of previously completed course materials, especially assessments](../claims/srl-manifests-in-revisiting-assessments.md) [~W]
 - [SRL scaffolds in computer-based learning environments produce a medium, significantly positive effect on academic performance (ES = 0.438)](../claims/srl-scaffolds-positive-effect-academic-performance.md) [+W]
 - [Training effects vary across specific SRL strategies, ranging from .23 (rehearsal) to .61 (attention and concentration)](../claims/srl-strategy-specific-effects-range.md) [+W]
-- [Teachers' SRL promotion is not significantly associated with students' perceived cost of using strategies at class or student level](../claims/srl-promotion-not-linked-to-student-cost.md) [~W]
+- [Student-reported SRL promotion is not significantly associated with students' perceived cost of using strategies at class level, and only negligibly (r = −.04) at student level](../claims/srl-promotion-not-linked-to-student-cost.md) [~W]
 - [Extended SRL training programs enhance university students' academic performance, SRL strategies, and motivation (overall g = .38)](../claims/srl-training-university-students-overall-g38.md) [+W]
 - [Superficial information use with limited processing is the most used technology-based SRL strategy, while self-evaluation is among the least used](../claims/superficial-use-highest-self-evaluation-lowest-srl-strategies.md) [~W]
 - [Self-monitoring of work quality requires three student capacities: appreciation of high quality, evaluative skill, and a store of modification tactics](../claims/three-capacities-for-evaluative-self-monitoring.md) [~W]

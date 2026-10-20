@@ -45,5 +45,5 @@ PLS-SEM structural paths in the 434-teacher Dominican Republic sample. Both self
 
 - [Teachers' expectancy beliefs about successfully using AI applications shape their motivation to use them (theoretical argument).](teacher-expectancy-beliefs-shape-motivation-to-use-ai.md) — the general claim this finding bears on, with the studies behind it
 - [Behavioural intention to use GenAI tools significantly predicts in-service teachers' self-reported pedagogical digital competence for curriculum planning](bi-predicts-genai-digital-competence.md) — related
-- [Teacher self-efficacy has its largest effect on perceived enjoyment of GenAI tools](self-efficacy-drives-perceived-enjoyment-genai.md) — related
+- [Teacher self-efficacy is most strongly associated with perceived enjoyment of GenAI tools](self-efficacy-drives-perceived-enjoyment-genai.md) — related
 - [Perceived usefulness and perceived ease of use of GenAI tools significantly predict teachers' attitudes and behavioural intention](usefulness-ease-predict-attitude-intention-genai.md) — related

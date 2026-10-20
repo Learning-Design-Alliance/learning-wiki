@@ -22,7 +22,7 @@ sources:
 # Self-Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 54 claims (13 for, 28 mixed, 13 against) · 44 studies (21 causal, 10 associational, 4 review, 4 theoretical, 3 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 16 of 44 report an effect size · 50 claims rest on one study
+> **Evidence** · 54 claims (13 for, 28 mixed, 13 against) · 44 studies (21 causal, 10 associational, 4 review, 4 theoretical, 3 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 17 of 44 report an effect size · 50 claims rest on one study
 
 ## Description
 Self-assessment is the element in which learners judge their own work, understanding, or progress against explicit criteria. It is useful when the goal is not only better immediate performance, but stronger self-monitoring and more accurate judgments about what to improve next.
@@ -79,7 +79,7 @@ Self-assessment is the element in which learners judge their own work, understan
 - [Self-assessments of diagram boxes are more accurate than comprehension judgments and strongly correlated with them in the diagramming paradigm](../claims/self-assessments-more-accurate-than-comprehension-judgments.md) [~W]
 - [Students tend to rely on non-diagnostic cues when judging their own performance, resulting in inaccurate judgments](../claims/students-rely-on-nondiagnostic-cues-inaccurate-monitoring.md) [~W]
 - [After self-scoring, the monitoring-accuracy gap between low- and high-performing students remains on multiplication (small) but disappears on division](../claims/unskilled-unaware-monitoring-after-self-scoring.md) [~W]
-- [Scaffolded drawing does not improve absolute monitoring accuracy compared with drawing from scratch](../claims/scaffolded-drawing-no-better-than-scratch-absolute-monitoring.md) [~W]
+- [Scaffolded drawing showed no significant advantage over drawing from scratch for absolute monitoring accuracy](../claims/scaffolded-drawing-no-better-than-scratch-absolute-monitoring.md) [~W]
 - [Learners accurately judge that twice-presented items are more likely to be recalled than once-presented items](../claims/accurate-jol-repetition-benefit.md) [+W]
 - [The Bias Index significantly predicts all four WIAT-II achievement measures, with over-confidence associated with lower achievement](../claims/bias-index-predicts-achievement.md) [~W]
 - [Student teachers' self-assessed preparedness did not predict first-year effectiveness (r = 0.03), while mentor teachers' ratings of student teachers did (r = 0.24)](../claims/cps-early-indicators-mentor-ratings-predict-first-year-effectiveness.md) [-W]

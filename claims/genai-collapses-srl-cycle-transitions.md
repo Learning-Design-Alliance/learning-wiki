@@ -47,7 +47,7 @@ The paper reports, citing Fan et al.'s study, that the SRL cycle is vulnerable t
 ## Related Claims
 
 - [Evidence suggests over-reliance on generative AI may negatively affect students' self-regulated learning behaviors, potentially harming retention and transfer to novel contexts](genai-overreliance-harms-self-regulated-learning.md) — the general claim this finding bears on, with the studies behind it
-- [Review-attributed evidence: ChatGPT use improved short-term essay scores but triggered metacognitive laziness with no significant knowledge-transfer gains](chatgpt-metacognitive-laziness-fan-2025.md) — possibly the same claim (merge candidate)
+- [As cited second-hand in an AI-literacy framework paper: ChatGPT use improved short-term essay scores but triggered metacognitive laziness with no significant knowledge-transfer gains](chatgpt-metacognitive-laziness-fan-2025.md) — possibly the same claim (merge candidate)
 - [Some GenAI tools can inhibit productive struggle by reducing cognitive effort (metacognitive laziness)](genai-metacognitive-laziness.md) — a broader claim this one bears on
 - Generative AI can help people finish tasks more quickly but does not accelerate learning itself — related
 - GenAI and metacognitive self-reports did not robustly predict behavioral regulation or final task performance — related

@@ -41,7 +41,7 @@ A semi-structured interview instrument conducted with undergraduate Statistics s
 ## Claims
 
 - [Instructors in their second or subsequent term using Lumen One made greater use of six of seven instructor-facing courseware components than first-term users.](../claims/instructor-facing-use-increases-repeated-terms.md) [+W]
-- [BIPOC students perceived statistics as a neutral subject and did not discern explicit racial or cultural inclusion in the courseware, generally viewing that neutrality as appropriate](../claims/students-perceive-statistics-as-neutral-subject.md) [+W]
+- [Interviewed introductory statistics students often described the subject as neutral, many saw the courseware's neutrality as appropriate, and some did not discern explicit racial or cultural inclusion in it](../claims/students-perceive-statistics-as-neutral-subject.md) [+W]
 
 ## Related Elements
 

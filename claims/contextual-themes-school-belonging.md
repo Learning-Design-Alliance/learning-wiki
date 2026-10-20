@@ -47,7 +47,7 @@ Systematic review phase identifying the ten themes, including the contextual the
 
 ## Related Claims
 
-- [Teacher support is the strongest predictor of school belonging](teacher-support-strongest-predictor-school-belonging.md) — the general claim this finding bears on, with the studies behind it
+- [Teacher support is among the strongest predictors of school belonging](teacher-support-strongest-predictor-school-belonging.md) — the general claim this finding bears on, with the studies behind it
 - [Individual-difference themes (academic motivation, emotional stability, gender, race and ethnicity) are associated with school belonging](individual-difference-themes-school-belonging.md) — related
 - [Social support factors (parent, peer, teacher) are among the themes associated with adolescent school belonging](social-support-themes-school-belonging.md) — related
 - [Extracurricular involvement and adult mentorship are associated with reversal of gifted underachievement](extracurriculars-mentoring-reverse-underachievement.md) — related

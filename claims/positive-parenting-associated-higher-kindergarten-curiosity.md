@@ -50,4 +50,4 @@ Adjusted multivariable linear regression (SURVEYREG with sample weights) on the 
 - [Higher SES is associated with higher parent-reported curiosity at kindergarten](higher-ses-associated-higher-kindergarten-curiosity.md) — related
 - [Higher-quality home environments are associated with higher parent-reported curiosity at kindergarten](home-environment-quality-associated-kindergarten-curiosity.md) — related
 - [Living in a very safe neighborhood is associated with higher kindergarten curiosity, but only for lower- and middle-resourced children](very-safe-neighborhood-higher-curiosity-lower-middle-ses.md) — related
-- [Living in a very safe neighborhood eliminates the curiosity gap between lower-resourced and higher-resourced children](very-safe-neighborhood-closes-curiosity-gap.md) — related
+- [In very safe neighborhoods, curiosity does not differ between lower-resourced and higher-resourced children, while a gap appears in fairly safe neighborhoods](very-safe-neighborhood-closes-curiosity-gap.md) — related

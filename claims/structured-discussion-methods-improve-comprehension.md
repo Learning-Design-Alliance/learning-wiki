@@ -148,7 +148,7 @@ A year-long study of 35 fourth-graders across two classrooms implementing Qualit
 - [Questioning strategies improve learning.](questioning-strategies-improve-learning.md) — teacher questioning quality is a primary driver of discussion quality
 - [Cognitive disequilibrium motivates conceptual change.](cognitive-disequilibrium-motivates-conceptual-change.md) — productive discussion often works by surfacing and resolving conceptual conflict
 - [Clear structure improves learning.](clear-structure-improves-learning.md) — discussion quality depends on explicitly established norms and structure
-- [Active and collaborative approaches promote higher-order thinking and complex reasoning (review attribution)](active-collaborative-approaches-higher-order-thinking.md) — related
+- [Active and collaborative approaches promote higher-order thinking and complex reasoning (attributed to earlier studies in a framework paper)](active-collaborative-approaches-higher-order-thinking.md) — related
 - [A scholar identifies children's acquisition of appropriate critical thinking skills as the determining element of MLE quality in elementary schools](critical-thinking-quality-mle.md) — related
 - [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — related
 - [A 1970 teacher self-analysis programme asserts, without data, that teacher responses including verbal rewards can close off pupil thinking](teacher-responses-can-close-off-pupil-thinking.md) — related

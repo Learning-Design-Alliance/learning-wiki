@@ -48,4 +48,4 @@ Controlled experiment with 75 undergraduate teacher students in a 2×2 design (o
 - [No significant effect of order of phases on procedural knowledge in the Bayesian-reasoning replication](ps-i-no-effect-procedural-bayesian.md) — related
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — reports the opposite
 - [Including typical student solutions in explicit instruction showed no significant effect on conceptual knowledge in the Bayesian-reasoning replication](typical-solutions-instruction-no-effect-bayesian.md) — related
-- [Duration of the initial problem-solving phase reverses the PS-I versus WS-I transfer advantage](ps-phase-duration-reverses-ps-i-ws-i-transfer.md) — related
+- [Across two studies that differed in the duration of the initial problem-solving phase, the PS-I versus WS-I transfer advantage reversed](ps-phase-duration-reverses-ps-i-ws-i-transfer.md) — related

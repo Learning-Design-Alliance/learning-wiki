@@ -22,7 +22,7 @@ A brief, direct assessment developed by Day et al. for measuring children's work
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Fall RRRP performance is significantly associated with independent measures of working memory, attention, and inhibitory control in third graders](../claims/rrrp-associated-with-self-regulation-measures.md) [+M]
+- [Fall RRRP scores are significantly associated with working memory and attention measures, and its wait-for-go score with inhibitory-control ratings, in third graders](../claims/rrrp-associated-with-self-regulation-measures.md) [+M]
 - [Fall RRRP predicted spring reading outcomes, with Part 1 predicting decoding and comprehension and Part 2 predicting vocabulary and gains in comprehension and vocabulary](../claims/rrrp-parts-differentially-predict-reading-outcomes.md) [+M]
 
 ## Related Products and Programmes

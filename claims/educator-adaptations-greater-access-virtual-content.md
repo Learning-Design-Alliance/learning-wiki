@@ -44,10 +44,10 @@ Study 2 educator interviews and telemetry data: educators tried different strate
 
 
 ## Related Claims
-- [Animated videos were the easiest and most engaging Hero Elementary component to implement virtually, providing an accessible shared entry point for students with IEPs and English learners](animated-videos-easiest-engaging-virtual-component.md) — related
+- [Teachers found the animated videos the easiest Hero Elementary component to implement virtually and fun and engaging for students, and described them as an equal, shared platform for students with IEPs and English learners](animated-videos-easiest-engaging-virtual-component.md) — related
 - [Teachers reported the program was easy to implement and children enjoyed the activities, with modifications made for time, space, darkness, and plant-growth constraints](nico-nor-teacher-implementation-experience.md) — related
 - Parents used the digital Family Guide flexibly, modifying activities to fit their routines or creating new activities based on family interests — related
 - Virtual implementation of Hero Elementary varied widely across classrooms, with teachers mixing synchronous and asynchronous instructional strategies — related
-- [Educators rarely facilitated connections between playlist activities or to students' lives; introductions and debriefings focused on logistics rather than science content](educators-rarely-facilitated-connections-between-playlists.md) — related
+- [Educators rarely facilitated connections between playlist activities or to students' lives; introductions focused on instructions and logistics, and debriefings were often unstructured reviews of the activity](educators-rarely-facilitated-connections-between-playlists.md) — related
 - [Teachers found Hero Elementary playlist hands-on activities easy to implement because materials were supplied and prepped.](hero-elementary-hands-on-activities-easy-implementation-prepped-materials.md) — related
 - In informal virtual programs, technology access was the first and most significant barrier to participating in Hero Elementary — reports the opposite

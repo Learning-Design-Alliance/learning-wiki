@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · design `r2` · `q3`
 
 ## Subclaims
-`q3 i?` Fast-mode LLM grading showed low weighted kappas with humans (0.070–0.287), while thinking mode raised agreement, most for ChatGPT (0.718). [→ Brevik A 2026](#brevik-a-2026)
+`q3 i?` Fast-mode LLM grading showed low weighted kappas with humans (0.070–0.287); thinking mode raised agreement for ChatGPT (to 0.718), Kimi (0.571) and LeChat (0.186) but not for Gemini, which fell to 0.237. [→ Brevik A 2026](#brevik-a-2026)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Brevik A, Jerpseth H and Lafontan SR (2026). Large language models as grading as
 
 `q3 · i?` · `design · r2`
 
-Single-file comparison of four LLMs against human grades on 32 submissions. Table 1 shows fast-mode kappas of 0.269 (ChatGPT), 0.287 (Gemini), 0.070 (LeChat), 0.227 (Kimi); thinking mode improved these, and "the LLMs utilized more of the full grading scale" in thinking mode.
+Single-file comparison of four LLMs against human grades on 32 submissions. Table 1 shows fast-mode kappas of 0.269 (ChatGPT), 0.287 (Gemini), 0.070 (LeChat), 0.227 (Kimi); thinking mode raised them for ChatGPT (0.718), Kimi (0.571) and LeChat (0.186) but lowered Gemini's (0.237); Gemini Pro, tested only in thinking mode, reached 0.380. In thinking mode "the LLMs utilized more of the full grading scale".
 
 > "The weighted Cohen's kappa measuring inter-rater reliability for grading method comparisons indicated that the agreement between human graders and fast LLM grading was not high."
 

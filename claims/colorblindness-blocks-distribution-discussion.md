@@ -48,7 +48,7 @@ Theoretical/interpretive argument drawing on the author's observations of Chicag
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | Payne 2005 | q1 · theoretical · r2 | i? | this claim; [Payne suspects that a school's inability to talk openly about race predicts its capacity f](racial-reticence-predicts-school-change-capacity.md) (supports) |
-| Koch 2025 | q2 · qualitative · r2 | i? | [BIPOC students perceived statistics as a neutral subject and did not discern explicit raci](students-perceive-statistics-as-neutral-subject.md) (qualifies) |
+| Koch 2025 | q2 · qualitative · r2 | i? | [Interviewed introductory statistics students often described the subject as neutral, many ](students-perceive-statistics-as-neutral-subject.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

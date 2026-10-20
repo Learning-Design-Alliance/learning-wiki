@@ -104,7 +104,7 @@ either. Any design that rests on this claim is resting on a mechanism, and shoul
 - [Cognitive Load Management](cognitive-load-management.md) — related
 - [Words higher in contextual diversity and semantic richness are processed more accurately and efficiently in lexical tasks](cd-semantic-richness-improves-lexical-processing.md) — related
 - Combined semantic and syntactic contextual information expedites word recognition compared with syntactic information alone — related
-- [Lower-level phonological processing efficiency contributes significantly to individual differences in adult ESL reading measures](phonological-orthographic-efficiency-predicts-esl-reading.md) — related
+- [Efficiency in phonological and orthographic processing contributes significantly to individual differences in adult ESL reading measures](phonological-orthographic-efficiency-predicts-esl-reading.md) — related
 - [Disadvantaged children may struggle with reading comprehension because they often lack general vocabulary and strategies for organizing information from text](disadvantaged-students-lack-vocabulary-and-comprehension-strategies.md) — related
 - Multisensory literacy strategies help students with low working memory become better at decoding — related
 - Students with lower Attention skills struggle to learn Alphabet Knowledge and Phonological Awareness, both important for Decoding — related

@@ -79,8 +79,8 @@ some configurations.
 - Morpheme difficulty orders were similar across first-language backgrounds, suggesting universals in language acquisition — related
 - Adults may have superior language learning capabilities in vocabulary and language structure — related
 - [A learner's mother language affects second language acquisition, particularly in production of absent sounds](mother-tongue-affects-sla-production.md) — related
-- [Lower-level phonological processing efficiency contributes significantly to individual differences in adult ESL reading measures](phonological-orthographic-efficiency-predicts-esl-reading.md) — related
-- [Cross-linguistic transfer is skill-specific: phonological awareness and print concepts transfer across languages, vocabulary and comprehension do not](cross-linguistic-transfer-skill-specific.md) — related
+- [Efficiency in phonological and orthographic processing contributes significantly to individual differences in adult ESL reading measures](phonological-orthographic-efficiency-predicts-esl-reading.md) — related
+- [Cross-linguistic transfer is skill-specific: phonological awareness and print concepts are more likely to transfer across languages, while vocabulary and comprehension are more language-dependent](cross-linguistic-transfer-skill-specific.md) — related
 - [The phonological loop plays a significant role in vocabulary acquisition and second language learning](phonological-loop-vocabulary-acquisition-l2.md) — related
 - [Ultimate attainment and optimal-period length do not reliably differ across major native-language groups, with slightly more evidence for differences in learning curves](native-language-group-differences-small-unreliable.md) — related
 - [Young DLLs have two separate phonological and grammatical language systems early in life](dlls-two-separate-language-systems-early.md)

@@ -70,4 +70,4 @@ In Experiment 2's stepwise regression, the rereading-vs-once dummy variable was 
 - [Readers with an entertainment goal make more evaluative comments than readers with a study goal, with no difference in affective responses](entertainment-goal-more-evaluations.md) — related
 - [The context-learning effect did not significantly interact with reading comprehension ability, though the trend favored more able readers](context-learning-comprehension-interaction-marginal.md) — related
 - [Self-questioning during study benefits low verbal ability high school students more than high verbal ability students (Experiment 1)](self-questioning-benefits-low-verbal-ability-more.md) — related
-- [All seven situation-model interventions except self-explaining significantly improved relative metacomprehension accuracy](individual-interventions-effective-except-self-explaining.md) — related
+- [Five of seven situation-model interventions significantly improved relative metacomprehension accuracy, concept mapping only marginally (p = .097), and self-explaining not significantly](individual-interventions-effective-except-self-explaining.md) — related

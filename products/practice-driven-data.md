@@ -22,7 +22,7 @@ A five-lesson, context-sensitive framework for using data in school improvementâ
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Between 2006 and 2017, Chicago Public Schools saw large rises in freshman on-track, graduation, and college enrollment, with the greatest on-track increases among Black and Latino males](../claims/chicago-2006-2017-attainment-indicator-gains.md) [+M]
+- [In the decade or so to 2017, Chicago Public Schools saw large rises in freshman on-track rates (2006 to 2017), graduation, and college enrollment, with the greatest on-track increases among Black and Latino males](../claims/chicago-2006-2017-attainment-indicator-gains.md) [+M]
 
 ## Related Products and Programmes
 

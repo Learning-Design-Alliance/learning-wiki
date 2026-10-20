@@ -49,5 +49,5 @@ In Experiment 1, conditions did not differ in mean performance on any of the tes
 - [Working memory capacity predicts monitoring accuracy after a single reading but not after rereading, independently of comprehension ability (Experiment 2)](wmc-by-rereading-interaction.md) — related
 - [Questioning-with-training produced higher posttest scores than read-reread study (Experiment 2)](questioning-with-training-beats-rereading.md) — related
 - [Diagramming conditions show no significant differences from control in regulation measures or reading comprehension test scores for causal relations](diagramming-no-effect-regulation-test-scores.md) — related
-- [Instructional visuals did not affect test performance or test and explain relative metacomprehension accuracy](instructional-visuals-no-effect-test-performance-or-test-explain-accuracy.md) — related
-- [All seven situation-model interventions except self-explaining significantly improved relative metacomprehension accuracy](individual-interventions-effective-except-self-explaining.md) — related
+- [In Studies 1a and 2, instructional visuals produced no significant difference in test performance or in test and explain relative metacomprehension accuracy](instructional-visuals-no-effect-test-performance-or-test-explain-accuracy.md) — related
+- [Five of seven situation-model interventions significantly improved relative metacomprehension accuracy, concept mapping only marginally (p = .097), and self-explaining not significantly](individual-interventions-effective-except-self-explaining.md) — related

@@ -50,7 +50,7 @@ RAND matched students in NGLC schools implementing PL practices (adaptive softwa
 | [Pane et al. 2017](https://doi.org/10.7249/rr2042) | q2 · causal · r2 | i0 · negligible-to-small, overall effect size 0.09 SD (math, sig.) / 0.07 SD (reading, n.s.) | this claim |
 | Constantakis 2016 | q2 · associational · r1 | i? | [Adult education programs used product-generated learner data minimally, mostly tracking us](adult-ed-minimal-learner-data-use.md) (supports) |
 | [Tripathi 2026](https://doi.org/10.48550/arxiv.2605.21962) | q1 · review · r2 | i? | [An analytical chapter identifies reward hacking, engagement optimization over learning, an](rl-reward-misalignment-failure-modes.md) (supports) |
-| [Haley Noh 2026](https://doi.org/10.48550/arxiv.2605.21613) | q2 · design · r2 | i? | [System constraints have minimal effect on already-efficient task-selection strategies whil](constraints-selectively-affect-inefficient-strategies.md) (qualifies) |
+| [Haley Noh 2026](https://doi.org/10.48550/arxiv.2605.21613) | q2 · design · r2 | i? | [In simulated mastery learning, system constraints left most other task-selection strategie](constraints-selectively-affect-inefficient-strategies.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

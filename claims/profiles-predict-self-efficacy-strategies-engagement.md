@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Motivational profile membership significantly predicts self-efficacy, learning strategies, and behavioral engagement, with high-autonomous groups scoring higher
-description: Motivational profile membership significantly predicts self-efficacy, learning strategies, and behavioral engagement, with high-autonomous groups scoring higher
+title: Adult learners' motivational profiles differ significantly in self-efficacy, learning strategies and behavioral engagement: the good-quality motivation group scores higher on all three, the high-quantity group on strategies and engagement only
+description: Adult learners' motivational profiles differ significantly in self-efficacy, learning strategies and behavioral engagement: the good-quality motivation group scores higher on all three, the high-quantity group on strategies and engagement only
 id: profiles-predict-self-efficacy-strategies-engagement
 status: review
 generated:
@@ -27,14 +27,14 @@ sources:
     rigour: 2
 ---
 
-# Motivational profile membership significantly predicts self-efficacy, learning strategies, and behavioral engagement, with high-autonomous groups scoring higher
+# Adult learners' motivational profiles differ significantly in self-efficacy, learning strategies and behavioral engagement: the good-quality motivation group scores higher on all three, the high-quantity group on strategies and engagement only
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i2` medium
 
 ## Subclaims
-`q2 i2` MANCOVA showed a significant multivariate effect of cluster membership on self-efficacy and academic self-concept (η²p = .082) and on engagement and learning variables (η²p = .076). [→ Ana Rothes 2017](#ana-rothes-2017)
-`q2 i2` The good-quality group scored significantly higher than the poor-quality and low-quantity groups in self-efficacy, learning strategies, and behavioral engagement. [→ Ana Rothes 2017 (2)](#ana-rothes-2017-2)
+`q2 i2` MANCOVA showed a significant multivariate effect of cluster membership on self-efficacy and academic self-concept (η²p = .082) and on engagement and learning variables (η²p = .076); the clusters were naturally occurring, so these are adjusted group differences, not evidence that profile membership causes the outcomes. [→ Ana Rothes 2017](#ana-rothes-2017)
+`q2 i2` The good-quality group scored significantly higher than the poor-quality and low-quantity groups in self-efficacy, learning strategies, and behavioral engagement; the high-quantity group did so only for learning strategies and behavioral engagement, not self-efficacy. [→ Ana Rothes 2017 (2)](#ana-rothes-2017-2)
 
 ## Evidence
 
@@ -44,7 +44,7 @@ Ana Rothes, Marina S. Lemos, and Teresa Gonçalves. (2017). Motivational Profile
 
 `q2 · i2` · `associational · r2`
 
-MANCOVA with cluster membership as independent variable, self-efficacy and academic self-concept as dependent variables, and gender, course type, and qualification level as covariates. The multivariate effect of cluster membership was significant, η²p = .082, as printed.
+MANCOVA with cluster membership as independent variable, self-efficacy and academic self-concept as dependent variables, and gender, course type, and qualification level as covariates. The multivariate effect of cluster membership was significant, η²p = .082, as printed. The design is nonexperimental (two data collections with a time lag); the authors say longitudinal research "will also be needed, in the future, in order to have a more robust basis to infer causal" relationships.
 
 > "Wilks's lambda indicated a significant multivariate effect of cluster membership—F(6, 358) = 5.305, p < .001, η2p = .082—and in addition, a multivariate effect was found of educational level—F (2, 179) = 5.568, p < .01, η2p = .059."
 
@@ -54,7 +54,7 @@ Ana Rothes, Marina S. Lemos, and Teresa Gonçalves. (2017). Motivational Profile
 
 `q2 · i2` · `associational · r2`
 
-Follow-up univariate tests and Tukey HSD comparisons (Table 3): self-efficacy F = 8.834, η² = .12; learning strategies F = 11.709, η² = .17; behavioral engagement F = 6.764, η² = .11. The high-quantity group also beat the low-autonomous groups in learning strategies and behavioral engagement but not self-efficacy.
+Follow-up univariate tests and Tukey HSD comparisons (Table 3): self-efficacy F = 8.834, η² = .12; learning strategies F = 11.709, η² = .17; behavioral engagement F = 6.764, η² = .11. The high-quantity group also beat the low-autonomous groups in learning strategies and behavioral engagement but not self-efficacy, so only the good-quality group was higher on all three. These are group differences among naturally occurring profiles and cannot show cause.
 
 > "The good-quality motivation group scored significantly higher than the poor-quality motivation group and the low-quantity motivation group in three dependent variables—self-efficacy, learning strategies, and self-reported behavioral engagement"
 

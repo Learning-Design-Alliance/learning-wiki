@@ -13,7 +13,7 @@ generated:
 # Phonological Awareness
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 71 claims (40 show a difference, 12 mixed, 19 no difference) · 43 studies (19 associational, 16 causal, 3 quant-synthesis, 3 review, 2 design), `q1`–`q3` · 15 of 43 report an effect size · 69 claims rest on one study
+> **Evidence** · 71 claims (40 show a difference, 12 mixed, 19 no difference) · 44 studies (19 associational, 16 causal, 4 quant-synthesis, 3 review, 2 design), `q1`–`q3` · 15 of 44 report an effect size · 69 claims rest on one study
 
 ## Description
 Phonological awareness is the ability to hear and manipulate the sound structure of spoken words: recognising rhymes, splitting words into syllables and individual sounds (phonemes), and blending sounds into words. The broader term phonological processing, which this page also covers, includes detecting and handling speech sounds rapidly in both spoken and written words and holding sound information briefly in memory. These skills are measured with tasks such as rhyming, blending (combining separate sounds into a word), elision (saying what remains when a sound is removed) and phoneme manipulation.
@@ -46,7 +46,7 @@ It sits within the wiki's broader [reading and language](reading-and-language.md
 - [Blending outcomes showed no statistically significant effects of DaisyQuest in the Lonigan et al. (2003) trial](../claims/daisyquest-blending-outcomes-not-significant.md) [-M] — instruction changes it
 - [Blending-focused phonological awareness training produced statistically significant positive differences on blending outcomes in O'Connor et al. (1993)](../claims/blending-focus-training-significant-blending-outcomes-oconnor-1993.md) [+M] — instruction changes it
 - [Bright Beginnings shows no discernible effects on preschool phonological processing (effect size -0.08, not statistically significant)](../claims/bright-beginnings-null-phonological-processing.md) [-M] — instruction changes it
-- [Cross-linguistic transfer is skill-specific: phonological awareness and print concepts transfer across languages, vocabulary and comprehension do not](../claims/cross-linguistic-transfer-skill-specific.md) [+W] — learners who differ on it differ in outcomes
+- [Cross-linguistic transfer is skill-specific: phonological awareness and print concepts are more likely to transfer across languages, while vocabulary and comprehension are more language-dependent](../claims/cross-linguistic-transfer-skill-specific.md) [+W] — learners who differ on it differ in outcomes
 - [Curiosity Corner shows no discernible effects on phonological processing in the PCER randomized trial](../claims/curiosity-corner-no-discernible-phonological-effects.md) [-M] — instruction changes it
 - [DaisyQuest has positive effects on alphabetics skills in beginning readers, per WWC synthesis of four randomized controlled trials](../claims/daisyquest-positive-effects-alphabetics.md) [+M] — instruction changes it
 - [DaisyQuest has positive effects on phonological processing in preschool children, with a domain-average effect size of 0.68 across two randomized controlled trials](../claims/daisyquest-positive-effects-phonological-processing.md) [+M] — instruction changes it
@@ -64,7 +64,7 @@ It sits within the wiki's broader [reading and language](reading-and-language.md
 - [In Lonigan et al. (2003), DaisyQuest effects were statistically significant on four of eight phonological processing outcomes and not significant on the others](../claims/lonigan-2003-significant-four-of-eight-outcomes.md) [~M] — instruction changes it
 - [In Torgesen et al. (2010), LiPS produced statistically significant positive effects on word accuracy/fluency, phonemic decoding, phonological awareness, and spelling versus a basal reading program](../claims/torgesen-2010-positive-alphabetics-effects.md) [+M] — instruction changes it
 - [Literacy Express has positive effects on phonological processing for preschool children, with significant effects in two of three studies](../claims/literacy-express-positive-phonological-processing.md) [~M] — instruction changes it
-- [Lower-level phonological processing efficiency contributes significantly to individual differences in adult ESL reading measures](../claims/phonological-orthographic-efficiency-predicts-esl-reading.md) [+W] — learners who differ on it differ in outcomes
+- [Efficiency in phonological and orthographic processing contributes significantly to individual differences in adult ESL reading measures](../claims/phonological-orthographic-efficiency-predicts-esl-reading.md) [+W] — learners who differ on it differ in outcomes
 - [No individual alphabetics outcome reached statistical significance in the WWC analysis](../claims/voyager-alphabetics-null-significance.md) [-W] — instruction changes it
 - [Phoneme awareness is a stronger predictor of reading development than rhyme awareness](../claims/phoneme-awareness-stronger-predictor-than-rhyme.md) [+W] — learners who differ on it differ in outcomes
 - [Phonemic awareness effects of Reading Recovery were positive and substantively important but not statistically significant in one trial](../claims/reading-recovery-phonemic-awareness-null-significance.md) [~M] — instruction changes it
@@ -110,7 +110,7 @@ It sits within the wiki's broader [reading and language](reading-and-language.md
 - [Phonological awareness and fluency show the largest effect-size relations with reading comprehension among Spanish-speaking children's essential reading components.](../claims/pa-fluency-largest-relations-comprehension-spanish.md) [+M] — learners who differ on it differ in outcomes
 - [Composite SES indices predict phonological awareness more strongly than single SES indicators](../claims/composite-ses-index-stronger-predictor-phonological-awareness.md) [+M] — instruction changes it
 - [Country SES moderates the linguistic-skill-to-reading paths, with larger phonological-awareness and vocabulary effects in developed countries, but does not moderate the direct SES-reading paths](../claims/country-ses-moderates-skill-reading-paths-not-ses-reading.md) [~M] — learners who differ on it differ in outcomes
-- [Family SES effects on children's reading are partially mediated in parallel by phonological awareness and vocabulary knowledge](../claims/ses-reading-partial-parallel-mediation-linguistic-skills.md) [+M] — learners who differ on it differ in outcomes
+- [The association between family SES and children's reading is partially mediated, statistically, in parallel by phonological awareness and vocabulary knowledge](../claims/ses-reading-partial-parallel-mediation-linguistic-skills.md) [+M] — learners who differ on it differ in outcomes
 - [SES longitudinally predicts later reading (r = 0.24), and phonological awareness and vocabulary jointly explain about 45% of that association](../claims/longitudinal-ses-predicts-reading-linguistic-skills-explain-variance.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures

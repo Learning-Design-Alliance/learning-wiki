@@ -43,5 +43,5 @@ Categorization of AI-generated test cases in the classroom dataset as valid, fal
 
 
 ## Related Claims
-- [Valid test case feedback improves correctness without reducing subsequent submission counts](valid-test-cases-not-fewer-submissions.md) — related
+- [Submissions receiving valid LLM-generated test-case feedback had higher pass rates, but valid test cases were not associated with fewer subsequent submissions](valid-test-cases-not-fewer-submissions.md) — related
 - A reasoning-capable open-weight model detects 84% of hidden misconceptions but at realistic prevalence false alarms outnumber genuine detections roughly 8 to 1 — related

@@ -160,7 +160,7 @@ An end-of-course exam advantage, delayed retention, self-efficacy, preparation r
 ## Claims
 
 - [Preparation-purpose homework benefits students more than same-day extra-time homework](../claims/preparation-homework-beats-same-day-homework.md) [+W]
-- [Viewing of the personalized AI video library declined sharply across the quarter, with fewer than 10% of the course population watching voluntarily by week 9](../claims/video-views-declined-across-quarter.md) [-W]
+- [Viewing of the personalized AI videos declined sharply across the quarter, with views of the first week-9 video set suggesting fewer than 10% of the course population was watching voluntarily by the end of the course](../claims/video-views-declined-across-quarter.md) [-W]
 - [Students rated the flipped-learning component highest and the GenAI module lower, with GenAI rated stronger for ideation than for time saving or direct output use](../claims/genai-rated-for-ideation-not-time-saving.md) [+W]
 - [High school students taught with self-study followed by discussion achieved higher immediate retention and near-transfer scores than those taught with lecture followed by discussion](../claims/self-study-discussion-immediate-retention-transfer-high-school.md) [+W]
 - [Providing all students with instant personalised guidance at the same time is a challenge for flipped learning that ChatGPT-FLGA was designed to address](../claims/flipped-learning-personalised-guidance-gap.md) [~W]

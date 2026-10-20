@@ -9,9 +9,9 @@ generated:
   at: 2026-10-16
 evidence_strength: moderate
 sources:
-  - id: akram-2017
+  - id: akram-2018
     resource: "https://scholar.google.com/scholar?q=Improving+Stealth+Assessment+in+Game-based+Learning+with+LSTM-based+Analytics"
-    title: "Akram, B., Mott, B., Min, W., Boyer, K. E., Wiebe, E., & Lester, J. (2017). Improving Stealth Assessment in Game-based Learning with LSTM-based Analytics. https://scholar.google.com/scholar?q=Improving+Stealth+Assessment+in+Game-based+Learning+with+LSTM-based+Analytics"
+    title: "Akram, B., Mott, B., Min, W., Boyer, K. E., Wiebe, E., & Lester, J. (2018). Improving Stealth Assessment in Game-based Learning with LSTM-based Analytics. In Proceedings of the 11th International Conference on Educational Data Mining (EDM 2018). https://scholar.google.com/scholar?q=Improving+Stealth+Assessment+in+Game-based+Learning+with+LSTM-based+Analytics"
     author: "Akram, B., Mott, B., Min, W., Boyer, K. E., Wiebe, E., & Lester, J."
     q: 2
     i: "?"
@@ -25,13 +25,13 @@ sources:
 > **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
-`q2 i?` The LSTM-based evidence model achieved higher predictive accuracy (64.82%) than random forest (50.43%), SVM (41.17%), and the majority-class baseline (35.71%) on held-out test data. [→ Akram 2017](#akram-2017)
+`q2 i?` The LSTM-based evidence model achieved higher predictive accuracy (64.82%) than random forest (50.43%), SVM (41.17%), and the majority-class baseline (35.71%) on held-out test data. [→ Akram 2018](#akram-2018)
 
 ## Evidence
 
-### Akram 2017
+### Akram 2018
 
-Akram, B., Mott, B., Min, W., Boyer, K. E., Wiebe, E., & Lester, J. (2017). Improving Stealth Assessment in Game-based Learning with LSTM-based Analytics. https://scholar.google.com/scholar?q=Improving+Stealth+Assessment+in+Game-based+Learning+with+LSTM-based+Analytics
+Akram, B., Mott, B., Min, W., Boyer, K. E., Wiebe, E., & Lester, J. (2018). Improving Stealth Assessment in Game-based Learning with LSTM-based Analytics. In Proceedings of the 11th International Conference on Educational Data Mining (EDM 2018). https://scholar.google.com/scholar?q=Improving+Stealth+Assessment+in+Game-based+Learning+with+LSTM-based+Analytics
 
 `q2 · i?` · `design · r2`
 

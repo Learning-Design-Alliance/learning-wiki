@@ -46,7 +46,7 @@ Path analysis (Model 1a) in 146 children; LS also negatively associated with DAY
 - [Working Memory](../learner-variables/working-memory.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [Attention problems negatively affect both non-verbal and verbal math performance only indirectly, through working memory (and, for MR, reading)](attention-problems-mediated-by-working-memory-math.md) — related
+- [In a cross-sectional model, attention problems relate to both non-verbal and verbal math performance only indirectly, through working memory (and, for MR, reading)](attention-problems-mediated-by-working-memory-math.md) — related
 - [Working memory fully mediates the effects of math anxiety and attention on children's non-verbal Numerical Operations](wm-fully-mediates-anxiety-attention-numerical-operations.md) — related
 - [Visuo-spatial working memory and inhibition jointly predict mathematics performance in 9–10-year-old children](visuospatial-wm-inhibition-predict-maths.md) — related
 - [Numerical working memory predicts decimal number line estimation accuracy](counting-recall-predicts-decimal-number-line.md) — related

@@ -14,7 +14,7 @@ grain_size: lesson
 # Collaborative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 51 claims (22 for, 26 mixed, 3 against) · 41 studies (13 causal, 6 associational, 5 review, 5 qualitative, 5 theoretical, 4 quant-synthesis, 3 design), `q1`–`q4` · 9 of 41 report an effect size · 49 claims rest on one study
+> **Evidence** · 51 claims (22 for, 26 mixed, 3 against) · 41 studies (13 causal, 6 associational, 5 review, 5 qualitative, 5 theoretical, 4 quant-synthesis, 3 design), `q1`–`q4` · 10 of 41 report an effect size · 49 claims rest on one study
 
 ## Description and scope
 

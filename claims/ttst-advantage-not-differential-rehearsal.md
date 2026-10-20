@@ -46,5 +46,5 @@ Laboratory experiment with 60 undergraduates studying six five-item sublists, ea
 - [The retrieval benefit occurs at the level of individual items, not through general practice at retrieval](retrieval-benefit-item-level.md) — related
 - [The TTST advantage persists when no further presentations follow the retrieval manipulation, ruling out encoding-effort strategies (Experiment 3)](ttst-advantage-not-encoding-strategy.md) — related
 - [Retrieval before re-presentation (TTST) improves final cued recall of nonsense-syllable/number pairs relative to pure study (Experiment 1)](ttst-beats-pure-st-nonsense-pairs.md) — related
-- [The retrieval benefit holds at both short (5 min) and long (24 h) retention delays](ttst-advantage-not-different-at-5min-24h.md) — related
+- [The retrieval (TTST) advantage appeared at both short (5 min) and long (24 h) retention delays, with no reliable evidence that it differed between them](ttst-advantage-not-different-at-5min-24h.md) — related
 - [The TTST advantage replicates with meaningful Eskimo/English word pairs (Experiment 2)](ttst-beats-pure-st-eskimo-pairs.md) — related

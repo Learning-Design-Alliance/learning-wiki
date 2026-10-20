@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "School characteristics—percentage of low income students, teacher retention, and attendance—affect students' likelihood of being identified as at significant risk in early literacy screening"
-description: "School characteristics—percentage of low income students, teacher retention, and attendance—affect students' likelihood of being identified as at significant risk in early literacy screening"
+title: "School characteristics—percentage of low income students, teacher retention, and attendance—are associated with students' likelihood of being identified as at significant risk in early literacy screening"
+description: "School characteristics—percentage of low income students, teacher retention, and attendance—are associated with students' likelihood of being identified as at significant risk in early literacy screening"
 id: school-characteristics-affect-literacy-risk
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 2
 ---
 
-# School characteristics—percentage of low income students, teacher retention, and attendance—affect students' likelihood of being identified as at significant risk in early literacy screening
+# School characteristics—percentage of low income students, teacher retention, and attendance—are associated with students' likelihood of being identified as at significant risk in early literacy screening
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
@@ -35,7 +35,7 @@ Lemke, M., Murphy, D., Soo Ping Chow, A., & Acuña, A. (2024). Intersections: St
 
 `q2 · i?` · `associational · r2`
 
-Multilevel model results on district-provided screening data show school-level effects. The article reports the average percentage of low income students is "about 39 percent" while Hispanic students attend schools averaging 70 percent low income, raising their risk beyond the model's student-level estimates.
+Multilevel model results on district-provided screening data show school-level associations with the predicted likelihood of risk identification; the authors note the analysis cannot identify causes. The brief reports the average percentage of low income students is "about 39 percent" while Hispanic students attend schools averaging 70 percent low income, so their predicted likelihood of being identified is higher than the average-school estimates, a difference in school circumstances rather than a property of the group.
 
 > "Model results show the likelihood of students being identified as at risk at an average school. This means that students in schools with above-average percentages of low income students, below-average teacher retention rates, and below-average student attendance have a higher likelihood of being identified as at significant risk."
 

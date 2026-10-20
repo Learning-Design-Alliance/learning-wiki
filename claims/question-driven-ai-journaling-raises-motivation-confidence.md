@@ -34,7 +34,7 @@ sources:
 
 ## Subclaims
 `q3 i?` Intrinsic motivation increased significantly in the AI-assisted condition (eta-squared = .201). [→ Sora Kang 2026](#sora-kang-2026)
-`q3 i?` Acting confidence also increased significantly (eta-squared = .352), which the authors attribute to questions concretizing character interpretation. [→ Sora Kang 2026 (2)](#sora-kang-2026-2)
+`q3 i?` Acting confidence also increased significantly (partial eta-squared, η²p = .352), which the authors attribute to questions concretizing character interpretation. [→ Sora Kang 2026 (2)](#sora-kang-2026-2)
 
 ## Evidence
 
@@ -54,7 +54,7 @@ Sora Kang. (2026). Stop Writing for Me: Generative Refusal in AI Tools for Thoug
 
 `q3 · i?` · `causal · r2`
 
-Same crossover study's daily survey measure of acting confidence. The article reports "Acting Confidence also increased significantly", printing an effect size of eta-squared = .352 (p < .001), and interprets this as questions concretizing interpretation.
+Same crossover study's daily survey measure of acting confidence. The article reports "Acting Confidence also increased significantly", printing an effect size of partial eta-squared, η²p = .352 (p < .001), and interprets this as questions concretizing interpretation.
 
 > "Acting Confidence also increased significantly (𝜂2 𝑝 =. 352, 𝑝<. 001), suggesting that the AI-generated questions concretized character interpretation."
 
@@ -65,7 +65,7 @@ Same crossover study's daily survey measure of acting confidence. The article re
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| [Sora Kang 2026](https://doi.org/10.48550/arxiv.2607.24751) | q3 · causal · r2 | i? | this claim; [AI-generated questions instead of draft text significantly reduce actors' cognitive burden](generative-refusal-reduces-cognitive-burden-journaling.md) (supports); [AI-assisted journal entries show higher lexical diversity and more emotion-word usage than](ai-questions-deepen-reflective-writing-quality.md) (supports) |
+| [Sora Kang 2026](https://doi.org/10.48550/arxiv.2607.24751) | q3 · causal · r2 | i?; i3 | this claim; [AI-generated questions instead of draft text significantly reduce actors' cognitive burden](generative-refusal-reduces-cognitive-burden-journaling.md) (supports); [AI-assisted journal entries show higher lexical diversity and more emotion-word usage than](ai-questions-deepen-reflective-writing-quality.md) (supports) |
 | [Sven Scheu 2026](https://doi.org/10.1186/s41239-026-00589-7) | q3 · causal · r2 | i?; i2 | [The LLM-based journaling assistant shows no significant effect on students' intrinsic moti](journaling-assistant-no-intrinsic-motivation-effect.md) (qualifies); [Both the course and the assistant increase behavioral engagement, measured as characters w](course-and-assistant-increase-writing-engagement.md) (supports); [Course users create their journal entries earlier relative to the daily notification, whil](course-users-earlier-journal-entry-timing.md) (qualifies) |
 | [Rajan Kadel 2026](https://doi.org/10.48550/arxiv.2609.03413) | q2 · design · r1 | i? | [Minority of undergraduate health science students reported using GenAI for reflective writ](minority-health-students-genai-reflective-writing.md) (qualifies); [Educators struggled to reliably differentiate student-written from GenAI-generated reflect](educators-cannot-reliably-detect-genai-reflections.md) (qualifies) |
 <!-- synthesis:end -->

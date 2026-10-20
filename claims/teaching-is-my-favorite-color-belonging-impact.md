@@ -46,5 +46,5 @@ Qualitative case-study interview data reported in the Teaching is My Favorite Co
 - [Safety](../learner-variables/safety.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Admiral Squad participation increased Black male educators' confidence, sense of belonging, and sense of purpose](admiral-squad-confidence-beloning-impact.md) — related
+- [One Black male educator reported that Admiral Squad participation raised his confidence, sense of belonging, and sense of purpose](admiral-squad-confidence-beloning-impact.md) — related
 - A teacher mentioning her own less-celebrated identities opens the door for students to include their perspectives and identities — related

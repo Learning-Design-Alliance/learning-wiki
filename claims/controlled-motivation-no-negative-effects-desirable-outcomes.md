@@ -62,7 +62,7 @@ The authors' interpretation of the pairwise comparisons: the good-quality group 
 
 
 ## Related Claims
-- [Motivational profile membership significantly predicts self-efficacy, learning strategies, and behavioral engagement, with high-autonomous groups scoring higher](profiles-predict-self-efficacy-strategies-engagement.md) — reports the opposite
+- [Adult learners' motivational profiles differ significantly in self-efficacy, learning strategies and behavioral engagement: the good-quality motivation group scores higher on all three, the high-quantity group on strategies and engagement only](profiles-predict-self-efficacy-strategies-engagement.md) — reports the opposite
 - [Adult learners below secondary education show higher controlled regulation and lower academic self-concept and learning strategies than those above it](educational-level-controlled-regulation-self-concept.md) — reports the opposite
 - [Adult learners' motivation clusters into four profiles combining autonomous and controlled regulation, replicating the structure expected from SDT research with younger students](four-motivational-profiles-adult-learners.md) — related
 - [Students with good-quality or moderately positive profiles self-assessed more accurately after studying video modeling examples than students with poor-quality or moderately negative profiles](motivational-profile-self-assessment-accuracy.md) — related

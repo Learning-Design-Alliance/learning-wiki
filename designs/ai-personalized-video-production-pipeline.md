@@ -39,7 +39,7 @@ A custom software pipeline produced 300 AI-generated personalized videos (100 to
 ### Claims
 
 - [Students preferred AI-generated personalized videos over human-recorded non-personalized videos in direct comparison](../claims/ai-personalized-videos-preferred-over-human-non-personalized.md) [+W]
-- [Viewing of the personalized AI video library declined sharply across the quarter, with fewer than 10% of the course population watching voluntarily by week 9](../claims/video-views-declined-across-quarter.md) [-W]
+- [Viewing of the personalized AI videos declined sharply across the quarter, with views of the first week-9 video set suggesting fewer than 10% of the course population was watching voluntarily by the end of the course](../claims/video-views-declined-across-quarter.md) [-W]
 
 ## Related Designs
 

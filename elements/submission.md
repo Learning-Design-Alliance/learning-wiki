@@ -54,7 +54,7 @@ Submission creates the accountability structure that makes practice productive: 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Generative AI weakens the evidentiary relation between assessment artifacts and learner capacity, so institutions must assess the learner's accountable relation to AI-mediated work](../claims/generative-ai-weakens-artifact-evidentiary-relation.md) [~W]
-- [Valid test case feedback improves correctness without reducing subsequent submission counts](../claims/valid-test-cases-not-fewer-submissions.md) [+W]
+- [Submissions receiving valid LLM-generated test-case feedback had higher pass rates, but valid test cases were not associated with fewer subsequent submissions](../claims/valid-test-cases-not-fewer-submissions.md) [+W]
 - [Draft usefulness varies by grading context: higher for submissions with mistakes and applied questions](../claims/draft-usefulness-varies-by-grading-context.md) [~W]
 - [A negative behavioral path through frequent resubmissions counteracted the affective benefit of layered feedback](../claims/negative-behavioral-path-submissions-mediation.md) [~W]
 - [Perceived risk negatively predicts use behavior and operates as a stage-sensitive deterrent, activated at submission and evaluation rather than initial exploration](../claims/perceived-risk-stage-sensitive-deterrent.md) [~W]

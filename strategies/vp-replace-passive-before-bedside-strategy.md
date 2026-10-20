@@ -47,7 +47,7 @@ The review recommends deploying virtual patients where they show the greatest be
 - [Virtual patients blended with traditional education show moderate positive knowledge effects over traditional education alone (SMD=0.73)](../claims/vp-blended-knowledge-advantage.md) [+W]
 - [Virtual patient blended learning shows a moderate but non-significant pooled skills effect versus traditional education alone (SMD=0.60, CI crossing zero)](../claims/vp-blended-skills-mixed.md) [~W]
 - [Virtual patients show larger effects when replacing passive traditional learning (lectures, reading) than active learning (group discussion, mannequin-based)](../claims/vp-passive-versus-active-comparison.md) [+W]
-- [Virtual patients show no significant differences versus other types of digital education for knowledge or skills](../claims/vp-vs-other-digital-no-difference.md) [~W]
+- [In the few trials comparing them, virtual patients showed no significant knowledge differences versus other digital education, and skills differences in only one of three studies](../claims/vp-vs-other-digital-no-difference.md) [~W]
 - [Virtual patients are as effective as traditional education for knowledge outcomes (pooled SMD=0.11)](../claims/vp-traditional-knowledge-no-difference.md) [~W]
 - [Virtual patients are more effective than traditional education for skills outcomes (pooled SMD=0.90)](../claims/vp-traditional-skills-advantage.md) [+W]
 

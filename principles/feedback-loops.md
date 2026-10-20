@@ -166,7 +166,7 @@ Following the information on the corrected item, unaided performance on a new it
 - [Districts use multiple forms of data—learning walks, state assessment items, dashboards, and diagnostics—to give teachers feedback and refine IM implementation over time](../claims/data-use-supports-ongoing-hqim-implementation.md) [~W]
 - [Originality is almost never invoked in builders' spoken acceptance verdicts, and defects as well as defaults exit the loop by acceptance without verification](../claims/shallow-acceptance-originality-rarely-invoked.md) [-W]
 - [Attempt-reduction patterns differed across course parts: Diagnostic and General Feedback were associated with fewer attempts for New Content, Single-Issue for Old Content](../claims/attempt-reduction-varies-by-course-part.md) [~W]
-- [Valid test case feedback improves correctness without reducing subsequent submission counts](../claims/valid-test-cases-not-fewer-submissions.md) [+W]
+- [Submissions receiving valid LLM-generated test-case feedback had higher pass rates, but valid test cases were not associated with fewer subsequent submissions](../claims/valid-test-cases-not-fewer-submissions.md) [+W]
 - [Students reported recognizing writing improvements after revising in response to AI feedback, with observed rubric-score gains on resubmission](../claims/students-recognize-writing-improvement-ai-feedback.md) [+W]
 - [Dl2F Dynamic Language Learning Framework](../theories/dl2f-dynamic-language-learning-framework.md) [+M]
 - [In water-jug problems, presenting information about available moves and their consequences did not enhance planning, though looping moves reliably decreased](../claims/move-availability-information-did-not-enhance-water-jug-planning.md) [~W]

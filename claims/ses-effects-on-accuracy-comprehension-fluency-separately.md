@@ -45,5 +45,5 @@ Second-stage TSSEM on three just-identified observable reading models. The compr
 
 ## Related Claims
 - [Composite SES indices predict phonological awareness more strongly than single SES indicators](composite-ses-index-stronger-predictor-phonological-awareness.md) — related
-- [Family SES effects on children's reading are partially mediated in parallel by phonological awareness and vocabulary knowledge](ses-reading-partial-parallel-mediation-linguistic-skills.md) — related
+- [The association between family SES and children's reading is partially mediated, statistically, in parallel by phonological awareness and vocabulary knowledge](ses-reading-partial-parallel-mediation-linguistic-skills.md) — related
 - [SES longitudinally predicts later reading (r = 0.24), and phonological awareness and vocabulary jointly explain about 45% of that association](longitudinal-ses-predicts-reading-linguistic-skills-explain-variance.md) — related

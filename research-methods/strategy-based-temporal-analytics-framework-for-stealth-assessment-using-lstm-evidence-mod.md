@@ -12,7 +12,7 @@ generated:
 # Strategy-based temporal analytics framework for stealth assessment using LSTM evidence models
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 4 claims (4 for) · 2 studies (2 design), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 3 studies (3 design), `q2` · 0 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 A stealth assessment framework that derives temporal evidence from students' dynamic in-game strategy use rather than only from ECD evidence modeling. Student flip sequences are encoded as n-grams, clustered per task with EM clustering to yield strategy labels, and sequences of strategy cluster memberships across consecutive tasks are fed to an LSTM evidence model that predicts post-test performance. The article states the approach "does not require a labor -intensive process of labeling data" because strategies are discovered unsupervised from log data.

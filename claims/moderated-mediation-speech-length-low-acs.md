@@ -47,6 +47,6 @@ Moderated-mediation analysis reported in a footnote, using bootstrap resampling 
 - [Attention](../learner-variables/attention.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
-- [Public speaking anxiety negatively affects judged speech performance only among individuals low in attentional control](attentional-control-buffers-speech-anxiety-performance.md) — a broader claim this one bears on
+- [Public speaking anxiety is associated with poorer judged speech performance only among individuals low in attentional control](attentional-control-buffers-speech-anxiety-performance.md) — a broader claim this one bears on
 - [Attentional shifting, but not focusing, significantly moderates the effect of speech anxiety on judged quality](attentional-shifting-moderates-anxiety-effect.md) — related
 - [Greater public speaking anxiety correlates with shorter and more poorly received speeches](speech-anxiety-correlates-poorer-performance.md) — a broader claim this one bears on

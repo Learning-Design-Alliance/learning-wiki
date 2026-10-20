@@ -38,7 +38,7 @@ Because handwriting fluency mediated EF effects on all narrative outcomes, the a
 
 ## Claims
 
-- [Handwriting fluency mediates the relation between inhibition/updating and all narrative outcomes (text length, syntactic complexity, story content)](../claims/handwriting-fluency-mediates-ef-narrative-writing.md) [+W]
+- [In a cross-sectional path model of fourth graders, handwriting fluency statistically mediated the relation between inhibition/updating and all narrative outcomes (text length, syntactic complexity, story content)](../claims/handwriting-fluency-mediates-ef-narrative-writing.md) [+W]
 - [Executive functions do not directly predict syntactic complexity or story content once transcription and language skills are controlled](../claims/ef-no-direct-effect-syntactic-complexity-story-content.md) [+W]
 
 ## Related Strategies

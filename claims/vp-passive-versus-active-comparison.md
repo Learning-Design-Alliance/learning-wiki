@@ -65,5 +65,5 @@ Exploratory visual analysis of albatross plots (Figures 6 and 7) after planned s
 - [Virtual patients are as effective as traditional education for knowledge outcomes (pooled SMD=0.11)](vp-traditional-knowledge-no-difference.md) — related
 - [Virtual patients are more effective than traditional education for skills outcomes (pooled SMD=0.90)](vp-traditional-skills-advantage.md) — related
 - [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — related
-- [Virtual patients show no significant differences versus other types of digital education for knowledge or skills](vp-vs-other-digital-no-difference.md) — related
+- [In the few trials comparing them, virtual patients showed no significant knowledge differences versus other digital education, and skills differences in only one of three studies](vp-vs-other-digital-no-difference.md) — related
 - [Virtual patients blended with traditional education show moderate positive skills effects, but the pooled interval crosses zero](vp-blended-skills-mixed.md) — related

@@ -59,7 +59,7 @@ CPS improves learning when the group's discussion forces learners to externalize
 - [Adult learners perceive AI collaborative workspaces as fostering equitable participation and shared responsibility in group problem-solving](../claims/ai-workspaces-equitable-collaborative-problem-solving.md) [+W]
 - [Embodied GenAI agents in mixed reality raised engagement and lowered cognitive load for 26 post-secondary learners during collaborative problem-solving](../claims/embodied-mr-agents-engagement-cognitive-load-26-learners.md) [+W]
 - [GenAI students collaboratively phrased and troubleshooted questions, with collaborative problem-solving varying substantially between the two genAI groups](../claims/genai-collaborative-troubleshooting-varied-by-group.md) [~W]
-- [Active and collaborative approaches promote higher-order thinking and complex reasoning (review attribution)](../claims/active-collaborative-approaches-higher-order-thinking.md) [+W]
+- [Active and collaborative approaches promote higher-order thinking and complex reasoning (attributed to earlier studies in a framework paper)](../claims/active-collaborative-approaches-higher-order-thinking.md) [+W]
 - [Groups of high-performing students often fail problem-solving tasks when they do not collaborate, showing why collaborative skills need assessment and feedback](../claims/high-performing-groups-fail-without-collaboration.md) [+W]
 - [Co-regulation led to shared understandings with effective patient management as a result (Lajoie and Lu)](../claims/co-regulation-shared-understanding-patient-management.md) [+W]
 - [Tool-using individuals show advantages on conceptual knowledge while collaborative learners spend less time-on-task](../claims/conceptual-knowledge-interaction-and-time-on-task.md) [~W]

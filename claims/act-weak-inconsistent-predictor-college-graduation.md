@@ -43,7 +43,7 @@ Continuous-variable HLM models (Model 2, Table 4) predicting six-year graduation
 
 
 ## Related Claims
-- [Adding ACT scores to models with HSGPA does not improve prediction of college graduation or reduce between-school variability](act-adds-little-beyond-hsgpa.md) — related
+- [Adding ACT scores to models with HSGPA contributes little to the prediction of college graduation and does not reduce between-school variability](act-adds-little-beyond-hsgpa.md) — related
 - [ACT scores weakly predict college graduation, and the school-level variance in the ACT slope (0.192) exceeds the average slope (0.129), so school effects introduce more noise than the ACT signal](act-weak-predictor-noise-exceeds-signal.md) — possibly the same claim (merge candidate)
 - [HSGPAs have a strong, consistent relationship with college graduation that is larger than school effects, while ACT scores have a weak relationship smaller than high school effects with slopes varying by school](hsgpa-strong-act-weak-college-graduation-predictors.md) — possibly the same claim (merge candidate)
 - [The linear slope of the HSGPA–college graduation relationship does not vary significantly across high schools, so HSGPA provides a consistent signal across schools](hsgpa-slope-consistent-across-schools.md) — related

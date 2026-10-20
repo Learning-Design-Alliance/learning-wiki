@@ -40,7 +40,7 @@ Because the perceived value of creativity shaped task interest, which remained s
 ## Claims
 
 - [Perceived value of creativity informs judgments and expectancies primarily indirectly through task-specific variables, especially task interest](../claims/value-of-creativity-indirect-through-interest.md) [+W]
-- [Task interest remains stable across consecutive creativity tasks, driven directly by prior interest rather than mediated task experience](../claims/task-interest-stable-across-creativity-tasks.md) [+W]
+- [Task interest remains stable across consecutive creativity tasks: interest in one task is strongly and directly associated with interest in the next, with little mediation by task experience](../claims/task-interest-stable-across-creativity-tasks.md) [+W]
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+W]
 
 ## Related Strategies

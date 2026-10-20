@@ -44,4 +44,4 @@ Meta-analysis of 192 transfer effect sizes from 122 experiments in 67 published 
 
 ## Related Claims
 - [Retrieval Practice Improves Transfer](retrieval-practice-improves-transfer.md) — possibly the same claim (merge candidate)
-- [Quizzing outperforms no/filler activity, fewer-question testing, restudying, and other elaborative strategies, with the advantage shrinking as the control condition's reexposure increases.](quizzing-beats-restudying-and-elaborative-controls.md) — related
+- [Quizzing outperforms no/filler activity, fewer-question testing and restudying, with a larger advantage over no/filler activity (low reexposure) than over restudying (high reexposure); against other elaborative strategies its advantage is small and not significant.](quizzing-beats-restudying-and-elaborative-controls.md) — related
