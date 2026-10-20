@@ -1,6 +1,7 @@
 ---
 type: product
 id: digital-promise-ai-literacy-brief-series
+moved_from: [element/six-ai-literacy-practices, theory/ai-literacy-framework-digital-promise, theory/ai-literacy-framework-three-modes-of-engagement, theory/ai-literacy-modes-understand-use-evaluate-report]
 title: Digital Promise AI Literacy Brief Series
 description: A series of Digital Promise implementation briefs that provides audience-specific AI literacy recommendations, strategies, examples, and equity considerations for PK-12, postsecondary, workforce, and informal learning settings.
 product_kind: framework

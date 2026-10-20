@@ -1,6 +1,7 @@
 ---
 type: pattern
 id: cognitive-apprenticeship
+moved_from: [principle/notice-and-name-instructional-practices]
 aliases: [four-reflection-methods-reification, guided-equation-appropriation]
 title: Cognitive Apprenticeship
 description: "A reusable modeling, coaching, scaffolding, fading, articulation and exploration policy for complex cognitive skills, whose phase transitions depend on observed unaided performance and remain an untested design proposal."

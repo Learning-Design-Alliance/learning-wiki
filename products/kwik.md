@@ -1,6 +1,7 @@
 ---
 type: product
 id: kwik
+moved_from: [element/kwik-cal-teacher-coaching-program]
 title: KWiK
 description: KWiK is a teacher-coaching and computer-assisted learning programme developed and evaluated by Philip Oreopoulos and colleagues to support mastery-based mathematics practice in elementary and middle schools.
 product_kind: programme

@@ -1,6 +1,7 @@
 ---
 type: product
 id: elevate
+moved_from: [element/elevate-continuous-improvement-platform, element/elevate-survey-classroom-level, theory/elevate-learning-conditions-framework]
 title: Elevate
 description: Elevate is a software-enabled continuous-improvement platform developed by PERTS and UCCSR that helps educators measure, disaggregate, track, and improve learning conditions over time.
 product_kind: software

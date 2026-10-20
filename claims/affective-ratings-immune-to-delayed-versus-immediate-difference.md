@@ -45,5 +45,5 @@ Experiment 2 paired-samples comparisons in both sequence groups found no signifi
 ## Related Claims
 - [A single delayed cognitive load rating after a problem sequence is significantly higher than the average of immediate ratings for both mental effort and perceived difficulty (Experiment 1)](delayed-cognitive-load-ratings-higher-than-immediate-averages-exp1.md) — related
 - [The delayed-higher-than-immediate difference for cognitive load ratings replicates regardless of whether problem complexity increases or decreases across the sequence (Experiment 2)](delayed-rating-effect-independent-of-problem-sequence.md) — related
-- [Delayed cognitive load ratings are based mainly on the more complex problems in the series rather than on a recency effect](delayed-ratings-based-on-complex-problems.md) — related
+- [Delayed cognitive load ratings appear to be based more on the more complex problems in the series than on a recency effect](delayed-ratings-based-on-complex-problems.md) — related
 - [The predictive value of cognitive load ratings for problem performance was mixed: mental effort predicted performance in Experiment 1, perceived difficulty in Experiment 2, but never both at once](mixed-performance-prediction-effort-versus-difficulty.md) — related

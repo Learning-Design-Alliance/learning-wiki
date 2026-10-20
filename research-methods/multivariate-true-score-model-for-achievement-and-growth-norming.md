@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: multivariate-true-score-model-for-achievement-and-growth-norming
+moved_from: [theory/multivariate-true-score-model-norming, theory/multivariate-true-score-norming-model]
 aliases: [model-based-multivariate-true-score-norming-procedure]
 title: Multivariate true score model for achievement and growth norming
 description: The report uses a model-based approach in which observed scores are decomposed into true scores and error scores, with the standard error of measurement introduced so that imprecision of observed scores is accounted for.

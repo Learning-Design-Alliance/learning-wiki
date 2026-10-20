@@ -54,7 +54,7 @@ Lehikoinen, H., Väisänen, P., Havu-Nuutinen, S., Lappalainen, K., & Niemivirta
 
 `q2 · i?` · `causal · r1`
 
-In the full model with end-of-year test performance and teacher-rated grade as outcomes, neither levels nor slopes of self-concept and interest predicted later mathematics performance. No effect sizes were printed for these null paths.
+In the full model with end-of-year test performance and teacher-rated grade as outcomes, neither levels nor slopes of self-concept and interest significantly predicted later mathematics performance. Table 4 prints the standardised path coefficients, all nonsignificant: self-concept level β = 0.14 (test) and 0.17 (grade), self-concept slope β = −0.01 and 0.16, interest level β = −0.04 and 0.00, interest slope β = 0.04 and −0.11 (all p > .18).
 
 > "against our assumptions, neither the initial levels nor changes in self-concept and interest predicted later mathematics performance"
 

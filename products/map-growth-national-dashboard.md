@@ -1,6 +1,7 @@
 ---
 type: product
 id: map-growth-national-dashboard
+moved_from: [element/map-growth-dashboard-technical-appendix, element/map-growth-national-dashboard, element/map-growth-national-dashboard-element, element/map-growth-national-dashboard-recovery-data, element/map-growth-national-dashboard-tool, theory/dashboard-achievement-growth-metric-framework]
 title: MAP Growth National Dashboard
 description: "NWEA's dashboard software product that presents national student achievement and growth trend data from MAP Growth assessments."
 product_kind: software

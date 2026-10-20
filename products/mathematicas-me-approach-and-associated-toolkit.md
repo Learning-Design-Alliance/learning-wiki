@@ -1,6 +1,7 @@
 ---
 type: product
 id: mathematicas-me-approach-and-associated-toolkit
+moved_from: [theory/four-phase-me-evidence-building-approach]
 title: "Mathematica's M&E approach and associated toolkit"
 description: A Mathematica framework and toolkit that structures evidence gathering and decision-making across four phases of evidence-based solution development.
 product_kind: framework

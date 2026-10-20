@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: formula-based-estimation-of-value-added-classification-error-rates-using-ordinary-least-sq
+moved_from: [theory/ols-empirical-bayes-error-rate-estimation-framework]
 title: Formula-based estimation of value-added classification error rates using ordinary least squares and empirical Bayes estimators
 description: "The article's methodological framework estimates likely error rates for value-added performance classifications using \"formulas based on ordinary least squares and empirical Bayes estimators.\" It applies these formulas to student test score gain data to quantify how often teachers or schools would b"
 status: review

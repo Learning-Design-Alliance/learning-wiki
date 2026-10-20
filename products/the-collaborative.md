@@ -1,6 +1,7 @@
 ---
 type: product
 id: the-collaborative
+moved_from: [design/participatory-systems-approach-face-collaborative]
 title: The Collaborative
 description: The Collaborative is a branded initiative run by its organizing collaborative to support state leaders through participatory design, relationship-building, collaboration, and leadership development.
 status: review

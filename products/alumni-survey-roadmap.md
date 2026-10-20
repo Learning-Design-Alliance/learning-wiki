@@ -1,6 +1,7 @@
 ---
 type: product
 id: alumni-survey-roadmap
+moved_from: [design/nine-step-alumni-survey-roadmap]
 title: Alumni Survey Roadmap
 description: The authors’ nine-step framework guides organizations through co-designing, launching, interpreting, and acting on a first alumni survey.
 status: review

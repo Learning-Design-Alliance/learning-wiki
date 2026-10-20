@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "DD children show operation-specific hyperactivation: greater IPS, superior parietal lobule and fusiform activity during subtraction but not addition"
-description: "DD children show operation-specific hyperactivation: greater IPS, superior parietal lobule and fusiform activity during subtraction but not addition"
+title: "DD children show operation-specific hyperactivation: greater IPS, superior parietal lobule and fusiform activity during subtraction, while during addition only the right superior parietal lobule differs (lower in DD)"
+description: "DD children show operation-specific hyperactivation: greater IPS, superior parietal lobule and fusiform activity during subtraction, while during addition only the right superior parietal lobule differs (lower in DD)"
 id: dd-subtraction-specific-parietal-hyperactivation
 status: review
 generated:
@@ -27,7 +27,7 @@ sources:
     rigour: 2
 ---
 
-# DD children show operation-specific hyperactivation: greater IPS, superior parietal lobule and fusiform activity during subtraction but not addition
+# DD children show operation-specific hyperactivation: greater IPS, superior parietal lobule and fusiform activity during subtraction, while during addition only the right superior parietal lobule differs (lower in DD)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`

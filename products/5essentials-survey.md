@@ -1,6 +1,7 @@
 ---
 type: product
 id: 5essentials-survey
+moved_from: [design/school-report-profiles-with-quartile-benchmarks, element/5essentials-racial-equity-civic-engagement-measures, element/5essentials-sro-study-climate-measures, element/5essentials-supportive-environment-measures, element/5essentials-survey-diagnostic-tools, element/5essentials-survey-element-press-release, element/5essentials-survey-measures-school-climate, element/5essentials-survey-relational-trust-measure, element/5essentials-survey-sed-climate-measures, element/5essentials-survey-system-illinois, element/5essentials-surveys-leadership-case-selection, element/ccsr-individualized-school-reports-isrs, element/ccsr-school-survey-report-measure-system, element/uchicago-consortium-biennial-teacher-student-survey, element/uchicago-consortium-school-specific-survey-reports, theory/five-essential-supports-ccsr-sipaaa, theory/five-essential-supports-student-learning-ccsr, theory/five-essential-supports-survey-measures-framework]
 title: 5Essentials Survey
 description: The 5Essentials Survey is a statewide school-climate and organizational-conditions assessment developed by the University of Chicago Consortium on School Research and administered to Illinois students and teachers by the Illinois State Board of Education.
 product_kind: assessment

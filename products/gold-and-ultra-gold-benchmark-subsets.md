@@ -1,6 +1,7 @@
 ---
 type: product
 id: gold-and-ultra-gold-benchmark-subsets
+moved_from: [element/gold-ultra-gold-benchmark-subsets]
 title: Gold and ultra-gold benchmark subsets
 description: Croteau et al.
 product_kind: dataset

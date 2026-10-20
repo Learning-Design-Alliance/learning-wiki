@@ -1,6 +1,7 @@
 ---
 type: product
 id: tefa-t
+moved_from: [theory/tefa-t-teaching-factory-troubleshooting-model]
 title: TEFA-T
 description: A teaching-factory instructional framework developed for automotive vocational education that integrates vehicle troubleshooting with a nine-step work-process syntax and supporting instructional materials.
 product_kind: framework

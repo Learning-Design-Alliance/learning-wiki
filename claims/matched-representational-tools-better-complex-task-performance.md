@@ -35,7 +35,7 @@ B. Slof, G. Erkens, P. A. Kirschner, J. Janssen, J. G. M. Jaspers. (2012). Succe
 
 `q3 · i?` · `causal · r2`
 
-One-way ANOVA (Brown-Forsythe) on total team performance scores across four conditions (34 teams); matched teams scored M = 39.14 (SD = 1.22) versus 28.22–31.56 in other conditions; the article reports the condition effect as significant with no standardized effect size printed.
+One-way ANOVA (Brown-Forsythe) on total team performance scores across four conditions (34 teams); matched teams scored M = 39.14 (SD = 1.22) versus 28.00–31.56 in other conditions. The condition effect was significant, F(3, 21.50) = 7.00, p < .01, with a printed variance-explained effect size of 0.33 (its symbol is garbled in the extracted text); impact is left uncoded because no d-type effect size is printed for the matched-versus-other comparisons.
 
 > "One-way ANOVA revealed a signiﬁcant effect of condition on learning-task performance, F(3, 21.50) = 7.00, P\ 0.01, x2 = 0.33 (Brown-Forsythe because homogeneity of variance assumption was violated)."
 

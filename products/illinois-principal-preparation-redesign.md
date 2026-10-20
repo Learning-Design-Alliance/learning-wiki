@@ -1,6 +1,7 @@
 ---
 type: product
 id: illinois-principal-preparation-redesign
+moved_from: [theory/illinois-principal-preparation-theory-of-change]
 title: Illinois principal preparation redesign
 description: A statewide Illinois policy and programme redesign for preparing and certifying school principals through selective admissions, competency-based coursework, internships, and performance assessments.
 product_kind: programme

@@ -1,6 +1,7 @@
 ---
 type: product
 id: six-skill-tagged-response-datasets-from-assistments-and-mindspark-used-for-model-compariso
+moved_from: [element/assistments-mindspark-skill-datasets]
 title: Six skill-tagged response datasets from ASSISTments and Mindspark used for model comparison
 description: Agarwal et al.
 product_kind: dataset

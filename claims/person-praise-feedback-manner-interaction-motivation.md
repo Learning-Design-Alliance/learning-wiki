@@ -62,7 +62,7 @@ Simple slopes from the same regression-based analysis of 146 randomly assigned j
 
 
 ## Related Claims
-- [Students generally attempted fewer items under ego-involving than task-involving feedback, but this gap disappeared among praised students](feedback-manner-main-effect-motivation-gap-closes-with-praise.md) — possibly the same claim (merge candidate)
+- [Students generally attempted fewer items under ego-involving than task-involving feedback, but among praised students the gap was not significant](feedback-manner-main-effect-motivation-gap-closes-with-praise.md) — possibly the same claim (merge candidate)
 - [Under task-involving feedback, pre-task person praise reduces motivation and indirectly lowers task performance; under ego-involving feedback it indirectly raises performance](person-praise-indirect-performance-via-motivation.md) — related
 - [Person praise raises state self-esteem (d = 0.40), and under task-involving feedback higher state self-esteem is negatively related to motivation, supporting a distraction mechanism only in the low-threat condition](state-self-esteem-distraction-mechanism-task-involving.md) — related
 - [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](feedback-praise-reduces-learning.md) — related

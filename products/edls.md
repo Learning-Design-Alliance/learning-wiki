@@ -1,6 +1,7 @@
 ---
 type: product
 id: edls
+moved_from: [element/equity-in-digital-learning-survey-edls]
 title: EDLS
 description: A Digital Promise student survey measuring course experiences, digital-learning practices and challenges, and equity and inclusion perspectives, with demographic data for disaggregation and dashboard reporting.
 product_kind: assessment

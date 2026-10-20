@@ -43,4 +43,4 @@ Developer observation during functional validation with sample essays. The autho
 
 
 ## Related Claims
-- [The same learner context supplied to an AI tutor produces qualitatively different, persona-aligned explanations of the same problem](learner-context-personalizes-ai-tutor-explanations.md) — a broader claim this one bears on
+- [Different learner contexts supplied to an AI tutor produce qualitatively different, persona-aligned explanations of the same problem](learner-context-personalizes-ai-tutor-explanations.md) — a broader claim this one bears on

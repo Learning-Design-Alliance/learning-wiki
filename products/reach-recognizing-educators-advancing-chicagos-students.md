@@ -1,6 +1,7 @@
 ---
 type: product
 id: reach-recognizing-educators-advancing-chicagos-students
+moved_from: [element/reach-students-evaluation-system, element/reach-teacher-evaluation-system, element/reach-teacher-evaluation-system-chicago, theory/reach-students-teacher-evaluation-system]
 title: "REACH (Recognizing Educators Advancing Chicago's Students)"
 description: "REACH is Chicago Public Schools' teacher-evaluation programme combining classroom observations using a modified Danielson Framework rubric with student-growth measures and evaluator certification."
 product_kind: programme

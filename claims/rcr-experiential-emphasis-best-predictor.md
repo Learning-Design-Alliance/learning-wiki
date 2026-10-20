@@ -44,7 +44,7 @@ Johannes Katsarov, Roberto Andorno, André Krom, Mariëtte van den Hoven. (2021)
 
 `q3 · i?` · `quant-synthesis · r?`
 
-Meta-regression of judgment-related effect sizes from the 30 included RCR studies; the best model explained 98% of between-groups variance (F = 20.70, p = 0.000). The article reports "a practical, experiential engagement with concrete ethical problems" as a significant positive predictor, with no printed effect size for the coefficient beyond its significance level.
+Meta-regression of judgment-related effect sizes from the 30 included RCR studies; the best model explained 98% of between-groups variance (F = 20.70, p = 0.000). The article reports "a practical, experiential engagement with concrete ethical problems" as a significant positive predictor; Table 4 prints its coefficient as 1.10*** [0.79, 1.41], a meta-regression coefficient rather than a standardized effect size.
 
 > "A significant positive effect was found for a practical, experiential engagement with concrete ethical problems related to RCR. A significant negative effect was found for the number of teaching methods that were employed."
 

@@ -1,6 +1,7 @@
 ---
 type: product
 id: team-student
+moved_from: [theory/team-student-model]
 title: TEAM Student
 description: A branded whole-school framework that centers students and families in school decisions through individualized academic, social, and emotional support and family partnership.
 product_kind: framework

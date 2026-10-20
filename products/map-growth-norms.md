@@ -1,6 +1,7 @@
 ---
 type: product
 id: map-growth-norms
+moved_from: [theory/map-growth-multilevel-norms-model]
 title: MAP Growth norms
 description: "MAP Growth norms are NWEA's nationally normed assessment benchmarks that report student achievement percentiles and conditional growth comparisons using multilevel growth models."
 product_kind: assessment

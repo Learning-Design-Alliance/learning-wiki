@@ -23,7 +23,7 @@ An open library released by Junjie Yin et al. containing six reproducible Jupyte
 
 ### Claims
 
-- [Survey respondents strongly prefer power-specific hands-on AI materials over generic image-based examples](../claims/demand-for-power-specific-hands-on-ai-examples.md) [+W]
+- [Most surveyed power-and-energy respondents would use a power-specific hands-on AI tutorial, and few rate generic image-based AI examples as very relevant](../claims/demand-for-power-specific-hands-on-ai-examples.md) [+W]
 - [A DQN-trained battery storage policy reduced complete cost by 5.9% relative to no storage on a synthetic 24-h training-day rollout](../claims/dqn-bess-training-day-cost-reduction.md) [+W]
 - [In the CNN 5-bus power-flow surrogate, pairing model capacity with sufficient training length improves voltage accuracy, and line flows are the more demanding test](../claims/cnn-powerflow-surrogate-capacity-training-length.md) [+W]
 - [With identical architectures and budgets, a PINN more closely reproduced swing-equation rotor angle and speed trajectories than an ordinary neural network](../claims/pinn-swing-equation-closer-than-ordinary-nn.md) [+W]

@@ -1,6 +1,7 @@
 ---
 type: product
 id: istation-reading
+moved_from: [element/istation-professional-learning-formats, element/istation-reading-adaptive-assessment-supplemental-curriculum]
 title: Istation Reading
 description: Istation Reading is a digital reading assessment and instructional platform developed and provided by Istation, with professional learning for educators and school leaders to support implementation.
 product_kind: software

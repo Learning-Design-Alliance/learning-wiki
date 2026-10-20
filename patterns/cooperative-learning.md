@@ -1,6 +1,7 @@
 ---
 type: pattern
 id: cooperative-learning
+moved_from: [principle/laboratories-satisfying-cooperative-learning-conditions]
 aliases: [jigsaw-structures-adult-learners, nine-key-elements-cooperative-lesson]
 title: Cooperative Learning
 description: "A reusable policy for small-group work that elicits each member's starting response, sets interdependence and individual accountability together, and uses individual checks rather than the group product to choose the next activity."

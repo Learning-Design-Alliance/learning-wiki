@@ -64,6 +64,6 @@ Model 5 letter-type contrasts for 5-year-olds were non-significant (p > .05); eq
 ## Related Claims
 - [The first letter of the child's name was the only letter-level factor consistently associated with correct letter writing](first-letter-of-name-advantage-letter-writing.md) — related
 - [Letter-name knowledge strongly predicts correct letter writing, especially for 4- and 5-year-olds](letter-name-knowledge-predicts-letter-writing.md) — related
-- [Letter-sound knowledge and phonological awareness contribute to letter writing but substantially less than letter-name knowledge](letter-sound-pa-smaller-contribution.md) — related
+- [Letter-sound knowledge and phonological awareness are associated with letter writing, but much less strongly than letter-name knowledge](letter-sound-pa-smaller-contribution.md) — related
 - [Letter-writing difficulty varies widely across letters, with O easiest and K hardest, and knowing the letter name raises per-letter probabilities substantially](per-letter-difficulty-and-name-knowledge-gains.md) — related
 - [Vowels were easier for 3- and 4-year-olds to write than CV letters](vowels-easier-to-write-young-preschoolers.md) — related

@@ -80,7 +80,7 @@
 "products->patterns":3,
 "products->principles":1,
 "products->products":558,
-"research-methods->claims":465,
+"research-methods->claims":464,
 "research-methods->research-methods":113,
 "strategies->claims":3170,
 "strategies->designs":64,
@@ -17262,7 +17262,7 @@
 "rereading-less-effective-than-retrieval-practice":{"claims":[{"slug":"effortless-ai-use-creates-illusion-of-learning"},{"slug":"five-techniques-low-utility"},{"slug":"fluent-illusions-mislead-self-assessment"},{"slug":"learners-misjudge-effective-learning-strategies"},{"slug":"repeated-recall-without-feedback-beats-repeated-study-at-one-week-but-not-five-minutes"},{"slug":"rereading-is-a-low-utility-study-strategy"},{"slug":"retrieval-practice-improves-retention"},{"slug":"retrieval-practice-increases-cognitive-load"}],"elements":[{"polarity":"+","slug":"self-testing","strength":"S"}],"learner-variables":[{"polarity":"+","slug":"long-term-memory","strength":"S"}]},
 "research-barters-foster-reciprocity-icel":{"principles":[{"polarity":"+","slug":"community-based-learning","strength":"W"}]},
 "research-driven-guidelines-promote-responsibility-pbl":{"claims":[{"slug":"group-settings-and-guidelines-promote-calibration"}],"strategies":[{"polarity":"+","slug":"phase-specific-srl-fostering-practices-in-pbl","strength":"W"}]},
-"research-questions-rarely-designed-with-practitioners":{"claims":[{"slug":"teachers-rarely-consult-research-decision-making"},{"slug":"unstandardised-ai-reporting-harms-reproducibility-and-review"}],"research-methods":[{"polarity":"+","slug":"design-based-research","strength":"W"}],"theories":[{"polarity":"+","slug":"participatory-design-practitioner-engagement","strength":"W"},{"polarity":"~","slug":"research-practice-partnerships-rpp","strength":"W"}]},
+"research-questions-rarely-designed-with-practitioners":{"claims":[{"slug":"teachers-rarely-consult-research-decision-making"},{"slug":"unstandardised-ai-reporting-harms-reproducibility-and-review"}],"processes":[{"polarity":"+","slug":"design-based-research","strength":"W"}],"theories":[{"polarity":"+","slug":"participatory-design-practitioner-engagement","strength":"W"},{"polarity":"~","slug":"research-practice-partnerships-rpp","strength":"W"}]},
 "researcher-delivered-larger-comprehension-effects":{"claims":[{"slug":"comprehension-effects-sample-moderators"},{"slug":"delayed-posttest-effects-trivial"},{"slug":"duration-and-gender-moderators"},{"slug":"interest-triggering-moderator"},{"slug":"motivation-only-equally-effective"},{"slug":"reading-motivation-interventions-comprehension-effect"},{"slug":"teacher-report-measurement-moderator"}]},
 "researcher-developed-measures-larger-language-effects":{"claims":[{"slug":"38-of-132-early-literacy-interventions-effective"},{"slug":"ct-measure-type-influences-effectiveness-evaluation"},{"slug":"pa-pk-improve-decoding-without-decoding-instruction"},{"slug":"pa-pk-improve-early-writing"},{"slug":"small-group-language-instruction-larger-effects"},{"slug":"taught-domain-instruction-improves-taught-domain"},{"slug":"test-type-moderates-its-effects"}],"principles":[{"polarity":"~","slug":"always-report-interpret-effect-sizes","strength":"M"}]},
 "researcher-judged-more-credible-than-consumer":{"claims":[{"slug":"embedded-rating-scales-expertise-justifications"},{"slug":"embedded-rating-scales-researcher-most-convincing"}],"elements":[{"polarity":"+","slug":"resource-evaluation","strength":"W"}]},
@@ -26669,7 +26669,7 @@
 "principles":170,
 "processes":18,
 "products":1830,
-"research-methods":507,
+"research-methods":506,
 "strategies":6321,
 "theories":1361
 }

@@ -1,6 +1,7 @@
 ---
 type: product
 id: edcamp
+moved_from: [element/edcamp-unconference-model]
 title: Edcamp
 description: Edcamp is a participant-driven professional-learning programme and event model, supported by the Edcamp Foundation, in which educators choose topics, lead peer sessions, and collaboratively share resources.
 product_kind: programme

@@ -45,5 +45,5 @@ Authors' interpretive note (type e) on one case's argumentation, illustrating li
 
 - [Guidance during inquiry learning improves post-inquiry learning outcomes (d = 0.50)](guidance-improves-inquiry-learning-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Specific game features scaffold scientific thinking in ways the authors claim are non-existent in most inquiry-based learning environments](ar-game-features-scaffold-argumentation.md) — a broader claim this one bears on
-- [A place-based augmented reality game (Mad City Mystery) engaged students in scientific argumentation across three case studies of roughly 28 students total](mad-city-mystery-ar-argumentation-cases.md) — related
+- [The authors of three case studies (roughly 28 students) argue that a place-based augmented reality game, Mad City Mystery, holds potential for engaging students in scientific argumentation](mad-city-mystery-ar-argumentation-cases.md) — related
 - [Argumentation quality is associated with denser co-occurrence of scientific reasoning and self-regulation processes](argumentation-quality-associated-with-reasoning-self-regulation-co-occurrence.md) — related

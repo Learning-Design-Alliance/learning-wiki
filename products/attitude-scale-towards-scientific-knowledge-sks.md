@@ -1,6 +1,7 @@
 ---
 type: product
 id: attitude-scale-towards-scientific-knowledge-sks
+moved_from: [element/sks-attitude-scale-scientific-knowledge-ayvaci]
 title: Attitude Scale towards Scientific Knowledge (SKS)
 description: The SKS is a 25-item five-point Likert assessment developed by Ayvacı (2007) to measure attitudes toward scientific knowledge and views about its nature.
 product_kind: assessment

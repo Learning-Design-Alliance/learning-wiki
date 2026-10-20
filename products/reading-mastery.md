@@ -1,6 +1,7 @@
 ---
 type: product
 id: reading-mastery
+moved_from: [element/reading-mastery-direct-instruction-program, element/reading-mastery-program-element]
 title: Reading Mastery
 description: "Reading Mastery is SRA/McGraw-Hill's structured direct-instruction reading curriculum, developed by Siegfried Engelmann for elementary learners."
 product_kind: curriculum

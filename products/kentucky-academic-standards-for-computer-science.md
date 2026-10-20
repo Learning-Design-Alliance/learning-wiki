@@ -1,6 +1,7 @@
 ---
 type: product
 id: kentucky-academic-standards-for-computer-science
+moved_from: [theory/kas-data-analysis-standards-strands]
 title: Kentucky Academic Standards for Computer Science
 description: "A framework issued by the Kentucky Department of Education that defines K–8 computer-science learning standards, including Data & Analysis and Impacts of Computing strands."
 product_kind: framework

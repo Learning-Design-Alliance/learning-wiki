@@ -44,7 +44,7 @@ Eman Ganaiem, Ido Roll. (2025). Investigating the order of example-problem seque
 
 `q3 · i?` · `causal · r2`
 
-In the experimental design MANCOVA (n = 113 students analysed), the condition-by-pre-test interaction was non-significant (p = 0.870), contradicting the hypothesis that low prior knowledge students benefit most from WE first.
+In the experimental design MANCOVA (n = 113 students analysed), the condition-by-pre-test interaction was non-significant (p = 0.870, partial η2 = 0.006): the study found no evidence that the benefit of worked examples first differed with prior knowledge, which does not support the hypothesis that low prior knowledge students benefit most from WE first; equivalence was not tested.
 
 > "Also, there is no significant interaction between condition and pre-test: Wilk's Λ = 0988, F (4, 212) = 0.315, p = 0.870, partial η2 = 0.006."
 

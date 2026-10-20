@@ -1,6 +1,7 @@
 ---
 type: product
 id: enhanced-core-reading-instruction
+moved_from: [element/ecri-professional-development-workbooks-leadership-guide, element/enhanced-core-reading-instruction-program]
 title: Enhanced Core Reading Instruction
 description: Enhanced Core Reading Instruction is a structured literacy intervention programme with professional development materials for teachers, interventionists, and literacy leaders.
 product_kind: programme

@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: sel-status-and-growth-early-warning-modeling
+moved_from: [element/nwea-sel-trajectories-working-paper, theory/sel-trajectory-status-growth-framework]
 title: SEL status-and-growth early-warning modeling
 description: "This framework treats social-emotional learning constructs (academic growth mindset, self-efficacy, self-management) as developmental processes with their own growth trajectories, asking \"whether a student's mean SEL score in 6th grade (status) or growth between 6th through 8th grade is more predict"
 status: review

@@ -1,6 +1,7 @@
 ---
 type: product
 id: chicago-public-education-fund
+moved_from: [theory/fund-theory-of-action-talent-concentration]
 title: Chicago Public Education Fund
 description: "The Chicago Public Education Fund's framework and initiative support the concentration and development of talented teachers and school leaders to promote school improvement."
 product_kind: framework

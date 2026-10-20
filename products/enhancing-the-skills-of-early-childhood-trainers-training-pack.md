@@ -1,6 +1,7 @@
 ---
 type: product
 id: enhancing-the-skills-of-early-childhood-trainers-training-pack
+moved_from: [element/enhancing-skills-early-childhood-trainers-pack]
 title: Enhancing the Skills of Early Childhood Trainers training pack
 description: A Bernard van Leer Foundation training-pack curriculum, co-published with UNESCO, that combines early childhood development theory with experiential participatory methods for trainer-of-trainers courses or self-learning.
 product_kind: curriculum

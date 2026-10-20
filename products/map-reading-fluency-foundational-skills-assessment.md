@@ -1,6 +1,7 @@
 ---
 type: product
 id: map-reading-fluency-foundational-skills-assessment
+moved_from: [element/map-reading-fluency-foundational-skills-norms-k-3]
 title: MAP Reading Fluency Foundational Skills assessment
 description: An NWEA English early-literacy assessment for Grades K–3 measuring phonological awareness, phonics and word recognition, and language comprehension, with achievement and growth norms.
 product_kind: assessment

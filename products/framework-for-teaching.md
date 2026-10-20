@@ -1,6 +1,7 @@
 ---
 type: product
 id: framework-for-teaching
+moved_from: [element/danielson-framework-for-teaching-observation-tool, element/fft-22-component-observation-instrument, element/framework-for-teaching-22-component-rubric]
 title: Framework for Teaching
 description: The Charlotte Danielson Framework for Teaching is a framework developed by Charlotte Danielson for evaluating and supporting classroom teaching through observable components across four domains and four performance levels.
 product_kind: framework

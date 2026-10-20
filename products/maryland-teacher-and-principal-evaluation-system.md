@@ -1,6 +1,7 @@
 ---
 type: product
 id: maryland-teacher-and-principal-evaluation-system
+moved_from: [design/maryland-tpe-system-element, design/slo-evidence-based-instructional-process]
 title: Maryland Teacher and Principal Evaluation System
 description: A statewide educator-evaluation programme combining professional-practice ratings with student-growth measures, administered by the Maryland State Department of Education.
 product_kind: programme

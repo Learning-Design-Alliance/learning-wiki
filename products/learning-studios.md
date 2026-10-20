@@ -1,6 +1,7 @@
 ---
 type: product
 id: learning-studios
+moved_from: [element/learning-studios-program-element]
 title: Learning Studios
 description: "Learning Studios is a network of technology-equipped classrooms operated through HP and Microsoft's Reinvent the Classroom initiative, providing hardware, design-project guides, teacher training, professional development, and an online learning community."
 product_kind: programme

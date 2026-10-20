@@ -1,6 +1,7 @@
 ---
 type: principle
 id: inquiry-based-learning
+moved_from: [pattern/5e-learning-cycle, pattern/collaborative-inquiry, pattern/guided-discovery-learning, pattern/inquiry-based-learning, pattern/interdisciplinary-course-based-research-experience, pattern/process-oriented-guided-inquiry-learning-pogil, pattern/research-based-learning, pattern/scripted-personally-meaningful-inquiry]
 aliases: [guiding-problem-question-structures-astronomy-sequence, inquiry-ownership-and-authenticity]
 title: Inquiry-based Learning
 description: For school science learners, inquiry that is guided (prompts, feedback, teacher-led explanation and a synthesis) is associated with better conceptual understanding than comparison instruction, while unguided discovery of essential content learns less than explicit instruction for novices.

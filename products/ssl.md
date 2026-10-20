@@ -1,6 +1,7 @@
 ---
 type: product
 id: ssl
+moved_from: [design/model-lead-test-reteach-lesson-pattern]
 title: SSL
 description: SSL is a structured early-literacy intervention programme whose developers provide lessons using modelling, guided practice, progress monitoring, and reteaching.
 product_kind: programme

@@ -25,7 +25,7 @@ The article formalizes pedagogical safety as four constraint classes: "Structura
 
 - [An engagement-optimized RL tutor exhibits reward hacking, achieving the highest cumulative reward while producing minimal learning and a 70.8% behavioral-safety violation rate](../claims/engagement-optimized-rl-tutor-reward-hacking.md) [+M]
 - [A constrained architecture combining prerequisite enforcement and a minimum cognitive-demand floor substantially reduces reward hacking, lowering RHSI from 0.317 (MO) to 0.102 (ST)](../claims/constrained-architecture-reduces-rhsi.md) [+M]
-- [Removing the behavioral-safety constraint (C3) causes degenerate policy collapse to near-single-action policies, making C3 the most influential safeguard in the ablation study](../claims/c3-ablation-policy-collapse.md) [+M]
+- [In a simulated tutoring agent, removing the behavioral-safety constraint (C3) appears to cause collapse to near-single-action policies, which the authors read as C3 being the most influential safeguard, though its ablation does not differ significantly from removing C1 in RHSI](../claims/c3-ablation-policy-collapse.md) [+M]
 - [Edu-QuRater rewards alone raise pedagogical-quality win rate (77.70%) but fall below parity on instruction following (40.54%), consistent with over-optimizing a proxy reward](../claims/edu-qurater-rewards-alone-below-parity-instruction-following.md) [+W]
 
 ## Related Research Methods

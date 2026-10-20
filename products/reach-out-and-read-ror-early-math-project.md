@@ -1,6 +1,7 @@
 ---
 type: product
 id: reach-out-and-read-ror-early-math-project
+moved_from: [element/ror-early-math-family-engagement-project]
 title: Reach Out and Read (ROR) early math project
 description: "Reach Out and Read's early math project is a family-engagement programme developed and implemented by Reach Out and Read to support young children's early mathematics learning."
 product_kind: programme

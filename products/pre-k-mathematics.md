@@ -1,6 +1,7 @@
 ---
 type: product
 id: pre-k-mathematics
+moved_from: [design/small-group-manipulatives-with-home-activities-pattern, element/prek-mathematics-curriculum]
 title: Pre-K Mathematics
 description: A supplemental preschool mathematics curriculum developed by Alice Klein and Prentice Starkey with Alma Ramirez and distributed by Pearson Scott Foresman.
 product_kind: curriculum

@@ -1,6 +1,7 @@
 ---
 type: product
 id: find-the-fit
+moved_from: [element/find-the-fit-program-element, element/find-the-fit-upward-bound-advising-program]
 title: Find the Fit
 description: Find the Fit is an enhanced college-advising programme used within Upward Bound that combines personalized planning materials and student text messaging with advisor training webinars.
 product_kind: programme

@@ -46,4 +46,4 @@ Denckla's narrative review of research on executive function dysfunction in ADHD
 
 - [ASD shows a distinct executive dysfunction profile of impaired cognitive flexibility and planning with intact inhibitory control](asd-flexibility-deficit-intact-inhibition.md)
 - [Aerobic exercise improves executive functioning, most notably inhibitory control, in typically developing children, though evidence is tentative and one week-long study found no main effect](aerobic-exercise-improves-executive-function-children.md)
-- [The effect of reward on inhibitory control is not moderated by clinical status, including ADHD and substance use disorder samples](clinical-status-does-not-moderate-reward-effect-on-inhibitory-control.md)
+- [A meta-analysis found no evidence that clinical status, including ADHD and substance use disorder samples, moderates the effect of reward on inhibitory control](clinical-status-does-not-moderate-reward-effect-on-inhibitory-control.md)

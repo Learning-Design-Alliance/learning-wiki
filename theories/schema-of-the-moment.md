@@ -1,6 +1,7 @@
 ---
 type: theory
 id: schema-of-the-moment
+moved_from: [principle/theories-constrained-by-biological-hardware]
 title: "The schema-of-the-moment: cognition as a transient functional organization of simultaneously active neuronal elements"
 description: "The paper's central construct is the schema-of-the-moment, a momentary functional pattern created by the simultaneous activity of distributed neuronal elements, replacing the structural view of stored mental templates."
 status: review

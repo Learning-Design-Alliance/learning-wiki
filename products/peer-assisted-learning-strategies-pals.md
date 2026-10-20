@@ -1,6 +1,7 @@
 ---
 type: product
 id: peer-assisted-learning-strategies-pals
+moved_from: [design/pals-three-strategy-reciprocal-tutoring-routine, design/peer-tutoring-primary-prevention-math, element/pals-materials-and-cost, element/pals-peer-assisted-learning-strategies-program, element/pals-peer-tutoring-program-element, element/pals-peer-tutoring-reading-program, strategy/peer-assisted-learning-strategies-pals, strategy/pals_peer-assisted-learning-strategies, strategy/reciprocal-teaching-peer-assisted-learning-strategies-pals]
 title: Peer-Assisted Learning Strategies (PALS)
 description: A commercially distributed, scripted peer-assisted reading and literacy curriculum for kindergarten through upper elementary grades, developed by researchers including Patricia G.
 product_kind: curriculum
@@ -56,7 +57,7 @@ A commercially distributed, scripted peer-assisted reading and literacy curricul
 ### Claims
 - [Teachers and students report generally favorable impressions of PALS, with least favorability toward team-based structure components](../claims/pals-favorable-teacher-student-impressions.md) [+W]
 - [PALS shows strong evidence of positive effects on first-grade literacy, with an average effect size of +0.23 across three studies](../claims/pals-strong-evidence-first-grade-literacy-es-023.md) [+W]
-- [PALS effects were statistically significant for the full diverse sample but not for the learning-disability subsets analyzed separately](../claims/pals-full-sample-significant-ld-subset-not.md) [+W]
+- [PALS effects on the learning-disability subsets analyzed separately were not statistically significant, while the full-sample effect was significant in one study (Fuchs et al., 1997) and not in the other (Saenz et al., 2005)](../claims/pals-full-sample-significant-ld-subset-not.md) [+W]
 - [PALS shows no discernible effects on mathematics for students with learning disabilities](../claims/pals-no-discernible-math-effects-ld.md) [-W]
 - [PALS shows potentially positive effects on reading comprehension for students with learning disabilities (average effect size 0.75, not statistically significant)](../claims/pals-potentially-positive-reading-comprehension-ld.md) [+W]
 - [PALS shows potentially positive effects on reading fluency for students with learning disabilities, with a substantively important but not statistically significant WWC-calculated effect size of 0.41 in Saenz et al. (2005)](../claims/pals-potentially-positive-reading-fluency-ld.md) [+W]
@@ -248,7 +249,7 @@ PALS is "a supplemental peer-tutoring program in which student pairs perform a s
 
 ## Claims
 
-- [PALS effects were statistically significant for the full diverse sample but not for the learning-disability subsets analyzed separately](../claims/pals-full-sample-significant-ld-subset-not.md) [+W]
+- [PALS effects on the learning-disability subsets analyzed separately were not statistically significant, while the full-sample effect was significant in one study (Fuchs et al., 1997) and not in the other (Saenz et al., 2005)](../claims/pals-full-sample-significant-ld-subset-not.md) [+W]
 - [PALS shows no discernible effects on mathematics for students with learning disabilities](../claims/pals-no-discernible-math-effects-ld.md) [-W]
 - [PALS shows potentially positive effects on reading comprehension for students with learning disabilities (average effect size 0.75, not statistically significant)](../claims/pals-potentially-positive-reading-comprehension-ld.md) [+W]
 - [PALS shows potentially positive effects on reading fluency for students with learning disabilities (average effect size 0.36, not statistically significant)](../claims/pals-potentially-positive-reading-fluency-ld.md) [+W]

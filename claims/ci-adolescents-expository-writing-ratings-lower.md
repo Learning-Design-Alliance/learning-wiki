@@ -43,6 +43,6 @@ Descriptive essays written by CI-HS students were rated by three NTID faculty ra
 
 
 ## Related Claims
-- [Adolescents with cochlear implants spell significantly less accurately than hearing peers, with a bimodal distribution of spelling ability](ci-adolescents-spelling-poorer-than-hearing-peers.md) — related
+- [Adolescents with cochlear implants spell significantly less accurately than hearing peers, though 55% spell within one standard deviation of them and 45% two or more below](ci-adolescents-spelling-poorer-than-hearing-peers.md) — related
 - [Two-thirds to three-quarters of adolescent CI users score within the normal range on vocabulary and language content measures](ci-adolescents-language-measures-normal-range.md) — related
 - [Current adolescent characteristics including digit span, sentence duration and sign enhancement predict high school language outcomes](late-predictors-ci-high-school-language.md) — related

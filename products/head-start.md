@@ -1,6 +1,7 @@
 ---
 type: product
 id: head-start
+moved_from: [element/head-start-program-element]
 title: Head Start
 description: Head Start is a federally funded U.S.
 product_kind: programme

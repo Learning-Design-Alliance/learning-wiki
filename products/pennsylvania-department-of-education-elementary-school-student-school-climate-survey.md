@@ -1,6 +1,7 @@
 ---
 type: product
 id: pennsylvania-department-of-education-elementary-school-student-school-climate-survey
+moved_from: [element/pde-elementary-school-climate-survey]
 title: Pennsylvania Department of Education elementary school student school climate survey
 description: "A voluntary elementary student school-climate survey developed by the Pennsylvania Department of Education's Office for Safe Schools with REL Mid-Atlantic to help Pennsylvania schools measure climate and identify areas needing support."
 product_kind: assessment

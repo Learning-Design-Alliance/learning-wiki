@@ -14,7 +14,7 @@ sources:
     title: "Sibley, L., Berner, T., & Schmalfeldt, T. (2026). Effectiveness of adaptive versus non-adaptive intelligent tutoring systems in early primary mathematics. Computers and Education Open 11. https://doi.org/10.1016/j.caeo.2026.100420"
     author: "Sibley, L., Berner, T., & Schmalfeldt, T."
     q: 3
-    i: "?"
+    i: 0
     kind: causal
     rigour: 3
 ---
@@ -22,10 +22,10 @@ sources:
 # Adaptive task difficulty in an ITS did not improve second-graders' mathematics posttest performance compared with an identical non-adaptive ITS
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r3` · `q3`
+> **Evidence** · 1 study · causal `r3` · `q3` · `i0` negligible
 
 ## Subclaims
-`q3 i?` In a randomized two-group pretest–posttest field experiment (N = 132), the adaptive ITS condition did not outperform the non-adaptive condition on posttest mathematics scores controlling for prior knowledge. [→ Sibley 2026](#sibley-2026)
+`q3 i0` In a randomized two-group pretest–posttest field experiment (N = 132), the adaptive ITS condition did not outperform the non-adaptive condition on posttest mathematics scores controlling for prior knowledge. [→ Sibley 2026](#sibley-2026)
 
 ## Evidence
 
@@ -33,9 +33,9 @@ sources:
 
 Sibley, L., Berner, T., & Schmalfeldt, T. (2026). Effectiveness of adaptive versus non-adaptive intelligent tutoring systems in early primary mathematics. Computers and Education Open 11. https://doi.org/10.1016/j.caeo.2026.100420
 
-`q3 · i?` · `causal · r3`
+`q3 · i0` · `causal · r3`
 
-Randomized two-group pretest–posttest field experiment with 132 second-graders; ANCOVA of posttest on condition controlling for prior knowledge found no condition effect. The article reports "no significant effect of condition, F(1, 124) = 0.32, p = .574, η²p = .00"; no effect size beyond the null η²p is printed, so impact is null.
+Randomized two-group pretest–posttest field experiment with 132 second-graders; ANCOVA of posttest on condition controlling for prior knowledge found no condition effect. The article reports "no significant effect of condition, F(1, 124) = 0.32, p = .574, η²p = .00"; the printed η²p = .00 is a negligible effect: no difference was detected in this sample, which does not show that the true effect is exactly zero.
 
 > "However, there was no significant effect of condition, F(1, 124) = 0.32, p = .574, η²p = .00, indicating that – against our assumption – the adaptive version of the ITS was not more beneficial for students regarding their learning outcome than a non- adaptive ITS."
 

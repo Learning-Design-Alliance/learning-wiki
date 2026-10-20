@@ -1,6 +1,7 @@
 ---
 type: product
 id: community-of-inquiry-survey-and-metacognition-questionnaire
+moved_from: [element/coi-survey-and-metacognition-questionnaire-instruments]
 title: Community of Inquiry Survey and Metacognition Questionnaire
 description: The CoI Survey, developed by Arbaugh et al., measures students’ perceptions of teaching, social, and cognitive presence, while the Garrison and Akyol metacognition questionnaire measures self-regulation and co-regulation.
 product_kind: assessment

@@ -17,7 +17,7 @@ sources:
 # Large high school divided into multiple small charter schools as a turnaround design
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 This whole-school design pattern converts one existing, underperforming public high school into a set of smaller autonomous charter schools sharing the same neighborhood catchment. The reviewed study "examined a group of Green Dot Public Schools formed by dividing an existing public high school into a set of smaller schools": the original school was divided into two off-site small schools in the first year and into eight schools by the second year, serving the full prior student community. The pattern pairs small-school community with the charter operator's six-principle model.

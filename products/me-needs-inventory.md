@@ -1,6 +1,7 @@
 ---
 type: product
 id: me-needs-inventory
+moved_from: [element/measurement-evaluation-needs-inventory-tool]
 title: "M&E Needs Inventory"
 description: A self-assessment tool developed by Megan Shoji and colleagues for organizations to evaluate their measurement and evaluation capacity and identify priorities for external research-partner support.
 product_kind: assessment

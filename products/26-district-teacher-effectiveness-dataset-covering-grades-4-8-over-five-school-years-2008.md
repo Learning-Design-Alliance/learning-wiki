@@ -1,6 +1,7 @@
 ---
 type: product
 id: 26-district-teacher-effectiveness-dataset-covering-grades-4-8-over-five-school-years-2008
+moved_from: [element/26-district-teacher-effectiveness-dataset]
 title: 26-district teacher effectiveness dataset covering grades 4-8 over five school years (2008-2009 to 2012-2013)
 description: A research dataset assembled and analyzed by Eric Isenberg and colleagues containing teacher effectiveness, student income, hiring, transfer, and attrition information for fourth- through eighth-grade teachers in 26 U.S.
 product_kind: dataset

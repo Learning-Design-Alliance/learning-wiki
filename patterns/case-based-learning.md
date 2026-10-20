@@ -1,6 +1,7 @@
 ---
 type: pattern
 id: case-based-learning
+moved_from: [principle/case-studiescase-based-learning]
 aliases: [case-based-learning-harvard-method]
 title: Case-Based Learning
 description: "A reusable policy for learning from realistic cases: establish what learners can already do with the target concept, have them compare several cases that share a principle rather than study one at a time, make the principle explicit, and judge the unit on transfer to a new case rather than on enjoyment or recall."
@@ -125,7 +126,7 @@ Ask for four facts when the brief omits them: **is the domain well structured or
 - *Does teaching through realistic cases, by itself, raise learning?* [Case-based learning improves exam performance](../claims/case-based-learning-improves-exam-performance.md) [~M]
 - *Do interactive virtual-patient cases improve knowledge or skills more than traditional teaching?* [Virtual patients more effectively improve skills than traditional education (pooled SMD=0.90)](../claims/vp-traditional-skills-advantage.md) [+M]
 - *What supports case work online and asynchronously?* [Co-regulation shows stronger relationships with the three CoI presences than self-regulation in an online case-based course](../claims/co-regulation-stronger-presence-relationships-than-self-regulation.md) [~W]
-- *Can an AI write, run or facilitate the cases?* [Case-based learning benefits depended on faculty-guided embedding, while complex cases and team workflows showed null or unfavorable effects](../claims/genai-cbl-faculty-guided-conditional-benefits.md) [~W]
+- *Can an AI write, run or facilitate the cases?* [Case-based learning benefits were reported particularly when GenAI was embedded in faculty-guided teaching, while complex cases and team workflows showed null or unfavorable effects](../claims/genai-cbl-faculty-guided-conditional-benefits.md) [~W]
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-02 (maintainer's decision): claims this page cited before the 2026-10-02 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
@@ -151,7 +152,7 @@ This pattern is scoped to lessons in which cases are analysed and compared and t
 
 ## Claims
 
-- [Case-based learning benefits depended on faculty-guided embedding, while complex cases and team workflows showed null or unfavorable effects](../claims/genai-cbl-faculty-guided-conditional-benefits.md) [~W]
+- [Case-based learning benefits were reported particularly when GenAI was embedded in faculty-guided teaching, while complex cases and team workflows showed null or unfavorable effects](../claims/genai-cbl-faculty-guided-conditional-benefits.md) [~W]
 - [Presenting principles before case comparison yields higher germane load and lower extraneous load than presenting them after](../claims/input-before-raises-germane-lowers-extraneous-load.md) [~W]
 - [Timing of instructional input (before vs. after case comparison) did not significantly affect conceptual knowledge acquisition](../claims/input-timing-no-effect-knowledge-case-comparison.md) [~W]
 - [Providing key features during case comparison improves student teachers' ability to explain teacher behavior with operant conditioning principles, but not lower levels of understanding](../claims/key-features-improve-explanation-in-case-comparison.md) [+W]

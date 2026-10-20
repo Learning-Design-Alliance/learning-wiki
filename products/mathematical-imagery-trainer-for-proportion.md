@@ -1,6 +1,7 @@
 ---
 type: product
 id: mathematical-imagery-trainer-for-proportion
+moved_from: [element/mitp-mathematical-imagery-trainer-proportion]
 title: Mathematical Imagery Trainer for Proportion
 description: An embodied mathematics-learning environment developed by Dor Abrahamson and colleagues in which learners manipulate on-screen cursors to construct proportional relationships through staged visual and numerical overlays.
 product_kind: software

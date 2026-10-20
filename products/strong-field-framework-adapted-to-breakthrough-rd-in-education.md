@@ -1,6 +1,7 @@
 ---
 type: product
 id: strong-field-framework-adapted-to-breakthrough-rd-in-education
+moved_from: [theory/strong-field-framework-breakthrough-rd-education]
 title: "Strong Field Framework adapted to Breakthrough R&D in Education"
 description: "A framework developed and used by the ATS Hub to organize field-building around five conditions intended to strengthen and coordinate education R&D."
 product_kind: framework

@@ -1,6 +1,7 @@
 ---
 type: product
 id: read-180
+moved_from: [element/read-180-blended-reading-intervention, element/read-180-blended-reading-program, element/read-180-student-application-six-zones]
 title: READ 180
 description: READ 180® is a branded blended-learning reading intervention for struggling adolescent readers, combining digital instruction, teacher-led small groups, independent reading, assessment, and professional development.
 product_kind: programme

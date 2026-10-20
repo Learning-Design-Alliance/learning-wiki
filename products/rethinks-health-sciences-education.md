@@ -1,6 +1,7 @@
 ---
 type: product
 id: rethinks-health-sciences-education
+moved_from: [theory/career-coaching-bridge-workforce-college-systems]
 title: RETHINKS Health Sciences Education
 description: A TAACCCT-funded Virginia community-college workforce-development initiative that used career coaching and related strategies to connect workers with health-sciences education and employment pathways.
 product_kind: programme

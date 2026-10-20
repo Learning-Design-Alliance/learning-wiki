@@ -1,6 +1,7 @@
 ---
 type: product
 id: coursemojo
+moved_from: [element/coursemojo-ai-ela-instructional-assistant, element/coursemojo-ai-ela-platform]
 title: Coursemojo
 description: Coursemojo is an AI-powered, curriculum-aligned ELA instructional assistant for grades 5–8 that provides personalized writing feedback, accessibility and translation supports, and teacher-facing progress and engagement dashboards.
 product_kind: software

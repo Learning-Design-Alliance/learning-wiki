@@ -1,6 +1,7 @@
 ---
 type: product
 id: universal-design-for-learning-udl-framework
+moved_from: [theory/udl-three-principles-framework-math]
 title: Universal Design for Learning (UDL) framework
 description: "CAST's framework for designing flexible instruction around learner variability through multiple means of Engagement, Representation, and Action & Expression."
 product_kind: framework

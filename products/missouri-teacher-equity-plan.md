@@ -1,6 +1,7 @@
 ---
 type: product
 id: missouri-teacher-equity-plan
+moved_from: [design/missouri-shortage-predictor-model]
 title: Missouri teacher equity plan
 description: "Missouri's teacher equity plan is a state-run programme framework, developed and implemented by the Missouri Department of Elementary and Secondary Education, that uses shortage prediction to target recruitment and preparation in high-need areas."
 status: review

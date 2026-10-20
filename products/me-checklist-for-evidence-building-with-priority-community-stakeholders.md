@@ -1,6 +1,7 @@
 ---
 type: product
 id: me-checklist-for-evidence-building-with-priority-community-stakeholders
+moved_from: [element/me-checklist-evidence-building-resource]
 title: "M&E Checklist for evidence-building with priority-community stakeholders"
 description: A project-developed checklist from the Evaluating the Development of Middle Years Math Teaching and Learning Solutions project, prepared for the Gates Foundation, that guides solution teams through stakeholder-collaborative evidence building and testing.
 product_kind: framework

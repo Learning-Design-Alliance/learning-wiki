@@ -1,6 +1,7 @@
 ---
 type: product
 id: safersanerschools-whole-school-change
+moved_from: [element/safersanschools-whole-school-change-program]
 title: SaferSanerSchools™ Whole-School Change
 description: A whole-school restorative-practices programme disseminated through the International Institute of Restorative Practices that trains school staff and teams to improve relationships, responsibility, restoration, and school climate.
 product_kind: programme

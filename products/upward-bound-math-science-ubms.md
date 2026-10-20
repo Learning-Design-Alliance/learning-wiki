@@ -1,6 +1,7 @@
 ---
 type: product
 id: upward-bound-math-science-ubms
+moved_from: [element/ubms-program-element]
 title: Upward Bound Math-Science (UBMS)
 description: A U.S.
 product_kind: programme

@@ -47,6 +47,6 @@ OSMASEM moderation analysis restricted to the 100 articles reporting SES measure
 - [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
-- [Country SES moderates the linguistic-skill-to-reading paths, with larger phonological-awareness and vocabulary effects in developed countries, but does not moderate the direct SES-reading paths](country-ses-moderates-skill-reading-paths-not-ses-reading.md) — related
+- [Country SES moderates the linguistic-skill-to-reading paths, with stronger phonological-awareness and vocabulary associations in developed countries, but does not moderate the direct SES-reading paths](country-ses-moderates-skill-reading-paths-not-ses-reading.md) — related
 - [Age moderates the vocabulary-to-reading paths (effects increase with age) but not the fluency model or any SES paths](age-moderates-vocabulary-reading-paths-not-ses-paths.md) — related
 - [SES shows significant direct and indirect effects on each reading outcome separately, with larger indirect effects through vocabulary for comprehension](ses-effects-on-accuracy-comprehension-fluency-separately.md) — related

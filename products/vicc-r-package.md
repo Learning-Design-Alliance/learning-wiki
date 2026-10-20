@@ -1,6 +1,7 @@
 ---
 type: product
 id: vicc-r-package
+moved_from: [element/vicc-r-package]
 title: vICC R package
 description: "The vICC R package is an R software implementation of Bayesian tests for within-person variance homogeneity and membership models, released by the article's authors for researchers analyzing repeated-measures data."
 product_kind: software

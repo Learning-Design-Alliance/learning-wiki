@@ -1,6 +1,7 @@
 ---
 type: product
 id: strategic-reading
+moved_from: [design/tdhs-cooperative-strategic-reading-structure]
 title: Strategic Reading
 description: Strategic Reading is a structured adolescent-literacy curriculum developed and delivered by the University of Kansas Center for Research on Learning.
 product_kind: curriculum

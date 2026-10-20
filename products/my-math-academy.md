@@ -1,6 +1,7 @@
 ---
 type: product
 id: my-math-academy
+moved_from: [element/my-math-academy-program-element]
 title: My Math Academy
 description: My Math Academy is a game-based adaptive mathematics learning platform for pre-K through grade 2, developed and operated by Age of Learning.
 product_kind: software

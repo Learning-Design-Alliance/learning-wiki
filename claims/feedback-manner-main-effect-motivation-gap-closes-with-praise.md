@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Students generally attempted fewer items under ego-involving than task-involving feedback, but this gap disappeared among praised students
-description: Students generally attempted fewer items under ego-involving than task-involving feedback, but this gap disappeared among praised students
+title: Students generally attempted fewer items under ego-involving than task-involving feedback, but among praised students the gap was not significant
+description: Students generally attempted fewer items under ego-involving than task-involving feedback, but among praised students the gap was not significant
 id: feedback-manner-main-effect-motivation-gap-closes-with-praise
 status: review
 generated:
@@ -27,7 +27,7 @@ sources:
     rigour: 2
 ---
 
-# Students generally attempted fewer items under ego-involving than task-involving feedback, but this gap disappeared among praised students
+# Students generally attempted fewer items under ego-involving than task-involving feedback, but among praised students the gap was not significant
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
@@ -54,7 +54,7 @@ Cheng-Hong Liu, Xian-Rui Yin. (2026). Effects of person praise on students' moti
 
 `q3 · i?` · `causal · r2`
 
-Simple slopes in the same regression showed the feedback-manner gap was largest without praise (b = −2.78, t = −6.96, p <.001) but vanished among praised students (b = −0.2, t = −0.5, p =.618): person praise raised engagement in the low-motivation ego-involving condition.
+Simple slopes in the same regression showed a feedback-manner gap without praise (b = −2.78, t = −6.96, p <.001) and no significant difference among praised students (b = −0.2, t = −0.5, p =.618); a nonsignificant difference does not show the gap is zero. The narrowing came mostly from praise lowering attempts under task-involving feedback (b = −1.8, t = −4.47, p <.001); under ego-involving feedback praise was associated with only a marginal, nonsignificant increase in attempts (b = 0.78, t = 1.97, p =.051).
 
 > "for participants who did not receive person praise, those under the ego-involving feedback condition answered fewer items relative to those under the task-involving feedback condition, b = −2.78, t = −6.96, p <.001."
 

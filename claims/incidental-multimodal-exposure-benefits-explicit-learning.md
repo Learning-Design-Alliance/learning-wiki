@@ -35,7 +35,7 @@ Marie-Josée Bisson, Walter J. B. van Heuven, Kathy Conklin, and Richard J. Tunn
 
 `q3 · i3` · `causal · r2`
 
-Repeated-measures ANOVAs on the translation recognition task (phase 2) of the experiment with 78 participants tested showed a main effect of word type, "indicating that participants performed better on old words" than new words, with ηp2 = .39 and ηp2 = .40 in block 1.
+Repeated-measures ANOVAs on the translation recognition task (phase 2) showed a main effect of word type, "indicating that participants performed better on old words" than new words, with ηp2 = .39 (by participants) and ηp2 = .40 (by items) in block 1 and ηp2 = .26 and .28 in block 2. Seventy-eight adults took part; after 10 were excluded for language background, one for a technical problem and one for 58% accuracy in the phase 1 letter-search task, the participant analyses rest on 66 (F1 df = 65).
 
 > "Results revealed a main effect of word type for both block 1, F1(1, 65) = 41.35, p < .001, ηp2 = .39, F2(1, 76) = 51.43, p < .001, ηp2 = .40"
 

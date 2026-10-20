@@ -1,6 +1,7 @@
 ---
 type: product
 id: 34-item-community-of-inquiry-survey
+moved_from: [element/coi-survey-34-item-instrument]
 title: 34-item Community of Inquiry Survey
 description: A validated survey developed by Swan et al.
 product_kind: assessment

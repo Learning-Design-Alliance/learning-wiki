@@ -1,6 +1,7 @@
 ---
 type: product
 id: reading-recovery
+moved_from: [design/daily-assessment-driven-multisensory-tutoring-session, design/reading-recovery-lesson-structure-pattern, design/reading-recovery-training-cascade, element/reading-recovery-daily-30-minute-lessons, element/reading-recovery-program-element, element/reading-recovery-tutoring-program]
 title: Reading Recovery
 description: Reading Recovery is a one-to-one early-literacy tutoring programme for low-achieving first-grade readers, delivered by specially trained teachers through daily individual lessons and progress monitoring.
 product_kind: programme

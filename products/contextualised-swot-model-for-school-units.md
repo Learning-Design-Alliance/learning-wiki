@@ -1,6 +1,7 @@
 ---
 type: product
 id: contextualised-swot-model-for-school-units
+moved_from: [theory/csm-su-contextualised-swot-model-school-units]
 title: Contextualised SWOT Model for School Units
 description: A theoretically informed, participatory four-phase SWOT-based strategic-management framework for diagnosing, prioritising, implementing, and reviewing school-unit improvement, developed by Keravnos et al.
 product_kind: framework

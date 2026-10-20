@@ -62,7 +62,7 @@ Bootstrap conditional indirect effects in the same model showed a negative indir
 
 
 ## Related Claims
-- [Students generally attempted fewer items under ego-involving than task-involving feedback, but this gap disappeared among praised students](feedback-manner-main-effect-motivation-gap-closes-with-praise.md) — related
+- [Students generally attempted fewer items under ego-involving than task-involving feedback, but among praised students the gap was not significant](feedback-manner-main-effect-motivation-gap-closes-with-praise.md) — related
 - [Person praise and feedback manner significantly interact on task motivation, such that praise raises trials under ego-involving feedback and lowers them under task-involving feedback](person-praise-feedback-manner-interaction-motivation.md) — related
 - [Person praise raises state self-esteem (d = 0.40), and under task-involving feedback higher state self-esteem is negatively related to motivation, supporting a distraction mechanism only in the low-threat condition](state-self-esteem-distraction-mechanism-task-involving.md) — related
 - [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](feedback-praise-reduces-learning.md) — related

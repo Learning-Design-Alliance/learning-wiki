@@ -1,6 +1,7 @@
 ---
 type: product
 id: virtually-connecting
+moved_from: [element/virtually-connecting-equitable-conversations]
 title: Virtually Connecting
 description: Virtually Connecting is a social-justice-oriented open educational practice run by founders and volunteers that facilitates conversations between conference attendees and people unable to attend.
 product_kind: programme

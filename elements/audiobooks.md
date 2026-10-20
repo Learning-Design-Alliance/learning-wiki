@@ -1,6 +1,7 @@
 ---
 type: element
 id: audiobooks
+moved_from: [principle/audiobooks]
 title: Audiobooks
 description: Audiobooks deliver text content through spoken audio, allowing learners to access material through listening rather than (or alongside) reading.
 canonical: true

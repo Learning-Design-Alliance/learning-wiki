@@ -1,6 +1,7 @@
 ---
 type: product
 id: improving-chicago-schools-the-students-speak-1997-and-improving-chicago-schools-the-teache
+moved_from: [element/improving-chicago-schools-surveys-1997]
 title: "Improving Chicago Schools: The Students Speak, 1997 and Improving Chicago Schools: The Teachers' Turn, 1997"
 description: "A pair of student and teacher surveys administered by the Consortium on Chicago School Research to measure views of school environment, classroom learning, parent involvement, school governance, and teachers' professional work life."
 product_kind: assessment

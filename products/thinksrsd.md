@@ -1,6 +1,7 @@
 ---
 type: product
 id: thinksrsd
+moved_from: [element/thinksrsd-online-resource]
 title: thinkSRSD
 description: thinkSRSD is an online resource providing free materials to help educators and school districts implement Self-Regulated Strategy Development, with optional paid online and in-person professional development.
 product_kind: programme

@@ -1,6 +1,7 @@
 ---
 type: product
 id: montevidisco
+moved_from: [element/montevidisco-conversational-simulator]
 title: Montevidisco
 description: An interactive video-based Spanish-language conversational simulation created by Edward Schneider and Junius Bennion in which learners navigate branching encounters in a Mexican village and record spoken responses for evaluation.
 product_kind: software

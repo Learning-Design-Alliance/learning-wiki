@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: response-time-effort-rte
+moved_from: [element/response-time-effort-rte-item-level-measure, theory/response-time-effort-measurement-framework]
 title: Response Time Effort (RTE)
 description: Response Time Effort (RTE) is a measure of test-taking effort computed from item response times.
 status: review

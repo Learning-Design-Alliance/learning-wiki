@@ -9,7 +9,7 @@ generated:
   at: 2026-10-12
 evidence_strength: weak
 sources:
-  - id: ross-2025
+  - id: ross-2026
     resource: "https://doi.org/10.31234/osf.io/e6smh_v1"
     title: "Ross, M., & Kaspar, K. (2026). Learning with pedagogical agents in extended reality: A conceptual research-based framework of agent-centered learning in immersive media environments (ACLIME). https://orcid.org/0000-0002-5092-6798 [doi:10.31234/osf.io/e6smh_v1](https://doi.org/10.31234/osf.io/e6smh_v1)"
     author: "Ross, M., & Kaspar, K."
@@ -25,11 +25,11 @@ sources:
 > **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
-`q1 i?` The enhanced realism of pedagogical agents in XR facilitates the exchange of social cues, which in turn is expected to strengthen social presence; behavioral agent realism should be a crucial predictor of social presence. [→ Ross 2025](#ross-2025)
+`q1 i?` The enhanced realism of pedagogical agents in XR facilitates the exchange of social cues, which in turn is expected to strengthen social presence; behavioral agent realism should be a crucial predictor of social presence. [→ Ross 2026](#ross-2026)
 
 ## Evidence
 
-### Ross 2025
+### Ross 2026
 
 Ross, M., & Kaspar, K. (2026). Learning with pedagogical agents in extended reality: A conceptual research-based framework of agent-centered learning in immersive media environments (ACLIME). https://orcid.org/0000-0002-5092-6798 [doi:10.31234/osf.io/e6smh_v1](https://doi.org/10.31234/osf.io/e6smh_v1)
 

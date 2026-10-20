@@ -1,6 +1,7 @@
 ---
 type: product
 id: instructional-conversations-and-literature-logs
+moved_from: [element/instructional-conversations-literature-logs-intervention]
 title: Instructional Conversations and Literature Logs
 description: A programme developed by William Saunders and Claude Goldenberg for English language learners that combines teacher-facilitated small-group instructional conversations with literature-log writing and sharing.
 product_kind: programme

@@ -45,4 +45,4 @@ The abstract states these as the study's research questions rather than reportin
 ## Related Claims
 - [Guided play outperforms direct instruction or free play on a few early-childhood outcomes, with no reliable difference on most others, in one meta-analysis](play-based-learning-improves-outcomes.md) — related
 - [Students in Playworks schools reported better behavior and attention in class after sports, games, and play](playworks-students-reported-better-behavior-attention-after-play.md) — related
-- [A place-based augmented reality game (Mad City Mystery) engaged students in scientific argumentation across three case studies of roughly 28 students total](mad-city-mystery-ar-argumentation-cases.md) — related
+- [The authors of three case studies (roughly 28 students) argue that a place-based augmented reality game, Mad City Mystery, holds potential for engaging students in scientific argumentation](mad-city-mystery-ar-argumentation-cases.md) — related

@@ -1,6 +1,7 @@
 ---
 type: product
 id: experience-corps
+moved_from: [element/experience-corps-tutoring-program-element]
 title: Experience Corps
 description: Experience Corps is a community-based programme that places adults aged 55 and older in elementary schools to tutor and mentor at-risk students, assist teachers, and lead enrichment activities.
 product_kind: programme

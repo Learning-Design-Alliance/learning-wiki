@@ -1,6 +1,7 @@
 ---
 type: product
 id: red-light-purple-light
+moved_from: [element/red-light-purple-light-program-element]
 title: Red Light, Purple Light
 description: "A preschool music-and-movement programme that uses progressively complex cue-and-action games to develop children's self-regulation, including attention switching, instruction memory, and impulse inhibition."
 product_kind: programme

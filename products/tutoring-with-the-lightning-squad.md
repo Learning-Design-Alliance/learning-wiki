@@ -1,6 +1,7 @@
 ---
 type: product
 id: tutoring-with-the-lightning-squad
+moved_from: [element/lightning-squad-program-element]
 title: Tutoring with the Lightning Squad
 description: Tutoring with the Lightning Squad is a web-based, game-like small-group reading intervention for grades 1–5 that provides paired decoding and fluency tutoring, adaptive activities, and progress monitoring.
 product_kind: programme

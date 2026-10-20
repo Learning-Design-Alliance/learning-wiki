@@ -1,6 +1,7 @@
 ---
 type: principle
 id: communities-of-practice
+moved_from: [pattern/plc-mediating-artifacts-vary-by-object]
 aliases: [engage-teachers-literacy-events-learner-to-learner, situated-account-plc-design, invest-in-plcs-for-teacher-metacognition]
 title: Communities of Practice
 description: "For adults and professionals entering a shared practice, sustained and structured participation with more experienced members, under norms of trust and critical inquiry, is proposed to change their practice and understanding over a term or more, though the wiki holds only descriptive, qualitative and argued evidence for it."

@@ -1,6 +1,7 @@
 ---
 type: product
 id: early-science-with-nico-nor
+moved_from: [element/early-science-with-nico-and-nor-program, element/nico-and-nor-digital-games-apps, element/nico-nor-digital-games-and-journals, element/nico-nor-preschool-science-program-component, element/nico-nor-teacher-guide-three-units, theory/nico-nor-codesign-collaborative-team-model]
 title: "Early Science with Nico & Nor"
 description: A co-designed preschool science curriculum developed by teachers, families, curriculum and media developers, and researchers that uses playful, interest-based home and school experiences, digital supports, and family and teacher guides to connect science with engineering and mathematics.
 product_kind: curriculum

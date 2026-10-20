@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Most students preferred opt-out over opt-in consent for low-risk MMLA research, but many did not fully read the explanatory statement
-description: Most students preferred opt-out over opt-in consent for low-risk MMLA research, but many did not fully read the explanatory statement
+title: In one MMLA nursing simulation study, 11 of 14 interviewed students preferred opt-out over opt-in consent, but most did not fully read the explanatory statement
+description: In one MMLA nursing simulation study, 11 of 14 interviewed students preferred opt-out over opt-in consent, but most did not fully read the explanatory statement
 id: opt-out-consent-preferred-mmla
 status: review
 generated:
@@ -27,7 +27,7 @@ sources:
     rigour: "?"
 ---
 
-# Most students preferred opt-out over opt-in consent for low-risk MMLA research, but many did not fully read the explanatory statement
+# In one MMLA nursing simulation study, 11 of 14 interviewed students preferred opt-out over opt-in consent, but most did not fully read the explanatory statement
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r?` · `q2`
@@ -44,7 +44,7 @@ Jin, Y., Echeverria, V., Yan, L., Zhao, L., Alfredo, R., Tsai, Y.-S., Gašević,
 
 `q2 · i?` · `qualitative · r?`
 
-Interview study on ethics (RQ4) with 14 students. Eleven favoured opt-out for ease of participation; three preferred opt-in, valuing "autonomy" and "more control and more informed choice."
+Interview study on ethics (RQ4) with 14 third-year nursing students who took part in one authentic MMLA simulation. Eleven favoured opt-out for ease of participation; three preferred opt-in, valuing "autonomy" and "more control and more informed choice."
 
 > "When discussing the preference between opt-out and opt-in consenting, 11 participants (P1–4, P6, P8–10, and P12–14) favoured the opt-out approach used in the study. In contrast, three participants (P5, P7, and P11) preferred the opt-in method."
 

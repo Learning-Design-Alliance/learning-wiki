@@ -1,6 +1,7 @@
 ---
 type: product
 id: whole-school-safety-wss-framework
+moved_from: [theory/whole-school-safety-framework-cps]
 title: Whole School Safety (WSS) Framework
 description: A Chicago Public Schools framework developed with community-based organizations that organizes school safety planning around physical safety, emotional safety, and relational trust.
 product_kind: framework

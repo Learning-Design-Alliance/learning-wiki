@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Adolescents with cochlear implants spell significantly less accurately than hearing peers, with a bimodal distribution of spelling ability
-description: Adolescents with cochlear implants spell significantly less accurately than hearing peers, with a bimodal distribution of spelling ability
+title: Adolescents with cochlear implants spell significantly less accurately than hearing peers, though 55% spell within one standard deviation of them and 45% two or more below
+description: Adolescents with cochlear implants spell significantly less accurately than hearing peers, though 55% spell within one standard deviation of them and 45% two or more below
 id: ci-adolescents-spelling-poorer-than-hearing-peers
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 2
 ---
 
-# Adolescents with cochlear implants spell significantly less accurately than hearing peers, with a bimodal distribution of spelling ability
+# Adolescents with cochlear implants spell significantly less accurately than hearing peers, though 55% spell within one standard deviation of them and 45% two or more below
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`

@@ -1,6 +1,7 @@
 ---
 type: product
 id: effective-practice-incentive-community-epic-incentive-program
+moved_from: [element/epic-incentive-program-element]
 title: Effective Practice Incentive Community (EPIC) incentive program
 description: A New Leaders for New Schools programme that offers incentives to educators in eligible schools showing significant student achievement gains and supports documenting and disseminating their practices.
 product_kind: programme

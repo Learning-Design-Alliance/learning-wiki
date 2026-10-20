@@ -1,6 +1,7 @@
 ---
 type: product
 id: positive-behavioral-interventions-and-supports-pbis
+moved_from: [strategy/positive-behavioral-interventions-and-supports-pbis, strategy/positive_behavioral_interventions_and_supports_pbis]
 title: Positive Behavioral Interventions and Supports (PBIS)
 description: PBIS is an evidence-based, multitiered framework used by schools to organize data, systems, and behavioral practices through universal, targeted, and individualized supports.
 product_kind: framework

@@ -1,6 +1,7 @@
 ---
 type: product
 id: pathway-to-academic-success-project
+moved_from: [element/pathway-to-academic-success-project-intervention]
 title: Pathway to Academic Success Project
 description: The Pathway to Academic Success Project is a professional-development and coaching programme for grades 6–12 ELA teachers serving English learners, combining teacher training, coaching, and instructional materials.
 product_kind: programme

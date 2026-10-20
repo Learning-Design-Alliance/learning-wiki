@@ -1,6 +1,7 @@
 ---
 type: product
 id: teach-for-america
+moved_from: [element/teach-for-america-program, element/teach-for-america-program-element, element/teach-for-america-teacher-supply-program, theory/tfa-theory-of-change-five-component-model]
 title: Teach For America
 description: Teach For America runs a nationwide alternate-route teacher-preparation and teacher-placement programme that recruits and prepares corps members to teach in low-income K–12 schools.
 product_kind: programme

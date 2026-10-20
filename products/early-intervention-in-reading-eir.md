@@ -1,6 +1,7 @@
 ---
 type: product
 id: early-intervention-in-reading-eir
+moved_from: [design/eir-daily-supplemental-reading-cycle, element/early-intervention-in-reading-program, element/eir-internet-teacher-training-program]
 title: Early Intervention in Reading (EIR)
 description: A supplemental beginning-reading programme developed by Dr.
 product_kind: programme

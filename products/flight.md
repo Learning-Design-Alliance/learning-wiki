@@ -1,6 +1,7 @@
 ---
 type: product
 id: flight
+moved_from: [design/flight-five-component-support-model, element/flight-cost-profile-funding-model, element/flight-tsic-program-element]
 title: FLIGHT
 description: FLIGHT is a Florida school-based mentoring and college-access programme supported by staff workshops, dedicated mentoring and advocacy activities, scholarships, and public-private funding.
 product_kind: programme

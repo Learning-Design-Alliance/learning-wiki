@@ -1,6 +1,7 @@
 ---
 type: product
 id: promise-programs
+moved_from: [element/promise-programs-youth-disabilities-coordinated-services, element/promise-programs-youth-disabilities-coordination]
 title: PROMISE programs
 description: PROMISE programs are federally supported state-level initiatives that coordinate services for youth with disabilities receiving SSI and their families to improve educational and employment outcomes.
 product_kind: programme

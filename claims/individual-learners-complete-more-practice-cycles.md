@@ -65,4 +65,4 @@ Experiment 3 replicated the cycle-count difference (d = 0.45, p < .001). In Expe
 - [Paired flashcard learners show more accurate immediate metacognitive calibration than individual learners, who overestimate by roughly 20%](paired-flashcards-improve-immediate-metacognitive-calibration.md) — related
 - [Paired flashcard learners drop far fewer flashcards from study than individual learners](paired-flashcards-reduce-card-dropping.md) — related
 - [Individual and paired flashcard learning yield comparable final cued-recall test performance](paired-vs-individual-flashcards-similar-test-performance.md) — related
-- [Studying flashcards in pairs raised negative affect in Experiment 1, an effect eliminated by an icebreaker and relaxed feedback rules in Experiment 2](paired-flashcards-negative-affect-icebreaker.md) — related
+- [Studying flashcards in pairs raised negative affect in Experiment 1, but not in Experiment 2, which added an icebreaker and relaxed feedback rules](paired-flashcards-negative-affect-icebreaker.md) — related

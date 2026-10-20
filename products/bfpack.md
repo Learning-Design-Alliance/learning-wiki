@@ -1,6 +1,7 @@
 ---
 type: product
 id: bfpack
+moved_from: [element/bfpack-r-package-bayes-factor-testing]
 title: BFpack
 description: BFpack is an R package developed by Mulder and colleagues that provides Bayesian factor hypothesis-testing functions for common statistical models and exploratory or confirmatory tests with equality and order constraints.
 product_kind: software

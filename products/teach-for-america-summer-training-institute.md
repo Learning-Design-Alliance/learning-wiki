@@ -1,6 +1,7 @@
 ---
 type: product
 id: teach-for-america-summer-training-institute
+moved_from: [design/tfa-summer-training-institute-design]
 title: Teach For America Summer Training Institute
 description: A branded 5- to 7-week teacher-preparation programme run by Teach For America in which corps members teach summer school under supervision while receiving coaching, feedback, and coursework.
 product_kind: programme

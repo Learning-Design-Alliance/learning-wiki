@@ -1,6 +1,7 @@
 ---
 type: product
 id: southwest-english-learner-literacy-swell-partnership
+moved_from: [theory/swell-partnership-logic-model]
 title: Southwest English Learner Literacy (SWELL) Partnership
 description: A partnership-run programme framework and logic model that guides the adaptation, testing, and scale-up of Write to Succeed professional learning to improve English learner literacy outcomes.
 product_kind: framework

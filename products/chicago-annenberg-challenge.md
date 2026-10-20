@@ -1,6 +1,7 @@
 ---
 type: product
 id: chicago-annenberg-challenge
+moved_from: [design/annenberg-school-networks-time-size-isolation, design/chicago-annenberg-external-partner-model, theory/annenberg-network-external-partner-strategy, theory/annenberg-three-structural-problems-theory]
 title: Chicago Annenberg Challenge
 description: A school-improvement initiative that organized schools into networks supported by external partner organizations and was run by the Chicago Annenberg Challenge.
 product_kind: programme
@@ -54,7 +55,7 @@ A school-improvement initiative that organized schools into networks supported b
 - [External partners played the central role in forming and running implementation networks, with most principal interaction directed at partners rather than other schools](../claims/external-partners-central-to-network-function.md) [+W]
 - [Network participation faced challenges of teacher time, resources, and fragmentation, with about 40 percent of principals reporting few useful resources](../claims/network-participation-time-resource-challenges.md) [~W]
 - [First-year (1995) Challenge grantmaking concentrated on networks with higher-education and community-based partners, which received most grants and dollars](../claims/annenberg-1995-grantmaking-higher-education-concentration.md) [+W]
-- [External partners sparked documented improvements in instruction, parent involvement, and school climate](../claims/partners-sparked-positive-changes-despite-limited-influence.md) [+M]
+- [In selected Chicago schools, external partners sparked documented improvements in instruction, parent involvement, or school climate](../claims/partners-sparked-positive-changes-despite-limited-influence.md) [+M]
 
 ## Related Products and Programmes
 -

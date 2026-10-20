@@ -1,6 +1,7 @@
 ---
 type: product
 id: lectura-proactiva
+moved_from: [element/lectura-proactiva-program-element]
 title: Lectura Proactiva
 description: Lectura Proactiva, distributed as Intervenciones tempranas de la lectura, is a bilingual one-to-small-group reading intervention for Spanish-speaking early readers, delivered by certified teachers.
 product_kind: programme

@@ -1,6 +1,7 @@
 ---
 type: product
 id: dc-citywide-lottery-ranked-preference-dataset-from-over-20000-applicants-to-more-than-100
+moved_from: [element/dc-lottery-ranked-preference-dataset]
 title: DC citywide lottery ranked-preference dataset from over 20,000 applicants to more than 100 schools
 description: "A dataset of ranked school-preference lists submitted by more than 20,000 families to Washington, DC's citywide lottery for over 100 traditional and charter public schools, collected for the associated 2013–2015 Walton Family Foundation project."
 product_kind: dataset

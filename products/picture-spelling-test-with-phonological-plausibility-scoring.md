@@ -22,7 +22,7 @@ A researcher-designed picture-based spelling assessment with phonological-plausi
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Adolescents with cochlear implants spell significantly less accurately than hearing peers, with a bimodal distribution of spelling ability](../claims/ci-adolescents-spelling-poorer-than-hearing-peers.md) [+M]
+- [Adolescents with cochlear implants spell significantly less accurately than hearing peers, though 55% spell within one standard deviation of them and 45% two or more below](../claims/ci-adolescents-spelling-poorer-than-hearing-peers.md) [+M]
 - [Adolescents with cochlear implants perform below hearing peers on phonological processing measures including word attack, spelling plausibility, elision, and nonword repetition](../claims/ci-adolescents-phonological-processing-below-peers.md) [+M]
 
 ## Related Products and Programmes

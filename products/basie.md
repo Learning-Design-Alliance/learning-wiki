@@ -1,6 +1,7 @@
 ---
 type: product
 id: basie
+moved_from: [element/basie-probability-tool]
 title: BASIE
 description: A downloadable software tool released by John Deke et al.
 product_kind: software

@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: classical-test-theory
+moved_from: [theory/ctt-assumptions-and-limitations-ilhan-2018]
 title: Classical Test Theory
 description: CTT (True Score Theory) describes an observed score as composed of a true score and random error, estimating true scores from observed scores.
 status: review

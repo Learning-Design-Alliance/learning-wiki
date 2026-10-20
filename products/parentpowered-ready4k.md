@@ -1,6 +1,7 @@
 ---
 type: product
 id: parentpowered-ready4k
+moved_from: [element/parentpowered-ready4k-text-messaging-program]
 title: "ParentPowered READY4K!"
 description: "ParentPowered READY4K!"
 product_kind: programme

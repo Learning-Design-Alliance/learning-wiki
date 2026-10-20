@@ -1,6 +1,7 @@
 ---
 type: product
 id: tsdl
+moved_from: [design/state-teacher-student-data-link]
 title: TSDL
 description: A state education agency’s linked administrative data system connecting teachers to students by course for policy implementation, educator-preparation evaluation, and analysis of student growth.
 product_kind: dataset

@@ -13,7 +13,7 @@ sources:
     resource: "https://doi.org/10.1016/j.tics.2011.11.014"
     title: "Gazzaley A, Nobre AC. (2012). Top-down modulation: Bridging selective attention and working memory. Trends in Cognitive Sciences. https://doi.org/10.1016/j.tics.2011.11.014"
     author: Gazzaley A, Nobre AC
-    q: 3
+    q: 2
     i: "?"
     kind: review
     rigour: 2
@@ -22,10 +22,10 @@ sources:
 # rTMS of right IFJ causally reduces top-down modulation during encoding and working memory accuracy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · review `r2` · `q3`
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
-`q3 i?` Ten minutes of rTMS to right IFJ significantly diminished top-down modulation of the P1 ERP component and significantly reduced color working memory accuracy, with recovery of both over time. [→ Gazzaley A 2012](#gazzaley-a-2012)
+`q2 i?` In a study summarised by the review (Zanto et al., 2011), ten minutes of rTMS to right IFJ significantly diminished top-down modulation of the P1 ERP component and significantly reduced color working memory accuracy, with recovery of both over time. [→ Gazzaley A 2012](#gazzaley-a-2012)
 
 ## Evidence
 
@@ -33,9 +33,9 @@ sources:
 
 Gazzaley A, Nobre AC. (2012). Top-down modulation: Bridging selective attention and working memory. Trends in Cognitive Sciences. https://doi.org/10.1016/j.tics.2011.11.014
 
-`q3 · i?` · `review · r2`
+`q2 · i?` · `review · r2`
 
-Causal perturbation study (Zanto et al.) combining fMRI-guided rTMS of right IFJ with EEG during a feature delayed-response task. The review reports the significant P1 modulation reduction and "a significant reduction in WM accuracy for color", with P1 modulation and WM performance recovering together after rTMS.
+Narrative review that summarises a separate causal perturbation study (Zanto et al., 2011) combining fMRI-guided rTMS of right IFJ with EEG during a feature delayed-response task. The review reports the significant P1 modulation reduction and "a significant reduction in WM accuracy for color", with P1 modulation and WM performance recovering together after rTMS.
 
 > "Ten minutes of rTMS to the right IFJ resulted in significantly diminished top-down modulation of the P1 component of the ERP to color stimuli at posterior electrodes"
 

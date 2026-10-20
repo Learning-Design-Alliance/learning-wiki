@@ -1,6 +1,7 @@
 ---
 type: product
 id: reach-practice-framework-for-differentiated-instruction
+moved_from: [element/reach-differentiation-practice-framework]
 title: REACH practice framework for differentiated instruction
 description: A five-component framework developed by Rock et al.
 product_kind: framework

@@ -1,6 +1,7 @@
 ---
 type: product
 id: story-mine
+moved_from: [element/story-mine-digital-narrative-intervention]
 title: STORY MINE
 description: STORY MINE is a digital recovery-narrative module in the Minddistrict client portal that provides curated hopeful recovery stories as video podcasts with written summaries and audio narration.
 product_kind: software

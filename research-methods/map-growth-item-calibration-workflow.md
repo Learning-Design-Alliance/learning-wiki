@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: map-growth-item-calibration-workflow
+moved_from: [theory/existing-map-growth-item-calibration-workflow]
 title: MAP Growth item calibration workflow
 description: "The existing tool, built in T-SQL within the Growth Research Database, runs an automated pipeline: data cleaning, item parameter estimation via a brute-force grid search over RIT values 100-350 that minimizes mean square fit with person abilities fixed, and a Model of Man (MoM) procedure that predic"
 status: review
@@ -34,7 +35,7 @@ The existing tool, built in T-SQL within the Growth Research Database, runs an a
 - [For items aligned to multiple target grades, difficulty estimates from different on-grade calibration samples differ negligibly, at most 0.1 logit on average](../claims/map-growth-multi-grade-items-negligible-differences.md) [~W]
 - [At least 90% of reading and science items and about 80% of math items show difficulty differences within 0.3 logits between on-grade and all-grade calibration](../claims/map-growth-most-items-within-03-logit-ongrade-calibration.md) [~W]
 - [Calibration sample size differences did not affect the size of on-grade versus all-grade item difficulty estimate differences](../claims/map-growth-sample-size-did-not-affect-difficulty-differences.md) [~W]
-- [Item difficulty estimates from target-plus-adjacent-grade samples differ no more from original estimates than on-grade estimates do, with a largest average difference of 0.05 logit](../claims/map-growth-three-grade-calibration-comparable-to-original.md) [~W]
+- [Item difficulty estimates from target-plus-adjacent-grade samples generally differ from original estimates about as much as on-grade estimates do, with mean differences within 0.11 logit](../claims/map-growth-three-grade-calibration-comparable-to-original.md) [~W]
 
 ## Related Research Methods
 -

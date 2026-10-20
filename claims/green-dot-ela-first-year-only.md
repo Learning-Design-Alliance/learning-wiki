@@ -62,6 +62,6 @@ The reviewed study found, and the WWC confirmed, "no statistically significant o
 
 
 ## Related Claims
-- [Green Dot Public Schools raise school attendance in the fourth year of high school, with no effect on attendance in Year 1 for Cohort 3 (mixed evidence)](green-dot-attendance-year-four-only.md) — related
+- [Green Dot Public Schools raise school attendance in the fourth year of high school, with no detectable effect on attendance in Year 1 for Cohort 3 (mixed evidence)](green-dot-attendance-year-four-only.md) — related
 - [Attending Green Dot Public Schools produces statistically significant positive effects on high school mathematics achievement (potentially positive effects rating, small extent of evidence)](green-dot-positive-math-achievement.md) — related
 - [Green Dot Public Schools increase high school graduation and college-preparatory (A-G) graduation for students entering ninth grade (potentially positive effects rating)](green-dot-positive-student-progression.md) — related

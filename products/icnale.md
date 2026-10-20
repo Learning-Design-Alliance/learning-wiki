@@ -1,6 +1,7 @@
 ---
 type: product
 id: icnale
+moved_from: [element/icnale-controlled-learner-corpus]
 title: ICNALE
 description: ICNALE is a controlled learner corpus of argumentative English essays from Asian EFL learners and native English speakers, created and maintained by the International Corpus Network of Asian Learners of English.
 product_kind: dataset

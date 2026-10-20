@@ -1,6 +1,7 @@
 ---
 type: product
 id: hec-health-equity-framework
+moved_from: [theory/hec-health-equity-framework]
 title: HEC Health Equity Framework
 description: A co-developed health-equity framework with implementation supports that organizes actions to improve care and disrupt intersecting systems of oppression in healthcare.
 product_kind: framework

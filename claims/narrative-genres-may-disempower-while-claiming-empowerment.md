@@ -9,10 +9,10 @@ generated:
   at: 2026-09-26
 evidence_strength: weak
 sources:
-  - id: goodson-1994
+  - id: goodson-1995
     resource: "https://doi.org/10.1080/0951839950080109"
-    title: "Goodson, Ivor F. (1994). 'The Story So Far': Personal Knowledge and the Political. https://eric.ed.gov/?id=ED376160 [doi:10.1080/0951839950080109](https://doi.org/10.1080/0951839950080109)"
-    author: Goodson, Ivor F.
+    title: "Goodson, I. F. (1995). The story so far: Personal knowledge and the political. *International Journal of Qualitative Studies in Education, 8*(1), 89–98. [doi:10.1080/0951839950080109](https://doi.org/10.1080/0951839950080109) (an earlier version, 1994, is ERIC [ED376160](https://eric.ed.gov/?id=ED376160))"
+    author: Goodson, I. F.
     q: 1
     i: "?"
     kind: theoretical
@@ -25,13 +25,13 @@ sources:
 > **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
-`q1 i?` The new narrative genres have strengths but also weaknesses that may prove incapacitating, so sponsoring them in the name of empowerment may effectively disempower the people and causes they seek to work with. [→ Goodson 1994](#goodson-1994)
+`q1 i?` The new narrative genres have strengths but also weaknesses that may prove incapacitating, so sponsoring them in the name of empowerment may effectively disempower the people and causes they seek to work with. [→ Goodson 1995](#goodson-1995)
 
 ## Evidence
 
-### Goodson 1994
+### Goodson 1995
 
-Goodson, Ivor F. (1994). 'The Story So Far': Personal Knowledge and the Political. https://eric.ed.gov/?id=ED376160 [doi:10.1080/0951839950080109](https://doi.org/10.1080/0951839950080109)
+Goodson, I. F. (1995). The story so far: Personal knowledge and the political. *International Journal of Qualitative Studies in Education, 8*(1), 89–98. [doi:10.1080/0951839950080109](https://doi.org/10.1080/0951839950080109) (an earlier version, 1994, is ERIC [ED376160](https://eric.ed.gov/?id=ED376160))
 
 `q1 · i?` · `theoretical · r3`
 

@@ -1,6 +1,7 @@
 ---
 type: product
 id: national-network-of-partnership-schools-nnps
+moved_from: [element/nnps-professional-development-institutes, element/nnps-program-model, theory/nnps-six-types-involvement-framework]
 title: National Network of Partnership Schools (NNPS)
 description: A Johns Hopkins University network that supports schools and districts in developing and sustaining family and community partnership programmes through institutes, workshops, professional-learning series, and facilitation.
 product_kind: programme

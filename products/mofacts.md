@@ -1,6 +1,7 @@
 ---
 type: product
 id: mofacts
+moved_from: [element/mofacts-online-tutoring-system]
 title: MoFaCTS
 description: MoFaCTS is an online drill-trial problem-authoring and deployment platform that administers instructional and assessment activities, scores responses, and delivers corrective feedback.
 product_kind: software

@@ -1,6 +1,7 @@
 ---
 type: product
 id: seven-co-designed-learning-transition-design-principles-for-ler-technologies
+moved_from: [theory/skillsfwd-guiding-principles-ler]
 title: Seven co-designed Learning Transition Design Principles for LER technologies
 description: A co-designed framework from the report authors for guiding and evaluating learning and employment record technologies serving HSE learners and workers.
 product_kind: framework

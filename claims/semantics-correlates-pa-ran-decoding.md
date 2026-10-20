@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
-`q2 i?` Semantics was significantly related to PA and RAN, and all predictor measures were significantly related to word and pseudoword decoding. [→ van Rijthoven R 2018](#van-rijthoven-r-2018)
+`q2 i?` Semantics was significantly related to PA and RAN, and semantics, PA and RAN were each significantly related to word and pseudoword decoding; working memory was related to pseudoword decoding (r = 0.297) but not significantly to word decoding (r = 0.234). [→ van Rijthoven R 2018](#van-rijthoven-r-2018)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ van Rijthoven R, Kleemans T, Segers E, Verhoeven L. (2018). Beyond the phonologi
 
 `q2 · i?` · `associational · r2`
 
-Pearson correlations among standardized measures in the n = 55 dyslexia sample (Table 2); the semantics–word decoding correlation was 0.667 and semantics–pseudoword decoding 0.549, both printed in the correlation table.
+Pearson correlations among standardized measures in the n = 55 dyslexia sample (Table 2); the semantics–word decoding correlation was 0.667 and semantics–pseudoword decoding 0.549, both printed in the correlation table. The text says all predictor measures were related to both decoding measures, but Table 2 marks working memory as significant for pseudoword decoding (r = 0.297) only, not for word decoding (r = 0.234).
 
 > "All predictor measures were significantly related to word decoding and pseudoword decoding. Furthermore, semantics was found to be significantly related to PA and RAN."
 

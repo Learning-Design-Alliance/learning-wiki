@@ -1,6 +1,7 @@
 ---
 type: product
 id: chormmunity
+moved_from: [design/chormmunity-workshop-arc-pattern]
 title: Chormmunity
 description: Chormmunity is a named participatory workshop programme run by its creators, using conversation, imagery, movement, and ritual performance to develop co-created work.
 product_kind: programme

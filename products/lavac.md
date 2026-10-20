@@ -1,6 +1,7 @@
 ---
 type: product
 id: lavac
+moved_from: [element/lavac-language-laboratory-toolkit, element/virtual-recorder-video-sequencer-devices]
 title: LAVAC
 description: LAVAC (Laboratoire Audio-Visuel Actif-Comparatif) is a networked multimedia language-laboratory system developed for language instruction, providing linked student terminals, courseware-authoring tools, multimedia courseware, and teacher tutoring controls.
 product_kind: software

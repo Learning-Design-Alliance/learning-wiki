@@ -1,6 +1,7 @@
 ---
 type: product
 id: parent-teacher-home-visits-pthv
+moved_from: [element/pthv-parent-teacher-home-visits-model, element/pthv-program-element]
 title: Parent Teacher Home Visits (PTHV)
 description: Parent Teacher Home Visits (PTHV) is a family-engagement programme run by the Parent Teacher Home Visits organization in which educators and families build relationships through structured voluntary home visits.
 product_kind: programme

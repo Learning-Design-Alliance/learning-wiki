@@ -23,7 +23,7 @@ Progenitor X is a narrative-based, turn-based puzzle game developed with a regen
 
 ### Claims
 
-- [Playing Progenitor X over three weeks produced a statistically significant 11% pre-post gain in stem-cell science content knowledge among 39 middle and high school students](../claims/progenitor-x-play-significant-prepost-gain.md) [+W]
+- [After playing Progenitor X over three weeks, 39 middle and high school students showed a statistically significant 11% pre-post gain in stem-cell science content knowledge, in a one-group design with no comparison](../claims/progenitor-x-play-significant-prepost-gain.md) [+W]
 - [Number of cell-cycle starts and cell-cycle destroys in Progenitor X were negatively correlated with pre-post learning gains, while total cycle starts across the game were not](../claims/cell-cycle-starts-destroys-negative-correlation.md) [~W]
 
 ## Related Products and Programmes

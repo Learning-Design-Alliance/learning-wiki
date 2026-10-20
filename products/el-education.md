@@ -1,6 +1,7 @@
 ---
 type: product
 id: el-education
+moved_from: [element/el-education-ela-curriculum-and-professional-learning, element/expeditionary-learning-middle-schools]
 title: EL Education
 description: "EL Education's integrated English Language Arts curriculum and professional-learning program, developed and provided by EL Education for schools and teachers."
 product_kind: curriculum

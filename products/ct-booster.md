@@ -1,6 +1,7 @@
 ---
 type: product
 id: ct-booster
+moved_from: [design/ct-booster-session-structure, element/ct-boosters-algorithmic-thinking-3-8-sessions]
 title: CT Booster
 description: CT Boosters is a professional-learning programme described by the Computational Thinking Boosters project that provides short algorithmic-thinking sessions for teachers of grades 3–8.
 product_kind: programme

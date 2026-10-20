@@ -1,6 +1,7 @@
 ---
 type: product
 id: investigations-in-number-data-and-space-math-expressions-saxon-math-and-scott-foresman-add
+moved_from: [element/four-elementary-math-curricula-evaluated-agodini]
 title: Investigations in Number, Data, and Space; Math Expressions; Saxon Math; and Scott Foresman-Addison Wesley Mathematics
 description: Four published elementary mathematics curricula evaluated comparatively by Agodini et al.
 product_kind: curriculum

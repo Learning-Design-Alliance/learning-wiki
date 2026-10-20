@@ -48,5 +48,5 @@ Multivariate logistic regression (N = 1587) with a bullying × friends social su
 ## Related Claims
 - [Bullied adolescents are about half as likely to reach the national academic achievement benchmark for their age group two years later](bullying-lower-achievement-benchmark-odds.md) — related
 - [Adolescents with moderate or high friend support are about half as likely to report being bullied](friend-support-lower-bullying-likelihood.md) — related
-- [Only moderate (not high or low) family support protects bullied adolescents from poor academic achievement](moderate-family-support-buffers-achievement.md) — related
+- [Bullying was not associated with lower academic achievement among adolescents with moderate family support, unlike those with high or low support, in a weakly supported interaction](moderate-family-support-buffers-achievement.md) — related
 - [Students perceive peer interaction—companionship, support as a social buffer, and cooperation toward shared goals—as a key element of fun in learning](peer-interaction-fun-element.md) — related

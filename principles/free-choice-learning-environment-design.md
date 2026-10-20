@@ -1,6 +1,7 @@
 ---
 type: principle
 id: free-choice-learning-environment-design
+moved_from: [pattern/alternative-in-school-steam-learning-infrastructure]
 title: Free-Choice Learning Environment Design
 description: "In settings where learners choose whether, what and how long to engage, several entry points, a start from their own interests, no grades or expected rewards for taking part, and an activity that responds to each attempt are expected to lengthen voluntary engagement and, with feedback on the target idea, to improve understanding; no claim tests a free-choice environment as a whole, and one randomised exhibit study tests the feedback part."
 canonical: true

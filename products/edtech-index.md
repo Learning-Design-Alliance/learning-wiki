@@ -1,6 +1,7 @@
 ---
 type: product
 id: edtech-index
+moved_from: [element/edtech-index-third-party-validations]
 title: EdTech Index
 description: "Digital Promise's EdTech Index is a searchable directory of educational technology tools that hosts third-party validations concerning safety, effectiveness, usability, inclusivity, and interoperability."
 product_kind: software

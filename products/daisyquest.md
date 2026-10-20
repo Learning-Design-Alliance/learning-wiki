@@ -1,6 +1,7 @@
 ---
 type: product
 id: daisyquest
+moved_from: [element/daisyquest-software-bundle, element/undersea-challenge-adaptive-test]
 title: DaisyQuest
 description: DaisyQuest is a computer-assisted early-literacy software package developed to provide phonological-awareness instruction to young children through story-based activities, feedback, speech, and progress reports.
 product_kind: software

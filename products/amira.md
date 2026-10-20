@@ -1,6 +1,7 @@
 ---
 type: product
 id: amira
+moved_from: [design/microintervention-scaffolds-word-phrase-story-levels, element/amira-ai-reading-tutor, element/amira-ai-reading-tutor-element]
 title: Amira
 description: "Amira Learning's Amira is an AI-powered personal reading tutor that assesses oral reading fluency, provides individualized reading practice and intervention, and reports diagnostic information to educators and families."
 product_kind: software

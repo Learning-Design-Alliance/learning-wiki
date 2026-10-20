@@ -1,6 +1,7 @@
 ---
 type: product
 id: imagine-language-literacy
+moved_from: [element/imagine-language-and-literacy-program]
 title: "Imagine Language & Literacy"
 description: "Imagine Language & Literacy is Imagine Learning’s web-based adaptive supplemental literacy program for students from pre-kindergarten through sixth grade."
 product_kind: software

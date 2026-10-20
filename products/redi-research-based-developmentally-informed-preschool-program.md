@@ -1,6 +1,7 @@
 ---
 type: product
 id: redi-research-based-developmentally-informed-preschool-program
+moved_from: [design/redi-sel-plus-early-literacy-activity-mix, element/redi-preschool-program-executive-function-school-readiness]
 title: REDI (Research-Based, Developmentally Informed) preschool program
 description: A preschool intervention developed by researchers that combines the Preschool PATHS social-emotional learning curriculum with interactive literacy activities, phonological-awareness training, and teacher training and mentoring for disadvantaged children.
 product_kind: programme

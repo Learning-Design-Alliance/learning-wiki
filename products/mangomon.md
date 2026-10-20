@@ -1,6 +1,7 @@
 ---
 type: product
 id: mangomon
+moved_from: [element/mangomon-rpg-language-app]
 title: Mangomon
 description: "Mangomon is a CEFR-based role-playing gamification mobile application developed by a Thai software company with Thammasat University's Language Institute for out-of-class business English vocabulary learning."
 product_kind: software

@@ -1,6 +1,7 @@
 ---
 type: product
 id: force-and-motion-microworld-fmm
+moved_from: [element/force-and-motion-microworld-fmm]
 title: Force and Motion Microworld (FMM)
 description: A suite of three computer simulation programs developed by Tao et al.
 product_kind: software

@@ -1,6 +1,7 @@
 ---
 type: product
 id: regional-educational-laboratory-rel-program
+moved_from: [theory/research-alliance-engagement-model]
 title: Regional Educational Laboratory (REL) Program
 description: "The Institute of Education Sciences' REL Program connects practitioners, researchers, and policymakers through regional research, technical assistance, and engagement activities."
 product_kind: framework

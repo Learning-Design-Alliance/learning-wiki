@@ -1,6 +1,7 @@
 ---
 type: product
 id: talent-transfer-initiative
+moved_from: [element/talent-transfer-initiative-element, element/talent-transfer-initiative-program]
 title: Talent Transfer Initiative
 description: A U.S.
 product_kind: programme

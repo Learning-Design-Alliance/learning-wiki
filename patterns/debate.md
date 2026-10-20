@@ -1,6 +1,7 @@
 ---
 type: pattern
 id: debate
+moved_from: [principle/debate]
 aliases: [debate-format, debate-laboratory-for-argumentation]
 title: Debate
 description: "A reusable policy for structured argument on a contested question, in which preparing, defending and answering opposing cases is expected to improve individual argument, conditional on an arguable resolution, evidence and questioning in the rules, moderated turns, a debrief, and an individual outcome at a stated horizon."

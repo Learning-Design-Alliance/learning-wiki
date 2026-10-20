@@ -1,6 +1,7 @@
 ---
 type: product
 id: write-to-succeed
+moved_from: [element/write-to-succeed-professional-learning-program, element/write-to-succeed-program-element]
 title: Write to Succeed
 description: A professional learning programme developed and iteratively tested by the Southwest English Learner Literacy (SWELL) Partnership to improve literacy instruction, support English learners, and incorporate culturally and linguistically relevant instruction.
 product_kind: programme

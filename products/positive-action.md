@@ -1,6 +1,7 @@
 ---
 type: product
 id: positive-action
+moved_from: [design/scripted-role-play-cooperative-learning-lessons, element/positive-action-curriculum-program, element/positive-action-program-element]
 title: Positive Action
 description: A K–12 curriculum developed and delivered by Positive Action, Inc.
 product_kind: curriculum

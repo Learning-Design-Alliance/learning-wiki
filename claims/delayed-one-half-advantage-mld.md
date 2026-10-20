@@ -67,5 +67,5 @@ Post hoc comparisons of the significant three-way interaction (Wilks’ Lambda F
 
 ## Related Claims
 - [Visual fraction models yield more accurate magnitude comparisons than Arabic numeral fractions for all ability groups, but the visual model advantage persists through Grade 8 only for children with MLD](visual-model-advantage-persists-mld.md) — related
-- [Children with MLD are less accurate than LA and TA peers on symbolic fraction magnitude comparisons from Grades 4 to 8, with no group differences in growth rates](mld-lower-fraction-comparison-accuracy-no-growth-differences.md) — related
+- [Children with MLD are less accurate than TA peers on symbolic fraction magnitude comparisons from Grades 4 to 8 and than LA peers from Grade 5, with no group differences in growth rates on the total score](mld-lower-fraction-comparison-accuracy-no-growth-differences.md) — related
 - [Group differences in fraction comparison accuracy persist when full scale IQ is included as a covariate](fraction-group-differences-persist-fsiq-covariate.md) — related

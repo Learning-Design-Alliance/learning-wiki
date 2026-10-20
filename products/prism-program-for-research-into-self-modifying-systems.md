@@ -1,6 +1,7 @@
 ---
 type: product
 id: prism-program-for-research-into-self-modifying-systems
+moved_from: [element/prism-production-system-interpreter]
 title: PRISM (Program for Research Into Self-Modifying Systems)
 description: A production-system interpreter developed by Pat Langley and Neches that augments LISP and lets users select among alternative architectural mechanisms and control options.
 product_kind: software

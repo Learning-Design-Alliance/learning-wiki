@@ -1,6 +1,7 @@
 ---
 type: product
 id: holding-onto-the-green-zone
+moved_from: [element/holding-onto-green-zone-curriculum]
 title: Holding onto the GREEN Zone
 description: A Reilly et al.
 product_kind: curriculum

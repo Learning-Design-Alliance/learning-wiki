@@ -47,7 +47,7 @@ Separate analyses by task following the group-by-task ANCOVA showed no significa
 
 ## Related Claims
 - A factor analysis separates the multiplication selection task from the other selection tasks on a second component — related
-- [PoorAF and control children do not differ in perceptual processing speed](pooraf-no-perceptual-speed-deficit.md) — related
+- [Fourth graders with poor arithmetic-fact abilities (PoorAF) and matched controls did not differ on a perceptual shape-matching speed task](pooraf-no-perceptual-speed-deficit.md) — related
 - [PoorAF and control children do not differ in error rates on the multiplication task, indicating the problems were not too difficult](pooraf-error-rates-comparable-multiplication.md) — related
 - [Children with poor arithmetic fact abilities are significantly slower than matched controls only on the multiplication selection task](pooraf-slower-only-multiplication-task.md) — related
 - [PoorAF children show a significant problem-size effect in multiplication RTs, with a marginally significant stronger problem-size influence than controls](pooraf-problem-size-effect-multiplication.md) — related

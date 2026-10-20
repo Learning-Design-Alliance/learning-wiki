@@ -1,6 +1,7 @@
 ---
 type: product
 id: map-reading-fluency-dyslexia-screener
+moved_from: [element/map-rf-dyslexia-screener]
 title: MAP Reading Fluency Dyslexia Screener
 description: The MAP Reading Fluency Dyslexia Screener is an NWEA assessment that combines reading-skill scores with Rapid Automatized Naming to identify students at risk of dyslexia.
 product_kind: assessment

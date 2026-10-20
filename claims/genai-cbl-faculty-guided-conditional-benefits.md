@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Case-based learning benefits depended on faculty-guided embedding, while complex cases and team workflows showed null or unfavorable effects
-description: Case-based learning benefits depended on faculty-guided embedding, while complex cases and team workflows showed null or unfavorable effects
+title: Case-based learning benefits were reported particularly when GenAI was embedded in faculty-guided teaching, while complex cases and team workflows showed null or unfavorable effects
+description: Case-based learning benefits were reported particularly when GenAI was embedded in faculty-guided teaching, while complex cases and team workflows showed null or unfavorable effects
 id: genai-cbl-faculty-guided-conditional-benefits
 status: review
 generated:
@@ -27,7 +27,7 @@ sources:
     rigour: 3
 ---
 
-# Case-based learning benefits depended on faculty-guided embedding, while complex cases and team workflows showed null or unfavorable effects
+# Case-based learning benefits were reported particularly when GenAI was embedded in faculty-guided teaching, while complex cases and team workflows showed null or unfavorable effects
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`
@@ -44,7 +44,7 @@ Zhao J, Yang K, Gao H and Jiang G (2026). Generative artificial intelligence and
 
 `q2 · i?` · `review · r2`
 
-The review reports, citing four comparative studies, benefits in this 21-report category; a tutor-managed ChatGPT design was associated with higher self-reported critical thinking and changed tutor–peer roles.
+The review reports, citing four comparative studies, benefits in this 21-report category; a tutor-managed ChatGPT design was associated with higher self-reported critical thinking and changed tutor–peer roles. The review describes such cross-study patterns as "hypothesis-generating rather than a tested moderator analysis", so faculty guidance is a pattern in where benefits were reported, not a tested condition for them.
 
 > "Comparative studies reported benefits in some biochemistry, surgery, radiology, and ophthalmology contexts, particularly when GenAI was embedded within faculty-guided CBL or PBL rather than used as an unrestricted answer source (Gu et al., 2026; Hui et al., 2025; Li et al., 2025; Yao et al., 2026)."
 

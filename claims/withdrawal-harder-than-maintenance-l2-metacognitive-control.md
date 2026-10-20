@@ -43,6 +43,6 @@ Additional t tests compared metacognitive control of correct versus incorrect re
 
 
 ## Related Claims
-- [English vocabulary correlates with metacognitive monitoring and control at both time points, but only with the negative emotions boredom and anxiety at T1](l2-vocabulary-correlates-metacognition-negative-emotions.md) — related
+- [English vocabulary correlates with confidence and metacognitive control at both time points but with monitoring accuracy only at T0, and with only the negative emotions boredom and anxiety at T1](l2-vocabulary-correlates-metacognition-negative-emotions.md) — related
 - [Children aged 5 to 8 show metacognitive sensitivity in a nonverbal wagering task, betting more on correct than incorrect discriminations](young-children-metacognitive-wagering-task.md) — related
 - [Children's metacognitive judgments are not explained by baseline risk preferences or response-time cues](metacognition-not-risk-preference-or-response-time.md) — related

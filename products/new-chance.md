@@ -1,6 +1,7 @@
 ---
 type: product
 id: new-chance
+moved_from: [element/new-chance-program-young-welfare-mothers]
 title: New Chance
 description: New Chance is a two-phase education-and-employment programme developed and implemented by MDRC and partner sites for young welfare mothers who had dropped out of school.
 product_kind: programme

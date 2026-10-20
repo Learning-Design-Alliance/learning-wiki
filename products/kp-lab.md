@@ -1,6 +1,7 @@
 ---
 type: product
 id: kp-lab
+moved_from: [element/kp-lab-mediation-tools]
 title: KP-Lab
 description: The KP-Lab toolset, developed by the European KP-Lab project, is a suite of digital tools for creating knowledge artefacts, coordinating collaborative knowledge-creation processes, supporting networked communities, and enabling reflection.
 product_kind: software

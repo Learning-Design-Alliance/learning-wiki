@@ -38,7 +38,7 @@ The study manipulated delivery of a mathematics performance task across three pl
 
 ## Claims
 
-- [Performance task platform modality (technology-enhanced, technology-enabled, or paper-and-pencil) showed no relationship with grade 6-8 students' self-reported cognitive engagement in mathematics](../claims/platform-modality-no-relationship-cognitive-engagement.md) [~W]
+- [Performance task platform modality (technology-enhanced, technology-enabled, or paper-and-pencil) showed no detected relationship with grade 6-8 students' self-reported cognitive engagement in mathematics](../claims/platform-modality-no-relationship-cognitive-engagement.md) [~W]
 - [Students appreciated specific features of paper-and-pencil tasks, namely the ability to navigate between items and to take notes](../claims/students-appreciate-paper-task-navigation-and-notes.md) [+W]
 - [Students preferred taking tests with technology and showed favorability toward the technology-enhanced performance task, citing interactivity and animations that help visualize and work through problems](../claims/students-prefer-technology-enhanced-task-interactivity-animation.md) [+W]
 

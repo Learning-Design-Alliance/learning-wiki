@@ -1,6 +1,7 @@
 ---
 type: product
 id: sound-partners
+moved_from: [design/sound-partners-tutoring-session-pattern, element/sound-partners-paraprofessional-tutoring-element, element/sound-partners-program-element, element/sound-partners-tutoring-program]
 title: Sound Partners
 description: Sound Partners is a structured one-to-one early-literacy tutoring programme developed by the University of Oregon and delivered by trained paraprofessional tutors.
 product_kind: programme

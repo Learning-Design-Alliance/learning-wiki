@@ -1,6 +1,7 @@
 ---
 type: product
 id: arizona-linked-educationchild-welfare-student-database
+moved_from: [element/arizona-linked-education-child-welfare-database]
 title: Arizona linked education–child welfare student database
 description: A study-created database linking longitudinal K–12 education records from the Arizona Department of Education with child records from the Arizona Department of Child Safety to identify and describe students in foster care.
 product_kind: dataset

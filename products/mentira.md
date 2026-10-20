@@ -1,6 +1,7 @@
 ---
 type: product
 id: mentira
+moved_from: [element/mentira-mobile-game-pragmatic-feedback]
 title: Mentira
 description: Mentira is a place-based mobile game developed by Holden and Sykes that teaches Spanish sociopragmatic language use through collaborative crime-mystery interactions and contextual corrective feedback.
 product_kind: software

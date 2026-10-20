@@ -1,6 +1,7 @@
 ---
 type: product
 id: cities-of-learning
+moved_from: [element/cities-of-learning-platform]
 title: Cities of Learning
 description: A digital platform led by Nichole Pinkard with NSF support that aggregates, maps, and describes youth learning resources across cities and connects learners with opportunities, badges, routes, and community members.
 product_kind: software

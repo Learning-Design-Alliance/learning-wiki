@@ -33,7 +33,7 @@ sources:
 > **Evidence** · 1 study (2 entries) · review `r3` · `q3` · `i2` medium
 
 ## Subclaims
-`q3 i2` In a randomized-controlled trial, digital coaching significantly increased conscientiousness for participants who desired to improve it, on both self-reports (d = 0.58) and observer-reports (d = 0.22). [→ Melanie Turner 2025](#melanie-turner-2025)
+`q3 i2` In a randomized-controlled trial included in the review (Stieger et al. 2021), digital coaching significantly increased conscientiousness for participants who desired to improve it, on both self-reports (d = 0.58) and observer-reports (d = 0.22). [→ Melanie Turner 2025](#melanie-turner-2025)
 `q3 i?` Coaching-produced increases in conscientiousness remained stable one year after the intervention ended. [→ Melanie Turner 2025 (2)](#melanie-turner-2025-2)
 
 ## Evidence
@@ -44,7 +44,7 @@ Melanie Turner, Flaviu A. Hodis. (2025). Strengthening Conscientiousness by Mean
 
 `q3 · i2` · `review · r3`
 
-RCT with wait-list control of 1,523 Swiss German-speaking adults, 10-week online digital coaching guided by the General (Common) Change Factors framework. The review reports self-report d = 0.58 and observer-report d = 0.22.
+A systematic review of conscientiousness interventions. This entry rests on one study it summarises, Stieger et al. (2021): an RCT with wait-list control of 1,523 Swiss German-speaking adults, 10-week online digital coaching guided by the General (Common) Change Factors framework. The review reports that study's self-report d = 0.58 and observer-report d = 0.22; the figures are Stieger et al.'s, not a pooled estimate of the review.
 
 > "Coaching significantly increased the conscientiousness of participants who desired to improve their conscientiousness. This effect was found for both self-reports (d = 0.58) and observer-reports of consci- entiousness (d = 0.22)"
 

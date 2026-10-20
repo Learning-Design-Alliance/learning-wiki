@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: three-measures-of-test-adaptation-based-on-optimal-test-information
+moved_from: [theory/three-test-adaptation-measures-optimal-test-information]
 title: Three measures of test adaptation based on optimal test information
 description: The article introduces a framework of three new measures of test adaptation, each grounded in the amount of information that a test provides to individual examinees.
 status: review

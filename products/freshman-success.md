@@ -1,6 +1,7 @@
 ---
 type: product
 id: freshman-success
+moved_from: [design/freshman-success-real-time-reports]
 title: Freshman Success
 description: Freshman Success is a school-based ninth-grade monitoring and support programme that uses real-time reports to help staff keep students on track during the freshman year.
 product_kind: programme

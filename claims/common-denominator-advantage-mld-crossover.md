@@ -67,5 +67,5 @@ Post hoc comparisons of the significant four-way interaction (Wilks’ Lambda F(
 
 ## Related Claims
 - [Participants required more time and committed more errors when comparing fractions with common numerators than with common denominators](common-numerator-fractions-harder-than-common-denominator.md) — related
-- [Children with MLD are less accurate than LA and TA peers on symbolic fraction magnitude comparisons from Grades 4 to 8, with no group differences in growth rates](mld-lower-fraction-comparison-accuracy-no-growth-differences.md) — related
+- [Children with MLD are less accurate than TA peers on symbolic fraction magnitude comparisons from Grades 4 to 8 and than LA peers from Grade 5, with no group differences in growth rates on the total score](mld-lower-fraction-comparison-accuracy-no-growth-differences.md) — related
 - [Group differences in fraction comparison accuracy persist when full scale IQ is included as a covariate](fraction-group-differences-persist-fsiq-covariate.md) — related

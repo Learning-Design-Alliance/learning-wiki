@@ -1,6 +1,7 @@
 ---
 type: product
 id: missouri-teacher-career-ladder-program
+moved_from: [element/missouri-career-ladder-teacher-bonus-program, element/missouri-teacher-career-ladder-program]
 title: Missouri Teacher Career Ladder Program
 description: A Missouri state teacher-compensation programme that provides bonuses for specified additional professional work and responsibilities.
 product_kind: programme

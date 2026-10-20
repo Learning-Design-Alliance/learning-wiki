@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: multi-armed-randomized-trial-analysis
+moved_from: [theory/design-based-estimators-multi-armed-rcts]
 title: Multi-armed randomized trial analysis
 description: "The report's guidance is that analysts running studies with several intervention arms should not simply reuse two-group methods: estimators \"need to be modified for the multi-armed design,\" hypothesis tests across pairwise contrasts require multiple comparison adjustments, and CACE estimation demand"
 status: review

@@ -1,6 +1,7 @@
 ---
 type: product
 id: reading-horizons-discovery
+moved_from: [element/reading-horizons-discovery-curriculum]
 title: Reading Horizons Discovery
 description: "Reading Horizons Discovery is Reading Horizons' digital K–3 foundational reading curriculum based on systematic, cumulative, explicit phonics instruction informed by Orton–Gillingham and Structured Literacy."
 product_kind: curriculum

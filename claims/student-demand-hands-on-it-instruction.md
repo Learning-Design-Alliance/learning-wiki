@@ -43,5 +43,5 @@ Descriptive survey results on student evaluation of the current IT curriculum (F
 
 
 ## Related Claims
-- [Survey respondents strongly prefer power-specific hands-on AI materials over generic image-based examples](demand-for-power-specific-hands-on-ai-examples.md) — related
+- [Most surveyed power-and-energy respondents would use a power-specific hands-on AI tutorial, and few rate generic image-based AI examples as very relevant](demand-for-power-specific-hands-on-ai-examples.md) — related
 - [Computational thinking professional development was the most-cited support for integrating computational thinking into lessons, cited by 54 percent of teachers](ct-pd-top-integration-support-54-percent.md) — related

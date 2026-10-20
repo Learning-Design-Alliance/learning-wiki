@@ -1,6 +1,7 @@
 ---
 type: product
 id: companion-mathematica-publications
+moved_from: [element/me-plan-companion-publications-suite]
 title: Companion Mathematica publications
 description: A Mathematica toolkit comprising a prior-research table, target-setting guide, sample-size guide, reporting template, and related planning materials for organizations developing monitoring and evaluation plans.
 product_kind: framework

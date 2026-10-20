@@ -1,6 +1,7 @@
 ---
 type: product
 id: prior-research-table
+moved_from: [element/prior-research-table-tool]
 title: Prior Research Table
 description: A Mathematica-developed documentation framework that helps education organizations record prior research on a solution and its priority community before planning future evaluations.
 product_kind: framework

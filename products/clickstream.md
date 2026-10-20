@@ -1,6 +1,7 @@
 ---
 type: product
 id: clickstream
+moved_from: [element/clickstream-digital-learning-platform]
 title: CLICKSTREAM
 description: CLICKSTREAM is a cloud-hosted learning-data infrastructure service developed for educators and researchers to collect, enrich, and analyze timestamped interaction data across digital learning platforms.
 product_kind: software

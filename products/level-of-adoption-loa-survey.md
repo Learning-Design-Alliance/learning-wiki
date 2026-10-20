@@ -1,6 +1,7 @@
 ---
 type: product
 id: level-of-adoption-loa-survey
+moved_from: [pattern/evolving-technology-catalogue-for-adoption-survey, theory/loa-survey-instrument-cbam-adaptation]
 title: Level of Adoption (LoA) survey
 description: An online collaborative self-report survey developed by Orr et al.
 product_kind: assessment

@@ -1,6 +1,7 @@
 ---
 type: product
 id: pathway-to-planetary-health-pph
+moved_from: [principle/institutional-supports-beyond-individual-motivation, theory/pathway-to-planetary-health-framework]
 title: Pathway to Planetary Health (PPH)
 description: A six-dimension practice framework developed by MacKenzie-Shalders et al.
 product_kind: framework

@@ -1,6 +1,7 @@
 ---
 type: product
 id: cpmp-tools
+moved_from: [element/cpmp-tools-and-graphing-calculators]
 title: CPMP-Tools
 description: CPMP-Tools is mathematical software developed for the Core-Plus Mathematics Project to support graphing, problem solving, modeling, and inquiry-oriented mathematics instruction.
 product_kind: software

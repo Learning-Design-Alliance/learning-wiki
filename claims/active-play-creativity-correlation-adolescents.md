@@ -22,7 +22,7 @@ sources:
     title: "Piya-amornphan N, Santiworakul A, Cetthakrikul S, Srirug P. (2020). Physical activity and creativity of children and youths. BMC Pediatrics. https://doi.org/10.1186/s12887-020-2017-2"
     author: Piya-amornphan N, Santiworakul A, Cetthakrikul S, Srirug P.
     q: 2
-    i: "?"
+    i: 0
     kind: associational
     rigour: 2
 ---
@@ -34,7 +34,7 @@ sources:
 
 ## Subclaims
 `q2 i0` Among adolescents aged 14–17, TCT-DP creativity scores were positively correlated with active play (r = 0.148, p = 0.001). [→ Piya-amornphan N 2020](#piya-amornphan-n-2020)
-`q2 i?` In children aged 6–9 and 10–13, the TCT-DP score was not associated with any of the three physical activity indicators. [→ Piya-amornphan N 2020 (2)](#piya-amornphan-n-2020-2)
+`q2 i0` In children aged 6–9 and 10–13, the TCT-DP score was not associated with any of the three physical activity indicators. [→ Piya-amornphan N 2020 (2)](#piya-amornphan-n-2020-2)
 
 ## Evidence
 
@@ -52,9 +52,9 @@ Cross-sectional Spearman correlation analysis in 439 adolescents aged 14–17 fr
 
 Piya-amornphan N, Santiworakul A, Cetthakrikul S, Srirug P. (2020). Physical activity and creativity of children and youths. BMC Pediatrics. https://doi.org/10.1186/s12887-020-2017-2
 
-`q2 · i?` · `associational · r2`
+`q2 · i0` · `associational · r2`
 
-Spearman correlation analysis in the two younger age groups (n = 521 aged 6–9; n = 487 aged 10–13) found the TCT-DP score "was not associated with all three indicators of physical activity"; no effect sizes were printed for these null results.
+Spearman correlation analysis in the two younger age groups (n = 521 aged 6–9; n = 487 aged 10–13) found the TCT-DP score "was not associated with all three indicators of physical activity". Table 2 prints the coefficients, all negligible and non-significant: aged 6–9, active play r = 0.010, family and peers r = 0.056, sedentary behaviour r = −0.034; aged 10–13, r = 0.014, 0.020 and 0.056 respectively.
 
 > "In children aged 6 – 9 years and 10 – 13 years, the TCT- DP score was not associated with all three indicators of physical activity (Table 2)."
 

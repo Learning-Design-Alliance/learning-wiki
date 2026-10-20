@@ -1,6 +1,7 @@
 ---
 type: product
 id: 6to16-college-readiness-and-social-capital-curriculum
+moved_from: [element/6to16-curriculum-element]
 title: 6to16 college-readiness and social capital curriculum
 description: A sixth- through eighth-grade college-readiness and social-capital curriculum originally developed by the University of Chicago Charter School and used as a cornerstone of the Success Project.
 product_kind: curriculum

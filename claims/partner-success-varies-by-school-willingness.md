@@ -46,4 +46,4 @@ Finding from the comparative case study of 18 schools across nine networks, wher
 - [Deeper co-leadership emerges when staff support lets partners progressively take on responsibility, but recedes when staff carry the process](calibrated-support-co-leadership.md) — related
 - [Improving schools secured external resources aligned with a development agenda and employed them strategically, and cultivated strong distributive leadership with a make-or-break principal role](aligned-resources-and-distributive-leadership-distinguish-improving-schools.md) — related
 - [High-stakes testing pushed some Chicago schools toward test preparation and away from partners' long-term instructional improvement efforts](high-stakes-testing-crowded-out-partner-efforts.md) — related
-- [External partners sparked documented improvements in instruction, parent involvement, and school climate](partners-sparked-positive-changes-despite-limited-influence.md) — related
+- [In selected Chicago schools, external partners sparked documented improvements in instruction, parent involvement, or school climate](partners-sparked-positive-changes-despite-limited-influence.md) — related

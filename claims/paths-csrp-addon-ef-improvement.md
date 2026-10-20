@@ -44,7 +44,7 @@ Diamond Adele, Lee Kathleen. (2011). Interventions shown to Aid Executive Functi
 
 `q2 · i?` · `review · r2`
 
-The review reports PATHS trains teachers to build children's self-control, emotion recognition, and interpersonal problem-solving, with skills generalized to other contexts during the school day.
+The review reports PATHS trains teachers to build children's self-control, emotion recognition, and interpersonal problem-solving, and teaches teachers techniques intended to generalize skills learned in PATHS lessons to other contexts during the school day.
 
 > "After a year of PATHS, 7–9 year-olds showed better inhibitory control and cognitive flexibility than control children (43). Children who showed greater inhibitory control at post-test showed fewer internalizing or externalizing behavior problems one year later."
 

@@ -1,6 +1,7 @@
 ---
 type: product
 id: booknook
+moved_from: [element/booknook-virtual-tutoring-platform]
 title: BookNook
 description: BookNook is a provider-run virtual, synchronous high-dosage reading tutoring programme for K–8 students, using a science-of-reading curriculum focused on phonological awareness, phonics, fluency, vocabulary, and comprehension.
 product_kind: programme

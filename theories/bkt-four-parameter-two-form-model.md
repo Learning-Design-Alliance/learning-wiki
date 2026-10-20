@@ -37,7 +37,7 @@ Bayesian Knowledge Tracing models student learning of a skill with four paramete
 
 ### Claims
 
-- [The exponential functional form of the BKT HMM calls into question the popular practice of fitting that model form to student data](../claims/bkt-hmm-exponential-form-questions-fitting-practice.md) [-W]
+- [The exponential functional form of the BKT Markov chain calls into question the popular practice of fitting that model form to student data](../claims/bkt-hmm-exponential-form-questions-fitting-practice.md) [-W]
 - [The HMM form of BKT, solved analytically, is a three-parameter exponential in opportunity number](../claims/bkt-hmm-form-is-three-parameter-exponential.md) [+W]
 - [The identifiability problem of the BKT HMM arises because combinations of P(G) and P(L0) with the same product A give identical functional forms](../claims/bkt-identifiability-explained-by-parameter-a.md) [+W]
 - [Fixed point analysis of the Knowledge Tracing Algorithm yields parameter constraints P(G)+P(S)<1 and 0<P(T)<(1−P(S))/(1−P(G)) for sensible behavior](../claims/kt-algorithm-fixed-point-parameter-constraints.md) [+W]

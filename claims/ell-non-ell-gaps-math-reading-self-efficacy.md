@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · associational `r3` · `q2`
 
 ## Subclaims
-`q2 i?` Mean differences across constructs at a given timepoint all favor non-ELLs and are significant at the .01 level; the 2015 self-efficacy gap exceeds .35 standard deviations, though no standardized effect size statistic is printed for the t-tests. [→ Soland 2019](#soland-2019)
+`q2 i?` Mean differences across constructs at a given timepoint all favor non-ELLs and are significant at the .01 level; the 2015 self-efficacy gap exceeds .35 standard deviations, which the article describes as a large gap; no standardized magnitude is printed for the math and reading t-tests. [→ Soland 2019](#soland-2019)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Soland, J. (2019). English Language Learners, Self-efficacy, and the Achievement
 
 `q2 · i?` · `associational · r3`
 
-Descriptive comparison of ELL versus non-ELL mean scores by year (Question 1, Figure 2). The article reports t-tests significant at the .01 level and, as an effect size, that "in 2015, scores for ELLs versus non-ELLs differed by more than .35 standard deviations" in self-efficacy; no d, g, or r value is printed, so impact is null.
+Descriptive comparison of ELL versus non-ELL mean scores by year (Question 1, Figure 2). The article reports t-tests significant at the .01 level and, as an effect size, that "in 2015, scores for ELLs versus non-ELLs differed by more than .35 standard deviations" in self-efficacy; the article calls this a large gap. It is coded `i?` not because the gap is negligible but because only a lower bound is printed for self-efficacy (more than .35 SD, in 2015) and no standardized magnitude is printed here for the math and reading gaps or for other years.
 
 > "In general, there are gaps in math, reading, and self-efficacy favoring non-ELLs. T-tests suggest that all mean differences across constructs at a given timepoint are significant at the .01 level. To help understand the magnitude of the gaps in self-efficacy, scores were also standardized for this sample by year. As an effect size, the gaps in self-efficacy are quite large: in 2015, scores for ELLs versus non-ELLs differed by more than .35 standard deviations."
 

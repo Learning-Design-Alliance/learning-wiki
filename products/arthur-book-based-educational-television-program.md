@@ -1,6 +1,7 @@
 ---
 type: product
 id: arthur-book-based-educational-television-program
+moved_from: [element/arthur-educational-television-program]
 title: Arthur book-based educational television program
 description: Arthur is a PBS Kids educational television programme based on Marc Brown’s storybooks, produced and distributed for young children through PBS stations and online materials.
 product_kind: programme

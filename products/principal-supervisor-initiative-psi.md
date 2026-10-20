@@ -1,6 +1,7 @@
 ---
 type: product
 id: principal-supervisor-initiative-psi
+moved_from: [element/principal-supervisor-initiative-psi]
 title: Principal Supervisor Initiative (PSI)
 description: A Wallace Foundation–launched initiative that supported six urban school districts in redefining principal supervision around developing principals as instructional leaders.
 product_kind: programme

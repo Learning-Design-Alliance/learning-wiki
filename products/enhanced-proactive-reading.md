@@ -1,6 +1,7 @@
 ---
 type: product
 id: enhanced-proactive-reading
+moved_from: [element/enhanced-proactive-reading-curriculum]
 title: Enhanced Proactive Reading
 description: A 120-lesson small-group early literacy, language arts, and English language development curriculum for first-grade English language learners experiencing reading difficulties, developed for delivery in daily sessions by teachers.
 product_kind: curriculum

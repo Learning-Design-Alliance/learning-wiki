@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: funds-of-knowledge
+moved_from: [design/funds-of-knowledge-project-minimal-conditions]
 title: Funds of Knowledge
 description: "The digest's recommendation set for teachers who plan similar projects: \"the following minimal conditions are suggested\" — theoretical teacher preparation, believing households contain abundant social and intellectual resources; home visits as participant-observers entering as learners; teacher labs"
 status: review

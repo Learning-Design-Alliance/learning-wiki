@@ -1,6 +1,7 @@
 ---
 type: product
 id: adult-promise-initiative
+moved_from: [element/adult-promise-initiative-state-grants]
 title: Adult Promise initiative
 description: A Lumina Foundation multiyear state-grant program launched in 2017 to engage and support adults ages 25 to 64 in postsecondary education, with Mathematica serving as its learning and evaluation partner from 2017 to 2021.
 product_kind: programme

@@ -1,6 +1,7 @@
 ---
 type: product
 id: psychology-mooc-gt-spring-2013-dataset
+moved_from: [element/psychology-mooc-gt-spring-2013-datashop-dataset]
 title: Psychology MOOC GT - Spring 2013 dataset
 description: "A PSLC DataShop dataset containing learner response and skill-tagging data from the Open Learning Initiative's Psychology MOOC GT Spring 2013 course."
 product_kind: dataset

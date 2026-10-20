@@ -1,6 +1,7 @@
 ---
 type: product
 id: pathblazer
+moved_from: [element/pathblazer-online-intervention-element]
 title: Pathblazer
 description: Pathblazer is a supplemental online mathematics and reading intervention programme for struggling K–8 learners, delivered and supported by its programme provider for use by schools and classroom teachers.
 product_kind: programme

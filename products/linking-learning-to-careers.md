@@ -1,6 +1,7 @@
 ---
 type: product
 id: linking-learning-to-careers
+moved_from: [element/llc-vermont-program-model]
 title: Linking Learning to Careers
 description: A Vermont Division of Vocational Rehabilitation programme that provides high school students with disabilities individualized career planning, integrated work-based learning, college exploration, team-based guidance, assistive technology support, and transportation funding.
 product_kind: programme

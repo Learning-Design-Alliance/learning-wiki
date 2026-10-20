@@ -1,6 +1,7 @@
 ---
 type: product
 id: tft-partnership
+moved_from: [theory/tft-partnership-logic-model]
 title: TFT partnership
 description: A REL Midwest partnership framework that organizes professional-learning activities and expected administrator, teacher, and student outcomes across short-, medium-, and long-term horizons.
 product_kind: framework

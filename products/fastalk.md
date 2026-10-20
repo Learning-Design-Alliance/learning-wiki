@@ -1,6 +1,7 @@
 ---
 type: product
 id: fastalk
+moved_from: [element/fastalk-text-message-family-engagement-program]
 title: FASTalk
 description: FASTalk is a text-message family-engagement programme that sends multilingual, at-home literacy activities to families to support learning partnerships between schools and historically underserved households.
 product_kind: programme

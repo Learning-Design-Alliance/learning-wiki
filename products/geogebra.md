@@ -1,6 +1,7 @@
 ---
 type: product
 id: geogebra
+moved_from: [element/geogebra-function-art-environment]
 title: GeoGebra
 description: GeoGebra is a free dynamic mathematics software platform developed and maintained by GeoGebra for interactive work across algebra, geometry, calculus, and spreadsheets.
 product_kind: software

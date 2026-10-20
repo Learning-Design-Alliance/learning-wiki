@@ -47,7 +47,7 @@ Multivariate logistic regression on RELACHS depressive symptoms (SMFQ) at follow
 - [Safety](../learner-variables/safety.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [Social support from friends and family does not buffer the effect of bullying on depressive symptoms](social-support-no-buffer-depression.md) — related
+- [In an East London adolescent cohort, adjusting for friend or family support barely changed the association between being bullied and boys' later depressive symptoms, which the authors read as support not being sufficient protection](social-support-no-buffer-depression.md) — related
 - [Boys are more likely than girls to be reported as bullied in preadolescence](boys-more-likely-bullied-than-girls-preadolescent.md) — related
 - [Bullied boys show greater behavioral problems than bullied girls in withdrawn/depressed, social, thought, and aggression domains](bullied-boys-greater-behavioral-problems-than-bullied-girls.md) — related
 - [Bullied preadolescent children show greater behavioral problems across CBCL domains than non-bullied peers](bullying-associated-with-greater-behavioral-problems.md) — related

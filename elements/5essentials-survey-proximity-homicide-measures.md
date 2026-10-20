@@ -40,7 +40,7 @@ The 5Essentials Survey is completed every spring by students in grades 4-12 and 
 ## Claims
 
 - [Schools that mitigated proximity-to-homicide effects had stronger, more positive school climates, including engaging instruction and trusting relationships](../claims/positive-school-climate-mitigates-homicide-effects.md) [+W]
-- [Some high schools mitigated the typical negative effects of proximity to homicide on student outcomes while most schools saw declines](../claims/some-schools-mitigate-homicide-effects.md) [+W]
+- [Some high schools mitigated the typical negative effects of proximity to homicide: most student outcomes declined after a nearby homicide, but not all schools saw average declines](../claims/some-schools-mitigate-homicide-effects.md) [+W]
 
 ## Related Elements
 

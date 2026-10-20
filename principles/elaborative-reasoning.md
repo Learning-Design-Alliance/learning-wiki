@@ -1,6 +1,7 @@
 ---
 type: principle
 id: elaborative-reasoning
+moved_from: [pattern/grounding-and-unfolding-facilitation-moves]
 aliases: [model-and-monitor-elaborative-interrogation-answer-quality, precise-meaningful-elaboration-facilitates-encoding, promote-self-generated-elaboration-for-expertise, teach-information-with-prior-related-knowledge]
 title: Elaborative Reasoning
 description: "For a learner with relevant prior knowledge studying facts or prose, answering why-questions about each statement or generating their own connections is expected to improve recall and recognition over reading it, at a cost in time; randomised experiments with school students test this for science facts, and one experiment finds the reverse for novice undergraduates learning a probability calculation."

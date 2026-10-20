@@ -1,6 +1,7 @@
 ---
 type: product
 id: map-growth-course-specific-assessments
+moved_from: [element/course-specific-map-growth-tests, element/map-growth-course-specific-assessments]
 title: MAP Growth Course-Specific assessments
 description: "MAP Growth course-specific tests are NWEA's variable-length computerized adaptive mathematics and science assessments for Algebra, Geometry, Integrated Math, and Biology/Life Science, administered during the school year to measure course-specific achievement and growth."
 product_kind: assessment

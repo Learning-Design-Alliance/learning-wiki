@@ -49,9 +49,9 @@ Focus group thematic analysis (N = 12 students): a shy student described friends
 - [Students perceive diversity in learning—varied content, outdoor and technology-supported approaches, and physical activity—as essential to fun in learning](diversity-in-learning-fun-element.md) — related
 - [Students perceive a low-stress climate—supportive teacher behavior and an undistressed social environment—as a critical condition for fun in learning](low-stress-climate-fun-element.md) — related
 - [Parental presence and support buffer children's neurobiological stress responses, mitigating adversity effects when support is high](parental-presence-support-buffers-stress.md) — related
-- [Social support from friends and family does not buffer the effect of bullying on depressive symptoms](social-support-no-buffer-depression.md) — related
+- [In an East London adolescent cohort, adjusting for friend or family support barely changed the association between being bullied and boys' later depressive symptoms, which the authors read as support not being sufficient protection](social-support-no-buffer-depression.md) — related
 - [Findings are mixed on whether friendship buffers the negative effects of peer rejection for children with ADHD](friendship-buffering-peer-rejection-mixed-evidence.md) — related
 - [High levels of support from friends protect bullied adolescents from poor academic achievement, but moderate or low friend support does not](high-friend-support-buffers-achievement-effect.md) — related
 - [Adverse childhood experiences create toxic stress that impairs attention, learning, and behavior, and school responses can magnify or buffer the harm](aces-toxic-stress-impair-learning.md) — related
 - [Positive developmental relationships are the active ingredient in effective child-serving systems, buffering stress and fueling learning](positive-developmental-relationships-active-ingredient.md) — a broader claim this one bears on
-- [Only moderate (not high or low) family support protects bullied adolescents from poor academic achievement](moderate-family-support-buffers-achievement.md) — related
+- [Bullying was not associated with lower academic achievement among adolescents with moderate family support, unlike those with high or low support, in a weakly supported interaction](moderate-family-support-buffers-achievement.md) — related

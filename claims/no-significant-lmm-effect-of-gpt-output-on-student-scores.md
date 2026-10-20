@@ -63,7 +63,7 @@ LMM interaction test for the IVDA scenario (Table 6, Sec. 5): the group × attem
 
 ## Related Claims
 - [GPT-4o and GPT-5.2 achieve higher accuracy and more fully correct answers on university IVDA multiple-choice questions than the smaller Mistral-7B and DeepSeek-R1 models](gpt-models-outperform-smaller-llms-on-ivda-mcqs.md) — related
-- [Descriptive user-study patterns suggest GPT output may scaffold lower-prior-knowledge IVDA students but reduce performance when prior knowledge is higher (CV)](gpt-output-effect-depends-on-prior-knowledge-and-domain.md) — related
+- [Descriptive user-study patterns that the authors read as GPT output possibly scaffolding IVDA students and reducing CV students' performance, an interpretation by prior knowledge that the study did not measure](gpt-output-effect-depends-on-prior-knowledge-and-domain.md) — related
 - [Model and student error patterns on IVDA MCQs show limited question-level consistency but comparable difficulty distributions for easiest and hardest questions](limited-model-student-question-level-alignment.md) — related
 - [MCQ accuracy was high (above 87%) across all conditions with no significant difference between diverse and generic explanations](mcq-accuracy-no-significant-condition-difference.md) — related
 - [Students perceive LLM chatbots as useful for learning but requiring critical use, reporting hallucinations, overconfidence, and dependency risks](students-view-llms-useful-but-requiring-critical-use.md) — related

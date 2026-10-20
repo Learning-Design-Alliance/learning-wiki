@@ -1,6 +1,7 @@
 ---
 type: product
 id: esylvan
+moved_from: [element/esylvan-online-tutoring-environment]
 title: eSylvan
 description: "eSylvan was Sylvan Learning Centers' early Internet-based tutoring environment for delivering its reading, writing, and mathematics curriculum through teacher-led online sessions."
 product_kind: software

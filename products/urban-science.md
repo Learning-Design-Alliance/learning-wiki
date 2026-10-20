@@ -1,6 +1,7 @@
 ---
 type: product
 id: urban-science
+moved_from: [element/urban-science-epistemic-game]
 title: Urban Science
 description: Urban Science is a University of Wisconsin–Madison epistemic-game programme that engages learners in individual and collaborative urban-redevelopment planning through professional-practicum-like tasks and deliverables.
 product_kind: programme

@@ -1,6 +1,7 @@
 ---
 type: product
 id: gbsri
+moved_from: [design/gbsri-lesson-stage-cycle-pattern]
 title: GBSRI
 description: GBSRI is a genre-based, self-regulated writing-instruction framework developed by the article’s authors for EFL writing instruction.
 product_kind: framework

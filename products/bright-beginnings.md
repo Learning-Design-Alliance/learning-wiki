@@ -1,6 +1,7 @@
 ---
 type: product
 id: bright-beginnings
+moved_from: [element/bright-beginnings-curriculum-element]
 title: Bright Beginnings
 description: Bright Beginnings is a child-centered, literacy-focused preschool curriculum developed for early childhood education, comprising nine thematic units with classroom and home activities and parent involvement.
 product_kind: curriculum

@@ -1,6 +1,7 @@
 ---
 type: product
 id: dataset-of-484-de-identified-student-project-reports-with-instructor-reviews-collected-ove
+moved_from: [element/insta-reviewer-project-report-dataset]
 title: Dataset of 484 de-identified student project reports with instructor reviews collected over twelve semesters
 description: A publicly released research dataset created by Qinjin Jia et al.
 product_kind: dataset

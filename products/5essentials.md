@@ -1,6 +1,7 @@
 ---
 type: product
 id: 5essentials
+moved_from: [design/school-survey-profile-demographic-comparison-trend-format, theory/ccsr-five-essential-supports-framework, theory/essential-supports-educational-technology-use-framework, theory/five-essential-supports-5es-framework, theory/five-essential-supports-ccsr-survey-framework, theory/five-essential-supports-school-improvement, theory/five-essential-supports-school-learning-framework, theory/five-essential-supports-student-learning-framework, theory/five-organizational-supports-school-improvement]
 title: 5Essentials
 description: A school-improvement measurement framework developed by the University of Chicago Consortium on School Research that organizes school survey profiles around five domains and their related measures.
 product_kind: framework

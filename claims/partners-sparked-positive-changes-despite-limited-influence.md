@@ -1,7 +1,7 @@
 ---
 type: claim
-title: External partners sparked documented improvements in instruction, parent involvement, and school climate
-description: External partners sparked documented improvements in instruction, parent involvement, and school climate
+title: In selected Chicago schools, external partners sparked documented improvements in instruction, parent involvement, or school climate
+description: In selected Chicago schools, external partners sparked documented improvements in instruction, parent involvement, or school climate
 id: partners-sparked-positive-changes-despite-limited-influence
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 2
 ---
 
-# External partners sparked documented improvements in instruction, parent involvement, and school climate
+# In selected Chicago schools, external partners sparked documented improvements in instruction, parent involvement, or school climate
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
-`q2 i?` Partners accomplished goals they set for improving schools, producing documented changes in classroom practice, parent participation, and school climate across the nine networks studied. [→ Fred M. Newmann 2000](#fred-m-newmann-2000)
+`q2 i?` The report documents examples of partners sparking positive changes in classroom practice, parent participation, or school climate in particular schools among the 18 studied (two in each of nine networks); its sampling does not support conclusions about a partner's overall effectiveness across its schools or about relative effectiveness. [→ Fred M. Newmann 2000](#fred-m-newmann-2000)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Fred M. Newmann, Karin Sconzert. (2000). School Improvement with External Partne
 
 `q2 · i?` · `qualitative · r2`
 
-Multi-year qualitative case study of nine external partners across 18 Chicago schools (two per network), using interviews, classroom observations, document review, and school case studies compiled over three years. The report documents specific improvements such as classroom libraries supporting workshops where 'The students are reading more in class and at home.'
+Multi-year qualitative case study of nine external partners across 18 Chicago schools (two per network), using interviews, classroom observations, document review, and school case studies compiled over three years. The authors state that their sampling of schools does not allow conclusions about a partner's overall effectiveness in helping all of its schools, only examples of success in individual schools. The report documents specific improvements such as classroom libraries supporting workshops where 'The students are reading more in class and at home.'
 
 > "We found that the partners we studied are focusing on important aspects of school improvement and sparking positive changes."
 

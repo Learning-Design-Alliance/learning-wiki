@@ -1,6 +1,7 @@
 ---
 type: product
 id: map-growth-grades-12-achievement-dataset-spring-2019-and-spring-2022-samples
+moved_from: [element/map-growth-grades-1-2-covid-comparison-dataset]
 title: MAP Growth grades 1–2 achievement dataset (spring 2019 and spring 2022 samples)
 description: A research dataset assembled by Kuhfeld et al.
 product_kind: dataset

@@ -1,6 +1,7 @@
 ---
 type: product
 id: seven-item-parent-reported-aac-implementation-experience-score
+moved_from: [element/seven-item-aac-experience-score]
 title: Seven-item parent-reported AAC implementation experience score
 description: A seven-item parent-reported questionnaire developed by Jarrar Hala et al.
 product_kind: assessment

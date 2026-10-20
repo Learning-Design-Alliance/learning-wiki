@@ -43,7 +43,7 @@ Authors' interpretive conclusion drawn from the qualitative case study across ni
 
 
 ## Related Claims
-- [External partners sparked documented improvements in instruction, parent involvement, and school climate](partners-sparked-positive-changes-despite-limited-influence.md) — reports the opposite
+- [In selected Chicago schools, external partners sparked documented improvements in instruction, parent involvement, or school climate](partners-sparked-positive-changes-despite-limited-influence.md) — reports the opposite
 - [Annenberg external partners accumulated substantial experience working with schools but were not particularly successful in promoting improvement across the large number of schools they served](annenberg-partners-experienced-but-not-particularly-successful.md) — related
 - Case studies of six actively restructuring schools show the principal's role recast, growing social support for change, and external ideas and information brought to bear — related
 - [Improving schools secured external resources aligned with a development agenda and employed them strategically, and cultivated strong distributive leadership with a make-or-break principal role](aligned-resources-and-distributive-leadership-distinguish-improving-schools.md) — related

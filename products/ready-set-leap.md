@@ -1,6 +1,7 @@
 ---
 type: product
 id: ready-set-leap
+moved_from: [element/ready-set-leap-curriculum]
 title: "Ready, Set, Leap!®"
 description: A LeapFrog preschool early-reading curriculum using interactive books, multisensory technology, lesson plans, objectives, assessment tools, and customized lessons to teach phonemic awareness, letter knowledge, and letter–sound correspondence.
 product_kind: curriculum

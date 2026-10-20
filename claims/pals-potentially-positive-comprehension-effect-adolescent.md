@@ -83,7 +83,7 @@ The Effectiveness Summary section states the WWC rating rationale: one study sho
 
 - [Peer-assisted instruction and small-group instruction by adults have large, robust short-term effect sizes for K-6 struggling students](peer-assisted-and-small-group-instruction-most-effective.md) — the general claim this finding bears on, with the studies behind it
 - [The evidence base for PALS in the Adolescent Literacy review rests on a single randomized trial of 120 students across 12 schools, rated as meeting standards with reservations](pals-evidence-base-single-rct-reservations.md) — related
-- [PALS effects were statistically significant for the full diverse sample but not for the learning-disability subsets analyzed separately](pals-full-sample-significant-ld-subset-not.md) — related
+- [PALS effects on the learning-disability subsets analyzed separately were not statistically significant, while the full-sample effect was significant in one study (Fuchs et al., 1997) and not in the other (Saenz et al., 2005)](pals-full-sample-significant-ld-subset-not.md) — related
 - [PALS shows no discernible effects on mathematics for students with learning disabilities](pals-no-discernible-math-effects-ld.md) — related
 - [PALS shows potentially positive effects on reading comprehension for students with learning disabilities (average effect size 0.75, not statistically significant)](pals-potentially-positive-reading-comprehension-ld.md) — related
 - [PALS shows potentially positive effects on reading fluency for students with learning disabilities, with a substantively important but not statistically significant WWC-calculated effect size of 0.41 in Saenz et al. (2005)](pals-potentially-positive-reading-fluency-ld.md) — related

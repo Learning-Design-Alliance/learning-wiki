@@ -1,6 +1,7 @@
 ---
 type: product
 id: llm-queries
+moved_from: [element/llm-queries-github-analysis-code]
 title: LLM-queries
 description: A GitHub repository released by Keith et al.
 product_kind: software

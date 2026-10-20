@@ -1,6 +1,7 @@
 ---
 type: product
 id: i-best
+moved_from: [design/ibest-team-teaching-models, element/ibest-program-element, theory/ibest-integrated-contextualized-instruction-model]
 title: I-BEST
 description: A Washington State Board for Community and Technical Colleges programme that integrates adult basic education with occupational training through team teaching and learner support services.
 product_kind: programme

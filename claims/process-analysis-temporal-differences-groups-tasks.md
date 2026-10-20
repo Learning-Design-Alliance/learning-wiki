@@ -63,7 +63,7 @@ Johanna Pöysä-Tarhonen, Päivi Häkkinen, Pasi Tarhonen, Piia Näykki, Sanna J
 
 `q2 · i?` · `qualitative · r2`
 
-Phase 2 group comparison for Group C; visualized in CPS circles (Figs. 8–9). The article states "the social moments were slightly shorter in Task 2 compared with Task 1" with 10.7% more state changes.
+Phase 2 group comparison for Group C; visualized in CPS circles (the figures captioned as Group C, Figs. 7 and 10; the article's running text refers to them as Figs. 8–9). The article states "the social moments were slightly shorter in Task 2 compared with Task 1" with 10.7% more state changes.
 
 > "there was an increase in the average occurrence of social states in Task 2 compared with Task 1 (Task 1: 0.135, Task 2: 0.164)."
 

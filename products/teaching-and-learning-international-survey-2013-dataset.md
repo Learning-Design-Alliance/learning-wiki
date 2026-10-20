@@ -1,6 +1,7 @@
 ---
 type: product
 id: teaching-and-learning-international-survey-2013-dataset
+moved_from: [element/talis-2013-principal-survey-dataset]
 title: Teaching and Learning International Survey 2013 dataset
 description: "The OECD's TALIS 2013 dataset contains international survey data from teachers and school principals on school conditions, teaching and learning environments, professional development, and working conditions across 38 countries."
 product_kind: dataset

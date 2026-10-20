@@ -1,6 +1,7 @@
 ---
 type: product
 id: future-forward
+moved_from: [element/future-forward-literacy-intervention-program, element/future-forward-literacy-program-model-eir]
 title: Future Forward
 description: Future Forward is a branded early-literacy tutoring and family-engagement programme implemented by participating schools and sites for struggling students in kindergarten through grade 3.
 product_kind: programme

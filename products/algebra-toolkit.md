@@ -1,6 +1,7 @@
 ---
 type: product
 id: algebra-toolkit
+moved_from: [element/algebra-toolkit-plc-professional-development]
 title: Algebra Toolkit
 description: The Algebra Toolkit is a Regional Educational Laboratory Central at Mathematica professional development programme that supports middle and high school algebra educators through facilitated PLC sessions, preparation, classroom implementation, and school-leader guidance.
 product_kind: programme

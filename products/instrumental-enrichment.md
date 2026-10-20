@@ -1,6 +1,7 @@
 ---
 type: product
 id: instrumental-enrichment
+moved_from: [element/instrumental-enrichment-program]
 title: Instrumental Enrichment
 description: Instrumental Enrichment is Reuven Feuerstein’s structured cognitive-intervention program, designed to create mediated-learning situations that support cognitive modifiability and is implemented by educators or trained mediators.
 product_kind: programme

@@ -1,6 +1,7 @@
 ---
 type: product
 id: national-board-certification
+moved_from: [design/portfolio-with-written-commentary-assessment, element/nbpts-national-board-certification-process]
 title: National Board Certification
 description: A rigorous professional certification programme run by the National Board for Professional Teaching Standards in which teachers demonstrate advanced practice through a portfolio and assessment-centre examinations.
 product_kind: programme

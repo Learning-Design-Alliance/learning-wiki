@@ -1,6 +1,7 @@
 ---
 type: product
 id: accelerated-study-in-associate-programs-asap
+moved_from: [element/asap-program-element]
 title: Accelerated Study in Associate Programs (ASAP)
 description: A three-year City University of New York programme that combines financial, academic, cohort-based, and personal supports to help community-college students complete associate degrees.
 product_kind: programme

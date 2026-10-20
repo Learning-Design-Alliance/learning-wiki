@@ -1,6 +1,7 @@
 ---
 type: product
 id: mandatory-random-student-drug-testing
+moved_from: [element/mrsdt-program-element]
 title: Mandatory-random student drug testing
 description: A school-based programme that subjects participating high-school students to random drug testing, typically implemented and evaluated at the school level.
 product_kind: programme

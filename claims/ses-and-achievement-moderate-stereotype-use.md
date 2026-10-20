@@ -47,6 +47,6 @@ The article reports two studies testing moderation of SES-stereotype use by "stu
 - [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs by group
 
 ## Related Claims
-- [Low-SES students, but not high-SES students, generate stereotype-consistent inferences about targets' cognitive ability from social class information](low-ses-students-generate-stereotype-consistent-ability-inferences.md) — possibly the same claim (merge candidate)
+- [Low-SES students, but not high-SES students, generate stereotype-consistent inferences linking targets' social class and memory ability](low-ses-students-generate-stereotype-consistent-ability-inferences.md) — possibly the same claim (merge candidate)
 - [Low-SES students also generate stereotype-consistent inferences in the reverse direction, inferring SES indicators from memory performance information](low-ses-students-infer-ses-from-memory-performance.md) — a narrower finding that bears on this claim
 - [The authors interpret stereotype threat as a partial explanation for the standardized-test achievement gap between low- and high-SES students](stereotype-threat-partly-explains-ses-achievement-gap.md) — related

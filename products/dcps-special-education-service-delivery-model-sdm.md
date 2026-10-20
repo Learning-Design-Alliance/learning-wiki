@@ -1,6 +1,7 @@
 ---
 type: product
 id: dcps-special-education-service-delivery-model-sdm
+moved_from: [element/dcps-sdm-building-level-teams]
 title: DCPS Special Education Service Delivery Model (SDM)
 description: A District of Columbia Public Schools model that organizes decentralized special-education identification, assessment, placement, and early intervention through building-level collaborative teams.
 product_kind: framework

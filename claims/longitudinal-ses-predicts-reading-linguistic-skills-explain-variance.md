@@ -9,25 +9,25 @@ generated:
   at: 2026-10-19
 evidence_strength: strong
 sources:
-  - id: li-2021
-    resource: "https://www.frontiersin.org"
-    title: "Li, J., Peng, P., Ding, N., Ma, X., & Zhao, J. (2021). How does family socioeconomic status influence children's reading ability? Evidence from meta-analytic structural equation modeling. https://www.frontiersin.org"
+  - id: li-2023
+    resource: "https://doi.org/10.31234/osf.io/7yv6r"
+    title: "Li, J., Peng, P., Ding, N., Ma, X., & Zhao, J. (2023). How does family socioeconomic status influence children's reading ability? Evidence from meta-analytic structural equation modeling. PsyArXiv preprint. [doi:10.31234/osf.io/7yv6r](https://doi.org/10.31234/osf.io/7yv6r) (published as Li, Peng, Ma, Ding & Zhao, 2023, *Educational Psychology Review, 35*, 119, [doi:10.1007/s10648-023-09834-1](https://doi.org/10.1007/s10648-023-09834-1))"
     author: "Li, J., Peng, P., Ding, N., Ma, X., & Zhao, J."
     q: 3
     i: 2
     kind: quant-synthesis
     rigour: 2
-  - id: li-2021-2
-    resource: "https://www.frontiersin.org"
-    title: "Li, J., Peng, P., Ding, N., Ma, X., & Zhao, J. (2021). How does family socioeconomic status influence children's reading ability? Evidence from meta-analytic structural equation modeling. https://www.frontiersin.org"
+  - id: li-2023-2
+    resource: "https://doi.org/10.31234/osf.io/7yv6r"
+    title: "Li, J., Peng, P., Ding, N., Ma, X., & Zhao, J. (2023). How does family socioeconomic status influence children's reading ability? Evidence from meta-analytic structural equation modeling. PsyArXiv preprint. [doi:10.31234/osf.io/7yv6r](https://doi.org/10.31234/osf.io/7yv6r) (published as Li, Peng, Ma, Ding & Zhao, 2023, *Educational Psychology Review, 35*, 119, [doi:10.1007/s10648-023-09834-1](https://doi.org/10.1007/s10648-023-09834-1))"
     author: "Li, J., Peng, P., Ding, N., Ma, X., & Zhao, J."
     q: 3
     i: 1
     kind: quant-synthesis
     rigour: "?"
-  - id: li-2021-3
-    resource: "https://www.frontiersin.org"
-    title: "Li, J., Peng, P., Ding, N., Ma, X., & Zhao, J. (2021). How does family socioeconomic status influence children's reading ability? Evidence from meta-analytic structural equation modeling. https://www.frontiersin.org"
+  - id: li-2023-3
+    resource: "https://doi.org/10.31234/osf.io/7yv6r"
+    title: "Li, J., Peng, P., Ding, N., Ma, X., & Zhao, J. (2023). How does family socioeconomic status influence children's reading ability? Evidence from meta-analytic structural equation modeling. PsyArXiv preprint. [doi:10.31234/osf.io/7yv6r](https://doi.org/10.31234/osf.io/7yv6r) (published as Li, Peng, Ma, Ding & Zhao, 2023, *Educational Psychology Review, 35*, 119, [doi:10.1007/s10648-023-09834-1](https://doi.org/10.1007/s10648-023-09834-1))"
     author: "Li, J., Peng, P., Ding, N., Ma, X., & Zhao, J."
     q: 3
     i: "?"
@@ -41,15 +41,15 @@ sources:
 > **Evidence** · 1 study (3 entries) · quant-synthesis `r2` · `q3` · `i1`–`i2`
 
 ## Subclaims
-`q3 i2` SES significantly predicted later reading performance, overall r = 0.24, 95% CI [0.20, 0.28]. [→ Li 2021](#li-2021)
-`q3 i1` After partialing out both phonological awareness and vocabulary knowledge, the SES-later-reading correlation dropped to r = 0.15, with the two skills jointly explaining about 45.11% of the variance. [→ Li 2021 (2)](#li-2021-2)
-`q3 i?` No moderator (age at Time 1, time interval, writing system, country SES, SES measurement) affected the partialled longitudinal SES-reading relation. [→ Li 2021 (3)](#li-2021-3)
+`q3 i2` SES significantly predicted later reading performance, overall r = 0.24, 95% CI [0.20, 0.28]. [→ Li 2023](#li-2023)
+`q3 i1` After partialing out both phonological awareness and vocabulary knowledge, the SES-later-reading correlation dropped to r = 0.15, with the two skills jointly explaining about 45.11% of the variance. [→ Li 2023 (2)](#li-2023-2)
+`q3 i?` No moderator (age at Time 1, time interval, writing system, country SES, SES measurement) affected the partialled longitudinal SES-reading relation. [→ Li 2023 (3)](#li-2023-3)
 
 ## Evidence
 
-### Li 2021
+### Li 2023
 
-Li, J., Peng, P., Ding, N., Ma, X., & Zhao, J. (2021). How does family socioeconomic status influence children's reading ability? Evidence from meta-analytic structural equation modeling. https://www.frontiersin.org
+Li, J., Peng, P., Ding, N., Ma, X., & Zhao, J. (2023). How does family socioeconomic status influence children's reading ability? Evidence from meta-analytic structural equation modeling. PsyArXiv preprint. [doi:10.31234/osf.io/7yv6r](https://doi.org/10.31234/osf.io/7yv6r) (published as Li, Peng, Ma, Ding & Zhao, 2023, *Educational Psychology Review, 35*, 119, [doi:10.1007/s10648-023-09834-1](https://doi.org/10.1007/s10648-023-09834-1))
 
 `q3 · i2` · `quant-synthesis · r2`
 
@@ -57,9 +57,9 @@ ROBUMETA synthesis of 27 longitudinal articles (29 independent samples, 114 effe
 
 > "Results indicated that SES significantly predicted later reading performance and the overall correlation was r = 0.24, 95% CI [0.20, 0.28]"
 
-### Li 2021 (2)
+### Li 2023 (2)
 
-Li, J., Peng, P., Ding, N., Ma, X., & Zhao, J. (2021). How does family socioeconomic status influence children's reading ability? Evidence from meta-analytic structural equation modeling. https://www.frontiersin.org
+Li, J., Peng, P., Ding, N., Ma, X., & Zhao, J. (2023). How does family socioeconomic status influence children's reading ability? Evidence from meta-analytic structural equation modeling. PsyArXiv preprint. [doi:10.31234/osf.io/7yv6r](https://doi.org/10.31234/osf.io/7yv6r) (published as Li, Peng, Ma, Ding & Zhao, 2023, *Educational Psychology Review, 35*, 119, [doi:10.1007/s10648-023-09834-1](https://doi.org/10.1007/s10648-023-09834-1))
 
 `q3 · i1` · `quant-synthesis · r?`
 
@@ -67,9 +67,9 @@ ROBUMETA synthesis of 13 longitudinal articles (87 effect sizes) partialing out 
 
 > "After partialing out phonological awareness, the correlation between SES and later reading was r = 0.15, 95% CI [0.08, 0.22]. Taken together, phonological awareness and vocabulary knowledge explained about 45.11% of the variance in the relationship between SES and later reading"
 
-### Li 2021 (3)
+### Li 2023 (3)
 
-Li, J., Peng, P., Ding, N., Ma, X., & Zhao, J. (2021). How does family socioeconomic status influence children's reading ability? Evidence from meta-analytic structural equation modeling. https://www.frontiersin.org
+Li, J., Peng, P., Ding, N., Ma, X., & Zhao, J. (2023). How does family socioeconomic status influence children's reading ability? Evidence from meta-analytic structural equation modeling. PsyArXiv preprint. [doi:10.31234/osf.io/7yv6r](https://doi.org/10.31234/osf.io/7yv6r) (published as Li, Peng, Ma, Ding & Zhao, 2023, *Educational Psychology Review, 35*, 119, [doi:10.1007/s10648-023-09834-1](https://doi.org/10.1007/s10648-023-09834-1))
 
 `q3 · i?` · `quant-synthesis · r2`
 
@@ -86,6 +86,6 @@ Metaregression (ROBUMETA) of the partialled longitudinal SES-reading relation wi
 
 ## Related Claims
 - [Earlier theory of mind longitudinally predicts later academic achievement (pooled r = .28), largely on zero-order associations](early-tom-predicts-later-achievement.md) — related
-- [Country SES moderates the linguistic-skill-to-reading paths, with larger phonological-awareness and vocabulary effects in developed countries, but does not moderate the direct SES-reading paths](country-ses-moderates-skill-reading-paths-not-ses-reading.md) — related
+- [Country SES moderates the linguistic-skill-to-reading paths, with stronger phonological-awareness and vocabulary associations in developed countries, but does not moderate the direct SES-reading paths](country-ses-moderates-skill-reading-paths-not-ses-reading.md) — related
 - [SES shows significant direct and indirect effects on each reading outcome separately, with larger indirect effects through vocabulary for comprehension](ses-effects-on-accuracy-comprehension-fluency-separately.md) — related
 - [The association between family SES and children's reading is partially mediated, statistically, in parallel by phonological awareness and vocabulary knowledge](ses-reading-partial-parallel-mediation-linguistic-skills.md) — related

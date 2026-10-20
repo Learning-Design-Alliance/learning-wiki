@@ -1,6 +1,7 @@
 ---
 type: product
 id: training-a-multicultural-workforce
+moved_from: [element/training-multicultural-workforce-package]
 title: Training a Multicultural Workforce
 description: A 30-hour, six-module supervisor-training curriculum developed by Dyer for ESL-qualified instructors to help Australian workplace supervisors manage and train a multicultural workforce, including refugees and immigrants from non-English-speaking backgrounds.
 product_kind: curriculum

@@ -1,6 +1,7 @@
 ---
 type: product
 id: digital-promise-product-certifications
+moved_from: [element/digital-promise-product-certifications]
 title: Digital Promise Product Certifications
 description: A Digital Promise certification initiative in which edtech companies submit evidence for expert review and qualifying products receive time-limited Open Badges signaling areas such as research-based design, learner variability, and interoperability.
 product_kind: programme

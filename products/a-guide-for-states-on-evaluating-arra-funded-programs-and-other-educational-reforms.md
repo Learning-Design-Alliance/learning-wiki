@@ -1,6 +1,7 @@
 ---
 type: product
 id: a-guide-for-states-on-evaluating-arra-funded-programs-and-other-educational-reforms
+moved_from: [element/evaluating-arra-programs-guide-for-states]
 title: A guide for states on evaluating ARRA-funded programs and other educational reforms
 description: A jointly developed evaluation-planning guide from the American Institutes for Research and Mathematica Policy Research to help state education agencies evaluate ARRA-funded initiatives and other educational reforms.
 product_kind: framework

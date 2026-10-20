@@ -1,6 +1,7 @@
 ---
 type: pattern
 id: social-emotional-learning
+moved_from: [principle/integrated-ef-sel-digital-literacy-intervention]
 aliases: [responsive-classroom]
 title: Social Emotional Learning
 description: "For school-age learners, a sustained programme, delivered mainly by their own teachers, that explicitly teaches one named social or emotional skill at a time, rehearses it actively with feedback and has the other adults around them (staff, and families of young children) cue it in daily routines and academic work is expected to improve those skills most, and conduct, distress and achievement by smaller amounts, with gains persisting at follow-up; meta-analyses test universal K–12 SEL programmes as a whole against controls, but no claim tests this sequence's steps, adult learners or one-off formats."

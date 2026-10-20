@@ -1,6 +1,7 @@
 ---
 type: product
 id: itss
+moved_from: [element/itss-web-based-structure-strategy-tutor, element/itss-web-based-text-structure-tutoring-program]
 title: ITSS
 description: ITSS is a web-based intelligent tutoring system for grades K–8 that teaches students to recognize and use factual-text structures through animated modeling, self-paced practice, and immediate feedback.
 product_kind: software

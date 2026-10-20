@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Children with MLD are less accurate than LA and TA peers on symbolic fraction magnitude comparisons from Grades 4 to 8, with no group differences in growth rates
-description: Children with MLD are less accurate than LA and TA peers on symbolic fraction magnitude comparisons from Grades 4 to 8, with no group differences in growth rates
+title: Children with MLD are less accurate than TA peers on symbolic fraction magnitude comparisons from Grades 4 to 8 and than LA peers from Grade 5, with no group differences in growth rates on the total score
+description: Children with MLD are less accurate than TA peers on symbolic fraction magnitude comparisons from Grades 4 to 8 and than LA peers from Grade 5, with no group differences in growth rates on the total score
 id: mld-lower-fraction-comparison-accuracy-no-growth-differences
 status: review
 generated:
@@ -27,14 +27,14 @@ sources:
     rigour: 2
 ---
 
-# Children with MLD are less accurate than LA and TA peers on symbolic fraction magnitude comparisons from Grades 4 to 8, with no group differences in growth rates
+# Children with MLD are less accurate than TA peers on symbolic fraction magnitude comparisons from Grades 4 to 8 and than LA peers from Grade 5, with no group differences in growth rates on the total score
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
-`q3 i3` Across all 60 SymMCoF fraction items, TA students outperformed LA students, who outperformed MLD students, and all groups improved from Grades 4 to 8. [→ Mazzocco 2013](#mazzocco-2013)
-`q3 i?` Growth curve models revealed no significant differences in growth rates between any of the three groups. [→ Mazzocco 2013 (2)](#mazzocco-2013-2)
+`q3 i3` Across all 60 SymMCoF fraction items, TA students outperformed LA students, who outperformed MLD students, and all groups improved from Grades 4 to 8; the MLD and LA groups did not differ in Grade 4 (p = .180) and differed from Grade 5 on. [→ Mazzocco 2013](#mazzocco-2013)
+`q3 i?` Growth curve models on total SymMCoF scores revealed no significant differences in growth rates between any of the three groups; on one-half and non-half items analysed separately, growth rates did differ between groups. [→ Mazzocco 2013 (2)](#mazzocco-2013-2)
 
 ## Evidence
 
@@ -44,7 +44,7 @@ Mazzocco, M. M. M., Myers, G. F., Lewis, K. E., Hanich, L. B., & Murphy, M. M. (
 
 `q3 · i3` · `associational · r2`
 
-A 5 (Grade) × 3 (MLD Status) repeated-measures ANOVA on percent correct across all 60 SymMCoF fraction items in the longitudinal sample. The main effect of MLD status was significant, F(2, 119) = 46.30, p < .0001, partial η2 = .438; "students in the TA group were more accurate" than both lower-achieving groups.
+A 5 (Grade) × 3 (MLD Status) repeated-measures ANOVA on percent correct across all 60 SymMCoF fraction items in the longitudinal sample. The main effect of MLD status was significant, F(2, 119) = 46.30, p < .0001, partial η2 = .438; "students in the TA group were more accurate" than both lower-achieving groups. A small Grade × MLD Status interaction qualifies this: the TA group was more accurate than both other groups at every grade, but the MLD and LA groups were comparable in Grade 4 (p = .180) and the MLD group underperformed the LA group only from Grades 5 to 8.
 
 > "students in the TA group were more accurate (89.8%) than peers with either LA (77.9%, p < .01) or MLD (62.1%, p < .001), which also differed from each other, p < .04."
 
@@ -54,7 +54,7 @@ Mazzocco, M. M. M., Myers, G. F., Lewis, K. E., Hanich, L. B., & Murphy, M. M. (
 
 `q3 · i?` · `associational · r2`
 
-Growth curve models on raw SymMCoF total scores, with intercepts set at Grade 4 and slopes in monthly increments, tested whether the groups' trajectories differed. "no significant differences in the growth rates between any of the three groups" were found, so group differences reflect performance level, not rate of growth.
+Growth curve models on raw SymMCoF total scores, with intercepts set at Grade 4 and slopes in monthly increments, tested whether the groups' trajectories differed. "no significant differences in the growth rates between any of the three groups" were found on the total score, so overall group differences reflect performance level, not rate of growth. Item-type models did find growth differences: on one-half items the MLD group grew faster than the TA group (p < .01), whose scores reached ceiling, and on non-half items the TA group grew faster than the MLD group (p < .05).
 
 > "However, results of the GCMs revealed no significant differences in the growth rates between any of the three groups, ps > .35 (Table 2)."
 

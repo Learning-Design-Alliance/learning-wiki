@@ -1,6 +1,7 @@
 ---
 type: product
 id: simse
+moved_from: [element/simse-metacognitive-modeling-dataset]
 title: SimSE
 description: SimSE is a dataset of 1,135 simulated five-minute teaching sessions by pre-service teachers, annotated for metacognitive modeling components and collected through the TeachSim platform by Xu and colleagues.
 product_kind: dataset

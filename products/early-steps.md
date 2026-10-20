@@ -1,6 +1,7 @@
 ---
 type: product
 id: early-steps
+moved_from: [element/early-steps-one-to-one-tutoring-program]
 title: Early Steps
 description: Early Steps is a structured one-to-one tutoring programme for first-grade pupils, delivered by tutors according to its named instructional schedule.
 product_kind: programme

@@ -1,6 +1,7 @@
 ---
 type: product
 id: ncte-transcript-dataset
+moved_from: [element/ncte-transcript-dataset-mqi]
 title: NCTE Transcript dataset
 description: A publicly available dataset of U.S.
 product_kind: dataset

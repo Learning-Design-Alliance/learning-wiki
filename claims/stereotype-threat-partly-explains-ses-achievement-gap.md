@@ -43,5 +43,5 @@ Authors' interpretation offered in the abstract: the experimental threat effects
 
 
 ## Related Claims
-- [Low-SES students, but not high-SES students, generate stereotype-consistent inferences about targets' cognitive ability from social class information](low-ses-students-generate-stereotype-consistent-ability-inferences.md) — related
+- [Low-SES students, but not high-SES students, generate stereotype-consistent inferences linking targets' social class and memory ability](low-ses-students-generate-stereotype-consistent-ability-inferences.md) — related
 - [Students' SES and academic achievement level moderate their use of the SES stereotype](ses-and-achievement-moderate-stereotype-use.md) — related

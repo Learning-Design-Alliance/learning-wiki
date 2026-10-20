@@ -1,6 +1,7 @@
 ---
 type: principle
 id: process-based-writing
+moved_from: [pattern/synthetic-planning-for-discovery-oriented-writing]
 aliases: [involve-students-in-revision-process, avoid-appropriating-student-writing, respond-as-a-reader, teach-writing-based-on-reading]
 title: Process-based Writing
 description: "Teaching writing as a staged process (plan, draft, respond, revise, edit) with feedback on drafts gives developing writers a modest gain in writing quality over product-focused teaching, tested by one meta-analysis in grades 1–12 that found no gain for struggling writers, who gain more from explicit strategy instruction."

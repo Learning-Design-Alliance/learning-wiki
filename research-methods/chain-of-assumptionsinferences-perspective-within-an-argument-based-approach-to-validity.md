@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: chain-of-assumptionsinferences-perspective-within-an-argument-based-approach-to-validity
+moved_from: [theory/chain-of-assumptions-inferences-validity-perspective]
 title: Chain of assumptions/inferences perspective within an argument-based approach to validity
 description: The article works within an argument-based approach to validity, in which the chain of assumptions and inferences connecting test scores to interpretations and uses is made explicit.
 status: review

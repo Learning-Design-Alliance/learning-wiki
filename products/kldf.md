@@ -1,6 +1,7 @@
 ---
 type: product
 id: kldf
+moved_from: [element/kipp-leadership-design-fellowship-program]
 title: KLDF
 description: A KIPP programme that disseminates KIPP school-leadership preparation strategies to leaders and schools outside KIPP and to the broader principal-preparation field.
 product_kind: programme

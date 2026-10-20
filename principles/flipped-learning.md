@@ -1,6 +1,7 @@
 ---
 type: principle
 id: flipped-learning
+moved_from: [pattern/flipped-classroom]
 aliases: [multimedia-modules-for-pre-lecture-preparation]
 title: Flipped Learning
 description: "For learners who can follow a topic's first explanation on their own, moving that first exposure before the live session and spending the freed time on application with feedback is expected to give better course outcomes than spending live time on the same exposition, provided learners prepare and the home time is not simply added; one meta-analysis of undergraduate health-professions courses found flipped classes ahead of lecture-based ones on exam performance (SMD 0.57), at low certainty with very high heterogeneity, and no claim here tests it with home time held equal."

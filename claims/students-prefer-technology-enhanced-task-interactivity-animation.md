@@ -43,7 +43,7 @@ Qualitative interview component of the mixed methods study. Students reported pr
 
 
 ## Related Claims
-- [Performance task platform modality (technology-enhanced, technology-enabled, or paper-and-pencil) showed no relationship with grade 6-8 students' self-reported cognitive engagement in mathematics](platform-modality-no-relationship-cognitive-engagement.md) — related
+- [Performance task platform modality (technology-enhanced, technology-enabled, or paper-and-pencil) showed no detected relationship with grade 6-8 students' self-reported cognitive engagement in mathematics](platform-modality-no-relationship-cognitive-engagement.md) — related
 - [Students appreciated specific features of paper-and-pencil tasks, namely the ability to navigate between items and to take notes](students-appreciate-paper-task-navigation-and-notes.md) — reports the opposite
 - Students who experienced the technology-enhanced class were far more favorable toward technology (76.0%) than no-technology students (20.4%) — related
 - [In a Web-based teacher education course, screen-capture videos and Flash animations modeling the instructor's internal problem-solving processes were the elements students most strongly associated with cognitive apprenticeship modeling](oms-videos-animations-most-impactful-modeling.md) — related

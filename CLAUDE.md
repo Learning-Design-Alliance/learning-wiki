@@ -131,9 +131,12 @@ work is done, not that the check is broken.
   setting's design (a course, a lesson sequence, one site's implementation); a branded programme many
   sites adopt is a product. A **research method** is a method for studying learning or evaluating
   education that is specific to education or especially useful there (cluster-randomised trials of
-  schools, evidence standards, design-based research, knowledge tracing, growth and value-added models).
+  schools, evidence standards, knowledge tracing, growth and value-added models).
   **General social-science methods are not pages** (maintainer: "regular old social science research
   methods are not that useful in a database like this"). `methods/` stays the *design* methods.
+  **Design-based research is a design process** (`processes/design-based-research`), not a research method
+  (maintainer, 2026-10-20). `research-methods/` is secondary and may eventually go away, so where a page
+  could sit in either, it belongs with the design side.
 
 **When you finish something wiki-wide, add a dated entry at the top of
 [`history/agent-log.md`](https://github.com/Learning-Design-Alliance/learning-wiki/blob/main/history/agent-log.md)**, newest first, as every session before you
@@ -992,6 +995,15 @@ Ids and aliases share one namespace per kind. A document saying `element: foo` c
 whether `foo` is a current slug or a retired one, so two pages answering to it is ambiguous
 however that came about — which is the case lint catches that filename-uniqueness never
 could, filenames being unique by construction.
+
+**A page moved to another kind keeps its old id through `moved_from:`** (2026-10-20). Aliases live
+inside one kind, so a page folded or re-filed into another kind (a programme filed as a strategy,
+now a product) left `strategy: good-behavior-game` resolving to nothing. The page it went to lists
+the old kind-qualified ids, `moved_from: [strategy/good-behavior-game]`; `build_wiki_index.py`
+publishes them as a separate `moved` map in `wiki-index.json` (`{old kind: {old slug: "new kind/new
+slug"}}`, additive, so `resolve` keeps its shape), and the MCP `resolve` tool follows it.
+`merge_pages.py` writes it on every cross-kind fold. 1,570 retired ids were backfilled from git
+history and the merged-from comments; a page deliberately removed is never given a redirect.
 
 Both YAML spellings are read (`aliases: [a, b]` and the block form), because both are
 written here — `page_identity.py` edits raw frontmatter text inline, while

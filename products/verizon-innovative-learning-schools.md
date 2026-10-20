@@ -1,6 +1,7 @@
 ---
 type: product
 id: verizon-innovative-learning-schools
+moved_from: [element/verizon-innovative-learning-schools-program, element/vils-program-element]
 title: Verizon Innovative Learning Schools
 description: A Verizon and Digital Promise programme that equips Title I middle and high schools with devices, connectivity, digital-skills training, STEM curriculum, and dedicated learning-coach support.
 product_kind: programme

@@ -1,6 +1,7 @@
 ---
 type: product
 id: carnegie-learning-high-school-math-solution-algebra-i
+moved_from: [element/carnegie-learning-math-solution-algebra-i-curriculum, element/mathia-tutoring-software]
 title: Carnegie Learning High School Math Solution Algebra I
 description: A Carnegie Learning first-year Algebra I curriculum that combines textbook and workbook materials with self-paced individualized instruction through automated tutoring software.
 product_kind: curriculum

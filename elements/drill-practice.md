@@ -1,6 +1,7 @@
 ---
 type: element
 id: drill-practice
+moved_from: [pattern/practice-spectrum-drills-to-task-based]
 title: "Drill & Practice"
 description: Drill and practice is the element in which learners repeatedly perform a focused skill or response pattern until it becomes more fluent or automatic.
 canonical: true

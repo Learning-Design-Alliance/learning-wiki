@@ -1,6 +1,7 @@
 ---
 type: product
 id: civic-online-reasoning-video-library
+moved_from: [element/civic-online-reasoning-video-library]
 title: Civic Online Reasoning Video Library
 description: A library of videos developed by the Civic Online Reasoning project to teach students and educators how to evaluate online information and data sources.
 product_kind: curriculum

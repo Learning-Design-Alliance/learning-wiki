@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: graph-theory-based-passage-equating-for-wcpm-scores
+moved_from: [theory/graph-theory-passage-equating-method]
 title: Graph-theory-based passage equating for WCPM scores
 description: "The report introduces a method that models passages as nodes and same-student passage pairs as edges, then uses graph theory to choose a reference passage with the most edges, adequate sample sizes, and medium difficulty, and to define the \"shortest path\" from each passage to the reference passage s"
 status: review

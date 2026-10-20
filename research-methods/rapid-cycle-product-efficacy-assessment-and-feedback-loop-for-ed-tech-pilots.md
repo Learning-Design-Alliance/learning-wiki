@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: rapid-cycle-product-efficacy-assessment-and-feedback-loop-for-ed-tech-pilots
+moved_from: [theory/rapid-cycle-product-efficacy-feedback-loop]
 title: Rapid cycle product efficacy assessment and feedback loop for ed-tech pilots
 description: A district-centric, practitioner-focused process in which university researchers help districts pilot ed-tech products, gather mixed-methods efficacy data across five dimensions (student learning, student engagement, teacher support, teacher satisfaction, administrator satisfaction), and feed synthe
 status: review

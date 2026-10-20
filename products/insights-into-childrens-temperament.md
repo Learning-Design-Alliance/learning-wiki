@@ -1,6 +1,7 @@
 ---
 type: product
 id: insights-into-childrens-temperament
+moved_from: [element/insights-into-childrens-temperament-program]
 title: "INSIGHTS into Children's Temperament"
 description: "INSIGHTS into Children's Temperament is an evidence-based intervention programme that equips educators, parents, and young children to understand and respond to children's temperament through professional development, classroom sessions, and facilitated parent lessons."
 product_kind: programme

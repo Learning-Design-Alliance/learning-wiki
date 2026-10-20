@@ -1,6 +1,7 @@
 ---
 type: product
 id: tothrough-project
+moved_from: [element/toandthrough-community-milestones-tool]
 aliases:
   - tothrough-online-tool
   - tothrough-project-data-tool

@@ -1,6 +1,7 @@
 ---
 type: product
 id: sternbergs-intellectual-styles-inventory
+moved_from: [element/intellectual-styles-inventory]
 title: "Sternberg's intellectual styles inventory"
 description: "A self-report inventory developed by Robert Sternberg that measures students' intellectual-style preferences, including legislative, executive, and judicial orientations, using 1-to-9 ratings of descriptive statements."
 product_kind: assessment

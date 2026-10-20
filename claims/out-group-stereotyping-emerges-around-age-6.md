@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · associational `r1` · `q3` · `i3` large
 
 ## Subclaims
-`q3 i3` Out-group stereotyping increased with age (main effect of Age group, F(3, 85) = 6.95, p < .001, η2 = .20), with 6–7-year-olds (M = .60) and 7–10-year-olds (M = .67) exhibiting more out-group stereotyping than younger groups. [→ Pauker 2010](#pauker-2010)
+`q3 i3` Out-group stereotyping differed by age group (simple effect, F(3, 85) = 12.38, p < .0001, η2 = .30): 7–10-year-olds (M = .67) exhibited more out-group stereotyping than both younger groups, while 6–7-year-olds (M = .60) exhibited more than 3–5-year-olds (p < .001) and only marginally more than 5–6-year-olds (p = .08). [→ Pauker 2010](#pauker-2010)
 `q3 i?` In-group stereotyping showed no reliable age group differences (F(3, 85) = .994, p = .40, η2 = .03). [→ Pauker 2010](#pauker-2010)
 
 ## Evidence

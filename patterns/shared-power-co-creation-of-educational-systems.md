@@ -1,6 +1,7 @@
 ---
 type: pattern
 id: shared-power-co-creation-of-educational-systems
+moved_from: [principle/acknowledge-power-differences-not-false-equality, principle/co-create-environments-with-experienced-inequity-groups]
 aliases: [differentiated-activity-structures-for-inclusive-participation]
 title: "Shared power: previously excluded students, families, and communities co-create and shape educational systems, policies, and practices"
 description: "For a group present in an educational decision process but structurally unable to exercise its decisions, giving it a body with written decision standing, meetings redesigned around its language and agenda, facilitation handed over across the cycle and a report-back on every recommendation is expected to sustain its participation and change what is decided where outreach and interpretation alone do not; one before/after case in this wiki tests a version of this, and the rest is participants' accounts."

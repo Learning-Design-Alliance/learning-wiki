@@ -1,6 +1,7 @@
 ---
 type: product
 id: type-1-model-competency-test
+moved_from: [element/type1-traditional-competency-test]
 title: Type 1 model competency test
 description: A paper-and-pencil grade-level competency assessment developed by Kasten et al., with scoring guidance, teacher notes, objective mappings, and error-interpretation support.
 product_kind: assessment

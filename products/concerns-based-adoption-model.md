@@ -1,6 +1,7 @@
 ---
 type: product
 id: concerns-based-adoption-model
+moved_from: [theory/levels-of-use-innovation-eight-level-framework, theory/levels-of-use-innovation-eight-levels]
 title: Concerns-Based Adoption Model
 description: CBAM is an implementation framework developed by researchers at the University of Texas at Austin for assessing and supporting individuals’ adoption of educational innovations.
 status: review

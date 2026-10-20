@@ -1,6 +1,7 @@
 ---
 type: product
 id: ohio-ai-toolkit
+moved_from: [element/ohio-ai-toolkit-policy-development]
 title: Ohio AI Toolkit
 description: "The Ohio Department of Education and Workforce's web-based toolkit guides Ohio policymakers, teachers, and parents through AI-in-education policy development and implementation while curating related resources."
 product_kind: framework

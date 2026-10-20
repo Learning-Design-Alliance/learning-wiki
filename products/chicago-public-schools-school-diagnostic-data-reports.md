@@ -1,6 +1,7 @@
 ---
 type: product
 id: chicago-public-schools-school-diagnostic-data-reports
+moved_from: [design/freshman-ontrack-school-diagnostic-reports]
 title: "Chicago Public Schools' school diagnostic data reports"
 description: These are data-reporting products run by Chicago Public Schools that display grade and attendance patterns by student background and over time for school-improvement planning.
 product_kind: dataset

@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: testlet-level-cfa-for-assessing-dimensionality-of-cat-data
+moved_from: [theory/testlet-level-cfa-for-cat-data]
 title: Testlet-level CFA for assessing dimensionality of CAT data
 description: "Because CAT administrations give different students different items, item-level factor analysis is impractical: for MAP, \"typical missing rates are around 98%\"."
 status: review

@@ -33,7 +33,7 @@ sources:
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q3` · `i2` medium
 
 ## Subclaims
-`q3 i?` Self-efficacy, metacognitive self-regulation, mastery approach/avoidance, and performance avoidance showed no significant group, time, or interaction effects; only overall interest showed a time effect, with students decreasing in reported interest from pre-test to post-test. [→ Daniell DiFrancesca 2025](#daniell-difrancesca-2025)
+`q3 i?` Self-efficacy, metacognitive self-regulation and performance avoidance showed no significant group, time, or interaction effects; mastery approach and mastery avoidance showed no group or interaction effects but did change over time (mastery approach decreased, mastery avoidance increased), and performance approach was the one measure that differed by competitiveness group (higher in highly competitive students, with a group-by-time interaction). [→ Daniell DiFrancesca 2025](#daniell-difrancesca-2025)
 `q3 i2` Educational psychology interest showed a significant time effect independent of competitiveness group. [→ Daniell DiFrancesca 2025 (2)](#daniell-difrancesca-2025-2)
 
 ## Evidence
@@ -44,7 +44,7 @@ Daniell DiFrancesca, Dan Spencer. (2025). The effects of competitive classroom a
 
 `q3 · i?` · `associational · r1`
 
-A 2x2 mixed ANOVA on self-efficacy (n = 73) found no significant effects; the text similarly reports no significant effects for metacognitive self-regulation, mastery approach/avoidance, or performance avoidance.
+A 2x2 mixed ANOVA on self-efficacy (n = 73) found no significant effects, and the text reports none for metacognitive self-regulation or performance avoidance. Mastery approach (decrease, η2 = 0.15) and mastery avoidance (increase, η2 = 0.055) showed significant time effects only, with no group or interaction effects. Performance approach showed time (η2 = 0.085), interaction (η2 = 0.085) and group (η2 = 0.45) effects: highly competitive students scored higher at both time points and declined over the semester.
 
 > "Educational psychology self-efficacy  A 2 (Competitiveness Group) X 2 (Time) mixed ANOV A revealed no significant effects of time, F(1,71) = 2.63, p =.11, group, F(1, 71) = 1.59, p =.21, or interaction between time and group, F(1, 71) = 1.25, p =.27."
 

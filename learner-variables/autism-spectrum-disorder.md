@@ -1,6 +1,7 @@
 ---
 type: learner-variable
 id: autism-spectrum-disorder
+moved_from: [principle/supporting-students-with-autism-spectrum-disorder]
 title: Autism Spectrum Disorder
 description: "Autism, a lifelong developmental difference in social communication and in patterns of behaviour, interests and sensory processing, recorded in research by clinical diagnosis or school category; it varies widely between people and is distinct from intellectual ability."
 canonical: true

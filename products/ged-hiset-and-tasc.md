@@ -1,6 +1,7 @@
 ---
 type: product
 id: ged-hiset-and-tasc
+moved_from: [element/nj-three-hse-exam-options]
 title: GED, HiSET, and TASC
 description: GED Testing Service, ETS, and Data Recognition Corporation provide these standardized high school equivalency assessments, which states use to award secondary-school equivalency credentials to individuals who did not graduate from high school.
 product_kind: assessment

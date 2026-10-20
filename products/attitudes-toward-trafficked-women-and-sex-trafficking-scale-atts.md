@@ -1,6 +1,7 @@
 ---
 type: product
 id: attitudes-toward-trafficked-women-and-sex-trafficking-scale-atts
+moved_from: [element/atts-trafficked-women-attitude-scale]
 title: Attitudes Toward Trafficked Women and Sex Trafficking Scale (ATTS)
 description: "The ATTS is a modified 29-item attitude scale developed by Litam in collaboration with the original APPS developers to measure counselors' views of trafficked women and sex trafficking using person-first language."
 product_kind: assessment

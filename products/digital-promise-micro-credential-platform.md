@@ -1,6 +1,7 @@
 ---
 type: product
 id: digital-promise-micro-credential-platform
+moved_from: [element/digital-promise-bloomboard-micro-credential-ecosystem, element/digital-promise-micro-credential-template, element/micro-credential-training-benchmarks-database, theory/five-step-issuer-workflow-micro-credential-review-scaling, theory/micro-credential-ecosystem-three-players]
 title: Digital Promise Micro-credential Platform
 description: A competency-based micro-credential platform developed and operated by Digital Promise through which K–12 educators select credentials, submit implementation evidence, and receive expert-reviewed competency recognition.
 product_kind: software

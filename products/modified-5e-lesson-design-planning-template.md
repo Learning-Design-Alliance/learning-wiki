@@ -1,6 +1,7 @@
 ---
 type: product
 id: modified-5e-lesson-design-planning-template
+moved_from: [design/modified-5e-template-concept-language-columns]
 title: Modified 5E lesson design planning template
 description: "This is a lesson-planning framework adapted by WestEd's K–12 Alliance for the Montebello project, modifying the 5E Instructional Model with concept, teacher, and student columns and embedded evaluation."
 product_kind: framework

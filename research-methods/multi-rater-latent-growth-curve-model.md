@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: multi-rater-latent-growth-curve-model
+moved_from: [theory/multi-rater-latent-growth-curve-model]
 title: Multi-rater latent growth curve model
 description: "The article introduces a model for estimating growth from longitudinal data in which multiple raters evaluate a construct such as a student's self-efficacy."
 status: review

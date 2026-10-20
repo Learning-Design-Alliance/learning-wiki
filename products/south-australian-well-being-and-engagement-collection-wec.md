@@ -1,6 +1,7 @@
 ---
 type: product
 id: south-australian-well-being-and-engagement-collection-wec
+moved_from: [element/wec-wellbeing-engagement-collection-survey]
 title: South Australian Well-being and Engagement Collection (WEC)
 description: The WEC is an annual student survey administered by the South Australian Department for Education to measure emotional well-being, school engagement, learning readiness, and health and well-being in public-school students in Years 4–12.
 product_kind: assessment

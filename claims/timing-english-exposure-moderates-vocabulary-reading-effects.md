@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Timing of English exposure moderates vocabulary-growth reading effects: English vocabulary growth favored HEC children's English passage comprehension while Spanish vocabulary growth favored SEC children's English reading"
-description: "Timing of English exposure moderates vocabulary-growth reading effects: English vocabulary growth favored HEC children's English passage comprehension while Spanish vocabulary growth favored SEC children's English rea..."
+title: "Timing of English exposure moderates how vocabulary growth predicts reading: English vocabulary growth predicted HEC children's English passage comprehension while Spanish vocabulary growth predicted SEC children's English reading"
+description: "Timing of English exposure moderates how vocabulary growth predicts reading: English vocabulary growth predicted HEC children's English passage comprehension while Spanish vocabulary growth predicted SEC children's English reading"
 id: timing-english-exposure-moderates-vocabulary-reading-effects
 status: review
 generated:
@@ -19,14 +19,14 @@ sources:
     rigour: 2
 ---
 
-# Timing of English exposure moderates vocabulary-growth reading effects: English vocabulary growth favored HEC children's English passage comprehension while Spanish vocabulary growth favored SEC children's English reading
+# Timing of English exposure moderates how vocabulary growth predicts reading: English vocabulary growth predicted HEC children's English passage comprehension while Spanish vocabulary growth predicted SEC children's English reading
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
-`q3 i?` HEC children's growth in English receptive vocabulary resulted in higher English passage comprehension scores (t = 2.76) than SEC children's. [→ Davison 2011](#davison-2011)
-`q3 i?` SEC children's growth in Spanish receptive vocabulary resulted in higher English letter-word identification (t = -2.81) and passage comprehension (t = -3.68) scores than HEC children's. [→ Davison 2011](#davison-2011)
+`q3 i?` HEC children's growth in English receptive vocabulary predicted higher English passage comprehension scores (t = 2.76) than SEC children's; the design is observational and cannot show cause. [→ Davison 2011](#davison-2011)
+`q3 i?` SEC children's growth in Spanish receptive vocabulary predicted higher English letter-word identification (t = -2.81) and passage comprehension (t = -3.68) scores than HEC children's; the design is observational and cannot show cause. [→ Davison 2011](#davison-2011)
 
 ## Evidence
 
@@ -36,7 +36,7 @@ Davison, Megan Dunn; Hammer, Carol; Lawrence, Frank R. (2011). Associations betw
 
 `q3 · i?` · `associational · r2`
 
-Group-comparison results from the second-stage growth curve models contrasting Home English Communicators (n = 48) and School English Communicators (n = 33). The article reports that "the children in the HEC group's growth in English receptive vocabulary resulting in higher English passage comprehension scores" and that SEC children's Spanish vocabulary growth produced higher English reading outcomes.
+Group-comparison results from the second-stage growth curve models contrasting Home English Communicators (n = 48) and School English Communicators (n = 33). The article reports that "the children in the HEC group's growth in English receptive vocabulary resulting in higher English passage comprehension scores" and that SEC children's Spanish vocabulary growth statistically predicted higher English letter-word identification and passage comprehension (t = -2.81 and -3.68). The study is an observational longitudinal growth model, so these are predictive associations, not effects of vocabulary growth.
 
 > "Group differences were observed between the HEC and SEC bilingual groups, with the children in the HEC group's growth in English receptive vocabulary resulting in higher English passage comprehension scores (t = 2.76, p ≤ 0.0125) at the end of first grade when compared to the children in the SEC group."
 

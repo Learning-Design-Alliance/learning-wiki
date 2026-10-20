@@ -1,6 +1,7 @@
 ---
 type: product
 id: stella
+moved_from: [element/stella-cost-structure, element/stella-professional-development-program]
 title: STeLLA®
 description: A yearlong professional-development program developed and run by BSCS Science Learning in which science teachers analyze lessons through summer institutes and ongoing study-group sessions.
 product_kind: programme

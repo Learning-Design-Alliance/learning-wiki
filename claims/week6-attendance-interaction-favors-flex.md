@@ -1,7 +1,7 @@
 ---
 type: claim
-title: For students with full week-6 attendance, Flex showed significantly greater gains than Plain on taught-letter alphabetics, decoding, and word reading
-description: For students with full week-6 attendance, Flex showed significantly greater gains than Plain on taught-letter alphabetics, decoding, and word reading
+title: "Only the discussion of the Flex vs. Plain phonics trial reports that, for students with full week-6 attendance, Flex showed greater gains than Plain on taught-letter alphabetics, decoding, and word reading; its results report no treatment differences or interactions"
+description: "Only the discussion of the Flex vs. Plain phonics trial reports that, for students with full week-6 attendance, Flex showed greater gains than Plain on taught-letter alphabetics, decoding, and word reading; its results report no treatment differences or interactions"
 id: week6-attendance-interaction-favors-flex
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 2
 ---
 
-# For students with full week-6 attendance, Flex showed significantly greater gains than Plain on taught-letter alphabetics, decoding, and word reading
+# Only the discussion of the Flex vs. Plain phonics trial reports that, for students with full week-6 attendance, Flex showed greater gains than Plain on taught-letter alphabetics, decoding, and word reading; its results report no treatment differences or interactions
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
-`q3 i?` Among students with 100% attendance in week 6, the Flex treatment demonstrated significantly greater gains than Plain on taught-letter alphabetics, decoding, and word reading. [→ Vadasy 2023](#vadasy-2023)
+`q3 i?` The authors' discussion states that among students with 100% attendance in week 6 the Flex treatment showed significantly greater gains than Plain on taught-letter alphabetics, decoding, and word reading, but the results section and the abstract report no significant treatment differences or treatment interactions, and no moderation by total attendance. [→ Vadasy 2023](#vadasy-2023)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Vadasy, P. F., & Sanders, E. A. (2023). Cognitive flexibility + phonics interven
 
 `q3 · i?` · `causal · r2`
 
-Reported in the discussion of the multilevel gain models, this treatment-by-week-6-attendance interaction favored Flex only among students with full final-week attendance; week 6 attendance was disrupted by Covid-19 school closures. No effect size is printed for the interaction.
+Randomized trial of 57 kindergarteners (Flex n = 29, Plain n = 28). The treatment-by-week-6-attendance interaction appears only in the discussion: the results section of the article (ERIC ED625722) reports "No mean treatment differences were observed, nor were any significant treatment interactions apparent (coefficient test ps > .10)" and that treatment differences did not depend on total tutoring attendance, the published abstract reports no significant differences between conditions in growth in decoding, and no week-6 interaction model or statistic is shown. Week 6 attendance was disrupted by Covid-19 school closures. No effect size is printed for the interaction, so this is the authors' reading rather than a reported result.
 
 > "we found a consistent interaction between treatment type and week 6 attendance (recalling that the last week of attendance was affected by Covid-19): for students with 100% attendance in week 6, the Flex treatment demonstrated significantly greater gains than Plain on taught-letter alphabetics, decoding, and word reading."
 

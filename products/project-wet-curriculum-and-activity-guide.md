@@ -1,6 +1,7 @@
 ---
 type: product
 id: project-wet-curriculum-and-activity-guide
+moved_from: [design/small-team-science-stations]
 title: Project WET Curriculum and Activity Guide
 description: A curriculum of water-education activities developed and distributed by the Project WET Foundation for use by educators in many settings.
 product_kind: curriculum

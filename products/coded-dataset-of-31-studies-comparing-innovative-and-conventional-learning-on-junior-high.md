@@ -1,6 +1,7 @@
 ---
 type: product
 id: coded-dataset-of-31-studies-comparing-innovative-and-conventional-learning-on-junior-high
+moved_from: [element/dataset-31-studies-innovative-learning-problem-solving]
 title: Coded dataset of 31 studies comparing innovative and conventional learning on junior high school mathematics problem-solving ability
 description: A research dataset assembled by Ridwan et al.
 product_kind: dataset

@@ -46,4 +46,4 @@ Univariate logistic regression on baseline RELACHS bullying reports (9.1% bullie
 - [Bullied adolescents are about half as likely to reach the national academic achievement benchmark for their age group two years later](bullying-lower-achievement-benchmark-odds.md) — related
 - [High levels of support from friends protect bullied adolescents from poor academic achievement, but moderate or low friend support does not](high-friend-support-buffers-achievement-effect.md) — related
 - [High family social support is associated with lower odds of depressive symptoms](high-family-support-lower-depression.md) — related
-- [Social support from friends and family does not buffer the effect of bullying on depressive symptoms](social-support-no-buffer-depression.md) — related
+- [In an East London adolescent cohort, adjusting for friend or family support barely changed the association between being bullied and boys' later depressive symptoms, which the authors read as support not being sufficient protection](social-support-no-buffer-depression.md) — related

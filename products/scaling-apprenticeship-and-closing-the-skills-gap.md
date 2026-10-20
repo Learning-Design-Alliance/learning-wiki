@@ -1,6 +1,7 @@
 ---
 type: product
 id: scaling-apprenticeship-and-closing-the-skills-gap
+moved_from: [element/scaling-apprenticeship-skills-gap-grant-programs]
 title: Scaling Apprenticeship and Closing the Skills Gap
 description: Two U.S.
 product_kind: programme

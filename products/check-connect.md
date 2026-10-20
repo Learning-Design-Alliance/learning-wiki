@@ -1,6 +1,7 @@
 ---
 type: product
 id: check-connect
+moved_from: [element/check-and-connect-program]
 title: "Check & Connect"
 description: "Check & Connect is a dropout-prevention programme developed and implemented through monitored student performance, individualized mentoring, case management, and coordinated support from school, family, and community partners."
 product_kind: programme

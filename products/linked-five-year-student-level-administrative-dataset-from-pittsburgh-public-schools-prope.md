@@ -1,6 +1,7 @@
 ---
 type: product
 id: linked-five-year-student-level-administrative-dataset-from-pittsburgh-public-schools-prope
+moved_from: [element/pittsburgh-linked-school-child-welfare-administrative-dataset]
 title: Linked five-year student-level administrative dataset from Pittsburgh Public Schools, Propel Schools, and Allegheny County DHS
 description: A five-year linked student-level administrative dataset assembled by the study team from Pittsburgh Public Schools, Propel Schools, and the Allegheny County Department of Human Services for analyzing and predicting near-term academic risks.
 product_kind: dataset

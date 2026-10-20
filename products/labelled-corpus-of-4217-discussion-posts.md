@@ -1,6 +1,7 @@
 ---
 type: product
 id: labelled-corpus-of-4217-discussion-posts
+moved_from: [element/cognitive-engagement-post-corpus-4217]
 title: Labelled corpus of 4,217 discussion posts
 description: A dataset created by Gorgun et al.
 product_kind: dataset

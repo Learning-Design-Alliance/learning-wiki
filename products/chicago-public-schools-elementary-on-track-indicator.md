@@ -1,6 +1,7 @@
 ---
 type: product
 id: chicago-public-schools-elementary-on-track-indicator
+moved_from: [element/condensed-elementary-on-track-indicator]
 title: Chicago Public Schools Elementary On-Track indicator
 description: A Chicago Public Schools indicator system that classifies elementary students by GPA and attendance thresholds to identify academic and attendance support needs and monitor later educational outcomes, including its four-category Condensed EOT version.
 product_kind: assessment

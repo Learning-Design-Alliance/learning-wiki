@@ -1,6 +1,7 @@
 ---
 type: product
 id: kdd-cup-2010-bridge-to-algebra-dataset
+moved_from: [element/kdd-cup-2010-bridge-to-algebra-dataset]
 title: KDD Cup 2010 Bridge to Algebra dataset
 description: A Carnegie Learning–donated dataset distributed through the PSLC DataShop containing large-scale student interaction records from mathematics curriculum practice for educational data-mining and knowledge-tracing research.
 product_kind: dataset

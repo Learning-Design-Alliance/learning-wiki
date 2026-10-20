@@ -1,6 +1,7 @@
 ---
 type: product
 id: beable-academy
+moved_from: [element/beable-academy-online-pd-program]
 title: Beable Academy
 description: "Beable Academy is Beable's self-paced online professional-development programme for educators, complemented by orientation and ongoing platform support."
 product_kind: programme

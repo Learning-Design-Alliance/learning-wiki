@@ -1,6 +1,7 @@
 ---
 type: product
 id: the-reading-edge
+moved_from: [element/reading-edge-program-element]
 title: The Reading Edge
 description: The Reading Edge is a whole-school cooperative-learning reading programme adapted from Student Team Reading and delivered by classroom teachers during regular language-arts instruction.
 product_kind: programme

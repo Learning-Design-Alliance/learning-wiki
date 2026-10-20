@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: epistemic-network-analysis-ena
+moved_from: [element/epistemic-network-analysis-weighted-density]
 title: Epistemic network analysis (ENA)
 description: Epistemic network analysis (ENA) is a non-parametric analytic method developed for epistemic game data; the article focuses on its social-network based variant.
 status: review

@@ -65,5 +65,5 @@ Experiment 2 (141 participants, dropping prohibited, initial study phase added) 
 - [Global judgments of learning correlate moderately-to-strongly with final test performance in both individual and paired conditions](gjol-test-performance-correlations-both-conditions.md) — related
 - [Individual learners complete more flashcard practice cycles than paired learners, though inconsistently across experiments](individual-learners-complete-more-practice-cycles.md) — related
 - [Requiring overt retrieval eliminates the metacognitive calibration advantage of paired flashcard learning](overt-retrieval-drives-paired-metacognitive-benefit.md) — related
-- [Studying flashcards in pairs raised negative affect in Experiment 1, an effect eliminated by an icebreaker and relaxed feedback rules in Experiment 2](paired-flashcards-negative-affect-icebreaker.md) — related
+- [Studying flashcards in pairs raised negative affect in Experiment 1, but not in Experiment 2, which added an icebreaker and relaxed feedback rules](paired-flashcards-negative-affect-icebreaker.md) — related
 - [Paired flashcard learners drop far fewer flashcards from study than individual learners](paired-flashcards-reduce-card-dropping.md) — related

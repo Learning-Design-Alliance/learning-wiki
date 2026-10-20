@@ -1,6 +1,7 @@
 ---
 type: product
 id: cognitive-tutor
+moved_from: [element/cognitive-tutor-secondary-mathematics-curriculum]
 title: Cognitive Tutor®
 description: A Carnegie Learning curriculum for secondary mathematics that combines textbooks, adaptive software, teacher guides, assessments, and professional development across Algebra, Geometry, and Integrated Math courses.
 product_kind: curriculum

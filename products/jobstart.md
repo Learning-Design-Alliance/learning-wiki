@@ -1,6 +1,7 @@
 ---
 type: product
 id: jobstart
+moved_from: [element/jobstart-program-element]
 title: JOBSTART
 description: JOBSTART is a nonresidential alternative education and occupational-training programme for disadvantaged high school dropouts, combining GED preparation, occupational skills training, support services, and job placement assistance.
 product_kind: programme

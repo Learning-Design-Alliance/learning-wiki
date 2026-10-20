@@ -1,6 +1,7 @@
 ---
 type: product
 id: zearn-math
+moved_from: [element/zearn-math-digital-lessons, element/zearn-professional-development-support]
 title: Zearn Math
 description: Zearn Math is a nonprofit-developed online supplemental K–8 mathematics curriculum and digital learning program used during math instruction, intervention, and tutoring.
 product_kind: curriculum

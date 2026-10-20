@@ -1,6 +1,7 @@
 ---
 type: product
 id: penngse-data-science-methods-for-digital-learning-platforms
+moved_from: [element/penngse-data-science-dlp-certificate]
 title: PennGSE Data Science Methods for Digital Learning Platforms
 description: A 17-week certificate programme run by the University of Pennsylvania Graduate School of Education, Digital Promise, and the University of Florida that provides hands-on training in data-science methods using digital-learning-platform datasets.
 product_kind: programme

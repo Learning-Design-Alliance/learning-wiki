@@ -35,7 +35,7 @@ Blair, Clancy & Raver, C. Cybele. (2015). School Readiness and Self-Regulation: 
 
 `q2 · i?` · `review · r3`
 
-Longitudinal observational analysis from the Family Life Project. The article reports that "parental caregiving partially mediates the effects of poverty on both cortisol and executive function," with lower sensitive parenting associated with higher basal cortisol and lower executive function at age 3 years. No effect size is printed.
+Developmental review (Annual Review of Psychology) summarizing findings from the longitudinal, observational Family Life Project, reported in Blair et al. (2011a); the review is not itself the primary analysis. It reports that "parental caregiving partially mediates the effects of poverty on both cortisol and executive function," with lower sensitive parenting associated with higher basal cortisol and lower executive function at age 3 years. No effect size is printed.
 
 > "Data from the longitudinal study known as the Family Life Project demonstrate that higher levels of poverty and material hardship predict children's self-regulation, as indicated by levels of salivary cortisol as well as by executive function abilities (Blair et al. 2011a)."
 

@@ -1,6 +1,7 @@
 ---
 type: product
 id: collaborative-innovation
+moved_from: [theory/collaborative-innovation-core-tenets, theory/collaborative-innovation-six-phase-rd-model]
 title: Collaborative Innovation
 description: "White's Collaborative Innovation framework organizes collaborative work through four Practice Tenets and two Impact Tenets, with associated phases, protocols, and activities."
 product_kind: framework

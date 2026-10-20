@@ -1,6 +1,7 @@
 ---
 type: product
 id: levels-of-use-interview
+moved_from: [element/lou-focused-branching-interview]
 title: Levels of Use Interview
 description: A focused branching interview developed by Loucks (1977) that assigns overall and category-specific Levels of Use ratings, including Not Doing and No Information classifications.
 product_kind: assessment

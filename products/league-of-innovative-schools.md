@@ -1,6 +1,7 @@
 ---
 type: product
 id: league-of-innovative-schools
+moved_from: [element/league-of-innovative-schools-network, theory/league-innovation-intermediary-theory-change]
 title: League of Innovative Schools
 description: A Digital Promise membership network that brings together school districts for cross-district collaboration, partnerships, professional learning, and sharing of innovative practices.
 product_kind: programme

@@ -35,7 +35,7 @@ Lewis-Morrarty, E., Dozier, M., Bernard, K., Terracciano, S., & Moore, S. (2012)
 
 `q3 · i3` · `causal · r2`
 
-In the Bonferroni-adjusted follow-up contrasts from the same ANCOVA, foster-care control children scored significantly lower than never-fostered comparison children on the post-switch card sort, with a large effect size (d = 1.12), consistent with early adversity impairing set-shifting.
+In the Bonferroni-adjusted follow-up contrasts from the same ANCOVA, foster-care control children scored significantly lower than never-fostered comparison children on the post-switch card sort, with a large effect size (d = 1.12). This contrast is between the randomised foster-care control arm and a separate, non-randomised group of never-fostered children who differed on several demographic variables (the result held when controlling for them), and the authors call the results preliminary; it is a group difference, not evidence that early adversity caused the lower post-switch scores.
 
 > "However, children in the FCC group scored significantly lower on the post-switch task than children in the NFC group (Mcontrast = −1.52, p = .00, CI 95: −2.40, −0.64), and the effect size was large (d = 1.12)."
 

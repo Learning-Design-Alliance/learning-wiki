@@ -1,6 +1,7 @@
 ---
 type: product
 id: ymca-of-silicon-valley-early-math-project
+moved_from: [element/ymca-silicon-valley-early-math-family-engagement-project]
 title: YMCA of Silicon Valley early math project
 description: An early-mathematics family-engagement programme developed and implemented by the YMCA of Silicon Valley and scaled to additional sites with support from the Heising-Simons Foundation.
 product_kind: programme

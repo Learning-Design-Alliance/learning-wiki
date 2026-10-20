@@ -1,6 +1,7 @@
 ---
 type: product
 id: pax-good-behavior-game
+moved_from: [element/pax-good-behavior-game-program, element/pax-good-behavior-game-program-element]
 title: PAX Good Behavior Game
 description: PAX Good Behavior Game is a branded classroom behavior-management programme run by PAXIS Institute that uses team-based behavior monitoring, rewards, teacher training, manuals, timers, and parent materials.
 product_kind: programme

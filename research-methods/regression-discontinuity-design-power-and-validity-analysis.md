@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: regression-discontinuity-design-power-and-validity-analysis
+moved_from: [element/four-published-education-studies-rd-power-basis]
 title: Regression discontinuity design power and validity analysis
 description: The evidence base for this working paper is a set of four previously published education studies whose data were reanalyzed to estimate the statistical power of regression discontinuity designs relative to randomized controlled trials.
 status: review

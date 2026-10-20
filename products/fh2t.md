@@ -1,6 +1,7 @@
 ---
 type: product
 id: fh2t
+moved_from: [element/fh2t-digital-algebra-game, element/fh2t-game-based-algebra-application]
 title: FH2T
 description: From Here to There (FH2T) is a digital game developed as a supplemental learning intervention for middle- and high-school students to practice algebraic expressions and equation solving through direct manipulation of mathematical notation.
 product_kind: software

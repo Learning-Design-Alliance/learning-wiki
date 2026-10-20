@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: trifactor-model
+moved_from: [theory/trifactor-model-multiple-raters-bauer-2013]
 title: trifactor model
 description: The trifactor model is a structural equation modeling approach developed by Bauer et al.
 status: review

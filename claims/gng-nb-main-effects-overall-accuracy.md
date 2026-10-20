@@ -63,5 +63,5 @@ Nebraska Barnyard main effects were significant at 3;9 (γ = .056, p = .036) and
 
 ## Related Claims
 - [Inhibition and working-memory performance are associated with mixing costs (goal representation) at ages 4;6 and 5;3 but not at age 3;9](inhibition-working-memory-mixing-costs-late-preschool.md) — related
-- [Local costs (switch implementation) are unrelated to inhibition and working-memory performance across the preschool ages tested](local-costs-independent-of-inhibition-working-memory.md) — related
+- [Local costs (switch implementation) showed no significant dependence on inhibition or working-memory performance at any of the preschool ages tested](local-costs-independent-of-inhibition-working-memory.md) — related
 - [Significant mixing and local costs are present at each preschool age, with both decreasing in magnitude from age 3;9 to 5;3](mixing-local-costs-present-decrease-with-age.md) — related

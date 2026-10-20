@@ -1,6 +1,7 @@
 ---
 type: product
 id: learning-knowledge-tracing
+moved_from: [element/lkt-r-package-learnsphere-component]
 title: Learning Knowledge Tracing
 description: LKT is a logistic-regression learner-modeling framework released by Philip I.
 product_kind: software

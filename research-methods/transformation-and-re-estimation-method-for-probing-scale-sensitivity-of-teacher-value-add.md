@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: transformation-and-re-estimation-method-for-probing-scale-sensitivity-of-teacher-value-add
+moved_from: [theory/transformation-re-estimation-scale-sensitivity-method]
 title: Transformation-and-re-estimation method for probing scale sensitivity of teacher value added
 description: "The article introduces an approach for testing whether teacher value added depends on the test scale: estimate value added on the original scale, then \"applying extremely mild nonlinear transformations to the original scale and re-estimating the value added.\" Because \"by definition at most one of th"
 status: review

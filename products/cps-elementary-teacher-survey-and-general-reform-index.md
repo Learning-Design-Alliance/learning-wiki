@@ -1,6 +1,7 @@
 ---
 type: product
 id: cps-elementary-teacher-survey-and-general-reform-index
+moved_from: [element/cps-teacher-survey-1991-general-reform-index]
 title: CPS Elementary Teacher Survey and General Reform Index
 description: "A Chicago Public Schools survey and composite reform index developed to measure elementary teachers' views of school governance, work conditions, school quality, instruction, and school reform in 1991."
 product_kind: assessment

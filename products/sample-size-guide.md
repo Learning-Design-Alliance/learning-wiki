@@ -1,6 +1,7 @@
 ---
 type: product
 id: sample-size-guide
+moved_from: [element/sample-size-guide-mathematica]
 title: Sample Size Guide
 description: A Mathematica planning guide prepared for the Gates Foundation that helps education solution developers consider sample-size requirements across design, refinement, early-evidence, and effectiveness-validation phases.
 product_kind: framework

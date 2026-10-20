@@ -1,6 +1,7 @@
 ---
 type: product
 id: readworks
+moved_from: [element/readworks-digital-platform-lps-features, element/readworks-lvp-learner-variability-platform]
 title: ReadWorks
 description: ReadWorks is a nonprofit digital platform that provides K–12 reading articles, comprehension and vocabulary supports, assessments, teacher resources, and accessibility features.
 product_kind: software

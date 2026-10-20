@@ -1,6 +1,7 @@
 ---
 type: product
 id: self-determined-learning-model-of-instruction
+moved_from: [strategy/self-determined-learning-model-of-instruction]
 title: Self-Determined Learning Model of Instruction
 description: A teacher-implemented instructional model developed by Palmer et al.
 product_kind: framework

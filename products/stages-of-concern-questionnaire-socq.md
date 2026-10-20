@@ -1,6 +1,7 @@
 ---
 type: product
 id: stages-of-concern-questionnaire-socq
+moved_from: [element/socq-stages-of-concern-questionnaire, element/stages-of-concern-questionnaire-35-item, element/stages-of-concern-questionnaire-socq]
 title: Stages of Concern Questionnaire (SoCQ)
 description: "A 35-item Likert self-report instrument developed by Loucks and colleagues within the Concerns-Based Adoption Model to measure educators' intensity across seven stages of concern about an educational innovation."
 product_kind: assessment

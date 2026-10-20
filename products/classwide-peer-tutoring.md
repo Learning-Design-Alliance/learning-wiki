@@ -1,6 +1,7 @@
 ---
 type: product
 id: classwide-peer-tutoring
+moved_from: [element/classwide-peer-tutoring-program]
 title: ClassWide Peer Tutoring
 description: A peer-assisted instructional programme in which students tutor one another in structured pairs with immediate feedback, practice, and reinforcement, developed for integration with existing curricula.
 product_kind: programme

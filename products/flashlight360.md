@@ -1,6 +1,7 @@
 ---
 type: product
 id: flashlight360
+moved_from: [element/flashlight360-assessment-tool]
 title: Flashlight360
 description: "Flashlight360 is a browser-based platform for educators and administrators to monitor and assess multilingual students' speaking and writing progress, providing scoring and feedback across defined language-skill areas."
 product_kind: software

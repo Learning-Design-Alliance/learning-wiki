@@ -1,6 +1,7 @@
 ---
 type: product
 id: mindset-kit
+moved_from: [element/free-online-growth-mindset-materials-perts-mindsetkit]
 title: Mindset Kit
 description: Mindset Kit is a free, research-informed set of growth-mindset teaching and intervention materials developed by the Project for Education Research That Scales (PERTS) for educators and institutions.
 product_kind: curriculum

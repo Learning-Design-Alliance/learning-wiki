@@ -1,6 +1,7 @@
 ---
 type: product
 id: open-learning-initiative-oli
+moved_from: [element/oli-cost-structure-maintenance-fees, element/oli-online-courseware-element]
 title: Open Learning Initiative (OLI)
 description: "Open Learning Initiative is Carnegie Mellon University's online courseware and learning-platform project, offering openly available and credit-bearing courses with automated instructional and assessment features."
 product_kind: software

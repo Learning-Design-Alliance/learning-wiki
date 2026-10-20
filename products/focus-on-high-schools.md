@@ -1,6 +1,7 @@
 ---
 type: product
 id: focus-on-high-schools
+moved_from: [element/focus-on-high-schools-initiative-boston]
 title: Focus on High Schools
 description: A Boston Public Schools reform programme that reorganized comprehensive high schools into smaller learning communities and reformed English and language arts programmes.
 product_kind: programme

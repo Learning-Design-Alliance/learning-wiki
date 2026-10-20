@@ -1,6 +1,7 @@
 ---
 type: product
 id: open-learning-analytics-platform
+moved_from: [element/indicator-editor-ssla-tool]
 title: Open Learning Analytics Platform
 description: "An open learning-analytics software platform developed by the article's authors for educational stakeholders to implement, visualize, and integrate learning-analytics indicators."
 product_kind: software

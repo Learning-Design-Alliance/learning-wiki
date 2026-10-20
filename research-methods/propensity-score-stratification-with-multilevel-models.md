@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: propensity-score-stratification-with-multilevel-models
+moved_from: [theory/propensity-stratification-multilevel-quasi-experimental-approach]
 title: Propensity score stratification with multilevel models
 description: When estimating the achievement effects of school transfer or school choice from non-experimental data, the article recommends combining propensity score stratification with multilevel models.
 status: review

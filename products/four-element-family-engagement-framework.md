@@ -1,6 +1,7 @@
 ---
 type: product
 id: four-element-family-engagement-framework
+moved_from: [design/four-elements-family-engagement-framework]
 title: Four-Element Family Engagement Framework
 description: A named family-engagement improvement framework or playbook that organizes work around capacity, process, infrastructure, and outcomes for adoption by schools and education organizations.
 product_kind: framework

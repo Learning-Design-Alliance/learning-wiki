@@ -1,6 +1,7 @@
 ---
 type: principle
 id: modeling
+moved_from: [pattern/merrills-first-principles-demonstration]
 aliases: [model-cmr-through-observable-phenomena]
 title: Modeling
 description: "For a novice on a task whose key decisions a finished product hides, a model that narrates those decisions, studied actively and followed at once by supported practice, is expected to give better unaided performance than the product alone or no model, though no claim here tests live or narrated modelling directly; the evidence is carried from worked examples and self-explanation."

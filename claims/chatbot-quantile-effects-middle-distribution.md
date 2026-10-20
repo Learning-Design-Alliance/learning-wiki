@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Chatbot treatment effects on final grades were concentrated between the 35th and 75th quantiles of the course grade distribution
-description: Chatbot treatment effects on final grades were concentrated between the 35th and 75th quantiles of the course grade distribution
+title: Chatbot treatment effects on final grades were statistically significant between the 35th and 75th quantiles of the course grade distribution and at the 95th
+description: Chatbot treatment effects on final grades were statistically significant between the 35th and 75th quantiles of the course grade distribution and at the 95th
 id: chatbot-quantile-effects-middle-distribution
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 3
 ---
 
-# Chatbot treatment effects on final grades were concentrated between the 35th and 75th quantiles of the course grade distribution
+# Chatbot treatment effects on final grades were statistically significant between the 35th and 75th quantiles of the course grade distribution and at the 95th
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
 
 ## Subclaims
-`q3 i?` Treatment produced statistically significant grade increases between the 35th and 75th quantiles (and at the 95th quantile), indicating the intervention was most impactful for students in the middle of the academic distribution. [→ Meyer 2026](#meyer-2026)
+`q3 i?` Treatment produced statistically significant grade increases between the 35th and 75th quantiles (and at the 95th quantile), indicating the intervention was most impactful for students in the middle of the academic distribution and those at the very top. [→ Meyer 2026](#meyer-2026)
 
 ## Evidence
 

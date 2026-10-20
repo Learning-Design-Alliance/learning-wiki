@@ -1,6 +1,7 @@
 ---
 type: product
 id: northside-achievement-zone-naz
+moved_from: [element/naz-promise-neighborhood-north-minneapolis-site]
 title: Northside Achievement Zone (NAZ)
 description: A place-based Promise Neighborhood initiative serving a defined area of North Minneapolis through coordinated early-childhood, education, and family-support services.
 product_kind: programme

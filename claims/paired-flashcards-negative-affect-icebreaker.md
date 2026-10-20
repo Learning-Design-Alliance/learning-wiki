@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Studying flashcards in pairs raised negative affect in Experiment 1, an effect eliminated by an icebreaker and relaxed feedback rules in Experiment 2
-description: Studying flashcards in pairs raised negative affect in Experiment 1, an effect eliminated by an icebreaker and relaxed feedback rules in Experiment 2
+title: Studying flashcards in pairs raised negative affect in Experiment 1, but not in Experiment 2, which added an icebreaker and relaxed feedback rules
+description: Studying flashcards in pairs raised negative affect in Experiment 1, but not in Experiment 2, which added an icebreaker and relaxed feedback rules
 id: paired-flashcards-negative-affect-icebreaker
 status: review
 generated:
@@ -22,19 +22,19 @@ sources:
     title: "Imundo, M. N., Zung, I., Whatley, M. C., & Pan, S. C. (2024). When Two Learners Are Better Than One: Using Flashcards with a Partner Improves Metacognitive Accuracy. Metacognition and Learning. https://link.springer.com/journal/11409/articles"
     author: "Imundo, M. N., Zung, I., Whatley, M. C., & Pan, S. C."
     q: 3
-    i: "?"
+    i: 0
     kind: causal
     rigour: 3
 ---
 
-# Studying flashcards in pairs raised negative affect in Experiment 1, an effect eliminated by an icebreaker and relaxed feedback rules in Experiment 2
+# Studying flashcards in pairs raised negative affect in Experiment 1, but not in Experiment 2, which added an icebreaker and relaxed feedback rules
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r3` · `q3` · `i2` medium
+> **Evidence** · 1 study (2 entries) · causal `r3` · `q3` · `i0`–`i2`
 
 ## Subclaims
 `q3 i2` In Experiment 1, Paired learners reported significantly higher negative affect than Individual learners (d = 0.50). [→ Imundo 2024](#imundo-2024)
-`q3 i?` In Experiment 2, after adding an icebreaker and allowing brief comments, negative affect no longer differed between conditions. [→ Imundo 2024 (2)](#imundo-2024-2)
+`q3 i0` In Experiment 2, after adding an icebreaker and allowing brief comments, negative affect no longer differed between conditions. [→ Imundo 2024 (2)](#imundo-2024-2)
 
 ## Evidence
 
@@ -52,9 +52,9 @@ Experiment 1's PANAS negative-affect subscale showed paired learners reported "s
 
 Imundo, M. N., Zung, I., Whatley, M. C., & Pan, S. C. (2024). When Two Learners Are Better Than One: Using Flashcards with a Partner Improves Metacognitive Accuracy. Metacognition and Learning. https://link.springer.com/journal/11409/articles
 
-`q3 · i?` · `causal · r3`
+`q3 · i0` · `causal · r3`
 
-Experiment 2, which added a two-minute icebreaker and allowed brief comments between paired learners, found no condition difference in negative affect (d = -0.19, p = .26). The authors attribute this change to those procedural modifications.
+Experiment 2, which added a two-minute icebreaker and allowed brief comments between paired learners, found no condition difference in negative affect (d = -0.19, p = .26). The authors suggest it is possible that these procedural modifications reduced negative affect; the design did not isolate them as the cause.
 
 > "in contrast to Experiment 1, self-reported negative affect also did not differ between Individual learners (M = 14.73, SD = 4.41) and Paired learners (M = 15.54, SD = 3.99), t (130) = -1.13, p = .26, d = -0.19, 95% CI [-2.22, 6.61]."
 

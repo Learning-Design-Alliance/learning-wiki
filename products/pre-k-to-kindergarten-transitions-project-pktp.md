@@ -1,6 +1,7 @@
 ---
 type: product
 id: pre-k-to-kindergarten-transitions-project-pktp
+moved_from: [element/pktp-community-transition-program]
 title: Pre-K to Kindergarten Transitions Project (PKTP)
 description: "A BPI-staffed community-wide programme in Chicago's Altgeld-Riverdale neighborhood that coordinates cross-grade teacher learning, shared pre-K–kindergarten classroom practices, and family learning activities to support educational transitions."
 product_kind: programme

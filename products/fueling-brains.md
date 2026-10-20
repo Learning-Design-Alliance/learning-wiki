@@ -1,6 +1,7 @@
 ---
 type: product
 id: fueling-brains
+moved_from: [element/fueling-brains-prek-executive-function-program]
 title: Fueling Brains
 description: A Fueling Brains early-childhood program that integrates executive-function development, guided and open-ended play, hands-on learning, and ongoing assessment into pre-kindergarten instruction.
 product_kind: programme

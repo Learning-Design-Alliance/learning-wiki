@@ -1,6 +1,7 @@
 ---
 type: product
 id: trial-spanish-language-naep-mathematics-assessment-for-puerto-rico-2003-and-2005
+moved_from: [element/trial-spanish-naep-math-assessment-puerto-rico]
 title: Trial Spanish-language NAEP mathematics assessment for Puerto Rico (2003 and 2005)
 description: A Spanish-language trial version of the National Assessment of Educational Progress mathematics assessment administered by the National Center for Education Statistics to public-school students in grades 4 and 8 in Puerto Rico.
 product_kind: assessment

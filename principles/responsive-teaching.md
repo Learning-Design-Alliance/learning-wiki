@@ -1,6 +1,7 @@
 ---
 type: principle
 id: responsive-teaching
+moved_from: [pattern/cognitively-guided-instruction-cgi-for-math, pattern/just-in-time-teaching]
 aliases: [curricular-knowledge-as-a-resource-for-responsiveness, curriculum-flexibility-for-responsive-student-coaches]
 title: Responsive Teaching
 description: "For learners whose ideas on a concept or principle may diverge from the plan, a teacher who makes their thinking visible, reads it against a prepared model of likely ideas and chooses the next move from it is expected to improve conceptual understanding and near transfer over the same plan delivered unchanged; no claim in the wiki tests this directly."

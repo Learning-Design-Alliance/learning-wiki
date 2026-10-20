@@ -44,7 +44,7 @@ Palladino, P., Trotta, E., Bonvino, A., Carlucci, L., & Cottini, M. (2025). How 
 
 `q3 · i?` · `associational · r2`
 
-A multilevel model for repeated measures on 305 children tested twice, nested in three schools, predicting English vocabulary from metacognition and emotions. The final model explained "73.5% of the total variance (R²c)". Metacognitive control had the larger estimate (2.01) versus confidence judgments (0.38).
+A multilevel model for repeated measures on children tested twice, nested in three schools (305 children in the sample; the final model's table reports N = 275 children and 415 observations), predicting English vocabulary from metacognition and emotions. The final model explained "73.5% of the total variance (R²c)". Metacognitive control had the larger estimate (2.01) versus confidence judgments (0.38).
 
 > "Both confidence judgments ( t(415) = 2.60, p =.010) and metacognitive control ( t(415) = 3.75, p = < 0.001) were found to predict English vocabulary performance from T0 to T1."
 
@@ -63,7 +63,7 @@ An additional hierarchical regression checked whether metacognitive measures pre
 
 ## Related Claims
 - [Over six months, English vocabulary, relative monitoring accuracy and metacognitive control improved, and boredom increased, while enjoyment and anxiety showed no significant change](developmental-changes-l2-metacognition-emotions-t0-t1.md) — related
-- [English vocabulary correlates with metacognitive monitoring and control at both time points, but only with the negative emotions boredom and anxiety at T1](l2-vocabulary-correlates-metacognition-negative-emotions.md) — related
-- [Better metacognitive monitoring and control at the start of the year predict lower boredom and anxiety about English at year's end](early-metacognition-predicts-later-negative-emotions.md) — related
+- [English vocabulary correlates with confidence and metacognitive control at both time points but with monitoring accuracy only at T0, and with only the negative emotions boredom and anxiety at T1](l2-vocabulary-correlates-metacognition-negative-emotions.md) — related
+- [Better metacognitive monitoring and control at the start of the year are correlated with lower boredom and anxiety about English at year's end](early-metacognition-predicts-later-negative-emotions.md) — related
 - [Boredom is the only achievement emotion predicting English vocabulary growth in primary school L2 learners; enjoyment and anxiety show no significant effect](boredom-predicts-l2-vocabulary-growth.md) — related
 - [Metacognitive efficiency at Grade 1 predicts children's performance improvement 10 months later in both a linguistic and a non-linguistic task](metacognitive-efficiency-predicts-longitudinal-learning.md) — related

@@ -1,6 +1,7 @@
 ---
 type: product
 id: erwc
+moved_from: [design/erwc-instructional-focus-pattern, element/erwc-professional-learning-coaching, element/erwc-program-element]
 title: ERWC
 description: "The Expository Reading and Writing Course is a curriculum and associated teacher professional-learning and coaching programme developed and implemented to support secondary students' expository reading and writing."
 product_kind: curriculum

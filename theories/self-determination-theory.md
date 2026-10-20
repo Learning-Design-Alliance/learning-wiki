@@ -12,6 +12,7 @@ sources:
     resource: "https://doi.org/10.1207/S15327965PLI1104_01"
     title: "Deci, E. L., & Ryan, R. M. (2000). The \"what\" and \"why\" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227-268"
     author: "Deci, E. L., & Ryan, R. M"
+moved_from: [principle/self-determination-theory]
 ---
 
 # Self-Determination Theory

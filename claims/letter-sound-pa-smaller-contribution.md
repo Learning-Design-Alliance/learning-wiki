@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Letter-sound knowledge and phonological awareness contribute to letter writing but substantially less than letter-name knowledge
-description: Letter-sound knowledge and phonological awareness contribute to letter writing but substantially less than letter-name knowledge
+title: Letter-sound knowledge and phonological awareness are associated with letter writing, but much less strongly than letter-name knowledge
+description: Letter-sound knowledge and phonological awareness are associated with letter writing, but much less strongly than letter-name knowledge
 id: letter-sound-pa-smaller-contribution
 status: review
 generated:
@@ -27,13 +27,13 @@ sources:
     rigour: 2
 ---
 
-# Letter-sound knowledge and phonological awareness contribute to letter writing but substantially less than letter-name knowledge
+# Letter-sound knowledge and phonological awareness are associated with letter writing, but much less strongly than letter-name knowledge
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q1`–`q3`
 
 ## Subclaims
-`q3 i?` For 5-year-olds, letter-sound knowledge raised the probability of correct writing from 50% to 60%, a smaller gain than letter-name knowledge. [→ Puranik Cynthia S. 2014](#puranik-cynthia-s-2014)
+`q3 i?` For 5-year-olds, knowing a letter's sound was associated with a higher predicted probability of writing it correctly (60% against 50%), a smaller difference than for letter-name knowledge; the cross-sectional data cannot show cause. [→ Puranik Cynthia S. 2014](#puranik-cynthia-s-2014)
 `q3 i?` The authors interpret that writing letters in isolation does not appear to require sensitivity to sounds in words. [→ Puranik Cynthia S. 2014 (2)](#puranik-cynthia-s-2014-2)
 
 ## Evidence
@@ -44,7 +44,7 @@ Puranik Cynthia S., Petscher Yaacov, Lonigan Christopher J. (2014). Learning to 
 
 `q3 · i?` · `associational · r2`
 
-Model 5 fixed effects for 5-year-olds. Letter-sound knowledge was significant but the probability gain (50% to 60%) was smaller than for letter-name knowledge; no standardized effect size is printed.
+Model 5 fixed effects for 5-year-olds in a cross-sectional item-response analysis. Letter-sound knowledge was significantly associated with correct writing, but the predicted-probability difference (50% to 60%) was smaller than for letter-name knowledge (50% to 82%); no standardized effect size is printed. The authors note the data do not show the direction of the effect or a causal relation.
 
 > "Similarly, letter-sound knowledge was related to correct writing, t(2645) = 2.67, p < .01, resulting in an increase in the probability of correct writing from 50% to 60%."
 

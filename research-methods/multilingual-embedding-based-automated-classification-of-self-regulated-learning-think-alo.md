@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: multilingual-embedding-based-automated-classification-of-self-regulated-learning-think-alo
+moved_from: [element/text-embedding-3-small-srl-detection-pipeline]
 title: Multilingual embedding-based automated classification of self-regulated-learning think-aloud utterances
 description: "The pipeline vectorizes English and German think-aloud utterances with OpenAI's text-embedding-3-small, \"a pre- trained sentence embedding model that converts textual input into a high-dimensional vector with a length of 1,536\"."
 status: review

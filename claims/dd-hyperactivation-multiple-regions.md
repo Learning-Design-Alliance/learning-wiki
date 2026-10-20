@@ -49,7 +49,7 @@ Whole-brain block-design fMRI ANOVA main effect of Group in 16 DD and 20 TD chil
 ## Related Claims
 - [Correct and incorrect subtraction trials produce similar robust brain activity in DD children, indicating aberrant activation is not driven by error processing](dd-correct-incorrect-trials-similar-activation.md) — related
 - [DD children fail to disengage the default mode network during demanding arithmetic, showing aberrant coupling with task-positive IPS regions](dd-failure-disengage-dmn-arithmetic.md) — related
-- [DD children show operation-specific hyperactivation: greater IPS, superior parietal lobule and fusiform activity during subtraction but not addition](dd-subtraction-specific-parietal-hyperactivation.md) — reports the opposite
+- [DD children show operation-specific hyperactivation: greater IPS, superior parietal lobule and fusiform activity during subtraction, while during addition only the right superior parietal lobule differs (lower in DD)](dd-subtraction-specific-parietal-hyperactivation.md) — reports the opposite
 - [Children with DD show hyper-connectivity, not reduced connectivity, between the IPS and fronto-parietal and default mode networks during arithmetic](dd-ips-hyperconnectivity-fronto-parietal-dmn.md) — related
 - [Children with developmental dyscalculia are disproportionately impaired on subtraction accuracy relative to addition, showing a significant group × operation interaction](dd-subtraction-accuracy-deficit-interaction.md) — related
 - [Math achievement correlates with ventral occipital-temporal NRE in both children and adults, with children relying on extrastriate and adults on anterior higher-order visual regions](vot-nre-achievement-developmental-reorganization.md) — related

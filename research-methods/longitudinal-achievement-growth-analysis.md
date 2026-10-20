@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: longitudinal-achievement-growth-analysis
+moved_from: [element/mathematica-value-added-approach-oklahoma-tle, element/student-level-value-added-regression-model, theory/growth-norms-sensitive-to-summer-breaks, theory/learning-productivity-measurement-system-framework, theory/value-added-academic-productivity-indicator-ccsr]
 title: Longitudinal achievement growth analysis
 description: This principle holds that educators and researchers should use longitudinal data analysis to track how academic achievement for DHH students progresses over time.
 status: review

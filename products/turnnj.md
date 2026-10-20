@@ -1,6 +1,7 @@
 ---
 type: product
 id: turnnj
+moved_from: [element/turnnj-whole-school-turnaround-project]
 title: TurnNJ
 description: "TurnNJ is Uncommon Schools' whole-school turnaround programme, implemented in schools in Camden and Newark to extend its school-improvement model to existing schools."
 product_kind: programme

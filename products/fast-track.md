@@ -1,6 +1,7 @@
 ---
 type: product
 id: fast-track
+moved_from: [element/fast-track-comprehensive-conduct-problem-intervention]
 title: Fast Track
 description: Fast Track is a comprehensive, longitudinal intervention developed by the Conduct Problems Prevention Research Group to support children at risk for conduct problems through coordinated academic, behavioral, social, peer, and family services.
 product_kind: programme

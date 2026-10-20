@@ -1,6 +1,7 @@
 ---
 type: product
 id: d3js
+moved_from: [element/javascript-d3-module-development-technology]
 title: d3.js
 description: An open-source JavaScript library maintained by the D3 community for binding data to web documents and producing interactive visualizations such as charts, network graphs, and maps.
 product_kind: software

@@ -1,6 +1,7 @@
 ---
 type: product
 id: parentcorps
+moved_from: [design/parentcorps-three-component-model, element/parentcorps-portal-element, element/parentcorps-program-element]
 title: ParentCorps
 description: ParentCorps is a family-engagement and social-emotional learning program that equips early-childhood educators and families through structured professional development, materials, and facilitator support, including the ParentCorps Portal.
 product_kind: programme

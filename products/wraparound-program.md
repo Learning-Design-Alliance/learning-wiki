@@ -1,6 +1,7 @@
 ---
 type: product
 id: wraparound-program
+moved_from: [design/low-ratio-structured-supplemental-services]
 title: Wraparound program
 description: The Wraparound program is a structured supplemental academic-services programme run by its provider to support academic achievement in a low student-to-teacher-ratio setting.
 product_kind: programme

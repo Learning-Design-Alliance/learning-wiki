@@ -28,7 +28,7 @@ Create a low-stress environment is the element of designing routines, norms, and
 - [Student-centered writing environments are argued to lower anxiety, increase confidence, and provide natural language contexts](../claims/student-centered-environments-lower-anxiety-increase-confidence.md) [+W]
 - [AI reduces foreign language anxiety and strengthens self-efficacy and self-confidence, supporting the Affective Foundation Pathway](../claims/ai-reduces-fl-anxiety-private-practice.md) [+M]
 - [Strong early-warning monitoring systems paired with strong norms and routines help students recover emotionally and engage academically](../claims/early-warning-systems-norms-routines-support-recovery.md) [~W]
-- [Studying flashcards in pairs raised negative affect in Experiment 1, an effect eliminated by an icebreaker and relaxed feedback rules in Experiment 2](../claims/paired-flashcards-negative-affect-icebreaker.md) [+W]
+- [Studying flashcards in pairs raised negative affect in Experiment 1, but not in Experiment 2, which added an icebreaker and relaxed feedback rules](../claims/paired-flashcards-negative-affect-icebreaker.md) [+W]
 - [Lower-than-average math ability, low working memory capacity, susceptibility to public embarrassment, and a nonsupportive teacher are proposed risk factors for developing math anxiety](../claims/risk-factors-for-developing-math-anxiety.md) [~W]
 
 ## The evidence by question

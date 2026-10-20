@@ -1,6 +1,7 @@
 ---
 type: product
 id: stem-tastic-adventures
+moved_from: [element/stemtastic-adventures-app]
 title: STEM-tastic Adventures
 description: A free mobile app developed through a National Science Foundation-funded co-design project with preschool teachers and families to provide children ages 3–5 with playful computational-thinking and STEM learning activities.
 product_kind: software

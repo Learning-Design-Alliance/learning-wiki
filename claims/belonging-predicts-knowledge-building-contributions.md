@@ -36,7 +36,7 @@ McElhaney, K. W., & Kamdar, D. (2024). Updated summary and synthesis of OpenSciE
 
 `q3 · i?` · `review · r2`
 
-The review reports, citing Penuel et al. (2024), mixed-effects models analyzing 10,194 student exit-ticket responses from 146 classrooms. Only significance and a relative effect statement are printed; no standardized effect size is given, so impact is null.
+The review reports, citing Penuel et al. (2024), mixed-effects models analyzing 10,194 student exit-ticket responses from 146 classrooms. The associations were significant at both levels, but only significance and a relative effect statement are printed; with no standardized effect size, the impact code is `i?` (magnitude not reported), not a null effect. The models are associational and do not show that belonging causes contributions.
 
 > "The analysis indicated that belonging was a significant predictor at both the student and teacher levels with the teacher level having approximately half of the effect of student-level belongingness."
 

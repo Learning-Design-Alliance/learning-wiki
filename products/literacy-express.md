@@ -1,6 +1,7 @@
 ---
 type: product
 id: literacy-express
+moved_from: [element/literacy-express-curriculum, element/literacy-express-professional-development]
 title: Literacy Express
 description: A preschool curriculum package for three- to five-year-old children that integrates oral language, emergent literacy, mathematics, science, general knowledge, and socioemotional development through thematic units and daily group activities.
 product_kind: curriculum

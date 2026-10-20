@@ -1,6 +1,7 @@
 ---
 type: product
 id: 2007-cps-avid-student-and-teacher-survey-with-individualized-school-reports
+moved_from: [element/avid-cps-2007-student-survey-report]
 title: 2007 CPS AVID student and teacher survey with individualized school reports
 description: A CCSR-developed survey and school-reporting instrument used with Chicago Public Schools AVID students and teachers to measure program experiences and compare participating schools.
 product_kind: assessment

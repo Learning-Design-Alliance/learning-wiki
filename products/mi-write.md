@@ -1,6 +1,7 @@
 ---
 type: product
 id: mi-write
+moved_from: [element/mi-write-automated-writing-feedback-tool]
 title: MI Write
 description: "MI Write is Measurement Incorporated's automated writing assessment and feedback software used by schools to support writing instruction and student revision."
 product_kind: software

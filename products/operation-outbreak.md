@@ -1,6 +1,7 @@
 ---
 type: product
 id: operation-outbreak
+moved_from: [element/operation-outbreak-experiential-simulation]
 title: Operation Outbreak
 description: Operation Outbreak is a hybrid educational disease-transmission simulation programme that uses a Bluetooth-enabled mobile application and live social interaction to help students investigate contagion and public-health concepts.
 product_kind: programme

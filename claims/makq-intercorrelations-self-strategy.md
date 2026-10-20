@@ -35,7 +35,7 @@ Mulvihill, A., Matthews, N., Chidley, K., Macmahon, S., Armitage, K. L., Sherloc
 
 `q2 · i3` · `design · r2`
 
-Pearson correlations among the three MAKQ dimensions in Study One (N = 293), all statistically significant. The authors interpret that the components "likely reflect related, but partially independent features"; r = .56, .26, .18 as printed, with r = .56 exceeding the |r| ≥ .37 threshold.
+Pearson correlations among the three MAKQ dimensions in Study One (N = 293), all statistically significant. The authors interpret that the components "likely reflect related, but partially independent features"; r = .56, .26, .18 as printed. The article applies no threshold; the `i3` code is this wiki's reading of r = .56 on its impact scale, not the authors'.
 
 > "Meta-attention monitoring was moderately correlated with meta-attention control (r =.56, p <.001). Meta-attention strategy knowledge was weakly correlated with meta-attention control ( r =.26, p <.001) and meta-attention monitoring ( r =.18, p =.002)."
 

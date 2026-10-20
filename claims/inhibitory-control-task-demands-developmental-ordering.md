@@ -44,4 +44,4 @@ Comparative reading of the meta-analytic useful age ranges (Fig. 4) across the f
 
 ## Related Claims
 - [Adolescents showed faster, more accurate, and less variable performance than children, with reward effects on inhibition accuracy differing by age](age-differences-in-inhibition-and-reward-response.md) — related
-- [Local costs (switch implementation) are unrelated to inhibition and working-memory performance across the preschool ages tested](local-costs-independent-of-inhibition-working-memory.md) — related
+- [Local costs (switch implementation) showed no significant dependence on inhibition or working-memory performance at any of the preschool ages tested](local-costs-independent-of-inhibition-working-memory.md) — related

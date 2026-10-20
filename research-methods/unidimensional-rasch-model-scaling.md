@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: unidimensional-rasch-model-scaling
+moved_from: [theory/rasch-unidimensional-scaling-rit-map]
 title: Unidimensional Rasch model scaling
 description: All MAP tests assume a single latent achievement factor and are scaled on the unidimensional Rasch model with the RIT scale, linearly transformed from logits (RIT = logit x 10 + 200).
 status: review
@@ -33,7 +34,7 @@ All MAP tests assume a single latent achievement factor and are scaled on the un
 - [Average on-grade and all-grade item difficulty estimates differ by less than 0.1 logit for MAP Growth items](../claims/map-growth-ongrade-allgrade-mean-difference-under-01-logit.md) [+W]
 - [Rescoring with new item parameters changed average ability estimates negligibly, with new and original scores correlated above 0.99](../claims/drift-impact-ability-estimates-negligible.md) [+W]
 - [For items aligned to multiple target grades, difficulty estimates from different on-grade calibration samples differ negligibly, at most 0.1 logit on average](../claims/map-growth-multi-grade-items-negligible-differences.md) [~W]
-- [Item difficulty estimates from target-plus-adjacent-grade samples differ no more from original estimates than on-grade estimates do, with a largest average difference of 0.05 logit](../claims/map-growth-three-grade-calibration-comparable-to-original.md) [~W]
+- [Item difficulty estimates from target-plus-adjacent-grade samples generally differ from original estimates about as much as on-grade estimates do, with mean differences within 0.11 logit](../claims/map-growth-three-grade-calibration-comparable-to-original.md) [~W]
 - [Point measure correlations were unchanged by the difficulty adjustment because the new person ability estimates are linear transformations of the old ones](../claims/map-k2-point-measure-correlations-unchanged.md) [~W]
 
 ## Related Research Methods

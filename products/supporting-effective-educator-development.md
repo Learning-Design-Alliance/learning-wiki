@@ -1,6 +1,7 @@
 ---
 type: product
 id: supporting-effective-educator-development
+moved_from: [element/seed-one-on-one-partnerships]
 title: Supporting Effective Educator Development
 description: A U.S.
 product_kind: framework

@@ -1,6 +1,7 @@
 ---
 type: product
 id: teachers-involve-parents-in-schoolwork
+moved_from: [element/tips-interactive-homework-program]
 title: Teachers Involve Parents in Schoolwork
 description: Teachers Involve Parents in Schoolwork (TIPS) is a researcher- and educator-designed partnership programme that engages families through teacher-assigned interactive homework across grade levels and subjects.
 product_kind: programme

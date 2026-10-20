@@ -1,6 +1,7 @@
 ---
 type: product
 id: inksurvey
+moved_from: [element/inksurvey-pen-enabled-brainstorming, element/inksurvey-tablet-formative-assessment]
 title: InkSurvey
 description: InkSurvey is free, web-based software developed for educators that collects keyed or digital-ink student responses in real time and enables anonymous display to a class.
 product_kind: software

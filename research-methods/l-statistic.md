@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: l-statistic
+moved_from: [theory/l-star-modified-transition-metric]
 title: "L* statistic"
 description: "L* is a modified version of D'Mello's L statistic intended for use when self-transitions are excluded."
 status: review

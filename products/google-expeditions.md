@@ -1,6 +1,7 @@
 ---
 type: product
 id: google-expeditions
+moved_from: [element/google-expeditions-pioneer-program]
 title: Google Expeditions
 description: A Google programme that supplied schools with virtual-reality field-trip kits, content, equipment, and teacher training for conducting virtual expeditions.
 product_kind: programme

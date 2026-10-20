@@ -1,6 +1,7 @@
 ---
 type: product
 id: sdt-based-chinese-language-esp-motivation-questionnaire-adapted-llos-iea
+moved_from: [element/sdt-esp-motivation-questionnaire]
 title: SDT-based Chinese-language ESP motivation questionnaire (adapted LLOS-IEA)
 description: "A 23-item Chinese-language Likert questionnaire adapted by Liu (2016) from Noels's LLOS-IEA to measure seven self-determined motivation subtypes among Chinese college students studying English for Specific Purposes."
 product_kind: assessment

@@ -9,9 +9,9 @@ generated:
   at: 2026-10-17
 evidence_strength: moderate
 sources:
-  - id: alberto-quilez-robres-2020
+  - id: alberto-quilez-robres-2021
     resource: "https://doi.org/10.1016/j.stueduc.2021.101020"
-    title: "Alberto Quilez-Robres, Alejandro González-Andrade, Zaira Ortega and Sandra Santiago-Ramajo. (2020). Intelligence Quotient, short-term memory and study habits as academic achievement predictors of elementary school: a follow-up study. https://doi.org/10.1016/j.stueduc.2021.101020"
+    title: "Alberto Quilez-Robres, Alejandro González-Andrade, Zaira Ortega and Sandra Santiago-Ramajo. (2021). Intelligence Quotient, short-term memory and study habits as academic achievement predictors of elementary school: a follow-up study. https://doi.org/10.1016/j.stueduc.2021.101020"
     author: Alberto Quilez-Robres, Alejandro González-Andrade, Zaira Ortega and Sandra Santiago-Ramajo
     q: 3
     i: 3
@@ -25,13 +25,13 @@ sources:
 > **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
-`q3 i3` All three predictor variables show statistically significant positive Pearson correlations with achievement in both school years (p<.01), with IQ showing the strongest coefficients (r = .543 in 3rd grade; r = .656 in 4th grade). [→ Alberto Quilez-Robres 2020](#alberto-quilez-robres-2020)
+`q3 i3` All three predictor variables show statistically significant positive Pearson correlations with achievement in both school years (p<.01), with study habits strongest in 3rd grade (r = .658, against IQ r = .543) and IQ strongest in 4th grade (r = .656, against study habits r = .491). [→ Alberto Quilez-Robres 2021](#alberto-quilez-robres-2021)
 
 ## Evidence
 
-### Alberto Quilez-Robres 2020
+### Alberto Quilez-Robres 2021
 
-Alberto Quilez-Robres, Alejandro González-Andrade, Zaira Ortega and Sandra Santiago-Ramajo. (2020). Intelligence Quotient, short-term memory and study habits as academic achievement predictors of elementary school: a follow-up study. https://doi.org/10.1016/j.stueduc.2021.101020
+Alberto Quilez-Robres, Alejandro González-Andrade, Zaira Ortega and Sandra Santiago-Ramajo. (2021). Intelligence Quotient, short-term memory and study habits as academic achievement predictors of elementary school: a follow-up study. https://doi.org/10.1016/j.stueduc.2021.101020
 
 `q3 · i3` · `associational · r2`
 

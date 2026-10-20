@@ -1,6 +1,7 @@
 ---
 type: product
 id: essential-0-5-survey
+moved_from: [element/early-education-essentials-surveys]
 title: Essential 0-5 Survey
 description: The Essential 0-5 Survey, created in partnership with Start Early, gathers teacher and parent perceptions to assess six organizational conditions in early-childhood education programs and provide leaders with actionable data.
 product_kind: assessment

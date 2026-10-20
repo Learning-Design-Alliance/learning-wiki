@@ -1,6 +1,7 @@
 ---
 type: product
 id: map-growth-interim-computer-adaptive-assessment-system
+moved_from: [element/cbe-test-models-guidelines-constraints]
 title: MAP Growth interim computer adaptive assessment system
 description: "NWEA's MAP Growth interim computer-adaptive assessment system delivers variable-length assessments several times a year and uses adaptive item selection and scoring to measure student achievement and growth."
 product_kind: assessment

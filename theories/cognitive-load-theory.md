@@ -28,6 +28,7 @@ sources:
     resource: "https://doi.org/10.4324/9781315113210"
     title: "van Merriënboer, J. J. G., & Kirschner, P. A. (2018). *Ten steps to complex learning* (3rd ed.). Routledge"
     author: "van Merriënboer, J. J. G., & Kirschner, P. A"
+moved_from: [pattern/cognitive-load-theory]
 ---
 
 # Cognitive Load Theory

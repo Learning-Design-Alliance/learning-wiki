@@ -1,6 +1,7 @@
 ---
 type: product
 id: model-of-essential-supports-for-student-learning
+moved_from: [theory/essential-supports-framework-annenberg-assessment, theory/model-essential-supports-student-learning]
 title: Model of Essential Supports for Student Learning
 description: A school-improvement framework developed by the Consortium on Chicago School Research that organizes seven organizational capacities and practices intended to support ambitious student learning.
 product_kind: framework

@@ -1,6 +1,7 @@
 ---
 type: product
 id: casel-5
+moved_from: [theory/casel-5-competency-taxonomy]
 title: CASEL 5
 description: "A framework developed by the Collaborative for Academic, Social, and Emotional Learning (CASEL) that organizes social and emotional competence into five interrelated areas: self-awareness, self-management, social awareness, relationship skills, and responsible decision-making."
 product_kind: framework

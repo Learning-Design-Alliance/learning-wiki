@@ -1,6 +1,7 @@
 ---
 type: product
 id: abbreviated-acceptability-rating-profile-aarp
+moved_from: [element/aarp-acceptability-rating-profile]
 title: Abbreviated Acceptability Rating Profile (AARP)
 description: The AARP is an eight-item Likert-scaled assessment developed by Tarnowski and Simonian to measure the acceptability of treatments.
 product_kind: assessment

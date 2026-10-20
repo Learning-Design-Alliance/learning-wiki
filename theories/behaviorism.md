@@ -7,6 +7,7 @@ status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29
+moved_from: [principle/behaviorism, principle/reinforcement-theory]
 ---
 
 # Behaviorism

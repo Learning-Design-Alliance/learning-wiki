@@ -1,6 +1,7 @@
 ---
 type: product
 id: regular-upward-bound-program
+moved_from: [element/regular-upward-bound-program]
 title: Regular Upward Bound program
 description: A federally funded U.S.
 product_kind: programme

@@ -1,6 +1,7 @@
 ---
 type: product
 id: waterford-upstart
+moved_from: [element/waterford-early-learning-adaptive-software, element/waterford-upstart-program]
 title: Waterford Upstart
 description: "Waterford Upstart is Waterford.org's home-based early-learning programme that uses Waterford Early Learning software to provide adaptive reading, mathematics, and science instruction to young children."
 product_kind: programme

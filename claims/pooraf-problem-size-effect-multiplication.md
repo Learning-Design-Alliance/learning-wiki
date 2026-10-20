@@ -49,5 +49,5 @@ An ANOVA with problem size and group on multiplication task RTs. Both main effec
 ## Related Claims
 - [PoorAF and control children do not differ in error rates on the multiplication task, indicating the problems were not too difficult](pooraf-error-rates-comparable-multiplication.md) — related
 - [PoorAF children do not differ from controls on tasks retrieving semantic information (words, objects, countries) or verbal routines (proverbs)](pooraf-no-deficit-semantic-verbal-tasks.md) — related
-- [PoorAF and control children do not differ in perceptual processing speed](pooraf-no-perceptual-speed-deficit.md) — related
+- [Fourth graders with poor arithmetic-fact abilities (PoorAF) and matched controls did not differ on a perceptual shape-matching speed task](pooraf-no-perceptual-speed-deficit.md) — related
 - [Children with poor arithmetic fact abilities are significantly slower than matched controls only on the multiplication selection task](pooraf-slower-only-multiplication-task.md) — related

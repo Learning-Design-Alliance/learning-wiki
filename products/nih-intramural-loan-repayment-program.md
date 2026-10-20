@@ -1,6 +1,7 @@
 ---
 type: product
 id: nih-intramural-loan-repayment-program
+moved_from: [element/nih-intramural-loan-repayment-programs, element/nih-intramural-research-loan-repayment-program]
 title: NIH Intramural Loan Repayment Program
 description: A set of National Institutes of Health loan-repayment programmes run by NIH to attract and retain biomedical researchers in its intramural laboratories and clinics.
 product_kind: programme

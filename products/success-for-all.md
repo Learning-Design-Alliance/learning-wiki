@@ -1,6 +1,7 @@
 ---
 type: product
 id: success-for-all
+moved_from: [design/sfa-regrouped-reading-block-sequenced-literacy, element/success-for-all-program-element, element/success-for-all-whole-school-reform-model]
 title: Success for All
 description: Success for All is a comprehensive K–5 school reform and reading programme developed and operated by the Success for All Foundation for schools serving students at risk of reading difficulty.
 product_kind: programme

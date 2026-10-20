@@ -1,6 +1,7 @@
 ---
 type: product
 id: six-tool-starter-set-for-state-and-district-evidence-based-improvement
+moved_from: [design/evidence-based-improvement-six-tool-set]
 title: Six-Tool Starter Set for State and District Evidence-Based Improvement
 description: A modifiable six-tool framework produced for state and district education agencies to examine improvement practices and select evidence-based interventions.
 status: review

@@ -1,6 +1,7 @@
 ---
 type: product
 id: michigan-multi-tiered-system-of-supports
+moved_from: [theory/mimtss-seven-key-elements-tier2-reading]
 title: Michigan Multi-Tiered System of Supports
 description: A framework developed and supported by the Michigan Multi-Tiered System of Supports Technical Assistance Center for designing and implementing Tier 2 academic and behavioral supports, including reading interventions.
 product_kind: framework

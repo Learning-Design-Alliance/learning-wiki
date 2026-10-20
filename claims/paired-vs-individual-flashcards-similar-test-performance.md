@@ -47,6 +47,6 @@ Experiment 1's final cued-recall test (40 GRE word-definition pairs, 5-min delay
 
 ## Related Claims
 - [Individual learners complete more flashcard practice cycles than paired learners, though inconsistently across experiments](individual-learners-complete-more-practice-cycles.md) — related
-- [Studying flashcards in pairs raised negative affect in Experiment 1, an effect eliminated by an icebreaker and relaxed feedback rules in Experiment 2](paired-flashcards-negative-affect-icebreaker.md) — related
+- [Studying flashcards in pairs raised negative affect in Experiment 1, but not in Experiment 2, which added an icebreaker and relaxed feedback rules](paired-flashcards-negative-affect-icebreaker.md) — related
 - [In Experiment 3, individual learners showed greater forgetting over 24 hours than paired learners](condition-by-delay-interaction-experiment-3.md) — related
 - [Global judgments of learning correlate moderately-to-strongly with final test performance in both individual and paired conditions](gjol-test-performance-correlations-both-conditions.md) — related

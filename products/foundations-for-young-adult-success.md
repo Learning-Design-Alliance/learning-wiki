@@ -1,6 +1,7 @@
 ---
 type: product
 id: foundations-for-young-adult-success
+moved_from: [theory/ten-developmental-experiences-arts-framework]
 aliases: [foundations-for-young-adult-success-a-developmental-framework]
 title: Foundations for Young Adult Success
 description: "A UChicago Consortium framework that organizes developmental conditions and experiences supporting young people's successful transition to adulthood."

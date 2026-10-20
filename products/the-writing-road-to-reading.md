@@ -1,6 +1,7 @@
 ---
 type: product
 id: the-writing-road-to-reading
+moved_from: [element/spalding-writing-road-to-reading-program]
 title: The Writing Road to Reading
 description: "Spalding's The Writing Road to Reading is a comprehensive K–6 speech-to-print literacy curriculum developed and provided by Spalding Education International, integrating explicit instruction in phonemic awareness, phonics, spelling, writing, and reading comprehension."
 product_kind: curriculum

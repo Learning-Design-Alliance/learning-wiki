@@ -1,6 +1,7 @@
 ---
 type: product
 id: college-experiences-survey
+moved_from: [element/college-experiences-survey]
 title: College Experiences Survey
 description: "A survey instrument used in a larger evaluation of college persistence to collect data about students' college experiences, as reported by David DesRoches et al."
 product_kind: assessment

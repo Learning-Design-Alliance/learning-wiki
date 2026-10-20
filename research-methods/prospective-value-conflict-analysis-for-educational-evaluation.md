@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: prospective-value-conflict-analysis-for-educational-evaluation
+moved_from: [principle/use-taxonomy-before-starting-evaluation]
 title: Prospective value-conflict analysis for educational evaluation
 description: The article recommends that evaluators apply the value-conflict taxonomy prospectively rather than only retrospectively.
 status: review

@@ -1,6 +1,7 @@
 ---
 type: product
 id: kindertek
+moved_from: [element/kindertek-ipad-kindergarten-math-intervention]
 title: KinderTEK
 description: KinderTEK is an iPad-delivered mathematics intervention for kindergarten students developed and studied by Lina Shanley and colleagues.
 product_kind: programme

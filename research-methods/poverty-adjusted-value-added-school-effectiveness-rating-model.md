@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: poverty-adjusted-value-added-school-effectiveness-rating-model
+moved_from: [theory/poverty-adjusted-school-effectiveness-rating-model]
 title: Poverty-adjusted value-added school effectiveness rating model
 description: "A model that rates each school's effectiveness by regressing average school test scores on school poverty level and standardizing the residuals."
 status: review

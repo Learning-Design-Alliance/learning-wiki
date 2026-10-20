@@ -1,6 +1,7 @@
 ---
 type: product
 id: 95-phonics-core-program
+moved_from: [element/95-phonics-core-program-element]
 title: 95 Phonics Core Program
 description: A whole-class, Tier I supplemental phonics curriculum for grades K–5, developed and provided by 95 Percent Group, with structured lessons, teacher guides, student workbooks, manipulatives, and digital presentation materials.
 product_kind: curriculum

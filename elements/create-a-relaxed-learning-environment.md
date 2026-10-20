@@ -25,7 +25,7 @@ Create a relaxed learning environment is the element of arranging social and phy
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Physical environment elements — sunlight, nature views, temperature, and lighting — affect learning](../claims/physical-environment-affects-learning.md) [+W]
 - [Common physical and exclusionary safety measures can cause harm to the very students schools are trying to protect](../claims/safety-measures-cause-harm-black-brown-youth.md) [+W]
-- [Studying flashcards in pairs raised negative affect in Experiment 1, an effect eliminated by an icebreaker and relaxed feedback rules in Experiment 2](../claims/paired-flashcards-negative-affect-icebreaker.md) [+W]
+- [Studying flashcards in pairs raised negative affect in Experiment 1, but not in Experiment 2, which added an icebreaker and relaxed feedback rules](../claims/paired-flashcards-negative-affect-icebreaker.md) [+W]
 - [Support conditions did not differ from control in learning scores within the environment](../claims/no-condition-differences-learning-scores-swlep.md) [~W]
 
 ## Related Elements

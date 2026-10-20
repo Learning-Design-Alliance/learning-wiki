@@ -1,6 +1,7 @@
 ---
 type: product
 id: digital-promise-research-based-design-product-certification
+moved_from: [element/research-based-design-product-certification]
 title: Digital Promise Research-Based Design Product Certification
 description: A Digital Promise certification program that recognizes edtech products whose significant design decisions are informed by rigorous learning-sciences research and whose research basis is accessible to practitioners, learners, and communities.
 product_kind: programme

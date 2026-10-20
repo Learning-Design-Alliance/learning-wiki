@@ -1,6 +1,7 @@
 ---
 type: product
 id: map-growth-spanish-math-and-reading-assessments
+moved_from: [element/map-growth-spanish-assessments]
 title: MAP Growth Spanish Math and Reading assessments
 description: "NWEA's computer-adaptive Spanish-language Math and Reading assessments measure student achievement and growth across specified grades and testing windows, using MAP Growth scales, norms, and blueprints where applicable."
 product_kind: assessment

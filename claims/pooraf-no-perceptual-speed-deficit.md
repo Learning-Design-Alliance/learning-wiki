@@ -1,7 +1,7 @@
 ---
 type: claim
-title: PoorAF and control children do not differ in perceptual processing speed
-description: PoorAF and control children do not differ in perceptual processing speed
+title: Fourth graders with poor arithmetic-fact abilities (PoorAF) and matched controls did not differ on a perceptual shape-matching speed task
+description: Fourth graders with poor arithmetic-fact abilities (PoorAF) and matched controls did not differ on a perceptual shape-matching speed task
 id: pooraf-no-perceptual-speed-deficit
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 2
 ---
 
-# PoorAF and control children do not differ in perceptual processing speed
+# Fourth graders with poor arithmetic-fact abilities (PoorAF) and matched controls did not differ on a perceptual shape-matching speed task
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
-`q3 i?` The two groups did not differ in a perceptual shape-matching task requiring no memory retrieval, refuting a general speed-of-processing deficit hypothesis. [→ Mussolin 2008](#mussolin-2008)
+`q3 i?` The two groups did not differ in a perceptual shape-matching task requiring no memory retrieval, so the findings did not support a general speed-of-processing deficit explanation (one non-significant task, not a refutation). [→ Mussolin 2008](#mussolin-2008)
 
 ## Evidence
 

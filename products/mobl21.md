@@ -1,6 +1,7 @@
 ---
 type: product
 id: mobl21
+moved_from: [element/mobl21-platform]
 title: Mobl21
 description: Mobl21 is a mobile learning platform that teachers use to create and manage multimedia study materials, while students use it for note-taking, self-paced review, tests, and quizzes.
 product_kind: software

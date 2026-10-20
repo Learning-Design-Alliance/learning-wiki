@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: irt-based-repeated-measurement-linking-with-re-randomized-groups-and-concurrent-links
+moved_from: [element/repeated-measurement-linking-design-equivalent-groups-common-items, principle/irt-preferred-for-repeated-measurement-linking]
 title: IRT-based repeated-measurement linking with re-randomized groups and concurrent links
 description: "The article recommends an IRT framework for its repeated measurement linking design because IRT \"easily allows for incomplete designs and for equality constraints between item parameters.\" The author notes that when new randomized groups are formed at each occasion and all links are put to work in c"
 status: review

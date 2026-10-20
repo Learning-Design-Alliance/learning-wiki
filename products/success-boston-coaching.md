@@ -1,6 +1,7 @@
 ---
 type: product
 id: success-boston-coaching
+moved_from: [element/success-boston-coaching-cost-profile, element/success-boston-coaching-program-element]
 title: Success Boston Coaching
 description: "Success Boston Coaching is a college-access coaching programme run through Boston-area coaching partner organizations to support students' transition to and persistence in college."
 product_kind: programme

@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: office-hours-queue-simulation-framework
+moved_from: [theory/office-hours-queue-simulation-framework]
 title: Office-hours queue simulation framework
 description: A simulation framework for comparing office-hours queue scheduling strategies without live experimentation.
 status: review

@@ -69,4 +69,4 @@ The Format × MLD Status interaction (Wilks’ Lambda F(6, 234) = 8.73, p < .000
 ## Related Claims
 - [The one-half advantage in fraction comparison emerges by Grade 4 for TA children and Grade 5 for LA children, but only at Grade 7 for children with MLD, who never exceed ~75% accuracy on one-half items](delayed-one-half-advantage-mld.md) — related
 - [Group differences in fraction comparison accuracy persist when full scale IQ is included as a covariate](fraction-group-differences-persist-fsiq-covariate.md) — related
-- [Children with MLD are less accurate than LA and TA peers on symbolic fraction magnitude comparisons from Grades 4 to 8, with no group differences in growth rates](mld-lower-fraction-comparison-accuracy-no-growth-differences.md) — related
+- [Children with MLD are less accurate than TA peers on symbolic fraction magnitude comparisons from Grades 4 to 8 and than LA peers from Grade 5, with no group differences in growth rates on the total score](mld-lower-fraction-comparison-accuracy-no-growth-differences.md) — related

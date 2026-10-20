@@ -1,6 +1,7 @@
 ---
 type: product
 id: learner-variability-project
+moved_from: [element/learner-variability-navigator-web-app, element/lps-website-open-source-learner-factor-resource, element/lvp-digitalpromiseglobal-navigator-tool, theory/learner-positioning-systems-framework, theory/learner-variability-four-domains-digital-promise, theory/learner-variability-whole-child-framework, theory/lps-k3-reading-learner-model-34-factors, theory/lps-learner-factors-reading-pk3-model, theory/lvp-learner-variability-impact-model, theory/lvp-whole-child-theory-of-change]
 aliases: [learner-variability-project-lvp]
 title: Learner Variability Project
 description: The Learner Variability Project, developed by Digital Promise, provides the Learner Variability Navigator web app and related research-based tools to help educators understand learner differences and select strategies.

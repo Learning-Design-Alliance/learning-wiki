@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: three-multidimensional-irt-models-for-testlet-based-tests
+moved_from: [theory/multidimensional-irt-models-testlet-based-tests]
 title: Three multidimensional IRT models for testlet-based tests
 description: The report describes three multidimensional IRT models that account for conditional dependence among items sharing a testlet stimulus by incorporating testlet-specific dimensions.
 status: review

@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: dynamical-systems-analysis-of-intelligent-tutoring-system-process-data
+moved_from: [theory/dynamical-systems-theory-its-behavior]
 title: Dynamical-systems analysis of intelligent tutoring system process data
 description: The article proposes dynamical systems theory and associated analysis techniques as tools for examining behavioral patterns and variations within ITSs.
 status: review

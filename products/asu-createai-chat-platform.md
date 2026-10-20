@@ -1,6 +1,7 @@
 ---
 type: product
 id: asu-createai-chat-platform
+moved_from: [element/asu-createai-rag-qualitative-analysis-platform]
 title: ASU CreateAI Chat platform
 description: ASU CreateAI Chat is a secure, institutionally managed Arizona State University platform that provides a closed-system GPT-4o environment with retrieval-augmented generation for working with approved sources.
 product_kind: software

@@ -1,6 +1,7 @@
 ---
 type: product
 id: evaluating-the-relationships-between-poverty-and-school-performance-interactive-data-visua
+moved_from: [element/poverty-school-performance-visualization-gallery]
 title: Evaluating the Relationships Between Poverty and School Performance interactive data visualization gallery
 description: "An interactive data-visualization gallery released and operated by NWEA Research to let users explore relationships between school poverty, achievement, and growth in the report's sample."
 product_kind: software

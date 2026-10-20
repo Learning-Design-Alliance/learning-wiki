@@ -1,6 +1,7 @@
 ---
 type: product
 id: assistments
+moved_from: [element/assistments-e-trials-platform, element/assistments-etrials-68-test-remnant-dataset, element/assistments-online-homework-platform, element/assistments-skill-builders-arrs-element, element/quick-comments-assistments-tool]
 title: ASSISTments
 description: ASSISTments is a free web-based platform developed and operated by the ASSISTments Project for assigning mathematics practice, providing feedback, and reporting student-performance data to teachers.
 product_kind: software

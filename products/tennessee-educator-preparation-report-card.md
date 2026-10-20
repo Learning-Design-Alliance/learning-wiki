@@ -1,6 +1,7 @@
 ---
 type: product
 id: tennessee-educator-preparation-report-card
+moved_from: [design/tennessee-epp-report-card]
 title: Tennessee Educator Preparation Report Card
 description: A statewide accountability and reporting instrument for educator preparation providers, produced and administered by the Tennessee State Board of Education, Tennessee Department of Education, and Tennessee Higher Education Commission.
 product_kind: assessment

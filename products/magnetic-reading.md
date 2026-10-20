@@ -1,6 +1,7 @@
 ---
 type: product
 id: magnetic-reading
+moved_from: [element/magnetic-reading-supplemental-comprehension-program]
 title: Magnetic Reading
 description: Magnetic Reading is a print-based supplemental grades 3–5 reading-comprehension curriculum developed by Great Minds, with grade-level texts, educator resources, and scaffolds for whole-class and differentiated instruction.
 product_kind: curriculum

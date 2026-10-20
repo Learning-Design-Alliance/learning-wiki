@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: between-student-testing-and-response-curve-method
+moved_from: [theory/between-student-response-curve-method]
 title: Between-student testing and response-curve method
 description: The between-student method, first used in physics by Sayre and Heckler, gives short conceptual quizzes to different sub-groups of the population in successive weeks, avoiding test-retest effects.
 status: review

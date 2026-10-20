@@ -1,6 +1,7 @@
 ---
 type: product
 id: beable
+moved_from: [element/beable-literacy-recovery-platform]
 title: Beable
 description: Beable is a K–12 digital learning platform developed by Beable Life-Ready Learning that personalizes literacy, content learning, language acquisition, intervention, and career-connected learning for students.
 product_kind: software

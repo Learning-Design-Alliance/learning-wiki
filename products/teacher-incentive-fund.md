@@ -1,6 +1,7 @@
 ---
 type: product
 id: teacher-incentive-fund
+moved_from: [element/teacher-incentive-fund-grant-program, element/teacher-incentive-fund-grants-element, element/teacher-incentive-fund-performance-compensation-grants, element/teacher-incentive-fund-program-element, element/teacher-incentive-fund-tif-program]
 title: Teacher Incentive Fund
 description: A U.S.
 product_kind: programme

@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: joint-glmm-model-for-irt-estimation-with-collateral-information
+moved_from: [theory/joint-glmm-collateral-information-model]
 title: Joint GLMM model for IRT estimation with collateral information
 description: "The article applies a multivariate joint model under the generalized linear mixed models framework that \"simultaneously models binary item response and continuous RT response on test items that nested within person\" (Klein Entink, Fox, & van der Linden, 2009)."
 status: review

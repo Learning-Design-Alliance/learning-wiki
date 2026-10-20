@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: many-facet-rasch-model
+moved_from: [theory/mfrm-many-facet-rasch-model-ilhan-2018]
 title: Many-Facet Rasch Model
 description: "MFRM, developed by Linacre in 1989 as an extension of the partial credit model, is an IRT model in which \"all so urces of variability , such as raters, items and persons, which have the potential to influence measurement results , are considered simultaneously\"."
 status: review

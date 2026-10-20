@@ -1,6 +1,7 @@
 ---
 type: product
 id: ccsr-five-category-framework-of-noncognitive-factors
+moved_from: [theory/farrington-five-noncognitive-factor-categories, theory/noncognitive-factors-hypothesized-model, theory/noncognitive-factors-hypothesized-model-farrington]
 title: CCSR five-category framework of noncognitive factors
 description: A research-synthesis framework developed by the University of Chicago Consortium on Chicago School Research (CCSR) that organises noncognitive factors into academic behaviors, academic perseverance, social skills, learning strategies, and academic mindsets.
 product_kind: framework

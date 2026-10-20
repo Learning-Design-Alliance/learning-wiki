@@ -1,6 +1,7 @@
 ---
 type: product
 id: six-topic-taxonomy-for-guiding-genai-responsible-use-policy-content
+moved_from: [theory/six-topics-genai-responsible-use-policy-taxonomy]
 title: Six-topic taxonomy for guiding GenAI responsible use policy content
 description: A RAPID GenAI Working Group framework that organizes responsible generative-AI policy guidance into AI literacy, safety, ethics, transparency, implementation guidelines, and evaluation and impact.
 product_kind: framework

@@ -1,6 +1,7 @@
 ---
 type: product
 id: conversation-based-assessment-chat-log-corpus
+moved_from: [element/cba-middle-school-math-chat-log-corpus]
 title: Conversation-based assessment chat log corpus
 description: A research dataset created by Ober et al.
 product_kind: dataset

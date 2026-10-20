@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: design-based-rct-analysis-with-grouped-administrative-data
+moved_from: [theory/design-based-estimators-grouped-administrative-data-rcts]
 title: Design-based RCT analysis with grouped administrative data
 description: "The article recommends analyzing RCTs with grouped administrative data \"to help improve data access,\" using design-based estimators formed as group-level averages."
 status: review

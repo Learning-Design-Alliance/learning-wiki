@@ -1,6 +1,7 @@
 ---
 type: product
 id: tefa
+moved_from: [theory/tefa-four-principles-question-cycle]
 title: TEFA
 description: TEFA is a technology-enhanced formative-assessment pedagogy developed by Ian D.
 product_kind: framework

@@ -1,6 +1,7 @@
 ---
 type: product
 id: writing-to-read
+moved_from: [design/rwt-writing-to-read-lesson-sequence]
 title: Writing to Read
 description: Writing to Read is a computer-supported beginning-literacy programme developed by IBM that progresses from sound-and-letter production to writing words, sentences, and stories, with supplementary practice activities and progress reporting.
 product_kind: programme

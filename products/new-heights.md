@@ -1,6 +1,7 @@
 ---
 type: product
 id: new-heights
+moved_from: [design/combined-program-elements-practices-improved-academic-outcomes, element/new-heights-evaluation-2017-studies, element/new-heights-program-expectant-parenting-students]
 title: New Heights
 description: A school-based support programme for expectant and parenting teens, evaluated in Washington, DC, to improve students’ educational outcomes.
 product_kind: programme

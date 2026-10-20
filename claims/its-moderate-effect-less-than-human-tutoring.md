@@ -11,8 +11,8 @@ evidence_strength: moderate
 sources:
   - id: zawacki-richter-2019
     resource: "https://doi.org/10.1186/s41239-019-0171-0"
-    title: "Zawacki-Richter, O., Bond, M., & Gouverneur, F. (2019). Systematic review of research on artificial intelligence applications in higher education – where are the educators? International Journal of Educational Technology in Higher Education. https://doi.org/10.1186/s41239-019-0171-0"
-    author: "Zawacki-Richter, O., Bond, M., & Gouverneur, F."
+    title: "Zawacki-Richter, O., Marín, V. I., Bond, M., & Gouverneur, F. (2019). Systematic review of research on artificial intelligence applications in higher education – where are the educators? International Journal of Educational Technology in Higher Education. https://doi.org/10.1186/s41239-019-0171-0"
+    author: "Zawacki-Richter, O., Marín, V. I., Bond, M., & Gouverneur, F."
     q: 2
     i: "?"
     kind: quant-synthesis
@@ -31,7 +31,7 @@ sources:
 
 ### Zawacki-Richter 2019
 
-Zawacki-Richter, O., Bond, M., & Gouverneur, F. (2019). Systematic review of research on artificial intelligence applications in higher education – where are the educators? International Journal of Educational Technology in Higher Education. https://doi.org/10.1186/s41239-019-0171-0
+Zawacki-Richter, O., Marín, V. I., Bond, M., & Gouverneur, F. (2019). Systematic review of research on artificial intelligence applications in higher education – where are the educators? International Journal of Educational Technology in Higher Education. https://doi.org/10.1186/s41239-019-0171-0
 
 `q2 · i?` · `quant-synthesis · r?`
 

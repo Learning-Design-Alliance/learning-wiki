@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**507 entries** · 0 stable · 507 in review · 0 drafts
+**506 entries** · 0 stable · 506 in review · 0 drafts
 
 ---
 
@@ -116,7 +116,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Design Science Research (DSR) for CSCL](design-science-research-dsr-for-cscl.md) - The editors propose importing Design Science Research from Information Systems into CSCL.
 * [Design-Based Implementation Research (DBIR)](design-based-implementation-research-dbir.md) - DBIR is an emerging research-and-development approach the article positions as the process for co-developing its differentiated instruction practice framework.
 * [Design-based RCT analysis with grouped administrative data](design-based-rct-analysis-with-grouped-administrative-data.md) - The article recommends analyzing RCTs with grouped administrative data \"to help improve data access,\" using design-based estimators formed as group-level averages.
-* [Design-Based Research](design-based-research.md) - Because education systems are structurally resistant to change, the article argues that \"advances in education often depend on use-inspired, iterative research conducted in partnership with practitioners and communities.\" It further notes that breakthroughs can emerge not only from new ideas but fro
 * [Design-Based Research (DBR)](design-based-research-dbr.md) - The editorial endorses design-based research as a methodological approach tightly related to CSCL.
 * [Design-parameter matching in a priori power analysis](design-parameter-matching-in-a-priori-power-analysis.md) - This principle holds that a priori power analyses should strive for an ideal match between the selected design parameters and the planned study's characteristics: the clustering structure (single-, two-, or three-level), the target outcome domain, the assessment method, and the target age group.
 * [Design-thinking methodology for improving and scaling psychological interventions](design-thinking-methodology-for-improving-and-scaling-psychological-interventions.md) - The article formalizes a methodology for preparing psychological interventions to be scaled, combining two design traditions.

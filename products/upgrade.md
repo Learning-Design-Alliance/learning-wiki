@@ -1,6 +1,7 @@
 ---
 type: product
 id: upgrade
+moved_from: [element/mathia-upgrade-field-trial-platform, element/upgrade-ab-testing-platform]
 title: UpGrade
 description: "UpGrade is a free, open-source platform developed for conducting field trials in educational technology software, including experiments integrated with Carnegie Learning's MATHia adaptive mathematics tutoring system."
 product_kind: software

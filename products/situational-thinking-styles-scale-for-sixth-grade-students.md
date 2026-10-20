@@ -1,6 +1,7 @@
 ---
 type: product
 id: situational-thinking-styles-scale-for-sixth-grade-students
+moved_from: [element/thai-sixth-grade-thinking-styles-scale]
 title: Situational Thinking Styles Scale for Sixth Grade Students
 description: A situational multiple-choice scale developed by Chaiyapornpattana et al.
 product_kind: assessment

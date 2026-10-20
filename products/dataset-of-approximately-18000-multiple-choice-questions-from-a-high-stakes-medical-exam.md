@@ -1,6 +1,7 @@
 ---
 type: product
 id: dataset-of-approximately-18000-multiple-choice-questions-from-a-high-stakes-medical-exam
+moved_from: [element/medical-exam-mcq-difficulty-response-time-dataset]
 title: Dataset of approximately 18,000 multiple-choice questions from a high-stakes medical exam
 description: A research dataset assembled by Kang Xue et al.
 product_kind: dataset

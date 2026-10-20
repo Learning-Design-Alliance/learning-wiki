@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: rothstein-falsification-test
+moved_from: [element/rothstein-falsification-test-vam, theory/rothstein-falsification-test-vam-diagnostic]
 title: Rothstein falsification test
 description: A falsification test for teacher value-added models, introduced by Jesse Rothstein (2010) and re-assessed in this paper.
 status: review

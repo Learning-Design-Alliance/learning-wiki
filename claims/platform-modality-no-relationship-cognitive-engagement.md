@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Performance task platform modality (technology-enhanced, technology-enabled, or paper-and-pencil) showed no relationship with grade 6-8 students' self-reported cognitive engagement in mathematics"
-description: "Performance task platform modality (technology-enhanced, technology-enabled, or paper-and-pencil) showed no relationship with grade 6-8 students' self-reported cognitive engagement in mathematics"
+title: "Performance task platform modality (technology-enhanced, technology-enabled, or paper-and-pencil) showed no detected relationship with grade 6-8 students' self-reported cognitive engagement in mathematics"
+description: "Performance task platform modality (technology-enhanced, technology-enabled, or paper-and-pencil) showed no detected relationship with grade 6-8 students' self-reported cognitive engagement in mathematics"
 id: platform-modality-no-relationship-cognitive-engagement
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 2
 ---
 
-# Performance task platform modality (technology-enhanced, technology-enabled, or paper-and-pencil) showed no relationship with grade 6-8 students' self-reported cognitive engagement in mathematics
+# Performance task platform modality (technology-enhanced, technology-enabled, or paper-and-pencil) showed no detected relationship with grade 6-8 students' self-reported cognitive engagement in mathematics
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
-`q2 i?` A between-subjects analysis of variance found no relationship between performance task platform (modality type) and student cognitive engagement. [→ Meg Guerreiro 2017](#meg-guerreiro-2017)
+`q2 i?` A between-subjects analysis of variance did not suggest a relationship between performance task platform (modality type) and student cognitive engagement; a non-significant result, not evidence that the platforms are equivalent. [→ Meg Guerreiro 2017](#meg-guerreiro-2017)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Meg Guerreiro. (2017). The impact of a technology-enhanced math performance task
 
 `q2 · i?` · `causal · r2`
 
-Counterbalanced quasi-experimental study comparing three performance task platforms with students in grades 6-8 in Oregon, Washington, and North Carolina (N = 450). The article states the between-subjects ANOVA "did not suggest a relationship between performance task platform (modality type) and student cognitive engagement." No effect size is printed; equivalence was not tested.
+Counterbalanced quasi-experimental study comparing three performance task platforms with students in grades 6-8 in Oregon, Washington, and North Carolina (N = 450). The article states the between-subjects ANOVA "did not suggest a relationship between performance task platform (modality type) and student cognitive engagement." No effect size is printed, and the report describes no equivalence test, so this does not show the platforms are equivalent.
 
 > "Results from the between subjects analysis of variance and did not suggest a relationship between performance task platform (modality type) and student cognitive engagement."
 

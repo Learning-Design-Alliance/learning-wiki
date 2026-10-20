@@ -1,6 +1,7 @@
 ---
 type: product
 id: opening-the-doors-to-college
+moved_from: [element/opening-the-doors-to-college-blueprint]
 title: Opening the Doors to College
 description: A Chicago Public Schools Department of Postsecondary Education framework specifying grade-level steps and recommendations for students preparing for college.
 product_kind: framework

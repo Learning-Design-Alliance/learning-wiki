@@ -64,4 +64,4 @@ In the same Experiment 1 comparison, relevance and clarity reached "near-perfect
 ## Related Claims
 - [Revising the rubric to operationalize pedagogical constructs raises human–machine agreement for openness and depth](rubric-revision-improves-machine-alignment.md) — related
 - [Rationale-first evaluation improves depth alignment under the initial rubric but yields only limited gains for openness](rationale-first-limited-gains-openness.md) — related
-- [Systematic underestimation of human scores is the dominant bias trend across LLM essay scoring, with some models also compressing scores into a narrow range](llm-essay-scoring-systematic-underestimation.md) — related
+- [In one study of five LLMs scoring 60 undergraduate essays on IELTS rubric dimensions, systematic underestimation of human scores was the dominant bias trend, with some models also compressing scores into a narrow range](llm-essay-scoring-systematic-underestimation.md) — related

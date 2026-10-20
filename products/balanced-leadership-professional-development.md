@@ -1,6 +1,7 @@
 ---
 type: product
 id: balanced-leadership-professional-development
+moved_from: [element/balanced-leadership-pd-program, theory/balanced-leadership-21-actions-framework]
 title: Balanced Leadership® professional development
 description: A McREL International professional-development programme for current and aspiring school leaders, delivered through facilitated training with optional coaching and online support to develop leadership actions and behaviours.
 product_kind: programme

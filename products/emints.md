@@ -1,6 +1,7 @@
 ---
 type: product
 id: emints
+moved_from: [design/emints-four-component-design, element/emints-comprehensive-program-element, element/emints-program-element]
 title: eMINTS
 description: A professional-development and coaching programme run by the eMINTS National Center that helps teachers integrate technology and inquiry-based learning into curriculum and instruction.
 product_kind: programme

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Multi-agent scaffolding did not change binary diagnostic accuracy or worksheet completion relative to the structured control
-description: Multi-agent scaffolding did not change binary diagnostic accuracy or worksheet completion relative to the structured control
+title: Multi-agent scaffolding showed no significant difference from the structured control in binary diagnostic accuracy or worksheet completion
+description: Multi-agent scaffolding showed no significant difference from the structured control in binary diagnostic accuracy or worksheet completion
 id: no-diagnostic-accuracy-difference
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 2
 ---
 
-# Multi-agent scaffolding did not change binary diagnostic accuracy or worksheet completion relative to the structured control
+# Multi-agent scaffolding showed no significant difference from the structured control in binary diagnostic accuracy or worksheet completion
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
-`q3 i?` Correct initial diagnosis rates did not differ between groups (86% control vs 84% multi-agent), and worksheet completion also did not differ significantly. [→ Yang 2026](#yang-2026)
+`q3 i?` Correct initial diagnosis rates did not differ significantly between groups (86% control vs 84% multi-agent), nor did worksheet completion; equivalence was not tested, so this does not show the scaffolding had no effect. [→ Yang 2026](#yang-2026)
 
 ## Evidence
 

@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: systematic-screening-for-opportunistic-experiments
+moved_from: [element/district-guide-opportunistic-rcts, theory/opportunistic-experiments-definition]
 title: Systematic screening for opportunistic experiments
 description: "The guide recommends that researchers and policymakers \"discuss issues to consider when identifying potential opportunistic experiments\" before undertaking one, treating candidate screening as a deliberate step rather than an afterthought."
 status: review

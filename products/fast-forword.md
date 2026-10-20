@@ -1,6 +1,7 @@
 ---
 type: product
 id: fast-forword
+moved_from: [element/fast-forword-language-program, element/fast-forword-program-element]
 title: Fast ForWord®
 description: Fast ForWord Language is a computer-based language and reading intervention program developed and marketed by Scientific Learning Corporation for learners needing support with English language proficiency and reading skills.
 product_kind: software

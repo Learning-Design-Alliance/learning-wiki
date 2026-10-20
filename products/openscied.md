@@ -1,6 +1,7 @@
 ---
 type: product
 id: openscied
+moved_from: [design/openscied-classroom-instructional-features, design/openscied-distinctive-instructional-principles, element/openscied-open-curriculum-materials, element/openscied-teacher-supports-pd, theory/open-scied-research-logic-model, theory/openscied-four-outcome-categories, theory/openscied-logic-model, theory/openscied-research-logic-model, theory/storyline-instructional-model-student-coherence]
 title: OpenSciEd
 description: OpenSciEd is a freely available, Creative Commons–licensed middle-school science curriculum developed to address the Next Generation Science Standards.
 product_kind: curriculum

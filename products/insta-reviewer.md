@@ -1,6 +1,7 @@
 ---
 type: product
 id: insta-reviewer
+moved_from: [element/insta-reviewer-system]
 title: Insta-Reviewer
 description: Insta-Reviewer is a research-developed software system that extracts salient sentences from student project reports and uses a fine-tuned BART model to generate textual feedback.
 product_kind: software

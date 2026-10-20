@@ -1,6 +1,7 @@
 ---
 type: product
 id: i3p
+moved_from: [theory/i3p-open-innovation-plc-model]
 title: I3P
 description: "A programme run by UNAL's National Directorate of Pedagogical Innovation that supports collaborative pedagogical innovation projects intended to foster Professional Learning Communities across campuses and faculties."
 product_kind: programme

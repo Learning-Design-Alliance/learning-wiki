@@ -1,6 +1,7 @@
 ---
 type: product
 id: creact
+moved_from: [theory/creact-teaching-tool]
 title: CREACT
 description: CREACT is a five-step discussion-based teaching framework for creative thinking, developed by Sak and usable across lessons and topics.
 product_kind: framework

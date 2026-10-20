@@ -1,6 +1,7 @@
 ---
 type: product
 id: ccc-product-badges
+moved_from: [element/ccc-product-badges-three-competencies]
 title: CCC product badges
 description: A set of three competency-based badges proposed for vendors to demonstrate alignment of educational products with community college student and faculty priorities, including diverse lived experiences, continuous improvement, and faculty agency and connection.
 product_kind: framework

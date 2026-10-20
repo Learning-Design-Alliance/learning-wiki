@@ -1,6 +1,7 @@
 ---
 type: product
 id: symphony-math
+moved_from: [element/symphony-math-program-element]
 title: Symphony Math
 description: Symphony Math is a web-browser and iPad technology intervention program that provides individualized mathematics practice for K–8 students, developed and distributed as the Symphony Math program.
 product_kind: software

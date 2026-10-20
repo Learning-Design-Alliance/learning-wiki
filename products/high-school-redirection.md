@@ -1,6 +1,7 @@
 ---
 type: product
 id: high-school-redirection
+moved_from: [element/high-school-redirection-program-model]
 title: High School Redirection
 description: High School Redirection is an alternative high-school programme model for students at high risk of noncompletion, implemented through small schools offering remedial instruction, mentoring, childcare, independent study, and accelerated credit accumulation.
 product_kind: programme

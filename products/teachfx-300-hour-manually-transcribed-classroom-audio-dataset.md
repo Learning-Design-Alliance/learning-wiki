@@ -1,6 +1,7 @@
 ---
 type: product
 id: teachfx-300-hour-manually-transcribed-classroom-audio-dataset
+moved_from: [element/teachfx-300-hour-classroom-audio-dataset]
 title: TeachFX 300-hour manually transcribed classroom audio dataset
 description: A 300-hour manually transcribed classroom-audio dataset created by TeachFX to improve transcription models and support research on equitable automated speech recognition across diverse English dialects.
 product_kind: dataset

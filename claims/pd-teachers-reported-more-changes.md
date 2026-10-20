@@ -35,7 +35,7 @@ Karin D. Könings, Saskia Brand-Gruwel, Jeroen J. G. van Merriënboer. (2010). P
 
 `q2 · i?` · `causal · r2`
 
-Change Question (CQ) analysis comparing teacher reports across conditions: all experimental teachers reported changes versus only one of six control teachers, a significant difference, v2(1, N = 11) = 7.64. No effect size is printed, so impact is null.
+Change Question (CQ) analysis comparing teacher reports across conditions: all experimental teachers reported changes versus only one of six control teachers, a significant difference, χ2(1, N = 11) = 7.64, p < 0.01. No standardised effect size is printed, so impact is left uncoded (i?), not null.
 
 > "The results for the CQ showed that the teachers in the experimental condition reported changes in educational practice between T1 and T2 far more frequently than the teachers in the control condition, v2(1, N = 11) = 7.64, p\ 0.01."
 

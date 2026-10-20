@@ -1,6 +1,7 @@
 ---
 type: product
 id: sipps
+moved_from: [design/sipps-three-level-word-recognition-progression, element/sipps-foundational-skills-curriculum, theory/two-strand-beginning-literacy-model]
 title: SIPPS
 description: SIPPS (Systematic Instruction in Phonological Awareness, Phonics, and Sight Words) is a structured-literacy curriculum developed and distributed by Collaborative Classroom for foundational reading instruction and intervention in grades K–12.
 product_kind: curriculum

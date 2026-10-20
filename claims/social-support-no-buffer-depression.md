@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Social support from friends and family does not buffer the effect of bullying on depressive symptoms
-description: Social support from friends and family does not buffer the effect of bullying on depressive symptoms
+title: "In an East London adolescent cohort, adjusting for friend or family support barely changed the association between being bullied and boys' later depressive symptoms, which the authors read as support not being sufficient protection"
+description: "In an East London adolescent cohort, adjusting for friend or family support barely changed the association between being bullied and boys' later depressive symptoms, which the authors read as support not being sufficient protection"
 id: social-support-no-buffer-depression
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 3
 ---
 
-# Social support from friends and family does not buffer the effect of bullying on depressive symptoms
+# In an East London adolescent cohort, adjusting for friend or family support barely changed the association between being bullied and boys' later depressive symptoms, which the authors read as support not being sufficient protection
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
-`q3 i?` Adjusting for friend or family social support did not attenuate the association between bullying and depressive symptoms for boys (OR 2.17 with friend support; OR 2.29 with family support). [→ Rothon Catherine 2011](#rothon-catherine-2011)
+`q3 i?` For boys, adjusting for friend support only slightly reduced the bullying–depressive symptoms odds ratio (from 2.34 to 2.17, still significant), and adjusting for family support did not attenuate it (OR 2.29). [→ Rothon Catherine 2011](#rothon-catherine-2011)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Rothon Catherine, Head Jenny, Klineberg Emily, Stansfeld Stephen. (2011). Can so
 
 `q3 · i?` · `associational · r3`
 
-Multivariate models on RELACHS follow-up depressive symptoms. Adding friend support reduced the boys' odds ratio to 2.17 (1.31, 3.61) with bullying still significant (p = 0.004); "Adjusting for social support from family did not result in the impact of bullying on depression being attenuated (OR = 2.29, 95% CI 1.34, 3.93)".
+Prospective observational analysis: multivariate logistic models on RELACHS follow-up depressive symptoms. Being bullied was associated with depressive symptoms for boys (OR 2.34) but not girls (OR 1.11), so the support analyses concern boys. Adding friend support reduced the boys' odds ratio to 2.17 (1.31, 3.61) with bullying still significant (p = 0.004); "Adjusting for social support from family did not result in the impact of bullying on depression being attenuated (OR = 2.29, 95% CI 1.34, 3.93)". The test is whether adjusting for support attenuates the association, not a reported bullying × support interaction for depression, so it cannot show that support has no buffering effect; the authors conclude that support "was not sufficient to protect adolescents against mental health difficulties".
 
 > "Adjusting for social support from family did not result in the impact of bullying on depression being attenuated (OR = 2.29, 95% CI 1.34, 3.93)."
 

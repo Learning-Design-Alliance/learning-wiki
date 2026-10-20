@@ -1,6 +1,7 @@
 ---
 type: product
 id: tap-system
+moved_from: [design/tap-four-component-school-design, element/tap-teacher-advancement-program-whole-school-model, element/tap-whole-school-teacher-intervention, element/teacher-advancement-program-tap-chicago]
 title: TAP System
 description: A whole-school teacher evaluation, compensation, career-ladder, mentoring, and professional-development programme developed and operated by the National Institute for Excellence in Teaching.
 product_kind: programme

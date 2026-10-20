@@ -1,6 +1,7 @@
 ---
 type: product
 id: ai-see-framework
+moved_from: [design/ai-see-framework]
 title: AI-SEE framework
 description: The AI-SEE framework proposed by Feng Liu et al.
 product_kind: framework

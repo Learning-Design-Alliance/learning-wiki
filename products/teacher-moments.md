@@ -1,6 +1,7 @@
 ---
 type: product
 id: teacher-moments
+moved_from: [element/teacher-moments-simulation-platform]
 title: Teacher Moments
 description: Teacher Moments is a free, openly licensed digital teaching-simulation platform developed by the MIT Teaching Systems Lab for immersive, scenario-based practice in teaching decisions.
 product_kind: software

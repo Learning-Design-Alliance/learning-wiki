@@ -1,6 +1,7 @@
 ---
 type: product
 id: nwea-map-growth-assessment-and-longitudinal-achievement-database
+moved_from: [element/map-growth-4-9-million-students-dataset, element/national-k8-fall-spring-achievement-dataset-840000-students, element/nwea-162000-eighth-graders-22-states-dataset, element/nwea-186k-ever-el-dataset, element/nwea-2016-17-k8-three-occasion-dataset, element/nwea-k8-three-cohort-seasonal-dataset, element/nwea-map-growth-3-4-million-seasonal-dataset]
 title: NWEA MAP Growth assessment and longitudinal achievement database
 description: "A longitudinal database of student achievement and growth scores collected through NWEA's MAP Growth assessments and used for large-scale educational analysis."
 product_kind: dataset

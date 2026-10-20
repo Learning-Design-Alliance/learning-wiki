@@ -1,6 +1,7 @@
 ---
 type: product
 id: k-12-digital-equity-framework
+moved_from: [theory/k12-digital-equity-framework-five-domains]
 title: K-12 Digital Equity Framework
 description: A framework presented by the authors of A Framework for Digital Equity to help K-12 schools and districts organize digital-equity work across leadership, systems and resources, access, competency, and technology-propelled learning.
 product_kind: framework

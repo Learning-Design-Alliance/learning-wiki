@@ -1,6 +1,7 @@
 ---
 type: product
 id: american-board-for-certification-of-teacher-excellence-abcte-alternative-teacher-certifica
+moved_from: [element/abcte-alternative-certification-element]
 title: American Board for Certification of Teacher Excellence (ABCTE) alternative teacher certification
 description: A teacher-certification pathway, including the Passport to Teaching credential, developed and administered by the American Board for Certification of Teacher Excellence for alternative-route teacher candidates.
 product_kind: programme

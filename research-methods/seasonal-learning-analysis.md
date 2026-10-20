@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: seasonal-learning-analysis
+moved_from: [theory/seasonal-learning-analysis-framework-inequality-growth]
 title: Seasonal learning analysis
 description: "The brief organizes its inquiry around seasonal learning patterns: comparing how racial and ethnic achievement gaps change across school-year and summer periods to determine when inequality grows."
 status: review

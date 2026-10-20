@@ -1,6 +1,7 @@
 ---
 type: product
 id: digital-equity-framework
+moved_from: [theory/digital-equity-framework-three-divides]
 title: Digital Equity Framework
 description: A framework developed by Judi Fusco and colleagues for guiding equitable access to, use of, and design with digital technologies in education.
 product_kind: framework

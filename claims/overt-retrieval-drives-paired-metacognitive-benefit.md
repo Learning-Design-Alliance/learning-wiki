@@ -45,4 +45,4 @@ Experiment 3 (405 participants, preregistered) instructed Individual-condition p
 ## Related Claims
 - [Paired flashcard learners show more accurate immediate metacognitive calibration than individual learners, who overestimate by roughly 20%](paired-flashcards-improve-immediate-metacognitive-calibration.md) — related
 - [Global judgments of learning correlate moderately-to-strongly with final test performance in both individual and paired conditions](gjol-test-performance-correlations-both-conditions.md) — related
-- [Studying flashcards in pairs raised negative affect in Experiment 1, an effect eliminated by an icebreaker and relaxed feedback rules in Experiment 2](paired-flashcards-negative-affect-icebreaker.md) — related
+- [Studying flashcards in pairs raised negative affect in Experiment 1, but not in Experiment 2, which added an icebreaker and relaxed feedback rules](paired-flashcards-negative-affect-icebreaker.md) — related

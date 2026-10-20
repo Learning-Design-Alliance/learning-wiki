@@ -26,7 +26,7 @@ sources:
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
-`q2 i?` District respondents report relying on peer or consultant recommendations (81 percent) and pilot tryouts (62 percent) more than on rigorous evidence (49 percent). [→ Improving Ed-Tech Purchasing: Identifying the key obstacles and potential solutions for the discovery and acquisition of K-12 personalized learning tools 2015](#improving-ed-tech-purchasing-identifying-the-key-obstacles-and-potential-solutions-for-the-discovery-and-acquisition-of-k-12-personalized-learning-tools-2015)
+`q2 i?` District respondents report relying on pilot tryouts (62 percent) and peer or consultant recommendations (59 percent) more often than rigorous evidence (49 percent). [→ Improving Ed-Tech Purchasing: Identifying the key obstacles and potential solutions for the discovery and acquisition of K-12 personalized learning tools 2015](#improving-ed-tech-purchasing-identifying-the-key-obstacles-and-potential-solutions-for-the-discovery-and-acquisition-of-k-12-personalized-learning-tools-2015)
 
 ## Evidence
 
@@ -36,7 +36,7 @@ Improving Ed-Tech Purchasing: Identifying the key obstacles and potential soluti
 
 `q2 · i?` · `associational · r1`
 
-Survey and interview data on district information sources show reliance on "peer recommendations and 'pilots' within the district"; the accompanying chart reports peer or consultant recommendations at 81 percent district responses versus 49 percent for rigorous evidence.
+Survey and interview data on district information sources show reliance on "peer recommendations and 'pilots' within the district"; the accompanying chart of district responses reports pilot tryouts at 62 percent and peer or consultant recommendations at 59 percent, against 49 percent for rigorous evidence (the 81 percent beside peer recommendations in the same chart is the providers' response, not the districts').
 
 > "In the absence of trusted evidence of product success, it appears districts rely heavily on peer recommendations and "pilots" within the district."
 

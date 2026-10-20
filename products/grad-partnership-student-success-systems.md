@@ -1,6 +1,7 @@
 ---
 type: product
 id: grad-partnership-student-success-systems
+moved_from: [theory/student-success-systems-four-elements-framework]
 title: GRAD Partnership Student Success Systems
 description: A framework developed by the GRAD Partnership for organizing secondary-school supports around relationships, holistic data, strategic improvement actions, and student-centered mindsets.
 product_kind: framework

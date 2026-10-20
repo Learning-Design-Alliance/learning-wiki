@@ -35,7 +35,7 @@ Kim, Y.-S., Al Otaiba, S., Puranik, C., Sidler Folsom, J., & Gruelich, L. (2013)
 
 `q3 · i?` · `associational · r2`
 
-Structural equation modeling with 242 kindergartners tested letter writing automaticity's unique relations to word reading and spelling. The spelling relation was relatively weak and barely missed the conventional significance level; no effect size was printed.
+Structural equation modeling with 242 kindergartners tested letter writing automaticity's unique relations to word reading and spelling. The spelling relation was weak (standardized b = .11) and barely missed the conventional significance level; the word-reading path was b = −.07. These standardized path coefficients are the printed magnitudes; they are not converted to a d-type effect size here, so impact is left uncoded.
 
 > "Letter writing automaticity was not related to word reading ( b =- .07, p = .28), but marginally related to spelling ( b = .11, p = .06)."
 

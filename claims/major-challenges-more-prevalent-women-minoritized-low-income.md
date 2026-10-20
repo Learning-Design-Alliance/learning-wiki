@@ -63,7 +63,7 @@ Means, B., & Neisler, J. (2020). Unmasking Inequality: STEM Course Experience Du
 
 `q2 · i?` · `associational · r2`
 
-Same challenge-scale analysis by race/ethnicity (Table 2); the two percentages for Hispanic students correspond to the two- and four-year college subgroups as printed.
+Same challenge-scale analysis by race/ethnicity. Table 2 gives 19% of Hispanic students and 7% of non-Hispanic White students reporting four or more major challenges; the text's second figure for Hispanic students (16%) is not explained and does not appear in Table 2.
 
 > "Hispanic students were more likely to report having experienced four or more major problems (19% and 16%, respectively) than were non-Hispanic white students (7%)."
 

@@ -1,6 +1,7 @@
 ---
 type: principle
 id: scaffolding-and-fading
+moved_from: [pattern/fading-based-scaffolding-approaches-serious-games, pattern/four-quadrant-library-learner-progression]
 aliases: [scaffolding-fading, cognitive-apprenticeship, adult-help-promotes-active-agents-learning, balance-challenge-and-support-library-instruction]
 title: Scaffolding and Fading
 description: "Contingent support that is withdrawn as the learner shows unaided success may improve later independent performance on a task the learner cannot yet do alone, qualified by the task-specific starting response, how support ends, the setting and the outcome horizon."

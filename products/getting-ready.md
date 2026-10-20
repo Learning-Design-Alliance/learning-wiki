@@ -1,6 +1,7 @@
 ---
 type: product
 id: getting-ready
+moved_from: [element/getting-ready-program-element]
 title: Getting Ready
 description: Getting Ready is a University of Nebraska–Lincoln program that trains early childhood educators in evidence-based family-partnership strategies and coaches them in collaborative goal-setting through home visits, conferences, and informal interactions.
 product_kind: programme

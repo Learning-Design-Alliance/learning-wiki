@@ -44,6 +44,6 @@ Targeted nine-question community survey with 52 valid responses among power-and-
 
 ## Related Claims
 - Practitioners hold near-universal commitments to human oversight and critical evaluation of AI outputs — related
-- [Survey respondents strongly prefer power-specific hands-on AI materials over generic image-based examples](demand-for-power-specific-hands-on-ai-examples.md) — related
+- [Most surveyed power-and-energy respondents would use a power-specific hands-on AI tutorial, and few rate generic image-based AI examples as very relevant](demand-for-power-specific-hands-on-ai-examples.md) — related
 - Institutional barriers to AI integration — ethics concerns, insufficient training, policy gaps, and infrastructure limits — are widespread and co-occurring — related
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related

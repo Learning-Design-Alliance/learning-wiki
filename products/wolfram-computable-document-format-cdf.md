@@ -1,6 +1,7 @@
 ---
 type: product
 id: wolfram-computable-document-format-cdf
+moved_from: [element/wolfram-cdf-module-development-technology]
 title: Wolfram Computable Document Format (CDF)
 description: "Wolfram Research's software document format renders interactive Mathematica code as graphical, customizable documents in a standalone player or browser environment."
 product_kind: software

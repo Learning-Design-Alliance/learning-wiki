@@ -35,7 +35,7 @@ Rosenbach, S. B., Sherwood, S. H., Poteat, V. P., Yoshikawa, H., & Calzo, J. P. 
 
 `q3 · i?` · `associational · r2`
 
-Multilevel structural equation modeling (Model 1) of two-wave survey data from 580 GSA members in 38 Massachusetts GSAs, with residualized change in perceived peer validation as the outcome. The article reports "increased perceived peer validation at the school year’s end (b = 0.146, p = .019)"; no effect size beyond the unstandardized b is printed, so impact is null.
+Multilevel structural equation modeling (Model 1) of two-wave survey data from 580 GSA members in 38 Massachusetts GSAs, with residualized change in perceived peer validation as the outcome. The article reports "increased perceived peer validation at the school year’s end (b = 0.146, p = .019)"; this is a significant positive association, but no standardized effect size is printed beside the unstandardized b, so its magnitude is not coded (i?).
 
 > "youth who reported discussing immigration issues more frequently (relative to the other members in their GSA) reported increased perceived peer validation at the school year’s end (b = 0.146, p = .019)"
 

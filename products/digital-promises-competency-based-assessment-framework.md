@@ -1,6 +1,7 @@
 ---
 type: product
 id: digital-promises-competency-based-assessment-framework
+moved_from: [theory/micro-credential-quality-framework]
 title: "Digital Promise's Competency-Based Assessment Framework"
 description: A framework created and maintained by Digital Promise to guide the design and accessibility review of competency-based micro-credentials on its platform.
 product_kind: framework

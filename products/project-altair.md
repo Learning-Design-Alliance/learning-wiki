@@ -1,6 +1,7 @@
 ---
 type: product
 id: project-altair
+moved_from: [element/cbe-project-altair-enhancements]
 title: Project Altair
 description: "Project Altair is NWEA's project to enhance the constraint-based engine for delivering MAP Growth interim assessments with configurable exposure, routing, content-balance, termination, and invalidation rules."
 product_kind: software

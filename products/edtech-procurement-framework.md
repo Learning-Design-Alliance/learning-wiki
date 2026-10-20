@@ -1,6 +1,7 @@
 ---
 type: product
 id: edtech-procurement-framework
+moved_from: [theory/edtech-procurement-framework-six-steps]
 title: Edtech Procurement Framework
 description: A six-step framework developed by Foster et al.
 product_kind: framework

@@ -1,6 +1,7 @@
 ---
 type: product
 id: lexia-powerup-literacy
+moved_from: [element/lexia-powerup-literacy-program]
 title: Lexia PowerUp Literacy
 description: "Lexia Learning's blended literacy program for struggling and non-proficient readers in grades 6–12 combines adaptive online instruction with teacher-delivered lessons and activities."
 product_kind: programme

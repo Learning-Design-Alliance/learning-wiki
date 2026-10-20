@@ -1,6 +1,7 @@
 ---
 type: product
 id: literacy-boost
+moved_from: [element/literacy-boost-teacher-pd-rwanda]
 title: Literacy Boost
 description: "Literacy Boost is Save the Children's early-literacy intervention programme, including teacher professional development and classroom-support components for young learners."
 product_kind: programme

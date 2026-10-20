@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: curriculum-analytics-using-cognitive-diagnostic-modeling-and-hierarchical-learner-profile
+moved_from: [element/cdm-clustering-curriculum-analytics-method]
 title: Curriculum analytics using cognitive diagnostic modeling and hierarchical learner-profile clustering
 description: A two-step curriculum analytics approach that maps existing assessments to professional standards and applies a generalized cognitive diagnostic model to assessment grades to produce attainment probabilities (0–1) per standard, then uses hierarchical agglomerative clustering to group learners into i
 status: review

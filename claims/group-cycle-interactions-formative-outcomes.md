@@ -34,7 +34,7 @@ Yao X-C and Fan L (2026) From automated scoring to learning diagnosis: a mechani
 
 `q2 · i?` · `causal · r2`
 
-Linear mixed-effects models with Group, Cycle, and Group × Cycle fixed effects and a student-level random intercept on 288 cycle-level observations. Four "Group × Cycle interactions" were significant, indicating growing group separation over cycles.
+Linear mixed-effects models with Group, Cycle, and Group × Cycle fixed effects and a student-level random intercept on 288 cycle-level observations. Four "Group × Cycle interactions" were significant, indicating that the groups followed different trajectories across cycles. The group differences widened steadily for revision quality (g = 1.39, 1.50, 1.86) and self-assessment accuracy (g = 0.32, 0.80, 1.50), but not for diagnostic accuracy (contrasts 0.106, 0.102, 0.156) or comprehension (0.41, 0.62, 0.56).
 
 > "Mixed-eﬀects models yielded Group × Cycle interactions for diagnostic accuracy,F(2,188.4) = 3.57, p = 0.030; feedback comprehension, F(2,188.3) = 3.18, p = 0.044; revision quality, F(2,188.6) = 4.02, p = 0.019; and self-assessment accuracy, F(2,187.9) = 10.31, p < 0.001."
 

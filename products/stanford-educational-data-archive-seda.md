@@ -1,6 +1,7 @@
 ---
 type: product
 id: stanford-educational-data-archive-seda
+moved_from: [element/seda-district-achievement-growth-dataset, element/seda-district-educational-opportunity-measures]
 title: Stanford Educational Data Archive (SEDA)
 description: A Stanford Education Data Archive dataset providing district-level estimates of mathematics and ELA achievement and growth for Grades 3–8 across U.S.
 product_kind: dataset

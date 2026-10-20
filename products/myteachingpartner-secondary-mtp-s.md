@@ -1,6 +1,7 @@
 ---
 type: product
 id: myteachingpartner-secondary-mtp-s
+moved_from: [element/mtp-secondary-video-library-coaching-program, theory/class-s-three-domains-secondary-teaching]
 title: MyTeachingPartner-Secondary (MTP-S)
 description: MyTeachingPartner–Secondary is a University of Virginia Center for Advanced Study of Teaching and Learning professional-development programme that combines a video library of effective teacher–student interactions with individualized web-based coaching for secondary teachers.
 product_kind: programme

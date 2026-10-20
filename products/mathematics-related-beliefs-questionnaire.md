@@ -1,6 +1,7 @@
 ---
 type: product
 id: mathematics-related-beliefs-questionnaire
+moved_from: [element/mrbq-mathematics-related-beliefs-questionnaire]
 title: Mathematics-Related Beliefs Questionnaire
 description: The MRBQ is a 58-item, six-point Likert-scale questionnaire developed by Op ’t Eynde and colleagues to measure students’ beliefs about mathematics, themselves as mathematics learners, and their classroom social context.
 product_kind: assessment

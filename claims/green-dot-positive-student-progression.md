@@ -43,7 +43,7 @@ In the quasi-experimental Herman et al. (2012) study reviewed by the WWC, Cohort
 
 
 ## Related Claims
-- [Green Dot Public Schools raise school attendance in the fourth year of high school, with no effect on attendance in Year 1 for Cohort 3 (mixed evidence)](green-dot-attendance-year-four-only.md) — related
+- [Green Dot Public Schools raise school attendance in the fourth year of high school, with no detectable effect on attendance in Year 1 for Cohort 3 (mixed evidence)](green-dot-attendance-year-four-only.md) — related
 - [Green Dot Public Schools improve English language arts achievement in the first year of high school for the 2009–10 cohort, with no significant effects on later ELA measures (mixed evidence)](green-dot-ela-first-year-only.md) — related
 - [Attending Green Dot Public Schools produces statistically significant positive effects on high school mathematics achievement (potentially positive effects rating, small extent of evidence)](green-dot-positive-math-achievement.md) — related
 - [High School Redirection has potentially positive effects on progressing in school, driven by a significant credit-accumulation advantage in Stockton](hsr-potentially-positive-progressing-in-school.md) — related

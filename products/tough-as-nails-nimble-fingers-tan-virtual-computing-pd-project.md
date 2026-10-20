@@ -1,6 +1,7 @@
 ---
 type: product
 id: tough-as-nails-nimble-fingers-tan-virtual-computing-pd-project
+moved_from: [element/tan-virtual-computing-pd-project]
 title: Tough As Nails, Nimble Fingers (TAN) virtual computing PD project
 description: An NSF-funded Digital Promise and Bit Source initiative delivering virtual K–8 computational-thinking professional development, including CT Booster sessions and micro-credentials, in rural Kentucky.
 product_kind: programme

@@ -1,6 +1,7 @@
 ---
 type: product
 id: studenttracker-for-high-schools
+moved_from: [element/national-student-clearinghouse-studenttracker-high-schools]
 title: StudentTracker for High Schools
 description: A National Student Clearinghouse data service that enables states, districts, and schools to examine former K–12 students’ postsecondary enrollment, persistence, and completion outcomes.
 product_kind: dataset

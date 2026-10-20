@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 113 claims (68 show a difference, 29 mixed, 16 no difference) · 85 studies (49 associational, 17 causal, 10 review, 4 quant-synthesis, 3 theoretical, 1 qualitative, 1 design), `q1`–`q3` · 8 of 85 report an effect size · 112 claims rest on one study
+> **Evidence** · 113 claims (68 show a difference, 29 mixed, 16 no difference) · 86 studies (49 associational, 17 causal, 10 review, 5 quant-synthesis, 3 theoretical, 1 qualitative, 1 design), `q1`–`q3` · 8 of 86 report an effect size · 112 claims rest on one study
 
 ## How to read this page
 
@@ -168,7 +168,7 @@ A learner's economic and social position: family income or poverty (often measur
 - [The entrance-age achievement association is especially pronounced among children from upper-income families](../claims/entrance-age-gap-largest-upper-income-families.md) [+M] — an instructional effect differs by group
 - [Higher SES is associated with higher parent-reported curiosity at kindergarten](../claims/higher-ses-associated-higher-kindergarten-curiosity.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Low-SES students also generate stereotype-consistent inferences in the reverse direction, inferring SES indicators from memory performance information](../claims/low-ses-students-infer-ses-from-memory-performance.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
-- [Low-SES students, but not high-SES students, generate stereotype-consistent inferences about targets' cognitive ability from social class information](../claims/low-ses-students-generate-stereotype-consistent-ability-inferences.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Low-SES students, but not high-SES students, generate stereotype-consistent inferences linking targets' social class and memory ability](../claims/low-ses-students-generate-stereotype-consistent-ability-inferences.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [PA and RAN deficit profiles are over-represented in low-SES schools, while the double-deficit profile distribution is proportional to school SES group size](../claims/pa-ran-deficits-overrepresented-low-ses.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Students' SES and academic achievement level moderate their use of the SES stereotype](../claims/ses-and-achievement-moderate-stereotype-use.md) [+M] — an instructional effect differs by group
 - [The relationship between residential mobility and fifth-grade executive function is moderated by baseline neighborhood poverty: moving out of low-poverty neighborhoods is detrimental while moving out of high-poverty neighborhoods shows a marginally significant benefit](../claims/baseline-neighborhood-poverty-moderates-move-executive-function.md) [~M] — an instructional effect differs by group
@@ -193,7 +193,7 @@ A learner's economic and social position: family income or poverty (often measur
 - [Socially disadvantaged children do not differ in physical fitness but score significantly lower on academic performance than non-disadvantaged peers](../claims/sdc-lower-academic-performance-equal-fitness.md) [~W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The reverse math-to-motivation genetic pathway is not moderated by SES, supporting a directional motivation-to-achievement relation](../claims/reverse-pathway-not-ses-moderated.md) [-M] — an instructional effect differs by group
 - [Composite SES indices predict phonological awareness more strongly than single SES indicators](../claims/composite-ses-index-stronger-predictor-phonological-awareness.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
-- [Country SES moderates the linguistic-skill-to-reading paths, with larger phonological-awareness and vocabulary effects in developed countries, but does not moderate the direct SES-reading paths](../claims/country-ses-moderates-skill-reading-paths-not-ses-reading.md) [~M] — an instructional effect differs by group
+- [Country SES moderates the linguistic-skill-to-reading paths, with stronger phonological-awareness and vocabulary associations in developed countries, but does not moderate the direct SES-reading paths](../claims/country-ses-moderates-skill-reading-paths-not-ses-reading.md) [~M] — an instructional effect differs by group
 - [Family stress and family investment models explain mediating processes of SES influence](../claims/ses-family-stress-investment-mediation.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Low-income children in high-fidelity Montessori significantly closed the achievement gap with higher-income children by the end of a longitudinal lottery study](../claims/montessori-closed-income-achievement-gap.md) [+M] — an instructional effect differs by group
 - [SES effect sizes vary by SES indicator type, outcome type, grade level, and study year](../claims/ses-effect-moderators-indicator-outcome-grade-year.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause

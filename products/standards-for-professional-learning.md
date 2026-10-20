@@ -1,6 +1,7 @@
 ---
 type: product
 id: standards-for-professional-learning
+moved_from: [theory/standards-for-professional-learning-seven-standards]
 title: Standards for Professional Learning
 description: A seven-standard framework for organizing results-oriented educator professional learning, developed and maintained by Learning Forward with partner organizations.
 product_kind: framework

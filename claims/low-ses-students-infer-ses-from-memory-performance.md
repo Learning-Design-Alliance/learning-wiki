@@ -47,5 +47,5 @@ Study 2 reversed the inference direction of Study 1: participants received "memo
 - [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
-- [Low-SES students, but not high-SES students, generate stereotype-consistent inferences about targets' cognitive ability from social class information](low-ses-students-generate-stereotype-consistent-ability-inferences.md) — related
+- [Low-SES students, but not high-SES students, generate stereotype-consistent inferences linking targets' social class and memory ability](low-ses-students-generate-stereotype-consistent-ability-inferences.md) — related
 - [Students' SES and academic achievement level moderate their use of the SES stereotype](ses-and-achievement-moderate-stereotype-use.md) — a broader claim this one bears on

@@ -1,6 +1,7 @@
 ---
 type: product
 id: classworks
+moved_from: [element/classworks-individualized-learning-program]
 title: Classworks
 description: Classworks is an online, assessment-driven tiered intervention platform that generates individualized learning paths and units for students, used by schools and educators.
 product_kind: software

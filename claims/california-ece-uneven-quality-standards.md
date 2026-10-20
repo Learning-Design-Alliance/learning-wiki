@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "California's ECE programs are held to very different quality standards, producing unequal learning opportunities for similar children"
-description: "California's ECE programs are held to very different quality standards, producing unequal learning opportunities for similar children"
+title: "California's ECE programs are held to very different quality standards, which can mean unequal learning opportunities for similar children"
+description: "California's ECE programs are held to very different quality standards, which can mean unequal learning opportunities for similar children"
 id: california-ece-uneven-quality-standards
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 2
 ---
 
-# California's ECE programs are held to very different quality standards, producing unequal learning opportunities for similar children
+# California's ECE programs are held to very different quality standards, which can mean unequal learning opportunities for similar children
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
-`q2 i?` California's various ECE programs are held to very different quality standards, meaning children of similar age and need receive very different early learning opportunities even within the publicly funded system. [→ Melnick 2018](#melnick-2018)
+`q2 i?` California's various ECE programs are held to very different quality standards, which the report says can mean that children of similar age and need receive very different early learning opportunities even within the publicly funded system. [→ Melnick 2018](#melnick-2018)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Melnick, H., Meloy, B., Gardner, M., Wechsler, M., & Maier, A. (2018). Building 
 
 `q2 · i?` · `qualitative · r2`
 
-Report's program quality section, based on document analysis and county interviews, finds credential requirements and quality standards vary by program (Figure 6 and Figure 8), so similar children experience unequal early learning opportunities across publicly funded programs.
+Report's program quality section, based on document analysis and county interviews, finds credential requirements and quality standards vary by program (Figure 6 and Figure 8), and says this variation can mean unequal early learning opportunities for similar children across publicly funded programs; it does not measure the opportunities children receive.
 
 > "California’s various ECE programs are held to very different quality standards. This variation can mean that children of similar age and need receive very different early learning opportunities, even within the publicly funded system."
 

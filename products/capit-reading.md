@@ -1,6 +1,7 @@
 ---
 type: product
 id: capit-reading
+moved_from: [element/capit-reading-program-element]
 title: CAPIT Reading
 description: CAPIT Reading is a blended supplemental PK–3 phonics programme providing explicit, systematic Sound-to-Print instruction through individualized digital learning, immediate feedback, and educator data.
 product_kind: programme

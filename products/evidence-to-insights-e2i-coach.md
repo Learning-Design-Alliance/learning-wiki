@@ -1,6 +1,7 @@
 ---
 type: product
 id: evidence-to-insights-e2i-coach
+moved_from: [element/e2i-coach-platform]
 title: Evidence to Insights (e2i) Coach
 description: A free online platform offered by the Regional Educational Laboratory Mid-Atlantic that helps schools and teachers use their own data to identify effective remote-learning strategies and refine practice.
 product_kind: software
