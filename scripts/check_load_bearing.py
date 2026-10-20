@@ -169,7 +169,10 @@ def ranking(pages: dict) -> list:
     return rows
 
 
-DOI_RE = re.compile(r"10\.\d{4,9}/[^\s)\]>]+", re.I)
+# Balanced brackets are part of a DOI (10.1016/0010-0285(74)90015-2); an unbalanced closing one
+# is the markdown link around it. The old pattern stopped at the first ")", so such a DOI's
+# abstract and full text were looked up under a truncated DOI and never found.
+DOI_RE = re.compile(r"10\.\d{4,9}/(?:\([^\s()]*\)|\[[^\s\[\]]*\]|[^\s()\[\]>])+", re.I)
 ENTRY_RE = re.compile(r"(?m)^### ")
 KIND_SPAN = re.compile(r"\s*·\s*`(?:" + "|".join(okf_lib.EVIDENCE_KINDS) + r")\s*·\s*r\s*[1-3?]`")
 _WORD = re.compile(r"[a-z0-9]+")
