@@ -52,3 +52,4 @@ Growth curve (multilevel) analyses of the nationally representative ECLS-B cohor
 - [Higher SES is associated with higher parent-reported curiosity at kindergarten](higher-ses-associated-higher-kindergarten-curiosity.md) — related
 - [Executive function at 48 months moderates the preschool-to-kindergarten development of math ability on the ECLS-K Math battery but not the Applied Problems subtest](ef-moderates-preschool-kindergarten-ecls-k-math.md) — related
 - [Preschool executive function positively predicts kindergarten math on both measures, while teacher–child relationship quality shows only a trend-level main effect on ECLS-K Math and none on Applied Problems](ef-main-effect-teacher-relationship-main-effect-kindergarten-math.md) — related
+- [Educational domain, cultural orientation, age, gender, and socioeconomic status are candidate moderators of model effects](tcm-candidate-moderators-of-model-effects.md) — a broader claim this one bears on

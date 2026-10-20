@@ -53,3 +53,4 @@ Publication-bias analyses using multilevel Egger's regression and power-enhanced
 - [The meta-analysis finds no major publication bias in the teacher personality–outcome associations](no-major-publication-bias-teacher-personality.md) — related
 - [Evidence of publication bias exists, but the pooled video effects are robust to it](publication-bias-present-but-effects-robust.md) — related
 - [Longer exercise intervention duration is consistently associated with larger effect sizes on ADHD functional outcomes](longer-exercise-interventions-larger-adhd-effects.md) — related
+- [Funnel-plot analysis finds no evidence of missing small-effect studies, though asymmetry from few negative estimates suggests possible small bias against null-negative results](publication-bias-grant-aid-meta-analysis.md) — related

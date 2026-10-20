@@ -13,7 +13,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 84 claims (59 show a difference, 17 mixed, 8 no difference) · 65 studies (18 review, 15 associational, 10 causal, 10 quant-synthesis, 5 qualitative, 5 design, 2 theoretical), `q1`–`q4` · 19 of 65 report an effect size · 80 claims rest on one study
+> **Evidence** · 87 claims (62 show a difference, 17 mixed, 8 no difference) · 66 studies (18 review, 15 associational, 11 quant-synthesis, 10 causal, 5 qualitative, 5 design, 2 theoretical), `q1`–`q4` · 19 of 66 report an effect size · 83 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -125,6 +125,9 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [Higher teacher-student conflict is associated with lower levels of specific metacognitive skills, while closeness is positively associated with metacognition in upper elementary school](../claims/dyadic-conflict-lower-metacognition.md) [+W] — learners who differ on it differ in outcomes
 - [Induced perspective-taking strategies affect SPT outcomes, but no consensus exists on the most effective strategy](../claims/strategy-inductions-affect-spt-outcomes.md) [~W] — instruction changes it
 - [Meditation shows significant but predominantly small effects on social competence, with teacher-facilitated programmes showing more significant effects](../claims/meditation-small-social-competence-effects.md) [~W] — instruction changes it
+- [Longitudinal associations between teacher–student and peer relationship quality are smaller than cross-sectional ones, with teacher–student relationships somewhat more predictive of peer relationships than vice versa](../claims/longitudinal-tsr-peer-effects-smaller-teacher-first-stronger.md) [+M] — learners who differ on it differ in outcomes
+- [Negative aspects of the teacher–student relationship are particularly predictive of peer relationships](../claims/negative-tsr-aspects-most-predictive-of-peer-relationships.md) [+M] — learners who differ on it differ in outcomes
+- [Teacher–student relationship quality partially mediates the association between student behavior and peer relationships](../claims/tsr-partially-mediates-behavior-peer-association.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

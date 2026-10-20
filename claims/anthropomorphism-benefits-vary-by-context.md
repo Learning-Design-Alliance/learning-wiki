@@ -61,3 +61,4 @@ A conceptual framework paper distinguishing humanlikeness (a design property) fr
 - [Robot exposure affects human autonomy and sense of agency, but no general conclusion about the direction of the effect can be drawn](robot-exposure-mixed-direction-autonomy-agency.md) — related
 - [Participants generally felt humanlikeness should not be a design goal for a writing-support agent used as a tool](participants-prefer-tool-over-humanlike-agent.md) — a narrower finding that bears on this claim
 - [Hypotheses that specific robot appearances would be trusted more in matching tasks (humanoids for teaching, task-oriented robots for instructions, soft robots for personal disclosure) were not confirmed](appearance-task-matching-hypotheses-not-confirmed.md) — related
+- [Meta-analytic path analysis supports model hypotheses but shows substantial unexplained heterogeneity across studies](meta-analytic-path-analysis-supports-tcm-with-heterogeneity.md) — related

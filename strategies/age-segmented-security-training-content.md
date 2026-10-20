@@ -43,6 +43,7 @@ Rather than a one-size-fits-all approach, this strategy tailors scam scenarios t
 ## Related Strategies
 
 - [Targeted and Specific Communication with Families](targeted_and_specific_communication_with_families.md)
+- [Make dementia education relevant to participants' role and experience and involve active face-to-face participation](role-relevant-active-face-to-face-dementia-education.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ Sequence mining and distribution plots of group-level interactions (RQ1) showed 
 - [Macro scripts foster knowledge-productive interactions: argumentation, explanations and mutual regulation](macro-scripts-foster-productive-interactions.md) — related
 - [Temporal phases of co-regulation matter: prolonged early planning to establish shared goals and common ground facilitates co-regulation and collaboration in later phases](temporal-phases-prolonged-early-planning-facilitates-later-co-regulation.md) — related
 - [Temporal process analysis reveals group- and task-related differences that the frequency accounts did not show, in the interchange of CPS elements over time](process-analysis-temporal-differences-groups-tasks.md) — related
+- [Co-constructions of loaded moments can result in specific long-term relationship- and bond-development](loaded-moment-outcomes-shape-long-term-relationship-development.md) — related

@@ -185,3 +185,4 @@ A narrative review reports this meta-analysis of more than 90 PreK–12 articles
 - [Theories of school belonging situate causes at the individual level and neglect the structural and compositional features of schools, which remain under-theorized](structural-compositional-school-features-neglected.md) — related
 - [Formative assessment is theorized to foster motivation by supporting autonomy, competence, and relatedness](formative-assessment-fosters-motivation-autonomy-competence-relatedness.md) — related
 - [Brief social-belonging interventions improve academic outcomes and well-being, especially for students facing identity threat, but risk being used to fix students rather than structures](social-belonging-intervention-improves-outcomes-but-misuse-risk.md) — related
+- [Negative aspects of the teacher–student relationship are particularly predictive of peer relationships](negative-tsr-aspects-most-predictive-of-peer-relationships.md) — related

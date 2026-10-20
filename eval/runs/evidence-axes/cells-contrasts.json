@@ -36326,5 +36326,29 @@
  "scaffolding\tduring-reading scaffolds added to activation\ttechniques without added during-reading scaffolds": {
   "label": "during-reading scaffolds vs no added during-reading scaffolds",
   "treatment_is_a": true
+ },
+ "active-learning\tactive face-to-face participation\tless active or non-face-to-face participation": {
+  "label": "active participation vs less active or non-face-to-face participation",
+  "treatment_is_a": true
+ },
+ "active-learning\tjigsaw classroom\tcomparison condition not specified": {
+  "label": "jigsaw classroom vs comparison condition",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tperceived autonomy support\tlower perceived autonomy support": {
+  "label": "higher autonomy support vs lower autonomy support",
+  "treatment_is_a": true
+ },
+ "practice-amount\tinterventions longer than 8 hours\tinterventions of 8 hours or less": {
+  "label": "longer vs shorter practice duration",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tgrant aid\teligible comparison condition": {
+  "label": "grant aid vs no grant aid",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tmerit-only grant aid\tcomparison condition without merit-only aid": {
+  "label": "merit-only grant aid vs no merit-only grant aid",
+  "treatment_is_a": true
  }
 }

@@ -31,7 +31,7 @@ sources:
 # Mentoring and Coaching
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 63 claims (30 for, 26 mixed, 7 against) · 46 studies (12 causal, 10 review, 10 associational, 8 qualitative, 3 design, 2 quant-synthesis, 1 theoretical), `q1`–`q4` · 5 of 46 report an effect size · 59 claims rest on one study
+> **Evidence** · 64 claims (31 for, 26 mixed, 7 against) · 47 studies (12 causal, 10 review, 10 associational, 9 qualitative, 3 design, 2 quant-synthesis, 1 theoretical), `q1`–`q4` · 5 of 47 report an effect size · 60 claims rest on one study
 
 ## Conditional relationship
 
@@ -157,6 +157,7 @@ Claims the earlier page cited that this model does not use, each with a note on 
 - [Teachers without mentors reached the impact level more often than mentored teachers, raising the question that mentoring may inhibit development](../claims/mentors-may-inhibit-concern-development.md) [~W] — a small 1990 study of teachers' concerns with volunteer groups; a reminder that the relationship can hold a learner back.
 - [Few teachers receive regular mentoring, and early-career teachers of color report less access to mentoring and induction than White peers](../claims/limited-mentoring-access-early-career-teachers-of-color.md) [~W] — national survey figures on access; read the claim's figures, which differ by measure.
 - [Mentoring relationships in undergraduate research are highly influential in students' campus connection, retention in their major, and persistence to graduation](../claims/ur-mentoring-retention-persistence.md) [+W] — a taxonomy article's summary of earlier studies.
+- [District leaders must take an active role in removing barriers and fostering a supportive culture for coaching programs to succeed](../claims/district-leaders-active-role-coaching-success.md) [+W] — attached 2026-10-20 from Hardy et al. (2021), which proposed "Adopt a research-backed coaching model aligned with district goals that specifies roles and targeted outcomes".
 
 ## Objective and learner-valued goal
 

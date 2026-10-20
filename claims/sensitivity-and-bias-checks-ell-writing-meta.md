@@ -77,3 +77,4 @@ Publication bias assessment using funnel plots, trim-and-fill, and Egger's regre
 - [Process writing yields a meaningful but not statistically significant effect (g = 0.51) on US ELL students' writing](process-writing-nonsignificant-us-ell-writing.md) — a narrower finding that bears on this claim
 - [Strategy instruction significantly improves the writing of US ELL students (g = 0.36)](strategy-instruction-significant-us-ell-writing.md) — related
 - [A cluster-robust Egger-type test found no statistically detectable small-study effects, interpreted as absence of evidence rather than evidence of no publication bias](egger-test-no-detectable-small-study-effects.md) — related
+- [Funnel-plot analysis finds no evidence of missing small-effect studies, though asymmetry from few negative estimates suggests possible small bias against null-negative results](publication-bias-grant-aid-meta-analysis.md) — related

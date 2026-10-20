@@ -70,3 +70,4 @@ immersion context, not foreign-language study abroad. Self-report, cross-section
 - [Learners of Italian report ideal-self motivation rather than instrumental motivation, while their teachers assume the reverse](italian-l2-motivation-is-ideal-self-not-instrumental.md) — the other learner-side variable in this set
 - [Preservation of the mother tongue predicts second-language achievement among migrant children](mother-tongue-preservation-predicts-l2-achievement.md) — related
 - [Small-scale studies suggest age 15-16 with intermediate English proficiency (reading GE 5) is a good immigration age](arrival-age-15-16-ge5-good-immigration-age.md) — related
+- [Educational domain, cultural orientation, age, gender, and socioeconomic status are candidate moderators of model effects](tcm-candidate-moderators-of-model-effects.md) — related

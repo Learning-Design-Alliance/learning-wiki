@@ -65,3 +65,4 @@ Publication-bias assessment of the 15 included studies using a funnel plot and E
 - [The text generation research field shows a small-study effect suggesting publication bias](small-study-effect-publication-bias.md) — reports the opposite
 - [Most study, measurement, and intervention moderators did not explain significant variance in SRL intervention effect sizes](srl-intervention-moderators-most-nonsignificant.md) — related
 - [Regulation-of-learning interventions in programming education show an average effect of 0.59 on programming learning](regulation-interventions-programming-average-effect.md) — related
+- [No clear evidence of publication bias or small study effects in the collaborative instruction literature](no-publication-bias-collaborative-instruction.md) — related

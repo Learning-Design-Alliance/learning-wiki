@@ -48,3 +48,4 @@ Parameter estimates from the fitted mutualism LCS model in the Results section o
 - [The mutualism model's coupling structure held equally across sexes and age did not directly predict change scores](coupling-robust-across-sexes-age.md) — related
 - [Both cognitive domains showed significant growth, negative self-feedback, and substantial individual differences in change over the interval](univariate-lcs-growth-negative-feedback.md) — related
 - [Scores from a different subject test can serve as collateral information: mathematics scores can improve reading item parameter estimation and vice versa](cross-test-scores-as-collateral-information.md) — related
+- [Longitudinal associations between teacher–student and peer relationship quality are smaller than cross-sectional ones, with teacher–student relationships somewhat more predictive of peer relationships than vice versa](longitudinal-tsr-peer-effects-smaller-teacher-first-stronger.md) — related

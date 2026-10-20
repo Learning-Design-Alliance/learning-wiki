@@ -51,3 +51,4 @@ Publication-bias assessment of the cross-sectional three-level model: visual fun
 - [The cross-sectional ToM–achievement association remains significant after controlling for verbal ability, executive functions, non-verbal ability, and SES](tom-achievement-unique-beyond-covariates.md) — related
 - [Funnel-plot asymmetry ran contrary to small-study effects because larger-sample studies reported larger effect sizes, likely reflecting longer training programs](funnel-asymmetry-contrary-to-small-study-effects.md) — related
 - [Publication bias is present in the embodied vocabulary learning literature, suggesting pooled effects may overestimate the true benefit](publication-bias-embodied-vocabulary-meta-analysis.md) — related
+- [No clear evidence of publication bias or small study effects in the collaborative instruction literature](no-publication-bias-collaborative-instruction.md) — related

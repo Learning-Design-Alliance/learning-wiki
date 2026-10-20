@@ -69,3 +69,4 @@ Method comparison within the same secondary review. The authors speculated that 
 - Cooperative learning produces significantly greater achievement than traditional instruction in most long-duration controlled comparisons — a broader claim this one bears on
 - [Classroom research primarily supports the motivational perspective on cooperative learning effects](classroom-research-supports-motivational-perspective.md) — related
 - [Science-classroom studies of cooperative learning show mixed results, with several null or negative comparisons](cooperative-learning-science-studies-mixed.md) — related
+- [The jigsaw classroom overall leads to positive effects, but findings vary depending on the academic subjects and psychosocial variables measured](jigsaw-overall-positive-effects-vary-by-subject-and-variable.md) — related

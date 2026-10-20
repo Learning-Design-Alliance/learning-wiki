@@ -23,7 +23,7 @@ sources:
 # Effective Classroom Management Plan Criteria
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 28 claims (18 for, 8 mixed, 2 against) · 35 studies (13 quant-synthesis, 9 review, 6 causal, 3 qualitative, 2 design, 1 associational, 1 theoretical), `q1`–`q4` · 7 of 35 report an effect size · 21 claims rest on one study
+> **Evidence** · 29 claims (18 for, 9 mixed, 2 against) · 36 studies (14 quant-synthesis, 9 review, 6 causal, 3 qualitative, 2 design, 1 associational, 1 theoretical), `q1`–`q4` · 7 of 36 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 
@@ -139,6 +139,7 @@ Read against the model on 2026-10-15 and left here because none can carry a step
 - [A non-peer-reviewed web essay asserts that behaviorist reinforcement methods are very effective in creating positive behavior](../claims/behaviorist-reinforcement-effective-positive-behavior.md) [+W] — a second-hand assertion with no sample; listed because the earlier page linked reinforcement theory.
 - [High-information feedback has a very large effect (d = 0.99) while reinforcement/punishment has a low effect (d = 0.24)](../claims/feedback-most-effective-at-task-and-process-levels.md) [-W]
 - [Making rounds minimizes off-task behaviour because pupils monitor for the teacher's approach and adjust their behaviour](../claims/rounds-surveillance-minimizes-off-task.md) [+W] — attached 2026-10-18 from Christian Greiffenhagen (2011), which proposed "Teacher rounds as the routine organization of monitoring during pair work at computers".
+- [Teacher–student relationship quality partially mediates the association between student behavior and peer relationships](../claims/tsr-partially-mediates-behavior-peer-association.md) [~W] — attached 2026-10-20 from Endedijk et al. (2022), which proposed "Prevent or reduce negative aspects of teacher–student relationships, especially for students with behavioral problems, to support classroom peer relationships".
 
 ## Objective and learner-valued goal
 

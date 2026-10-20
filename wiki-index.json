@@ -1,16 +1,16 @@
 {
 "counts":{
-"claim":22789,
-"design":963,
+"claim":22831,
+"design":964,
 "element":1057,
 "learner-variable":75,
 "method":37,
 "pattern":54,
 "principle":170,
 "process":18,
-"product":1822,
-"research-method":507,
-"strategy":6314,
+"product":1825,
+"research-method":510,
+"strategy":6323,
 "theory":1359
 },
 "kinds":[
@@ -1630,6 +1630,15 @@
 "note":"Resolution table for learning-design-spec: every content page's id, kind and title, plus every retired slug that still resolves. Built by scripts/build_wiki_index.py; committed because the consuming repo has no wiki checkout.",
 "okf_version":"0.2",
 "pages":[
+{
+"description":"A large evidence base exists: 128 treatment-control studies of collaborative instruction from 1984–2020, of which 52 were excluded for critical risk of bias",
+"evidence_strength":"moderate",
+"id":"128-studies-evidence-base-52-excluded",
+"path":"claims/128-studies-evidence-base-52-excluded.md",
+"status":"review",
+"title":"A large evidence base exists: 128 treatment-control studies of collaborative instruction from 1984–2020, of which 52 were excluded for critical risk of bias",
+"type":"claim"
+},
 {
 "description":"The 14-LO attribute structure improved DINA model fit over MCD-v1's four-skill structure for all three RBAs",
 "evidence_strength":"moderate",
@@ -13070,6 +13079,15 @@
 "type":"claim"
 },
 {
+"description":"Grant aid programs bundling additional academic or social supports show larger persistence and completion effects than aid alone",
+"evidence_strength":"moderate",
+"id":"aid-plus-supports-larger-effects",
+"path":"claims/aid-plus-supports-larger-effects.md",
+"status":"review",
+"title":"Grant aid programs bundling additional academic or social supports show larger persistence and completion effects than aid alone",
+"type":"claim"
+},
+{
 "description":"In an exploratory randomised trial, the AIDA-supported group showed a higher learning gain than the control group, though the authors caution about the small volunteer sample",
 "evidence_strength":"weak",
 "id":"aida-experimental-group-higher-learning-gain",
@@ -17337,6 +17355,15 @@
 "type":"claim"
 },
 {
+"description":"Effects of collaborative instruction are mostly the same size whether interventions used trained teachers or assistants without teaching qualifications",
+"evidence_strength":"moderate",
+"id":"assistant-vs-trained-teacher-similar-effects",
+"path":"claims/assistant-vs-trained-teacher-similar-effects.md",
+"status":"review",
+"title":"Effects of collaborative instruction are mostly the same size whether interventions used trained teachers or assistants without teaching qualifications",
+"type":"claim"
+},
+{
 "description":"Assisting self-explanation prompts particularly foster conceptual knowledge, an effect mediated by self-explanations on the rationale of a principle",
 "evidence_strength":"moderate",
 "id":"assisting-prompts-foster-conceptual-knowledge",
@@ -19036,6 +19063,15 @@
 "path":"claims/autonomous-motivation-lower-load-higher-achievement-cross-sectional.md",
 "status":"review",
 "title":"Promoting autonomous motivation was linked to higher motivation, lower experienced cognitive load, and higher achievement, but causality cannot be interpreted",
+"type":"claim"
+},
+{
+"description":"Autonomous motivation significantly and positively predicts subjective norms, contrary to theoretical expectations",
+"evidence_strength":"weak",
+"id":"autonomous-motivation-predicts-subjective-norms-positively",
+"path":"claims/autonomous-motivation-predicts-subjective-norms-positively.md",
+"status":"review",
+"title":"Autonomous motivation significantly and positively predicts subjective norms, contrary to theoretical expectations",
 "type":"claim"
 },
 {
@@ -33123,6 +33159,15 @@
 "type":"claim"
 },
 {
+"description":"Loaded moments (de)escalate through moment-by-moment co-construction such as mutual trade-offs, turnings, or refusals",
+"evidence_strength":"weak",
+"id":"co-construction-drives-de-escalation-trade-offs-turnings-refusals",
+"path":"claims/co-construction-drives-de-escalation-trade-offs-turnings-refusals.md",
+"status":"review",
+"title":"Loaded moments (de)escalate through moment-by-moment co-construction such as mutual trade-offs, turnings, or refusals",
+"type":"claim"
+},
+{
 "description":"Collaborative text co-construction with the teacher as scribe gives five-year-olds autonomy of composition and judgement and sustains long focused engagement",
 "evidence_strength":"weak",
 "id":"co-construction-scribe-teacher-fosters-composition-autonomy",
@@ -35229,6 +35274,15 @@
 "type":"claim"
 },
 {
+"description":"Collaborative instruction yields a small, positive, statistically significant mean effect on student achievement compared to single-taught controls",
+"evidence_strength":"moderate",
+"id":"collaborative-instruction-small-positive-mean-effect",
+"path":"claims/collaborative-instruction-small-positive-mean-effect.md",
+"status":"review",
+"title":"Collaborative instruction yields a small, positive, statistically significant mean effect on student achievement compared to single-taught controls",
+"type":"claim"
+},
+{
 "description":"Collaborative leadership and practice can create conditions for improving student learning, with social capital and teacher-peer learning explaining the link to achievement",
 "evidence_strength":"weak",
 "id":"collaborative-leadership-social-capital-achievement",
@@ -36308,6 +36362,15 @@
 "path":"claims/common-denominator-advantage-mld-crossover.md",
 "status":"review",
 "title":"Fraction pairs with common denominators are compared more accurately than pairs with common numerators, but children with MLD show a crossover, improving on common numerator items while declining on common denominator items",
+"type":"claim"
+},
+{
+"description":"Common features distinguish more efficacious dementia educational programs, including role relevance, active face-to-face participation, theory-underpinned practice learning, experienced facilitation, and support for...",
+"evidence_strength":"moderate",
+"id":"common-features-efficacious-dementia-education-programs",
+"path":"claims/common-features-efficacious-dementia-education-programs.md",
+"status":"review",
+"title":"Common features distinguish more efficacious dementia educational programs, including role relevance, active face-to-face participation, theory-underpinned practice learning, experienced facilitation, and support for applying learning in practice",
 "type":"claim"
 },
 {
@@ -41012,6 +41075,15 @@
 "path":"claims/cotal-rules-task-qwk-gain.md",
 "status":"review",
 "title":"CoTAL improves GPT-4 scoring agreement with human scorers on the Rules Task, raising average subscore QWK from 0.826 to 0.916 (a 10.9% gain) over a non-prompt-engineered baseline",
+"type":"claim"
+},
+{
+"description":"Factors highlighted in the co-teaching literature as preconditions for effectiveness did not explain variation in effect sizes",
+"evidence_strength":"moderate",
+"id":"coteaching-preconditions-no-moderation",
+"path":"claims/coteaching-preconditions-no-moderation.md",
+"status":"review",
+"title":"Factors highlighted in the co-teaching literature as preconditions for effectiveness did not explain variation in effect sizes",
 "type":"claim"
 },
 {
@@ -48796,6 +48868,15 @@
 "path":"claims/demanding-tasks-reveal-ef-training-benefits.md",
 "status":"review",
 "title":"Largest EF-training benefits emerge on the most demanding EF tasks and task conditions, so outcome measures must test the limits of children's EF abilities",
+"type":"claim"
+},
+{
+"description":"The evidence base on dementia workforce education comprises 152 included papers of variable quality",
+"evidence_strength":"weak",
+"id":"dementia-education-evidence-152-papers-variable-quality",
+"path":"claims/dementia-education-evidence-152-papers-variable-quality.md",
+"status":"review",
+"title":"The evidence base on dementia workforce education comprises 152 included papers of variable quality",
 "type":"claim"
 },
 {
@@ -82549,6 +82630,33 @@
 "type":"claim"
 },
 {
+"description":"Effects of grant aid on persistence and completion are heterogeneous across studies, justifying random-effects meta-analysis",
+"evidence_strength":"moderate",
+"id":"grant-aid-effects-heterogeneous-across-studies",
+"path":"claims/grant-aid-effects-heterogeneous-across-studies.md",
+"status":"review",
+"title":"Effects of grant aid on persistence and completion are heterogeneous across studies, justifying random-effects meta-analysis",
+"type":"claim"
+},
+{
+"description":"Grant aid increases degree completion, raising on-time completion by 2.4 and delayed completion by 2.5 percentage points in U.S.",
+"evidence_strength":"strong",
+"id":"grant-aid-increases-degree-completion",
+"path":"claims/grant-aid-increases-degree-completion.md",
+"status":"review",
+"title":"Grant aid increases degree completion, raising on-time completion by 2.4 and delayed completion by 2.5 percentage points in U.S. causal studies",
+"type":"claim"
+},
+{
+"description":"Grant aid increases postsecondary persistence, raising within-year persistence by 3.2 and year-to-year persistence by 1.8 percentage points in U.S.",
+"evidence_strength":"strong",
+"id":"grant-aid-increases-postsecondary-persistence",
+"path":"claims/grant-aid-increases-postsecondary-persistence.md",
+"status":"review",
+"title":"Grant aid increases postsecondary persistence, raising within-year persistence by 3.2 and year-to-year persistence by 1.8 percentage points in U.S. causal studies",
+"type":"claim"
+},
+{
 "description":"Most respondents found grant training useful, applied the information in their school, and shared it with others",
 "evidence_strength":"weak",
 "id":"grant-training-useful-applied-shared",
@@ -93223,6 +93331,15 @@
 "type":"claim"
 },
 {
+"description":"Loaded moments emerge when instigating circumstances co-construct incompatibilities between teacher and students",
+"evidence_strength":"weak",
+"id":"instigating-circumstances-co-construct-incompatibility",
+"path":"claims/instigating-circumstances-co-construct-incompatibility.md",
+"status":"review",
+"title":"Loaded moments emerge when instigating circumstances co-construct incompatibilities between teacher and students",
+"type":"claim"
+},
+{
 "description":"Institutional AI adoption is uneven, with partial adoption, incomplete policy development and uncertainty in high-stakes contexts",
 "evidence_strength":"weak",
 "id":"institutional-ai-governance-uneven",
@@ -95663,6 +95780,15 @@
 "type":"claim"
 },
 {
+"description":"Intervention length may matter: a prior review found positive associations for decision-making and skill execution for interventions longer than 8 hours",
+"evidence_strength":"weak",
+"id":"intervention-length-over-8-hours-decision-making",
+"path":"claims/intervention-length-over-8-hours-decision-making.md",
+"status":"review",
+"title":"Intervention length may matter: a prior review found positive associations for decision-making and skill execution for interventions longer than 8 hours",
+"type":"claim"
+},
+{
 "description":"The sycophancy-focused intervention significantly reduced the assistant's positional mirroring of incorrect user rankings and rank-order alignment",
 "evidence_strength":"moderate",
 "id":"intervention-reduced-positional-mimicry",
@@ -97390,6 +97516,42 @@
 "path":"claims/jeu-serai-replay-item-measures-realistic-affiliation.md",
 "status":"review",
 "title":"The replay item in JEU SERAI indicated Realistic type affiliation regardless of the anticipated RIASEC type of the mini game replayed",
+"type":"claim"
+},
+{
+"description":"Before this review, available evidence for jigsaw effectiveness was scant and mixed, with neither meta-analysis nor systematic review",
+"evidence_strength":"weak",
+"id":"jigsaw-evidence-previously-scant-and-mixed-no-meta-analysis",
+"path":"claims/jigsaw-evidence-previously-scant-and-mixed-no-meta-analysis.md",
+"status":"review",
+"title":"Before this review, available evidence for jigsaw effectiveness was scant and mixed, with neither meta-analysis nor systematic review",
+"type":"claim"
+},
+{
+"description":"The jigsaw classroom overall leads to positive effects, but findings vary depending on the academic subjects and psychosocial variables measured",
+"evidence_strength":"moderate",
+"id":"jigsaw-overall-positive-effects-vary-by-subject-and-variable",
+"path":"claims/jigsaw-overall-positive-effects-vary-by-subject-and-variable.md",
+"status":"review",
+"title":"The jigsaw classroom overall leads to positive effects, but findings vary depending on the academic subjects and psychosocial variables measured",
+"type":"claim"
+},
+{
+"description":"Sixty-nine studies on jigsaw met the review's inclusion criteria for the 1978–2022 period",
+"evidence_strength":"moderate",
+"id":"jigsaw-review-69-studies-inclusion-criteria",
+"path":"claims/jigsaw-review-69-studies-inclusion-criteria.md",
+"status":"review",
+"title":"Sixty-nine studies on jigsaw met the review's inclusion criteria for the 1978–2022 period",
+"type":"claim"
+},
+{
+"description":"The jigsaw review revealed research trends, research gaps, and issues of research integrity in the jigsaw literature",
+"evidence_strength":"weak",
+"id":"jigsaw-review-revealed-trends-gaps-integrity-issues",
+"path":"claims/jigsaw-review-revealed-trends-gaps-integrity-issues.md",
+"status":"review",
+"title":"The jigsaw review revealed research trends, research gaps, and issues of research integrity in the jigsaw literature",
 "type":"claim"
 },
 {
@@ -107720,6 +107882,15 @@
 "type":"claim"
 },
 {
+"description":"Co-constructions of loaded moments can result in specific long-term relationship- and bond-development",
+"evidence_strength":"weak",
+"id":"loaded-moment-outcomes-shape-long-term-relationship-development",
+"path":"claims/loaded-moment-outcomes-shape-long-term-relationship-development.md",
+"status":"review",
+"title":"Co-constructions of loaded moments can result in specific long-term relationship- and bond-development",
+"type":"claim"
+},
+{
 "description":"Over a third (36.7%) of borrowing teachers have worked multiple jobs because of student loans, and the share rises with monthly repayment amounts",
 "evidence_strength":"moderate",
 "id":"loan-debt-multiple-jobs-teachers",
@@ -108267,6 +108438,15 @@
 "path":"claims/longitudinal-trust-studies-omit-skill-outcomes.md",
 "status":"review",
 "title":"Longitudinal studies of trust and reliance in AI advice examine whether users rely appropriately over time but not whether independent reasoning capacity is maintained",
+"type":"claim"
+},
+{
+"description":"Longitudinal associations between teacher–student and peer relationship quality are smaller than cross-sectional ones, with teacher–student relationships somewhat more predictive of peer relationships than vice versa",
+"evidence_strength":"moderate",
+"id":"longitudinal-tsr-peer-effects-smaller-teacher-first-stronger",
+"path":"claims/longitudinal-tsr-peer-effects-smaller-teacher-first-stronger.md",
+"status":"review",
+"title":"Longitudinal associations between teacher–student and peer relationship quality are smaller than cross-sectional ones, with teacher–student relationships somewhat more predictive of peer relationships than vice versa",
 "type":"claim"
 },
 {
@@ -110202,6 +110382,15 @@
 "path":"claims/machine-machine-above-human-machine-below-human-human.md",
 "status":"review",
 "title":"Machine–machine agreement exceeds human–machine agreement but remains below human–human agreement",
+"type":"claim"
+},
+{
+"description":"Macro-level social contexts and existing classroom patterns set the scene for loaded moments",
+"evidence_strength":"weak",
+"id":"macro-contexts-set-scene-for-loaded-moments",
+"path":"claims/macro-contexts-set-scene-for-loaded-moments.md",
+"status":"review",
+"title":"Macro-level social contexts and existing classroom patterns set the scene for loaded moments",
 "type":"claim"
 },
 {
@@ -114580,6 +114769,15 @@
 "path":"claims/meta-analytic-alpha-knowledge-tests-085.md",
 "status":"review",
 "title":"Meta-analytic average Cronbach's Alpha of domain-specific knowledge tests is 0.85 with expected item intercorrelation of 0.22",
+"type":"claim"
+},
+{
+"description":"Meta-analytic path analysis supports model hypotheses but shows substantial unexplained heterogeneity across studies",
+"evidence_strength":"moderate",
+"id":"meta-analytic-path-analysis-supports-tcm-with-heterogeneity",
+"path":"claims/meta-analytic-path-analysis-supports-tcm-with-heterogeneity.md",
+"status":"review",
+"title":"Meta-analytic path analysis supports model hypotheses but shows substantial unexplained heterogeneity across studies",
 "type":"claim"
 },
 {
@@ -122713,6 +122911,15 @@
 "type":"claim"
 },
 {
+"description":"Need-based grant aid improves persistence and completion while merit-only aid shows no detectable effect on these outcomes",
+"evidence_strength":"moderate",
+"id":"need-based-aid-effective-merit-only-not",
+"path":"claims/need-based-aid-effective-merit-only-not.md",
+"status":"review",
+"title":"Need-based grant aid improves persistence and completion while merit-only aid shows no detectable effect on these outcomes",
+"type":"claim"
+},
+{
 "description":"Colleges with higher percentages of first-generation, economically disadvantaged, academically disadvantaged, older, and English learner students earned fewer success points milestones per FTE student",
 "evidence_strength":"moderate",
 "id":"need-factors-fewer-success-points-milestones",
@@ -123052,6 +123259,15 @@
 "path":"claims/negative-think-aloud-emotions-both-texts.md",
 "status":"review",
 "title":"Emotions reported during think-aloud reading were mostly negative (anger, sadness) for both texts, in contrast to positive questionnaire-reported emotions toward the other ethnic group",
+"type":"claim"
+},
+{
+"description":"Negative aspects of the teacher–student relationship are particularly predictive of peer relationships",
+"evidence_strength":"moderate",
+"id":"negative-tsr-aspects-most-predictive-of-peer-relationships",
+"path":"claims/negative-tsr-aspects-most-predictive-of-peer-relationships.md",
+"status":"review",
+"title":"Negative aspects of the teacher–student relationship are particularly predictive of peer relationships",
 "type":"claim"
 },
 {
@@ -126782,6 +126998,15 @@
 "path":"claims/no-public-genai-policies-german-universities-tallinn.md",
 "status":"review",
 "title":"No public GenAI policies were found for German universities and Tallinn University of Technology among the sampled institutions",
+"type":"claim"
+},
+{
+"description":"No clear evidence of publication bias or small study effects in the collaborative instruction literature",
+"evidence_strength":"moderate",
+"id":"no-publication-bias-collaborative-instruction",
+"path":"claims/no-publication-bias-collaborative-instruction.md",
+"status":"review",
+"title":"No clear evidence of publication bias or small study effects in the collaborative instruction literature",
 "type":"claim"
 },
 {
@@ -145973,6 +146198,15 @@
 "type":"claim"
 },
 {
+"description":"A prior meta-analysis found tactical interventions significantly improved decision-making but not skill execution compared with technical approaches",
+"evidence_strength":"weak",
+"id":"prior-meta-analysis-decision-making-not-skill-execution",
+"path":"claims/prior-meta-analysis-decision-making-not-skill-execution.md",
+"status":"review",
+"title":"A prior meta-analysis found tactical interventions significantly improved decision-making but not skill execution compared with technical approaches",
+"type":"claim"
+},
+{
 "description":"Prior research has linked moving during childhood with adverse educational and behavioral adjustment outcomes, with the disruptive nature of moving cited as the underlying factor",
 "evidence_strength":"weak",
 "id":"prior-mobility-research-adverse-child-outcomes",
@@ -150223,6 +150457,15 @@
 "path":"claims/publication-bias-embodied-vocabulary-meta-analysis.md",
 "status":"review",
 "title":"Publication bias is present in the embodied vocabulary learning literature, suggesting pooled effects may overestimate the true benefit",
+"type":"claim"
+},
+{
+"description":"Funnel-plot analysis finds no evidence of missing small-effect studies, though asymmetry from few negative estimates suggests possible small bias against null-negative results",
+"evidence_strength":"weak",
+"id":"publication-bias-grant-aid-meta-analysis",
+"path":"claims/publication-bias-grant-aid-meta-analysis.md",
+"status":"review",
+"title":"Funnel-plot analysis finds no evidence of missing small-effect studies, though asymmetry from few negative estimates suggests possible small bias against null-negative results",
 "type":"claim"
 },
 {
@@ -182492,6 +182735,33 @@
 "type":"claim"
 },
 {
+"description":"Little is known about substitute teachers' work conditions, motivations, experiences, and support despite their ubiquity in the teaching workforce",
+"evidence_strength":"weak",
+"id":"substitute-teacher-research-gap",
+"path":"claims/substitute-teacher-research-gap.md",
+"status":"review",
+"title":"Little is known about substitute teachers' work conditions, motivations, experiences, and support despite their ubiquity in the teaching workforce",
+"type":"claim"
+},
+{
+"description":"Substitute teachers enable school improvement efforts by freeing other teachers' time for professional learning, administrative duties, and personal matters",
+"evidence_strength":"weak",
+"id":"substitute-teachers-enable-release-time",
+"path":"claims/substitute-teachers-enable-release-time.md",
+"status":"review",
+"title":"Substitute teachers enable school improvement efforts by freeing other teachers' time for professional learning, administrative duties, and personal matters",
+"type":"claim"
+},
+{
+"description":"Substitute teachers are a heterogeneous group whose work conditions and experiences are less than satisfactory, exacerbated by a lack of targeted support",
+"evidence_strength":"moderate",
+"id":"substitute-teachers-unsatisfactory-conditions-lack-support",
+"path":"claims/substitute-teachers-unsatisfactory-conditions-lack-support.md",
+"status":"review",
+"title":"Substitute teachers are a heterogeneous group whose work conditions and experiences are less than satisfactory, exacerbated by a lack of targeted support",
+"type":"claim"
+},
+{
 "description":"Policy guidance is most actionable for final-output substitution scenarios",
 "evidence_strength":"moderate",
 "id":"substitution-most-actionable-scenario",
@@ -186449,6 +186719,15 @@
 "path":"claims/tc-effect-larger-for-chinese-supplementary.md",
 "status":"review",
 "title":"A supplementary analysis restricted to TC and control nonword primes shows the TC effect is marginally larger for Chinese than Japanese speakers",
+"type":"claim"
+},
+{
+"description":"Educational domain, cultural orientation, age, gender, and socioeconomic status are candidate moderators of model effects",
+"evidence_strength":"weak",
+"id":"tcm-candidate-moderators-of-model-effects",
+"path":"claims/tcm-candidate-moderators-of-model-effects.md",
+"status":"review",
+"title":"Educational domain, cultural orientation, age, gender, and socioeconomic status are candidate moderators of model effects",
 "type":"claim"
 },
 {
@@ -191533,6 +191812,33 @@
 "type":"claim"
 },
 {
+"description":"Comparative TGA research is concentrated in Western Europe, equally split between primary and secondary schools, mostly single-sport and quasi-experimental",
+"evidence_strength":"moderate",
+"id":"tga-comparative-study-characteristics",
+"path":"claims/tga-comparative-study-characteristics.md",
+"status":"review",
+"title":"Comparative TGA research is concentrated in Western Europe, equally split between primary and secondary schools, mostly single-sport and quasi-experimental",
+"type":"claim"
+},
+{
+"description":"Reporting quality of comparative TGA studies was mostly low, with moderate to serious risk of bias",
+"evidence_strength":"moderate",
+"id":"tga-studies-low-reporting-quality-rob",
+"path":"claims/tga-studies-low-reporting-quality-rob.md",
+"status":"review",
+"title":"Reporting quality of comparative TGA studies was mostly low, with moderate to serious risk of bias",
+"type":"claim"
+},
+{
+"description":"Comparative studies commonly show TGAs improving tactical skill, skill execution, affective, procedural knowledge and/or physical activity, while TAs improve skill execution and technical skill",
+"evidence_strength":"moderate",
+"id":"tga-vs-ta-outcome-patterns-pe-review",
+"path":"claims/tga-vs-ta-outcome-patterns-pe-review.md",
+"status":"review",
+"title":"Comparative studies commonly show TGAs improving tactical skill, skill execution, affective, procedural knowledge and/or physical activity, while TAs improve skill execution and technical skill",
+"type":"claim"
+},
+{
 "description":"Effects on behavioral intentions for marijuana use and fighting were not statistically significant in either study",
 "evidence_strength":"weak",
 "id":"tgfdv-intentions-null-results",
@@ -191980,6 +192286,15 @@
 "path":"claims/thought-validity-mediation-performance.md",
 "status":"review",
 "title":"Perceived thought validity mediates the effect of the confidence induction on performance",
+"type":"claim"
+},
+{
+"description":"An additional $1,000 of grant aid improves year-to-year persistence by a statistically significant 1.2 percentage points, with smaller statistically insignificant effects on degree completion",
+"evidence_strength":"moderate",
+"id":"thousand-dollars-aid-persistence-dose",
+"path":"claims/thousand-dollars-aid-persistence-dose.md",
+"status":"review",
+"title":"An additional $1,000 of grant aid improves year-to-year persistence by a statistically significant 1.2 percentage points, with smaller statistically insignificant effects on degree completion",
 "type":"claim"
 },
 {
@@ -196196,6 +196511,15 @@
 "path":"claims/tsp-sart-om-null-alcohol-effects.md",
 "status":"review",
 "title":"TSP (complex spatial problem solving) and SART-OM (vigilance for frequent events) showed no significant alcohol effects, an outcome the authors report as unexpected",
+"type":"claim"
+},
+{
+"description":"Teacher–student relationship quality partially mediates the association between student behavior and peer relationships",
+"evidence_strength":"moderate",
+"id":"tsr-partially-mediates-behavior-peer-association",
+"path":"claims/tsr-partially-mediates-behavior-peer-association.md",
+"status":"review",
+"title":"Teacher–student relationship quality partially mediates the association between student behavior and peer relationships",
 "type":"claim"
 },
 {
@@ -205502,6 +205826,60 @@
 "type":"claim"
 },
 {
+"description":"Loan conditionalities compel policy reform, with SAP-era requirements later evolving into subtler forms such as Poverty Reduction Strategy Papers and impact-evaluation demands",
+"evidence_strength":"moderate",
+"id":"world-bank-conditionality-evolved-subtler",
+"path":"claims/world-bank-conditionality-evolved-subtler.md",
+"status":"review",
+"title":"Loan conditionalities compel policy reform, with SAP-era requirements later evolving into subtler forms such as Poverty Reduction Strategy Papers and impact-evaluation demands",
+"type":"claim"
+},
+{
+"description":"Most reviewed World Bank studies do not explicitly state their theoretical orientation or methods, an area the review flags for improvement",
+"evidence_strength":"moderate",
+"id":"world-bank-literature-theory-method-gaps",
+"path":"claims/world-bank-literature-theory-method-gaps.md",
+"status":"review",
+"title":"Most reviewed World Bank studies do not explicitly state their theoretical orientation or methods, an area the review flags for improvement",
+"type":"claim"
+},
+{
+"description":"Loans are the most common pathway of World Bank influence, and their scale and discretionary weight amplify their impact",
+"evidence_strength":"moderate",
+"id":"world-bank-loans-most-common-pathway",
+"path":"claims/world-bank-loans-most-common-pathway.md",
+"status":"review",
+"title":"Loans are the most common pathway of World Bank influence, and their scale and discretionary weight amplify their impact",
+"type":"claim"
+},
+{
+"description":"Pathway mentions in the literature rose over time, suggesting the World Bank diversified its influence strategies beyond lending",
+"evidence_strength":"weak",
+"id":"world-bank-pathway-diversification-over-time",
+"path":"claims/world-bank-pathway-diversification-over-time.md",
+"status":"review",
+"title":"Pathway mentions in the literature rose over time, suggesting the World Bank diversified its influence strategies beyond lending",
+"type":"claim"
+},
+{
+"description":"Pilot projects serve as a pathway for testing models, gaining organizational footholds, and building political support before scale-up",
+"evidence_strength":"moderate",
+"id":"world-bank-pilot-projects-foothold-pathway",
+"path":"claims/world-bank-pilot-projects-foothold-pathway.md",
+"status":"review",
+"title":"Pilot projects serve as a pathway for testing models, gaining organizational footholds, and building political support before scale-up",
+"type":"claim"
+},
+{
+"description":"Technical assistance functions as a structural constraint that embeds World Bank frameworks in national policymaking, not merely as advice",
+"evidence_strength":"moderate",
+"id":"world-bank-technical-assistance-structural-constraint",
+"path":"claims/world-bank-technical-assistance-structural-constraint.md",
+"status":"review",
+"title":"Technical assistance functions as a structural constraint that embeds World Bank frameworks in national policymaking, not merely as advice",
+"type":"claim"
+},
+{
 "description":"World of Words produced a statistically significant medium effect on a comprehension composite measure (effect size 0.54) after 12 weeks",
 "evidence_strength":"moderate",
 "id":"world-of-words-comprehension-composite-significant",
@@ -208197,6 +208575,14 @@
 "path":"designs/cmp-active-collaborative-productive-struggle-pedagogy.md",
 "status":"review",
 "title":"CMP active, collaborative pedagogy with productive struggle and productive persistence in the corequisite pairs",
+"type":"design"
+},
+{
+"description":"The study implemented co-teaching as a collaborative effort of two or more educators who \\\"share all aspects of teaching, planning, and evaluation\\\", pairing class teachers with special education teachers in the same ma...",
+"id":"co-teaching-implementation-workshops-fidelity",
+"path":"designs/co-teaching-implementation-workshops-fidelity.md",
+"status":"review",
+"title":"Co-teaching implementation with shared planning, teaching, and evaluation supported by workshops and fidelity monitoring",
 "type":"design"
 },
 {
@@ -231974,6 +232360,14 @@
 "type":"product"
 },
 {
+"description":"The GPAI is a physical-education observational assessment instrument used to code students' in-game skill execution and tactical performance during live games or recordings.",
+"id":"game-performance-assessment-instrument-gpai",
+"path":"products/game-performance-assessment-instrument-gpai.md",
+"status":"review",
+"title":"Game Performance Assessment Instrument (GPAI)",
+"type":"product"
+},
+{
 "description":"Gator Mentoring is a school-wide, full-year initiative that pairs at-risk middle-school students with adult staff mentors for bi-weekly support and guidance.",
 "id":"gator-mentoring",
 "path":"products/gator-mentoring.md",
@@ -234782,6 +235176,14 @@
 "path":"products/menu-of-measures.md",
 "status":"review",
 "title":"Menu of Measures",
+"type":"product"
+},
+{
+"description":"A research dataset compiling causal effect estimates from U.S.",
+"id":"meta-analytic-corpus-of-42-us-causal-studies-yielding-73-effect-estimates-of-grant-aid-on",
+"path":"products/meta-analytic-corpus-of-42-us-causal-studies-yielding-73-effect-estimates-of-grant-aid-on.md",
+"status":"review",
+"title":"Meta-analytic corpus of 42 U.S. causal studies yielding 73 effect estimates of grant aid on persistence and degree attainment",
 "type":"product"
 },
 {
@@ -239436,6 +239838,14 @@
 "type":"product"
 },
 {
+"description":"A corpus of 69 studies conducted from 1978 through 2022 that met review criteria for examining jigsaw's effects on academic performance and psychosocial outcomes.",
+"id":"systematic-review-corpus-of-69-jigsaw-studies-19782022",
+"path":"products/systematic-review-corpus-of-69-jigsaw-studies-19782022.md",
+"status":"review",
+"title":"Systematic review corpus of 69 jigsaw studies (1978–2022)",
+"type":"product"
+},
+{
 "description":"A PRISMA-guided corpus of 49 empirical studies on learning approaches and academic performance among undergraduate medical and dental students, assembled by Marlen A.",
 "id":"systematic-review-evidence-corpus-49-studies-of-learning-approaches-and-academic-performan",
 "path":"products/systematic-review-evidence-corpus-49-studies-of-learning-approaches-and-academic-performan.md",
@@ -242073,6 +242483,14 @@
 "type":"research-method"
 },
 {
+"description":"This is the review's methodological framework: a \\\"Critical interpretive synthesis underpinned by Kirkpatrick's return on investment model\\\" applied to identify features of effective dementia educational programs.",
+"id":"critical-interpretive-synthesis-underpinned-by-kirkpatricks-return-on-investment-model",
+"path":"research-methods/critical-interpretive-synthesis-underpinned-by-kirkpatricks-return-on-investment-model.md",
+"status":"review",
+"title":"Critical interpretive synthesis underpinned by Kirkpatrick's return on investment model",
+"type":"research-method"
+},
+{
 "description":"The article synthesises four theories of how teachers improve student engagement: self-determination theory, achievement goal theory, growth mindset theory, and transformational leadership theory.",
 "id":"cross-theoretical-integration-of-four-motivational-theories-of-teacher-influence-on-engage",
 "path":"research-methods/cross-theoretical-integration-of-four-motivational-theories-of-teacher-influence-on-engage.md",
@@ -242928,6 +243346,14 @@
 "path":"research-methods/functional-system-incorporating-tools-as-the-unit-of-analysis-for-cscl-microanalysis.md",
 "status":"review",
 "title":"Functional system incorporating tools as the unit of analysis for CSCL microanalysis",
+"type":"research-method"
+},
+{
+"description":"To answer criticisms that social-cognitive models are unfalsifiable, the authors classify each of the model's 23 hypotheses as fundamental or peripheral.",
+"id":"fundamental-versus-peripheral-hypothesis-taxonomy-for-model-replication-and-falsification",
+"path":"research-methods/fundamental-versus-peripheral-hypothesis-taxonomy-for-model-replication-and-falsification.md",
+"status":"review",
+"title":"Fundamental-versus-peripheral hypothesis taxonomy for model replication and falsification",
 "type":"research-method"
 },
 {
@@ -244870,6 +245296,14 @@
 "path":"research-methods/three-assumptions-for-causal-interpretation-of-cross-lagged-panel-models-consistency-stron.md",
 "status":"review",
 "title":"Three assumptions for causal interpretation of cross-lagged panel models: consistency, strong ignorability, and positivity",
+"type":"research-method"
+},
+{
+"description":"The review organizes two-teacher in-class interventions into three categories studied largely separately: co-teaching (general plus special education professionals), teacher assistants/aides (collaboration with adults without formal teaching qualifications), and team teaching (two general education ",
+"id":"three-category-taxonomy-of-collaborative-instruction-models-with-distinct-causal-mechanism",
+"path":"research-methods/three-category-taxonomy-of-collaborative-instruction-models-with-distinct-causal-mechanism.md",
+"status":"review",
+"title":"Three-category taxonomy of collaborative instruction models with distinct causal mechanisms",
 "type":"research-method"
 },
 {
@@ -255973,6 +256407,14 @@
 "type":"strategy"
 },
 {
+"description":"The review’s synthesis implies that teachers can steer loaded moments toward de-escalation by attending to how the moment is co-constructed as it progresses.",
+"id":"de-escalation-through-co-constructed-trade-offs-and-turnings",
+"path":"strategies/de-escalation-through-co-constructed-trade-offs-and-turnings.md",
+"status":"review",
+"title":"Treat de-escalation as moment-by-moment co-construction using mutual trade-offs and turnings rather than refusals",
+"type":"strategy"
+},
+{
 "description":"A structured self-reflection strategy in which adults learn to recognize, express, and self-soothe the emotions that arise when they make mistakes, compensating for emotional guidance they did not receive earlier in life.",
 "id":"dealing_with_feelings",
 "path":"strategies/dealing_with_feelings.md",
@@ -265597,6 +266039,14 @@
 "type":"strategy"
 },
 {
+"description":"The article's policy implications recommend three implementable moves for institutions, states, and funders: supplement grant aid with additional treatments, since \\\"supplementing grant aid with additional treatments,...",
+"id":"grant-aid-policy-strategy-supports-need-based",
+"path":"strategies/grant-aid-policy-strategy-supports-need-based.md",
+"status":"review",
+"title":"Supplement grant aid with academic or social supports, favor need-based over merit-only allocation, and avoid front-loading aid",
+"type":"strategy"
+},
+{
 "description":"The article recommends developing \\\"a theoretically grounded data structure for simulated data\\\" with standardized granularity levels (e.g., event-level, session-level, daily-level), since coarse simulations risk missin...",
 "id":"granularity-and-baseline-optimization-strategy",
 "path":"strategies/granularity-and-baseline-optimization-strategy.md",
@@ -269837,6 +270287,14 @@
 "path":"strategies/jigsaw-cooperative-learning.md",
 "status":"review",
 "title":"Jigsaw Cooperative Learning",
+"type":"strategy"
+},
+{
+"description":"The review's authors close with implementable guidance for practitioners: they \\\"discuss the challenges of jigsaw activities and the limitations of studies reviewed and conclude with practical recommendations in the co...",
+"id":"jigsaw-practical-recommendations-digital-education",
+"path":"strategies/jigsaw-practical-recommendations-digital-education.md",
+"status":"review",
+"title":"Use jigsaw with attention to its practical challenges, drawing on the review's recommendations in the context of digital education",
 "type":"strategy"
 },
 {
@@ -278173,6 +278631,14 @@
 "type":"strategy"
 },
 {
+"description":"Beyond professionalization, the review calls for concrete system-level action: \\\"systems need to develop policies and practices that improve substitute teachers' work.\\\" This recommendation follows the review's mixed-me...",
+"id":"policies-practices-improve-substitute-teachers-work",
+"path":"strategies/policies-practices-improve-substitute-teachers-work.md",
+"status":"review",
+"title":"Education systems should develop policies and practices that improve substitute teachers' work",
+"type":"strategy"
+},
+{
 "description":"The page recommends that policymakers use the Recommendation's extensive Policy Action Areas to move from principles to implementation.",
 "id":"policy-action-areas-translate-ai-ethics-values",
 "path":"strategies/policy-action-areas-translate-ai-ethics-values.md",
@@ -279976,6 +280442,14 @@
 "path":"strategies/professional-learning-pathways-standards-operationalization.md",
 "status":"review",
 "title":"Operationalize the faculty standards through structured professional learning pathways with modules, microcredentials, and peer review",
+"type":"strategy"
+},
+{
+"description":"The review recommends that education systems treat substitute teaching as an occupation to be professionalized further.",
+"id":"professionalize-substitute-teachers",
+"path":"strategies/professionalize-substitute-teachers.md",
+"status":"review",
+"title":"Education systems should consider further professionalizing substitute teachers as an occupational group",
 "type":"strategy"
 },
 {
@@ -283802,6 +284276,14 @@
 "type":"strategy"
 },
 {
+"description":"This strategy directs program designers to tailor dementia education to what participants actually do and have experienced, and to deliver it through active, in-person participation.",
+"id":"role-relevant-active-face-to-face-dementia-education",
+"path":"strategies/role-relevant-active-face-to-face-dementia-education.md",
+"status":"review",
+"title":"Make dementia education relevant to participants' role and experience and involve active face-to-face participation",
+"type":"strategy"
+},
+{
 "description":"Students create instructional videos demonstrating their understanding, taking the teacher's role as explainer and producer of content.",
 "id":"role-reversal-20-flipping-the-teacher",
 "path":"strategies/role-reversal-20-flipping-the-teacher.md",
@@ -287259,6 +287741,14 @@
 "type":"strategy"
 },
 {
+"description":"The review recommends that scholars of international organizations in education move beyond general claims of policy imposition or agenda-shaping and instead analyze the specific avenues through which influence is exe...",
+"id":"specify-pathways-not-general-imposition-claims",
+"path":"strategies/specify-pathways-not-general-imposition-claims.md",
+"status":"review",
+"title":"Specify pathways of influence rather than making general claims of policy imposition or agenda-shaping",
+"type":"strategy"
+},
+{
 "description":"The review recommends that future work fill identified gaps and report measures precisely.",
 "id":"specify-target-masker-subdomain-future-studies",
 "path":"strategies/specify-target-masker-subdomain-future-studies.md",
@@ -288961,6 +289451,14 @@
 "path":"strategies/structured-student-teacher-meal-conversations.md",
 "status":"review",
 "title":"Use small shared-meal conversations among teachers, students, and a facilitator to surface student perspectives on assessment and strengthen relationships",
+"type":"strategy"
+},
+{
+"description":"This strategy pairs dementia education with a structured tool or guideline that staff can use to direct their care practice after training.",
+"id":"structured-tool-guideline-dementia-care-practice",
+"path":"strategies/structured-tool-guideline-dementia-care-practice.md",
+"status":"review",
+"title":"Provide learners with a structured tool or guideline to guide care practice after dementia education",
 "type":"strategy"
 },
 {
@@ -290885,6 +291383,14 @@
 "path":"strategies/taxonomy-tagged-assessments-difficulty-calibration.md",
 "status":"review",
 "title":"Tag assessments with explicit taxonomy levels to analyse whether exam difficulty distribution matches instructional intent",
+"type":"strategy"
+},
+{
+"description":"Based on the meta-analysis and review, the authors recommend that \\\"future research needs to provide further replications of the model in diverse educational settings beyond physical education and test model hypotheses...",
+"id":"tcm-future-research-replication-and-experimental-designs",
+"path":"strategies/tcm-future-research-replication-and-experimental-designs.md",
+"status":"review",
+"title":"Future research should replicate the model in diverse educational domains and use experimental and intervention methods",
 "type":"strategy"
 },
 {
@@ -307379,6 +307885,7 @@
 ],
 "resolve":{
 "claim":{
+"128-studies-evidence-base-52-excluded":"128-studies-evidence-base-52-excluded",
 "14-lo-structure-improved-fit-over-mcd-v1":"14-lo-structure-improved-fit-over-mcd-v1",
 "15-states-mandate-kindergarten-attendance":"15-states-mandate-kindergarten-attendance",
 "16pf-specification-equation-correlations-premature":"16pf-specification-equation-correlations-premature",
@@ -308660,6 +309167,7 @@
 "aias-retrofit-validity-risk-compliance-layer":"aias-retrofit-validity-risk-compliance-layer",
 "aias-shared-language-legitimises-genai-use":"aias-shared-language-legitimises-genai-use",
 "aic-moderates-llm-learning-gains":"aic-moderates-llm-learning-gains",
+"aid-plus-supports-larger-effects":"aid-plus-supports-larger-effects",
 "aida-experimental-group-higher-learning-gain":"aida-experimental-group-higher-learning-gain",
 "aida-hands-on-use-improves-attitudes":"aida-hands-on-use-improves-attitudes",
 "aida-induction-pilot-then-stalled-upscaling":"aida-induction-pilot-then-stalled-upscaling",
@@ -309142,6 +309650,7 @@
 "assistant-role-dominates-llm-conceptualization":"assistant-role-dominates-llm-conceptualization",
 "assistant-tk-teachers-16000-19700":"assistant-tk-teachers-16000-19700",
 "assistant-use-varies-by-writing-stage":"assistant-use-varies-by-writing-stage",
+"assistant-vs-trained-teacher-similar-effects":"assistant-vs-trained-teacher-similar-effects",
 "assisting-prompts-foster-conceptual-knowledge":"assisting-prompts-foster-conceptual-knowledge",
 "assisting-self-explanation-prompt-effect":"assisting-self-explanation-prompt-effect",
 "assistment-schools-outperformed-matched-schools":"assistment-schools-outperformed-matched-schools",
@@ -309332,6 +309841,7 @@
 "automatization-requires-practice-consistent-environment":"automatization-requires-practice-consistent-environment",
 "autonomous-controlled-motivation-unaffected":"autonomous-controlled-motivation-unaffected",
 "autonomous-motivation-lower-load-higher-achievement-cross-sectional":"autonomous-motivation-lower-load-higher-achievement-cross-sectional",
+"autonomous-motivation-predicts-subjective-norms-positively":"autonomous-motivation-predicts-subjective-norms-positively",
 "autonomous-regulation-correlations-outcomes":"autonomous-regulation-correlations-outcomes",
 "autonomous-vs-controlled-motivation-achievement":"autonomous-vs-controlled-motivation-achievement",
 "autonomy-at-one-level-may-inhibit-another":"autonomy-at-one-level-may-inhibit-another",
@@ -310915,6 +311425,7 @@
 "co-answering-co-confusion-versus-lonely-confusion":"co-answering-co-confusion-versus-lonely-confusion",
 "co-citation-seminal-works-low-overlap-subnetwork-bias":"co-citation-seminal-works-low-overlap-subnetwork-bias",
 "co-construction-alone-hinders-shared-mental-models":"co-construction-alone-hinders-shared-mental-models",
+"co-construction-drives-de-escalation-trade-offs-turnings-refusals":"co-construction-drives-de-escalation-trade-offs-turnings-refusals",
 "co-construction-scribe-teacher-fosters-composition-autonomy":"co-construction-scribe-teacher-fosters-composition-autonomy",
 "co-creation-initiative-explored-generative-ai-assessments":"co-creation-initiative-explored-generative-ai-assessments",
 "co-design-tools-support-balancing-standards-and-student-interests":"co-design-tools-support-balancing-standards-and-student-interests",
@@ -311151,6 +311662,7 @@
 "collaborative-evidence-critique-shifts-students-toward-procedural-objectivity":"collaborative-evidence-critique-shifts-students-toward-procedural-objectivity",
 "collaborative-group-work-beats-competitive-classrooms-k12":"collaborative-group-work-beats-competitive-classrooms-k12",
 "collaborative-inquiry-outperforms-individual-overall":"collaborative-inquiry-outperforms-individual-overall",
+"collaborative-instruction-small-positive-mean-effect":"collaborative-instruction-small-positive-mean-effect",
 "collaborative-leadership-social-capital-achievement":"collaborative-leadership-social-capital-achievement",
 "collaborative-learning-collective-working-memory-advantage":"collaborative-learning-collective-working-memory-advantage",
 "collaborative-learning-improves-outcomes":"collaborative-learning-improves-outcomes",
@@ -311273,6 +311785,7 @@
 "common-attentional-component-binding-running-span-visual-stm":"common-attentional-component-binding-running-span-visual-stm",
 "common-cognitive-genetic-variance-correlates-with-reading-genetic-variance":"common-cognitive-genetic-variance-correlates-with-reading-genetic-variance",
 "common-denominator-advantage-mld-crossover":"common-denominator-advantage-mld-crossover",
+"common-features-efficacious-dementia-education-programs":"common-features-efficacious-dementia-education-programs",
 "common-ground-highest-idiosyncratic":"common-ground-highest-idiosyncratic",
 "common-language-slo-process":"common-language-slo-process",
 "common-notation-independent-cortical-network-children-adults":"common-notation-independent-cortical-network-children-adults",
@@ -311803,6 +312316,7 @@
 "cotal-debugging-task-qwk-gain":"cotal-debugging-task-qwk-gain",
 "cotal-reduces-false-positives-rules-task":"cotal-reduces-false-positives-rules-task",
 "cotal-rules-task-qwk-gain":"cotal-rules-task-qwk-gain",
+"coteaching-preconditions-no-moderation":"coteaching-preconditions-no-moderation",
 "counseling-access-limited-dedicated-programs-better":"counseling-access-limited-dedicated-programs-better",
 "counselor-traits-mostly-unrelated-to-effectiveness":"counselor-traits-mostly-unrelated-to-effectiveness",
 "counter-endorse-pronounce-subcategory-patterns":"counter-endorse-pronounce-subcategory-patterns",
@@ -312681,6 +313195,7 @@
 "demanding-assignments-benefit-all-achievement-levels":"high-and-low-achievers-benefit-from-quality-assignments",
 "demanding-schedule-gpa-penalty":"demanding-schedule-gpa-penalty",
 "demanding-tasks-reveal-ef-training-benefits":"demanding-tasks-reveal-ef-training-benefits",
+"dementia-education-evidence-152-papers-variable-quality":"dementia-education-evidence-152-papers-variable-quality",
 "democracy-prep-98-percent-probability-positive-civic-impacts":"democracy-prep-98-percent-probability-positive-civic-impacts",
 "democracy-prep-charter-schools-boost-student-voting":"democracy-prep-charter-schools-boost-student-voting",
 "democracy-prep-increases-voter-registration-16-points":"democracy-prep-increases-voter-registration-16-points",
@@ -316499,6 +317014,9 @@
 "grammatical-discourse-measures-differentiate-high-level-comprehensibility":"grammatical-discourse-measures-differentiate-high-level-comprehensibility",
 "grammatical-knowledge-reading-comprehension-letter-writing-automaticity-attentiveness-predict-substantive-quality":"grammatical-knowledge-reading-comprehension-letter-writing-automaticity-attentiveness-predict-substantive-quality",
 "grandy-cognitive-vs-metaphysical-constructivism":"grandy-cognitive-vs-metaphysical-constructivism",
+"grant-aid-effects-heterogeneous-across-studies":"grant-aid-effects-heterogeneous-across-studies",
+"grant-aid-increases-degree-completion":"grant-aid-increases-degree-completion",
+"grant-aid-increases-postsecondary-persistence":"grant-aid-increases-postsecondary-persistence",
 "grant-training-useful-applied-shared":"grant-training-useful-applied-shared",
 "graph-attention-away-from-statement":"graph-attention-away-from-statement",
 "graph-helpful-harmful-contrasting-cases":"graph-helpful-harmful-contrasting-cases",
@@ -317706,6 +318224,7 @@
 "inspection-time-marker-potential":"inspection-time-marker-potential",
 "instagram-likes-recruit-adolescent-reward-network":"instagram-likes-recruit-adolescent-reward-network",
 "instant-access-24-7-top-llm-benefits":"instant-access-24-7-top-llm-benefits",
+"instigating-circumstances-co-construct-incompatibility":"instigating-circumstances-co-construct-incompatibility",
 "institutional-ai-governance-uneven":"institutional-ai-governance-uneven",
 "institutional-ai-policy-maturity-lags-adoption":"institutional-ai-policy-maturity-lags-adoption",
 "institutional-and-information-variables-weakly-related-to-ai-use":"institutional-and-information-variables-weakly-related-to-ai-use",
@@ -317982,6 +318501,7 @@
 "intervention-did-not-reduce-error-propagation":"intervention-did-not-reduce-error-propagation",
 "intervention-effects-school-university-students-no-difference":"intervention-effects-school-university-students-no-difference",
 "intervention-improved-adaptive-use-versus-classmates":"intervention-improved-adaptive-use-versus-classmates",
+"intervention-length-over-8-hours-decision-making":"intervention-length-over-8-hours-decision-making",
 "intervention-reduced-positional-mimicry":"intervention-reduced-positional-mimicry",
 "intervention-reduces-nonresponder-rate":"intervention-reduces-nonresponder-rate",
 "intervention-studies-stronger-than-correlational-physical-activity-cognition":"intervention-studies-stronger-than-correlational-physical-activity-cognition",
@@ -318174,6 +318694,10 @@
 "jeu-serai-enterprising-items-failed":"jeu-serai-enterprising-items-failed",
 "jeu-serai-item-type-correlation-quality-ranking":"jeu-serai-item-type-correlation-quality-ranking",
 "jeu-serai-replay-item-measures-realistic-affiliation":"jeu-serai-replay-item-measures-realistic-affiliation",
+"jigsaw-evidence-previously-scant-and-mixed-no-meta-analysis":"jigsaw-evidence-previously-scant-and-mixed-no-meta-analysis",
+"jigsaw-overall-positive-effects-vary-by-subject-and-variable":"jigsaw-overall-positive-effects-vary-by-subject-and-variable",
+"jigsaw-review-69-studies-inclusion-criteria":"jigsaw-review-69-studies-inclusion-criteria",
+"jigsaw-review-revealed-trends-gaps-integrity-issues":"jigsaw-review-revealed-trends-gaps-integrity-issues",
 "jill-watson-ai-teaching-assistant-georgia-tech":"jill-watson-ai-teaching-assistant-georgia-tech",
 "jitt-better-newtons-third-law-understanding":"jitt-better-newtons-third-law-understanding",
 "jitt-decreased-dfw-rate-n100":"jitt-decreased-dfw-rate-n100",
@@ -319346,6 +319870,7 @@
 "load-test-100-concurrent-users-30-second-response":"load-test-100-concurrent-users-30-second-response",
 "load-type-correlations-partially-contradict-clt":"load-type-correlations-partially-contradict-clt",
 "load-type-distinction-conceptually-problematic":"load-type-distinction-conceptually-problematic",
+"loaded-moment-outcomes-shape-long-term-relationship-development":"loaded-moment-outcomes-shape-long-term-relationship-development",
 "loan-debt-multiple-jobs-teachers":"loan-debt-multiple-jobs-teachers",
 "loan-repayment-eligibility-higher-recruitment-success":"loan-repayment-eligibility-higher-recruitment-success",
 "loan-repayment-participation-longer-research-stays":"loan-repayment-participation-longer-research-stays",
@@ -319408,6 +319933,7 @@
 "longitudinal-physical-activity-improves-executive-functions":"longitudinal-physical-activity-improves-executive-functions",
 "longitudinal-ses-predicts-reading-linguistic-skills-explain-variance":"longitudinal-ses-predicts-reading-linguistic-skills-explain-variance",
 "longitudinal-trust-studies-omit-skill-outcomes":"longitudinal-trust-studies-omit-skill-outcomes",
+"longitudinal-tsr-peer-effects-smaller-teacher-first-stronger":"longitudinal-tsr-peer-effects-smaller-teacher-first-stronger",
 "longterm-meditation-gamma-synchrony-practice-hours":"longterm-meditation-gamma-synchrony-practice-hours",
 "lonigan-2003-significant-four-of-eight-outcomes":"lonigan-2003-significant-four-of-eight-outcomes",
 "lora-adaptation-raises-bengali-physics-qa-accuracy-all-scales":"lora-adaptation-raises-bengali-physics-qa-accuracy-all-scales",
@@ -319624,6 +320150,7 @@
 "mace-pd-no-student-effect":"mace-pd-no-student-effect",
 "machine-learning-predicts-group-performance-synergy":"machine-learning-predicts-group-performance-synergy",
 "machine-machine-above-human-machine-below-human-human":"machine-machine-above-human-machine-below-human-human",
+"macro-contexts-set-scene-for-loaded-moments":"macro-contexts-set-scene-for-loaded-moments",
 "macro-scripts-foster-productive-interactions":"macro-scripts-foster-productive-interactions",
 "macrostructure-stable-across-language-groups":"macrostructure-stable-across-language-groups",
 "mad-city-mystery-ar-argumentation-cases":"mad-city-mystery-ar-argumentation-cases",
@@ -320121,6 +320648,7 @@
 "meta-analysis-lower-feedback-effect-than-visible-learning-synthesis":"meta-analysis-lower-feedback-effect-than-visible-learning-synthesis",
 "meta-analysis-predictors-of-nonresponsiveness":"meta-analysis-predictors-of-nonresponsiveness",
 "meta-analytic-alpha-knowledge-tests-085":"meta-analytic-alpha-knowledge-tests-085",
+"meta-analytic-path-analysis-supports-tcm-with-heterogeneity":"meta-analytic-path-analysis-supports-tcm-with-heterogeneity",
 "meta-analytic-replication-latent-ef-model":"meta-analytic-replication-latent-ef-model",
 "meta-behavioral-extraction-beats-kc-based-variants":"meta-behavioral-extraction-beats-kc-based-variants",
 "meta-behavioral-representations-reduce-sparsity":"meta-behavioral-representations-reduce-sparsity",
@@ -321043,6 +321571,7 @@
 "near-transfer-working-memory-advantage-hypothesis":"near-transfer-working-memory-advantage-hypothesis",
 "nebraska-engage-career-exploration-course-underutilized":"nebraska-engage-career-exploration-course-underutilized",
 "nebraska-middle-cte-career-development-largest-category":"nebraska-middle-cte-career-development-largest-category",
+"need-based-aid-effective-merit-only-not":"need-based-aid-effective-merit-only-not",
 "need-factors-fewer-success-points-milestones":"need-factors-fewer-success-points-milestones",
 "need-for-cognition-correlates-moderately-with-math-achievement":"need-for-cognition-correlates-moderately-with-math-achievement",
 "need-for-cognition-moderates-trust-reliance":"need-for-cognition-moderates-trust-reliance",
@@ -321081,6 +321610,7 @@
 "negative-priming-fraction-comparison-inhibition":"negative-priming-fraction-comparison-inhibition",
 "negative-qap-scientific-non-scientific":"negative-qap-scientific-non-scientific",
 "negative-think-aloud-emotions-both-texts":"negative-think-aloud-emotions-both-texts",
+"negative-tsr-aspects-most-predictive-of-peer-relationships":"negative-tsr-aspects-most-predictive-of-peer-relationships",
 "negotiated-interaction-highest-momentary-comprehension":"negotiated-interaction-highest-momentary-comprehension",
 "negotiation-benefit-limited-lower-ability-learners":"negotiation-benefit-limited-lower-ability-learners",
 "negotiation-frequency-correlates-vocabulary-high-school":"negotiation-frequency-correlates-vocabulary-high-school",
@@ -321499,6 +322029,7 @@
 "no-prompt-effect-within-domain-elaborations-additions":"no-prompt-effect-within-domain-elaborations-additions",
 "no-pronunciation-assessment-clt-bangladesh":"no-pronunciation-assessment-clt-bangladesh",
 "no-public-genai-policies-german-universities-tallinn":"no-public-genai-policies-german-universities-tallinn",
+"no-publication-bias-collaborative-instruction":"no-publication-bias-collaborative-instruction",
 "no-publication-bias-ct-gender-meta-analysis":"no-publication-bias-ct-gender-meta-analysis",
 "no-published-segmentation-application-example":"no-published-segmentation-application-example",
 "no-raised-grade-floor-genai-susceptible-courses":"no-raised-grade-floor-genai-susceptible-courses",
@@ -323662,6 +324193,7 @@
 "prior-knowledge-trust-calibration-moderators":"prior-knowledge-trust-calibration-moderators",
 "prior-knowledge-worked-example-task-difficulty-three-way-interaction-on-algebra-posttest":"prior-knowledge-worked-example-task-difficulty-three-way-interaction-on-algebra-posttest",
 "prior-math-accuracy-dominant-propensity-factor":"prior-math-accuracy-dominant-propensity-factor",
+"prior-meta-analysis-decision-making-not-skill-execution":"prior-meta-analysis-decision-making-not-skill-execution",
 "prior-mobility-research-adverse-child-outcomes":"prior-mobility-research-adverse-child-outcomes",
 "prior-performance-ews-similarly-accurate-same-percentage-cutoffs":"prior-performance-ews-similarly-accurate-same-percentage-cutoffs",
 "prior-performance-moderates-ai-perception-misalignment-cost":"prior-performance-moderates-ai-perception-misalignment-cost",
@@ -324141,6 +324673,7 @@
 "publication-bias-corrected-psi-effect-strong":"publication-bias-corrected-psi-effect-strong",
 "publication-bias-cross-sectional-avg-data":"publication-bias-cross-sectional-avg-data",
 "publication-bias-embodied-vocabulary-meta-analysis":"publication-bias-embodied-vocabulary-meta-analysis",
+"publication-bias-grant-aid-meta-analysis":"publication-bias-grant-aid-meta-analysis",
 "publication-bias-in-simulation-games-research":"publication-bias-in-simulation-games-research",
 "publication-bias-math-writing-meta-analysis":"publication-bias-math-writing-meta-analysis",
 "publication-bias-mbi-youth-rcts":"publication-bias-mbi-youth-rcts",
@@ -327806,6 +328339,9 @@
 "substantial-heterogeneity-adolescent-word-reading-effects":"substantial-heterogeneity-adolescent-word-reading-effects",
 "substantial-heterogeneity-short-term-effects":"substantial-heterogeneity-short-term-effects",
 "substantive-comments-mediate-immediate-learning":"substantive-comments-mediate-immediate-learning",
+"substitute-teacher-research-gap":"substitute-teacher-research-gap",
+"substitute-teachers-enable-release-time":"substitute-teachers-enable-release-time",
+"substitute-teachers-unsatisfactory-conditions-lack-support":"substitute-teachers-unsatisfactory-conditions-lack-support",
 "substitution-most-actionable-scenario":"substitution-most-actionable-scenario",
 "substitutive-duplicative-offloading-outcomes":"substitutive-duplicative-offloading-outcomes",
 "subtitled-videos-increase-negotiation-of-meaning-online-tbll":"subtitled-videos-increase-negotiation-of-meaning-online-tbll",
@@ -328254,6 +328790,7 @@
 "tc-effect-exp1-chinese-only":"tc-effect-exp1-chinese-only",
 "tc-effect-increases-with-prime-time":"tc-effect-increases-with-prime-time",
 "tc-effect-larger-for-chinese-supplementary":"tc-effect-larger-for-chinese-supplementary",
+"tcm-candidate-moderators-of-model-effects":"tcm-candidate-moderators-of-model-effects",
 "tcsa-literature-sparse-few-quantitative-studies":"tcsa-literature-sparse-few-quantitative-studies",
 "tcsg-manufacturing-microcredentials-led-to-hiring":"tcsg-manufacturing-microcredentials-led-to-hiring",
 "tct-dp-increases-with-age":"tct-dp-increases-with-age",
@@ -328837,6 +329374,9 @@
 "tfa-teaching-fellows-math-teachers-sometimes-more-effective":"tfa-teaching-fellows-math-teachers-sometimes-more-effective",
 "tft-student-long-term-outcome-goal":"tft-student-long-term-outcome-goal",
 "tft-teacher-instruction-improvement-targets":"tft-teacher-instruction-improvement-targets",
+"tga-comparative-study-characteristics":"tga-comparative-study-characteristics",
+"tga-studies-low-reporting-quality-rob":"tga-studies-low-reporting-quality-rob",
+"tga-vs-ta-outcome-patterns-pe-review":"tga-vs-ta-outcome-patterns-pe-review",
 "tgfdv-intentions-null-results":"tgfdv-intentions-null-results",
 "tgfdv-positive-effects-rating":"tgfdv-positive-effects-rating",
 "tgfdv-quasi-experimental-significant-effects":"tgfdv-quasi-experimental-significant-effects",
@@ -328888,6 +329428,7 @@
 "thirty-years-to-asymptotic-performance":"thirty-years-to-asymptotic-performance",
 "thought-validation-manipulation-shapes-task-performance":"thought-validation-manipulation-shapes-task-performance",
 "thought-validity-mediation-performance":"thought-validity-mediation-performance",
+"thousand-dollars-aid-persistence-dose":"thousand-dollars-aid-persistence-dose",
 "thousands-of-new-teachers-hundreds-of-preparation-programs":"thousands-of-new-teachers-hundreds-of-preparation-programs",
 "thread-structure-designerly-talk-corpus":"thread-structure-designerly-talk-corpus",
 "threat-deprivation-shared-neural-effects":"threat-deprivation-shared-neural-effects",
@@ -329361,6 +329902,7 @@
 "tsdr-lambda-sweet-spot-robustness":"tsdr-lambda-sweet-spot-robustness",
 "tsdr-robust-across-mnar-spectrum":"tsdr-robust-across-mnar-spectrum",
 "tsp-sart-om-null-alcohol-effects":"tsp-sart-om-null-alcohol-effects",
+"tsr-partially-mediates-behavior-peer-association":"tsr-partially-mediates-behavior-peer-association",
 "tsst-g-manipulation-check-affect-cortisol":"tsst-g-manipulation-check-affect-cortisol",
 "tt-format-moderates-ce-rce-motivation":"tt-format-moderates-ce-rce-motivation",
 "tt-lower-overall-evaluation-divergence":"tt-lower-overall-evaluation-divergence",
@@ -330417,6 +330959,12 @@
 "worksheet-wording-sustains-less-distance-less-time":"worksheet-wording-sustains-less-distance-less-time",
 "workshop-shifts-concerns-toward-user-profile":"workshop-shifts-concerns-toward-user-profile",
 "workshops-ameliorate-older-adult-digital-competence":"workshops-ameliorate-older-adult-digital-competence",
+"world-bank-conditionality-evolved-subtler":"world-bank-conditionality-evolved-subtler",
+"world-bank-literature-theory-method-gaps":"world-bank-literature-theory-method-gaps",
+"world-bank-loans-most-common-pathway":"world-bank-loans-most-common-pathway",
+"world-bank-pathway-diversification-over-time":"world-bank-pathway-diversification-over-time",
+"world-bank-pilot-projects-foothold-pathway":"world-bank-pilot-projects-foothold-pathway",
+"world-bank-technical-assistance-structural-constraint":"world-bank-technical-assistance-structural-constraint",
 "world-of-words-comprehension-composite-significant":"world-of-words-comprehension-composite-significant",
 "world-of-words-expressive-vocabulary-significant":"world-of-words-expressive-vocabulary-significant",
 "world-of-words-inductive-reasoning-significant":"world-of-words-inductive-reasoning-significant",
@@ -330739,6 +331287,7 @@
 "closed-loop-three-layer-interpretable-its-architecture":"closed-loop-three-layer-interpretable-its-architecture",
 "clover-instrumented-code-completion-tool":"clover-instrumented-code-completion-tool",
 "cmp-active-collaborative-productive-struggle-pedagogy":"cmp-active-collaborative-productive-struggle-pedagogy",
+"co-teaching-implementation-workshops-fidelity":"co-teaching-implementation-workshops-fidelity",
 "coaching-level-1-initial-steps-beliefs-and-community-establishment":"coaching-level-1-initial-steps-beliefs-and-community-establishment",
 "coding-focused-genai-declaration-structure":"coding-focused-genai-declaration-structure",
 "cogevolution-agent-framework":"cogevolution-agent-framework",
@@ -333958,6 +334507,7 @@
 "gaide-a-guiding-framework-for-ai-integrated-design-for-educators":"gaide-a-guiding-framework-for-ai-integrated-design-for-educators",
 "galaxy-math":"galaxy-math",
 "game-based-assessment-of-persistence-gap":"game-based-assessment-of-persistence-gap",
+"game-performance-assessment-instrument-gpai":"game-performance-assessment-instrument-gpai",
 "gator-mentoring":"gator-mentoring",
 "gbsri":"gbsri",
 "ged-hiset-and-tasc":"ged-hiset-and-tasc",
@@ -334312,6 +334862,7 @@
 "mentira":"mentira",
 "mentor-tech":"mentor-tech",
 "menu-of-measures":"menu-of-measures",
+"meta-analytic-corpus-of-42-us-causal-studies-yielding-73-effect-estimates-of-grant-aid-on":"meta-analytic-corpus-of-42-us-causal-studies-yielding-73-effect-estimates-of-grant-aid-on",
 "meta-analytic-corpus-of-77-studies-and-276-effect-sizes-on-school-racial-climate-and-belon":"meta-analytic-corpus-of-77-studies-and-276-effect-sizes-on-school-racial-climate-and-belon",
 "meta-analytic-corpus-of-97-reports-105-independent-samples-and-216-effect-sizes-on-l2-anxi":"meta-analytic-corpus-of-97-reports-105-independent-samples-and-216-effect-sizes-on-l2-anxi",
 "meta-analytic-dataset-of-38-rae-studies-across-14-sports-and-16-countries":"meta-analytic-dataset-of-38-rae-studies-across-14-sports-and-16-countries",
@@ -334897,6 +335448,7 @@
 "symphony-math":"symphony-math",
 "syntea":"syntea",
 "synthesis-lab":"synthesis-lab",
+"systematic-review-corpus-of-69-jigsaw-studies-19782022":"systematic-review-corpus-of-69-jigsaw-studies-19782022",
 "systematic-review-evidence-corpus-49-studies-of-learning-approaches-and-academic-performan":"systematic-review-evidence-corpus-49-studies-of-learning-approaches-and-academic-performan",
 "systems-review":"systems-review",
 "t-sqsrl-paired-teacher-and-student-srl-questionnaires":"t-sqsrl-paired-teacher-and-student-srl-questionnaires",
@@ -335236,6 +335788,7 @@
 "coursegraph-course-overlap-detection-methodology":"coursegraph-course-overlap-detection-methodology",
 "cpig-the-creative-psychometric-item-generator-framework":"cpig-the-creative-psychometric-item-generator-framework",
 "criteria-for-identifying-spatial-factors":"criteria-for-identifying-spatial-factors",
+"critical-interpretive-synthesis-underpinned-by-kirkpatricks-return-on-investment-model":"critical-interpretive-synthesis-underpinned-by-kirkpatricks-return-on-investment-model",
 "cross-theoretical-integration-of-four-motivational-theories-of-teacher-influence-on-engage":"cross-theoretical-integration-of-four-motivational-theories-of-teacher-influence-on-engage",
 "curricular-analytics-graph-based-measures-of-degree-program-complexity-blocking-delay-cent":"curricular-analytics-graph-based-measures-of-degree-program-complexity-blocking-delay-cent",
 "curriculum-analytics-using-cognitive-diagnostic-modeling-and-hierarchical-learner-profile":"curriculum-analytics-using-cognitive-diagnostic-modeling-and-hierarchical-learner-profile",
@@ -335348,6 +335901,7 @@
 "fsm-based-evaluation-of-interactivity-in-ai-generated-educational-materials-ee-eval":"fsm-based-evaluation-of-interactivity-in-ai-generated-educational-materials-ee-eval",
 "full-roster-method":"three-method-framework-for-accounting-for-co-teaching-in-value-added-models",
 "functional-system-incorporating-tools-as-the-unit-of-analysis-for-cscl-microanalysis":"functional-system-incorporating-tools-as-the-unit-of-analysis-for-cscl-microanalysis",
+"fundamental-versus-peripheral-hypothesis-taxonomy-for-model-replication-and-falsification":"fundamental-versus-peripheral-hypothesis-taxonomy-for-model-replication-and-falsification",
 "funds-of-knowledge":"funds-of-knowledge",
 "future-technology-workshop-ftw-method":"future-technology-workshop-ftw-method",
 "game-based-assessment-gba-model":"game-based-assessment-gba-model",
@@ -335601,6 +336155,7 @@
 "thinking-aloud-protocol-scoring-system-for-math-metacognitive-skillfulness":"thinking-aloud-protocol-scoring-system-for-math-metacognitive-skillfulness",
 "three-accountability-methods-for-setting-english-learners-academic-progress-and-proficienc":"three-accountability-methods-for-setting-english-learners-academic-progress-and-proficienc",
 "three-assumptions-for-causal-interpretation-of-cross-lagged-panel-models-consistency-stron":"three-assumptions-for-causal-interpretation-of-cross-lagged-panel-models-consistency-stron",
+"three-category-taxonomy-of-collaborative-instruction-models-with-distinct-causal-mechanism":"three-category-taxonomy-of-collaborative-instruction-models-with-distinct-causal-mechanism",
 "three-complementary-views-of-ai-integrated-writing-product-process-and-interaction":"three-complementary-views-of-ai-integrated-writing-product-process-and-interaction",
 "three-component-decomposition-of-teacher-grade-effects":"three-component-decomposition-of-teacher-grade-effects",
 "three-construct-framework-for-measuring-challenge-navigation-in-games":"three-construct-framework-for-measuring-challenge-navigation-in-games",
@@ -337046,6 +337601,7 @@
 "de-centering-western-ideologies-design":"de-centering-western-ideologies-design",
 "de-emphasize-answers-emphasize-reasoning":"de-emphasize-answers-emphasize-reasoning",
 "de-emphasize_behavioral_factors":"de-emphasize_behavioral_factors",
+"de-escalation-through-co-constructed-trade-offs-and-turnings":"de-escalation-through-co-constructed-trade-offs-and-turnings",
 "dealing_with_feelings":"dealing_with_feelings",
 "debate":"debate",
 "debate_for_the_opposite_team":"debate_for_the_opposite_team",
@@ -338306,6 +338862,7 @@
 "gradual_release_of_responsibility_in_multimodal_composition":"gradual_release_of_responsibility_in_multimodal_composition",
 "graduated-ai-policy-by-course-level":"graduated-ai-policy-by-course-level",
 "grammar-instruction-from-noticed-writing-problems":"grammar-instruction-from-noticed-writing-problems",
+"grant-aid-policy-strategy-supports-need-based":"grant-aid-policy-strategy-supports-need-based",
 "granularity-and-baseline-optimization-strategy":"granularity-and-baseline-optimization-strategy",
 "graphic-organizers":"graphic-organizers",
 "graphic-organizers-and-guided-notes-processing-speed":"graphic-organizers-and-guided-notes-processing-speed",
@@ -338858,6 +339415,7 @@
 "jigsaw":"jigsaw",
 "jigsaw-classroom":"jigsaw-classroom",
 "jigsaw-cooperative-learning":"jigsaw-cooperative-learning",
+"jigsaw-practical-recommendations-digital-education":"jigsaw-practical-recommendations-digital-education",
 "jigsaw-reading":"jigsaw-reading",
 "jigsaw-sharing-inquiry-posters":"jigsaw-sharing-inquiry-posters",
 "jigsaw_method":"jigsaw_method",
@@ -339954,6 +340512,7 @@
 "pog-continuous-improvement-cycles":"pog-continuous-improvement-cycles",
 "pog-ongoing-pd-community-of-practice":"pog-ongoing-pd-community-of-practice",
 "points-or-experience-xp-systems":"points-or-experience-xp-systems",
+"policies-practices-improve-substitute-teachers-work":"policies-practices-improve-substitute-teachers-work",
 "policy-action-areas-translate-ai-ethics-values":"policy-action-areas-translate-ai-ethics-values",
 "policy-actions-scaling-ece-coaching-systems":"policy-actions-scaling-ece-coaching-systems",
 "policy-changes-restore-science-access":"policy-changes-restore-science-access",
@@ -340191,6 +340750,7 @@
 "professional-learning-and-measurement-plan-edtech":"professional-learning-and-measurement-plan-edtech",
 "professional-learning-communities":"professional-learning-communities",
 "professional-learning-pathways-standards-operationalization":"professional-learning-pathways-standards-operationalization",
+"professionalize-substitute-teachers":"professionalize-substitute-teachers",
 "profile-based-identification-at-risk-metacognition":"profile-based-identification-at-risk-metacognition",
 "profile-differentiated-ai-career-education-support":"profile-differentiated-ai-career-education-support",
 "profile-sensitive-metacognitive-support-strategy":"profile-sensitive-metacognitive-support-strategy",
@@ -340708,6 +341268,7 @@
 "role-play-drama-reading-comprehension":"role-play-drama-reading-comprehension",
 "role-play-teacher-training-scripted-spelling-programs":"role-play-teacher-training-scripted-spelling-programs",
 "role-playing_emotional_scenarios":"role-playing_emotional_scenarios",
+"role-relevant-active-face-to-face-dementia-education":"role-relevant-active-face-to-face-dementia-education",
 "role-reversal-20-flipping-the-teacher":"role-reversal-20-flipping-the-teacher",
 "role-specific-ai-professional-learning-leadership":"role-specific-ai-professional-learning-leadership",
 "role-specific-sustained-ai-professional-learning-pathways":"role-specific-sustained-ai-professional-learning-pathways",
@@ -341183,6 +341744,7 @@
 "specific_technique_identification":"specific_technique_identification",
 "specify-ai-delegable-tasks-in-assignments":"specify-ai-delegable-tasks-in-assignments",
 "specify-implementation-research-questions-step":"specify-implementation-research-questions-step",
+"specify-pathways-not-general-imposition-claims":"specify-pathways-not-general-imposition-claims",
 "specify-target-masker-subdomain-future-studies":"specify-target-masker-subdomain-future-studies",
 "speculative-theory-fiction-assignment":"speculative-theory-fiction-assignment",
 "speech-to-text_technology":"speech-to-text_technology",
@@ -341404,6 +341966,7 @@
 "structured-segmented-instruction":"structured-segmented-instruction",
 "structured-session-export-for-nlp-datasets":"structured-session-export-for-nlp-datasets",
 "structured-student-teacher-meal-conversations":"structured-student-teacher-meal-conversations",
+"structured-tool-guideline-dementia-care-practice":"structured-tool-guideline-dementia-care-practice",
 "structured-upsolving-and-mentor-buddy-retention-strategy":"structured-upsolving-and-mentor-buddy-retention-strategy",
 "structured_academic_controversy":"structured-academic-controversy",
 "structured_and_sustained_family_engagement_programs":"structured_and_sustained_family_engagement_programs",
@@ -341653,6 +342216,7 @@
 "taxonomy-as-ai-self-assessment-roadmap":"taxonomy-as-ai-self-assessment-roadmap",
 "taxonomy-as-imagination-prompt":"taxonomy-as-imagination-prompt",
 "taxonomy-tagged-assessments-difficulty-calibration":"taxonomy-tagged-assessments-difficulty-calibration",
+"tcm-future-research-replication-and-experimental-designs":"tcm-future-research-replication-and-experimental-designs",
 "tdf-state-policy-actions-career-continuum":"tdf-state-policy-actions-career-continuum",
 "tdhs-extensive-pd-coaching-facilitator":"tdhs-extensive-pd-coaching-facilitator",
 "tdhs-read-aloud-think-aloud-modeling":"tdhs-read-aloud-think-aloud-modeling",

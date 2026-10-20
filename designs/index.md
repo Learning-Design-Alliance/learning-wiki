@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**963 entries** · 0 stable · 963 in review · 0 drafts
+**964 entries** · 0 stable · 964 in review · 0 drafts
 
 ---
 
@@ -155,6 +155,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [CMP active, collaborative pedagogy with productive struggle and productive persistence in the corequisite pairs](cmp-active-collaborative-productive-struggle-pedagogy.md) - The instructional design carried from the original Quantway and Statway pathways into the new corequisite courses: student-centered, collaborative problem solving in authentic contexts, small-group productive struggle...
 * [Co-design principles for regional STEM pathways: Pre-K-to-career alignment, flexible entry, stackable credentials, industry recognition, and representative instructors](stem-pathways-co-design-principles.md) - During the Inquire & Investigate phase, the CAC developed five principles to shape regional STEM pathways: \"Align STEM pathways from Pre-K to career\"; \"Create flexible entry points for all learners\"; \"Offer stackable...
 * [Co-designing community AI education through four key decisions: balanced topics, conceptual grounding, local relevance, and dialogical learning](community-co-design-key-decisions-ai-education.md) - This pattern describes the recurring design decisions the research team and community partners made when co-creating the AI education session.
+* [Co-teaching implementation with shared planning, teaching, and evaluation supported by workshops and fidelity monitoring](co-teaching-implementation-workshops-fidelity.md) - The study implemented co-teaching as a collaborative effort of two or more educators who \"share all aspects of teaching, planning, and evaluation\", pairing class teachers with special education teachers in the same ma...
 * [Coding-focused GenAI declaration structure with five activity categories](coding-focused-genai-declaration-structure.md) - A parallel declaration structure for coding assessments reflecting typical phases of software development and code-based learning, with five activity categories: Planning & Design, Code Generation, Code Improvement, U...
 * [CogEvolution framework: ICAP perception, IRT-based memory retrieval, and evolutionary cognitive state update](cogevolution-agent-framework.md) - CogEvolution is a generative educational agent architecture that shifts from static personas to dynamic cognitive flow.
 * [Cognitive and reading test battery from the Colorado Learning Disabilities Research Center twin study](cldrc-cognitive-reading-test-battery.md) - The study drew on a battery of measures administered across four 2.5-hour testing sessions to 483 twins ages 8 to 16.
