@@ -58,7 +58,7 @@ Discipline is most effective when embedded in a relationship the learner perceiv
 ## Related Strategies
 
 - [5-minute_writing_conferences](5-minute_writing_conferences.md) — a structured, brief one-on-one format well suited to post-disciplinary check-ins
-- [Relationship-building through brief empathic messages](../claims/brief-intervention-empathic-discipline-cuts-suspensions.md) — the classroom-level intervention this strategy implements at the individual level
+- [Relationship-building through brief empathic messages](../claims/brief-intervention-empathic-discipline-cuts-suspensions.md) [~M] — the classroom-level intervention this strategy implements at the individual level
 - [Use trauma-informed behavioral supports before escalating to suspension, supported by willful-defiance suspension bans](trauma-informed-discipline-foster-care.md)
 
 ## Related Elements

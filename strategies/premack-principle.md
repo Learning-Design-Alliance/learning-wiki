@@ -38,7 +38,7 @@ The principle works because response probability itself predicts reinforcement v
 - **First/then schedules** — verbal or visual "first X, then Y" boards, common in early childhood and special education
 - **Grandma's rule** — home/classroom phrasing that frames the preferred activity as the natural next step rather than a bribe
 - **Activity schedules** — sequences in which several low-probability tasks are chained before a single preferred activity
-- **Learner-selected reinforcers** — students choose from a menu of preferred activities, increasing perceived [autonomy](../claims/autonomy-supports-intrinsic-motivation.md) within the contingency
+- **Learner-selected reinforcers** — students choose from a menu of preferred activities, increasing perceived [autonomy](../claims/autonomy-supports-intrinsic-motivation.md) [+W] within the contingency
 
 ### Target Learners
 - Young children, for whom activity-based contingencies are more concrete than points or grades [+M]
@@ -57,7 +57,7 @@ The principle works because response probability itself predicts reinforcement v
 3. State the contingency before the task begins, using first/then language: "First ___, then ___."
 4. Deliver the preferred activity immediately upon meeting the criterion; withhold it if the criterion is not met, without extended negotiation.
 5. Monitor response rates; rotate or refresh preferred activities to prevent satiation.
-6. Fade the contingency as task engagement becomes self-sustaining, shifting toward naturally occurring consequences and [autonomy](../claims/autonomy-supports-intrinsic-motivation.md) support.
+6. Fade the contingency as task engagement becomes self-sustaining, shifting toward naturally occurring consequences and [autonomy](../claims/autonomy-supports-intrinsic-motivation.md) [+M] support.
 
 ## Related Strategies
 - [Token economies](token-economy.md) — generalize the same contingency structure using symbolic reinforcers exchangeable for preferred activities

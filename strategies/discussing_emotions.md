@@ -12,7 +12,7 @@ generated:
 # Discussing Emotions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 unmarked) · 4 studies (3 review, 1 theoretical), `q2`–`q3` · 0 of 4 report an effect size
+> **Evidence** · 2 claims (2 for) · 4 studies (3 review, 1 theoretical), `q2`–`q3` · 0 of 4 report an effect size
 
 ## Description
 Discussing emotions is a strategy in which learners regularly name, talk about, and reflect on the feelings they experience during learning — frustration at a hard problem, anxiety before an assessment, curiosity sparked by a surprising result. It is carried out through structured routines: brief [check-ins](../elements/check-in.md), whole-class or small-group [discussion](../elements/class-discussion.md), journaling prompts, and teacher-modeled emotion vocabulary. The goal is not therapy but metacognitive and motivational awareness: emotions are treated as data about the learning process that can be examined and regulated.
@@ -44,7 +44,7 @@ Emotions are causally linked to achievement through their effects on attention, 
 ### Target Learners
 - Younger learners and adolescents still building emotion vocabulary and regulation skills [Durlak et al.](https://doi.org/10.1111/j.1467-8624.2010.01564.x) [+S]
 - Learners experiencing high academic anxiety, for whom naming emotions is a first step toward managing them [Lieberman et al.](https://doi.org/10.1111/j.1467-9280.2007.01958.x) [+M]
-- Learners whose low [self-efficacy](../claims/self-efficacy-predicts-academic-persistence.md) shows up as avoidance or helplessness; discussing the emotion makes the underlying belief discussable [+M]
+- Learners whose low [self-efficacy](../claims/self-efficacy-predicts-academic-persistence.md) [+W] shows up as avoidance or helplessness; discussing the emotion makes the underlying belief discussable
 - Less necessary — and occasionally uncomfortable — for highly autonomous adult learners who already self-regulate well [~W]
 
 ### Target Learning Goals

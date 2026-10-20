@@ -71,7 +71,7 @@ This paradigm organizes design guidance around three recurring dilemmas, each wi
 - [Organization Simulation for Interdisciplinary Learning](../designs/organization-simulation-for-interdisciplinary-learning.md) — a pedagogy-dilemma response built around a shared simulated task and evolving knowledge objects
 - [Interdisciplinary Societal Dilemma Units](../designs/interdisciplinary-societal-dilemma-units.md) — a "sandwich"-sequence content-dilemma response for K-12, paired with an organization-dilemma response (moving the program out of school)
 - [Humanizing Co-Design with Educators](../processes/humanizing-co-design-with-educators.md) — an infrastructuring response that brings researchers and educators together as co-designers across institutional boundaries
-- [Interdisciplinary humanities units improve students' interdisciplinary competences](../claims/interdisciplinary-humanities-units-improve-interdisciplinary-competences.md) — a "sandwich"-sequence content-dilemma response at the middle-school humanities level, with the strongest quantitative evidence among the studies this paradigm draws on
+- [Interdisciplinary humanities units improve students' interdisciplinary competences](../claims/interdisciplinary-humanities-units-improve-interdisciplinary-competences.md) [+W] — a "sandwich"-sequence content-dilemma response at the middle-school humanities level, with the strongest quantitative evidence among the studies this paradigm draws on
 
 ## Key Sources
 - Kali, Y. (2024). An ecological paradigm of interdisciplinary learning: Implications for design. *Journal of the Learning Sciences, 33*(2), 450-464. [https://doi.org/10.1080/10508406.2024.2354152](https://doi.org/10.1080/10508406.2024.2354152)

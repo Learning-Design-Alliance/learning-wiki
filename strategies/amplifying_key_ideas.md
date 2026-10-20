@@ -12,7 +12,7 @@ generated:
 # Amplifying Key Ideas
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 unmarked) · 6 studies (4 review, 2 causal), `q2`–`q3` · 0 of 6 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 6 studies (4 review, 2 causal), `q2`–`q3` · 0 of 6 report an effect size · 2 claims rest on one study
 
 ## Description
 Amplifying involves deliberately drawing learner attention to the most important ideas in course materials, discussions, and student work — through signaling (headings, emphasis, verbal cueing), summarizing, providing additional examples, or publicly elevating insightful student contributions. The goal is to guide selective attention so that limited working memory and study time are spent on what matters most.
@@ -35,7 +35,7 @@ Amplification works because learners cannot attend to everything; cues that sign
 #### Implementation Variability
 - **In materials:** headings, bolding, margin notes, and advance organizers that preview the key idea before the detail
 - **In instruction:** verbal signposting ("if you remember one thing from today…"), board work that visually isolates the core idea, and strategic repetition at the start and end of a session
-- **In student work:** publicly amplifying exemplary student contributions — quoting a student's comment and unpacking why it is insightful — which both reinforces the idea and raises the [self-efficacy](../claims/self-efficacy-predicts-academic-persistence.md) of the contributor
+- **In student work:** publicly amplifying exemplary student contributions — quoting a student's comment and unpacking why it is insightful — which both reinforces the idea and raises the [self-efficacy](../claims/self-efficacy-predicts-academic-persistence.md) [+W] of the contributor
 - **In multimedia:** segmenting videos and adding on-screen text or callouts at key moments [Signaling and segmenting improve learning from instructional video.](https://doi.org/10.1007/s11423-020-09792-9) [+M]
 
 ### Target Learners

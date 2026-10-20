@@ -12,7 +12,7 @@ generated:
 # Student Blogging
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 unmarked) · 7 studies (5 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 4 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies (5 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 4 of 7 report an effect size
 
 ## Description
 Student blogging asks learners to publish short written posts on a schedule — reflecting on course content, documenting project work, or responding to prompts — to a real or classroom audience, typically with peer commenting. It converts writing from a private assessment artifact into a public, iterative practice: posts are read, responded to, and revised, giving writing an audience and a purpose beyond the grade.
@@ -62,7 +62,7 @@ Blogging works because it combines generative writing, spaced practice, and auth
 7. **Close the loop.** Periodically surface blog insights in [Class Discussion](../elements/class-discussion.md) or seminars so that reflection feeds back into instruction.
 
 ## Related Strategies
-- [Learning by teaching](../claims/learning-by-teaching-improves-tutor-learning.md) — explaining to peers, as in blog commenting, produces tutor-learning benefits
+- [Learning by teaching](../claims/learning-by-teaching-improves-tutor-learning.md) [+W] — explaining to peers, as in blog commenting, produces tutor-learning benefits
 - [Annotating](../principles/annotating.md) — structured commenting on peers' posts is a form of social annotation
 - [Check-ins](../elements/check-in.md) — short reflective posts can double as low-stakes formative check-ins
 

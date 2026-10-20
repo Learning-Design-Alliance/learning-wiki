@@ -19,7 +19,7 @@ sources:
 # Threading, Weaving, Patternmaking
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 unmarked) · 1 study (1 qualitative), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A three-phase instructional sequence operationalizing [Critical Speculative Design Pedagogy](../theories/critical-speculative-design-pedagogy.md) within a standard science unit. In the source study it replaced a conventional 8th-grade physics unit on light waves with the driving question "How can and does light serve some communities and not other communities?" **Threading** cultivates sociopolitical consciousness through close, emotionally open annotation of texts that center Communities of Global Majority (e.g., racial bias in AI-driven dermatology, medical racism and melanin, workplace inequity in solar energy). **Weaving** has learners connect insights across multiple readings and their own cultural/community knowledge to recognize a pattern of bias as systemic rather than isolated. **Patternmaking** has learners produce a speculative, transdisciplinary artifact — a multimedia "Visioning Board," a poem, a visual narrative — envisioning a more just, restorative future, deliberately substituting these forms for the standard causal-explanation or conceptual-model culminating assessment.
@@ -38,7 +38,7 @@ A three-phase instructional sequence operationalizing [Critical Speculative Desi
 Unit (one physics unit; reduced from 75 to 28 minutes per session under COVID constraints in the source study, suggesting the sequence is compressible)
 
 ### Target Goals
-- [Critical speculative design pedagogy supports critical consciousness and justice-oriented sensemaking in science](../claims/critical-speculative-design-supports-critical-consciousness-in-science.md)
+- [Critical speculative design pedagogy supports critical consciousness and justice-oriented sensemaking in science](../claims/critical-speculative-design-supports-critical-consciousness-in-science.md) [+W]
 
 ### Target Learners
 - Middle-school science students, with particular attention to Black, Brown, and Indigenous youth for whom the unit's driving question is personally as well as academically consequential

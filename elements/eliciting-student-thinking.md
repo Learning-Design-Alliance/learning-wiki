@@ -13,7 +13,7 @@ generated:
 # Eliciting Student Thinking
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (3 for, 1 against, 1 unmarked) · 14 studies (5 quant-synthesis, 4 causal, 2 review, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 2 of 14 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 against) · 14 studies (5 quant-synthesis, 4 causal, 2 review, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 2 of 14 report an effect size · 2 claims rest on one study
 
 ## Description
 Eliciting student thinking is the practice of prompting learners to externalize their ideas, reasoning, and problem-solving approaches — through questioning, discussion, or explanation — so that both instructor and learner can examine them. It functions as a diagnostic and generative move: the instructor gains access to partial or faulty conceptions, and the learner deepens understanding by articulating it.
@@ -26,7 +26,7 @@ Eliciting thinking converts passive reception into generative processing; verbal
 #### Requirements
 - Open-ended prompts that target reasoning, not just answers ("Why?", "What if…?")
 - Adequate wait time and a classroom norm that partial or tentative ideas are safe to voice
-- Instructor responsiveness: interpreting student contributions and adapting instruction accordingly ([Contingent scaffolding improves learning.](../claims/contingent-scaffolding-improves-learning.md)) [+M]
+- Instructor responsiveness: interpreting student contributions and adapting instruction accordingly ([Contingent scaffolding improves learning.](../claims/contingent-scaffolding-improves-learning.md) [+M])
 - A follow-up structure ([Peer Discussion](peer-discussion.md), [Self-Explanation](self-explanation.md)) that lets students refine ideas after voicing them
 
 #### Constraints

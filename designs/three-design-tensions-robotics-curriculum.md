@@ -17,7 +17,7 @@ sources:
 # Three design tensions from expert feedback: authenticity versus cognitive load, integration versus visible progress, and team construction versus individual accountability
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 unmarked) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article synthesizes expert feedback into three tensions organizing the framework's revisions. For example, on the first tension, "four experts questioned novice workload and prerequisites," leading to a revised response retaining authentic tasks with supplied code and bounded customization while making independent implementation an extension. Each tension links initial design, expert feedback, and revised design responses in Table III.
@@ -42,7 +42,7 @@ The article synthesizes expert feedback into three tensions organizing the frame
 
 ## Related Designs
 
-- [Expert Review Six Cross Case Themes](../claims/expert-review-six-cross-case-themes.md)
+- [Expert Review Six Cross Case Themes](../claims/expert-review-six-cross-case-themes.md) [~W]
 - [Digital Technologies project framework: semester-spanning agile Scrum projects as an integral third of a robotics-relevant CS curriculum](digital-technologies-agile-project-framework.md)
 - [Four design goals for teacher-facing programming-process visualization: visibility, workflow support, formative feedback, and non-automated integrity clarification](four-design-goals-process-visualization-teachers.md)
 - [Integrated robotics course framework organizing a complete research workflow around one shared robot artifact](integrated-robotics-course-framework-shared-artifact.md)

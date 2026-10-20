@@ -12,7 +12,7 @@ generated:
 # Involving Learners in Classroom Design
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 unmarked) · 7 studies (5 review, 1 quant-synthesis, 1 theoretical), `q1`–`q4` · 1 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies (5 review, 1 quant-synthesis, 1 theoretical), `q1`–`q4` · 1 of 7 report an effect size
 
 ## Description
 Involving learners in classroom design means actively soliciting their input when creating or modifying the physical learning environment — seating arrangements, use of space, displays, and furniture. It is carried out through structured consultation (surveys, design charrettes, co-design workshops) followed by visible incorporation of learner decisions. The pedagogical value lies less in the resulting layout than in the experience of meaningful choice and ownership it provides.
@@ -43,7 +43,7 @@ Learner involvement in environmental design is a form of autonomy support: provi
 
 ### Target Learners
 - K–12 learners, who benefit from visible ownership of shared space and the responsibility it confers [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+M]
-- Learners with low [self-efficacy](../claims/self-efficacy-predicts-academic-persistence.md), for whom visible authorship of the environment signals belonging and competence [+W]
+- Learners with low [self-efficacy](../claims/self-efficacy-predicts-academic-persistence.md) [+W], for whom visible authorship of the environment signals belonging and competence
 - Adult and higher-education learners benefit more from co-design of course structures and schedules than of physical space, where they typically have less contact time [~W]
 
 ### Target Learning Goals

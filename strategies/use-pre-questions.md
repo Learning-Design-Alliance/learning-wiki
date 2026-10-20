@@ -53,7 +53,7 @@ Pre questions exploit the pretesting effect: unsuccessful retrieval attempts enh
 ### Instructions
 1. Identify the 3–5 most important concepts of the upcoming lesson; write one question per concept at a level learners can plausibly attempt.
 2. Present the questions before any instruction, framed explicitly as "you are not expected to know these — guessing is the point."
-3. Keep the activity short (under 5 minutes) and ungraded to avoid anxiety and to preserve the [coherence of the lesson](../claims/coherence-principle-irrelevant-material-hurts-learning.md).
+3. Keep the activity short (under 5 minutes) and ungraded to avoid anxiety and to preserve the [coherence of the lesson](../claims/coherence-principle-irrelevant-material-hurts-learning.md) [+W].
 4. Proceed immediately to instruction that answers the questions, or provide brief feedback on the guesses.
 5. Revisit the same questions after instruction as [retrieval practice](../elements/assessment.md), closing the loop between the failed attempt and the learned answer.
 6. Optionally use analogical variants — a question about a parallel case — when transfer rather than retention is the goal.

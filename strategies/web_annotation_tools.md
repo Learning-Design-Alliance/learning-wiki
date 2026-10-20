@@ -12,7 +12,7 @@ generated:
 # Web Annotation Tools
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (2 for, 2 mixed, 1 unmarked) · 10 studies (4 quant-synthesis, 3 causal, 2 review, 1 associational), `q2`–`q4` · 3 of 10 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (2 for, 2 mixed, 1 against) · 10 studies (4 quant-synthesis, 3 causal, 2 review, 1 associational), `q2`–`q4` · 3 of 10 report an effect size · 2 claims rest on one study
 
 ## Description
 Learners use free web-based tools (e.g., Hypothes.is, Perusall, Diigo) to annotate online documents — slideshows, blog posts, PDFs, or web pages — adding highlights, margin comments, questions, and replies directly on the source material. Group features make annotations visible to peers, turning a private reading act into a social, asynchronous discussion anchored in the text itself.
@@ -29,7 +29,7 @@ Annotation directs attention to specific text segments and prompts generative pr
 - Instructor modeling of high-quality annotations before independent use
 
 #### Constraints
-- Unstructured highlighting is a low-quality encoding activity; without prompts for elaboration or [Self-Explanation](../claims/self-explanation-improves-conceptual-understanding.md)-style commentary, annotation can devolve into marking that feels productive but is not [Experimenter underlining can be more effective than student underlining.](../claims/experimenter-underlining-effective-as-student-underlining.md) [-M]
+- Unstructured highlighting is a low-quality encoding activity; without prompts for elaboration or self-explanation-style commentary ([self-explanation](../claims/self-explanation-improves-conceptual-understanding.md) [-W]), annotation can devolve into marking that feels productive but is not [Experimenter underlining can be more effective than student underlining.](../claims/experimenter-underlining-effective-as-student-underlining.md) [-M]
 - Tool onboarding overhead is real: unfamiliar interfaces consume working memory that should go to the content, particularly for novices [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [~M]
 - Social visibility of annotations can suppress honest confusion or dissenting readings in status-sensitive groups; anonymous or instructor-only modes mitigate this
 - Annotation quality degrades when readings are too long; effectiveness drops on documents exceeding roughly what can be read in one sitting

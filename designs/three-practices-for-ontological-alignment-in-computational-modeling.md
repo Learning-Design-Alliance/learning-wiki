@@ -19,7 +19,7 @@ sources:
 # Three Practices for Ontological Alignment in Computational Modeling
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 unmarked) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 When students first encounter an agent-based modeling (ABM) tool, they often have relevant intuitive ideas about a phenomenon but no way to see how those ideas map onto the tool's specific representational units (e.g., individual particle behaviors and interactions). This pattern names three teacher practices, developed and documented in a diffusion unit, for closing that gap: elevating and labeling student ideas in terms the tool's building blocks can express; making the translation between a conceptual idea and its coded/simulated implementation explicit and checkable in both directions; and introducing external evidence that can adjudicate between competing models when the tool's own simulation cannot.
@@ -39,7 +39,7 @@ Unit (a 6-day computational modeling unit in the source study)
 
 ### Target Goals
 - Making a computational modeling tool's representational system align with, rather than replace or ignore, students' existing ideas about a phenomenon
-- [External empirical evidence can refute a computational model of particle interactions when the model's own simulation cannot](../claims/external-evidence-can-refute-computational-models-of-particle-interactions.md)
+- [External empirical evidence can refute a computational model of particle interactions when the model's own simulation cannot](../claims/external-evidence-can-refute-computational-models-of-particle-interactions.md) [+W]
 
 ### Target Learners
 - Middle-school students (studied at grade 6) with no prior experience with agent-based modeling tools

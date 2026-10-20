@@ -13,7 +13,7 @@ generated:
 # Composition Projects Multimodal
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 10 claims (7 for, 2 against, 1 unmarked) · 28 studies (11 quant-synthesis, 10 causal, 4 review, 2 theoretical, 1 associational), `q1`–`q4` · 10 of 28 report an effect size · 1 claim rests on one study
+> **Evidence** · 10 claims (8 for, 2 against) · 28 studies (11 quant-synthesis, 10 causal, 4 review, 2 theoretical, 1 associational), `q1`–`q4` · 10 of 28 report an effect size · 1 claim rests on one study
 
 ## Description
 Multimodal composition projects ask learners to produce original artifacts that deliberately combine modes of meaning — writing, visuals, audio, video, gesture, and spatial layout — rather than text alone. Learners plan, draft, and revise across modes, making rhetorical decisions about which mode best serves their purpose and audience. The composition process, not just the artifact, is the site of learning.
@@ -68,7 +68,7 @@ Multimodal composition leverages the productive overlap of verbal and visual rep
 - Advanced learners ready for rhetorical decision-making; novices need more constrained task structures first
 - Secondary and post-secondary learners developing disciplinary and digital literacies
 - Multilingual learners, who can leverage visual and audio modes to express understanding beyond English prose [+W]
-- Learners with high [task value](../claims/task-value-increases-motivation-and-engagement.md) for creative work show stronger engagement [+M]; learners motivated purely by grades may engage superficially [~W]
+- Learners with high [task value](../claims/task-value-increases-motivation-and-engagement.md) [+W] for creative work show stronger engagement; learners motivated purely by grades may engage superficially [~W]
 - Higher education and professional development learners, who can manage the production demands while focusing on rhetorical decisions
 
 ### Target Learning Goals

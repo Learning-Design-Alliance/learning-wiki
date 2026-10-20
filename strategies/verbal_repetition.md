@@ -58,8 +58,8 @@ Verbal repetition supports retention primarily through rehearsal and retrieval-l
 5. Schedule re-explanation of the same content in later sessions to convert repetition into spaced retrieval [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ## Related Strategies
-- [Self-explanation](../claims/self-explanation-improves-conceptual-understanding.md) — the generative restatement that gives verbal repetition its durable benefit
-- [Spaced repetition](../claims/spaced-practice-improves-retention.md) — the scheduling principle that turns one-time verbalization into long-term retention
+- [Self-explanation](../claims/self-explanation-improves-conceptual-understanding.md) [+W] — the generative restatement that gives verbal repetition its durable benefit
+- [Spaced repetition](../claims/spaced-practice-improves-retention.md) [+M] — the scheduling principle that turns one-time verbalization into long-term retention
 
 ## Related Elements
 - [Practice](../elements/practice.md) — verbal rehearsal should feed into applied practice, not substitute for it

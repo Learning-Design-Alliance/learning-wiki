@@ -13,7 +13,7 @@ generated:
 # Teach Academic Vocabulary
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 unmarked) · 16 studies (6 quant-synthesis, 4 causal, 4 review, 1 associational, 1 theoretical), `q1`–`q4` · 4 of 16 report an effect size
+> **Evidence** · 5 claims (5 for) · 16 studies (6 quant-synthesis, 4 causal, 4 review, 1 associational, 1 theoretical), `q1`–`q4` · 4 of 16 report an effect size
 
 ## Description
 Teaching academic vocabulary means identifying the discipline-specific and high-utility words a text, task, or project depends on, then providing explicit instruction on their meanings and uses rather than leaving learners to infer them from context. Instruction typically includes student-friendly definitions, multiple encounters across contexts, and active use of the words in speaking and writing. While all students benefit, English language learners often need more targeted and extended support.
@@ -73,7 +73,7 @@ Vocabulary knowledge is one of the strongest predictors of reading comprehension
 ### Instructions
 1. During unit planning, identify the words essential to the texts and tasks; prioritize Tier 2 academic words and Tier 3 terms central to the content, limiting direct instruction to roughly 8–10 words per week.
 2. Pre-teach the most critical terms using [Direct Instruction](../patterns/direct-instruction.md): student-friendly definition, example, non-example, and a quick check for understanding.
-3. Have learners process meanings actively — [Analogies](../elements/analogies.md) connecting new words to known concepts, sorting and comparing tasks, and [Self-Explanation](../claims/self-explanation-improves-conceptual-understanding.md) of why a word fits or does not fit a context [+S].
+3. Have learners process meanings actively — [Analogies](../elements/analogies.md) connecting new words to known concepts, sorting and comparing tasks, and [Self-Explanation](../claims/self-explanation-improves-conceptual-understanding.md) [+M] of why a word fits or does not fit a context.
 4. Embed the words throughout the unit: require their use in discussion prompts, [Annotating](../principles/annotating.md) tasks, and project deliverables so each word is encountered and produced multiple times across spaced intervals [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 5. Maintain a visible reference (word wall, personal glossary) and revisit words in later weeks to consolidate retention.
 6. Provide tiered supports: cognates, visuals, and L1 glosses for ELLs; extension into etymology and morphological analysis for advanced learners.

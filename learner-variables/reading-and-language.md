@@ -13,16 +13,16 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 155 claims (95 show a difference, 24 mixed, 34 no difference, 2 unmarked) · 118 studies (34 causal, 28 associational, 21 quant-synthesis, 21 review, 7 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 26 of 118 report an effect size · 146 claims rest on one study
+> **Evidence** · 155 claims (97 show a difference, 24 mixed, 34 no difference) · 118 studies (34 causal, 28 associational, 21 quant-synthesis, 21 review, 7 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 26 of 118 report an effect size · 146 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
 
 ## How strongly it relates to achievement
 
-**Mathematics.** These are correlations across meta-analyses (Breit et al. 2025, a systematic review of 30 meta-analyses; [overview](../claims/math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md)): how strongly learners who differ on this characteristic differ in mathematics achievement, not how much changing it would change achievement. Many of these characteristics are correlated with one another, and the review is about mathematics only.
+**Mathematics.** These are correlations across meta-analyses (Breit et al. 2025, a systematic review of 30 meta-analyses; [overview](../claims/math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md) [+W]): how strongly learners who differ on this characteristic differ in mathematics achievement, not how much changing it would change achievement. Many of these characteristics are correlated with one another, and the review is about mathematics only.
 
-- Verbal achievement **r = .67**, reading **.52**, comprehensive language **.51**, mathematics vocabulary **.49**, language **.42**: the strongest group of correlates of mathematics achievement. [Claim](../claims/verbal-and-reading-skills-correlate-strongly-with-math-achievement.md)
+- Verbal achievement **r = .67**, reading **.52**, comprehensive language **.51**, mathematics vocabulary **.49**, language **.42**: the strongest group of correlates of mathematics achievement. [Claim](../claims/verbal-and-reading-skills-correlate-strongly-with-math-achievement.md) [+W]
 
 ## Implications
 

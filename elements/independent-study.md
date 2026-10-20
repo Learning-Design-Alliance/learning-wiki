@@ -48,7 +48,7 @@ Independent study builds self-regulatory capacity and can be efficient for well-
 ### Affordances
 - [Self-Regulated Learning](../theories/self-regulated-learning.md) — independent study is the natural arena for practicing self-regulation; each study episode is a cycle of goal-setting, monitoring, and revision
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — self-pacing lets learners allocate time and repetition according to their own working-memory demands rather than a fixed group pace
-- [Autonomy-supportive design](../claims/autonomy-supports-intrinsic-motivation.md) — structuring independent work as meaningful choice (topic, sequence, method) enacts autonomy support, which sustains intrinsic motivation
+- [Autonomy-supportive design](../claims/autonomy-supports-intrinsic-motivation.md) [+W] — structuring independent work as meaningful choice (topic, sequence, method) enacts autonomy support, which sustains intrinsic motivation
 - [Mastery Learning](adaptive-mastery-learning.md) — independent study at the learner's own pace is the delivery mechanism for mastery-based designs, where advancement depends on demonstrated competence rather than time
 
 ### Claims

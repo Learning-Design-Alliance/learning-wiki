@@ -12,7 +12,7 @@ generated:
 # Adjust Time Frames
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (3 for, 1 mixed, 1 unmarked) · 12 studies (4 causal, 3 quant-synthesis, 3 review, 2 theoretical), `q2`–`q4` · 2 of 12 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (3 for, 2 mixed) · 12 studies (4 causal, 3 quant-synthesis, 3 review, 2 theoretical), `q2`–`q4` · 2 of 12 report an effect size · 2 claims rest on one study
 
 ## Description
 Adjusting time frames means deliberately shortening the duration of instructional segments, work periods, and sustained tasks to match learners' attentional capacity, then re-engaging them at structured checkpoints. It is carried out with visible timers, clearly bounded sub-tasks, and brief check-ins or movement breaks between intervals — for example, a 10-minute work sprint followed by a two-minute progress share.
@@ -31,7 +31,7 @@ Sustained attention on a single task degrades well before learners report losing
 #### Constraints
 - Intervals shorter than the task's natural unit fragment work and disrupt flow; learners mid-solution who are interrupted must reload problem state into working memory [-M]
 - Frequent teacher-led check-ins can create dependency on external monitoring, undermining the development of self-regulated pacing [~M] — fade check-ins as learners internalize the routine
-- For complex, integrated tasks, splitting time can encourage [part-task](../claims/part-task-practice-reduces-load-for-novices.md) habits that fail to transfer to whole-task performance [Whole-task practice supports transfer better than isolated part practice for integrated skills.](../claims/whole-task-performance-improves-transfer.md) [~M]
+- For complex, integrated tasks, splitting time can encourage [part-task](../claims/part-task-practice-reduces-load-for-novices.md) [~W] habits that fail to transfer to whole-task performance [Whole-task practice supports transfer better than isolated part practice for integrated skills.](../claims/whole-task-performance-improves-transfer.md) [~M]
 - Timers themselves can raise anxiety for some learners, particularly those with test or time pressure sensitivity [-W]
 
 #### Implementation Variability

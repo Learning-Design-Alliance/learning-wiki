@@ -13,7 +13,7 @@ The wiki holds **6,033 distinct studies** behind 22,556 claims. What they add up
 - **Strong work is not only trials.** 610 studies are rated `r3`, done well for their kind; 397 of them are qualitative, design, theoretical or review work, which the design tier alone would rank low.
 - **Most findings stand alone.** 98% of claims rest on one study; a finding reported once, in one setting, has not been shown to hold elsewhere.
 - **Not all research reaches design.** 71% of studies, and 44% of claims, are cited by a principle, pattern, element, strategy or design; the rest are recorded but not connected to a design decision, either because none has been written or because the finding does not bear on one.
-- **Principles and patterns.** Of 224 pages written in the conditional format, 106 have research testing their central relationship, at least in part, and 118 carry a labelled default design because nothing in the wiki tests it. Their citations of claims are 5% strong, 45% moderate and 50% weak, and 49% supporting, 46% conditional and 6% against.
+- **Principles and patterns.** Of 224 pages written in the conditional format, 106 have research testing their central relationship, at least in part, and 118 carry a labelled default design because nothing in the wiki tests it. Their citations of claims are 5% strong, 45% moderate and 50% weak, and 49% supporting, 46% conditional and 5% against.
 
 These figures describe two things at once: what education research has produced, and what this wiki has collected so far. As inclusion is held to a higher standard the second will move; the first is why it has to.
 
@@ -83,9 +83,9 @@ The claims the rest of the wiki cites most, beside what they rest on. A claim ci
 
 | Claim | Cited from | Studies | q | Effect size reported |
 |---|---|---|---|---|
-| [Chunking reduces working memory load by grouping information into fewer, more meaningful …](claims/chunking-reduces-working-memory-load.md) | 575 pages | 3 | q2–q3 | 0 of 3 |
+| [Chunking reduces working memory load by grouping information into fewer, more meaningful …](claims/chunking-reduces-working-memory-load.md) | 574 pages | 3 | q2–q3 | 0 of 3 |
 | [Prompting learners to self-explain improves understanding and problem solving on …](claims/self-explanation-improves-conceptual-understanding.md) | 473 pages | 4 | q2–q4 | 1 of 4 |
-| [Feedback Most Effective At Task And Process Levels](claims/feedback-most-effective-at-task-and-process-levels.md) | 395 pages | 2 | q4 | 2 of 2 |
+| [Feedback Most Effective At Task And Process Levels](claims/feedback-most-effective-at-task-and-process-levels.md) | 394 pages | 2 | q4 | 2 of 2 |
 | [Self-determination theory holds that autonomy support raises intrinsic motivation, and a …](claims/autonomy-supports-intrinsic-motivation.md) | 381 pages | 3 | q1–q4 | 1 of 3 |
 | [Cognitive Overload Degrades Learning](claims/cognitive-overload-degrades-learning.md) | 347 pages | 2 | q3–q4 | 1 of 2 |
 | [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist …](claims/self-efficacy-predicts-academic-persistence.md) | 328 pages | 2 | q2 | 0 of 2 |
@@ -107,7 +107,7 @@ The claims the rest of the wiki cites most, beside what they rest on. A claim ci
 | [Adding relevant pictures or graphics to text improves learning from it, with a small …](claims/dual-coding-improves-learning.md) | 86 pages | 3 | q2–q4 | 1 of 3 |
 | [Interesting but irrelevant details can impair comprehension and transfer, with effects …](claims/seductive-details-effect.md) | 85 pages | 6 | q2–q3 | 1 of 6 |
 | [In school studies, cooperative and peer-learning methods that reward groups on every …](claims/cooperative-learning-group-rewards-and-individual-accountability.md) | 82 pages | 3 | q2–q3 | 2 of 3 |
-| [Erroneous examples improve conceptual understanding by forcing comparison with correct …](claims/erroneous-examples-build-conceptual-knowledge.md) | 81 pages | 2 | q3 | 0 of 2 |
+| [Building Empathy Improves Intergroup Attitudes](claims/building-empathy-improves-intergroup-attitudes.md) | 80 pages | 3 | q3 | 0 of 3 |
 
 Of the 39 claims cited from 50 or more pages, **6 rest on one study or none**: [In one 37-student classroom experiment, recall and retention differ …](claims/media-combinations-affect-recall-and-retention.md), [Part-task practice reduces cognitive load for absolute novices during …](claims/part-task-practice-reduces-load-for-novices.md), [Relevancy of emphasized text directs attention and influences test …](claims/relevancy-of-emphasis-directs-attention.md), [A training-design argument, not tested by any study recorded here, …](claims/whole-task-performance-improves-transfer.md), [Example-first conditions outperformed problem-first conditions on an …](claims/worked-example-problem-sequences.md), [Worked examples reduce unnecessary search for novices.](claims/worked-examples-reduce-novice-search.md).
 
@@ -115,30 +115,30 @@ Of the 39 claims cited from 50 or more pages, **6 rest on one study or none**: [
 
 Claims cited as support on some pages and as counter-evidence on others (`[+]` and `[-]` markers on the same claim). The disagreement is in how pages use the claim, which is often the point: a boundary condition cited against a strategy it limits. It is still where a reader should look twice.
 
-365 claims are cited both ways.
+366 claims are cited both ways.
 
 | Claim | For | Mixed | Against | Studies |
 |---|---|---|---|---|
-| [Cognitive Overload Degrades Learning](claims/cognitive-overload-degrades-learning.md) | 125 | 81 | 140 | 2 |
+| [Cognitive Overload Degrades Learning](claims/cognitive-overload-degrades-learning.md) | 126 | 81 | 140 | 2 |
 | [Interesting but irrelevant details can impair comprehension and transfer, with effects …](claims/seductive-details-effect.md) | 21 | 15 | 49 | 6 |
-| [Self-determination theory holds that autonomy support raises intrinsic motivation, and a …](claims/autonomy-supports-intrinsic-motivation.md) | 319 | 42 | 19 | 3 |
+| [Self-determination theory holds that autonomy support raises intrinsic motivation, and a …](claims/autonomy-supports-intrinsic-motivation.md) | 319 | 43 | 19 | 3 |
 | [Minimal guidance is less effective for novices than explicit instruction](claims/minimal-guidance-less-effective-for-novices.md) | 24 | 25 | 18 | 3 |
-| [Chunking reduces working memory load by grouping information into fewer, more meaningful …](claims/chunking-reduces-working-memory-load.md) | 491 | 64 | 17 | 3 |
+| [Chunking reduces working memory load by grouping information into fewer, more meaningful …](claims/chunking-reduces-working-memory-load.md) | 491 | 66 | 17 | 3 |
 | [Learning Styles Matching Does Not Improve Learning](claims/learning-styles-matching-does-not-improve-learning.md) | 2 | 1 | 12 | 3 |
 | [Coherence Principle Irrelevant Material Hurts Learning](claims/coherence-principle-irrelevant-material-hurts-learning.md) | 22 | 5 | 11 | 4 |
-| [Instructional guidance that helps novices can become redundant or counterproductive as …](claims/expertise-reversal-effect.md) | 7 | 207 | 10 | 3 |
+| [Instructional guidance that helps novices can become redundant or counterproductive as …](claims/expertise-reversal-effect.md) | 7 | 211 | 10 | 3 |
+| [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist …](claims/self-efficacy-predicts-academic-persistence.md) | 294 | 24 | 10 | 2 |
 | [Praise for intelligence, rather than for effort, after success undermines children's …](claims/feedback-praise-reduces-learning.md) | 3 | 7 | 8 | 3 |
-| [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist …](claims/self-efficacy-predicts-academic-persistence.md) | 283 | 21 | 8 | 2 |
 | [Example-based sequences outperform problem-only practice for novices, and fading support …](claims/worked-examples-with-practice-improve-transfer.md) | 44 | 1 | 8 | 2 |
-| [Feedback Most Effective At Task And Process Levels](claims/feedback-most-effective-at-task-and-process-levels.md) | 378 | 9 | 5 | 2 |
+| [Feedback Most Effective At Task And Process Levels](claims/feedback-most-effective-at-task-and-process-levels.md) | 380 | 9 | 5 | 2 |
 | [Fluent Illusions Mislead Self Assessment](claims/fluent-illusions-mislead-self-assessment.md) | 2 | 6 | 5 | 2 |
 | [PS-I effects vary by grade level: negative for 2nd–5th graders and increasing with age](claims/psi-effect-increases-with-grade-level.md) | 1 | 1 | 5 | 1 |
+| [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while …](claims/rewards-undermine-intrinsic-motivation.md) | 9 | 10 | 5 | 5 |
+| [Prompting learners to self-explain improves understanding and problem solving on …](claims/self-explanation-improves-conceptual-understanding.md) | 443 | 25 | 5 | 4 |
 | [Executive functions do not directly predict syntactic complexity or story content once …](claims/ef-no-direct-effect-syntactic-complexity-story-content.md) | 2 | 0 | 4 | 1 |
 | [Taking initial multiple-choice tests without feedback can lead students to later produce …](claims/multiple-choice-lures-can-be-learned-as-false-knowledge.md) | 2 | 1 | 4 | 1 |
 | [Redundant on-screen text impairs learning when it competes with a visualization, though …](claims/redundancy-principle.md) | 6 | 8 | 4 | 1 |
-| [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while …](claims/rewards-undermine-intrinsic-motivation.md) | 9 | 10 | 4 | 5 |
-| [Worked examples reduce unnecessary search for novices.](claims/worked-examples-reduce-novice-search.md) | 62 | 9 | 4 | 1 |
-| [Belonging Interventions Improve Outcomes](claims/belonging-interventions-improve-outcomes.md) | 206 | 19 | 3 | 2 |
+| [Worked examples reduce unnecessary search for novices.](claims/worked-examples-reduce-novice-search.md) | 63 | 9 | 4 | 1 |
 
 ## Evidence by kind of page
 

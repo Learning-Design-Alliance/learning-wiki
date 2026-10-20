@@ -12,7 +12,7 @@ generated:
 # Creating Visuals
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 unmarked) · 11 studies (5 causal, 3 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 2 of 11 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (3 for, 1 against) · 11 studies (5 causal, 3 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 2 of 11 report an effect size · 1 claim rests on one study
 
 ## Description
 Creating Visuals asks learners to generate their own visual representations — diagrams, sketches, concept maps, infographics, storyboards — of the content they are studying, rather than only viewing instructor-provided graphics. The act of constructing a visual forces learners to select, organize, and integrate information, making it a generative learning activity rather than a passive one.
@@ -30,7 +30,7 @@ Student-generated visuals are effective because drawing requires translating ver
 
 #### Constraints
 - Drawing can overload working memory when learners must simultaneously search for the pictorial format and reason about content; providing a partially completed structure or reference images reduces this load [~M] — see [Cognitive Load Theory](../theories/cognitive-load-theory.md)
-- Learners with weak prior knowledge may copy surface features without understanding; pairing the visual with [Self-Explanation](../claims/self-explanation-improves-conceptual-understanding.md) prompts mitigates this [-M]
+- Learners with weak prior knowledge may copy surface features without understanding; pairing the visual with [Self-Explanation](../claims/self-explanation-improves-conceptual-understanding.md) [-M] prompts mitigates this
 - Benefits shrink when the material is purely verbal or when learners already have fluent mental models — the expertise-reversal pattern applies [~M]
 - Time-intensive relative to reading or discussion; reserve for high-value, structurally complex content
 

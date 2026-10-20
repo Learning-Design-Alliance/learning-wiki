@@ -35,7 +35,7 @@ Varied repetition works because it exploits dual coding and elaboration: present
 
 #### Implementation Variability
 - **Within-lesson:** preview → restate with example → student paraphrase → closing summary
-- **Across lessons:** brief retrieval of the key point at the start of subsequent sessions ([Spaced repetition](../claims/spaced-practice-improves-retention.md))
+- **Across lessons:** brief retrieval of the key point at the start of subsequent sessions ([Spaced repetition](../claims/spaced-practice-improves-retention.md) [+M])
 - **Across learners:** students generate their own restatements or examples ([Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]), shifting repetition from teacher-provided to learner-generated
 
 ### Target Learners
@@ -59,7 +59,7 @@ Varied repetition works because it exploits dual coding and elaboration: present
 ## Related Strategies
 - [Chunking](../principles/chunking.md) — repetition only works on a small, well-chosen set of points
 - [Activating Prior Knowledge](../principles/activation.md) — the opening preview doubles as activation of related knowledge
-- [Spaced Repetition](../claims/spaced-practice-improves-retention.md) — the scheduling principle that determines whether repetition sticks
+- [Spaced Repetition](../claims/spaced-practice-improves-retention.md) [+M] — the scheduling principle that determines whether repetition sticks
 
 ## Examples
 - **Explicit Direct Instruction lessons** (e.g., DataWORKS EDI) structure every lesson with a "concept development" phase in which the key concept is stated, restated with a non-linguistic representation, and checked through whole-class choral response and individual whiteboard checks.

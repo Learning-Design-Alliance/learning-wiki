@@ -12,7 +12,7 @@ generated:
 # Math Games
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 unmarked) · 13 studies (7 quant-synthesis, 3 causal, 2 review, 1 associational), `q2`–`q4` · 5 of 13 report an effect size
+> **Evidence** · 4 claims (3 for, 1 against) · 13 studies (7 quant-synthesis, 3 causal, 2 review, 1 associational), `q2`–`q4` · 5 of 13 report an effect size
 
 ## Description
 Math games are structured activities designed to stimulate enthusiasm for math learning by providing opportunities to explore fundamental number concepts, engage in strategic mathematical thinking, and deepen understanding of numbers. Games encourage exploration of number combinations, place value, patterns, and computational strategies, deepening mathematical understanding and reasoning. They also create authentic opportunities for teachers to observe or assess students and to work with individuals or small groups while the rest of the class plays independently.
@@ -29,7 +29,7 @@ Well-designed math games embed [practice](../elements/practice.md) in a goal str
 - Debrief structures that surface strategies, since the learning is in the reasoning, not the winning
 
 #### Constraints
-- Games used solely to drill number facts may not sustain engagement, and may generate negative feelings when recall speed determines success [-M] — timed-recall games disadvantage students with slower retrieval but sound reasoning, and speed pressure can undermine the [self-efficacy](../claims/self-efficacy-predicts-academic-persistence.md) that games are meant to build
+- Games used solely to drill number facts may not sustain engagement, and may generate negative feelings when recall speed determines success [-M] — timed-recall games disadvantage students with slower retrieval but sound reasoning, and speed pressure can undermine the [self-efficacy](../claims/self-efficacy-predicts-academic-persistence.md) [-W] that games are meant to build
 - If luck dominates skill, the game motivates without teaching; the mathematical content must drive outcomes
 - Without a debrief, students may play procedurally and never connect game moves to the underlying concepts [~M]
 - Poorly matched difficulty (too easy or too hard) collapses engagement; games need adjustable rules to stay in the productive struggle zone

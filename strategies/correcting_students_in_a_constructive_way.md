@@ -55,7 +55,7 @@ Constructive correction works because feedback directed at the task and process 
 2. Catch the error early and deliver the correction privately or discreetly, describing the gap between the work/behavior and the standard.
 3. Name the behavior, not the person: "The paragraph is missing a claim" rather than "You're not trying."
 4. Attach a process-level next step the student can execute immediately ([Coaching](../elements/coaching.md)).
-5. Where the error is instructive, convert it into analysis — an [erroneous example](../claims/erroneous-examples-build-conceptual-knowledge.md) the class examines together.
+5. Where the error is instructive, convert it into analysis — an [erroneous example](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M] the class examines together.
 6. Follow up with a brief [check-in](../principles/check-ins.md) to confirm the student recovered, signaling the relationship is intact.
 
 ## Related Strategies

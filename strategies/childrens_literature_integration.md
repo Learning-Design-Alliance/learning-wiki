@@ -12,7 +12,7 @@ generated:
 # Children's Literature Integration
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 unmarked) · 6 studies (2 quant-synthesis, 2 review, 1 causal, 1 associational), `q2`–`q4` · 1 of 6 report an effect size
+> **Evidence** · 2 claims (2 for) · 6 studies (2 quant-synthesis, 2 review, 1 causal, 1 associational), `q2`–`q4` · 1 of 6 report an effect size
 
 ## Description
 Integrating children's literature — storybooks, picture books, and trade books with mathematical content — into math instruction to enhance engagement and comprehension. Stories situate abstract concepts in narrative contexts, giving learners a purpose for computation and a shared referent for discussion. Multicultural selections extend this by connecting mathematics to diverse cultural practices, and the approach can extend into home lending systems and digital libraries to support family reading.
@@ -57,7 +57,7 @@ Literature integration works because narrative provides a meaningful context tha
 2. Read the story aloud, using [Activation](../elements/activation.md) questions to surface learners' prior knowledge of the situation before the math begins.
 3. Pose a problem grounded in the story's events and have learners work it with [Demonstration](../elements/demonstration.md) of one solution path if the class is new to the problem type.
 4. Move to [Application](../elements/application.md): learners solve related problems, collect data, or extend the story's situation with their own numbers.
-5. Close with [Class Discussion](../elements/class-discussion.md) connecting the story context back to the abstract mathematics, prompting learners to [self-explain](../claims/self-explanation-improves-conceptual-understanding.md) why the math answered the story's question.
+5. Close with [Class Discussion](../elements/class-discussion.md) connecting the story context back to the abstract mathematics, prompting learners to [self-explain](../claims/self-explanation-improves-conceptual-understanding.md) [+M] why the math answered the story's question.
 6. Extend home connection through a lending library or digital collection with suggested family activities.
 
 ## Related Strategies

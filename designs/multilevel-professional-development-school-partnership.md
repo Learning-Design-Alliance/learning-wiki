@@ -38,7 +38,7 @@ This pattern structures a school-university research-practice partnership as thr
 Program (a multi-year, multi-school research-practice partnership)
 
 ### Target Goals
-- [Boundary-crossing mechanisms unfold sequentially across levels, and broker centrality creates an involvement paradox](../claims/boundary-crossing-mechanisms-unfold-sequentially-and-brokers-face-an-involvement-paradox.md)
+- [Boundary-crossing mechanisms unfold sequentially across levels, and broker centrality creates an involvement paradox](../claims/boundary-crossing-mechanisms-unfold-sequentially-and-brokers-face-an-involvement-paradox.md) [~W]
 
 ### Target Learners
 - In-service teachers, student teachers, teacher educators, and school leaders in a research-practice partnership, at institutions without pre-existing research-integration infrastructure

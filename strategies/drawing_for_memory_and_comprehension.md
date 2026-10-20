@@ -12,7 +12,7 @@ generated:
 # Drawing for Memory and Comprehension
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 unmarked) · 12 studies (5 quant-synthesis, 4 causal, 2 review, 1 associational), `q2`–`q4` · 3 of 12 report an effect size
+> **Evidence** · 3 claims (3 for) · 12 studies (5 quant-synthesis, 4 causal, 2 review, 1 associational), `q2`–`q4` · 3 of 12 report an effect size
 
 ## Description
 Drawing asks learners to construct a pictorial representation of content they are trying to learn — a diagram, sketch, or illustration of a concept, process, or text. The act of drawing requires learners to select key information, organize it spatially, and translate verbal material into visual form, producing deeper processing than rereading or copying. It is a generative learning activity: the learner, not the instructor, produces the external representation.
@@ -26,7 +26,7 @@ Drawing works because it combines multiple memory pathways: it engages [Dual Cod
 - Content that can plausibly be represented visually (processes, systems, spatial relations, narratives, definitions)
 - Sufficient time — drawing is slower than writing or rereading, so scope must be reduced accordingly
 - Minimal drawing skill demands; the goal is representational, not artistic, quality
-- A follow-up step that connects the drawing back to the verbal content, such as [Self-Explanation](../claims/self-explanation-improves-conceptual-understanding.md) or explaining the drawing to a peer
+- A follow-up step that connects the drawing back to the verbal content, such as [Self-Explanation](../claims/self-explanation-improves-conceptual-understanding.md) [+M] or explaining the drawing to a peer
 
 #### Constraints
 - Drawing consumes working memory; for novices, complex content plus drawing can overload rather than help [Drawing can impose extraneous load when content is complex or drawing skill is weak.](../claims/chunking-reduces-working-memory-load.md) [-M]
@@ -54,8 +54,8 @@ Drawing works because it combines multiple memory pathways: it engages [Dual Cod
 1. Select a small, bounded unit of content (a definition, one process step, one paragraph).
 2. Ask learners to draw a picture that captures the meaning — not an illustration of the words, but a representation of the idea — following the generative logic of [Active Learning](../principles/active-learning.md).
 3. Have learners label the drawing with key terms to bind the verbal and visual codes.
-4. Prompt learners to explain their drawing aloud or in writing, enacting [Self-Explanation](../claims/self-explanation-improves-conceptual-understanding.md).
-5. Compare drawings with a reference diagram or peers' drawings and revise; revisit drawings on a spaced schedule using [Spaced Repetition](../claims/spaced-practice-improves-retention.md).
+4. Prompt learners to explain their drawing aloud or in writing, enacting [Self-Explanation](../claims/self-explanation-improves-conceptual-understanding.md) [+M].
+5. Compare drawings with a reference diagram or peers' drawings and revise; revisit drawings on a spaced schedule using [Spaced Repetition](../claims/spaced-practice-improves-retention.md) [+M].
 
 ## Related Strategies
 

@@ -25,7 +25,7 @@ sources:
 # Explicitly Addressing Social Awareness
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 unmarked) · 2 studies (2 review), `q2` · 0 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 2 studies (2 review), `q2` · 0 of 2 report an effect size
 
 ## Description
 This strategy treats social awareness — the ability to understand social norms, read others' perspectives, and empathize across differences — as a teachable component of learning rather than an assumed prerequisite. Educators first identify where individual students show strengths and challenges in social understanding, then deploy aligned moves: modeling empathic reasoning aloud, facilitating structured discussion of diverse perspectives, and using current events or fictional characters as safe objects for social analysis.
@@ -57,7 +57,7 @@ Social awareness develops through the same mechanisms as other complex skills: o
 ### Target Learners
 - Students across all grade levels, with the strongest documented effects in K–12 populations [SEL interventions improve academic achievement, attitudes, and behavior across school levels.](https://doi.org/10.1111/j.1467-8624.2010.01564) [+S]
 - Students with weak perspective-taking or difficulty reading social norms, who benefit most from explicit rather than incidental instruction [+M]
-- Students whose sense of belonging or [self-efficacy](../claims/self-efficacy-predicts-academic-persistence.md) is undermined by social friction; improving social awareness supports persistence [+M]
+- Students whose sense of belonging or [self-efficacy](../claims/self-efficacy-predicts-academic-persistence.md) [+W] is undermined by social friction; improving social awareness supports persistence
 - Less effective when imposed on students experiencing acute social stress without adequate relational support [~W]
 
 ### Target Learning Goals

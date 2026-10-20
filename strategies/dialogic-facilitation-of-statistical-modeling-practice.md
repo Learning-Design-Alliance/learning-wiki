@@ -17,7 +17,7 @@ sources:
 # Dialogic Facilitation of Statistical Modeling Practice
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 unmarked) · 1 study (1 qualitative), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Statistical modeling — mapping a real situation into a model, imagining it as one instance of a repeatable long-run process, judging how well a model fits, and using models to make inferences under uncertainty — is rarely taught as an integrated practice; more often, its component skills (running a simulation, computing an IQR) are taught as separate procedures. This strategy decomposes statistical modeling into four foundational aspects and pairs each with specific, recurring forms of dialogic teacher talk that push students from a single, static view of a phenomenon toward a coordinated modeling practice — for example, moving students from running a model once to systematically reasoning about a *collection* of runs, or from matching a single sample's shape to also weighing its variability.
@@ -37,7 +37,7 @@ Statistical modeling — mapping a real situation into a model, imagining it as 
 - Middle-school students (studied at grade 6) learning to reason about variability, sampling, and inference
 
 ### Target Learning Goals
-- [Dialogic teacher support cultivates all four aspects of statistical modeling practice over a multi-week unit](../claims/dialogic-teacher-support-cultivates-statistical-modeling-practice.md)
+- [Dialogic teacher support cultivates all four aspects of statistical modeling practice over a multi-week unit](../claims/dialogic-teacher-support-cultivates-statistical-modeling-practice.md) [+W]
 
 ### Instructions
 1. **Mapping situations to models**: ask students to describe or justify why a model component corresponds to a real situational element; "animate" an actor's history to counter equiprobability assumptions (e.g., "what has this player been doing all year?"); press for concrete examples of any component a student names.

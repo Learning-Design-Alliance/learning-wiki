@@ -54,7 +54,7 @@ This strategy operationalizes [Assessment for Learning](../principles/assessment
 1. Collect and quickly scan the formative assessment for common error patterns before class.
 2. Display 2–4 selected problems (or anonymized student work) without revealing grades.
 3. Facilitate [Class Discussion](../elements/class-discussion.md): students explain the processes they used, including where their approach broke down.
-4. Contrast productive and unproductive approaches on the chart; where useful, frame an error as an [Erroneous Example](../claims/erroneous-examples-build-conceptual-knowledge.md) for the class to diagnose.
+4. Contrast productive and unproductive approaches on the chart; where useful, frame an error as an [Erroneous Example](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M] for the class to diagnose.
 5. Co-construct the artifact: a plus/delta chart (what worked / what to change) or an anchor chart distilling agreed strategies.
 6. Post the chart and explicitly reference it during subsequent [Practice](../elements/practice.md) so it functions as a living scaffold rather than wall decoration.
 

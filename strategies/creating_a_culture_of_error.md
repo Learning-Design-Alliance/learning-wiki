@@ -25,7 +25,7 @@ A culture of error changes what learners do with mistakes: instead of concealing
 #### Requirements
 - Instructor modeling: the teacher openly analyzes their own errors and treats student errors as interesting data ("What does this mistake teach us?") rather than as deficiencies
 - Norms that decouple error from status — e.g., no ridicule, credit for productive revision, public celebration of "favorite mistakes"
-- Tasks with genuine room for error: low-stakes attempts, drafts, and [erroneous examples](../claims/erroneous-examples-build-conceptual-knowledge.md) to analyze
+- Tasks with genuine room for error: low-stakes attempts, drafts, and [erroneous examples](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M] to analyze
 - Feedback routines that are specific, process-focused, and actionable [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]
 
 #### Constraints

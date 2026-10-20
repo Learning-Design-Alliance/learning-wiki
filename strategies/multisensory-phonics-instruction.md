@@ -25,7 +25,7 @@ sources:
 # Multisensory Phonics Instruction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (3 for, 2 against, 1 unmarked) · 16 studies (6 quant-synthesis, 5 causal, 4 review, 1 theoretical), `q1`–`q4` · 6 of 16 report an effect size · 1 claim rests on one study
+> **Evidence** · 6 claims (4 for, 2 against) · 16 studies (6 quant-synthesis, 5 causal, 4 review, 1 theoretical), `q1`–`q4` · 6 of 16 report an effect size · 1 claim rests on one study
 
 ## Description
 Multisensory phonics instruction teaches grapheme–phoneme correspondences by engaging several channels at once: the learner looks at the letter, says its sound, and simultaneously traces it in sand, forms it with tiles, taps the phonemes on their fingers, or writes it in the air. The approach is most associated with the Orton-Gillingham tradition and its derivatives, where "simultaneous multisensory" is one component of a package that is also explicit, systematic, cumulative, and diagnostic.
@@ -51,7 +51,7 @@ The addition is also frequently justified by an appeal to visual, auditory, and 
 - A systematic scope and sequence of grapheme–phoneme correspondences, taught cumulatively
 - Explicit teacher modeling of each correspondence before student production ([Direct Instruction](../patterns/direct-instruction.md))
 - Immediate, repeated student production: saying the sound while writing or tracing the letter
-- Cumulative review and [distributed practice](../claims/spaced-practice-improves-retention.md) of previously taught correspondences
+- Cumulative review and [distributed practice](../claims/spaced-practice-improves-retention.md) [+M] of previously taught correspondences
 - Decodable text that lets students apply taught patterns in connected reading
 
 #### Constraints

@@ -12,7 +12,7 @@ generated:
 # Home Surveys
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 unmarked) · 2 studies (2 review), `q2` · 0 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 2 studies (2 review), `q2` · 0 of 2 report an effect size
 
 ## Description
 Home surveys are short, recurring questionnaires sent to students' families (or to students themselves at home) to collect ongoing information about learning conditions, well-being, family priorities, and the effectiveness of instruction. Unlike one-time intake forms, they establish a feedback loop: the teacher gathers data, adjusts practice, and families see their input reflected in classroom decisions, which builds trust and sustained engagement.
@@ -43,7 +43,7 @@ Home surveys operationalize family engagement as a two-way data flow rather than
 ### Target Learners
 - Students whose home learning conditions differ substantially from school assumptions — surveys surface barriers (device access, quiet study space, caregiving duties) that would otherwise remain invisible [~M]
 - Multilingual families, when surveys are translated and offered in accessible formats, since they are often excluded by phone- and conference-based communication norms [+W]
-- Students with low [self-efficacy](../claims/self-efficacy-predicts-academic-persistence.md), whose families can report early signs of disengagement before they appear in performance data [+W]
+- Students with low [self-efficacy](../claims/self-efficacy-predicts-academic-persistence.md) [+W], whose families can report early signs of disengagement before they appear in performance data
 
 ### Target Learning Goals
 - Affective and environmental: understanding conditions that support or impede learning at home

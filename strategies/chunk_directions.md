@@ -13,14 +13,14 @@ generated:
 # Chunk Directions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (2 for, 2 unmarked) · 12 studies (4 quant-synthesis, 3 causal, 3 review, 1 associational, 1 theoretical), `q1`–`q4` · 3 of 12 report an effect size
+> **Evidence** · 4 claims (3 for, 1 mixed) · 12 studies (4 quant-synthesis, 3 causal, 3 review, 1 associational, 1 theoretical), `q1`–`q4` · 3 of 12 report an effect size
 
 ## Description
 Chunk Directions means delivering instructions in small, sequenced units — one step or two at a time — rather than as a single long string of directions. Each chunk is presented, acted on, and checked before the next is introduced, so learners hold only a manageable amount of procedural information in working memory at once.
 
 ## Design Implications
 
-Working memory can hold only a few novel elements at a time, and long instruction strings routinely exceed that capacity, causing steps to be dropped or abandoned mid-task [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S]. Presenting directions in chunks aligns with [Cognitive Load Management](../principles/cognitive-load-management.md) by offloading the "what do I do next?" burden onto the environment rather than memory. Chunking also creates natural checkpoints where learners can ask questions or receive [feedback](../claims/feedback-most-effective-at-task-and-process-levels.md) before errors compound.
+Working memory can hold only a few novel elements at a time, and long instruction strings routinely exceed that capacity, causing steps to be dropped or abandoned mid-task [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S]. Presenting directions in chunks aligns with [Cognitive Load Management](../principles/cognitive-load-management.md) by offloading the "what do I do next?" burden onto the environment rather than memory. Chunking also creates natural checkpoints where learners can ask questions or receive [feedback](../claims/feedback-most-effective-at-task-and-process-levels.md) [+W] before errors compound.
 
 ### Context
 #### Requirements
@@ -33,7 +33,7 @@ Working memory can hold only a few novel elements at a time, and long instructio
 - A way for learners to re-access a chunk (posted card, slide, LMS step) without asking, since re-reading is common
 
 #### Constraints
-- Over-chunking fragments a coherent procedure and can prevent learners from building an integrated mental model of the whole task [~M] — the [expertise-reversal effect](../claims/expertise-reversal-effect.md) applies: fluent learners often prefer and benefit from complete directions presented at once
+- Over-chunking fragments a coherent procedure and can prevent learners from building an integrated mental model of the whole task — the [expertise-reversal effect](../claims/expertise-reversal-effect.md) [~M] applies: fluent learners often prefer and benefit from complete directions presented at once
 - Increases pacing demands on the instructor; learners who finish a chunk quickly must have a productive next action or they disengage
 - Written multi-step directions that learners can revisit may serve better than spoken chunks for tasks with many steps, since speech evaporates [~S]
 - Learners who need to see the whole task structure to plan or monitor their work may be disoriented by step-by-step delivery; providing an advance overview of the full sequence mitigates this

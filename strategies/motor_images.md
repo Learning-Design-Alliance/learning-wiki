@@ -12,7 +12,7 @@ generated:
 # Motor Images
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 against, 1 unmarked) · 8 studies (3 causal, 3 quant-synthesis, 2 review), `q2`–`q4` · 2 of 8 report an effect size
+> **Evidence** · 2 claims (1 for, 1 against) · 8 studies (3 causal, 3 quant-synthesis, 2 review), `q2`–`q4` · 2 of 8 report an effect size
 
 ## Description
 Motor images (sometimes called "muscle memory") involve encoding information through physical movement — air-writing letters, gesturing word meanings, tapping syllables, or physically manipulating objects. The strategy draws on the **enactment effect**: self-performed actions are recalled better than actions that are only observed or described [Cohen's review of enactment memory](https://doi.org/10.1007/BF01326550) [+S]. Multisensory combinations of seeing, hearing, saying, and moving strengthen the memory trace through redundant encoding pathways [Dual coding theory and education](https://doi.org/10.1007/BF01320076) [+M].
@@ -26,7 +26,7 @@ Enactment improves free recall of action phrases and procedural content relative
 - Content that can plausibly be mapped to a movement, gesture, or manipulation
 - Space and permission for physical activity; clear safety norms
 - Explicit connection between the movement and the content, so the motor trace serves recall rather than becoming a separate, competing task
-- Repeated, [spaced](../claims/spaced-practice-improves-retention.md) practice so the motor pattern becomes automatic
+- Repeated, [spaced](../claims/spaced-practice-improves-retention.md) [+M] practice so the motor pattern becomes automatic
 
 #### Constraints
 - Enactment benefits shrink for abstract, non-actionable content; the effect is strongest for concrete, action-referenced material [Cohen's review of enactment memory](https://doi.org/10.1007/BF01326550) [~M]

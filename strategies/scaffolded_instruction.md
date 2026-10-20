@@ -12,7 +12,7 @@ generated:
 # Scaffolded Instruction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 8 claims (5 for, 2 mixed, 1 unmarked) · 21 studies (8 causal, 4 quant-synthesis, 4 theoretical, 3 review, 1 associational, 1 qualitative), `q1`–`q4` · 3 of 21 report an effect size · 2 claims rest on one study
+> **Evidence** · 8 claims (5 for, 3 mixed) · 21 studies (8 causal, 4 quant-synthesis, 4 theoretical, 3 review, 1 associational, 1 qualitative), `q1`–`q4` · 3 of 21 report an effect size · 2 claims rest on one study
 
 ## Description
 Scaffolded instruction provides temporary, adjustable support — hints, prompts, task structuring, worked models, or coaching — that enables learners to perform a task they could not yet complete independently, followed by systematic withdrawal of that support as competence grows. The term originates in Wood, Bruner, and Ross's (1976) study of adult tutoring, where effective tutors controlled task difficulty, marked relevant features, and modeled solutions only as needed. The metaphor implies both construction (the scaffold enables work at a height the learner cannot yet reach) and removal (it is dismantled, not left in place).
@@ -38,7 +38,7 @@ Scaffolding works because it keeps tasks within the learner's zone of proximal d
 - **Static vs. dynamic**: pre-planned support sequences (e.g., worked example → completion problem → full problem) vs. real-time contingent tutoring
 - **Who provides it**: teacher, more capable peer, or software; computer-based scaffolding shows reliable positive effects across subject areas [Computer-based scaffolding meta-analysis](https://doi.org/10.3102/0034654316670999) [+M]
 - **Form of support**: conceptual (why), procedural (how), strategic (approach), or metacognitive (self-monitoring prompts)
-- **Domain structure**: whole-task scaffolding in complex learning environments vs. [part-task practice](../claims/part-task-practice-reduces-load-for-novices.md) for high-load subskills
+- **Domain structure**: whole-task scaffolding in complex learning environments vs. [part-task practice](../claims/part-task-practice-reduces-load-for-novices.md) [~W] for high-load subskills
 
 ### Target Learners
 - Novices facing tasks that exceed their current working-memory or skill capacity [Example–problem sequences reduce cognitive load.](../claims/worked-example-problem-sequences.md) [+M]

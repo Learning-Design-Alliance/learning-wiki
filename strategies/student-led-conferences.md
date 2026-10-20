@@ -13,7 +13,7 @@ generated:
 # Student Led Conferences
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 unmarked) · 9 studies (5 quant-synthesis, 2 review, 1 causal, 1 theoretical), `q1`–`q4` · 4 of 9 report an effect size
+> **Evidence** · 4 claims (3 for, 1 against) · 9 studies (5 quant-synthesis, 2 review, 1 causal, 1 theoretical), `q1`–`q4` · 4 of 9 report an effect size
 
 ## Description
 Student led conferences (SLCs) replace the traditional teacher-parent conference with a meeting in which the student presents a portfolio of work, evaluates their own progress against criteria, and sets goals for the next period, with the teacher acting as facilitator and families as audience and questioners. Preparation typically spans weeks: students select work samples, complete structured [reflection](../elements/reflection.md) templates, rehearse their presentation, and practice responding to questions. The format converts assessment reporting from something done *to* students into something done *by* them.
@@ -42,7 +42,7 @@ SLCs operationalize [Assessment for Learning](../principles/assessment-for-learn
 - Without adequate preparation time, conferences become scripted performances in which students read prepared remarks without genuine self-evaluation [-M] — the reflective benefit collapses into recitation
 - Students with very low academic standing or poor attendance may experience the conference as public exposure of failure; teacher pre-conferencing and framing are essential mitigations [~M]
 - Families with limited time, language barriers, or negative prior experiences of schooling may engage less; translation and flexible scheduling are necessary, not optional [-W]
-- Younger students require substantially more scaffolding; a fully student-led format without [fading](../claims/fading-support-promotes-transfer-of-responsibility.md) of teacher support can produce superficial presentations [~W]
+- Younger students require substantially more scaffolding; a fully student-led format without [fading](../claims/fading-support-promotes-transfer-of-responsibility.md) [-W] of teacher support can produce superficial presentations
 
 #### Implementation Variability
 - **Portfolio defense model** — students present curated evidence against rubrics; common in project-based schools such as [Expeditionary Learning / EL Education](https://eleducation.org) network schools

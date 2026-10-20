@@ -13,7 +13,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 144 claims (81 show a difference, 43 mixed, 17 no difference, 3 unmarked) · 112 studies (35 causal, 23 review, 15 associational, 15 theoretical, 8 quant-synthesis, 8 qualitative, 8 design), `q1`–`q4` · 18 of 112 report an effect size · 129 claims rest on one study
+> **Evidence** · 144 claims (84 show a difference, 43 mixed, 17 no difference) · 112 studies (35 causal, 23 review, 15 associational, 15 theoretical, 8 quant-synthesis, 8 qualitative, 8 design), `q1`–`q4` · 18 of 112 report an effect size · 129 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -22,10 +22,10 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 
 ## How strongly it relates to achievement
 
-**Mathematics.** These are correlations across meta-analyses (Breit et al. 2025, a systematic review of 30 meta-analyses; [overview](../claims/math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md)): how strongly learners who differ on this characteristic differ in mathematics achievement, not how much changing it would change achievement. Many of these characteristics are correlated with one another, and the review is about mathematics only.
+**Mathematics.** These are correlations across meta-analyses (Breit et al. 2025, a systematic review of 30 meta-analyses; [overview](../claims/math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md) [+W]): how strongly learners who differ on this characteristic differ in mathematics achievement, not how much changing it would change achievement. Many of these characteristics are correlated with one another, and the review is about mathematics only.
 
-- Prior mathematical knowledge and later mathematics achievement: **r = .63** (k = 950), the second-largest of 66 correlates. Most studies relate earlier to later achievement rather than to growth, so this mostly shows how stable achievement is. [Claim](../claims/prior-knowledge-correlates-very-strongly-with-later-math-achievement.md)
-- Mathematics vocabulary **r = .49**, number line estimation **.44**. [Claim](../claims/number-sense-tasks-correlate-with-math-achievement.md)
+- Prior mathematical knowledge and later mathematics achievement: **r = .63** (k = 950), the second-largest of 66 correlates. Most studies relate earlier to later achievement rather than to growth, so this mostly shows how stable achievement is. [Claim](../claims/prior-knowledge-correlates-very-strongly-with-later-math-achievement.md) [+W]
+- Mathematics vocabulary **r = .49**, number line estimation **.44**. [Claim](../claims/number-sense-tasks-correlate-with-math-achievement.md) [+W]
 
 ## Implications
 

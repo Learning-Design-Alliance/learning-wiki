@@ -54,7 +54,7 @@ Reflection logs work because they prompt learners to reconstruct and evaluate th
 ### Instructions
 1. **Set up the log** — establish the platform, privacy settings, and a clear structure (e.g., "what we did / what I learned / what helped or hindered / links and media") using [Clear Structure](../principles/clear-structure.md) so entries remain comparable across sessions.
 2. **Reflect after each session** — students write a prompted entry, embedding at least one non-text artifact (photo, diagram, video clip, link) that genuinely illustrates a point, applying [Annotating](../principles/annotating.md) to explain *why* each artifact was chosen.
-3. **Explain, don't summarize** — prompts require learners to justify claims and connect new content to prior entries, enacting [Self-Explanation](../claims/self-explanation-improves-conceptual-understanding.md) rather than transcription.
+3. **Explain, don't summarize** — prompts require learners to justify claims and connect new content to prior entries, enacting [Self-Explanation](../claims/self-explanation-improves-conceptual-understanding.md) [+M] rather than transcription.
 4. **Respond to peers** — structured peer comments (one strength, one question) turn logs into dialogue; use [Collaboration](../elements/collaboration.md) norms to keep feedback substantive.
 5. **Review and synthesize** — at unit end, students reread their own log and produce a synthesis post identifying patterns in their learning, supporting [Assessment for Learning](../principles/assessment-for-learning.md) as both self- and teacher-assessed evidence.
 

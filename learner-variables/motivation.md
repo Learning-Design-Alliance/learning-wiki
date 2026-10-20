@@ -13,16 +13,16 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 200 claims (138 show a difference, 39 mixed, 21 no difference, 2 unmarked) · 158 studies (53 associational, 41 causal, 27 review, 11 theoretical, 10 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 38 of 158 report an effect size · 188 claims rest on one study
+> **Evidence** · 200 claims (138 show a difference, 41 mixed, 21 no difference) · 158 studies (53 associational, 41 causal, 27 review, 11 theoretical, 10 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 38 of 158 report an effect size · 188 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
 
 ## How strongly it relates to achievement
 
-**Mathematics.** These are correlations across meta-analyses (Breit et al. 2025, a systematic review of 30 meta-analyses; [overview](../claims/math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md)): how strongly learners who differ on this characteristic differ in mathematics achievement, not how much changing it would change achievement. Many of these characteristics are correlated with one another, and the review is about mathematics only.
+**Mathematics.** These are correlations across meta-analyses (Breit et al. 2025, a systematic review of 30 meta-analyses; [overview](../claims/math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md) [~W]): how strongly learners who differ on this characteristic differ in mathematics achievement, not how much changing it would change achievement. Many of these characteristics are correlated with one another, and the review is about mathematics only.
 
-- Mastery goals **r = .17**, performance-avoidance goals **−.17**, enjoyment **.31**, need for cognition **.25** (see [achievement goal orientation](achievement-goal-orientation.md)). [Claim](../claims/mastery-goals-correlate-positively-and-avoidance-goals-negatively-with-math-achievement.md)
+- Mastery goals **r = .17**, performance-avoidance goals **−.17**, enjoyment **.31**, need for cognition **.25** (see [achievement goal orientation](achievement-goal-orientation.md)). [Claim](../claims/mastery-goals-correlate-positively-and-avoidance-goals-negatively-with-math-achievement.md) [~W]
 
 ## Implications
 

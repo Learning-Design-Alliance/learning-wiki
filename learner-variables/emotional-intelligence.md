@@ -13,16 +13,16 @@ generated:
 # Emotional Intelligence
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 38 claims (28 show a difference, 3 mixed, 5 no difference, 2 unmarked) · 29 studies (8 causal, 7 review, 6 quant-synthesis, 6 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 9 of 29 report an effect size · 37 claims rest on one study
+> **Evidence** · 38 claims (30 show a difference, 3 mixed, 5 no difference) · 29 studies (8 causal, 7 review, 6 quant-synthesis, 6 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 9 of 29 report an effect size · 37 claims rest on one study
 
 ## Description
 Emotional intelligence is the ability to perceive emotions accurately, use them to support thinking, understand them and manage them. It is measured either as an ability (performance tests) or as a self-reported trait. It correlates with academic achievement, more strongly in the humanities than in STEM subjects, and overlaps with [affect regulation](affect-regulation.md) and with social-emotional skills that programmes aim to build.
 
 ## How strongly it relates to achievement
 
-**Mathematics.** These are correlations across meta-analyses (Breit et al. 2025, a systematic review of 30 meta-analyses; [overview](../claims/math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md)): how strongly learners who differ on this characteristic differ in mathematics achievement, not how much changing it would change achievement. Many of these characteristics are correlated with one another, and the review is about mathematics only.
+**Mathematics.** These are correlations across meta-analyses (Breit et al. 2025, a systematic review of 30 meta-analyses; [overview](../claims/math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md) [+W]): how strongly learners who differ on this characteristic differ in mathematics achievement, not how much changing it would change achievement. Many of these characteristics are correlated with one another, and the review is about mathematics only.
 
-- Emotional intelligence **r = .16** (k = 258), the weakest of the ability variables; stronger for the humanities than for STEM. [Claim](../claims/emotional-intelligence-correlates-weakly-with-math-achievement.md)
+- Emotional intelligence **r = .16** (k = 258), the weakest of the ability variables; stronger for the humanities than for STEM. [Claim](../claims/emotional-intelligence-correlates-weakly-with-math-achievement.md) [+W]
 
 ## Implications
 

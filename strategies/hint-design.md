@@ -12,7 +12,7 @@ generated:
 # Hint Design
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (3 for, 1 mixed, 1 unmarked) · 13 studies (6 quant-synthesis, 3 causal, 2 review, 1 associational, 1 theoretical), `q2`–`q4` · 7 of 13 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 13 studies (6 quant-synthesis, 3 causal, 2 review, 1 associational, 1 theoretical), `q2`–`q4` · 7 of 13 report an effect size · 1 claim rests on one study
 
 ## Description
 Hint design is the deliberate structuring of help so that learners receive the smallest increment of support needed to resume productive work. Hints are typically sequenced from general (pointing to relevant principles or strategies) to specific (revealing a step or the solution), and delivered on demand rather than automatically.
@@ -38,7 +38,7 @@ Well-designed hints keep learners in productive struggle rather than either flou
 - **On-demand ladders** (e.g., ASSISTments, Khan Academy): learner clicks through hint levels; each click is logged as a measure of need
 - **Time- or attempt-triggered**: hints unlock after a fixed number of failed attempts
 - **Peer-mediated**: hints come from classmates, trading speed for social explanation benefits
-- **Faded full guidance**: in [worked examples](../claims/worked-examples-reduce-novice-search.md), hints are pre-embedded as completion problems where learners fill in decreasing portions of the solution
+- **Faded full guidance**: in [worked examples](../claims/worked-examples-reduce-novice-search.md) [+W], hints are pre-embedded as completion problems where learners fill in decreasing portions of the solution
 
 ### Target Learners
 - Novices in problem-solving domains who stall without knowing *which* principle applies [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]

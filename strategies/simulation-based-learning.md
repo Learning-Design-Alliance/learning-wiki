@@ -13,7 +13,7 @@ generated:
 # Simulation Based Learning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 8 claims (4 for, 3 mixed, 1 unmarked) · 20 studies (8 causal, 8 quant-synthesis, 2 review, 2 theoretical), `q1`–`q4` · 6 of 20 report an effect size · 1 claim rests on one study
+> **Evidence** · 8 claims (5 for, 3 mixed) · 20 studies (8 causal, 8 quant-synthesis, 2 review, 2 theoretical), `q1`–`q4` · 6 of 20 report an effect size · 1 claim rests on one study
 
 ## Description
 Simulation based learning places learners inside an interactive model of a real task, environment, or system — a flight simulator, a standardized patient, a business game, a virtual lab — where they make decisions, act, and observe consequences without real-world risk. It is carried out through cycles of scenario engagement, feedback, and often structured debriefing, in which the simulated experience is reviewed and connected to underlying principles.
@@ -78,7 +78,7 @@ Simulation works because it lets learners generate and test hypotheses in an env
 3. Brief learners on the scenario's purpose and their role, without revealing the specific challenges.
 4. Run the scenario with a facilitator [Coaching](../elements/coaching.md) or embedded prompts as needed; allow errors to occur and play out.
 5. Debrief with a structured protocol (e.g., plus-delta or advocacy-inquiry): elicit the learner's reasoning, compare it to expert reasoning, and generalize to principles.
-6. Repeat with varied scenarios so learners abstract the underlying structure rather than memorizing one scenario ([Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md)) [+M].
+6. Repeat with varied scenarios so learners abstract the underlying structure rather than memorizing one scenario ([Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]).
 
 ## Related Strategies
 

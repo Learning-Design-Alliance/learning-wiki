@@ -65,7 +65,7 @@ Weeding enacts the coherence principle: extraneous material competes for limited
 ## Examples
 - **Mayer's coherence experiments** — removing interesting-but-irrelevant video clips about lightning formation from a multimedia lesson improved retention and transfer; the same pattern held across dozens of replications (see Clark & Mayer, 2016).
 - **[Khan Academy](https://www.khanacademy.org)** videos — deliberately spare visuals: a single problem, a writing surface, and narration, with no decorative imagery.
-- **Slide redesign in corporate e-learning** — replacing text-heavy, clip-art-decorated slides with one visual and minimal text per screen, per the [coherence and redundancy principles](../claims/coherence-principle-irrelevant-material-hurts-learning.md).
+- **Slide redesign in corporate e-learning** — replacing text-heavy, clip-art-decorated slides with one visual and minimal text per screen, per the [coherence and redundancy principles](../claims/coherence-principle-irrelevant-material-hurts-learning.md) [+M].
 
 ## Key Sources
 - Mayer, R. E. (2021). *Multimedia learning* (3rd ed.). Cambridge University Press. [doi:10.1017/9781316941355](https://doi.org/10.1017/9781316941355)

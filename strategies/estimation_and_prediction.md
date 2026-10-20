@@ -13,7 +13,7 @@ generated:
 # Estimation and Prediction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 unmarked) · 10 studies (4 review, 2 causal, 2 quant-synthesis, 2 theoretical), `q2`–`q4` · 2 of 10 report an effect size
+> **Evidence** · 5 claims (4 for, 1 against) · 10 studies (4 review, 2 causal, 2 quant-synthesis, 2 theoretical), `q2`–`q4` · 2 of 10 report an effect size
 
 ## Description
 Estimation and prediction asks learners to commit in advance to a judgment about their own learning or performance — how well they will do on an upcoming project, how long a task will take, or what score they expect — and then compare the recorded estimate against the actual outcome. The comparison converts a private guess into a feedback event, exposing gaps between confidence and competence and calibrating future judgments.
@@ -41,7 +41,7 @@ Prediction tasks function as a low-cost metacognitive probe: committing to an es
 - Learners are systematically overconfident and underestimate task duration (the planning fallacy), especially on complex or unfamiliar tasks [-S] — early estimates will be poor, which is the point, but instructors must frame errors as diagnostic rather than as failure
 - Predictions based on ability beliefs rather than task analysis produce stable miscalibration that does not improve with repetition unless the comparison step is explicit [-M]
 - If outcomes are ambiguous or graded subjectively, learners cannot verify their estimates and the calibration loop collapses [~M]
-- High-stakes framing can depress [self-efficacy](../claims/self-efficacy-predicts-academic-persistence.md) when repeated misses are made public; keep comparisons private or low-stakes [-W]
+- High-stakes framing can depress [self-efficacy](../claims/self-efficacy-predicts-academic-persistence.md) [-W] when repeated misses are made public; keep comparisons private or low-stakes
 - Feedback must follow quickly; delayed or absent feedback leaves the erroneous prediction uncorrected and may entrench overconfidence [-M]
 - Learners with very low metacognitive skill may not know how to generate a grounded estimate; scaffolding the estimation process (e.g., "list the steps first, then judge each") is needed before the activity pays off [-W]
 - Predictions about outcomes of demonstrations can be answered passively; require a written commitment to get the benefit

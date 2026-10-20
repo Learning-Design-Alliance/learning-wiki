@@ -59,7 +59,7 @@ Generating the cards is itself a form of elaborative encoding — learners must 
 ## Related Strategies
 - [Cognitively Guided Instruction](../principles/responsive-teaching.md) — the structural alternative: key words are subordinated to understanding problem situations
 - [Analogies](../elements/analogies.md) — mapping new key words to known situations deepens the association
-- [Spaced retrieval practice](../claims/spaced-practice-improves-retention.md) — schedule card review for durable vocabulary retention
+- [Spaced retrieval practice](../claims/spaced-practice-improves-retention.md) [+S] — schedule card review for durable vocabulary retention
 
 ## Examples
 - A grade 4 class creates addition/subtraction cards, then sorts a deck of one-step word problems into operation piles, discussing the "how many more" cases where the cue is ambiguous.

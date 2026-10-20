@@ -12,7 +12,7 @@ generated:
 # Sourcing
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 unmarked) · 6 studies (5 causal, 1 quant-synthesis), `q2`–`q4` · 1 of 6 report an effect size
+> **Evidence** · 2 claims (2 for) · 6 studies (5 causal, 1 quant-synthesis), `q2`–`q4` · 1 of 6 report an effect size
 
 ## Description
 Sourcing is a historical- and civic-reasoning strategy in which learners interrogate the origin of a source before engaging with its content: Who produced it? When? For what audience and purpose? Is it trustworthy for this use? Rather than reading a document as transparent information, learners treat it as a *claim made by someone*, and use attributes of the source (author expertise, motive, date, publication venue) to evaluate its claims. It is typically carried out through structured questions, side-by-side source comparison, and explicit modeling of expert evaluation.
@@ -37,7 +37,7 @@ Sourcing shifts learners from reading for content to reading for *warrant* — a
 #### Implementation Variability
 - **Document-based history lessons**: sourcing questions embedded in [Case Studies](../elements/case-studies.md) with corroborating and conflicting accounts
 - **Lateral reading for web evaluation**: learners leave the page to investigate the source itself — the modern extension of sourcing to online information
-- **Corroboration pairing**: two sources on the same event, with sourcing as the first step before [Comparing Cases](../claims/comparing-contrasting-cases-improves-learning.md) analysis
+- **Corroboration pairing**: two sources on the same event, with sourcing as the first step before [Comparing Cases](../claims/comparing-contrasting-cases-improves-learning.md) [+W] analysis
 - **Sourcing as pre-reading routine**: brief provenance check before any assigned reading, building a habitual stance
 
 ### Target Learners

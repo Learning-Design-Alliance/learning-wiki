@@ -17,7 +17,7 @@ sources:
 # Dialogic Facilitation of Student Resources
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 unmarked) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 When students spontaneously invoke an everyday experience or example during a whole-class science discussion (e.g., a student wonders whether a fictional superhero's spider bite transferred spider genes), the productiveness of that resource depends less on the example itself than on how the teacher positions the class around it. In an **authoritative** pattern, the teacher treats the student as a "listener" — someone posing a question to be answered — and quickly supplies the canonical explanation, closing down exploration of the student's underlying reasoning. In a **dialogic** pattern, the teacher instead positions the student (and their peers) as "sources" — accountable holders of information whose contribution is elaborated, tested, and responded to by other students rather than immediately validated or corrected by the teacher. This strategy names and operationalizes the dialogic pattern as a repeatable facilitation move.
@@ -36,11 +36,11 @@ When students spontaneously invoke an everyday experience or example during a wh
 
 ### Target Learners
 - Whole classes engaged in discussion-based science instruction where students already have relevant everyday experiences or ideas to draw on
-- Link to sub-claim: [Positioning students as sources increases productive participation in science discourse](../claims/positioning-students-as-sources-increases-productive-participation-in-science-discourse.md)
+- Link to sub-claim: [Positioning students as sources increases productive participation in science discourse](../claims/positioning-students-as-sources-increases-productive-participation-in-science-discourse.md) [+W]
 
 ### Target Learning Goals
 - Supporting students in externalizing, testing, and refining their own conceptual reasoning through argument and counter-argument, rather than through direct correction alone
-- Link to sub-claim: [Positioning students as sources increases productive participation in science discourse](../claims/positioning-students-as-sources-increases-productive-participation-in-science-discourse.md)
+- Link to sub-claim: [Positioning students as sources increases productive participation in science discourse](../claims/positioning-students-as-sources-increases-productive-participation-in-science-discourse.md) [+W]
 
 ### Instructions
 1. When a student invokes a personal experience, media reference, or other everyday resource relevant to the topic, resist immediately validating or correcting it.

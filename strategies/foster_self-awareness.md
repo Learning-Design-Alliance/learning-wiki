@@ -12,7 +12,7 @@ generated:
 # Foster Self-Awareness
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 unmarked) · 4 studies (3 review, 1 theoretical), `q2`–`q3` · 0 of 4 report an effect size
+> **Evidence** · 2 claims (2 for) · 4 studies (3 review, 1 theoretical), `q2`–`q3` · 0 of 4 report an effect size
 
 ## Description
 Self-awareness is the ability to correctly identify one's own emotions, thoughts, and values and understand how they influence behavior. Fostering it involves structured activities — identifying feelings, journal reflections, estimation and prediction tasks, and guided analysis — that turn private internal states into objects learners can observe, name, and act on. It is a core CASEL social-emotional competency and a precondition for [Self-Regulated Learning](../theories/self-regulated-learning.md), since learners cannot monitor or control processes they cannot perceive.
@@ -42,7 +42,7 @@ Self-awareness activities work by externalizing internal states so they can be e
 
 ### Target Learners
 - Learners of all ages; elementary students need concrete emotion vocabulary and visual supports, while secondary and higher-education learners can handle values clarification and metacognitive prediction
-- Learners with low [self-efficacy](../claims/self-efficacy-predicts-academic-persistence.md) benefit when awareness activities surface strengths they can leverage [+M]
+- Learners with low [self-efficacy](../claims/self-efficacy-predicts-academic-persistence.md) [+W] benefit when awareness activities surface strengths they can leverage
 - Less effective for learners experiencing acute distress, for whom clinical support — not classroom reflection — is appropriate [-W]
 
 ### Target Learning Goals

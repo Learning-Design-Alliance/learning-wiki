@@ -12,7 +12,7 @@ generated:
 # Addressing Stereotype Threat
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 unmarked) · 2 studies (2 review), `q2` · 0 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 2 studies (2 review), `q2` · 0 of 2 report an effect size
 
 ## Description
 Stereotype threat is the situational anxiety and performance disruption that occurs when a learner fears their performance could confirm a negative stereotype about a group they belong to (Steele & Aronson, 1995). Addressing it means redesigning the learning environment — how tasks are framed, how ability is described, how feedback is given, and how belonging is signaled — so that group identity is not made salient as a performance risk at the moment of learning or assessment.
@@ -45,7 +45,7 @@ Stereotype threat operates through working-memory load and physiological stress,
 ### Target Learners
 - Students from groups stereotyped as underperforming in the domain at hand, especially in high-stakes or evaluative moments [+S]
 - Students new to a domain or institution, where identity threat is strongest before belonging is established [+M]
-- Students with low [self-efficacy](../claims/self-efficacy-predicts-academic-persistence.md), for whom threat and efficacy interact to shape persistence [+M]
+- Students with low [self-efficacy](../claims/self-efficacy-predicts-academic-persistence.md) [+W], for whom threat and efficacy interact to shape persistence
 
 ### Target Learning Goals
 - Performance protection: enabling learners to demonstrate what they actually know on assessments
