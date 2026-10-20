@@ -23,7 +23,7 @@ site_dir: site
 theme:
   name: material
   logo: branding/lda-monogram-lapis.svg
-  favicon: branding/lda-favicon.png
+  favicon: branding/lda-wiki-favicon.png
   # The LDA faces (DM Sans, DM Mono, Baskervville) load from branding/lda-theme.css, which
   # both tiers carry; false stops Material loading Roboto as well.
   font: false
