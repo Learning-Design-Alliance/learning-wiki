@@ -56,7 +56,7 @@ Within-item arms on one public, teacher-graded corpus of undergraduate computer-
 
 ## Related Claims
 
-- [LLM short-answer graders can reach human rater agreement.](llm-short-answer-graders-can-reach-human-rater-agreement.md) — why the agreement half of this result is unsurprising
-- [Pooling repeated LLM grades does not improve agreement.](pooling-repeated-llm-grades-does-not-improve-agreement.md) — the other candidate for the same budget
-- [Showing a grader a learner's prior performance biases the grade.](showing-a-grader-a-learners-prior-performance-biases-the-grade.md) — context about the work shifts the grade by its marked level; context about the learner shifts it by who the learner is said to be
+- [LLM short-answer graders agree with one human rater more, and the other less, than the two raters agree with each other.](llm-short-answer-graders-can-reach-human-rater-agreement.md) — why the agreement half of this result is unsurprising
+- [Pooling repeated LLM grades does not improve agreement on short answers.](pooling-repeated-llm-grades-does-not-improve-agreement.md) — the other candidate for the same budget
+- [Showing an LLM grader a learner's prior performance biases the grade.](showing-a-grader-a-learners-prior-performance-biases-the-grade.md) — context about the work shifts the grade by its marked level; context about the learner shifts it by who the learner is said to be
 - [Rubrics improve peer feedback quality.](rubrics-improve-peer-feedback-quality.md) — the same mechanism, in human assessors

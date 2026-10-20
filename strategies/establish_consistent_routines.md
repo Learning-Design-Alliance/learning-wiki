@@ -70,9 +70,14 @@ Routines convert recurring procedural decisions into automatic behaviors, freein
 - [Train teachers to organize, plan, and manage the classroom to support self-regulation in students with weak initial self-regulation](teacher-organizing-planning-supports-weak-self-regulation.md)
 
 ## Related Elements
-- <!-- TODO -->
+- [Modeling](../elements/modeling.md) — each routine is modelled explicitly before learners rehearse it (Instructions, step 3)
+- [Demonstration](../elements/demonstration.md) — the narrated walk-through of a routine's steps
+- [Reinforcement](../elements/reinforcement.md) — positive reinforcement when students carry out a routine correctly, the fourth of the IES (2022) elements
+- [Prompts](../elements/prompts.md) — the visual prompts that keep a routine to as few steps as possible, faded as it becomes automatic
+- [Attention](../elements/attention.md) — a consistent attention signal is the routinized opening of instruction delivery
+
 ## Tools
-- <!-- TODO -->
+- No tool page in the wiki covers this strategy. What the page itself calls for is a posted visual prompt of each routine's steps, a consistent attention signal, and a fixed instruction template (numbered steps followed by a comprehension check); in an online course, a module template that every module follows.
 
 ## Examples
 - An elementary teacher uses the same entry routine daily: students collect materials from a fixed station, begin a posted warm-up task, and the teacher takes attendance — no verbal instructions needed, saving several minutes per session.

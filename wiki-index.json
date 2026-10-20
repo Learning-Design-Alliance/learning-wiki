@@ -39228,7 +39228,7 @@
 "id":"course-context-helps-sparse-items-and-dilutes-rich-ones",
 "path":"claims/course-context-helps-sparse-items-and-dilutes-rich-ones.md",
 "status":"review",
-"title":"Course Context Helps Sparse Items and Dilutes Rich Ones",
+"title":"Course Context Raised an LLM Grader's Agreement on Terse Answers and Lowered It on Long Ones",
 "type":"claim"
 },
 {
@@ -46652,7 +46652,7 @@
 "id":"delimiting-untrusted-learner-text-defeats-authority-claim-injection",
 "path":"claims/delimiting-untrusted-learner-text-defeats-authority-claim-injection.md",
 "status":"review",
-"title":"Delimiting Untrusted Learner Text Defeats Authority-Claim Injection",
+"title":"Delimiting Untrusted Learner Text Largely Blocked Authority-Claim Injection on One Model",
 "type":"claim"
 },
 {
@@ -63461,14 +63461,6 @@
 "path":"claims/expert-forecasts-failed-to-predict-effective-interventions.md",
 "status":"review",
 "title":"Forecasts by impartial judges failed to predict which interventions would be most effective",
-"type":"claim"
-},
-{
-"description":"",
-"id":"expert-human-graders-agree-with-each-other-far-less-than-assumed",
-"path":"claims/expert-human-graders-agree-with-each-other-far-less-than-assumed.md",
-"status":"review",
-"title":"Human Graders of Open-Ended Work Agree With Each Other Less Than Treating One Grade as Ground Truth Implies",
 "type":"claim"
 },
 {
@@ -85799,6 +85791,15 @@
 "type":"claim"
 },
 {
+"aliases":["expert-human-graders-agree-with-each-other-far-less-than-assumed"],
+"description":"",
+"id":"human-graders-agree-less-than-single-grade-ground-truth-implies",
+"path":"claims/human-graders-agree-less-than-single-grade-ground-truth-implies.md",
+"status":"review",
+"title":"Human Graders of Open-Ended Work Agree With Each Other Less Than Treating One Grade as Ground Truth Implies",
+"type":"claim"
+},
+{
 "description":"Human-human agreement (average κ = 0.644) was lower than the best LLM-LLM agreement (average κ = 0.856) across constructs",
 "evidence_strength":"moderate",
 "id":"human-human-agreement-lower-than-llm-llm",
@@ -104328,7 +104329,7 @@
 "id":"llm-short-answer-graders-can-reach-human-rater-agreement",
 "path":"claims/llm-short-answer-graders-can-reach-human-rater-agreement.md",
 "status":"review",
-"title":"LLM Short-Answer Graders Can Reach Human Rater Agreement",
+"title":"LLM Short-Answer Graders Agree With One Human Rater More, and the Other Less, Than the Two Raters Agree With Each Other",
 "type":"claim"
 },
 {
@@ -166252,7 +166253,7 @@
 "id":"showing-a-grader-a-learners-prior-performance-biases-the-grade",
 "path":"claims/showing-a-grader-a-learners-prior-performance-biases-the-grade.md",
 "status":"review",
-"title":"Showing a Grader a Learner's Prior Performance Biases the Grade",
+"title":"Showing an LLM Grader a Learner's Prior Performance Biases the Grade",
 "type":"claim"
 },
 {
@@ -179871,7 +179872,7 @@
 "id":"surface-formatting-changes-shift-llm-grades-without-penalising-them",
 "path":"claims/surface-formatting-changes-shift-llm-grades-without-penalising-them.md",
 "status":"review",
-"title":"Surface Formatting Changes Shift LLM Grades Without Penalising Them",
+"title":"Surface Formatting Changes Shift LLM Grades, With No Consistent Penalty Detected",
 "type":"claim"
 },
 {
@@ -310972,7 +310973,7 @@
 "expert-example-standards-reduce-bias":"expert-example-standards-reduce-bias",
 "expert-fixations-more-focused-than-novices":"expert-fixations-more-focused-than-novices",
 "expert-forecasts-failed-to-predict-effective-interventions":"expert-forecasts-failed-to-predict-effective-interventions",
-"expert-human-graders-agree-with-each-other-far-less-than-assumed":"expert-human-graders-agree-with-each-other-far-less-than-assumed",
+"expert-human-graders-agree-with-each-other-far-less-than-assumed":"human-graders-agree-less-than-single-grade-ground-truth-implies",
 "expert-interviews-miss-up-to-70-percent-subtasks":"expert-interviews-miss-up-to-70-percent-subtasks",
 "expert-keyword-comparison-increases-underconfidence":"expert-keyword-comparison-increases-underconfidence",
 "expert-leaderboards-separate-ai-tutors":"expert-leaderboards-separate-ai-tutors",
@@ -313510,6 +313511,7 @@
 "human-expert-review-most-credible-slowest":"human-expert-review-most-credible-slowest",
 "human-feedback-preference-face-to-face-reasons":"human-feedback-preference-face-to-face-reasons",
 "human-feedback-rated-superior-to-ai-feedback":"human-feedback-rated-superior-to-ai-feedback",
+"human-graders-agree-less-than-single-grade-ground-truth-implies":"human-graders-agree-less-than-single-grade-ground-truth-implies",
 "human-human-agreement-lower-than-llm-llm":"human-human-agreement-lower-than-llm-llm",
 "human-in-the-loop-ai-design-pf":"human-in-the-loop-ai-design-pf",
 "human-inter-rater-agreement-imperfect-upper-bound":"human-inter-rater-agreement-imperfect-upper-bound",

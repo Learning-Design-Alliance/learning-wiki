@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Task interest remains stable across consecutive creativity tasks: interest in one task is strongly and directly associated with interest in the next, with little mediation by task experience
-description: Task interest remains stable across consecutive creativity tasks: interest in one task is strongly and directly associated with interest in the next, with little mediation by task experience
+title: "Task interest remains stable across consecutive creativity tasks: interest in one task is strongly and directly associated with interest in the next, with little mediation by task experience"
+description: "Task interest remains stable across consecutive creativity tasks: interest in one task is strongly and directly associated with interest in the next, with little mediation by task experience"
 id: task-interest-stable-across-creativity-tasks
 status: review
 generated:

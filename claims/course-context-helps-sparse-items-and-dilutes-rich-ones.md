@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Course Context Helps Sparse Items and Dilutes Rich Ones
+title: Course Context Raised an LLM Grader's Agreement on Terse Answers and Lowered It on Long Ones
 status: review
 generated:
   by: claude/unspecified
@@ -18,20 +18,20 @@ sources:
     rigour: "?"
 ---
 
-# Course Context Helps Sparse Items and Dilutes Rich Ones
+# Course Context Raised an LLM Grader's Agreement on Terse Answers and Lowered It on Long Ones
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
 > **Evidence quality** · This claim rests on one research release that has not been peer-reviewed. Its research and writing were carried out by an AI system (Claude Code) under one human author, and its scope audit and reproduction were made by AI agents with no part in the work; no research team independent of the author has reviewed or replicated it. Treat it as a lead to check, not an established finding.
 
-Course context — the other questions a course asks — raised an LLM grader's agreement on one corpus of terse answers and lowered it on one of long answers, each by a few hundredths in single runs, at the edge of the instrument's resolution. A candidate reading is signal density: surrounding material helps terse answers that carry little signal and dilutes long ones that already carry plenty. Relatedness was not detected to matter. The observation leads; the mechanism is a candidate.
+In this release's evidence records and interpretation (the finding is not in its article), course context — the other questions or skills a course covers — raised an LLM grader's agreement on one corpus of terse answers (by 0.022–0.035 in quadratic-weighted kappa) and lowered it on one of long answers (by 0.028–0.034), each in a single run at the edge of the instrument's ±0.02 resolution. The release offers signal density as a candidate reading, a hypothesis to test rather than a finding: surrounding material helps terse answers that carry little signal and dilutes long ones that already carry plenty. Relatedness was not detected to matter. The observation leads; the mechanism is a candidate.
 
 ## Subclaims
 
-- On one-or-two-sentence answers, in a single run, sibling questions from the same course raised agreement and moved a harsh grader toward the human on both bias and error.
-- On long answers, the same shape of addition costs agreement and makes the grader more generous. The two effects are of similar size and point opposite ways.
+- On one-or-two-sentence answers, in a single run, sibling questions from the same course module raised agreement (0.703 to 0.738) and moved a harsh grader toward the human on both bias (−0.57 to −0.41) and error (MAE 0.93 to 0.83).
+- On long answers, in a single run, adding more skills than the item needs lowered agreement and made the grader more generous (fifteen skills with one relevant: 0.838 to 0.804, bias +0.56 to +0.67). The two effects are of similar size and point opposite ways.
 - Sibling questions drawn from *other* parts of the course scored within 0.013 of genuinely related ones, below resolution: a non-detection, not a demonstrated null. A goal graph is therefore not shown to add anything as a graph here, and a representative sample of what the course asks may serve.
-- The candidate explanation is how much signal the item itself carries, not the presence or absence of a taxonomy; it is fitted to two corpora.
+- The candidate explanation is how much signal the item itself carries, not the presence or absence of a taxonomy; the release says it is fitted to two data points and offers it as a hypothesis to test per activity type, not as a finding.
 
 ## Evidence
 
@@ -55,6 +55,6 @@ Within-item context arms on the shipped grading prompt, single runs of 150 strat
 
 ## Related Claims
 
-- [Showing a grader a learner's prior performance biases the grade.](showing-a-grader-a-learners-prior-performance-biases-the-grade.md) — context about the learner, which moves the mark on identical work
+- [Showing an LLM grader a learner's prior performance biases the grade.](showing-a-grader-a-learners-prior-performance-biases-the-grade.md) — context about the learner, which moves the mark on identical work
 - [Graded exemplars shift an LLM grader by the level they are marked at.](graded-exemplars-shift-an-llm-grader-by-the-level-they-are-marked-at.md) — a targeted form of task context, which shifts the grade by its marked level
 - [Cognitive overload degrades learning.](cognitive-overload-degrades-learning.md) — the analogous trade in human readers, and a caution against pressing the analogy

@@ -5,7 +5,8 @@ status: review
 generated:
   by: claude/unspecified
   at: 2026-10-19
-id: expert-human-graders-agree-with-each-other-far-less-than-assumed
+id: human-graders-agree-less-than-single-grade-ground-truth-implies
+aliases: [expert-human-graders-agree-with-each-other-far-less-than-assumed]
 evidence_strength:
 sources:
   - id: porcaro-2026
@@ -29,9 +30,9 @@ Two graders applying the same scheme to the same open-ended work agree with each
 ## Subclaims
 
 - A single human grade is not ground truth. It is one draw from a distribution whose spread is rarely measured, because measuring it requires paying two people to grade the same work.
-- Agreement is not one number. Across 42 grader pairs marking the same work to the same rubric, pairwise agreement ranged from near zero to substantial — so which two people are compared changes the answer more than most properties of what is being graded.
-- Agreement depends on what the rubric asks. On one corpus scoring four dimensions separately, the most nearly objective dimension agreed best and the most interpretive worst, with a substantial spread between them.
-- Where a second rater is unavailable, agreement figures computed against the single rater available carry an unknown and possibly large component of that rater's own noise.
+- Agreement is not one number. Across 42 grader pairs marking the same work to the same rubric, pairwise agreement ranged from near zero to substantial (quadratic-weighted kappa 0.035 to 0.730, median 0.410).
+- Agreement depends on what the rubric asks. On one corpus scoring four dimensions separately, the most nearly objective dimension agreed best and the most interpretive worst: correctness 0.486, documentation 0.368, on the same work by the same graders (14-level scale; this per-dimension breakdown is in the release's evidence records, not its article).
+- Where a second rater is unavailable, agreement figures computed against the single rater available carry an unmeasured component of that rater's own noise. Where it could be measured here, about half (0.45–0.55) of each of three LLM graders' squared error against one human was that human's own disagreement with the other raters, if the grader's errors are independent of the raters'.
 - Filters applied to a graded corpus for data quality can remove precisely the cases the raters disagreed on, biasing any measured ceiling upward.
 
 ## Evidence
@@ -46,11 +47,11 @@ Agreement between human raters computed from public deposits with no model invol
 
 ## Discussion
 
-**Scope of the claim.** It is about open-ended work (short free-text answers, and whole programs judged on rubric dimensions) scored on an ordinal scale by graders working independently, which is the setting most automatic-grading work is evaluated in. It is not a claim about well-moderated high-stakes marking with adjudication, double-blind second marking and a published rubric — a process designed to produce agreement will produce more of it, and the claim is bounded accordingly.
+**Scope of the claim.** It is about open-ended work (short free-text answers, and whole programs judged on rubric dimensions) scored on an ordinal scale by graders working independently. It is not a claim about well-moderated high-stakes marking with adjudication, double-blind second marking and a published rubric — a process designed to produce agreement will produce more of it, and the claim is bounded accordingly.
 
-**Why it matters beyond grading research.** Treating a human grade as truth is an assumption embedded in almost every evaluation of an automatic grader, in most rubric-alignment work, and in the learning records that downstream mastery estimates are built from. If the truth has a standard deviation, then a model trained or tuned to match it is being tuned partly to noise, and an apparent gap between machine and human performance is partly the gap between two humans.
+**Why it matters beyond grading research.** Agreement with a human rater is the usual check on an AI grader, and the release's reading is that agreement with one human is a weak instrument on short free-text answers: on the corpora where it could be measured, much of a grader's residual disagreement with one human is noise in the human reference. It follows (the wiki's inference, not the source's) that a model tuned to match one rater's grades is tuned partly to that rater's noise, and that an apparent gap between machine and human performance is partly the gap between two humans.
 
-**The measurement problem this creates.** Once the reference is noisy, improving agreement with it stops being a coherent objective past a point, and the useful questions change shape: is the grader *biased* relative to the humans, is it *stable* when asked twice, and is it *manipulable*. Those can all be measured without a ground truth, which is why they are the ones worth pursuing.
+**The measurement problem this creates.** Once the reference is noisy, agreement alone says less, and the article recommends reporting other properties beside it: the grader's signed error for weaker and stronger work, its run-to-run variation, and whether its marks change on identical work when information about the student is added. The last two need no human reference grades, and the article recommends the identical-work check alongside agreement for any AI grader. It also recommends stating the reliability of the human reference beside any agreement figure.
 
 **Replication.** The evidence is two independent corpora, and the second is the stronger instrument: 28 graders recruited expressly for a grader-consistency study, four raters on almost every item (three on 32 of 1,116), four rubric dimensions scored separately. On a scale collapsed to match the first corpus's granularity it agrees *less*, not more (0.465 against 0.519). Both put pooled agreement below 0.52; per pair on the second it ranges from 0.035 to 0.730. The second corpus's own authors, reading the same grades, conclude that graders "can not agree on the grade to give a piece of student work"; that rests on the same data, so it is not an independent replication.
 
@@ -62,6 +63,6 @@ Agreement between human raters computed from public deposits with no model invol
 
 ## Related Claims
 
-- [LLM short-answer graders can reach human rater agreement.](llm-short-answer-graders-can-reach-human-rater-agreement.md) — the claim this one is the reference level for
+- [LLM short-answer graders agree with one human rater more, and the other less, than the two raters agree with each other.](llm-short-answer-graders-can-reach-human-rater-agreement.md) — the claim this one is the reference level for
 - [Peer feedback accuracy depends on expertise.](peer-feedback-accuracy-depends-on-expertise.md) — variation between human assessors from the other direction
 - [Rubrics improve peer feedback quality.](rubrics-improve-peer-feedback-quality.md) — the intervention that would be expected to raise the ceiling

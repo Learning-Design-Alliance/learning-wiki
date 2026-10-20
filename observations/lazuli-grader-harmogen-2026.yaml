@@ -35,7 +35,7 @@ provenance:
   verification: unverified
 
 appears_in:
-  - claim: expert-human-graders-agree-with-each-other-far-less-than-assumed
+  - claim: human-graders-agree-less-than-single-grade-ground-truth-implies
     bearing: qualifies
     anchor: porcaro-2026
     note: >-
@@ -156,7 +156,7 @@ observations:
       role: other
       role_basis: inferred
       anchors:
-        - claims/expert-human-graders-agree-with-each-other-far-less-than-assumed
+        - claims/human-graders-agree-less-than-single-grade-ground-truth-implies
     time:
       label: At grading, no delay
     result:

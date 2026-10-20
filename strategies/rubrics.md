@@ -76,12 +76,22 @@ Rubrics make quality criteria explicit *before* performance, converting assessme
 - [Use performance assessments in conjunction with selected-response items, counting enough toward final scores to matter](performance-plus-selected-response-balance.md)
 - [Design rubric criteria and model instructions in observable, verifiable terms with citable evidence requirements](observable-verifiable-rubric-criteria-with-citable-evidence.md)
 - [Ground proficiency-scale comprehensibility descriptors in empirically identified linguistic measures](empirically-ground-comprehensibility-scale-descriptors.md)
+- [Checklists](checklists.md) — the least complex form of scoring rubric, indicating presence/absence of a component without judging its quality
 
 ## Related Elements
 - [Provide Feedback](../elements/provide-feedback.md) — rubric descriptors make feedback specific and criterion-referenced rather than evaluative
 - [Assess Performance](../elements/assess-performance.md) — the scoring function; rubrics standardize judgment across raters and tasks
 - [State Objectives](../elements/state-objectives.md) — criteria are only meaningful when traceable to stated objectives
 - [Self-Assessment](../elements/self-assessment.md) — the learner-facing use that drives the self-regulation benefits
+- [Rubrics](../elements/rubrics.md) — the element page for the instrument itself: criteria and performance levels made explicit
+- [Rubric Design](../elements/rubric-design.md)
+- [Constructed-Response Assessment Items](../elements/constructed-response-assessment-items.md) — extended-response items are the format where rubric-based scoring matters most for reliability
+
+## Tools
+- A group-interaction rubric assessing time management, participation and role performance, and shared involvement on a 0-4 scale for each dimension (adapted from Group Interaction (GI) SETUP, 2003)
+- [Four-level rubric for evaluating mathematical communication skills](../elements/four-level-rubric-math-communication.md) — an analytic rubric scoring vocabulary, representation and explanation at four levels each
+- [Maker Learning Self-assessment Rubric](../elements/maker-learning-self-assessment-rubric.md) — a programme-level self-evaluation rubric, an example of the self-assessment use outside a single assignment
+
 ## Examples
 - **[Exemplars](https://www.exemplars.com)** — standards-aligned performance-task rubrics for mathematics and science, with annotated student work at each level so learners can see what the descriptors mean
 - **[New Tech Network school-wide rubrics](https://newtechnetwork.org)** — shared analytic rubrics for collaboration, communication, and agency used across all courses, so criteria accumulate meaning across a student's schooling
@@ -92,11 +102,5 @@ Rubrics make quality criteria explicit *before* performance, converting assessme
 - Andrade, H. L. (2005). Teaching with rubrics: The good, the bad, and the ugly. *College Teaching, 53*(1), 27–30. [doi:10.3200/ctch.53.1.27-31](https://doi.org/10.3200/ctch.53.1.27-31)
 - Brookhart, S. M. (2013). *How to create and use rubrics for formative assessment and grading.* ASCD.
 - Sadler, D. R. (1989). Formative assessment and the design of instructional systems. *Instructional Science, 18*(2), 119–144. [doi:10.1007/BF00117714](https://doi.org/10.1007/BF00117714)
-- [Checklists](checklists.md) — the least complex form of scoring rubric, indicating presence/absence of a component without judging its quality
-- [Rubric Design](../elements/rubric-design.md)
-- [Constructed-Response Assessment Items](../elements/constructed-response-assessment-items.md) — extended-response items are the format where rubric-based scoring matters most for reliability
-## Tools
-- <!-- TODO -->
-- A group-interaction rubric assessing time management, participation and role performance, and shared involvement on a 0-4 scale for each dimension (adapted from Group Interaction (GI) SETUP, 2003)
 - Linn, R. L., & Miller, M. D. (2005). *Measurement and assessment in teaching* (9th ed.). Pearson.
 - Arduini-Van Hoose, N. (2020). Teacher-made assessments. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.

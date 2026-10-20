@@ -17,7 +17,7 @@ sources:
 # Promote autonomous motivation in low-education adult learners by helping them grasp the meaning of education and providing choice and volition
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 4 studies (1 quant-synthesis, 1 review, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 4 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 4 studies (1 quant-synthesis, 1 review, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 4 report an effect size · 2 claims rest on one study
 
 ## Description
 The article proposes concrete practices for educators working with adults of lower educational levels, a group it identifies as particularly vulnerable. "Autonomous motivation can be promoted by helping adults grasp the meaning of education and its relation to their other goals and values, as well as by providing learners with a sense of choice and volition." Educators should also encourage deep-learning strategies and reinforce efforts and achievements to improve academic self-concept and self-efficacy.
