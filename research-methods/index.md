@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**508 entries** · 0 stable · 508 in review · 0 drafts
+**507 entries** · 0 stable · 507 in review · 0 drafts
 
 ---
 
@@ -302,7 +302,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### M {: #letter-m }
 
-* [M&E Checklist](me-checklist.md) - The M&E Checklist organizes evidence building into four sequential phases, each with its own document: \"Design the Solution (Phase 1), Refine the Solution (Phase 2), Assess for Early Evidence of Success (Phase 3), and Validate Effectiveness (Phase 4).\" The framework structures how developers of lear
 * [Machine-learning prediction of accessible assessment-item quality](machine-learning-prediction-of-accessible-assessment-item-quality.md) - The researchers introduced three word embedding methods and three classifiers as a toolkit for predicting item quality for accessible assessments.
 * [Making-Process-Rug video-analysis method](making-process-rug-video-analysis-method.md) - The Making-Process-Rug is a visual video-analysis method developed by the authors to trace \"social-discursive, materially mediated, individual, and collaborative making processes\" across a longitudinal co-invention project.
 * [Many-Facet Rasch Model](many-facet-rasch-model.md) - MFRM, developed by Linacre in 1989 as an extension of the partial credit model, is an IRT model in which \"all so urces of variability , such as raters, items and persons, which have the potential to influence measurement results , are considered simultaneously\".

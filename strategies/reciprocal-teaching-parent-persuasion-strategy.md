@@ -49,7 +49,7 @@ When parents of top performers objected that peer assistance wasted their childr
 ## Related Strategies
 
 - [Reciprocal Peer Tutoring](reciprocal-peer-tutoring.md)
-- [Peer-Assisted Learning Strategies (PALS)](peer-assisted-learning-strategies-pals.md)
+- [Peer-Assisted Learning Strategies (PALS)](../products/peer-assisted-learning-strategies-pals.md)
 - [Prepare for Parental Reactions](prepare_for_parental_reactions.md)
 - [Parent Workshops](parent-workshops.md)
 

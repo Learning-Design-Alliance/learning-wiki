@@ -44,7 +44,7 @@ A course-level structural pattern in which module deliverables chain across the 
 
 - [Banking customer-onboarding teaching case with AI-constrained fraud-screening agent](banking-onboarding-teaching-case.md)
 - [Organization Simulation for Interdisciplinary Learning](organization-simulation-for-interdisciplinary-learning.md)
-- [AI-SEE: a pedagogical framework integrating AI across the engineering curriculum as a cognitive scaffold and system-optimization resource](ai-see-framework.md)
+- [AI-SEE: a pedagogical framework integrating AI across the engineering curriculum as a cognitive scaffold and system-optimization resource](../products/ai-see-framework.md)
 
 ## Examples
 -

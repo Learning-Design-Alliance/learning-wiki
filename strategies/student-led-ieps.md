@@ -61,7 +61,7 @@ Student-led IEPs are a high-stakes application of self-advocacy instruction: the
 6. **Debrief and follow through** — after the meeting, review what the student proposed, what was decided, and the student's role in implementing and monitoring the plan during the year ([Check-ins](../elements/check-in.md)).
 
 ## Related Strategies
-- [Self-Determined Learning Model of Instruction](../strategies/self-determined-learning-model-of-instruction.md) — the year-long instructional model whose skills student-led IEP meetings exercise
+- [Self-Determined Learning Model of Instruction](../products/self-determined-learning-model-of-instruction.md) — the year-long instructional model whose skills student-led IEP meetings exercise
 - [Portfolio Assessment](../strategies/portfolio-assessment.md) — a common artifact format students present in the meeting
 - [Goal Setting with Students](../strategies/goal-setting-with-students.md) — the underlying skill the meeting makes authentic
 

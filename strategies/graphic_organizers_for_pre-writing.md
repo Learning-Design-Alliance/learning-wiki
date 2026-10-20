@@ -90,7 +90,7 @@ Planning is the writing subprocess that most strongly distinguishes skilled from
 5. Fade the organizer over successive tasks, moving toward independent planning ([Fading](../elements/fading.md)).
 
 ## Related Strategies
-- [SRSD (Self-Regulated Strategy Development)](self-regulated-strategy-development-srsd.md) — embeds graphic organizers within a full self-regulation framework for writing
+- [SRSD (Self-Regulated Strategy Development)](../products/self-regulated-strategy-development-srsd.md) — embeds graphic organizers within a full self-regulation framework for writing
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the generation phase of an organizer doubles as activation
 - [Collaborative Writing](collaborative-writing.md) — co-constructed planning precedes joint drafting [Collaborative writing improves text quality.](../claims/collaborative-writing-improves-text-quality.md) [+M]
 - [Think-Aloud Modeling](../strategies/think-aloud-modeling.md) — the demonstration step that makes organizer use learnable

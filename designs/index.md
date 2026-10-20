@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**977 entries** · 0 stable · 977 in review · 0 drafts
+**976 entries** · 0 stable · 976 in review · 0 drafts
 
 ---
 
@@ -57,7 +57,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [AI-integrated module design combining lesson plans, videos, AI exercises, and curated readings](ai-integrated-module-design-four-components.md) - The course redesign organizes each module around \"four core components that support scaffolded learning—lesson plans, short videos, AI-focused exercises, and curated readings\".
 * [AI-integrated role-rotation pedagogical model conceptualizing role rotation as a mechanism for structuring critical human-AI interaction](ai-integrated-role-rotation-pedagogical-model.md) - The model combines four interconnected components: a digital educational environment, integration of generative AI tools, case-based learning, and collaborative role-based interaction with role rotation.
 * [AI-mediated third space assessment environments connecting formal curriculum with students' interests, experiences, and learning needs](ai-mediated-third-space-assessment-environments.md) - Drawing on third space theory, the paper argues that AI agents implemented \"within relational and ethically governed environments\" can help mediate assessment settings that \"connect formal curriculum with students' in...
-* [AI-SEE: a pedagogical framework integrating AI across the engineering curriculum as a cognitive scaffold and system-optimization resource](ai-see-framework.md) - AI-SEE (Artificial Intelligence-Integrated Sustainable Engineering Education) is a pedagogical framework structured around an input-process-output logic, in which institutional conditions, learner characteristics, and...
 * [AI-supported e-mentoring model integrating human mentoring with AI-driven support across engagement, analysis, feedback, and reflection cycles](ai-supported-e-mentoring-model-ismael-2026.md) - The article proposes a dynamic, iterative e-mentoring system in which pre-service teachers generate inputs through learning activities, teaching practice, and reflective interaction; an AI system analyzes these inputs...
 * [AI-supported exploration assignment in an asynchronous introductory physics course](ai-exploration-assignment-patterns-of-nature.md) - The article describes an implemented assignment in which students in an asynchronous introductory physics course, Patterns of Nature, with approximately 70 students, selected one or two subtopics, began an AI conversa...
 * [AI-supported inquiry-based learning as a mathematics teaching approach combining guided exploration, adaptive feedback, and reduced cognitive load](ai-supported-inquiry-based-learning-approach.md) - The article treats AI-supported inquiry-based learning as an instructional approach for secondary mathematics that embeds AI support within inquiry-based learning.

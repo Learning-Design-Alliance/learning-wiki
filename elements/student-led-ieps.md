@@ -64,7 +64,7 @@ Student-led IEPs convert a compliance meeting into a learning event, giving stud
 - [Collaborative Evaluation](../patterns/collaborative-evaluation.md) — the broader pattern of students participating in evaluating their own progress
 
 ## Patterns That Use This Element
-- [Self-Determination Learning Model of Instruction (SDLMI)](../strategies/self-determined-learning-model-of-instruction.md) — teacher-planned self-determination instruction that pairs naturally with student-led meetings
+- [Self-Determination Learning Model of Instruction (SDLMI)](../products/self-determined-learning-model-of-instruction.md) — teacher-planned self-determination instruction that pairs naturally with student-led meetings
 - Transition planning frameworks — student involvement is a required component of transition IEPs under IDEA
 
 ## Examples

@@ -39,7 +39,7 @@ The practice-integrated pillar recommends that learning tasks end in real-world 
 - public service competence and civic engagement
 
 ### Affordances
-- [Ai See Framework](../designs/ai-see-framework.md)
+- [Ai See Framework](../products/ai-see-framework.md)
 
 ## Related Strategies
 

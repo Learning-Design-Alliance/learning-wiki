@@ -64,7 +64,7 @@ Self-advocacy skills respond to the same instructional conditions as academic sk
 
 ## Related Strategies
 
-- [Self-Determined Learning Model of Instruction](self-determined-learning-model-of-instruction.md) — a structured teaching model that operationalizes this strategy through student-directed goal setting
+- [Self-Determined Learning Model of Instruction](../products/self-determined-learning-model-of-instruction.md) — a structured teaching model that operationalizes this strategy through student-directed goal setting
 - [Student-Led IEPs](student-led-ieps.md) — the highest-stakes authentic application of self-advocacy instruction
 - [Self-Monitoring](self-monitoring-strategies.md) — a component skill that supports goal attainment and self-regulation
 - [Self-Regulated Learning](self-regulated-learning-instruction.md) — the broader academic skill set that overlaps with self-determination

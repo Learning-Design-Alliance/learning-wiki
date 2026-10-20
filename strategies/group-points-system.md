@@ -58,7 +58,7 @@ Group points operationalize [Behaviorism](../theories/behaviorism.md) at the gro
 5. Rotate team membership periodically and debrief what helped teams succeed, converting the point system into explicit instruction on collaboration.
 
 ## Related Strategies
-- [Good Behavior Game](../strategies/good-behavior-game.md) — a behavior-focused variant of the same group contingency mechanism
+- [Good Behavior Game](../products/good-behavior-game.md) — a behavior-focused variant of the same group contingency mechanism
 - [Team-Based Learning](../strategies/team-based-learning.md) — a more structured pattern where team accountability extends to readiness assurance and application tasks
 
 ## Examples

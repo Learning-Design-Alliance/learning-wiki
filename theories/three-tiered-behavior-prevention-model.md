@@ -49,7 +49,7 @@ The guide organizes behavioral support around a three-tiered prevention model in
 - [Positive Behavioral Interventions And Supports](../patterns/positive-behavioral-interventions-and-supports.md)
 - [Multi-Tiered System of Supports (MTSS)](../strategies/multi-tiered-system-of-supports-mtss.md)
 - [Positive Behavior Interventions and Supports](../strategies/positive-behavior-interventions-and-supports.md)
-- [Positive Behavioral Interventions and Supports (PBIS)](../strategies/positive-behavioral-interventions-and-supports-pbis.md)
+- [Positive Behavioral Interventions and Supports (PBIS)](../products/positive-behavioral-interventions-and-supports-pbis.md)
 - [ATI-UP: a preventive, school-wide multi-tiered attendance intervention](../products/ati-up.md)
 - [Build shared districtwide and schoolwide responsibility for multilingual learners' attendance through a multitiered approach with a strong foundational tier](../strategies/shared-multitiered-attendance-responsibility-english-learners.md)
 - [Organize integrated support systems as universal, supplemental, and intensive tiers](../strategies/tiered-integrated-support-systems.md)

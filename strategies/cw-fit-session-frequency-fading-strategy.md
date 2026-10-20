@@ -39,7 +39,7 @@ The report's implementation guidance specifies that teachers implement CW-FIT du
 ## Related Strategies
 
 - [Provide additional targeted supports — self-monitoring charts or help cards — for students with significant skill challenges](cw-fit-targeted-student-supports-strategy.md)
-- [Good Behavior Game](good-behavior-game.md)
+- [Good Behavior Game](../products/good-behavior-game.md)
 
 ## Examples
 -

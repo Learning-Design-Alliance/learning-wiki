@@ -57,7 +57,7 @@ The strategy works through clear expectations and predictable consequences rathe
 5. Fade the practice as the routine becomes habitual, and reinforce quiet starts with acknowledgment rather than only penalizing violations
 
 ## Related Strategies
-- [Good Behavior Game](../strategies/good-behavior-game.md) — a group-contingent alternative that frames the same contingency as a team challenge rather than a punishment
+- [Good Behavior Game](../products/good-behavior-game.md) — a group-contingent alternative that frames the same contingency as a team challenge rather than a punishment
 - [Proximity Control](../strategies/proximity-control.md) — a less punitive way to suppress off-task talking
 - [Positive Reinforcement](../strategies/positive-reinforcement.md) — the complementary approach; consequences work best when on-task behavior is also reinforced
 

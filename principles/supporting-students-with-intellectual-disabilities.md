@@ -143,7 +143,7 @@ Assisted success in practice, unaided performance in class, performance in the r
 - [Supporting Students with Autism Spectrum Disorder](../learner-variables/autism-spectrum-disorder.md) — a neighbouring page on another group of students who often share classes and supports
 
 ## Examples
-- [Self-Determined Learning Model of Instruction](../strategies/self-determined-learning-model-of-instruction.md) — students set, plan and review their own goals
+- [Self-Determined Learning Model of Instruction](../products/self-determined-learning-model-of-instruction.md) — students set, plan and review their own goals
 - [Student-Led IEPs](../strategies/student-led-ieps.md) — the student introduces the team, reports progress and states new goals
 - [Visual Schedules](../strategies/visual-schedules.md) — a picture checklist for the steps of a routine
 - [Concrete-Representational-Abstract Sequencing](../strategies/concrete-representational-abstract-cra.md) — teaching arithmetic from objects to pictures to symbols

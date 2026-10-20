@@ -62,7 +62,7 @@ Self monitoring converts writing from a single-pass production task into a cycli
 
 ## Related Strategies
 
-- [Self-Regulated Strategy Development](self-regulated-strategy-development-srsd.md) — the most researched instructional framework embedding self monitoring in writing
+- [Self-Regulated Strategy Development](../products/self-regulated-strategy-development-srsd.md) — the most researched instructional framework embedding self monitoring in writing
 - [Peer Review](../elements/peer-review.md) — externalizes the monitoring criteria through a social partner, calibrating self-judgment
 - [Goal Setting](../elements/goal-setting.md) — monitoring requires a goal to monitor against; the two strategies are interdependent
 - [Revision](../elements/revision.md) — the action phase where monitoring results are enacted

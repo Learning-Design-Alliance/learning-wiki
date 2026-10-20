@@ -1,7 +1,7 @@
 {
 "counts":{
 "claim":22732,
-"design":977,
+"design":976,
 "element":1066,
 "learner-variable":75,
 "method":38,
@@ -9,8 +9,8 @@
 "principle":170,
 "process":18,
 "product":1830,
-"research-method":508,
-"strategy":6328,
+"research-method":507,
+"strategy":6321,
 "theory":1361
 },
 "kinds":[
@@ -205239,14 +205239,6 @@
 "type":"design"
 },
 {
-"description":"AI-SEE (Artificial Intelligence-Integrated Sustainable Engineering Education) is a pedagogical framework structured around an input-process-output logic, in which institutional conditions, learner characteristics, and...",
-"id":"ai-see-framework",
-"path":"designs/ai-see-framework.md",
-"status":"review",
-"title":"AI-SEE: a pedagogical framework integrating AI across the engineering curriculum as a cognitive scaffold and system-optimization resource",
-"type":"design"
-},
-{
 "description":"The AI Study Coach is an AI tool built into Jupyter-notebook laboratory sessions so students can consult it without leaving the task.",
 "id":"ai-study-coach-scaffolded-element",
 "path":"designs/ai-study-coach-scaffolded-element.md",
@@ -241636,14 +241628,6 @@
 "type":"research-method"
 },
 {
-"description":"The M&E Checklist organizes evidence building into four sequential phases, each with its own document: \\\"Design the Solution (Phase 1), Refine the Solution (Phase 2), Assess for Early Evidence of Success (Phase 3), and Validate Effectiveness (Phase 4).\\\" The framework structures how developers of lear",
-"id":"me-checklist",
-"path":"research-methods/me-checklist.md",
-"status":"review",
-"title":"M&E Checklist",
-"type":"research-method"
-},
-{
 "description":"The study's model of productive collaboration is the rating schema by Meier et al.",
 "id":"meier-et-al-rating-schema-for-productive-collaboration",
 "path":"research-methods/meier-et-al-rating-schema-for-productive-collaboration.md",
@@ -250363,14 +250347,6 @@
 "type":"strategy"
 },
 {
-"description":"This strategy comes from a research brief that uses \\\"a case study from a U.S.",
-"id":"coherent-instructional-system-reading-science",
-"path":"strategies/coherent-instructional-system-reading-science.md",
-"status":"review",
-"title":"Build a coherent instructional system across classrooms, examined through a district case study",
-"type":"strategy"
-},
-{
 "description":"The brief's analytic approach is to examine \\\"academic gains in the 2022-23 school year relative to pre-pandemic years\\\" and to track \\\"the gap in achievement between the COVID year student group compared to their pre-pa...",
 "id":"cohort-comparison-recovery-tracking-strategy",
 "path":"strategies/cohort-comparison-recovery-tracking-strategy.md",
@@ -250489,14 +250465,6 @@
 "path":"strategies/collaborative-networks-responsible-ai-edtech-adoption.md",
 "status":"review",
 "title":"Concentrate AI-edtech adoption priorities through collaborative networks that share tools, policies, and evaluation practices",
-"type":"strategy"
-},
-{
-"description":"A cooperative reading-comprehension approach in which small groups apply four comprehension strategies (preview, click and clunk, get the gist, wrap up) to text through structured roles and discussion.",
-"id":"collaborative-strategic-reading",
-"path":"strategies/collaborative-strategic-reading.md",
-"status":"review",
-"title":"Collaborative Strategic Reading",
 "type":"strategy"
 },
 {
@@ -263596,14 +263564,6 @@
 "type":"strategy"
 },
 {
-"description":"A classroom management strategy in which teams of students earn rewards by collectively keeping disruptive behavior below a criterion during a defined period.",
-"id":"good-behavior-game",
-"path":"strategies/good-behavior-game.md",
-"status":"review",
-"title":"Good Behavior Game",
-"type":"strategy"
-},
-{
 "description":"The Good, Better, Best Fit model is a three-question framework educators use to select which micro-credentials to earn.",
 "id":"good-better-best-fit-micro-credential-selection",
 "path":"strategies/good-better-best-fit-micro-credential-selection.md",
@@ -275189,15 +275149,6 @@
 "type":"strategy"
 },
 {
-"aliases":["pals_peer-assisted-learning-strategies","reciprocal-teaching-peer-assisted-learning-strategies-pals"],
-"description":"PALS is a structured peer tutoring approach that pairs learners to work together on academic activities with reciprocal roles, structured prompts, and instructor monitoring.",
-"id":"peer-assisted-learning-strategies-pals",
-"path":"strategies/peer-assisted-learning-strategies-pals.md",
-"status":"review",
-"title":"Peer-Assisted Learning Strategies (PALS)",
-"type":"strategy"
-},
-{
 "description":"The report proposes that accountability systems identify peer groups of institutions with similar characteristics — enrollment, shares of low-income undergraduates, part-time shares, selectivity, funding, and instruct...",
 "id":"peer-benchmarking-75th-percentile-ten-year",
 "path":"strategies/peer-benchmarking-75th-percentile-ten-year.md",
@@ -276565,15 +276516,6 @@
 "path":"strategies/positive-behavior-support.md",
 "status":"review",
 "title":"Positive Behavior Support",
-"type":"strategy"
-},
-{
-"aliases":["positive_behavioral_interventions_and_supports_pbis"],
-"description":"A school-wide, tiered framework for teaching and reinforcing positive behavior expectations rather than relying on punishment.",
-"id":"positive-behavioral-interventions-and-supports-pbis",
-"path":"strategies/positive-behavioral-interventions-and-supports-pbis.md",
-"status":"review",
-"title":"Positive Behavioral Interventions and Supports (PBIS)",
 "type":"strategy"
 },
 {
@@ -283387,14 +283329,6 @@
 "type":"strategy"
 },
 {
-"description":"A coaching model in which students set, act on, and evaluate their own learning goals through a three-phase, twelve-step teacher-facilitated process.",
-"id":"self-determined-learning-model-of-instruction",
-"path":"strategies/self-determined-learning-model-of-instruction.md",
-"status":"review",
-"title":"Self-Determined Learning Model of Instruction",
-"type":"strategy"
-},
-{
 "description":"The article's practical implications recommend designing intervention programs focused on academic self-efficacy for students with motor disabilities, because higher self-efficacy was associated with greater AI use.",
 "id":"self-efficacy-interventions-alongside-ai-integration",
 "path":"strategies/self-efficacy-interventions-alongside-ai-integration.md",
@@ -283527,15 +283461,6 @@
 "path":"strategies/self-regulated-learning-instruction.md",
 "status":"review",
 "title":"Self Regulated Learning Instruction",
-"type":"strategy"
-},
-{
-"aliases":["srsd-self-regulated-strategy-development","self-regulated-strategy-development"],
-"description":"SRSD is an instructional approach designed to enhance students' writing skills by addressing their affective, behavioral, and cognitive characteristics.",
-"id":"self-regulated-strategy-development-srsd",
-"path":"strategies/self-regulated-strategy-development-srsd.md",
-"status":"review",
-"title":"Self-Regulated Strategy Development (SRSD)",
 "type":"strategy"
 },
 {
@@ -328846,7 +328771,6 @@
 "ai-mediated-third-space-assessment-environments":"ai-mediated-third-space-assessment-environments",
 "ai-pbl-14-week-robotics-intervention":"ai-pbl-14-week-robotics-intervention",
 "ai-personalized-video-production-pipeline":"ai-personalized-video-production-pipeline",
-"ai-see-framework":"ai-see-framework",
 "ai-study-coach-scaffolded-element":"ai-study-coach-scaffolded-element",
 "ai-supported-authentic-inquiry-professional-validation":"ai-supported-authentic-inquiry-professional-validation",
 "ai-supported-e-mentoring-model-ismael-2026":"ai-supported-e-mentoring-model-ismael-2026",
@@ -333663,7 +333587,6 @@
 "marginal-structural-models-with-inverse-probability-of-treatment-weighting":"marginal-structural-models-with-inverse-probability-of-treatment-weighting",
 "matrix-sampling-with-planned-missingness-in-large-scale-assessments":"matrix-sampling-with-planned-missingness-in-large-scale-assessments",
 "mbp-kt":"mbp-kt",
-"me-checklist":"me-checklist",
 "meier-et-al-rating-schema-for-productive-collaboration":"meier-et-al-rating-schema-for-productive-collaboration",
 "meijer-et-al-taxonomy-of-56-metacognitive-text-studying-activities":"meijer-et-al-taxonomy-of-56-metacognitive-text-studying-activities",
 "meta-d-as-a-performance-normalized-measure-of-metacognitive-efficiency":"meta-d-as-a-performance-normalized-measure-of-metacognitive-efficiency",
@@ -334795,7 +334718,6 @@
 "coherence-metrics-teacher-formative-assessment-strategy":"coherence-metrics-teacher-formative-assessment-strategy",
 "coherent-instructional-system-model-for-leaders":"coherent-instructional-system-model-for-leaders",
 "coherent-instructional-system-model-reading-science":"coherent-instructional-system-model-reading-science",
-"coherent-instructional-system-reading-science":"coherent-instructional-system-reading-science",
 "coherent-instructional-system-reading-science-model":"coherent-instructional-system-model-reading-science",
 "cohort-comparison-recovery-tracking-strategy":"cohort-comparison-recovery-tracking-strategy",
 "cohort-peer-coaching-office-hours-pd-model":"cohort-peer-coaching-office-hours-pd-model",
@@ -334814,7 +334736,6 @@
 "collaborative-lean-flexible-certification-standards":"collaborative-lean-flexible-certification-standards",
 "collaborative-learning":"collaborative-learning",
 "collaborative-networks-responsible-ai-edtech-adoption":"collaborative-networks-responsible-ai-edtech-adoption",
-"collaborative-strategic-reading":"collaborative-strategic-reading",
 "collaborative-structured-data-analysis":"collaborative-structured-data-analysis",
 "collaborative-workgroup-co-development":"collaborative-workgroup-co-development",
 "collaborative-writing":"collaborative-writing",
@@ -336530,7 +336451,6 @@
 "goldlist-classroom-implementation-practices":"goldlist-classroom-implementation-practices",
 "gonoodle-physical-activity-movement-breaks":"gonoodle-physical-activity-movement-breaks",
 "gonoodle_activities":"gonoodle_activities",
-"good-behavior-game":"good-behavior-game",
 "good-better-best-fit-micro-credential-selection":"good-better-best-fit-micro-credential-selection",
 "good_tutee-tutor_contact":"good_tutee-tutor_contact",
 "governance-beyond-prohibition-detection":"governance-beyond-prohibition-detection",
@@ -337978,7 +337898,6 @@
 "pairr-implementation-steps-strategy":"pairr-implementation-steps-strategy",
 "pals-air-tutoring-training-request-strategy":"pals-air-tutoring-training-request-strategy",
 "pals-teacher-training-workshop-modeling-role-play":"pals-teacher-training-workshop-modeling-role-play",
-"pals_peer-assisted-learning-strategies":"peer-assisted-learning-strategies-pals",
 "paper-worksheet-records-what-chat-cannot":"paper-worksheet-records-what-chat-cannot",
 "paragraph_shrinking":"paragraph_shrinking",
 "parent-education-and-noise-minimization-for-sensory-problems":"parent-education-and-noise-minimization-for-sensory-problems",
@@ -338051,7 +337970,6 @@
 "peer-assessment-design-strategy-lu-law":"peer-assessment-design-strategy-lu-law",
 "peer-assessment-inventory-as-checklist-and-guideline":"peer-assessment-inventory-as-checklist-and-guideline",
 "peer-assessment-tools-future-directions":"peer-assessment-tools-future-directions",
-"peer-assisted-learning-strategies-pals":"peer-assisted-learning-strategies-pals",
 "peer-benchmarking-75th-percentile-ten-year":"peer-benchmarking-75th-percentile-ten-year",
 "peer-campus-support-integration-ai-tools":"peer-campus-support-integration-ai-tools",
 "peer-critique":"peer-critique",
@@ -338229,7 +338147,6 @@
 "positive-action-lesson-delivery-strategy":"positive-action-lesson-delivery-strategy",
 "positive-behavior-interventions-and-supports":"positive-behavior-interventions-and-supports",
 "positive-behavior-support":"positive-behavior-support",
-"positive-behavioral-interventions-and-supports-pbis":"positive-behavioral-interventions-and-supports-pbis",
 "positive-classroom-climate":"positive-classroom-climate",
 "positive-community-support-mall-adoption":"positive-community-support-mall-adoption",
 "positive-deviance-and-engagement-indicators-strategy":"positive-deviance-and-engagement-indicators-strategy",
@@ -338248,7 +338165,6 @@
 "positive_affirmations":"positive_affirmations",
 "positive_behavior_interventions_and_supports":"positive-behavior-interventions-and-supports",
 "positive_behavior_support":"positive-behavior-support",
-"positive_behavioral_interventions_and_supports_pbis":"positive-behavioral-interventions-and-supports-pbis",
 "positive_narration":"positive-narration",
 "positive_scripts":"positive_scripts",
 "post-adoption-fidelity-monitoring-feedback":"post-adoption-fidelity-monitoring-feedback",
@@ -338682,7 +338598,6 @@
 "reciprocal-peer-tutoring":"reciprocal-peer-tutoring",
 "reciprocal-questioning":"reciprocal-questioning",
 "reciprocal-teaching-parent-persuasion-strategy":"reciprocal-teaching-parent-persuasion-strategy",
-"reciprocal-teaching-peer-assisted-learning-strategies-pals":"peer-assisted-learning-strategies-pals",
 "reciprocal_peer_tutoring":"reciprocal-peer-tutoring",
 "reciprocal_teaching":"reciprocal_teaching",
 "recognize-analyze-judge-evaluate-beliefs":"recognize-analyze-judge-evaluate-beliefs",
@@ -339143,7 +339058,6 @@
 "self-awareness_-_identify_feelings":"self-awareness_-_identify_feelings",
 "self-awareness_-_journal_reflections":"journal_reflections_for_self-awareness",
 "self-correction_routines":"self-correction_routines",
-"self-determined-learning-model-of-instruction":"self-determined-learning-model-of-instruction",
 "self-efficacy-interventions-alongside-ai-integration":"self-efficacy-interventions-alongside-ai-integration",
 "self-evaluation":"self-evaluation",
 "self-evaluation-before-genai-critique":"self-evaluation-before-genai-critique",
@@ -339169,8 +339083,6 @@
 "self-regulated-learning":"self-regulated-learning-instruction",
 "self-regulated-learning-instruction":"self-regulated-learning-instruction",
 "self-regulated-learning-strategy-instruction":"self-regulated-learning-instruction",
-"self-regulated-strategy-development":"self-regulated-strategy-development-srsd",
-"self-regulated-strategy-development-srsd":"self-regulated-strategy-development-srsd",
 "self-regulation_-_mindfulness_techniques":"mindfulness_techniques_for_emotional_regulation",
 "self-regulation_-_scaffolding":"scaffolding_self-regulation",
 "self-regulation_scaffolding":"scaffolding_self-regulation",
@@ -339463,7 +339375,6 @@
 "srl-oriented-aigc-pedagogy-routines":"srl-oriented-aigc-pedagogy-routines",
 "srl-scaffold-design-process-questions":"srl-scaffold-design-process-questions",
 "srlts-based-self-assessment-feedback-and-task-selection-advice":"srlts-based-self-assessment-feedback-and-task-selection-advice",
-"srsd-self-regulated-strategy-development":"self-regulated-strategy-development-srsd",
 "ssa-research-agenda-five-known-unknowns":"ssa-research-agenda-five-known-unknowns",
 "ssbd-multistage-screening-target-student-selection":"ssbd-multistage-screening-target-student-selection",
 "sssc-future-evaluation-data-collection-strategy":"sssc-future-evaluation-data-collection-strategy",

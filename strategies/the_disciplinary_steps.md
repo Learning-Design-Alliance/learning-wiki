@@ -60,7 +60,7 @@ The sequence works because it combines relational repair with behavioral account
 8. **Communicate the expectation that the learner will do better**, ending on a forward-looking, efficacy-supporting note [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
 
 ## Related Strategies
-- [Positive Behavioral Interventions and Supports](positive-behavioral-interventions-and-supports-pbis.md) — the school-wide framework within which individual disciplinary conversations gain consistency
+- [Positive Behavioral Interventions and Supports](../products/positive-behavioral-interventions-and-supports-pbis.md) — the school-wide framework within which individual disciplinary conversations gain consistency
 - [Restorative Questions](restorative-questions.md) — a restorative alternative that shares steps 1–3 but replaces the consequence with repair
 
 ## Related Elements

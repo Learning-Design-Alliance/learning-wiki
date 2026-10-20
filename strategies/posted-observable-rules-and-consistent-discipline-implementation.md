@@ -45,7 +45,7 @@ The brief's implementation section advises that "Rules should be posted so all s
 - [Establish Consistent Routines](establish_consistent_routines.md)
 - [Positive Behavior Support](positive-behavior-support.md)
 - [Positive Behavior Interventions and Supports](positive-behavior-interventions-and-supports.md)
-- [Positive Behavioral Interventions and Supports (PBIS)](positive-behavioral-interventions-and-supports-pbis.md)
+- [Positive Behavioral Interventions and Supports (PBIS)](../products/positive-behavioral-interventions-and-supports-pbis.md)
 
 ## Examples
 -
