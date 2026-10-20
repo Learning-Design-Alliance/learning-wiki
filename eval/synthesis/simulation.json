@@ -57,13 +57,9 @@
       ]
     },
     {
-      "hub": "simulation-guidance-moderate-effect-dangelo",
+      "hub": "guidance-improves-inquiry-learning-outcomes",
       "question": "How much guidance should learners get while they explore a simulation, and does the answer change with what they already know?",
       "members": [
-        [
-          "guidance-improves-inquiry-learning-outcomes",
-          "+"
-        ],
         [
           "minimal-guidance-less-effective-for-novices",
           "+"

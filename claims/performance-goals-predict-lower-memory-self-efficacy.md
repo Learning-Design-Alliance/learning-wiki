@@ -52,3 +52,4 @@ Path from the final SEM of the pooled sample (N=216). Goals and demographics tog
 - [Dispositional learning goals positively predict memory self-efficacy in younger and older adults](learning-goals-predict-higher-memory-self-efficacy.md) — related
 - [Older adults set lower self-determined learning goals than younger adults](older-adults-lower-learning-goals.md) — related
 - [High-performance feedback increases self-efficacy more than low-performance feedback, with comparable effects across younger and older adults](high-performance-feedback-increases-self-efficacy-across-age-groups.md) — related
+- [Older adults restudy easy and medium items more than younger adults, and lower memory self-efficacy correlates with avoiding difficult items](older-adults-restudy-easy-items-self-efficacy.md) — related

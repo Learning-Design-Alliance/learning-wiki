@@ -51,3 +51,4 @@ Nine-month daily afterschool physical activity program study by Kamijo et al. in
 - [Longitudinal physical activity programs have a positive effect on academic performance in preadolescent children (g = 0.26)](longitudinal-physical-activity-improves-academic-performance.md)
 - [Longitudinal physical activity programs show a positive effect on attention in preadolescent children (g = 0.90), based on a single study](longitudinal-physical-activity-improves-attention-single-study.md)
 - [Intervention studies show stronger physical-activity effects on children's cognition than correlational studies](intervention-studies-stronger-than-correlational-physical-activity-cognition.md) — a broader claim this one bears on
+- [Longitudinal physical activity programs have a positive effect on executive functions in preadolescent children (g = 0.24)](longitudinal-physical-activity-improves-executive-functions.md) — related

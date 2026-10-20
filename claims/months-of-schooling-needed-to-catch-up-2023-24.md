@@ -66,3 +66,5 @@ The brief estimates catch-up time from 2023-24 data: "The average student will n
 - [The achievement divide between high and low achievers widened significantly over the last two years of the pandemic](achievement-divide-widened-significantly.md) — related
 - [The gap between pre-COVID and COVID test score averages widened in 2023-24 in nearly all grades, by an average of 36% in reading and 18% in math](pre-covid-covid-gap-widened-2023-24.md) — related
 - Researchers have translated test scores into months of learning to claim how many months or years students are behind in school — a broader claim this one bears on
+- [Significant achievement gaps between COVID-year students and pre-pandemic peers persisted at the end of 2022-23](persistent-achievement-gaps-2022-23.md) — related
+- [The 2022-23 school year showed stalled progress toward pandemic recovery in student achievement](2022-23-achievement-stalled-pandemic-recovery.md) — related

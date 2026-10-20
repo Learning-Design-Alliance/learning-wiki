@@ -47,3 +47,4 @@ The statewide Florida study reports that "dual enrollment and Advanced Placement
 - [Passing the college algebra placement test near the cut-off and enrolling in dual enrollment college algebra was associated with a 16 percent higher likelihood of going to college](dual-enrollment-college-algebra-16-percent-college-enrollment.md) — related
 - [Dual enrollment programs have positive effects on college access and enrollment, with an average improvement index of +15 percentile points](dual-enrollment-positive-college-access-enrollment.md) — a broader claim this one bears on
 - [Most CTE students also participated in college-level coursework, though CTE students had slightly lower AP participation](cte-students-college-coursework-participation.md) — related
+- [Dual enrollment college algebra near the cut-off was associated with a 23 percent higher likelihood of earning a college degree](dual-enrollment-college-algebra-23-percent-degree-attainment.md) — related

@@ -46,3 +46,4 @@ The abstract describes the article's scope: it treats "methods for identifying i
 - [Rapid guesses on computer-based tests reflect a construct-irrelevant response process rather than the tested knowledge, skills, and abilities](rapid-guessing-construct-irrelevant-response-process.md) — related
 - [Very short response times (rapid guessing) indicate disengaged test taking in both high-stakes and low-stakes testing contexts](rapid-guessing-indicates-disengaged-test-taking.md) — related
 - [Computer-based testing's routine capture of item-level response times has driven increased interest in applications of response time to measuring ability and achievement](computer-based-testing-drives-response-time-interest.md) — related
+- [Computer-based test advantages can be used to manage the effects of disengagement as a construct-irrelevant factor](cbt-manages-disengagement-construct-irrelevance.md) — related

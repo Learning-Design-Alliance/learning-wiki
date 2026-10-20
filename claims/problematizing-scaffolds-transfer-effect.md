@@ -43,4 +43,8 @@ Planned comparison between problematizing and structuring conditions on a near t
 
 
 ## Related Claims
--
+- [Problematizing scaffolds produced a small significant positive effect on individual metacognitive knowledge compared to structuring scaffolds](problematizing-scaffolds-metacognitive-knowledge.md) — related
+- [Problematizing scaffolds produced a medium significant positive effect on group performance compared to structuring scaffolds](problematizing-scaffolds-better-group-performance.md) — related
+- [Metacognitive scaffolding had no significant effect on individual domain knowledge (recall, knowledge tests, or transfer), with effect sizes close to zero](scaffolding-no-domain-knowledge-effect.md) — reports the opposite
+- [Problematizing scaffolds timed to metacognitive moments led students to learn the most domain knowledge](problematizing-scaffolds-most-domain-knowledge.md) — related
+- [Only problematizing scaffolds, not structuring scaffolds, significantly raise domain knowledge](only-problematizing-scaffolds-raise-domain-knowledge.md) — related

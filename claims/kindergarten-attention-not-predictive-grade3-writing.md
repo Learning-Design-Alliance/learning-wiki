@@ -52,3 +52,4 @@ SEM results from the longitudinal sample using teacher-rated SWAN attention (α 
 - [Kindergarten lexical literacy (word reading and spelling) predicts third-grade writing quality in both narrative and expository genres](kindergarten-lexical-literacy-predicts-writing-quality.md) — related
 - [Kindergarten letter writing automaticity is not uniquely predictive of third-grade writing quality](letter-writing-automaticity-not-predictive-grade3-writing.md) — related
 - [Children's expressive vocabulary is not uniquely related to either dimension of written composition after accounting for other variables](vocabulary-not-uniquely-related-to-written-composition.md) — related
+- [Kindergarten oral language does not uniquely predict third-grade expository writing quality](oral-language-not-predictive-expository-writing.md) — related

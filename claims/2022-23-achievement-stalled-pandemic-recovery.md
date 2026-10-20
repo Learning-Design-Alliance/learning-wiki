@@ -69,3 +69,5 @@ The brief's summary of its analysis of academic gains in the 2022-23 school year
 - [The study tracked the achievement gap between COVID-year student cohorts and their pre-pandemic peers](covid-cohort-achievement-gap-tracked.md) — related
 - [The average student needs an estimated 4.1 additional months of schooling to catch up in reading](reading-catchup-4-point-1-months.md) — a narrower finding that bears on this claim
 - [Compensatory education services are additional services to make up for progress or skills lost due to a lapse in services, and are conceptually distinct from recovery services](compensatory-education-distinct-from-recovery-services.md) — related
+- [The average student needs an estimated 4.5 additional months of schooling to catch up in math](math-catchup-4-point-5-months.md) — related
+- [The average student needs the equivalent of 4.8 additional months of schooling to catch up in reading and 4.3 months in math](months-of-schooling-needed-to-catch-up-2023-24.md) — related

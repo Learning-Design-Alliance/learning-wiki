@@ -75,3 +75,5 @@ Independent-sample t-test comparing spoken-text-only versus written-plus-spoken 
 - [Redundancy principle: animation plus narration beats animation, narration, and on-screen text for transfer](redundancy-principle-mayer-2008.md) — reports the opposite
 - [Spoken–written presentations do not outperform written-only presentations but do outperform spoken-only presentations](spoken-written-beats-spoken-only-not-written-only.md) — related
 - [Co-constructing visual-textual representations without timeline integration did not significantly raise post-test scores over textual representations](visual-textual-no-significant-gain-over-text.md) — related
+- [Video with concurrent narration and on-screen text yields higher immediate macrostructure comprehension than text alone or narration with text](video-narration-text-improves-immediate-macs-comprehension.md) — related
+- [Video with concurrent narration and on-screen text yields higher immediate microstructure comprehension than text alone or narration with text](video-narration-text-improves-immediate-mics-comprehension.md) — related

@@ -71,3 +71,4 @@ edge outcome in this study."
 - [Dialogic Reading has positive effects on preschool children's oral language, per WWC synthesis of five studies](dialogic-reading-positive-oral-language-effects.md) — related
 - [Level of implementation moderates Dialogic Reading's effects on children's oral language](implementation-level-moderates-dialogic-reading-effects.md) — related
 - [The potentially negative oral language effect of phonological awareness plus letter knowledge training is likely an artifact of the comparison condition, not the intervention](pat-lk-oral-language-negative-artifact-of-comparison.md) — related
+- [Dialogic Reading's average oral-language improvement index is +19 percentile points, ranging from –6 to +48 across findings](dialogic-reading-oral-language-improvement-index.md) — related

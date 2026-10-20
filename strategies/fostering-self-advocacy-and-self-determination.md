@@ -1,7 +1,7 @@
 ---
 type: strategy
 id: fostering-self-advocacy-and-self-determination
-aliases: [fostering_self-advocacy_and_self-determination, foster_self-advocacy_and_self-determination]
+aliases: [fostering_self-advocacy_and_self-determination, foster_self-advocacy_and_self-determination, prioritizing_self-advocacy_and_self-determination]
 title: Fostering Self-Advocacy and Self-Determination
 description: Prioritizing explicit instruction and authentic practice of self-advocacy and self-determination skills so students — especially those with disabilities — can direct their own learning and life paths.
 status: review
@@ -37,6 +37,10 @@ Self-determination instruction is grounded in [Self-Determination Theory](../the
 - Authentic practice settings where advocacy has real stakes — IEP/transition meetings, accommodation requests, work-based learning placements
 - A supportive environment in which adults genuinely cede decision-making authority rather than performing consultation
 - Progress monitoring structures so students experience the competence that sustains motivation [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
+- Explicit goals: self-advocacy and self-determination written into curricula, IEPs, and graduate outcomes
+- Teacher preparation and professional development covering how to teach and coach these skills
+- Assessment tools that measure self-determination directly (e.g., self-report scales, goal-attainment data) rather than inferring it from proxies
+- Accountability structures that reward growth in these capacities, not only content test scores
 
 #### Constraints
 - Requires sustained investment of time, training, and resources; one-off lessons or assemblies do not produce durable gains [-W]
@@ -50,6 +54,10 @@ Self-determination instruction is grounded in [Self-Determination Theory](../the
 - One-off lessons or assemblies do not produce durable self-determination; effects depend on sustained, embedded practice across settings [-W]
 - Environments that punish disclosure (e.g., stigma around accommodations) suppress advocacy behavior even when skills are taught [-M]
 - Students with significant support needs may require extensive scaffolding and communication supports; a "sink or swim" interpretation of empowerment is counterproductive [-S]
+- Requires systemic change across preparation programs, assessment systems, and accountability policy; piecemeal adoption tends to fade [-W]
+- High-stakes content accountability crowds out non-tested outcomes; schools rarely prioritize what is not measured [-M]
+- Autonomy support without structure can drift into permissiveness; self-determination instruction works when paired with clear expectations and feedback [~M]
+- Students with significant support needs may need augmented communication and [accommodations](../elements/accommodations.md) before self-advocacy goals are meaningful; skipping this prerequisite produces token participation [-W]
 
 #### Implementation Variability
 - **Student-led IEPs**: students prepare and lead their own IEP meetings (e.g., the self-determined learning model of instruction)
@@ -64,6 +72,10 @@ Self-determination instruction is grounded in [Self-Determination Theory](../the
 - **Embedded advocacy curricula**: programs such as *I'm Determined* (Virginia DOE) integrate goal setting and decision-making into general coursework
 - **Postsecondary preparation**: explicit instruction in disclosing disability and requesting accommodations before college entry
 - **Peer mentoring**: older students with disabilities model advocacy for younger ones
+- IEP-embedded: self-determination goals with annual measurement for students with disabilities
+- School-wide: advisory programs, student-led conferences, and [choice boards](../elements/choice-boards.md) that distribute decision-making across all students
+- Policy-level: state frameworks naming self-determination as a graduate outcome; teacher-preparation accreditation standards
+- Assessment-level: student-led IEP meetings, portfolios, and self-assessment as graded performance
 
 ### Target Learners
 - Students with disabilities, especially at transition points (middle-to-high school, school-to-work) [~S]
@@ -72,6 +84,9 @@ Self-determination instruction is grounded in [Self-Determination Theory](../the
 - Belonging matters: advocacy is only safe in environments where students expect to be heard [Belonging interventions improve outcomes.](../claims/belonging-interventions-improve-outcomes.md) [+M]
 - Younger students benefit from foundational choice-making and self-monitoring before formal advocacy demands arrive
 - Students with weak self-regulation, who benefit from explicit goal-setting and self-monitoring instruction [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+M]
+- Students with disabilities, especially adolescents in transition planning, where self-determination instruction shows the strongest and most consistent effects [+M]
+- Students at risk of disengagement; autonomy-supportive climates are associated with better attendance and engagement [~M]
+- Educators and policymakers as the proximate learners: the strategy requires changing adult practice first
 
 ### Target Learning Goals
 - Self-regulated learning: planning, monitoring, and evaluating one's own work ([Self-Regulated Learning](../theories/self-regulated-learning.md))
@@ -82,6 +97,9 @@ Self-determination instruction is grounded in [Self-Determination Theory](../the
 - Self-awareness and metacognition: understanding one's needs, strengths, and rights
 - Communication and problem-solving: articulating needs and negotiating support
 - Motivational outcomes: task value and engagement through perceived autonomy and relevance [Task value increases motivation and engagement.](../claims/task-value-increases-motivation-and-engagement.md) [+M]
+- Metacognitive and self-regulatory skill: goal setting, self-monitoring, self-evaluation
+- Communication: articulating needs, requesting [accommodations](../elements/accommodations.md), negotiating support
+- Long-term transition outcomes: employment, postsecondary education, independent living
 
 ### Instructions
 1. **Assess baseline self-determination** — use a validated measure (e.g., AIR Self-Determination Scale) and involve the student in interpreting results, connecting to [Assessment for Learning](../principles/assessment-for-learning.md).
@@ -114,6 +132,9 @@ Self-determination instruction is grounded in [Self-Determination Theory](../the
 - **[Self-Determined Learning Model of Instruction (SDLMI)](https://www.ou.edu/education/zarrow/sdlmi)** — a teacher-implemented model in which students set, act toward, and self-evaluate goals; validated across disability categories in secondary settings.
 - **[I'm Determined](https://www.imdetermined.org)** (Virginia Department of Education) — state-level initiative with student-led IEP templates, "good day plans," and youth summits.
 - **Student-led IEP meetings** — students present their strengths, needs, and goals at their own transition planning meetings, a widely replicated practice in secondary special education.
+- **Student-led IEP meetings** (e.g., the self-determination curricula developed by the Zarrow Center at the University of Oklahoma, such as the *Self-Determined Learning Model of Instruction*): students prepare, present, and lead their own IEP meetings as the capstone self-advocacy performance.
+- **I'm Determined** (Virginia Department of Education, https://www.imdetermined.org) — a statewide initiative embedding self-determination instruction, youth leadership, and teacher resources across Virginia schools.
+- **Transition planning under IDEA 2004** — U.S. federal law requires transition services based on the student's strengths, preferences, and interests, making student involvement a legal requirement rather than an option.
 
 ## Key Sources
 - Test, D. W., Fowler, C. H., Richter, S. M., White, J., Mazzotti, V., Walker, A. R., Kohler, P., & Kortering, L. (2009). Evidence-based practices in secondary transition. *Career Development for Exceptional Individuals, 32*(2), 115–128. [doi:10.1177/0885728809336859](https://doi.org/10.1177/0885728809336859)
@@ -259,5 +280,74 @@ Self-advocacy instruction works because it builds both the motivational conditio
 - Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78. [doi:10.1037/0003-066X.55.1.68](https://doi.org/10.1037/0003-066X.55.1.68)
 - Wehmeyer, M. L. (2005). Self-determination and individuals with severe disabilities: Re-examining meanings and misinterpretations. *Research and Practice for Persons with Severe Disabilities, 30*(3), 113–120. [doi:10.2511/rpsd.30.3.113](https://doi.org/10.2511/rpsd.30.3.113)
 - Test, D. W., Fowler, C. H., Richter, S. M., White, J., Mazzotti, V., Walker, A. R., Kohler, P., & Kortering, L. (2009). Evidence-based practices in secondary transition. *Career Development for Exceptional Individuals, 32*(2), 115–128. [doi:10.1177/0885728809336859](https://doi.org/10.1177/0885728809336859)
+- Shogren, K. A., Wehmeyer, M. L., Palmer, S. B., Rifenbark, G. G., & Little, T. D. (2015). Relationships between self-determination and postschool outcomes for youth with disabilities. *The Journal of Special Education, 48*(4), 256–269. [doi:10.1177/0022466913489733](https://doi.org/10.1177/0022466913489733)
+-->
+
+<!-- merged 2026-10-20 from strategies/prioritizing_self-advocacy_and_self-determination ("Prioritizing Self-Advocacy and Self-Determination"), a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Prioritizing Self-Advocacy and Self-Determination
+
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies (1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 1 of 3 report an effect size
+
+## Description
+This strategy treats self-advocacy (students understanding and communicating their own needs) and self-determination (goal-setting, choice-making, decision-making, self-monitoring) as primary educational outcomes rather than byproducts. It is carried out by writing these capacities into explicit learning goals (including IEPs), preparing teachers to teach them, assessing them directly, and holding systems accountable through measures such as student engagement and chronic absenteeism.
+
+## Design Implications
+
+Self-determination theory identifies autonomy, competence, and relatedness as basic psychological needs whose support drives intrinsic motivation and engagement [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S]. Explicit instruction in self-determination skills — goal setting, self-monitoring, decision-making — produces measurable gains for students with and without disabilities, with the strongest effects when skills are taught directly and applied to real choices [+M]. Because these capacities are system-level outcomes, the strategy operates on policy and preparation as much as on classroom practice.
+
+### Context
+#### Requirements
+- Explicit goals: self-advocacy and self-determination written into curricula, IEPs, and graduate outcomes
+- Teacher preparation and professional development covering how to teach and coach these skills
+- Assessment tools that measure self-determination directly (e.g., self-report scales, goal-attainment data) rather than inferring it from proxies
+- Accountability structures that reward growth in these capacities, not only content test scores
+
+#### Constraints
+- Requires systemic change across preparation programs, assessment systems, and accountability policy; piecemeal adoption tends to fade [-W]
+- High-stakes content accountability crowds out non-tested outcomes; schools rarely prioritize what is not measured [-M]
+- Autonomy support without structure can drift into permissiveness; self-determination instruction works when paired with clear expectations and feedback [~M]
+- Students with significant support needs may need augmented communication and [accommodations](../elements/accommodations.md) before self-advocacy goals are meaningful; skipping this prerequisite produces token participation [-W]
+
+#### Implementation Variability
+- IEP-embedded: self-determination goals with annual measurement for students with disabilities
+- School-wide: advisory programs, student-led conferences, and [choice boards](../elements/choice-boards.md) that distribute decision-making across all students
+- Policy-level: state frameworks naming self-determination as a graduate outcome; teacher-preparation accreditation standards
+- Assessment-level: student-led IEP meetings, portfolios, and self-assessment as graded performance
+
+### Target Learners
+- Students with disabilities, especially adolescents in transition planning, where self-determination instruction shows the strongest and most consistent effects [+M]
+- Adolescents generally, who are developing identity and autonomy and respond to autonomy-supportive environments [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S]
+- Students at risk of disengagement; autonomy-supportive climates are associated with better attendance and engagement [~M]
+- Educators and policymakers as the proximate learners: the strategy requires changing adult practice first
+
+### Target Learning Goals
+- Metacognitive and self-regulatory skill: goal setting, self-monitoring, self-evaluation
+- Communication: articulating needs, requesting [accommodations](../elements/accommodations.md), negotiating support
+- Motivational outcomes: intrinsic motivation, engagement, and persistence [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S]
+- Long-term transition outcomes: employment, postsecondary education, independent living
+
+### Instructions
+1. Name the outcome: write self-advocacy and self-determination into explicit goals using [State Objectives](../elements/state-objectives.md), including IEP goals where applicable.
+2. Prepare educators: train teachers in autonomy-supportive practice — offering rationale, choice, and perspective-taking rather than control [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S].
+3. Teach the skills directly: model goal setting and self-monitoring, then have students practice with [Coaching](../elements/coaching.md) and regular [Check-Ins](../elements/check-in.md).
+4. Give students real decisions: use structures like [Choice Boards](../elements/choice-boards.md) and student-led conferences so skills are exercised on consequential choices, not hypotheticals.
+5. Assess and feed back: measure self-determination growth with [Assess Performance](../elements/assess-performance.md) tools (self-report scales, goal-attainment data) and close the loop with [Provide Feedback](../elements/provide-feedback.md).
+6. Hold the system accountable: track engagement indicators such as chronic absenteeism and student-led IEP participation alongside academic measures.
+
+## Related Strategies
+- [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md) — a classroom structure that operationalizes student decision-making daily
+- [Action Planning](action_planning.md) — the goal-setting routine students internalize as part of self-determination
+
+## Examples
+- **Student-led IEP meetings** (e.g., the self-determination curricula developed by the Zarrow Center at the University of Oklahoma, such as the *Self-Determined Learning Model of Instruction*): students prepare, present, and lead their own IEP meetings as the capstone self-advocacy performance.
+- **I'm Determined** (Virginia Department of Education, https://www.imdetermined.org) — a statewide initiative embedding self-determination instruction, youth leadership, and teacher resources across Virginia schools.
+- **Transition planning under IDEA 2004** — U.S. federal law requires transition services based on the student's strengths, preferences, and interests, making student involvement a legal requirement rather than an option.
+
+## Key Sources
+- Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78. [doi:10.1037/0003-066X.55.1.68](https://doi.org/10.1037/0003-066X.55.1.68)
+- Test, D. W., Fowler, C. H., Richter, S. M., White, J., Mazzotti, V., Walker, A. R., Kohler, P., & Kortering, L. (2009). Evidence-based practices in secondary transition. *Career Development for Exceptional Individuals, 32*(2), 115–128. [doi:10.1177/0885728809336859](https://doi.org/10.1177/0885728809336859)
+- Wehmeyer, M. L. (2005). Self-determination and individuals with severe disabilities: Re-examining meanings and misinterpretations. *Research and Practice for Persons with Severe Disabilities, 30*(3), 113–120. [doi:10.2511/rpsd.30.3.113](https://doi.org/10.2511/rpsd.30.3.113)
 - Shogren, K. A., Wehmeyer, M. L., Palmer, S. B., Rifenbark, G. G., & Little, T. D. (2015). Relationships between self-determination and postschool outcomes for youth with disabilities. *The Journal of Special Education, 48*(4), 256–269. [doi:10.1177/0022466913489733](https://doi.org/10.1177/0022466913489733)
 -->

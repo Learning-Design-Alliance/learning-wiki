@@ -44,3 +44,4 @@ The WWC review of Roder & Elliott (2014), based on 143 students, rated medium-te
 - [Year Up may result in little to no change in industry-recognized credential, certificate, or license completion](year-up-no-effect-credential-completion.md) — related
 - [Year Up may result in little to no change in medium-term earnings](year-up-no-effect-medium-term-earnings.md) — related
 - [Year Up may result in little to no change in short-term employment](year-up-no-effect-short-term-employment.md) — related
+- [Year Up is likely to increase short-term earnings for low-income young adults](year-up-positive-short-term-earnings.md) — related

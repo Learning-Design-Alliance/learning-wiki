@@ -48,3 +48,5 @@ Findings section reports the numeracy outcome from the standards/skills aligned 
 ## Related Claims
 - [Students in the TEC Summer Learning Program showed a 41% pre-to-post gain in mathematics vocabulary](tec-summer-41-percent-math-vocabulary-gain.md) — related
 - [Vista students using Mathspace showed statistically significant math gains over the summer, while benchmark scores were not significantly different in the other two districts](vista-mathspace-significant-summer-math-gains.md) — related
+- [Students in the TEC Summer Learning Program showed a 17% pre-to-post gain in phonics skills](tec-summer-17-percent-phonics-gain.md) — related
+- [Students' mathematical vocabulary use shifted from lower to higher rubric levels after the intervention](math-vocabulary-levels-improve-post-test.md) — related

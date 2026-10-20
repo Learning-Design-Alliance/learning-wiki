@@ -49,3 +49,5 @@ Narrative review synthesis. The review discusses "key research findings on two s
 - [Spaced retrieval practice produces better final retention than massed retrieval even though spacing lowers initial retrieval success, and more absolute spacing enhances long-term retention](spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall.md) — a narrower finding that bears on this claim
 - [Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words](desirable-difficulties-enhance-learning.md) — a narrower finding that bears on this claim
 - [Research findings show that various types of learning benefit from spaced study, with demonstrations of these benefits in educational settings](spacing-benefits-diverse-learning-educational-settings.md) — related
+- [Retrieval Practice Improves Transfer](retrieval-practice-improves-transfer.md) — a narrower finding that bears on this claim
+- [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — related

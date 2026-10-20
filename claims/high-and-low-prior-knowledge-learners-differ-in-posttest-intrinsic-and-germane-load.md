@@ -80,3 +80,4 @@ Same experiment, prior-knowledge contrast on the CLM extraneous subscale: "no si
 - [Propositional knowledge showed a prior knowledge main effect but no instructional method × prior knowledge interaction](no-expertise-reversal-propositional-knowledge.md) — related
 - [The claim that high-variability practice imposes germane load rests on post-hoc explanation and does not always replicate](high-variability-germane-load-post-hoc.md) — related
 - [Sequence of worked examples and problems had no significant effect on self-reported cognitive load, but higher prior knowledge was associated with lower load in experimental design](cognitive-load-no-sequence-effect.md) — related
+- [Self-reported intrinsic and germane cognitive load correlate positively among college students solving algebra problems](intrinsic-and-germane-cognitive-load-correlate-positively-in-algebra.md) — related

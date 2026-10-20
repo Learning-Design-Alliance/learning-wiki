@@ -53,3 +53,4 @@ Finding from Johnson's quasi-experimental analyses of the LCFF rollout, reported
 - [LCFF-induced spending increases reduced suspensions and expulsions, with larger effects for boys and the most pronounced effects for Black students](lcff-spending-reduces-suspension-expulsion-disparities.md) — related
 - Increases in per-pupil spending improve educational attainment, wages, and adult poverty outcomes, with stronger effects for low-income children — related
 - [Structural and fiscal conditions—including grade-3 class-size incentive cliffs and declining enrollment—jeopardize the bilingual teacher pipeline and program sustainability](structural-fiscal-risks-bilingual-pipeline-sustainability.md) — related
+- [The DC reforms were associated with grade 8 math gains, especially for cohorts with more exposure, but not grade 8 reading gains](dc-reform-gains-grade-8-math-not-reading-brief.md) — related

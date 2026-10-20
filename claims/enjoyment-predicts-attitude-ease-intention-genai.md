@@ -54,3 +54,4 @@ PLS-SEM bootstrapped path analysis (5,000 subsamples) in the 434-teacher sample 
 - [Teacher self-efficacy is most strongly associated with perceived enjoyment of GenAI tools](self-efficacy-drives-perceived-enjoyment-genai.md) — related
 - [Perceived usefulness and perceived ease of use of GenAI tools significantly predict teachers' attitudes and behavioural intention](usefulness-ease-predict-attitude-intention-genai.md) — related
 - [Performance expectancy, social influence, novelty value, and creative competence positively predict art and design students' behavioral intention to use T2I GenAI tools](pe-si-nv-cc-positive-predict-bi-t2i.md) — related
+- [Attitude, facilitating conditions, and social influence correlate most strongly with behavioral intention, while perceived ease of use correlates weakest](at-fc-si-strongest-bi-correlates-peou-weakest.md) — related

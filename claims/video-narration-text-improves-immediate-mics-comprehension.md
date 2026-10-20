@@ -45,3 +45,4 @@ One-way ANOVA on the immediate MICS test showed a significant main effect for Gr
 ## Related Claims
 - [Presentation condition does not differentially affect microstructure comprehension over five weeks, though VNT and NT groups improved while the text-only group did not](mics-pre-post-no-group-differential-effect.md) — related
 - [Video with concurrent narration and on-screen text yields higher immediate macrostructure comprehension than text alone or narration with text](video-narration-text-improves-immediate-macs-comprehension.md) — related
+- [In one middle-school quasi-experiment, adding written text to spoken narration makes no significant difference to achievement with either abstract or concrete animation](redundancy-effect-not-significant-middle-school.md) — related

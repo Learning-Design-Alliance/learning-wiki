@@ -45,3 +45,4 @@ Random-effects meta-analysis of studies on exercise effects on motor skills and 
 ## Related Claims
 
 - [Exercise effect sizes on ADHD functional outcomes are not related to exercise intensity, mean age of participants, or gender distribution](exercise-adhd-effects-unrelated-to-intensity-age-gender.md)
+- [Longitudinal physical activity programs have a positive effect on executive functions in preadolescent children (g = 0.24)](longitudinal-physical-activity-improves-executive-functions.md) — related

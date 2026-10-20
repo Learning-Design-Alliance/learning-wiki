@@ -51,3 +51,6 @@ Process-level analysis addressing RQ2 in the same within-subjects study: JVA agg
 - [Proactive multimodal feedback significantly increases debugging success in pair programming compared to no-feedback control](propact-proactive-feedback-improves-debugging-success.md) — related
 - [Gaze-based assistance produced a significantly higher follow-up fixation rate on the spoken secondary AOI than the baseline](gaze-assistance-higher-secondary-aoi-followup.md) — related
 - [Adaptive AI support directs regulatory activity toward monitoring while static AI support produces strategy-focused, procedural regulation](adaptive-ai-monitoring-static-strategy-networks.md) — related
+- [High joint visual attention can hide a free-rider effect in collaborative dyads](high-jva-hides-free-rider-effect.md) — related
+- [Proactive multimodal feedback significantly increases feedback uptake compared to control](propact-feedback-increases-feedback-uptake.md) — related
+- [Levels of joint visual attention are correlated with collaboration quality across collaborative groups](jva-correlated-with-collaboration-quality.md) — related

@@ -48,3 +48,4 @@ In the same two-group artificial-language experiment, the hypothesis that explic
 ## Related Claims
 - [The study tested the interaction of explicit instruction with complexity and morphology/syntax across four L2 structures](experanto-interaction-design-four-l2-structures.md) — related
 - [No differential effect of explicit instruction depending on the variable complexity](no-differential-explicit-instruction-effect-complexity.md) — related
+- [Explicit grammar teaching outperforms implicit teaching; one review found the advantage only for complex rules, but a meta-analysis found it for simple rules too](explicit-teaching-complex-rules-only-advantage.md) — reports the opposite

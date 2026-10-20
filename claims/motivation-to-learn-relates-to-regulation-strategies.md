@@ -68,3 +68,4 @@ SEM path analysis of the MSLQ model (N = 98); Table 4 reports a standardized est
 - [Studies since 2004 confirm strong interrelations among processing strategies, regulation strategies, conceptions, and motivations of learning patterns](learning-pattern-components-interrelated.md) — a broader claim this one bears on
 - [Conceptions of knowledge construction showed no significant relationships with students' reported regulation strategies](knowledge-construction-conceptions-no-regulation-relationships.md) — related
 - [A three-tiered conceptual-controlling-operational structure is fully valid for MSLQ variables but only partially for ILS variables](three-tier-structure-mslq-complete-ils-partial-mediation.md) — related
+- [Structural relations exist between students' conceptions of constructivist learning and their regulation and processing strategies, and doubting students risk inadequate regulation](loyens-conceptions-relate-strategies.md) — related

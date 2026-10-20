@@ -46,3 +46,5 @@ The same quasi-experimental matched-comparison analysis of administrative data f
 - [Practical college-access information may have been a key service Talent Search delivered](practical-information-key-talent-search-service.md) — related
 - [Talent Search participants were more likely than matched comparison students to apply for federal financial aid](talent-search-more-likely-apply-federal-financial-aid.md) — related
 - [Of six academic advising programs with studies meeting WWC standards, two (Talent Search and Sponsor-a-Scholar) improved college enrollment and four had no impact](academic-advising-mixed-college-enrollment.md) — related
+- [Talent Search participants in Florida completed high school or GED at a significantly higher rate than matched comparison students (84% vs. 70%)](talent-search-florida-higher-completion-rate.md) — related
+- [Talent Search participants in Texas completed high school or GED at a significantly higher rate than matched comparison students (86% vs. 77%)](talent-search-texas-higher-completion-rate.md) — related

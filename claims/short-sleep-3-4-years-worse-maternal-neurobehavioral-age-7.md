@@ -70,3 +70,4 @@ Same multivariable model as the BRIEF finding; the SDQ total difficulties estima
 - [Short sleep duration (<9 hours) at follow-up is associated with impaired academic achievement, while baseline sleep duration did not significantly predict later school performance](short-sleep-duration-academic-achievement-longitudinal.md) — related
 - [Longer sleep duration is associated with linear growth in infants, with small printed odds ratios](longer-sleep-linear-growth-infants.md)
 - [Short sleep duration at age 3 was not associated with quality of life at about age 13](sleep-quality-of-life-null-longitudinal.md)
+- [In bivariate analyses, children sleeping <9 hours/day at ages 5-7 had higher mother- and teacher-reported BRIEF and SDQ scores than those sleeping ≥10 hours/day](bivariate-short-sleep-5-7-higher-brief-sdq.md) — related

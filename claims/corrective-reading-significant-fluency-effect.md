@@ -51,3 +51,4 @@ Randomized controlled trial of 79 third-grade students in eight Pennsylvania sch
 - Students in the Readable English intervention group showed significant improvements in reading fluency and comprehension compared to the control group — related
 - [An AI-supported reading progress tool produced large effect sizes for speed and accuracy but not significant prosody gains for third-grade EFL learners](ai-reading-progress-speed-accuracy-large-effects-prosody-null.md) — related
 - [Fluency-building activities for struggling readers in grades 4–9 have strong evidence, based on 33 studies](strong-evidence-fluency-building-activities-grades-4-9.md) — a broader claim this one bears on
+- [Comprehension-building practices for struggling readers in grades 4–9 have strong evidence, based on 34 studies](strong-evidence-comprehension-building-practices-grades-4-9.md) — related

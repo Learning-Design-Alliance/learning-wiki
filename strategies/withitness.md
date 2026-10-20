@@ -55,7 +55,7 @@ Withitness functions as a preventive management strategy rather than a reactive 
 5. Pair awareness with warmth — follow redirection with a check-in ([Check-In](../elements/check-in.md)) so awareness reads as care, not surveillance
 
 ## Related Strategies
-- [Establishing Routines and Procedures](establishing-routines.md) — withitness enforces routines; routines reduce the monitoring load
+- [Establishing Routines and Procedures](establishing-classroom-routines.md) — withitness enforces routines; routines reduce the monitoring load
 - [Proximity Control](proximity-control.md) — a physical withitness move that redirects without verbal interruption
 - [Positive Narration](positive-narration.md) — describing on-task behavior aloud makes awareness visible
 

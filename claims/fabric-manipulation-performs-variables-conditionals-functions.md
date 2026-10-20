@@ -46,3 +46,5 @@ Qualitative analysis of the fabric manipulation unit, in which students sewed tw
 - [Computation in fabric manipulation is characterized as speculative physical 3D modeling](fabric-manipulation-speculative-3d-modeling.md) — related
 - [Weaving supports middle school students' performance of the computational concepts variables, conditionals, and functions](weaving-performs-variables-conditionals-functions.md) — related
 - [Middle school students experienced their craft performance as computational, connecting weaving and sewing to loops and coding](students-experience-craft-performance-as-computational.md) — related
+- [In fabric manipulation, the algorithmic performance was contingent on repeated combinations of components paired with steps of the craft](fabric-manipulation-algorithm-component-confluence.md) — related
+- [The editorial reports that human-material interactions in fibre crafting produce algorithmic outcomes, with materials acting as collaborative agents (Keune)](human-material-collaboration-fibre-craft-algorithms.md) — a broader claim this one bears on

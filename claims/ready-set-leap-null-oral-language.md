@@ -52,3 +52,5 @@ Findings from two RCTs in the oral language domain. The appendix table prints a 
 - [Ready, Set, Leap!® shows no significant effect on preschool math; the study authors' negative finding was not significant in WWC calculations](ready-set-leap-null-math.md) — related
 - [Ready, Set, Leap!® has no significant effect on preschool print knowledge (domain average effect size 0.06)](ready-set-leap-null-print-knowledge.md) — related
 - [Ready, Set, Leap!® has no significant effect on preschool phonological processing (domain average effect size 0.06)](ready-set-leap-null-phonological-processing.md) — related
+- [Pre-K Mathematics with DLM Early Childhood Express Math shows no discernible effects on preschool oral language](prek-mathematics-no-oral-language-effects.md) — related
+- [Waterford Early Reading Level One™ shows no discernible effects on preschool children's oral language](waterford-level-one-no-discernible-oral-language-effects.md) — related

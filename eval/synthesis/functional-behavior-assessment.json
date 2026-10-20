@@ -7,10 +7,6 @@
       "question": "Do interventions chosen from a functional assessment of a learner's behavior improve that learner's behavior and engagement?",
       "members": [
         [
-          "fba-evidence-base-single-case-only",
-          "~"
-        ],
-        [
           "fba-social-emotional-competence-below-threshold",
           "~"
         ],

@@ -49,3 +49,4 @@ Within-subjects experiment (26 dyads); t-test on feedback uptake, operationalize
 - [Proactive feedback produces significant post-intervention increases in Joint Mental Effort of dyads](propact-feedback-increases-jme-post-intervention.md) — related
 - [Revision after chatbot feedback predominantly results in successful uptake, indicating effective error correction](penny-feedback-successful-uptake.md) — related
 - Tutors' feedback uptake did not differ significantly between automated and learner feedback — related
+- [Proactive feedback produces significant post-intervention increases in Joint Visual Attention of dyads](propact-feedback-increases-jva-post-intervention.md) — related

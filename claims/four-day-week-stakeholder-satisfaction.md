@@ -47,3 +47,4 @@ Qualitative and survey data from the multi-state 4dsw study. The report states "
 - [Four-day school week cost savings are relatively small but may help maintain instructional expenses during revenue shortages](four-day-week-small-cost-savings.md) — related
 - [Qualitative data support the view that the four-day school week helps attract and retain teachers in rural districts](four-day-week-teacher-recruitment-qualitative.md) — related
 - [No quantitative evidence that the four-day school week improved student attendance](four-day-week-no-attendance-evidence.md) — related
+- [Four-day school weeks have no detectable effect on high school students' ACT scores](four-day-week-no-effect-act-scores.md) — related

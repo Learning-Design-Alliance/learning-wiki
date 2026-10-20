@@ -53,3 +53,4 @@ WWC calculations across the Uchikoshi randomized controlled trial's three outcom
 - [Mean clause length showed a small negative difference favoring the comparison group, not statistically significant](arthur-mean-clause-length-negative-nonsignificant.md) — related
 - [Watching Arthur improves English narrative skill development in kindergarten English language learners more than an alternative educational program (potentially positive effects)](arthur-potentially-positive-narrative-skill-effects.md) — related
 - [The supporting evidence is a randomized controlled trial in which 108 kindergarten English learners watched 54 episodes of Arthur or Between the Lions over one school year](arthur-uchikoshi-rct-design.md) — related
+- [The WWC improvement index is +31 percentile points for English language development and +3 percentile points for reading achievement](fast-forword-improvement-index-eld-reading.md) — reports the opposite

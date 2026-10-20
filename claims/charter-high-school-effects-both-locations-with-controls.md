@@ -53,3 +53,4 @@ The study's overall finding across its Chicago and Florida data: the authors rep
 - [Charter high school attendees experience higher earnings in their mid-20s](charter-high-schools-higher-mid-twenties-earnings.md) — related
 - [Charter high schools have positive effects on educational attainment in Florida and Chicago](charter-high-schools-positive-attainment-effects-florida-chicago.md) — possibly the same claim (merge candidate)
 - [Chicago multi-grade charter high schools appear to increase the probability of enrolling in college](chicago-multigrade-charter-high-schools-college-entry-gains.md) — a narrower finding that bears on this claim
+- [Chicago multi-grade charter high schools appear to increase the probability of graduating high school](chicago-multigrade-charter-high-schools-graduation-gains.md) — a narrower finding that bears on this claim

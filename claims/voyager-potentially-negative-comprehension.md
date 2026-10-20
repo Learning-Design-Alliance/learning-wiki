@@ -45,3 +45,4 @@ One quasi-experimental study (Hecht, 2003; 213 kindergarten students in four low
 ## Related Claims
 - [Evidence extent for Voyager is moderate to large for alphabetics and small for comprehension, with no qualifying studies of fluency or general reading achievement](voyager-extent-of-evidence-by-domain.md) — related
 - [The WWC found Voyager Universal Literacy System® had potentially positive effects on alphabetics for kindergarten students](voyager-potentially-positive-alphabetics.md) — related
+- [The Frechtling, Zhang, and Silverstein (2006) study showed a substantively important positive average alphabetics effect, while Hecht (2003) did not](voyager-study-average-effect-sizes-differ.md) — related

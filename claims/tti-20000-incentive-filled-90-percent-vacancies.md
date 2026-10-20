@@ -53,3 +53,4 @@ Implementation findings from the seven-district TTI pilot report. The incentive 
 - [TTI did not increase test scores in middle schools](tti-no-middle-school-effects.md) — related
 - [Budget cuts reduced North Carolina's teaching force by 5 percent from 2009 to 2018 even as enrollment grew, with rural districts losing more than 20 percent of teachers in a single year and 1,621 unfilled vacancies in 2017-18](nc-teacher-workforce-cuts-vacancies-rural-turnover.md) — related
 - Michigan's teacher vacancy data are severely underreported, with nearly 90% of districts reporting zero vacancies in 2021-22 — related
+- [Most TTI teachers stayed on the job even after incentive payments ended](tti-teachers-retained-after-payments.md) — related

@@ -47,3 +47,7 @@ WWC synthesis of 1 study meeting standards with reservations (Greenleaf et al., 
 - [Reading Apprenticeship® shows uncertain effects on literacy achievement across five studies](reading-apprenticeship-uncertain-literacy-achievement.md) — related
 - [Reading Apprenticeship® shows uncertain effects on mathematics achievement, with one significant negative finding](reading-apprenticeship-uncertain-mathematics-achievement.md) — related
 - [Reading Apprenticeship® shows uncertain effects on social studies achievement in one study](reading-apprenticeship-uncertain-social-studies.md) — related
+- [Dual language programs showed uncertain effects on science achievement](dual-language-programs-uncertain-science-effects.md) — related
+- [Reading Apprenticeship® shows no effect on vocabulary (effect size 0.00)](reading-apprenticeship-no-vocabulary-effect.md) — related
+- [Reading Apprenticeship® has potentially positive effects on grade point average in core subjects, based on one qualifying study](reading-apprenticeship-potentially-positive-gpa.md) — related
+- [Attending Green Dot Public Schools produces statistically significant positive effects on high school mathematics achievement (potentially positive effects rating, small extent of evidence)](green-dot-positive-math-achievement.md) — related

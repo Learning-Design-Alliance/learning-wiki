@@ -60,3 +60,4 @@ The comparison is between two non-randomised cohorts, medical students in the or
 - [The two TBL formats show no significant differences in perceived team communication, contribution, or peer assistance](tbl-team-dynamics-no-format-differences.md) — related
 - [In both TBL formats, tRAT and iSAT scores significantly improve over preceding iRAT scores](tbl-trat-isat-improve-over-irat.md) — related
 - [Merely modifying teaching methods in medical and dental schools has limited merit for steering students' learning approaches; no one-size-fits-all teaching method exists](teaching-method-modification-limited-merit.md) — related
+- [In a Spring 2026 pilot (N=98), 52% of students reported lower stress during the AI-mediated Socratic Test than in traditional exams](socratic-test-pilot-lower-stress.md) — related

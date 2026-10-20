@@ -46,3 +46,4 @@ CP-model comparison of two-year versus five-year between-year growth Z-scores fo
 - [School contributions to within-year (single-year fall-to-spring) growth correlate at roughly .10 or below with school contributions to growth across elementary school (grades 2–6)](single-year-growth-decoupled-from-elementary-long-term-growth.md) — related
 - [School effectiveness estimates from fall-to-spring versus spring-to-spring growth correlate only moderately to strongly (.399 to .705), below the .90 threshold at which rank orderings diverge in accountability](within-between-year-effectiveness-correlations-below-090.md) — related
 - [Ignoring summer loss can impact which schools are identified as low performers under federal accountability](ignoring-summer-loss-impacts-low-performer-identification.md) — related
+- [Ignoring summer loss changes which schools are identified as low performers](ignoring-summer-loss-changes-low-performer-identification.md) — related

@@ -45,3 +45,4 @@ Student-level analysis of Oakland Unified School District comparing ELA growth f
 ## Related Claims
 - [Students in New Leaders-led Oakland schools show greater math achievement growth than other OUSD students (effect size 0.16)](new-leaders-oakland-math-growth-es-016.md) — related
 - [Attending a New Leaders-led school in Oakland has positive, statistically significant effects on student achievement](new-leaders-oakland-positive-significant-achievement-effects.md) — a broader claim this one bears on
+- [Graduates of partnership-based preparation programs showed above-average achievement gains and persistence in leadership roles](new-leaders-uic-program-outcome-evidence.md) — related

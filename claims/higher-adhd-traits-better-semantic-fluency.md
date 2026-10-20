@@ -64,3 +64,4 @@ Poisson regression on counts of immediate repetitions with ADHD score and perfor
 ## Related Claims
 - [Unmedicated children with ADHD aged 8-13 score higher than matched controls on TTCT-Figurative Fluency](adhd-children-higher-ttct-fluency.md) — related
 - [Higher ADHD scores predict an excess of long-distance jumps in visual search without any cost to visual search performance](visual-search-performance-unaffected-by-adhd-traits.md) — related
+- [Unmedicated children with ADHD score higher than controls on TTCT-Figurative Originality](adhd-children-higher-ttct-originality.md) — related

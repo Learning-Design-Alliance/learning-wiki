@@ -47,3 +47,5 @@ The program design, as described in the article, offered $20,000 to "high-perfor
 - [A $20,000 selective transfer incentive offers high-performing teachers in 10 districts payment to move into their district's hardest-to-staff schools](selective-transfer-incentive-20000-hard-to-staff-schools.md) — possibly the same claim (merge candidate)
 - [The paper examines high-performing teachers' willingness to transfer and the transfer offer's effect on receiving schools' internal dynamics](transfer-offer-effects-teacher-willingness-and-school-dynamics.md) — related
 - [Offering $20,000 per teacher filled 90 percent of targeted vacancies in hard-to-staff schools with high-performing teachers across seven districts](tti-20000-incentive-filled-90-percent-vacancies.md) — related
+- [Most TTI teachers stayed on the job even after incentive payments ended](tti-teachers-retained-after-payments.md) — related
+- [Most TTI teachers stayed on the job even after transfer payments ended](tti-teachers-stayed-after-payments-ended.md) — related

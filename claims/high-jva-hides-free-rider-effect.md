@@ -44,3 +44,4 @@ Qualitative case analysis of two dyads with high JVA levels drawn from the eye-t
 
 ## Related Claims
 - [Joint visual attention correlates with collaboration quality, but unbalanced visual participation is negatively correlated with learning gains](joint-visual-attention-correlates-collaboration-quality.md) — related
+- [Proactive feedback produces significant post-intervention increases in Joint Visual Attention of dyads](propact-feedback-increases-jva-post-intervention.md) — related

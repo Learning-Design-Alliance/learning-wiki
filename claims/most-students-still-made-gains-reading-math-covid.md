@@ -52,3 +52,4 @@ Descriptive finding from the fall 2020 MAP Growth analysis of nearly 4.4 million
 - [Projected fall 2020 reading gains for returning students are approximately 63 to 68% of a typical school year's learning gains](covid-closures-projected-reading-gains-63-68-percent.md) — related
 - [The report examines how school shutdowns impacted student achievement at the start of the 2020-21 school year](covid-shutdowns-impacted-fall-2020-achievement.md) — related
 - [COVID-19 closures left schools and districts serving 55.1 million students in an unprecedented time](covid-closures-55-1-million-students.md) — related
+- [Projected fall 2020 mathematics gains for returning students are approximately 37 to 50% of a typical school year's learning gains](covid-closures-projected-math-gains-37-50-percent.md) — related

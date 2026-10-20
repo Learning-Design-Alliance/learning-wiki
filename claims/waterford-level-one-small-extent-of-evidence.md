@@ -49,3 +49,4 @@ WWC extent-of-evidence categorization: one study, six centers, 19 classrooms/270
 - [The WWC rated Waterford Early Reading Program™ as having potentially positive effects on alphabetics, based on a substantively important average effect size with no statistically significant individual outcomes](werp-potentially-positive-alphabetics.md) — related
 - [Alphabetics improvement-index findings for Waterford Early Reading Program™ were inconsistent across outcomes, ranging from –26 to +37 percentile points](werp-alphabetics-effects-vary-by-outcome.md) — related
 - Waterford Upstart participation shows statistically significant positive effects on early literacy skills in matched quasi-experimental cohorts — related
+- [Waterford Early Reading Level One™ shows no discernible effects on preschool children's print knowledge](waterford-level-one-no-discernible-print-knowledge-effects.md) — related

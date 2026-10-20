@@ -69,3 +69,4 @@ The Results section reports conditional trust slopes from the need-for-cognition
 - [AI literacy negatively moderates the trust–appropriate reliance relationship, with the trust slope becoming more negative as AI literacy increases](ai-literacy-moderates-trust-reliance.md) — related
 - [Higher post-task trust in an AI assistant predicts lower appropriate reliance during AI-assisted programming problem-solving](higher-trust-lower-appropriate-reliance-ai-assistant.md) — related
 - [Programming self-efficacy and programming literacy did not significantly moderate the trust–appropriate reliance relationship](programming-measures-no-moderation.md) — related
+- [The trust–appropriate reliance relationship is non-linear, with the decline attenuating at higher trust and no reversal within the observed data](nonlinear-trust-reliance-no-optimal-trust.md) — related

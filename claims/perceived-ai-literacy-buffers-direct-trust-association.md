@@ -69,3 +69,4 @@ Simple slope analysis within the same Model 8 test: the negative direct effect w
 - [Perceived warmth and perceived competence partially mediate the negative association between GenAI use and interpersonal trust](warmth-competence-partially-mediate-genai-trust.md) — related
 - [AI literacy moderates the pathways from perceived AI-adaptive environments to academic emotions, attenuating negative emotional effects among students with higher AI literacy](ai-literacy-moderates-emotion-pathways.md) — related
 - [AI-related professional learning does not clearly moderate the within-teacher demand–AI allocation association](professional-learning-no-moderation-allocation-association.md) — related
+- [AI literacy negatively moderates the trust–appropriate reliance relationship, with the trust slope becoming more negative as AI literacy increases](ai-literacy-moderates-trust-reliance.md) — related

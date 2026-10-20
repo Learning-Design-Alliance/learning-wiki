@@ -44,3 +44,4 @@ Controlled experiment in which 27 student dyads (N=54) interacted with a Tangibl
 
 ## Related Claims
 - [Joint visual attention correlates with collaboration quality, but unbalanced visual participation is negatively correlated with learning gains](joint-visual-attention-correlates-collaboration-quality.md) — possibly the same claim (merge candidate)
+- [Proactive feedback produces significant post-intervention increases in Joint Visual Attention of dyads](propact-feedback-increases-jva-post-intervention.md) — related

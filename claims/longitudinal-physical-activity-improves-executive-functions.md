@@ -48,3 +48,6 @@ Meta-analysis pooling 12 longitudinal physical activity program studies in child
 - [Longitudinal physical activity programs have a positive effect on academic performance in preadolescent children (g = 0.26)](longitudinal-physical-activity-improves-academic-performance.md)
 - [Longitudinal physical activity programs show a positive effect on attention in preadolescent children (g = 0.90), based on a single study](longitudinal-physical-activity-improves-attention-single-study.md)
 - [The effects of physical activity on cognition and academic outcomes depend on the subdomain examined](physical-activity-effects-depend-on-subdomain.md) — a broader claim this one bears on
+- [A 9-month afterschool physical activity program improved cardiorespiratory fitness and the cognitive control of working memory, with ERP evidence of more effective cognitive control](kamijo-afterschool-fitness-working-memory.md) — related
+- [Physical exercise has a significant modest positive effect on functional outcomes (executive functions and motor skills) in children with ADHD](exercise-improves-adhd-functional-outcomes.md) — related
+- [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](classroom-physical-activity-improves-attention.md) — related

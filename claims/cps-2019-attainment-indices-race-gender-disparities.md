@@ -60,3 +60,4 @@ Table 1 takeaway from this descriptive report, disaggregating the DBDAI, BDAI, a
 - [The 2023 Post-secondary Attainment Index for CPS ninth-graders is 31%, up 0.4 percentage points from 2022](cps-2023-pai-31-percent.md) — related
 - [College enrollment gaps by race, gender, and socioeconomic background among CPS graduates were driven primarily by differences in four-year enrollment](cps-enrollment-gaps-driven-by-four-year-enrollment.md) — related
 - White students outcomplete Black students by at least 11 percentage points in every family income group at four-year institutions — related
+- [College completion among CPS 2017 immediate enrollees shows large disparities by race/ethnicity and gender, with fewer than one-third of Black and Latino young men completing a bachelor's degree](cps-2017-completion-disparities-race-gender.md) — related

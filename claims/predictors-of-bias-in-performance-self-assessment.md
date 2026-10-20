@@ -46,3 +46,4 @@ Hierarchical multiple regression (N = 425) predicting bias in self-assessed crea
 
 - [Higher narcissism and higher task motivation predict more positive bias in self-assessed idea creativity](narcissism-motivation-predict-idea-bias.md)
 - [Higher narcissism and task motivation predict more positive self-assessed idea creativity](narcissism-motivation-predict-idea-self-assessment.md)
+- [Higher divergent thinking, creative self-efficacy, creative self-concept, and task motivation predict more positive self-assessed creative performance](predictors-of-self-assessed-creative-performance.md) — related

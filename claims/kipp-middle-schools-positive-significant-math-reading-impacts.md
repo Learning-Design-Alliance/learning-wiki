@@ -67,3 +67,6 @@ First findings from a multi-year evaluation of the KIPP charter school network, 
 - [Students in single-discipline courses begin the year with higher achievement, roughly three or four points across subjects](single-discipline-students-higher-baseline.md) — related
 - [KIPP Atlanta middle school impacts on proficiency generally increase across grade levels](kipp-atlanta-impacts-increase-across-grades.md) — a narrower finding that bears on this claim
 - [KIPP Atlanta middle schools substantially improve student proficiency on Georgia statewide assessments](kipp-atlanta-middle-schools-improve-proficiency.md) — a narrower finding that bears on this claim
+- [KIPP high schools have positive, statistically significant, and educationally meaningful achievement impacts for students new to the KIPP network](kipp-high-school-impacts-new-entrants.md) — related
+- [KIPP high schools have positive, statistically significant achievement impacts for students new to the KIPP network, but not for students continuing from KIPP middle schools](kipp-high-school-impacts-new-entrants-not-continuing.md) — related
+- [KIPP charter schools have potentially positive effects on science achievement for middle and high school students](kipp-potentially-positive-science.md) — related

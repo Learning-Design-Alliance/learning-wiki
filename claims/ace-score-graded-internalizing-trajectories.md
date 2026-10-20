@@ -49,3 +49,4 @@ Linear mixed effects models on 8,571 MCS children tested ACE scores against log-
 - [Latent class analysis failed to discriminate ACE clusters in the Millennium Cohort Study data](lca-failed-discriminate-ace-clusters.md)
 - [ACE-outcome associations did not differ between girls and boys](no-gender-differences-ace-associations.md)
 - [Parental discord and parental depression show the strongest individual-ACE associations with internalizing behavior](parental-discord-depression-internalizing.md)
+- [Harsh parenting and physical punishment show the strongest individual-ACE associations with externalizing behavior](harsh-parenting-physical-punishment-externalizing.md) — related

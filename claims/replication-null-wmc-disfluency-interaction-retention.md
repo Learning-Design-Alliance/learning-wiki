@@ -45,3 +45,5 @@ Pre-registered supervised online replication experiment (final N = 96; fluent n 
 ## Related Claims
 
 - [The null effect of the disfluency × WMC interaction on transfer replicated the primary study's null finding, with both studies showing negative coefficients](transfer-null-interaction-replicated.md)
+- [Working memory capacity predicts comprehension performance only in the disfluency condition, with higher WMC yielding better comprehension](wmc-predicts-comprehension-only-disfluency-condition.md) — related
+- [Working memory capacity predicts retention performance only in the disfluency condition, with higher WMC yielding better retention](wmc-predicts-retention-only-disfluency-condition.md) — reports the opposite

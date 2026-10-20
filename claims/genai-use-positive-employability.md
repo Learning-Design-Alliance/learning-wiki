@@ -45,3 +45,5 @@ PLS-SEM structural path in the same survey of 412 Omani business students; the C
 - [GenAI dependence is negatively associated with both self-reported critical-thinking disposition and self-perceived employability](genai-dependence-negative-both-outcomes.md) — related
 - [GenAI dependence weakens the positive association between GenAI use and both student outcomes, attenuating it to statistical non-significance at high dependence](genai-dependence-moderates-use-outcome-links.md) — related
 - [Perceived employability negatively predicts career decision-making anxiety among Chinese college students](perceived-employability-negatively-predicts-career-anxiety.md) — related
+- [GenAI use is positively associated with self-reported critical-thinking disposition among business students only in the adjusted structural model, with a near-zero zero-order correlation](genai-use-adjusted-positive-ct-disposition.md) — related
+- [GenAI use is positively associated with GenAI dependence among business students](genai-use-positive-dependence.md) — related

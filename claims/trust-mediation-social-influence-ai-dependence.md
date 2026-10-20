@@ -52,3 +52,4 @@ Bias-corrected Bootstrap mediation testing in the SEM study (229 valid responses
 - [In the SEM, GenAI dependence is positively associated with critical thinking (β = 0.492), human–AI collaboration quality (β = 0.538), and research creativity (β = 0.064), with satisfactory model fit](sem-genai-dependence-positive-paths-creativity.md) — related
 - [Polychronicity moderates the relationships between effective AI use, AI over-reliance, and learning outcomes](polychronicity-moderates-ai-use-learning-relationships.md) — related
 - [Hedonic appeal, not trust, carries the indirect path from trace exposure to performance overestimation, consistent with a processing-fluency account](hedonic-appeal-mediates-overestimation.md) — related
+- [Trust in AI is positively associated with university students' dependence on GenAI](trust-in-ai-positively-associated-genai-dependence.md) — related

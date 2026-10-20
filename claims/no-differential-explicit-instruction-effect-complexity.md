@@ -47,3 +47,4 @@ In the same two-group artificial-language experiment, the hypothesis that explic
 - [No differential effect of explicit instruction depending on the variable morphology/syntax](no-differential-explicit-instruction-effect-morphology-syntax.md) — related
 - [Review synthesis: explicit teaching matters, but its advantage over other approaches varies by context and structure](explicit-instruction-context-dependent-synthesis.md) — reports the opposite
 - [Explicit grammar teaching outperforms implicit teaching; one review found the advantage only for complex rules, but a meta-analysis found it for simple rules too](explicit-teaching-complex-rules-only-advantage.md) — reports the opposite
+- [Implicit learners do not outperform other learners on complex second language rules](implicit-not-superior-complex-rules.md) — related

@@ -48,3 +48,4 @@ The NAEP 2019 national achievement-level results report that percentages at or a
 - [North Carolina achievement has declined since 2013 and the Black-White NAEP gap widened between 2015 and 2017 in both eighth grade mathematics and reading](nc-naep-declines-since-2013-black-white-gap-widened.md) — related
 - [Grade 8 mathematics scores in 2019 decreased at the 10th and 25th percentiles compared to 2017, while the average was 1 point higher than 2017 and 19 points higher than 1990](naep-2019-grade-8-math-lower-percentiles.md) — related
 - [Among the 27 participating TUDA districts, mathematics and reading scores were relatively stable since 2017, with most declines in grade 8 reading](naep-2019-tuda-stable-except-grade-8-reading.md) — related
+- [Grade 4 mathematics average scores in 2019 were 1 point higher than in 2017 and 27 points higher than in 1990, with increases at the 25th and 50th percentiles](naep-2019-grade-4-math-up-since-1990.md) — related

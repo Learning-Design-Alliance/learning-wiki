@@ -143,3 +143,6 @@ The review attributes this to Stahl (1999), a reading researcher, and notes Will
 - [Learning styles have been used in education for classifying students by their preferences for taking in, processing, and demonstrating information](learning-styles-classify-student-preferences.md) — related
 - The range of multiplatform activity types and multiple representations of NGSS-aligned concepts engaged students with different learning preferences and abilities — reports the opposite
 - [Cultural research found Australian Aborigines strong in spatial-visual processing and preferring informal learning strategies](aboriginal-spatial-visual-informal-learning.md) — related
+- [Accommodator learners gained significantly more in the VR (guided exploration) mode than in VR (non-guided exploration) or Non VR modes](accommodators-gain-most-vr-guided-exploration.md) — reports the opposite
+- [Assimilator learners gained significantly more in the VR (guided exploration) mode than in VR (non-guided exploration) or Non VR modes](assimilators-gain-most-vr-guided-exploration.md) — reports the opposite
+- [In the VR (guided exploration) mode, assimilator and accommodator learners did not differ significantly in gain score](guided-vr-no-learning-style-difference.md) — a narrower finding that bears on this claim

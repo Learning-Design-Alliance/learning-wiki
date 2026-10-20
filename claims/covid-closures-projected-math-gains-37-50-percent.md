@@ -65,3 +65,5 @@ Projection study using absenteeism-literature estimates and summer learning anal
 - [Pandemic-period gains from fall 2019 to fall 2021 fell short of pre-pandemic growth norms](pandemic-gains-fall-2019-fall-2021-below-norms.md) — a broader claim this one bears on
 - Thirty-seven percent of the Elevate Math program effect is attributable to avoidance of summer learning loss through the first half of the summer — related
 - The 2020 COVID-19 school closures caused a decrease in Flemish grade 6 school-average mathematics scores of roughly 0.19 standard deviations relative to previous cohorts — related
+- [In almost all grades, most students made some learning gains in both reading and math since the COVID-19 pandemic started](most-students-still-made-gains-reading-math-covid.md) — related
+- [Black, AIAN, and Latinx students made 55-68% of typical math gains and 73-86% of typical reading gains during the pandemic, while Asian American students made 88-100%](bipoc-fraction-of-typical-gains-pandemic.md) — related

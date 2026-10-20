@@ -46,3 +46,5 @@ The same Oklahoma difference-in-differences panel analysis reports that 4-day sc
 - [Four-day school weeks decrease per-pupil bullying incidents among high school students by approximately 39%](four-day-week-decreases-bullying-incidents.md) — related
 - [Four-day school weeks have no detectable effect on disciplinary incident types other than bullying and fighting](four-day-week-no-effect-other-incident-types.md) — related
 - [Four-day school weeks have no detectable effect on high school attendance](four-day-week-no-effect-attendance.md) — related
+- [School closures severed longstanding social connections, producing grief and us-vs-them dynamics, with increased student fights and bullying especially in the first transition year](closures-severed-connections-grief-us-them-dynamics.md) — reports the opposite
+- [Four-day school weeks have no detectable effect on high school students' ACT scores](four-day-week-no-effect-act-scores.md) — related

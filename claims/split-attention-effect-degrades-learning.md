@@ -161,3 +161,4 @@ Boundary conditions follow from the same mechanism. Integration benefits are lar
 - [Embedded explanatory notes improved Shakespearean text comprehension for novice readers but reversed for experts](expertise-reversal-shakespearean-explanatory-notes.md) — related
 - [Reduction of cognitive load can sometimes impair learning rather than enhance it](load-reduction-can-impair-learning.md) — reports the opposite
 - [Linkages between picture elements and interpretation statements are better recognized with an LDI integrated than an LDI separated audio structure](ldi-integrated-better-recognition-linkages.md) — a narrower finding that bears on this claim
+- [Time to first fixation of referred-to picture elements during interpretation phases is shorter with an LDI integrated than an LDI separated audio structure](ldi-integrated-faster-first-fixation.md) — a narrower finding that bears on this claim

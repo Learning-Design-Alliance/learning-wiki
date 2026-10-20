@@ -67,3 +67,4 @@ Interaction-log analysis in the same user study (Table 5) prints, for example, w
 - Students receiving Adaptive proactive hints based on HelpNeed predictions achieve significantly higher posttest optimality than Control students — related
 - [The relationship between scaffolding level and students' subsequent provide-context turns is not monotonic](provide-context-rate-nonmonotonic.md) — related
 - [No single control-timing paradigm dominates across subjective measures: eight of ten questionnaire items show no significant differences between paradigms](no-single-paradigm-dominates-subjective-ratings.md) — related
+- [Proactive feedback produces significant post-intervention increases in Joint Mental Effort of dyads](propact-feedback-increases-jme-post-intervention.md) — related

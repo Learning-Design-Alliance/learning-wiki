@@ -39,7 +39,7 @@ Based on the fading of the deep-prompt advantage at follow-up, the authors recom
 
 ## Related Strategies
 
-- [Self Regulated Learning](self-regulated-learning.md)
+- [Self Regulated Learning](self-regulated-learning-instruction.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ In the hierarchical regression models, "behavioral inattention was not uniquely 
 - [The mediating effects of executive functioning and attention problems did not significantly differ from each other on any first-grade outcome](mediators-not-significantly-different.md) — related
 - [Risk indices are positively inter-correlated, and cumulative risk correlates more strongly with outcomes than any single risk factor](cumulative-risk-correlates-stronger-than-single-risks.md) — related
 - [Kindergarten predictors correlate robustly with grade 1 math outcomes, weakest for computation](predictor-outcome-correlations-weakest-computation.md) — related
+- [Attention problems are associated with lower preliteracy and language scores in preschoolers, controlling for aggression and social skills](attention-problems-predict-poorer-emergent-academics.md) — related

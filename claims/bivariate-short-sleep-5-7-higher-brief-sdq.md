@@ -47,3 +47,4 @@ Bivariate analysis of Project Viva data (n=1046; Table 2). Children sleeping "< 
 - [Teacher-reported neurobehavioral outcomes at age 7 were consistent with maternal reports for insufficient sleep at ages 3-4 and 5-7 years](teacher-reports-consistent-with-maternal-reports-short-sleep.md) — related
 - [Infants who slept 11 to <12 hours/day had worse teacher-reported but not mother-reported neurobehavioral outcomes at age 7](infant-sleep-11-12-hours-teacher-only-association.md) — related
 - [Infants who slept <11 hours/day showed no association with mother- or teacher-reported neurobehavioral outcomes at age 7 after full adjustment](infant-sleep-under-11-hours-no-association.md) — related
+- [Children who slept <10 hours/day at ages 3-4 years had worse maternal-reported executive function and behavioral difficulties at age 7 than children with age-appropriate sleep](short-sleep-3-4-years-worse-maternal-neurobehavioral-age-7.md) — related

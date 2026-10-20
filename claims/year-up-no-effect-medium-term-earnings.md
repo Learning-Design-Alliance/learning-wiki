@@ -45,3 +45,7 @@ The WWC review of Roder & Elliott (2014), based on 135 students, rated medium-te
 - [Year Up may result in little to no change in medium-term employment](year-up-no-effect-medium-term-employment.md) — related
 - [Year Up may result in little to no change in short-term employment](year-up-no-effect-short-term-employment.md) — related
 - [Year Up is likely to increase short-term earnings for low-income young adults](year-up-positive-short-term-earnings.md) — related
+- [Project QUEST shows no discernible effects on short-term, medium-term, and long-term earnings](project-quest-no-earnings-effects.md) — related
+- [Project QUEST shows no discernible effects on short-term and medium-term employment](project-quest-no-employment-effects.md) — related
+- [I-BEST has positive effects on industry-recognized credential, certificate, or license completion (improvement index +18 across three studies)](ibest-positive-effects-credential-completion.md) — related
+- [Project QUEST may increase credit accumulation (improvement index +14, one study, 958 students)](project-quest-credit-accumulation.md) — related

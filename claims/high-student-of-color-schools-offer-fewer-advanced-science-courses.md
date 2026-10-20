@@ -52,3 +52,4 @@ Analysis of 2017-18 CRDC data on Chemistry and Physics offerings by school quint
 - [State-level disparities in advanced course access are large, with New York showing a 54-percentage-point Calculus gap between low- and high-student-of-color-enrollment schools](state-disparities-advanced-course-access-new-york.md) — a narrower finding that bears on this claim
 - Massachusetts high schools with majority-Black or majority-Latino enrollment are much less likely to offer any AP course than majority-White schools — related
 - Automatic (opt-out) enrollment policies increase enrollment and success of students of color and low-income students in advanced courses, per research the brief cites — related
+- [Washington State's automatic-enrollment academic acceleration policy is associated with more equitable advanced course offerings, reversing the typical gap](washington-automatic-enrollment-equity-course-access.md) — related

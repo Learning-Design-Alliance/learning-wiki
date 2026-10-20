@@ -49,3 +49,4 @@ WWC review of the Rolston et al. (2017) RCT of VIDA, an adaptation of the Projec
 - [Project QUEST is likely to increase industry-recognized credential, certificate, or license completion (improvement index +15, two studies, 1,301 students)](project-quest-positive-credential-completion.md) — related
 - [Project QUEST shows no discernible effects on short-term and medium-term employment](project-quest-no-employment-effects.md) — related
 - [Project QUEST shows no discernible effects on short-term, medium-term, and long-term earnings](project-quest-no-earnings-effects.md) — related
+- [Year Up may result in little to no change in medium-term earnings](year-up-no-effect-medium-term-earnings.md) — related

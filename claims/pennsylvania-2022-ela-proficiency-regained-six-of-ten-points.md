@@ -48,3 +48,4 @@ Key findings of a Mathematica research brief comparing 2022 statewide assessment
 - [Achievement disparities remained wider in spring 2022 than before the pandemic, and constant-gain trends imply recovery timelines extending past federal recovery-fund spending deadlines](disparities-wider-recovery-past-funding-deadlines.md) — related
 - [Students lost less ground over summer 2022 compared to pre-pandemic summer-loss trends](less-summer-loss-2022-than-pre-pandemic.md) — related
 - [Pandemic achievement gaps in math and reading continued to narrow from spring 2021 through fall 2022](pandemic-achievement-gaps-narrowed-spring-2021-fall-2022.md) — related
+- [Student achievement remained below typical-year levels in fall 2022, with full recovery projected several years away](achievement-below-typical-recovery-years-away.md) — a broader claim this one bears on

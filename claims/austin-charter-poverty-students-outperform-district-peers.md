@@ -50,3 +50,4 @@ Subgroup analysis comparing Austin charter and district students in poverty with
 - [Austin CMO-affiliated charters outperformed independent Austin charters in both subjects](austin-cmo-vs-independent-charter-growth.md) — related
 - [Fort Worth charter school students outgrew Fort Worth district school students in reading by a significant 38 days, with a non-significant 26-day math advantage](fort-worth-charter-beats-district-reading-growth.md) — related
 - [Students in poverty in Houston charter schools outperformed district-school students in poverty in both subjects](houston-poverty-charter-beats-district-both-subjects.md) — related
+- [Fort Worth charter school Hispanic students significantly outgrew Fort Worth district school Hispanic students in reading growth](fort-worth-hispanic-students-charter-advantage-reading.md) — related

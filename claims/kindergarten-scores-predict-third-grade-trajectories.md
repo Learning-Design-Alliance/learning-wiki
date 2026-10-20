@@ -47,3 +47,5 @@ The brief's own description states it examines Kindergarten test scores from "mo
 - [Neither promotion nor retention significantly closed the achievement gap of low-achieving students close to the cutoff, and the lowest achievers deteriorated further](retention-social-promotion-no-gap-closing.md) — related
 - Students chronically absent for multiple years between preschool and second grade have significantly lower second-grade reading outcomes, approaching the threshold for needing intensive reading intervention — related
 - [Rural students start kindergarten slightly ahead of nonrural students but fall behind by middle school](rural-students-start-ahead-fall-behind-middle-school.md) — related
+- [Universal screening data from a small sample of full-implementation schools show fall-to-spring benchmark gains in reading and most math grades, largest in kindergarten, but behavior data show losses and the data are inconclusive](kansas-mtss-screening-gains-small-sample-inconclusive.md) — related
+- [All three EL subgroups scored lower than never-ELs in math and reading throughout kindergarten to 4th grade](el-groups-lower-achievement-than-never-els-k4.md) — related

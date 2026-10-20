@@ -47,3 +47,4 @@ One-way ANCOVA on posttest instructional design performance with pretest as cova
 - [Unscaffolded GenAI access did not significantly change pre-service teachers' self-regulated learning relative to traditional learning](unscaffolded-genai-no-srl-change.md) — related
 - [Unscaffolded GenAI access produced no significant advantage in pre-service teachers' AI readiness compared with traditional learning](unscaffolded-genai-no-ai-readiness-advantage.md) — related
 - [Unscaffolded GenAI access was not associated with a significant difference in pre-service teachers' critical thinking relative to traditional learning](unscaffolded-genai-no-critical-thinking-difference.md) — related
+- [AI-supported PBL students obtain significantly higher posttest computational thinking scores than traditional-lecture students when controlling pretest scores](ai-pbl-higher-posttest-computational-thinking.md) — related

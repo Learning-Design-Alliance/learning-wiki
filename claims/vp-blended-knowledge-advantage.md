@@ -64,3 +64,5 @@ Random-effects meta-analysis of 5 studies comparing virtual patient blended lear
 - [Virtual patient blended learning shows a moderate but non-significant pooled skills effect versus traditional education alone (SMD=0.60, CI crossing zero)](vp-blended-skills-mixed.md) — related
 - [Virtual patients are as effective as traditional education for knowledge outcomes (pooled SMD=0.11)](vp-traditional-knowledge-no-difference.md) — related
 - [Virtual patients more effectively improve skills than traditional education (pooled SMD=0.90)](vp-traditional-skills-advantage.md) — related
+- [In the few trials comparing them, virtual patients showed no significant knowledge differences versus other digital education, and skills differences in only one of three studies](vp-vs-other-digital-no-difference.md) — related
+- [Virtual patients show larger advantages over passive traditional learning (lectures, reading) than over active learning](vp-passive-versus-active-comparison.md) — related

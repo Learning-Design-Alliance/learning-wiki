@@ -53,3 +53,5 @@ Narrative review of Lehmann et al. (2015), an aptitude-treatment-interaction stu
 - [Prior knowledge and working memory capacity did not moderate the worked example effect](no-prior-knowledge-wmc-moderation-worked-examples.md) — related
 - [Evidence on working memory capacity as a moderator of the interleaving effect is mixed, but WM does not appear to be a major barrier to classroom use](working-memory-mixed-moderator-interleaving.md) — related
 - [The null effect of the disfluency × WMC interaction on transfer replicated the primary study's null finding, with both studies showing negative coefficients](transfer-null-interaction-replicated.md)
+- [Working memory capacity predicts comprehension performance only in the disfluency condition, with higher WMC yielding better comprehension](wmc-predicts-comprehension-only-disfluency-condition.md) — related
+- [Working memory capacity predicts retention performance only in the disfluency condition, with higher WMC yielding better retention](wmc-predicts-retention-only-disfluency-condition.md) — related

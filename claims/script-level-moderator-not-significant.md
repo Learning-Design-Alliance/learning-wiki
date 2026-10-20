@@ -65,3 +65,6 @@ Moderator analysis for collaboration skills across script levels (play d = 0.62,
 - [The degree of additional content-related support does not significantly moderate CSCL script effects on either outcome](content-support-moderator-not-significant.md) — related
 - [Whether a CSCL script prompts transactive activities does not significantly moderate its effects on domain-specific knowledge or collaboration skills](transactivity-moderator-not-significant.md) — related
 - [Subject discipline significantly moderates CSCL script effects on collaboration skills, while study duration and measurement level do not significantly moderate effects](further-moderators-discipline-duration-measurement-level.md) — related
+- [Learning with CSCL scripts yields a large positive effect on collaboration skills compared to unstructured CSCL](cscl-scripts-large-effect-collaboration-skills.md) — related
+- [Measuring outcomes at the individual versus group level did not significantly moderate CSCL script effects](measurement-level-moderator-not-significant.md) — related
+- [The effectiveness of CSCL scripts for domain learning does not significantly depend on the number of different collaborative activities prompted](cscl-effectiveness-independent-of-number-of-activity-prompts.md) — related

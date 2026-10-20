@@ -48,3 +48,4 @@ In the Inefficient first condition generalized mixed effects model, "younger chi
 ## Related Claims
 - [Age significantly moderates MBI effects on executive functions across all RCTs (larger benefits with older age) and on negative behaviour in active-control RCTs (larger benefits with younger age)](age-moderates-mbi-outcomes.md) — related
 - [Peer-assisted learning interventions improve achievement for elementary students](peer-assisted-learning-improves-achievement.md) — related
+- [Children who first learned the efficient method switched to the observed inefficient method](children-switch-efficient-to-inefficient-method.md) — related

@@ -48,3 +48,5 @@ WWC synthesis of two single-case design studies (Lynne et al., 2017; Rodriguez, 
 - [Good Behavior Game improves student writing conventions and writing productivity in one single-case study](gbg-improves-writing-outcomes.md) — related
 - [Good Behavior Game shows uncertain effects on intrapersonal competencies, with a pooled effect size of 0.14 that is not statistically significant](gbg-uncertain-intrapersonal-effects.md) — related
 - [Good Behavior Game shows uncertain effects on school climate in after-school programs, with a pooled effect size of 0.15 that is not statistically significant](gbg-uncertain-school-climate-effects.md) — related
+- [Good Behavior Game shows uncertain effects on literacy achievement, with a pooled effect size of 0.07 that is not statistically significant](gbg-uncertain-literacy-effects.md) — related
+- [Good Behavior Game shows uncertain effects on mathematics achievement, with an effect size of 0.26 that is not statistically significant](gbg-uncertain-math-effects.md) — related

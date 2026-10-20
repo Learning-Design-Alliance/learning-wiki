@@ -86,3 +86,5 @@ Follow-up pairwise comparison for math measures in the same sample: the attentio
 - [Attention does not differentially predict broad math versus broad ELA scores](attention-equally-predictive-broad-math-and-ela.md) — related
 - [Attention more strongly predicts targeted math than targeted reading at a trend level](attention-more-predictive-targeted-math-than-reading-trend.md) — related
 - [Sustained attention positively predicts broad statewide standardized test scores in math and ELA](sustained-attention-predicts-broad-standardized-test-scores.md) — related
+- [Sustained attention positively predicts math fluency assessed in group-based school settings](sustained-attention-predicts-school-based-math-fluency.md) — related
+- [Sustained attention positively predicts reading comprehension assessed in group-based school settings](sustained-attention-predicts-school-based-reading-comprehension.md) — related

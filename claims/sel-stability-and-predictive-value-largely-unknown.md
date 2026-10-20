@@ -51,3 +51,4 @@ The article's statement of the research gap motivating the study: it reports tha
 - [Understanding how a student develops social-emotionally over intermediate school can improve identification of students not on track to succeed in high school](sel-trajectories-improve-off-track-identification.md) — related
 - [Growth in self-management between 6th and 8th grade predicts being off track academically in 9th grade above and beyond 6th-grade self-management status](self-management-growth-predicts-off-track-beyond-status.md) — related
 - [Self-management status and growth across middle school predict lower odds of having a GPA below a C and of being suspended in 9th grade, but not chronic absenteeism](self-management-status-growth-predict-off-track-9th-grade.md) — related
+- [Growth in self-management predicts 9th-grade off-track status above and beyond 6th-grade status on that construct](self-management-growth-predictive-beyond-status.md) — related

@@ -52,3 +52,4 @@ ANCOVA comparing group means controlling for prior knowledge in a randomized exp
 - [Higher extraneous cognitive load predicted lower post-test scores after controlling for prior knowledge](extraneous-load-predicts-lower-post-test.md) — related
 - [ChatGPT users showed a non-significant trend toward worse overall informal learning outcomes than Google Search users over 8 days](chatgpt-worse-informal-learning-outcome-trend.md) — related
 - [ChatGPT users differentiated information less (never by credibility) and rarely verified information compared to Google users](chatgpt-reduced-differentiation-verification.md) — related
+- [Germane cognitive load fully mediates the effect of information-search tool on justification quality (exploratory analysis)](germane-load-mediates-tool-effect-on-justification-quality.md) — related

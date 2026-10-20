@@ -47,3 +47,4 @@ Fine-grained analysis of symbolic success rates across the three labeled difficu
 - [Editing questions according to a hypothesis shifts measured difficulty in the expected direction](hypothesis-guided-editing-shifts-difficulty-causally.md) — related
 - [Across frontier LLMs, Counseling is the easiest educational activity center (average 8.78) while Assessment and Research are hardest (8.42), and performance degrades from Easy to Hard difficulty](center-difficulty-difficulty-degradation-llms.md) — related
 - [Task difficulty increases hesitations, with significantly more hesitations on Medium and Hard tasks than Easy tasks](task-difficulty-increases-hesitations-scratch-videos.md) — related
+- [Task difficulty increases error counts, with significantly more errors on Medium and Hard tasks than Easy tasks](task-difficulty-increases-errors-scratch-videos.md) — related

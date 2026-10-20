@@ -52,3 +52,4 @@ Review synthesis of Ford et al.'s (2023) UK mixed-methods realist evaluation (n 
 - [Infrastructure inequities — chronic bandwidth limitations, power outages, and device incompatibility — severely disrupt proctored assessments and exacerbate educational disadvantages in low-resource settings](infrastructure-inequities-disrupt-proctored-assessments.md) — related
 - [Remote proctoring is perceived as an effective deterrent against cheating in nursing assessments, with 98–100% of graduate NP students agreeing webcam proctoring and lockdown browsers deterred cheating](remote-proctoring-perceived-deterrent-nursing.md) — related
 - [Remote proctoring supported assessment continuity and uninterrupted student progression during institutional closures](remote-proctoring-supported-continuity-closures.md) — related
+- [Proctored online exams show no effect on students' perceived exam difficulty](proctoring-no-effect-exam-difficulty.md) — related

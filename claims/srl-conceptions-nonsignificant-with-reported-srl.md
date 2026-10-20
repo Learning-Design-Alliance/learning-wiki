@@ -44,3 +44,4 @@ SEM path analysis (N = 98); the path from conceptions of self-regulated learning
 
 ## Related Claims
 - [Conceptions of knowledge construction showed no significant relationships with students' reported regulation strategies](knowledge-construction-conceptions-no-regulation-relationships.md) — related
+- [Structural relations exist between students' conceptions of constructivist learning and their regulation and processing strategies](conceptions-constructivist-learning-relate-to-regulation-processing.md) — related

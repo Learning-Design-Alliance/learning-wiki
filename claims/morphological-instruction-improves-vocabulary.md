@@ -87,3 +87,4 @@ Systematic review of 22 peer-reviewed studies of morphological intervention with
 - Morphology+ showed larger positive effects in the informational text (+0.17) and vocabulary (+0.18) subdomains than the overall reading effect — related
 - One year of STARI significantly improves word recognition, basic reading comprehension efficiency, and morphological awareness in struggling middle school readers — related
 - [Word study intervention shows a moderate overall effect on word reading and comprehension for older struggling readers](word-study-moderate-effect-older-readers.md) — related
+- [Explicit morphology instruction raises EFL secondary students' reading comprehension more than regular EFL instruction alone](emi-raises-efl-reading-comprehension.md) — reports the opposite

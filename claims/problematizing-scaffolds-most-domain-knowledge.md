@@ -43,4 +43,4 @@ The editorial summarizes the Molenaar, Chiu, Sleegers, and van Boxtel controlled
 
 
 ## Related Claims
--
+- [Problematizing scaffolds produced a small significant positive effect on transfer of individual domain knowledge compared to structuring scaffolds](problematizing-scaffolds-transfer-effect.md) — related

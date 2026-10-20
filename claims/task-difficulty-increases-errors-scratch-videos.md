@@ -45,3 +45,5 @@ Poisson GLMM analysis of error counts from the within-subjects study (N=162 obse
 ## Related Claims
 - [Easy tasks showed a floor effect across all participants and were excluded from hypothesis testing](easy-task-floor-effect-excluded.md) — related
 - [Task difficulty increases hesitations, with significantly more hesitations on Medium and Hard tasks than Easy tasks](task-difficulty-increases-hesitations-scratch-videos.md) — related
+- [Success rates decrease monotonically from easy to medium to hard difficulty levels across all models](monotonic-difficulty-decline-turtleai.md) — related
+- [Task difficulty (easy vs difficult simultaneous-equation problems) has significant main effects on intrinsic and extraneous cognitive load, but not on germane load](task-difficulty-raises-intrinsic-and-extraneous-but-not-germane-load-in-algebra.md) — related

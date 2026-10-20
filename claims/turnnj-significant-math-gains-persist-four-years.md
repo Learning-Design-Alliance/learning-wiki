@@ -47,3 +47,4 @@ Quasi-experimental evaluation using propensity score matching to compare TurnNJ 
 ## Related Claims
 - [Enrollment in a TurnNJ school produced positive, statistically significant ELA achievement gains persisting up to four years, equal to an additional 1.9 years of learning after one year](turnnj-significant-ela-gains-persist-four-years.md) — related
 - [The Uncommon Schools whole-school model, typically built from the earliest grades in new schools, produced substantial positive achievement effects when applied in a turnaround setting](uncommon-model-effective-turnaround-setting.md) — related
+- [NYC charter middle schools affiliated with Achievement First and Uncommon show statistically significant math gains after three years, equal to an estimated additional 0.9 years of growth](af-uncommon-nyc-charter-middle-math-impact-09-years.md) — related

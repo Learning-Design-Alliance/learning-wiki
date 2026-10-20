@@ -45,3 +45,4 @@ Linear mixed model covariate analysis of reaction times in the Posner cue task (
 - [The RT propensity–learning relationship is strongest early in the class session and attenuates later](rt-learning-relationship-strongest-early-session.md) — related
 - [Higher cardiorespiratory fitness is associated with faster reaction times for stimuli following valid cues in healthy male high-school students](vo2max-associated-faster-rt-valid-cue.md) — related
 - [Cardiorespiratory fitness is not associated with reaction times for uncued stimuli in healthy male high-school students](vo2max-not-associated-rt-no-cue.md) — related
+- [Higher cardiorespiratory fitness is associated with faster reaction times for stimuli following invalid cues in healthy male high-school students](vo2max-associated-faster-rt-invalid-cue.md) — related

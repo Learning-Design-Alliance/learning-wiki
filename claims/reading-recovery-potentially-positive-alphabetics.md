@@ -67,3 +67,10 @@ The effectiveness summary reports that across phonemic awareness, letter knowled
 - [Phonemic awareness effects of Reading Recovery were positive and substantively important but not statistically significant in one trial](reading-recovery-phonemic-awareness-null-significance.md) — related
 - [Reading Recovery has potentially positive effects on comprehension, with mixed findings across two trials](reading-recovery-potentially-positive-comprehension.md) — related
 - [Reading Recovery has potentially positive effects on reading fluency, from a single randomized trial](reading-recovery-potentially-positive-reading-fluency.md) — related
+- [SpellRead™ shows potentially positive effects on alphabetics for adolescent readers, with an average improvement index of +23 across two studies](spellread-potentially-positive-alphabetics.md) — related
+- [SpellRead™ shows potentially positive effects on reading fluency for adolescent readers, with an average improvement index of +14](spellread-potentially-positive-reading-fluency.md) — related
+- [In the Rashotte, MacPhee, and Torgesen (2001) RCT, SpellRead™ produced statistically significant positive effects on alphabetics and reading fluency for fifth- and sixth-grade struggling readers after eight weeks](rashotte-2001-spellread-significant-gains.md) — related
+- [SpellRead™ has potentially positive effects on reading fluency, with an average improvement index of +9 percentile points](spellread-potentially-positive-fluency.md) — related
+- [Sound Partners tutoring has positive effects on the alphabetics of beginning readers in grades K–3](sound-partners-positive-effects-alphabetics.md) — related
+- [The WWC rates PALS as having potentially positive effects on alphabetics, no discernible effects on fluency, and mixed effects on comprehension for beginning readers](pals-wwc-effectiveness-ratings-three-domains.md) — related
+- [LiPS has mixed effects on alphabetics for beginning readers: positive and statistically significant in one trial, negative and substantively important (but not significant) in another](lips-mixed-alphabetics-effects.md) — related

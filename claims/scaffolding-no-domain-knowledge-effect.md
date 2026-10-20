@@ -43,4 +43,4 @@ Planned comparisons of the control group against both scaffolding conditions on 
 
 
 ## Related Claims
--
+- [Problematizing scaffolds produced a small significant positive effect on transfer of individual domain knowledge compared to structuring scaffolds](problematizing-scaffolds-transfer-effect.md) — reports the opposite

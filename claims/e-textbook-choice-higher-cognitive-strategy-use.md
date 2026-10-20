@@ -43,4 +43,5 @@ Causal-comparative study of 538 undergraduates, masters, and doctoral students w
 
 
 ## Related Claims
+- [University students who choose e-textbooks report greater self-regulation of learning than students who choose print textbooks](e-textbook-choice-higher-self-regulation.md) — related
 - [Textbook format choice produces a significant multivariate difference in university students' motivation and self-regulated learning scores](textbook-format-manova-omnibus-difference.md) — a broader claim this one bears on

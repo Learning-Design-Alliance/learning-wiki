@@ -61,3 +61,4 @@ ANCOVA controlling for processing speed in the same sample. Picture 2-back error
 
 - [Children with developmental dyslexia show a significant updating impairment at the error z-mean composite level, which remains after controlling for processing speed](dyslexia-updating-error-composite-impairment.md)
 - [An apparent switching advantage in dyslexia (lower switching reaction-time cost) disappears after controlling for processing speed](dyslexia-switching-advantage-disappears-speed-control.md)
+- [Children with developmental dyslexia show a significant inhibition impairment at the error z-mean composite level, which remains after controlling for processing speed](dyslexia-inhibition-error-composite-impairment.md) — reports the opposite

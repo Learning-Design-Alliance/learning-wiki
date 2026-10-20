@@ -3,40 +3,6 @@
   "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
   "findings": [
     {
-      "hub": "contingency-reinforcement-raises-achievement",
-      "question": "Does reinforcing a target behaviour with rewards, praise or planned consequences raise learners' performance?",
-      "members": [
-        [
-          "behaviorist-reinforcement-effective-positive-behavior",
-          "+"
-        ],
-        [
-          "praise-positive-criticism-negative-learning",
-          "+"
-        ],
-        [
-          "fi-time-series-field-studies-all-positive",
-          "+"
-        ],
-        [
-          "behavioral-skills-training-mastery-lockdown-steps",
-          "+"
-        ],
-        [
-          "concrete-reward-increases-mean-ideational-fluency",
-          "+"
-        ],
-        [
-          "reward-effects-hold-across-individual-tasks",
-          "+"
-        ],
-        [
-          "good-idea-reward-no-incentive-effect",
-          "~"
-        ]
-      ]
-    },
-    {
       "hub": "rewards-undermine-intrinsic-motivation",
       "question": "Do rewards and praise undermine voluntary engagement?",
       "members": [

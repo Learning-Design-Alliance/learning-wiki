@@ -64,3 +64,5 @@ Respondent-perception findings from interviews and site visits across grantee si
 - [The coordinated school health approach saw scattered US adoption, hindered by pressures on administrators and lack of integration into School Improvement Plans](csh-scattered-adoption-barriers.md) — related
 - [Most respondents found grant training useful, applied the information in their school, and shared it with others](grant-training-useful-applied-shared.md)
 - [Early implementation of the Kauffman Campuses grants was documented through a cross-site analysis of 2005 site visits and a spring 2006 faculty survey](kauffman-campuses-early-implementation-cross-site-analysis.md) — related
+- [Several collaboration activities show promise in spreading effective practices, but overall progress in increasing collaboration has been limited](collaboration-progress-limited-despite-promise.md) — related
+- [Several collaboration activities show promise in spreading effective practices across schools and staff, but overall progress in increasing collaboration has been limited](district-charter-collaboration-progress-limited-despite-promising-activities.md) — related

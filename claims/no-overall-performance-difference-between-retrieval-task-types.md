@@ -43,4 +43,4 @@ Analysis of overall delayed posttest performance in the 54-participant within-su
 
 
 ## Related Claims
--
+- [Targeted retrieval via specific short-answer tasks improves retention of directly targeted information more than holistic retrieval via free-recall tasks](targeted-retrieval-improves-targeted-information-retention.md) — related

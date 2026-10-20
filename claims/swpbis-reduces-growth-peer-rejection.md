@@ -47,3 +47,6 @@ Same group randomized trial; three-level HLM of teacher TOCA-C rejection ratings
 
 - [SWPBIS produces a very small reduction in teacher-rated aggressive and disruptive behavior among elementary school children over 4 years (ES = 0.12)](swpbis-reduces-disruptive-behavior.md) — the general claim this finding bears on, with the studies behind it
 -
+- [Teacher-rated bullying and peer rejection rose over four years of elementary school in both SWPBIS and comparison schools](bullying-rejection-increase-approaching-middle-school.md) — related
+- [Sex and special education status did not significantly moderate SWPBIS effects on teacher-rated bullying and peer rejection](swpbis-main-effects-robust-across-demographics.md) — related
+- [SWPBIS effects on peer rejection appeared strongest for children first exposed in earlier grades, the one significant grade-cohort interaction among those tested](swpbis-earlier-exposure-stronger-rejection-effect.md) — a narrower finding that bears on this claim

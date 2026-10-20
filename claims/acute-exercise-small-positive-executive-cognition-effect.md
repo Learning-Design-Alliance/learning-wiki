@@ -54,3 +54,5 @@ Narrative review synthesis of narrative and meta-analytic reviews of acute exerc
 - [A 10-minute bout of moderate-intensity exercise improves Stroop inhibitory control with increased left dorsolateral prefrontal activation in young adults](moderate-exercise-stroop-dlpfc-activation.md) — a narrower finding that bears on this claim
 - [Adults with ADHD who frequently engage in physical exercise report healthier psychological well-being than those who do not](physical-activity-correlates-wellbeing-adults-adhd.md) — related
 - [The effects of physical activity on cognition and academic outcomes depend on the subdomain examined](physical-activity-effects-depend-on-subdomain.md) — related
+- [Acute exercise significantly improves cognitive flexibility in children and adolescents with a small effect size (SMD = −0.34)](acute-exercise-improves-cognitive-flexibility-children.md) — a narrower finding that bears on this claim
+- [Acute exercise significantly improves inhibitory control in children and adolescents with a small effect size (SMD = −0.25)](acute-exercise-improves-inhibitory-control-children.md) — a narrower finding that bears on this claim

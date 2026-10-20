@@ -45,3 +45,6 @@ Random-effects meta-analysis of 41 collaboration-skill effects (23 independent) 
 ## Related Claims
 
 - [The editorial reports that a meta-analysis of 53 primary studies found CSCL collaboration scripts had a non-significant positive effect on motivation, countering criticism that scripts harm motivation](cscl-scripts-motivation-non-significant-meta-analysis.md)
+- [Learning with CSCL scripts yields a large positive effect on collaboration skills compared to unstructured CSCL](cscl-scripts-large-effect-collaboration-skills.md) — related
+- [CSCL collaboration scripts substantially improve domain-specific and collaborative-skill outcomes compared with unstructured CSCL](cscl-scripts-improve-learning-outcomes.md) — a broader claim this one bears on
+- [CSCL scripts have a small significant positive effect on domain learning compared to unstructured collaborative learning](cscl-scripts-small-positive-domain-learning-effect.md) — related

@@ -45,3 +45,5 @@ The review's alphabetics rating statement: both qualifying studies (Fitzgerald &
 ## Related Claims
 - [READ 180® has potentially positive effects on reading fluency for adolescent readers](read-180-potentially-positive-reading-fluency.md) — related
 - [READ 180® has positive effects on general literacy achievement for adolescent readers](read-180-positive-effects-general-literacy.md) — related
+- [Fast ForWord has no discernible effects on alphabetics and general literacy achievement and potentially positive effects on reading fluency and comprehension for adolescent learners](fast-forword-no-discernible-effects-alphabetics-general-literacy.md) — related
+- [The extent of evidence for Fast ForWord is small for alphabetics and reading fluency and medium to large for comprehension and general literacy achievement](fast-forword-extent-of-evidence-ratings.md) — related

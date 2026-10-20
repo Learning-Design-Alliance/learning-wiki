@@ -47,3 +47,5 @@ The brief's description reports that it shows "how ignoring summer loss can impa
 - [Seasonality affects estimates of school effectiveness](seasonality-affects-school-effectiveness-estimates.md) — a broader claim this one bears on
 - [Dually-identified EL/SPED students had the lowest scores with gaps widening over time, driven by larger summer loss](dually-identified-lowest-scores-widening-gaps.md) — related
 - [Summer learning loss estimates changed significantly under filtering but not effort-moderated scoring](rapid-guessing-summer-learning-loss-estimates.md) — related
+- [School growth estimates based on two years of data correlate around .55–.58 with estimates based on all five elementary years, below the .90 threshold at which ESSA accountability determinations would likely change](two-year-vs-five-year-growth-school-rankings-differ.md) — related
+- [School effectiveness estimates from fall-to-spring versus spring-to-spring growth correlate only moderately to strongly (.399 to .705), below the .90 threshold at which rank orderings diverge in accountability](within-between-year-effectiveness-correlations-below-090.md) — related

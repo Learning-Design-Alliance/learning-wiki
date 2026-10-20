@@ -53,3 +53,4 @@ Observational analysis of MAP Growth scores (fall, winter, spring) for a kinderg
 - [ELs lost more academic skill during summers than never-ELs in both math and reading](el-greater-summer-loss-both-subjects.md) — related
 - [All three English Learner groups had lower K-4 test scores than never-ELs](el-groups-lower-k4-achievement-never-els.md) — possibly the same claim (merge candidate)
 - [The study distinguishes three EL service-history groups with distinct achievement and growth profiles](three-el-service-history-groups.md) — related
+- [Kindergarten test scores show patterns that can predict academic success or identify students at risk of falling further behind by third grade](kindergarten-scores-predict-third-grade-trajectories.md) — related

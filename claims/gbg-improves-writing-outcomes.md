@@ -67,3 +67,5 @@ The same single-case study (Fallon et al., 2020) measured total words written; t
 - [The Pathway to Academic Success Project has potentially positive effects on writing conventions for English learners in grades 6-12](pathway-project-potentially-positive-writing-conventions.md) — related
 - [Good Behavior Game improves teacher practice related to student behavior, with a pooled effect size of 0.79 across two studies](gbg-improves-teacher-practice.md) — related
 - [Good Behavior Game shows uncertain effects on mathematics achievement, with an effect size of 0.26 that is not statistically significant](gbg-uncertain-math-effects.md) — related
+- [Good Behavior Game shows uncertain effects on literacy achievement, with a pooled effect size of 0.07 that is not statistically significant](gbg-uncertain-literacy-effects.md) — related
+- [Good Behavior Game shows uncertain effects on school climate in after-school programs, with a pooled effect size of 0.15 that is not statistically significant](gbg-uncertain-school-climate-effects.md) — related

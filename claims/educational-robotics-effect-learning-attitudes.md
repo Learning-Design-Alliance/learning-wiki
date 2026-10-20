@@ -46,3 +46,4 @@ Multilevel meta-analysis of the learning-attitude outcome (motivation, interest,
 - [Educational robotics has a moderate-to-large effect on students' STEM learning performance](educational-robotics-effect-learning-performance.md) — related
 - [Educational robotics has a moderate positive overall effect on K-16 students' STEM learning compared to non-robotics instruction](educational-robotics-moderate-overall-effect-stem-learning.md) — related
 - [AI applications in STEM education foster positive affective perception, including attitude, interest, and motivation](ai-stem-positive-affective-perception-effects.md) — a broader claim this one bears on
+- [Discipline significantly moderates the effects of educational robotics on STEM learning, with larger effects in technology and cross-disciplinary contexts than in science and mathematics](discipline-moderates-robotics-stem-effects.md) — related

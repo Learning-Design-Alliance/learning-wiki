@@ -23,24 +23,6 @@
           "+"
         ]
       ]
-    },
-    {
-      "hub": "large-type-m-errors-significance-filter-education",
-      "question": "Does a significance verdict alone give a reliable reading of an intervention's effect in education studies?",
-      "members": [
-        [
-          "cwpt-ctbs-effect-significance-discrepancy",
-          "+"
-        ],
-        [
-          "wwc-corrections-eliminate-author-reported-significance",
-          "+"
-        ],
-        [
-          "publication-bias-reduces-intercept-no-transfer-without-moderators",
-          "+"
-        ]
-      ]
     }
   ]
 }

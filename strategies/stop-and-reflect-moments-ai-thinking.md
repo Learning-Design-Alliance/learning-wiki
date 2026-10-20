@@ -41,9 +41,8 @@ The guide recommends, in both its agency and metacognition sections, to "Build i
 - [Require students to justify how they used AI output: what they accepted, rejected, revised, or verified, and why](require-justification-of-ai-output-use.md)
 - [Metacognitive Reflection Prompts](metacognitive_reflection_prompts.md)
 - [Guide Student Reflection](guide_student_reflection.md)
-- [Metacognitive Journaling](metacognitive_journaling.md)
+- [Metacognitive Journaling](journaling_for_metacognitive_awareness.md)
 - [Discussions to Guide Reflection](discussions_to_guide_reflection.md)
-- [Journaling for Metacognitive Awareness](journaling_for_metacognitive_awareness.md)
 - [Support learners to evaluate AI outputs by verifying sources, reporting errors, and overriding recommendations](evaluate-ai-outputs-verify-override.md)
 - [Use shared metacognition as the routine practice for educators and learners to critically evaluate AI-generated outputs](shared-metacognition-practice-for-ai-outputs.md)
 

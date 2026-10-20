@@ -48,3 +48,5 @@ Subgroup analysis benchmarking Fort Worth Black students' 2018-19 growth to the 
 - [Fort Worth CMO-affiliated charter schools significantly outperformed independent charter schools in reading growth, while independent charters lagged the state](fort-worth-cmo-outperforms-independent-charters.md) — related
 - [Fort Worth charter school ELL students significantly outgrew district-school ELL students in reading growth](fort-worth-ell-students-charter-advantage-reading.md) — related
 - [Fort Worth charter school male students significantly outgrew district-school male students in reading, while female students showed no significant sector difference](fort-worth-gender-subgroups-charter-district-growth.md) — related
+- [Fort Worth charter school Hispanic students significantly outgrew Fort Worth district school Hispanic students in reading growth](fort-worth-hispanic-students-charter-advantage-reading.md) — related
+- [Fort Worth charter school students in poverty significantly outgrew district-school students in poverty in reading growth](fort-worth-poverty-students-charter-advantage-reading.md) — related
